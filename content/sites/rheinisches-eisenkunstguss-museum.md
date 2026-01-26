@@ -4,19 +4,18 @@ site_name: "Rheinisches Eisenkunstguss-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bendorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bendorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2147828"
 latitude: 50.4384
 longitude: 7.57722
 images:
-  []
----
+  []---
 
 ## Overview
 

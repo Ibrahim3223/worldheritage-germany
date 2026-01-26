@@ -4,13 +4,13 @@ site_name: "Silberwäsche"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Breitenbrunn/Erzgebirge"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Breitenbrunn/Erzgebirge"
+  - "Bavaria"
 wikidata_id: "Q1552368"
 latitude: 50.5048
 longitude: 12.7561
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/400px-Silberwäsche_2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/800px-Silberwäsche_2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/1200px-Silberwäsche_2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/1920px-Silberwäsche_2007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/1920px-Silberwäsche_2007.jpg---
 
 ## Overview
 

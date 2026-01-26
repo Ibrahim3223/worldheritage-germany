@@ -4,19 +4,18 @@ site_name: "Fuchslabyrinth"
 date: 2026-01-26
 draft: false
 description: "Höhle in Deutschland"
-region: "Landkreis Schwäbisch Hall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Landkreis Schwäbisch Hall"
+  - "Baden-Württemberg"
 wikidata_id: "Q1472615"
 latitude: 49.3297
 longitude: 10.0278
 images:
-  []
----
+  []---
 
 ## Overview
 

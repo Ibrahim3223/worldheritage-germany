@@ -4,13 +4,13 @@ site_name: "Moritzmonument, Dresden"
 date: 2026-01-26
 draft: false
 description: "monument in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1407960"
 latitude: 51.0533
 longitude: 13.746
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/400px-Moritzdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/800px-Moritzdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/1200px-Moritzdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/1920px-Moritzdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/1920px-Moritzdenkmal.jpg---
 
 ## Overview
 

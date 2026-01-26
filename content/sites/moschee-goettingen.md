@@ -4,13 +4,13 @@ site_name: "Moschee Göttingen"
 date: 2026-01-26
 draft: false
 description: "Moschee in Göttingen"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q106600771"
 latitude: 51.5357
 longitude: 9.91342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DITIB_Moschee_Göttingen_2021_2.JPG/400px-DITIB_Moschee_Göttingen_2021_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DITIB_Moschee_Göttingen_2021_2.JPG/800px-DITIB_Moschee_Göttingen_2021_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DITIB_Moschee_Göttingen_2021_2.JPG/1200px-DITIB_Moschee_Göttingen_2021_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DITIB_Moschee_Göttingen_2021_2.JPG/1920px-DITIB_Moschee_Göttingen_2021_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DITIB_Moschee_Göttingen_2021_2.JPG/1920px-DITIB_Moschee_Göttingen_2021_2.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Buckelgräberfeld von Boltersen"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Rullstorf, Germany"
-region: "Rullstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Rullstorf"
+  - "Lower Saxony"
 wikidata_id: "Q999438"
 latitude: 53.2672
 longitude: 10.5964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/400px-Buckelgräberfeld_von_Boltersen_p2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/800px-Buckelgräberfeld_von_Boltersen_p2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/1200px-Buckelgräberfeld_von_Boltersen_p2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/1920px-Buckelgräberfeld_von_Boltersen_p2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/1920px-Buckelgräberfeld_von_Boltersen_p2.jpg---
 
 ## Overview
 

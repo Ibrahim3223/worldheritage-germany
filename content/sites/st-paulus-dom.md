@@ -4,13 +4,13 @@ site_name: "St.-Paulus-Dom"
 date: 2026-01-26
 draft: false
 description: "cathedral in Münster, Germany"
-region: "Münster-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Münster-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q708532"
 latitude: 51.9631
 longitude: 7.62556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg/400px-Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg/800px-Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg/1200px-Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg/1920px-Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg/1920px-Münster,_St.-Paulus-Dom_--_2019_--_3532.jpg---
 
 ## Overview
 

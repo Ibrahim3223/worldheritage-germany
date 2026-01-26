@@ -4,13 +4,13 @@ site_name: "Wrackmuseum Cuxhaven"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Cuxhaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cuxhaven"
+  - "Lower Saxony"
 wikidata_id: "Q1795249"
 latitude: 53.8747
 longitude: 8.65389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/400px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/800px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/1200px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/1920px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/1920px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg---
 
 ## Overview
 

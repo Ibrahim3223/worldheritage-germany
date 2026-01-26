@@ -4,13 +4,13 @@ site_name: "Kapelle Zur Not Gottes"
 date: 2026-01-26
 draft: false
 description: "church building in Auerbach"
-region: "Bensheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bensheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q230334"
 latitude: 49.7142
 longitude: 8.63528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/400px-Zur_Not_Gottes_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/800px-Zur_Not_Gottes_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/1200px-Zur_Not_Gottes_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/1920px-Zur_Not_Gottes_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/1920px-Zur_Not_Gottes_01.jpg---
 
 ## Overview
 

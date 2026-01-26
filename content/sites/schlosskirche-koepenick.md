@@ -4,13 +4,13 @@ site_name: "Schlosskirche Köpenick"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Treptow-Köpenick"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Treptow-Köpenick"
+  - "Berlin"
 wikidata_id: "Q2244593"
 latitude: 52.4436
 longitude: 13.5738
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/400px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/800px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/1200px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/1920px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/1920px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg---
 
 ## Overview
 

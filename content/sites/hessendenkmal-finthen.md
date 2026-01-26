@@ -4,19 +4,18 @@ site_name: "Hessendenkmal Finthen"
 date: 2026-01-26
 draft: false
 description: "monument in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1615790"
 latitude: 49.9976
 longitude: 8.18261
 images:
-  []
----
+  []---
 
 ## Overview
 

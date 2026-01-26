@@ -4,13 +4,13 @@ site_name: "Ahr Valley"
 date: 2026-01-26
 draft: false
 description: "valley"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q402908"
 latitude: 50.53333333
 longitude: 7.06666667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/400px-Ahrtal01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/800px-Ahrtal01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/1200px-Ahrtal01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/1920px-Ahrtal01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/1920px-Ahrtal01.jpg---
 
 ## Overview
 

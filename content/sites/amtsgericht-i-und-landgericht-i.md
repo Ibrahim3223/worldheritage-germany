@@ -4,13 +4,13 @@ site_name: "Amtsgericht I und Landgericht I"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1518163"
 latitude: 52.5188
 longitude: 13.4141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/400px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/800px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/1200px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/1920px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/1920px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg---
 
 ## Overview
 

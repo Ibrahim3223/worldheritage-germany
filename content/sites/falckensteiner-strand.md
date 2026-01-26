@@ -4,13 +4,13 @@ site_name: "Falckensteiner Strand"
 date: 2026-01-26
 draft: false
 description: "beach in Kiel, Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q128769478"
 latitude: 54.3989
 longitude: 10.1903
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/400px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/800px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/1200px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/1920px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/1920px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg---
 
 ## Overview
 

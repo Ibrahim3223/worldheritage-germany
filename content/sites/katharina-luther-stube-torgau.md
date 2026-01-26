@@ -4,13 +4,13 @@ site_name: "Katharina-Luther-Stube Torgau"
 date: 2026-01-26
 draft: false
 description: "museum, place of death of Katharina von Bora in Torgau (Saxony)"
-region: "Torgau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Torgau"
+  - "Brandenburg"
 wikidata_id: "Q49594118"
 latitude: 51.55889
 longitude: 13.00668
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Katharinenstrasse_11_(Torgau)_(6).jpg/400px-Katharinenstrasse_11_(Torgau)_(6).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Katharinenstrasse_11_(Torgau)_(6).jpg/800px-Katharinenstrasse_11_(Torgau)_(6).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Katharinenstrasse_11_(Torgau)_(6).jpg/1200px-Katharinenstrasse_11_(Torgau)_(6).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Katharinenstrasse_11_(Torgau)_(6).jpg/1920px-Katharinenstrasse_11_(Torgau)_(6).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Katharinenstrasse_11_(Torgau)_(6).jpg/1920px-Katharinenstrasse_11_(Torgau)_(6).jpg---
 
 ## Overview
 

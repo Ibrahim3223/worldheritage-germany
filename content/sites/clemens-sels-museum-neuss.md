@@ -4,13 +4,13 @@ site_name: "Clemens Sels Museum Neuss"
 date: 2026-01-26
 draft: false
 description: "art and local museum in Neuss, Germany"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1099859"
 latitude: 51.1943
 longitude: 6.69812
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/400px-Clemens-Sels-Museum_und_Obertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/800px-Clemens-Sels-Museum_und_Obertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1200px-Clemens-Sels-Museum_und_Obertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1920px-Clemens-Sels-Museum_und_Obertor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1920px-Clemens-Sels-Museum_und_Obertor.jpg---
 
 ## Overview
 

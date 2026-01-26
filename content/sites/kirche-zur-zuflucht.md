@@ -4,13 +4,13 @@ site_name: "Kirche zur Zuflucht"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eberbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eberbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1416149"
 latitude: 49.4455
 longitude: 8.99905
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/400px-Rockenau-kathkirch-web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/800px-Rockenau-kathkirch-web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/1200px-Rockenau-kathkirch-web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/1920px-Rockenau-kathkirch-web.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/1920px-Rockenau-kathkirch-web.jpg---
 
 ## Overview
 

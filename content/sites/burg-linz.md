@@ -4,13 +4,13 @@ site_name: "Burg Linz"
 date: 2026-01-26
 draft: false
 description: "castle in Linz am Rhein, Germany"
-region: "Linz am Rhein"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Linz am Rhein"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012988"
 latitude: 50.566006
 longitude: 7.278684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/400px-Burg_Linz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/800px-Burg_Linz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/1200px-Burg_Linz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/1920px-Burg_Linz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/1920px-Burg_Linz.jpg---
 
 ## Overview
 

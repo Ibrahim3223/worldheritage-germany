@@ -4,13 +4,13 @@ site_name: "Kirche des heiligen Nikolaus"
 date: 2026-01-26
 draft: false
 description: "church building in Hamm, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1742809"
 latitude: 53.56033333
 longitude: 10.04347222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/400px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/800px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/1200px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/1920px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/1920px-Ehem._Simeonkirche_Hamburg-Hamm.jpg---
 
 ## Overview
 

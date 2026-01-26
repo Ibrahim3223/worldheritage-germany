@@ -4,13 +4,13 @@ site_name: "Burg Hohenfels"
 date: 2026-01-26
 draft: false
 description: "castle in Sipplingen"
-region: "Sipplingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sipplingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012414"
 latitude: 47.8048
 longitude: 9.0919
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/400px-Ruine_Hohenfels_Sipplingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/800px-Ruine_Hohenfels_Sipplingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/1200px-Ruine_Hohenfels_Sipplingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/1920px-Ruine_Hohenfels_Sipplingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/1920px-Ruine_Hohenfels_Sipplingen.jpg---
 
 ## Overview
 

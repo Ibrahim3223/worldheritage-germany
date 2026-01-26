@@ -4,13 +4,13 @@ site_name: "Steinscher Erbfriedhof Barchfeld"
 date: 2026-01-26
 draft: false
 description: "cemetery"
-region: "Barchfeld-Immelborn"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Barchfeld-Immelborn"
+  - "Thuringia"
 wikidata_id: "Q1348232"
 latitude: 50.7965
 longitude: 10.3366
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/400px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/800px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/1200px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/1920px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/1920px-Barchfeld_Steinscher_Erbfriedhof_1.jpg---
 
 ## Overview
 

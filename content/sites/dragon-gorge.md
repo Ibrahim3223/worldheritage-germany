@@ -4,13 +4,13 @@ site_name: "Dragon Gorge"
 date: 2026-01-26
 draft: false
 description: "gorge near Eisenach"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1254322"
 latitude: 50.9456
 longitude: 10.3081
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/400px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/800px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/1200px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/1920px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/1920px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG---
 
 ## Overview
 

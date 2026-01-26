@@ -4,13 +4,13 @@ site_name: "Abtei Mariendonk"
 date: 2026-01-26
 draft: false
 description: "Kloster der Benediktinerinnen"
-region: "Grefrath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Grefrath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q334028"
 latitude: 51.3769
 longitude: 6.36028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/400px-Abtei_Mariendonk.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/800px-Abtei_Mariendonk.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/1200px-Abtei_Mariendonk.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/1920px-Abtei_Mariendonk.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/1920px-Abtei_Mariendonk.JPG---
 
 ## Overview
 

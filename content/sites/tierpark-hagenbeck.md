@@ -4,13 +4,13 @@ site_name: "Tierpark Hagenbeck"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q502326"
 latitude: 53.59638889
 longitude: 9.93777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/400px-Ehemaliger_Haupteingang_Hagenbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/800px-Ehemaliger_Haupteingang_Hagenbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/1200px-Ehemaliger_Haupteingang_Hagenbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/1920px-Ehemaliger_Haupteingang_Hagenbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/1920px-Ehemaliger_Haupteingang_Hagenbeck.jpg---
 
 ## Overview
 

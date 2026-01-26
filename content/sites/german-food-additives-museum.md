@@ -4,13 +4,13 @@ site_name: "German Food Additives Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1206139"
 latitude: 53.54245
 longitude: 10.01723
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Deutsches_Zusatzstoffmuseum_Hamburg.jpg/400px-Deutsches_Zusatzstoffmuseum_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Deutsches_Zusatzstoffmuseum_Hamburg.jpg/800px-Deutsches_Zusatzstoffmuseum_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Deutsches_Zusatzstoffmuseum_Hamburg.jpg/1200px-Deutsches_Zusatzstoffmuseum_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Deutsches_Zusatzstoffmuseum_Hamburg.jpg/1920px-Deutsches_Zusatzstoffmuseum_Hamburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Deutsches_Zusatzstoffmuseum_Hamburg.jpg/1920px-Deutsches_Zusatzstoffmuseum_Hamburg.jpg---
 
 ## Overview
 

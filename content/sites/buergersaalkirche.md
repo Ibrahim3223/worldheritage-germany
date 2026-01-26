@@ -4,13 +4,13 @@ site_name: "Bürgersaalkirche"
 date: 2026-01-26
 draft: false
 description: "church in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q251948"
 latitude: 48.139023598
 longitude: 11.568256398
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/400px-Bürgersaalkirche_München,_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/800px-Bürgersaalkirche_München,_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/1200px-Bürgersaalkirche_München,_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/1920px-Bürgersaalkirche_München,_Außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/1920px-Bürgersaalkirche_München,_Außenansicht.jpg---
 
 ## Overview
 

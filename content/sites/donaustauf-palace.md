@@ -4,13 +4,13 @@ site_name: "Donaustauf Palace"
 date: 2026-01-26
 draft: false
 description: "former palace destroyed 1880"
-region: "Donaustauf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Donaustauf"
+  - "Bavaria"
 wikidata_id: "Q125169889"
 latitude: 49.03001
 longitude: 12.21187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/400px-Donaustauf_in_19th_century.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/800px-Donaustauf_in_19th_century.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1200px-Donaustauf_in_19th_century.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1920px-Donaustauf_in_19th_century.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1920px-Donaustauf_in_19th_century.jpg---
 
 ## Overview
 

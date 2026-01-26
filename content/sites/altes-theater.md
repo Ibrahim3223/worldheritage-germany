@@ -4,13 +4,13 @@ site_name: "Altes Theater"
 date: 2026-01-26
 draft: false
 description: "former theatre in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q439720"
 latitude: 51.2259
 longitude: 6.77153
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG/400px-Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG/800px-Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG/1200px-Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG/1920px-Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG/1920px-Altes_Theater_am_Marktplatz_in_Düsseldorf,_Hauptfassade_und_Portikus_mit_vier_ionischen_Säulen,_Pläne_Regierungsbauräte_Vagedes,_1831_bis_1832.JPG---
 
 ## Overview
 

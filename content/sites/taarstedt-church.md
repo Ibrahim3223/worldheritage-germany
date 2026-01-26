@@ -4,13 +4,13 @@ site_name: "Taarstedt church"
 date: 2026-01-26
 draft: false
 description: "church building in Taarstedt, Germany"
-region: "Taarstedt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Taarstedt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1664298"
 latitude: 54.57532
 longitude: 9.69129
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kirche_in_Taarstedt_2025.jpg/400px-Kirche_in_Taarstedt_2025.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kirche_in_Taarstedt_2025.jpg/800px-Kirche_in_Taarstedt_2025.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kirche_in_Taarstedt_2025.jpg/1200px-Kirche_in_Taarstedt_2025.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kirche_in_Taarstedt_2025.jpg/1920px-Kirche_in_Taarstedt_2025.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kirche_in_Taarstedt_2025.jpg/1920px-Kirche_in_Taarstedt_2025.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Mellenthin"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus auf Usedom"
-region: "Mellenthin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Mellenthin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2551445"
 latitude: 53.924
 longitude: 14.0165
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mellenthin,_Wasserschloss,_Rückseite.jpg/400px-Mellenthin,_Wasserschloss,_Rückseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mellenthin,_Wasserschloss,_Rückseite.jpg/800px-Mellenthin,_Wasserschloss,_Rückseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mellenthin,_Wasserschloss,_Rückseite.jpg/1200px-Mellenthin,_Wasserschloss,_Rückseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mellenthin,_Wasserschloss,_Rückseite.jpg/1920px-Mellenthin,_Wasserschloss,_Rückseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mellenthin,_Wasserschloss,_Rückseite.jpg/1920px-Mellenthin,_Wasserschloss,_Rückseite.jpg---
 
 ## Overview
 

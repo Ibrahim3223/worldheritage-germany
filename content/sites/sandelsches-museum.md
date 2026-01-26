@@ -4,13 +4,13 @@ site_name: "Sandelsches Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kirchberg an der Jagst"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kirchberg an der Jagst"
+  - "Baden-Württemberg"
 wikidata_id: "Q2220539"
 latitude: 49.2049
 longitude: 9.98172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/400px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/800px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/1200px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/1920px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/1920px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg---
 
 ## Overview
 

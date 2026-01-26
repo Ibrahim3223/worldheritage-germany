@@ -4,13 +4,13 @@ site_name: "Ehreshoven Castle"
 date: 2026-01-26
 draft: false
 description: "German Castle"
-region: "Engelskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Engelskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153066"
 latitude: 50.9741
 longitude: 7.34421
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/400px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/800px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg---
 
 ## Overview
 

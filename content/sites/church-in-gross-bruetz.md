@@ -4,13 +4,13 @@ site_name: "Church in Groß Brütz"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Brüsewitz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brüsewitz"
+  - "Lower Saxony"
 wikidata_id: "Q1244315"
 latitude: 53.6502
 longitude: 11.2537
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/400px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/800px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1200px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1920px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1920px-Gross_Bruetz_Kirche_2008-11-13_005.jpg---
 
 ## Overview
 

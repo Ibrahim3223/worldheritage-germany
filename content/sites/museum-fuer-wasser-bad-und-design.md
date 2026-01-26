@@ -4,19 +4,18 @@ site_name: "Museum für Wasser, Bad und Design"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schiltach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schiltach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954505"
 latitude: 48.2908
 longitude: 8.34726
 images:
-  []
----
+  []---
 
 ## Overview
 

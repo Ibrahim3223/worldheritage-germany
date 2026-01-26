@@ -4,13 +4,13 @@ site_name: "Andreaskirche (Norden)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Norden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Norden"
+  - "Lower Saxony"
 wikidata_id: "Q501537"
 latitude: 53.5961
 longitude: 7.20395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/400px-Norden1590.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/800px-Norden1590.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/1200px-Norden1590.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/1920px-Norden1590.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/1920px-Norden1590.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Nautineum Stralsund"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1660509"
 latitude: 54.30527778
 longitude: 13.11638889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stralsund_Nautineum_Dänholm.jpg/400px-Stralsund_Nautineum_Dänholm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stralsund_Nautineum_Dänholm.jpg/800px-Stralsund_Nautineum_Dänholm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stralsund_Nautineum_Dänholm.jpg/1200px-Stralsund_Nautineum_Dänholm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stralsund_Nautineum_Dänholm.jpg/1920px-Stralsund_Nautineum_Dänholm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stralsund_Nautineum_Dänholm.jpg/1920px-Stralsund_Nautineum_Dänholm.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Ostseebad"
 date: 2026-01-26
 draft: false
 description: "Flensburger Strandbad"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q17341865"
 latitude: 54.8134
 longitude: 9.42986
 images:
-  []
----
+  []---
 
 ## Overview
 

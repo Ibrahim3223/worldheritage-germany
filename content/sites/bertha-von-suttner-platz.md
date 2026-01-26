@@ -4,13 +4,13 @@ site_name: "Bertha-von-Suttner-Platz"
 date: 2026-01-26
 draft: false
 description: "square in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q827673"
 latitude: 50.737416666
 longitude: 7.102455555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg/400px-2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg/800px-2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg/1200px-2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg/1920px-2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg/1920px-2013-08-27_Bertha-von-Suttner-Platz,_Bonn_IMG_5205.jpg---
 
 ## Overview
 

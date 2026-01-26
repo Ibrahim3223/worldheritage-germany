@@ -4,13 +4,13 @@ site_name: "Deutsches Theater München"
 date: 2026-01-26
 draft: false
 description: "theatre in Munich, Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q984018"
 latitude: 48.1368892
 longitude: 11.5620382
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/400px-Deutsches_Theater_Muenchen_2004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/800px-Deutsches_Theater_Muenchen_2004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/1200px-Deutsches_Theater_Muenchen_2004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/1920px-Deutsches_Theater_Muenchen_2004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/1920px-Deutsches_Theater_Muenchen_2004.jpg---
 
 ## Overview
 

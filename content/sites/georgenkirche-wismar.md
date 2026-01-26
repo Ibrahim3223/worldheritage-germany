@@ -4,13 +4,13 @@ site_name: "Georgenkirche (Wismar)"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q1508738"
 latitude: 53.8908
 longitude: 11.4606
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/400px-Wismar_St._Georgen_2008-06-10_059.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/800px-Wismar_St._Georgen_2008-06-10_059.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1200px-Wismar_St._Georgen_2008-06-10_059.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1920px-Wismar_St._Georgen_2008-06-10_059.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1920px-Wismar_St._Georgen_2008-06-10_059.jpg---
 
 ## Overview
 

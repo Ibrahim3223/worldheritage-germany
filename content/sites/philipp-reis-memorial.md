@@ -4,13 +4,13 @@ site_name: "Philipp Reis Memorial"
 date: 2026-01-26
 draft: false
 description: "memorial in Frankfurt am Main, Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q27973007"
 latitude: 50.117997041
 longitude: 8.680244236
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/400px-Johann_Philipp_Reis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/800px-Johann_Philipp_Reis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/1200px-Johann_Philipp_Reis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/1920px-Johann_Philipp_Reis.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/1920px-Johann_Philipp_Reis.jpg---
 
 ## Overview
 

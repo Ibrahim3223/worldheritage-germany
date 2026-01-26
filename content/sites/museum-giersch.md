@@ -4,13 +4,13 @@ site_name: "Museum Giersch"
 date: 2026-01-26
 draft: false
 description: "art museum in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1954440"
 latitude: 50.1015
 longitude: 8.6706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Museum-giersch-ffm001.jpg/400px-Museum-giersch-ffm001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Museum-giersch-ffm001.jpg/800px-Museum-giersch-ffm001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Museum-giersch-ffm001.jpg/1200px-Museum-giersch-ffm001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Museum-giersch-ffm001.jpg/1920px-Museum-giersch-ffm001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Museum-giersch-ffm001.jpg/1920px-Museum-giersch-ffm001.jpg---
 
 ## Overview
 

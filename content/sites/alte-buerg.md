@@ -4,19 +4,18 @@ site_name: "Alte Bürg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Möckmühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Möckmühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q435505"
 latitude: 49.328
 longitude: 9.3483
 images:
-  []
----
+  []---
 
 ## Overview
 

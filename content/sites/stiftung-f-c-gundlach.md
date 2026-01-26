@@ -4,19 +4,18 @@ site_name: "Stiftung F. C. Gundlach"
 date: 2026-01-26
 draft: false
 description: "rechtsfähige Stiftung bürgerlichen Rechts"
-region: "Germany"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Hamburg"
 wikidata_id: "Q15849276"
 latitude: 53.5694218
 longitude: 9.8985365
 images:
-  []
----
+  []---
 
 ## Overview
 

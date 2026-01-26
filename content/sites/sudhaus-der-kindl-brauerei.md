@@ -4,13 +4,13 @@ site_name: "Sudhaus der Kindl-Brauerei"
 date: 2026-01-26
 draft: false
 description: "Centre for contemporary art"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q2363268"
 latitude: 52.4794
 longitude: 13.4308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/400px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/800px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/1200px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/1920px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/1920px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Charlottenklinik Stuttgart"
 date: 2026-01-26
 draft: false
 description: "hospital in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1067433"
 latitude: 48.781421
 longitude: 9.162738
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/400px-Gebäude-Charlottenklinik-Stuttgart.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/800px-Gebäude-Charlottenklinik-Stuttgart.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/1200px-Gebäude-Charlottenklinik-Stuttgart.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/1920px-Gebäude-Charlottenklinik-Stuttgart.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/1920px-Gebäude-Charlottenklinik-Stuttgart.jpg---
 
 ## Overview
 

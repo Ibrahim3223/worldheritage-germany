@@ -4,19 +4,18 @@ site_name: "Brauerei Kesselsdorf"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Wilsdruff"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Wilsdruff"
+  - "Saxony"
 wikidata_id: "Q900271"
 latitude: 51.0315
 longitude: 13.593
 images:
-  []
----
+  []---
 
 ## Overview
 

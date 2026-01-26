@@ -4,19 +4,18 @@ site_name: "Monument am Schwanteich"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Germany"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Germany"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1312235"
 latitude: 50.9507
 longitude: 10.7099
 images:
-  []
----
+  []---
 
 ## Overview
 

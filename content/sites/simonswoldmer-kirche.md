@@ -4,13 +4,13 @@ site_name: "Simonswoldmer Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Simonswolde, Germany"
-region: "Ihlow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ihlow"
+  - "Lower Saxony"
 wikidata_id: "Q1723854"
 latitude: 53.3715
 longitude: 7.39888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/400px-ChurchSimonswolde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/800px-ChurchSimonswolde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/1200px-ChurchSimonswolde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/1920px-ChurchSimonswolde.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/1920px-ChurchSimonswolde.JPG---
 
 ## Overview
 

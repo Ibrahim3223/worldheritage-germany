@@ -4,13 +4,13 @@ site_name: "Wildpark Schloss Tambach"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Weitramsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Weitramsdorf"
+  - "Bavaria"
 wikidata_id: "Q2570849"
 latitude: 50.2328
 longitude: 10.8656
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/400px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/800px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/1200px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/1920px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/1920px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg---
 
 ## Overview
 

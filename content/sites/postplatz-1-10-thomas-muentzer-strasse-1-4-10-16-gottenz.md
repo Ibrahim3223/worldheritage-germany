@@ -4,19 +4,18 @@ site_name: "Postplatz 1-10; Thomas-Müntzer-Straße 1-4, 10-16 (Gottenz)"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschützter Straßenzug im Dorf Gottenz in Sachsen-Anhalt"
-region: "Kabelsketal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Kabelsketal"
+  - "Brandenburg"
 wikidata_id: "Q15125129"
 latitude: 51.452381
 longitude: 12.133978
 images:
-  []
----
+  []---
 
 ## Overview
 

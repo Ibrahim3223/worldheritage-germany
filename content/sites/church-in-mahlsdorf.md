@@ -4,13 +4,13 @@ site_name: "Church in Mahlsdorf"
 date: 2026-01-26
 draft: false
 description: "church building in Salzwedel, Saxony-Anhalt, Germany"
-region: "Salzwedel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Salzwedel"
+  - "Lower Saxony"
 wikidata_id: "Q2222112"
 latitude: 52.7936
 longitude: 11.2322
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/400px-Mahlsdorf_Dorfkirche_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/800px-Mahlsdorf_Dorfkirche_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/1200px-Mahlsdorf_Dorfkirche_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/1920px-Mahlsdorf_Dorfkirche_3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/1920px-Mahlsdorf_Dorfkirche_3.JPG---
 
 ## Overview
 

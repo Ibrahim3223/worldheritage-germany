@@ -4,13 +4,13 @@ site_name: "Baggersee Lutz"
 date: 2026-01-26
 draft: false
 description: "lake in Krauchenwies, Baden-Württemberg, Germany"
-region: "Krauchenwies"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Krauchenwies"
+  - "Baden-Württemberg"
 wikidata_id: "Q322070"
 latitude: 48.020833333
 longitude: 9.236666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ablacher_See.jpg/400px-Ablacher_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ablacher_See.jpg/800px-Ablacher_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ablacher_See.jpg/1200px-Ablacher_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ablacher_See.jpg/1920px-Ablacher_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ablacher_See.jpg/1920px-Ablacher_See.jpg---
 
 ## Overview
 

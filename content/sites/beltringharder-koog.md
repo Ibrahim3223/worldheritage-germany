@@ -4,13 +4,13 @@ site_name: "Beltringharder Koog"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q816211"
 latitude: 54.55
 longitude: 8.916666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/400px-Beltringharder_Koog_0067.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/800px-Beltringharder_Koog_0067.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/1200px-Beltringharder_Koog_0067.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/1920px-Beltringharder_Koog_0067.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/1920px-Beltringharder_Koog_0067.JPG---
 
 ## Overview
 

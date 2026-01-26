@@ -4,19 +4,18 @@ site_name: "Viller Mühle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Goch"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goch"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2526201"
 latitude: 51.7022
 longitude: 6.05139
 images:
-  []
----
+  []---
 
 ## Overview
 

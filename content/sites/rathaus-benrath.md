@@ -4,13 +4,13 @@ site_name: "Rathaus Benrath"
 date: 2026-01-26
 draft: false
 description: "Verwaltungsgebäude der Stadt Düsseldorf im Stadtteil Benrath"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q135913518"
 latitude: 51.1639579
 longitude: 6.8648862
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rathaus_Benrath_V-19.jpg/400px-Rathaus_Benrath_V-19.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rathaus_Benrath_V-19.jpg/800px-Rathaus_Benrath_V-19.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rathaus_Benrath_V-19.jpg/1200px-Rathaus_Benrath_V-19.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rathaus_Benrath_V-19.jpg/1920px-Rathaus_Benrath_V-19.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rathaus_Benrath_V-19.jpg/1920px-Rathaus_Benrath_V-19.jpg---
 
 ## Overview
 

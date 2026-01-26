@@ -4,13 +4,13 @@ site_name: "Dorfkirche Brandshagen"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Brandshagen"
-region: "Sundhagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sundhagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1897786"
 latitude: 54.2399
 longitude: 13.1784
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/400px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/800px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/1200px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/1920px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/1920px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum vaterländischer Alterthümer"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1954775"
 latitude: 54.3251
 longitude: 10.1396
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/400px-MuseumVaterlaendischerAltertuemerKiel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/800px-MuseumVaterlaendischerAltertuemerKiel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/1200px-MuseumVaterlaendischerAltertuemerKiel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/1920px-MuseumVaterlaendischerAltertuemerKiel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/1920px-MuseumVaterlaendischerAltertuemerKiel.JPG---
 
 ## Overview
 

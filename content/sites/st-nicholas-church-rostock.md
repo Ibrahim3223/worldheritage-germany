@@ -4,13 +4,13 @@ site_name: "St. Nicholas church (Rostock)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1460668"
 latitude: 54.0878
 longitude: 12.1465
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/400px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/800px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/1200px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/1920px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/1920px-Rostock_asv2018-05_img44_Nikolaikirche.jpg---
 
 ## Overview
 

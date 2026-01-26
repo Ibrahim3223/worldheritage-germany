@@ -4,13 +4,13 @@ site_name: "St. Marienkirche (Usedom)"
 date: 2026-01-26
 draft: false
 description: "church in Usedom"
-region: "Usedom"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Usedom"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316474"
 latitude: 53.8726
 longitude: 13.9197
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2010_0807_usedom_0056.JPG/400px-2010_0807_usedom_0056.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2010_0807_usedom_0056.JPG/800px-2010_0807_usedom_0056.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2010_0807_usedom_0056.JPG/1200px-2010_0807_usedom_0056.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2010_0807_usedom_0056.JPG/1920px-2010_0807_usedom_0056.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2010_0807_usedom_0056.JPG/1920px-2010_0807_usedom_0056.JPG---
 
 ## Overview
 

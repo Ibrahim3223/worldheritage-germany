@@ -4,13 +4,13 @@ site_name: "Bodenseebibliothek"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Friedrichshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Friedrichshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q889706"
 latitude: 47.6575
 longitude: 9.47638889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/400px-Bodenseebibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/800px-Bodenseebibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/1200px-Bodenseebibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/1920px-Bodenseebibliothek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/1920px-Bodenseebibliothek.jpg---
 
 ## Overview
 

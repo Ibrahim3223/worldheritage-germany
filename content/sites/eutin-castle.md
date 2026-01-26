@@ -4,13 +4,13 @@ site_name: "Eutin Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Eutin, Germany"
-region: "Eutin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eutin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q316943"
 latitude: 54.137751
 longitude: 10.620402
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/400px-Eutin_Schloss_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/800px-Eutin_Schloss_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/1200px-Eutin_Schloss_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/1920px-Eutin_Schloss_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/1920px-Eutin_Schloss_Eingang.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Gemeindebibliothek Weyhe"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Weyhe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Weyhe"
+  - "Lower Saxony"
 wikidata_id: "Q28729517"
 latitude: 52.99258
 longitude: 8.81817
 images:
-  []
----
+  []---
 
 ## Overview
 

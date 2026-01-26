@@ -4,13 +4,13 @@ site_name: "Dortmund-Lütgendortmund station"
 date: 2026-01-26
 draft: false
 description: "railway station in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q320169"
 latitude: 51.5008
 longitude: 7.33417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/400px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/800px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/1200px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/1920px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/1920px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Ballhaus Ost"
 date: 2026-01-26
 draft: false
 description: "Produktions- und Spielstätte für freie Theater- und Kunstprojekte im Berliner Ortsteil Prenzlauer Berg"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q805249"
 latitude: 52.5431
 longitude: 13.415
 images:
-  []
----
+  []---
 
 ## Overview
 

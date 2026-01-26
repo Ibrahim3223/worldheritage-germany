@@ -4,19 +4,18 @@ site_name: "Mining Museum Samson Pit"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Braunlage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Braunlage"
+  - "Lower Saxony"
 wikidata_id: "Q21885948"
 latitude: 51.7132983
 longitude: 10.5162317
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Erinnerungsort Topf & Söhne"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1354753"
 latitude: 50.9723
 longitude: 11.0487
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/400px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/800px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/1200px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/1920px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/1920px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG---
 
 ## Overview 
 

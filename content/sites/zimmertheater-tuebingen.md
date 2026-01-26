@@ -4,13 +4,13 @@ site_name: "Zimmertheater Tübingen"
 date: 2026-01-26
 draft: false
 description: "Stadttheater in Tübingen, Deutschland"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q203854"
 latitude: 48.519575
 longitude: 9.056487
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/400px-Zimmertheater-tuebingen-2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/800px-Zimmertheater-tuebingen-2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/1200px-Zimmertheater-tuebingen-2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/1920px-Zimmertheater-tuebingen-2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/1920px-Zimmertheater-tuebingen-2019.jpg---
 
 ## Overview
 

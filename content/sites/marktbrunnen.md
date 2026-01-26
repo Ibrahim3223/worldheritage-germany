@@ -4,13 +4,13 @@ site_name: "Marktbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Goslar, Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q1900985"
 latitude: 51.9059
 longitude: 10.4291
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Marktbrunnen_Goslar.jpg/400px-Marktbrunnen_Goslar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Marktbrunnen_Goslar.jpg/800px-Marktbrunnen_Goslar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Marktbrunnen_Goslar.jpg/1200px-Marktbrunnen_Goslar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Marktbrunnen_Goslar.jpg/1920px-Marktbrunnen_Goslar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Marktbrunnen_Goslar.jpg/1920px-Marktbrunnen_Goslar.jpg---
 
 ## Overview
 

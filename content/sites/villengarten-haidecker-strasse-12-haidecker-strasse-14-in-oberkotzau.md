@@ -4,19 +4,18 @@ site_name: "Villengarten Haidecker Straße 12; Haidecker Straße 14 in Oberkotza
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-75-158-12 (2) in Oberkotzau, Bavaria"
-region: "Oberkotzau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Oberkotzau"
+  - "Bavaria"
 wikidata_id: "Q98589386"
 latitude: 50.260338232
 longitude: 11.935605173
 images:
-  []
----
+  []---
 
 ## Overview
 

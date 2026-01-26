@@ -4,13 +4,13 @@ site_name: "Memorial to the Sinti and Roma victims of National Socialism"
 date: 2026-01-26
 draft: false
 description: "memorial designed by Dani Karavan in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q151785"
 latitude: 52.517222
 longitude: 13.376111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/400px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/800px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/1200px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/1920px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/1920px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg---
 
 ## Overview
 

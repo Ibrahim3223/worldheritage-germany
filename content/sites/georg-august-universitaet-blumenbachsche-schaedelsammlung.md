@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität: Blumenbachsche Schädelsammlung"
 date: 2026-01-26
 draft: false
 description: "museum in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636038"
 latitude: 51.543947
 longitude: 9.938812
 images:
-  []
----
+  []---
 
 ## Overview
 

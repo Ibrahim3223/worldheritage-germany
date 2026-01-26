@@ -4,13 +4,13 @@ site_name: "Böhmisches Brauhaus"
 date: 2026-01-26
 draft: false
 description: "ehemalige Brauerei in Berlin"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q1019779"
 latitude: 52.522182
 longitude: 13.437158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Boehmisches_Brauhaus_10.jpg/400px-Boehmisches_Brauhaus_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Boehmisches_Brauhaus_10.jpg/800px-Boehmisches_Brauhaus_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Boehmisches_Brauhaus_10.jpg/1200px-Boehmisches_Brauhaus_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Boehmisches_Brauhaus_10.jpg/1920px-Boehmisches_Brauhaus_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Boehmisches_Brauhaus_10.jpg/1920px-Boehmisches_Brauhaus_10.jpg---
 
 ## Overview
 

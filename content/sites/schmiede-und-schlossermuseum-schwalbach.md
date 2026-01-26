@@ -4,19 +4,18 @@ site_name: "Schmiede- und Schlossermuseum Schwalbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schwalbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwalbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2246388"
 latitude: 49.295
 longitude: 6.79741667
 images:
-  []
----
+  []---
 
 ## Overview
 

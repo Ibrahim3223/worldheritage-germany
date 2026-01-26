@@ -4,13 +4,13 @@ site_name: "Villa Bosch"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q263620"
 latitude: 49.4158
 longitude: 8.73444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/400px-Hd-schlowo-villa-bosch.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/800px-Hd-schlowo-villa-bosch.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/1200px-Hd-schlowo-villa-bosch.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/1920px-Hd-schlowo-villa-bosch.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/1920px-Hd-schlowo-villa-bosch.JPG---
 
 ## Overview
 

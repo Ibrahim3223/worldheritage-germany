@@ -4,13 +4,13 @@ site_name: "Schloss Hersbruck"
 date: 2026-01-26
 draft: false
 description: "local court in Germany"
-region: "Hersbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hersbruck"
+  - "Bavaria"
 wikidata_id: "Q480760"
 latitude: 49.506722996
 longitude: 11.430904143
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/400px-Hersbrucker-schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/800px-Hersbrucker-schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/1200px-Hersbrucker-schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/1920px-Hersbrucker-schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/1920px-Hersbrucker-schloss.jpg---
 
 ## Overview
 

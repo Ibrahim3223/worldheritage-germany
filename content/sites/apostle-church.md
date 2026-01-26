@@ -4,13 +4,13 @@ site_name: "Apostle Church"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q619889"
 latitude: 52.385
 longitude: 9.74528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg/400px-Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg/800px-Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg/1200px-Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg/1920px-Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg/1920px-Apostelkirche_church_Celler_Strasse_Gretchenstrasse_Oststadt_Hannover_Germany_02.jpg---
 
 ## Overview
 

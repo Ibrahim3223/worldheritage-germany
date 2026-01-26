@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6028-0153 in Gerolzhofen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gerolzhofen, Schweinfurt, Lower Franconia, Bavaria, Germany"
-region: "Gerolzhofen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Gerolzhofen"
+  - "Bavaria"
 wikidata_id: "Q98169221"
 latitude: 49.900929866
 longitude: 10.349454926
 images:
-  []
----
+  []---
 
 ## Overview
 

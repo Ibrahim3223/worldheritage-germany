@@ -4,19 +4,18 @@ site_name: "Theater im Rathaus"
 date: 2026-01-26
 draft: false
 description: "Theatre in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1415860"
 latitude: 51.4580383
 longitude: 7.0158983
 images:
-  []
----
+  []---
 
 ## Overview
 

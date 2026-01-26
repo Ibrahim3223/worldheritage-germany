@@ -4,19 +4,18 @@ site_name: "Hausteinbogenbrücke Höckendorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Klingenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Klingenberg"
+  - "Saxony"
 wikidata_id: "Q49442679"
 latitude: 50.92621
 longitude: 13.58915
 images:
-  []
----
+  []---
 
 ## Overview
 

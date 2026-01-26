@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/400px-Hoellentalspitzen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/800px-Hoellentalspitzen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/1200px-Hoellentalspitzen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/1920px-Hoellentalspitzen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/1920px-Hoellentalspitzen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Römermuseum Mengen-Ennetach"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Mengen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mengen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1341862"
 latitude: 48.0523
 longitude: 9.31857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Römermuseum_Ennetach.jpg/400px-Römermuseum_Ennetach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Römermuseum_Ennetach.jpg/800px-Römermuseum_Ennetach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Römermuseum_Ennetach.jpg/1200px-Römermuseum_Ennetach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Römermuseum_Ennetach.jpg/1920px-Römermuseum_Ennetach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Römermuseum_Ennetach.jpg/1920px-Römermuseum_Ennetach.jpg---
 
 ## Overview
 

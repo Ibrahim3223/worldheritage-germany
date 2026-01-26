@@ -4,13 +4,13 @@ site_name: "Burg Holtrup"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Porta Westfalica"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Porta Westfalica"
+  - "Lower Saxony"
 wikidata_id: "Q1012472"
 latitude: 52.2023
 longitude: 8.86128
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg-holtrup.jpg/400px-Burg-holtrup.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg-holtrup.jpg/800px-Burg-holtrup.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg-holtrup.jpg/1200px-Burg-holtrup.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg-holtrup.jpg/1920px-Burg-holtrup.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg-holtrup.jpg/1920px-Burg-holtrup.jpg---
 
 ## Overview
 

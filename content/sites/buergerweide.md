@@ -4,19 +4,18 @@ site_name: "Bürgerweide"
 date: 2026-01-26
 draft: false
 description: "public square in Findorff, Germany"
-region: "Findorff"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Findorff"
+  - "Bremen"
 wikidata_id: "Q1021526"
 latitude: 53.0875
 longitude: 8.81278
 images:
-  []
----
+  []---
 
 ## Overview
 

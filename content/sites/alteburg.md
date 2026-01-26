@@ -4,13 +4,13 @@ site_name: "Alteburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Biebergemünd"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Biebergemünd"
+  - "Bavaria"
 wikidata_id: "Q436455"
 latitude: 50.1964
 longitude: 9.3211
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alteburg_Ringwall-rekonstruktion.jpg/400px-Alteburg_Ringwall-rekonstruktion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alteburg_Ringwall-rekonstruktion.jpg/800px-Alteburg_Ringwall-rekonstruktion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alteburg_Ringwall-rekonstruktion.jpg/1200px-Alteburg_Ringwall-rekonstruktion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alteburg_Ringwall-rekonstruktion.jpg/1920px-Alteburg_Ringwall-rekonstruktion.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alteburg_Ringwall-rekonstruktion.jpg/1920px-Alteburg_Ringwall-rekonstruktion.jpg---
 
 ## Overview
 

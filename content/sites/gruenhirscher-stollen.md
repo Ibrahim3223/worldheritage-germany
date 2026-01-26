@@ -4,13 +4,13 @@ site_name: "Grünhirscher Stollen"
 date: 2026-01-26
 draft: false
 description: "mine drainage passage in Lower Saxony, Germany"
-region: "Braunlage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Water Drainage Gallery"
 categories:
   - "Water Drainage Gallery"
 regions:
-  - "Braunlage"
+  - "Lower Saxony"
 wikidata_id: "Q21707224"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/400px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/800px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/1200px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/1920px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/1920px-Sieberstollen_und_Grünhirscher_Stollen.svg.png---
 
 ## Overview
 

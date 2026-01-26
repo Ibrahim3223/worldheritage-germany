@@ -4,13 +4,13 @@ site_name: "St. Nicholas (Spandau)"
 date: 2026-01-26
 draft: false
 description: "church building in Spandau, Berlin, Germany"
-region: "Spandau"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Spandau"
+  - "Berlin"
 wikidata_id: "Q2316617"
 latitude: 52.5384
 longitude: 13.2053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spandau_Nikolaikirche_Turm.jpg/400px-Spandau_Nikolaikirche_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spandau_Nikolaikirche_Turm.jpg/800px-Spandau_Nikolaikirche_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spandau_Nikolaikirche_Turm.jpg/1200px-Spandau_Nikolaikirche_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spandau_Nikolaikirche_Turm.jpg/1920px-Spandau_Nikolaikirche_Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spandau_Nikolaikirche_Turm.jpg/1920px-Spandau_Nikolaikirche_Turm.jpg---
 
 ## Overview
 

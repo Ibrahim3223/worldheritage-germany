@@ -4,13 +4,13 @@ site_name: "Glienicke Palace"
 date: 2026-01-26
 draft: false
 description: "palace"
-region: "Steglitz-Zehlendorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Brandenburg"
 wikidata_id: "Q301684"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/400px-Schloss_Glienicke_Süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/800px-Schloss_Glienicke_Süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/1200px-Schloss_Glienicke_Süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/1920px-Schloss_Glienicke_Süden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/1920px-Schloss_Glienicke_Süden.jpg---
 
 ## Overview
 

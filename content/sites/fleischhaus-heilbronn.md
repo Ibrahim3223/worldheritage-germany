@@ -4,13 +4,13 @@ site_name: "Fleischhaus (Heilbronn)"
 date: 2026-01-26
 draft: false
 description: "building in Heilbronn, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1427861"
 latitude: 49.1417
 longitude: 9.21667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/400px-Fleischhaus-hn-2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/800px-Fleischhaus-hn-2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/1200px-Fleischhaus-hn-2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/1920px-Fleischhaus-hn-2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/1920px-Fleischhaus-hn-2012.jpg---
 
 ## Overview
 

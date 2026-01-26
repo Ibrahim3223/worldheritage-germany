@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fernmeldeturm_Bitburg_2022-02-05.jpeg/400px-Fernmeldeturm_Bitburg_2022-02-05.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fernmeldeturm_Bitburg_2022-02-05.jpeg/800px-Fernmeldeturm_Bitburg_2022-02-05.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fernmeldeturm_Bitburg_2022-02-05.jpeg/1200px-Fernmeldeturm_Bitburg_2022-02-05.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fernmeldeturm_Bitburg_2022-02-05.jpeg/1920px-Fernmeldeturm_Bitburg_2022-02-05.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fernmeldeturm_Bitburg_2022-02-05.jpeg/1920px-Fernmeldeturm_Bitburg_2022-02-05.jpeg---
 
 ## Overview
 

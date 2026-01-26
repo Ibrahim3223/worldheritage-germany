@@ -4,13 +4,13 @@ site_name: "Flechtingen Hills"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Börde District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Börde District"
+  - "Lower Saxony"
 wikidata_id: "Q181252"
 latitude: 52.2833
 longitude: 11.2167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG/400px-Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG/800px-Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG/1200px-Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG/1920px-Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG/1920px-Sachsen-Anhalt_Flechtingen_from_east_IMG_8954.JPG---
 
 ## Overview
 

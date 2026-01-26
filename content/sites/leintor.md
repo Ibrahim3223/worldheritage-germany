@@ -4,13 +4,13 @@ site_name: "Leintor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1243535"
 latitude: 52.3709
 longitude: 9.7314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg/400px-1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg/800px-1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg/1200px-1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg/1920px-1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg/1920px-1584_1585_Heinrich_Bünting,_Hannover_von_Westen_mit_äußerem_und_inneren_Leintor,_Holzschnitt_aus_der_Chronik_Braunschweigische_und_Lüneburgische_Chronica,_II.jpg---
 
 ## Overview
 

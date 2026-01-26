@@ -4,13 +4,13 @@ site_name: "Burg Konradsdorf"
 date: 2026-01-26
 draft: false
 description: "Burgruine in Deutschland"
-region: "Konradsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Konradsdorf"
+  - "Bavaria"
 wikidata_id: "Q1012700"
 latitude: 50.3446
 longitude: 9.0238
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/400px-Konradsdorf_Kirche+Propstei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/800px-Konradsdorf_Kirche+Propstei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/1200px-Konradsdorf_Kirche+Propstei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/1920px-Konradsdorf_Kirche+Propstei.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/1920px-Konradsdorf_Kirche+Propstei.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum Klausenhof"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Herrischried"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Herrischried"
+  - "Baden-Württemberg"
 wikidata_id: "Q1745971"
 latitude: 47.68081944
 longitude: 8.007475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herrischried_-_Museumshof_(1).JPG/400px-Herrischried_-_Museumshof_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herrischried_-_Museumshof_(1).JPG/800px-Herrischried_-_Museumshof_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herrischried_-_Museumshof_(1).JPG/1200px-Herrischried_-_Museumshof_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herrischried_-_Museumshof_(1).JPG/1920px-Herrischried_-_Museumshof_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herrischried_-_Museumshof_(1).JPG/1920px-Herrischried_-_Museumshof_(1).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Central Schafalpenkopf"
 date: 2026-01-26
 draft: false
 description: "mountain of the Allgäu Alps at the border of Bavaria, Germany, and Vorarlberg, Austria"
-region: "Mittelberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Mittelberg"
+  - "Bavaria"
 wikidata_id: "Q233690"
 latitude: 47.306621
 longitude: 10.210378
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/400px-Zweiter_und_Erster_Schafalpenkopf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/800px-Zweiter_und_Erster_Schafalpenkopf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/1200px-Zweiter_und_Erster_Schafalpenkopf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/1920px-Zweiter_und_Erster_Schafalpenkopf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/1920px-Zweiter_und_Erster_Schafalpenkopf.JPG---
 
 ## Overview
 

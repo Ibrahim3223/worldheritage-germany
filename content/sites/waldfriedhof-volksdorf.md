@@ -4,13 +4,13 @@ site_name: "Waldfriedhof Volksdorf"
 date: 2026-01-26
 draft: false
 description: "cemetery in Wandsbek, Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1266022"
 latitude: 53.667257
 longitude: 10.158553
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG/400px-FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG/800px-FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG/1200px-FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG/1920px-FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG/1920px-FriedhofVolksdorf_AnomymeGrabfelder_Skulptur1.JPG---
 
 ## Overview
 

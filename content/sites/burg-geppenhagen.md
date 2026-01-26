@@ -4,19 +4,18 @@ site_name: "Burg Geppenhagen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schloss Höhnscheid"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schloss Höhnscheid"
+  - "Hesse"
 wikidata_id: "Q1011932"
 latitude: 51.2911
 longitude: 9.09054
 images:
-  []
----
+  []---
 
 ## Overview
 

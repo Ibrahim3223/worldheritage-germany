@@ -4,13 +4,13 @@ site_name: "Wallroda Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Großröhrsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Großröhrsdorf"
+  - "Saxony"
 wikidata_id: "Q1348247"
 latitude: 51.1178
 longitude: 13.9764
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/400px-Wallroda-Stausee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/800px-Wallroda-Stausee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/1200px-Wallroda-Stausee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/1920px-Wallroda-Stausee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/1920px-Wallroda-Stausee.jpg---
 
 ## Overview
 

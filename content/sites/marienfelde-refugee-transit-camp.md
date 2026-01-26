@@ -4,13 +4,13 @@ site_name: "Marienfelde refugee transit camp"
 date: 2026-01-26
 draft: false
 description: "refugee transit camp"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q882022"
 latitude: 52.4203
 longitude: 13.3667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/400px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/800px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/1200px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/1920px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/1920px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg---
 
 ## Overview
 

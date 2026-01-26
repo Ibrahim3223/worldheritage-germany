@@ -4,13 +4,13 @@ site_name: "Kunsthaus Dahlem"
 date: 2026-01-26
 draft: false
 description: "art museum in Berlin, Germany, former atelier of Arno Breker"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q50672242"
 latitude: 52.466944444
 longitude: 13.273611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/400px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/800px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/1200px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/1920px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/1920px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Neue Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Wismar, Germany"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q1689450"
 latitude: 53.8905
 longitude: 11.4636
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/400px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/800px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/1200px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/1920px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/1920px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG---
 
 ## Overview
 

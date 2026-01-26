@@ -4,13 +4,13 @@ site_name: "Kloster Glindfeld"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Kloster der Augustinerinnen bei Medebach"
-region: "Medebach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Medebach"
+  - "Hesse"
 wikidata_id: "Q768432"
 latitude: 51.1999
 longitude: 8.66369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/400px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/800px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/1200px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/1920px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/1920px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg---
 
 ## Overview
 

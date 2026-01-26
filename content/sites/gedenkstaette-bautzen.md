@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Bautzen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q20828999"
 latitude: 51.17812
 longitude: 14.43704
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/400px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/800px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/1200px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/1920px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/1920px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG---
 
 ## Overview
 

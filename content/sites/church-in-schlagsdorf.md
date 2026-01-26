@@ -4,13 +4,13 @@ site_name: "Church in Schlagsdorf"
 date: 2026-01-26
 draft: false
 description: "church in Schlagsdorf, Germany"
-region: "Schlagsdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schlagsdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1244696"
 latitude: 53.7303
 longitude: 10.8234
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/400px-Schlagsdorfkirche01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/800px-Schlagsdorfkirche01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1200px-Schlagsdorfkirche01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1920px-Schlagsdorfkirche01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1920px-Schlagsdorfkirche01.jpg---
 
 ## Overview
 

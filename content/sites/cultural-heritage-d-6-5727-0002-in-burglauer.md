@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5727-0002 in Burglauer"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Burglauer, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Burglauer"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Burglauer"
+  - "Bavaria"
 wikidata_id: "Q98167626"
 latitude: 50.274285298
 longitude: 10.200516372
 images:
-  []
----
+  []---
 
 ## Overview
 

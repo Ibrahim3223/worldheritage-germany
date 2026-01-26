@@ -4,19 +4,18 @@ site_name: "Paul-Arnsberg-Memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q2058463"
 latitude: 50.1109
 longitude: 8.68213
 images:
-  []
----
+  []---
 
 ## Overview
 

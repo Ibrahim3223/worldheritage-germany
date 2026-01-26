@@ -4,19 +4,18 @@ site_name: "Brücke Hauptstraße (am Anfang des Tiefenbachtales)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Königsbrück"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Königsbrück"
+  - "Saxony"
 wikidata_id: "Q49401825"
 latitude: 51.250021
 longitude: 13.930375
 images:
-  []
----
+  []---
 
 ## Overview
 

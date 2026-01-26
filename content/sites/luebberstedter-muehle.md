@@ -4,13 +4,13 @@ site_name: "Lübberstedter Mühle"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Lübberstedt"
-region: "Lübberstedt"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Lübberstedt"
+  - "Bremen"
 wikidata_id: "Q134444339"
 latitude: 53.33861
 longitude: 8.81381
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/400px-Luebberstedter_Muehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/800px-Luebberstedter_Muehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/1200px-Luebberstedter_Muehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/1920px-Luebberstedter_Muehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/1920px-Luebberstedter_Muehle.jpg---
 
 ## Overview
 

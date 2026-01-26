@@ -4,13 +4,13 @@ site_name: "Goethe stone"
 date: 2026-01-26
 draft: false
 description: "memorial in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q1534232"
 latitude: 50.0625
 longitude: 8.16017
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wiesbaden_Goethestein_1.JPG/400px-Wiesbaden_Goethestein_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wiesbaden_Goethestein_1.JPG/800px-Wiesbaden_Goethestein_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wiesbaden_Goethestein_1.JPG/1200px-Wiesbaden_Goethestein_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wiesbaden_Goethestein_1.JPG/1920px-Wiesbaden_Goethestein_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wiesbaden_Goethestein_1.JPG/1920px-Wiesbaden_Goethestein_1.JPG---
 
 ## Overview
 

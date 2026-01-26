@@ -4,13 +4,13 @@ site_name: "Bickplecken"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Lemgo"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Lemgo"
+  - "Lower Saxony"
 wikidata_id: "Q856842"
 latitude: 52.1058
 longitude: 8.855
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/400px-Bickplecken-2009-07-21-0825.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/800px-Bickplecken-2009-07-21-0825.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/1200px-Bickplecken-2009-07-21-0825.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/1920px-Bickplecken-2009-07-21-0825.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/1920px-Bickplecken-2009-07-21-0825.jpg---
 
 ## Overview
 

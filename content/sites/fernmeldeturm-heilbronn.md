@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Heilbronn"
 date: 2026-01-26
 draft: false
 description: "Telecommunications tower in Heilbronn, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1407060"
 latitude: 49.1117
 longitude: 9.25101
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fernmeldeturm_Heilbronn.png/400px-Fernmeldeturm_Heilbronn.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fernmeldeturm_Heilbronn.png/800px-Fernmeldeturm_Heilbronn.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fernmeldeturm_Heilbronn.png/1200px-Fernmeldeturm_Heilbronn.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fernmeldeturm_Heilbronn.png/1920px-Fernmeldeturm_Heilbronn.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fernmeldeturm_Heilbronn.png/1920px-Fernmeldeturm_Heilbronn.png---
 
 ## Overview
 

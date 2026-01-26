@@ -4,19 +4,18 @@ site_name: "Portal zur Geschichte e.V."
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Gandersheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Gandersheim"
+  - "Lower Saxony"
 wikidata_id: "Q2104942"
 latitude: 51.882914
 longitude: 10.031766
 images:
-  []
----
+  []---
 
 ## Overview
 

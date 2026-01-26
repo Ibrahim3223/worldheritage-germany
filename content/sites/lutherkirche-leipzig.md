@@ -4,13 +4,13 @@ site_name: "Lutherkirche (Leipzig)"
 date: 2026-01-26
 draft: false
 description: "church in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1877952"
 latitude: 51.3361
 longitude: 12.3631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/400px-Lutherkirche_Leipzig_tone_mapping.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/800px-Lutherkirche_Leipzig_tone_mapping.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/1200px-Lutherkirche_Leipzig_tone_mapping.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/1920px-Lutherkirche_Leipzig_tone_mapping.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/1920px-Lutherkirche_Leipzig_tone_mapping.jpg---
 
 ## Overview
 

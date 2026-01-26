@@ -4,13 +4,13 @@ site_name: "Gutshaus Lüskow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in der Gemeinde Butzow  in Mecklenburg-Vorpommern"
-region: "Germany"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Germany"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q18412167"
 latitude: 53.818342
 longitude: 13.647938
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/400px-Lüskow_Parkhaus_Hofseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/800px-Lüskow_Parkhaus_Hofseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/1200px-Lüskow_Parkhaus_Hofseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/1920px-Lüskow_Parkhaus_Hofseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/1920px-Lüskow_Parkhaus_Hofseite.JPG---
 
 ## Overview
 

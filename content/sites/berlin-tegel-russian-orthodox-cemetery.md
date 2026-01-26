@@ -4,13 +4,13 @@ site_name: "Berlin-Tegel Russian Orthodox Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin, Germany"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q320354"
 latitude: 52.577666666
 longitude: 13.300666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/400px-Russfriedhoftegel06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/800px-Russfriedhoftegel06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1200px-Russfriedhoftegel06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1920px-Russfriedhoftegel06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1920px-Russfriedhoftegel06.jpg---
 
 ## Overview
 

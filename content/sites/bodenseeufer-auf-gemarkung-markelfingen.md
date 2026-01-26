@@ -4,13 +4,13 @@ site_name: "Bodenseeufer auf Gemarkung Markelfingen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Radolfzell am Bodensee"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Radolfzell am Bodensee"
+  - "Baden-Württemberg"
 wikidata_id: "Q889729"
 latitude: 47.74
 longitude: 9.0
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/400px-Aerials_Zellersee_Mettnau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/800px-Aerials_Zellersee_Mettnau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/1200px-Aerials_Zellersee_Mettnau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/1920px-Aerials_Zellersee_Mettnau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/1920px-Aerials_Zellersee_Mettnau.jpg---
 
 ## Overview
 

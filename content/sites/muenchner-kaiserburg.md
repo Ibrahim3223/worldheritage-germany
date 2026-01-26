@@ -4,13 +4,13 @@ site_name: "Münchner Kaiserburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q25389131"
 latitude: 48.137944444
 longitude: 11.578138888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg/400px-München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg/800px-München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg/1200px-München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg/1920px-München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg/1920px-München_-_Alter_Hof_-_Landesstelle_für_die_nichtstaatlichen_Museen_in_Bayern_-_Außenansicht.jpg---
 
 ## Overview
 

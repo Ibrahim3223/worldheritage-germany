@@ -4,19 +4,18 @@ site_name: "Straßenbrücke mit Bogen, Unterführung des Grabens der Sparmannmü
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wilsdruff"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wilsdruff"
+  - "Saxony"
 wikidata_id: "Q49444220"
 latitude: 51.035717188
 longitude: 13.544470581
 images:
-  []
----
+  []---
 
 ## Overview
 

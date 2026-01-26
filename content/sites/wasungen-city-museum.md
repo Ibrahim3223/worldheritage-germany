@@ -4,19 +4,18 @@ site_name: "Wasungen City Museum"
 date: 2026-01-26
 draft: false
 description: "city museum in Germany"
-region: "Wasungen"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wasungen"
+  - "Thuringia"
 wikidata_id: "Q20481251"
 latitude: 50.665198
 longitude: 10.366512
 images:
-  []
----
+  []---
 
 ## Overview
 

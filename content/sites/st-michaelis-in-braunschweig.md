@@ -4,13 +4,13 @@ site_name: "St. Michaelis in Braunschweig"
 date: 2026-01-26
 draft: false
 description: "church building in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q2321749"
 latitude: 52.260572
 longitude: 10.514956
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/400px-Michaeliskirche2006_01_1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/800px-Michaeliskirche2006_01_1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/1200px-Michaeliskirche2006_01_1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/1920px-Michaeliskirche2006_01_1a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/1920px-Michaeliskirche2006_01_1a.jpg---
 
 ## Overview
 

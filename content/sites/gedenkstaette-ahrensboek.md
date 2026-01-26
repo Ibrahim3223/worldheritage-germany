@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Ahrensbök"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Ahrensbök"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Ahrensbök"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1497517"
 latitude: 54.0261
 longitude: 10.5936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/400px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/800px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/1200px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/1920px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/1920px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG---
 
 ## Overview
 

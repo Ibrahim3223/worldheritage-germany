@@ -4,13 +4,13 @@ site_name: "Marceau-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1614027"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Franzosenfriedhof_03_Koblenz_2013.jpg/400px-Franzosenfriedhof_03_Koblenz_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Franzosenfriedhof_03_Koblenz_2013.jpg/800px-Franzosenfriedhof_03_Koblenz_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Franzosenfriedhof_03_Koblenz_2013.jpg/1200px-Franzosenfriedhof_03_Koblenz_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Franzosenfriedhof_03_Koblenz_2013.jpg/1920px-Franzosenfriedhof_03_Koblenz_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Franzosenfriedhof_03_Koblenz_2013.jpg/1920px-Franzosenfriedhof_03_Koblenz_2013.jpg---
 
 ## Overview
 

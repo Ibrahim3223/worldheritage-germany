@@ -4,13 +4,13 @@ site_name: "Salvatorberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153869"
 latitude: 50.7842
 longitude: 6.08556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/400px-Aachen_11-11_Bergkirche_Salvator_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/800px-Aachen_11-11_Bergkirche_Salvator_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/1200px-Aachen_11-11_Bergkirche_Salvator_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/1920px-Aachen_11-11_Bergkirche_Salvator_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/1920px-Aachen_11-11_Bergkirche_Salvator_02.jpg---
 
 ## Overview
 

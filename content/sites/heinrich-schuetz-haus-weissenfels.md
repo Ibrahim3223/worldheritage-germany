@@ -4,13 +4,13 @@ site_name: "Heinrich-Schütz-Haus (Weißenfels)"
 date: 2026-01-26
 draft: false
 description: "museum in Weissenfels, Germany"
-region: "Weißenfels"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weißenfels"
+  - "Saxony"
 wikidata_id: "Q1596464"
 latitude: 51.1996
 longitude: 11.9709
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/400px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/800px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/1200px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/1920px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/1920px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg---
 
 ## Overview
 

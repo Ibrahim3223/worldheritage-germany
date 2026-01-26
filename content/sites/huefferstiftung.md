@@ -4,19 +4,18 @@ site_name: "Hüfferstiftung"
 date: 2026-01-26
 draft: false
 description: ""
-region: "North Rhine-Westphalia"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "North Rhine-Westphalia"
+  - "Lower Saxony"
 wikidata_id: "Q1652090"
 latitude: 51.9608
 longitude: 7.60799
 images:
-  []
----
+  []---
 
 ## Overview
 

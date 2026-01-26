@@ -4,13 +4,13 @@ site_name: "Saint Peter and Paul"
 date: 2026-01-26
 draft: false
 description: "church in Gorlitz, Germany"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q522824"
 latitude: 51.158388
 longitude: 14.992366
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/400px-Görlitz_St._Peter_und_Paul_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/800px-Görlitz_St._Peter_und_Paul_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/1200px-Görlitz_St._Peter_und_Paul_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/1920px-Görlitz_St._Peter_und_Paul_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/1920px-Görlitz_St._Peter_und_Paul_01.jpg---
 
 ## Overview
 

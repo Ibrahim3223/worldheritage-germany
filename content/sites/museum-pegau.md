@@ -4,19 +4,18 @@ site_name: "Museum Pegau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pegau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pegau"
+  - "Saxony"
 wikidata_id: "Q1954479"
 latitude: 51.166757183
 longitude: 12.255546646
 images:
-  []
----
+  []---
 
 ## Overview
 

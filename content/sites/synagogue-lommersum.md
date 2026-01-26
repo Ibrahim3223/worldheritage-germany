@@ -4,13 +4,13 @@ site_name: "Synagogue Lommersum"
 date: 2026-01-26
 draft: false
 description: "Synagoge in Lommersum"
-region: "Weilerswist"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Weilerswist"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1685089"
 latitude: 50.7099
 longitude: 6.79736
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/14-03-09_Lommersum_Synagoge_01.jpg/400px-14-03-09_Lommersum_Synagoge_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/14-03-09_Lommersum_Synagoge_01.jpg/800px-14-03-09_Lommersum_Synagoge_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/14-03-09_Lommersum_Synagoge_01.jpg/1200px-14-03-09_Lommersum_Synagoge_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/14-03-09_Lommersum_Synagoge_01.jpg/1920px-14-03-09_Lommersum_Synagoge_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/14-03-09_Lommersum_Synagoge_01.jpg/1920px-14-03-09_Lommersum_Synagoge_01.jpg---
 
 ## Overview
 

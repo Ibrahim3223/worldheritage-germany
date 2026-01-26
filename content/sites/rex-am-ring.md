@@ -4,13 +4,13 @@ site_name: "Rex am Ring"
 date: 2026-01-26
 draft: false
 description: "cinema in Cologne, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2147055"
 latitude: 50.9402
 longitude: 6.94031
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/400px-Rex-kino.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/800px-Rex-kino.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/1200px-Rex-kino.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/1920px-Rex-kino.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/1920px-Rex-kino.jpg---
 
 ## Overview
 

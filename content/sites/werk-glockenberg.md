@@ -4,19 +4,18 @@ site_name: "Werk Glockenberg"
 date: 2026-01-26
 draft: false
 description: "Teil der preußischen Festung Koblenz"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1436894"
 latitude: 50.3503
 longitude: 7.61141
 images:
-  []
----
+  []---
 
 ## Overview
 

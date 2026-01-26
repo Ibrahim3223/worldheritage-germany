@@ -4,13 +4,13 @@ site_name: "Henriette Church"
 date: 2026-01-26
 draft: false
 description: "church building in Oberspreewald-Lausitz district, Brandenburg, Germany"
-region: "Schipkau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schipkau"
+  - "Brandenburg"
 wikidata_id: "Q1606220"
 latitude: 51.562027777
 longitude: 13.891027777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/400px-Annahütte_kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/800px-Annahütte_kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/1200px-Annahütte_kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/1920px-Annahütte_kirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/1920px-Annahütte_kirche.JPG---
 
 ## Overview
 

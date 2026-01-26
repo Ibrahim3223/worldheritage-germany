@@ -4,13 +4,13 @@ site_name: "Christi Himmelfahrt"
 date: 2026-01-26
 draft: false
 description: "Lutheran parish church in Freising (Upper Bavaria). Hall with west tower, built in 1951/52 according to plans by architect Julius Ott and Zeitler on t"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q2082567"
 latitude: 48.39561
 longitude: 11.7422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/400px-Freising,_Himmelfahrtskirche,_17.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/800px-Freising,_Himmelfahrtskirche,_17.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/1200px-Freising,_Himmelfahrtskirche,_17.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/1920px-Freising,_Himmelfahrtskirche,_17.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/1920px-Freising,_Himmelfahrtskirche,_17.jpeg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Paulskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Schwerin, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q1287478"
 latitude: 53.6317
 longitude: 11.4083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/400px-Paulskirche_(SN).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/800px-Paulskirche_(SN).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/1200px-Paulskirche_(SN).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/1920px-Paulskirche_(SN).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/1920px-Paulskirche_(SN).jpg---
 
 ## Overview
 

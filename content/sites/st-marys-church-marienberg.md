@@ -4,13 +4,13 @@ site_name: "St Mary's Church, Marienberg"
 date: 2026-01-26
 draft: false
 description: "church building in Marienberg, Germany"
-region: "Marienberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marienberg"
+  - "Saxony"
 wikidata_id: "Q2320857"
 latitude: 50.6505
 longitude: 13.1657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/400px-Kirche_Marienberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/800px-Kirche_Marienberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/1200px-Kirche_Marienberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/1920px-Kirche_Marienberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/1920px-Kirche_Marienberg.jpg---
 
 ## Overview
 

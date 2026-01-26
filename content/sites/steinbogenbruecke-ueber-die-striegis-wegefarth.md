@@ -4,19 +4,18 @@ site_name: "Steinbogenbrücke über die Striegis Wegefarth"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Oberschöna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Oberschöna"
+  - "Saxony"
 wikidata_id: "Q49449006"
 latitude: 50.921104172
 longitude: 13.242335369
 images:
-  []
----
+  []---
 
 ## Overview
 

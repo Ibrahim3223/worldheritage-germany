@@ -4,13 +4,13 @@ site_name: "Zeughauskino"
 date: 2026-01-26
 draft: false
 description: "cinema within the Zeughaus museum in Mitte, Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q196969"
 latitude: 52.5181
 longitude: 13.3978
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zeughauskino_Berlinale_2015.jpg/400px-Zeughauskino_Berlinale_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zeughauskino_Berlinale_2015.jpg/800px-Zeughauskino_Berlinale_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zeughauskino_Berlinale_2015.jpg/1200px-Zeughauskino_Berlinale_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zeughauskino_Berlinale_2015.jpg/1920px-Zeughauskino_Berlinale_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zeughauskino_Berlinale_2015.jpg/1920px-Zeughauskino_Berlinale_2015.jpg---
 
 ## Overview
 

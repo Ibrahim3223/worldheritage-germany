@@ -4,19 +4,18 @@ site_name: "Deutsches Brauereimuseum"
 date: 2026-01-26
 draft: false
 description: "former museum in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q320780"
 latitude: 48.134816693
 longitude: 11.573088369
 images:
-  []
----
+  []---
 
 ## Overview
 

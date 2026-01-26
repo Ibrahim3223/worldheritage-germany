@@ -4,13 +4,13 @@ site_name: "St. Bruno"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Unterrath, Germany"
-region: "Unterrath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Unterrath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317707"
 latitude: 51.2661
 longitude: 6.7755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg/400px-St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg/800px-St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg/1200px-St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg/1920px-St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg/1920px-St._Bruno_in_Duesseldorf-Unterrath,_von_Westen.jpg---
 
 ## Overview
 

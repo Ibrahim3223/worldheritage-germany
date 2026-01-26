@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thurner_St_Maergen.jpg/400px-Thurner_St_Maergen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thurner_St_Maergen.jpg/800px-Thurner_St_Maergen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thurner_St_Maergen.jpg/1200px-Thurner_St_Maergen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thurner_St_Maergen.jpg/1920px-Thurner_St_Maergen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Thurner_St_Maergen.jpg/1920px-Thurner_St_Maergen.jpg---
 
 ## Overview
 

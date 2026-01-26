@@ -4,13 +4,13 @@ site_name: "St. Jakob"
 date: 2026-01-26
 draft: false
 description: "church building in Köthen, Saxony-Anhalt, Germany"
-region: "Köthen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Köthen"
+  - "Brandenburg"
 wikidata_id: "Q2318885"
 latitude: 51.7512
 longitude: 11.9736
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/400px-2010-06-09-koethen-by-RalfR-38.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/800px-2010-06-09-koethen-by-RalfR-38.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/1200px-2010-06-09-koethen-by-RalfR-38.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/1920px-2010-06-09-koethen-by-RalfR-38.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/1920px-2010-06-09-koethen-by-RalfR-38.jpg---
 
 ## Overview
 

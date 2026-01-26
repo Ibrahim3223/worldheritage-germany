@@ -4,13 +4,13 @@ site_name: "Friedenskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1456810"
 latitude: 48.8908
 longitude: 9.19379
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ludwigsburg_-_Friedenskirche_02.jpg/400px-Ludwigsburg_-_Friedenskirche_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ludwigsburg_-_Friedenskirche_02.jpg/800px-Ludwigsburg_-_Friedenskirche_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ludwigsburg_-_Friedenskirche_02.jpg/1200px-Ludwigsburg_-_Friedenskirche_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ludwigsburg_-_Friedenskirche_02.jpg/1920px-Ludwigsburg_-_Friedenskirche_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ludwigsburg_-_Friedenskirche_02.jpg/1920px-Ludwigsburg_-_Friedenskirche_02.jpg---
 
 ## Overview
 

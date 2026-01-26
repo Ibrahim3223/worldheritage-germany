@@ -4,13 +4,13 @@ site_name: "Lingen (Ems) station"
 date: 2026-01-26
 draft: false
 description: "railway station in Lingen, Germany"
-region: "Lingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Lingen"
+  - "Lower Saxony"
 wikidata_id: "Q320255"
 latitude: 52.519444
 longitude: 7.321667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BahnhofLingenEG.jpg/400px-BahnhofLingenEG.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BahnhofLingenEG.jpg/800px-BahnhofLingenEG.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BahnhofLingenEG.jpg/1200px-BahnhofLingenEG.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BahnhofLingenEG.jpg/1920px-BahnhofLingenEG.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BahnhofLingenEG.jpg/1920px-BahnhofLingenEG.jpg---
 
 ## Overview
 

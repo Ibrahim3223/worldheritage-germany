@@ -4,13 +4,13 @@ site_name: "Richard-Strauss-Institut"
 date: 2026-01-26
 draft: false
 description: "research institute, museum and archive in Garmisch-Partenkirchen"
-region: "Garmisch-Partenkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Garmisch-Partenkirchen"
+  - "Bavaria"
 wikidata_id: "Q29413564"
 latitude: 47.493085
 longitude: 11.107684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/400px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/800px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/1200px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/1920px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/1920px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG---
 
 ## Overview
 

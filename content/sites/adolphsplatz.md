@@ -4,13 +4,13 @@ site_name: "Adolphsplatz"
 date: 2026-01-26
 draft: false
 description: "square"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q365966"
 latitude: 53.54964
 longitude: 9.990723
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hamburg_Adolphsplatz.jpg/400px-Hamburg_Adolphsplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hamburg_Adolphsplatz.jpg/800px-Hamburg_Adolphsplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hamburg_Adolphsplatz.jpg/1200px-Hamburg_Adolphsplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hamburg_Adolphsplatz.jpg/1920px-Hamburg_Adolphsplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hamburg_Adolphsplatz.jpg/1920px-Hamburg_Adolphsplatz.jpg---
 
 ## Overview
 

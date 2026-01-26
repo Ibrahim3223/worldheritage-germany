@@ -4,13 +4,13 @@ site_name: "Still Eilhard Mitscherlich"
 date: 2026-01-26
 draft: false
 description: "statue at Humboldt University of Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q14537918"
 latitude: 52.5185
 longitude: 13.3946
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg/400px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg/800px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg/1200px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg/1920px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg/1920px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Eilhard_Mitscherlich_03.jpg---
 
 ## Overview
 

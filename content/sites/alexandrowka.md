@@ -4,13 +4,13 @@ site_name: "Alexandrowka"
 date: 2026-01-26
 draft: false
 description: "Russian architectural ensemble in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q622264"
 latitude: 52.41056
 longitude: 13.05694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/400px-Potsdam_Alexandrowka_02-14_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/800px-Potsdam_Alexandrowka_02-14_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1200px-Potsdam_Alexandrowka_02-14_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1920px-Potsdam_Alexandrowka_02-14_img2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1920px-Potsdam_Alexandrowka_02-14_img2.jpg---
 
 ## Overview
 

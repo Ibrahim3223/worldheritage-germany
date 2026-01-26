@@ -4,13 +4,13 @@ site_name: "Seigerturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Südharz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Südharz"
+  - "Lower Saxony"
 wikidata_id: "Q1400064"
 latitude: 51.5731
 longitude: 10.9552
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2007-04_Stolberg_(Harz)_34.jpg/400px-2007-04_Stolberg_(Harz)_34.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2007-04_Stolberg_(Harz)_34.jpg/800px-2007-04_Stolberg_(Harz)_34.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2007-04_Stolberg_(Harz)_34.jpg/1200px-2007-04_Stolberg_(Harz)_34.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2007-04_Stolberg_(Harz)_34.jpg/1920px-2007-04_Stolberg_(Harz)_34.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2007-04_Stolberg_(Harz)_34.jpg/1920px-2007-04_Stolberg_(Harz)_34.jpg---
 
 ## Overview
 

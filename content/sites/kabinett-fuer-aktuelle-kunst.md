@@ -4,19 +4,18 @@ site_name: "Kabinett für aktuelle Kunst"
 date: 2026-01-26
 draft: false
 description: "Museum in Germany"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q1720815"
 latitude: 53.5404
 longitude: 8.58262
 images:
-  []
----
+  []---
 
 ## Overview
 

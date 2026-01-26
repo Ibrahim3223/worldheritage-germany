@@ -4,13 +4,13 @@ site_name: "Cologne Charterhouse"
 date: 2026-01-26
 draft: false
 description: "monastery in Cologne, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q291014"
 latitude: 50.9245
 longitude: 6.95563
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/400px-Kartause_koeln_nordseite_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/800px-Kartause_koeln_nordseite_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/1200px-Kartause_koeln_nordseite_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/1920px-Kartause_koeln_nordseite_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/1920px-Kartause_koeln_nordseite_2009.jpg---
 
 ## Overview
 

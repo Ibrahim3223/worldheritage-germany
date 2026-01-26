@@ -4,13 +4,13 @@ site_name: "Dusenddüwelswarf"
 date: 2026-01-26
 draft: false
 description: "artificial dwelling hill"
-region: "Eggstedt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Eggstedt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1267606"
 latitude: 54.1263
 longitude: 9.05606
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/400px-Dusenddüwelswarf_2020-08-09_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/800px-Dusenddüwelswarf_2020-08-09_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/1200px-Dusenddüwelswarf_2020-08-09_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/1920px-Dusenddüwelswarf_2020-08-09_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/1920px-Dusenddüwelswarf_2020-08-09_1.jpg---
 
 ## Overview
 

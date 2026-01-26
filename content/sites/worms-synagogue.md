@@ -4,13 +4,13 @@ site_name: "Worms Synagogue"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q218162"
 latitude: 49.6336
 longitude: 8.36634
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/400px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/800px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/1200px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/1920px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/1920px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg---
 
 ## Overview
 

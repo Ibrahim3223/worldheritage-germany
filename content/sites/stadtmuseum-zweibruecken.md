@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Zweibrücken"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Zweibrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zweibrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q19964850"
 latitude: 49.2512953
 longitude: 7.3604028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/400px-Petrihaus_Zweibrücken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/800px-Petrihaus_Zweibrücken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/1200px-Petrihaus_Zweibrücken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/1920px-Petrihaus_Zweibrücken.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/1920px-Petrihaus_Zweibrücken.jpg---
 
 ## Overview 
 

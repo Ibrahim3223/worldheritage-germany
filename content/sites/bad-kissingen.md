@@ -4,13 +4,13 @@ site_name: "Bad Kissingen"
 date: 2026-01-26
 draft: false
 description: "town in Bavaria, Germany"
-region: "Bad Kissingen district"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "World Heritage Site"
 categories:
   - "World Heritage Site"
 regions:
-  - "Bad Kissingen district"
+  - "Bavaria"
 wikidata_id: "Q488346"
 latitude: 50.2
 longitude: 10.066666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/400px-Badkissingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/800px-Badkissingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/1200px-Badkissingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/1920px-Badkissingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/1920px-Badkissingen.jpg---
 
 ## Overview
 

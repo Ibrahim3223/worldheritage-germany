@@ -4,19 +4,18 @@ site_name: "Wiesenpark Oschersleben"
 date: 2026-01-26
 draft: false
 description: "Parkanlage mit Tiergarten in Oschersleben in Sachsen-Anhalt"
-region: "Oschersleben"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Oschersleben"
+  - "Lower Saxony"
 wikidata_id: "Q2569469"
 latitude: 52.0213
 longitude: 11.2371
 images:
-  []
----
+  []---
 
 ## Overview 
 

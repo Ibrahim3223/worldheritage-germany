@@ -4,13 +4,13 @@ site_name: "Rathaus Hildburghausen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Hildburghausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hildburghausen"
+  - "Bavaria"
 wikidata_id: "Q25474423"
 latitude: 50.425961
 longitude: 10.729943
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/400px-Hildburghausen_Historisches_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/800px-Hildburghausen_Historisches_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/1200px-Hildburghausen_Historisches_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/1920px-Hildburghausen_Historisches_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/1920px-Hildburghausen_Historisches_Rathaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gut Seekamp"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1557042"
 latitude: 54.4097
 longitude: 10.1619
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/400px-Seekamp_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/800px-Seekamp_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/1200px-Seekamp_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/1920px-Seekamp_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/1920px-Seekamp_01.jpg---
 
 ## Overview
 

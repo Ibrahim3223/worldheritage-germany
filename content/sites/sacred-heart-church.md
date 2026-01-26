@@ -4,13 +4,13 @@ site_name: "Sacred-Heart-Church"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Derendorf, Germany"
-region: "Derendorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Derendorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1614954"
 latitude: 51.2467
 longitude: 6.77934
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/400px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/800px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/1200px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/1920px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/1920px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg---
 
 ## Overview
 

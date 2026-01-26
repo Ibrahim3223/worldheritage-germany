@@ -4,19 +4,18 @@ site_name: "Handschriften-Ausstellung der Universitätsbibliothek Kassel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q76633934"
 latitude: 51.3101
 longitude: 9.49062
 images:
-  []
----
+  []---
 
 ## Overview
 

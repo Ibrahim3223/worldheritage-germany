@@ -4,13 +4,13 @@ site_name: "Gut Wedigenstein"
 date: 2026-01-26
 draft: false
 description: "building in Porta Westfalica, Germany"
-region: "Porta Westfalica"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Porta Westfalica"
+  - "Lower Saxony"
 wikidata_id: "Q1557075"
 latitude: 52.2417
 longitude: 8.89028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GutWedigenstein1.jpg/400px-GutWedigenstein1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GutWedigenstein1.jpg/800px-GutWedigenstein1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GutWedigenstein1.jpg/1200px-GutWedigenstein1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GutWedigenstein1.jpg/1920px-GutWedigenstein1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GutWedigenstein1.jpg/1920px-GutWedigenstein1.jpg---
 
 ## Overview
 

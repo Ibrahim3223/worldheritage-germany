@@ -4,13 +4,13 @@ site_name: "Speicherstadt"
 date: 2026-01-26
 draft: false
 description: "Part of Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q661881"
 latitude: 53.54333333
 longitude: 9.99194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/400px-Speicherstadt_abends.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/800px-Speicherstadt_abends.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/1200px-Speicherstadt_abends.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/1920px-Speicherstadt_abends.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/1920px-Speicherstadt_abends.jpg---
 
 ## Overview
 

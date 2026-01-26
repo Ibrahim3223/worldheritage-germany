@@ -4,13 +4,13 @@ site_name: "University Library Freiberg"
 date: 2026-01-26
 draft: false
 description: "University Library of the Technische Universität Bergakademie Freiberg"
-region: "Freiberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Freiberg"
+  - "Saxony"
 wikidata_id: "Q2496296"
 latitude: 50.9236128
 longitude: 13.3415801
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/400px-Freiberg_University_Library_December_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/800px-Freiberg_University_Library_December_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/1200px-Freiberg_University_Library_December_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/1920px-Freiberg_University_Library_December_2023.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/1920px-Freiberg_University_Library_December_2023.jpg---
 
 ## Overview
 

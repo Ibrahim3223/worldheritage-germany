@@ -4,13 +4,13 @@ site_name: "Deutsches Fächer Museum – Barisch Stiftung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q23785323"
 latitude: 52.01875278
 longitude: 8.530425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deutsches_Fächermuseum_Bielefeld_2016.jpg/400px-Deutsches_Fächermuseum_Bielefeld_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deutsches_Fächermuseum_Bielefeld_2016.jpg/800px-Deutsches_Fächermuseum_Bielefeld_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deutsches_Fächermuseum_Bielefeld_2016.jpg/1200px-Deutsches_Fächermuseum_Bielefeld_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deutsches_Fächermuseum_Bielefeld_2016.jpg/1920px-Deutsches_Fächermuseum_Bielefeld_2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deutsches_Fächermuseum_Bielefeld_2016.jpg/1920px-Deutsches_Fächermuseum_Bielefeld_2016.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heidelberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q327265"
 latitude: 49.410555555
 longitude: 8.715833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/400px-Heidelberg-Schloß.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/800px-Heidelberg-Schloß.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1200px-Heidelberg-Schloß.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1920px-Heidelberg-Schloß.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1920px-Heidelberg-Schloß.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Torhaus Adlitz 43 in Ahorntal"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-72-111-7 (2) in Ahorntal, Bavaria"
-region: "Ahorntal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Ahorntal"
+  - "Bavaria"
 wikidata_id: "Q98587134"
 latitude: 49.820296404
 longitude: 11.433769757
 images:
-  []
----
+  []---
 
 ## Overview
 

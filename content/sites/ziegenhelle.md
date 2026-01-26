@@ -4,13 +4,13 @@ site_name: "Ziegenhelle"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Hochsauerlandkreis"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Hochsauerlandkreis"
+  - "Hesse"
 wikidata_id: "Q198801"
 latitude: 51.1257
 longitude: 8.52977
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/400px-Ziegenhelle_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/800px-Ziegenhelle_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/1200px-Ziegenhelle_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/1920px-Ziegenhelle_von_Nordosten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/1920px-Ziegenhelle_von_Nordosten.jpg---
 
 ## Overview
 

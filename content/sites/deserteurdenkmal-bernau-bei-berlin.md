@@ -4,13 +4,13 @@ site_name: "Deserteurdenkmal (Bernau bei Berlin)"
 date: 2026-01-26
 draft: false
 description: "monument in Bernau bei Berlin, Brandenburg, Germany"
-region: "Bernau bei Berlin"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bernau bei Berlin"
+  - "Berlin"
 wikidata_id: "Q1200603"
 latitude: 52.6802
 longitude: 13.5856
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/400px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/800px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/1200px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/1920px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/1920px-Bernau_bei_Berlin_Deserteurdenkmal.JPG---
 
 ## Overview
 

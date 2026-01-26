@@ -4,13 +4,13 @@ site_name: "Grenzau Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Höhr-Grenzhausen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Höhr-Grenzhausen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012041"
 latitude: 50.4503
 longitude: 7.65523
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/400px-Grenzau_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/800px-Grenzau_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1200px-Grenzau_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1920px-Grenzau_Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1920px-Grenzau_Burg.jpg---
 
 ## Overview
 

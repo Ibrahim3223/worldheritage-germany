@@ -4,13 +4,13 @@ site_name: "Baindt Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Baindt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Baindt"
+  - "Baden-Württemberg"
 wikidata_id: "Q468189"
 latitude: 47.842778
 longitude: 9.665833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/400px-Baindt_Kloster_Ansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/800px-Baindt_Kloster_Ansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1200px-Baindt_Kloster_Ansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1920px-Baindt_Kloster_Ansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1920px-Baindt_Kloster_Ansicht.jpg---
 
 ## Overview
 

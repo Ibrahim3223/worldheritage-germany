@@ -4,13 +4,13 @@ site_name: "ZEISS Forum and Museum of Optics"
 date: 2026-01-26
 draft: false
 description: "museum of microscopy, in Germany"
-region: "Oberkochen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberkochen"
+  - "Baden-Württemberg"
 wikidata_id: "Q27809678"
 latitude: 48.78286
 longitude: 10.10064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Theodolit-zeiss.JPG/400px-Theodolit-zeiss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Theodolit-zeiss.JPG/800px-Theodolit-zeiss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Theodolit-zeiss.JPG/1200px-Theodolit-zeiss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Theodolit-zeiss.JPG/1920px-Theodolit-zeiss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Theodolit-zeiss.JPG/1920px-Theodolit-zeiss.JPG---
 
 ## Overview
 

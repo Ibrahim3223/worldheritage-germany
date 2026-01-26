@@ -4,13 +4,13 @@ site_name: "Museum der Schwalm"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schwalmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwalmstadt"
+  - "Hesse"
 wikidata_id: "Q1954558"
 latitude: 50.9109
 longitude: 9.2347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/400px-Museum_der_Schwalm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/800px-Museum_der_Schwalm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/1200px-Museum_der_Schwalm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/1920px-Museum_der_Schwalm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/1920px-Museum_der_Schwalm.jpg---
 
 ## Overview
 

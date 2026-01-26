@@ -4,13 +4,13 @@ site_name: "Geschichtsmuseum Lüdenscheid"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lüdenscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lüdenscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1517744"
 latitude: 51.2138
 longitude: 7.6316
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Luedenscheid-Geschichtsmuseum1-Asio.JPG/400px-Luedenscheid-Geschichtsmuseum1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Luedenscheid-Geschichtsmuseum1-Asio.JPG/800px-Luedenscheid-Geschichtsmuseum1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Luedenscheid-Geschichtsmuseum1-Asio.JPG/1200px-Luedenscheid-Geschichtsmuseum1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Luedenscheid-Geschichtsmuseum1-Asio.JPG/1920px-Luedenscheid-Geschichtsmuseum1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Luedenscheid-Geschichtsmuseum1-Asio.JPG/1920px-Luedenscheid-Geschichtsmuseum1-Asio.JPG---
 
 ## Overview
 

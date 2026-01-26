@@ -4,13 +4,13 @@ site_name: "Brömserhof"
 date: 2026-01-26
 draft: false
 description: "building in Lübeck, Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q995760"
 latitude: 53.8641
 longitude: 10.6884
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Broemserhof_4_2013_1.JPG/400px-Broemserhof_4_2013_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Broemserhof_4_2013_1.JPG/800px-Broemserhof_4_2013_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Broemserhof_4_2013_1.JPG/1200px-Broemserhof_4_2013_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Broemserhof_4_2013_1.JPG/1920px-Broemserhof_4_2013_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Broemserhof_4_2013_1.JPG/1920px-Broemserhof_4_2013_1.JPG---
 
 ## Overview
 

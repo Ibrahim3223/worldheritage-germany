@@ -4,13 +4,13 @@ site_name: "The old Johanneskirche (Mußbach)"
 date: 2026-01-26
 draft: false
 description: "church building in Neustadt an der Weinstraße, Germany"
-region: "Neustadt an der Weinstraße"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Neustadt an der Weinstraße"
+  - "Baden-Württemberg"
 wikidata_id: "Q435646"
 latitude: 49.3694
 longitude: 8.17028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mussbach_Kirchturm_Tor.jpg/400px-Mussbach_Kirchturm_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mussbach_Kirchturm_Tor.jpg/800px-Mussbach_Kirchturm_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mussbach_Kirchturm_Tor.jpg/1200px-Mussbach_Kirchturm_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mussbach_Kirchturm_Tor.jpg/1920px-Mussbach_Kirchturm_Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mussbach_Kirchturm_Tor.jpg/1920px-Mussbach_Kirchturm_Tor.jpg---
 
 ## Overview
 

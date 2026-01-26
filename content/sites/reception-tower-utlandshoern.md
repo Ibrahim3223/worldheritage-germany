@@ -4,19 +4,18 @@ site_name: "Reception Tower Utlandshörn"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Norden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Norden"
+  - "Lower Saxony"
 wikidata_id: "Q1287367"
 latitude: 53.562992
 longitude: 7.107639
 images:
-  []
----
+  []---
 
 ## Overview
 

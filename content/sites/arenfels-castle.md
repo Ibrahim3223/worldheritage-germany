@@ -4,13 +4,13 @@ site_name: "Arenfels Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Rheinland-Pfalz, Germany"
-region: "Bad Hönningen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Hönningen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q35706"
 latitude: 50.5219
 longitude: 7.30722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/400px-Schloss_Arenfels_019-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/800px-Schloss_Arenfels_019-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/1200px-Schloss_Arenfels_019-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/1920px-Schloss_Arenfels_019-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/1920px-Schloss_Arenfels_019-.jpg---
 
 ## Overview
 

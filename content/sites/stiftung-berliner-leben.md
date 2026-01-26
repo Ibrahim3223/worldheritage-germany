@@ -4,13 +4,13 @@ site_name: "Stiftung Berliner Leben"
 date: 2026-01-26
 draft: false
 description: "Stiftung in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q111594588"
 latitude: 52.5239486
 longitude: 13.3467693
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/400px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/800px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/1200px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/1920px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/1920px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg---
 
 ## Overview
 

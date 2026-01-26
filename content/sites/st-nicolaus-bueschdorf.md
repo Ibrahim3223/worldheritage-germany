@@ -4,13 +4,13 @@ site_name: "St. Nicolaus (Büschdorf)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1478489"
 latitude: 51.4772
 longitude: 12.0323
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Büschdorf_Kirche.jpg/400px-Büschdorf_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Büschdorf_Kirche.jpg/800px-Büschdorf_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Büschdorf_Kirche.jpg/1200px-Büschdorf_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Büschdorf_Kirche.jpg/1920px-Büschdorf_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Büschdorf_Kirche.jpg/1920px-Büschdorf_Kirche.jpg---
 
 ## Overview
 

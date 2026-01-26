@@ -4,19 +4,18 @@ site_name: "Bakenberg"
 date: 2026-01-26
 draft: false
 description: "Erholungsgebiet mit Sandstrand auf der Insel Rügen in Mecklenburg-Vorpommern"
-region: "Dranske"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Dranske"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15785306"
 latitude: 54.670307
 longitude: 13.281741
 images:
-  []
----
+  []---
 
 ## Overview
 

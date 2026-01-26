@@ -4,13 +4,13 @@ site_name: "Protestant Chapel"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Felsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Felsberg"
+  - "Hesse"
 wikidata_id: "Q1380249"
 latitude: 51.1674
 longitude: 9.44485
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/400px-Altenbrunslar_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/800px-Altenbrunslar_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/1200px-Altenbrunslar_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/1920px-Altenbrunslar_Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/1920px-Altenbrunslar_Kapelle.jpg---
 
 ## Overview
 

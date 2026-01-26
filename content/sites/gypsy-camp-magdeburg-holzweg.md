@@ -4,19 +4,18 @@ site_name: "gypsy camp Magdeburg Holzweg"
 date: 2026-01-26
 draft: false
 description: "Nazi internment camp for Romani and Sinti"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q199397"
 latitude: 52.1682
 longitude: 11.6003
 images:
-  []
----
+  []---
 
 ## Overview
 

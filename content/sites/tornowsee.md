@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg/400px-Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg/800px-Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg/1200px-Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg/1920px-Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg/1920px-Landschaftsschutzgebiet_Ruppiner_Wald-_und_Seengebiet_Tornowsee_lub_2025-06-29.jpg---
 
 ## Overview
 

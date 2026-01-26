@@ -4,13 +4,13 @@ site_name: "Sankt-Michaelis-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Schkopau, Germany"
-region: "Schkopau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schkopau"
+  - "Saxony"
 wikidata_id: "Q2316575"
 latitude: 51.3926
 longitude: 12.1087
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/400px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/800px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/1200px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/1920px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/1920px-Michaelis_Kirche_Raßnitz_Weßmar.jpg---
 
 ## Overview
 

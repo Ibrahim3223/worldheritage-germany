@@ -4,13 +4,13 @@ site_name: "Niederländisches Palais"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1733253"
 latitude: 52.516861111
 longitude: 13.392111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/400px-Fotothek_df_pk_0000176_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/800px-Fotothek_df_pk_0000176_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/1200px-Fotothek_df_pk_0000176_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/1920px-Fotothek_df_pk_0000176_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/1920px-Fotothek_df_pk_0000176_001.jpg---
 
 ## Overview
 

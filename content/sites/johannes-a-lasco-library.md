@@ -4,13 +4,13 @@ site_name: "Johannes a Lasco Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1425545"
 latitude: 53.3653
 longitude: 7.20236
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/400px-Innenraum_dergrßenkirche4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/800px-Innenraum_dergrßenkirche4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/1200px-Innenraum_dergrßenkirche4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/1920px-Innenraum_dergrßenkirche4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/1920px-Innenraum_dergrßenkirche4.jpg---
 
 ## Overview
 

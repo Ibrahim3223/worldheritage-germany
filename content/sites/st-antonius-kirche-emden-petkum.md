@@ -4,13 +4,13 @@ site_name: "St.-Antonius-Kirche (Emden-Petkum)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1629370"
 latitude: 53.3337
 longitude: 7.27344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/400px-ChurchPetkum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/800px-ChurchPetkum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/1200px-ChurchPetkum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/1920px-ChurchPetkum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/1920px-ChurchPetkum.JPG---
 
 ## Overview
 

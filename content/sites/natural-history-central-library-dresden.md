@@ -4,13 +4,13 @@ site_name: "Natural History Central Library Dresden"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1970321"
 latitude: 51.1289
 longitude: 13.79
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sachsen_fg28.jpg/400px-Sachsen_fg28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sachsen_fg28.jpg/800px-Sachsen_fg28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sachsen_fg28.jpg/1200px-Sachsen_fg28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sachsen_fg28.jpg/1920px-Sachsen_fg28.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sachsen_fg28.jpg/1920px-Sachsen_fg28.jpg---
 
 ## Overview
 

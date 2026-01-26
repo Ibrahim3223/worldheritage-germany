@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Heuchelheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633908"
 latitude: 50.586428
 longitude: 8.613557
 images:
-  []
----
+  []---
 
 ## Overview
 

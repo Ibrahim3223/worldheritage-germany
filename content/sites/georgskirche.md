@@ -4,13 +4,13 @@ site_name: "Georgskirche"
 date: 2026-01-26
 draft: false
 description: "church in Schwieberdingen"
-region: "Schwieberdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwieberdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1509545"
 latitude: 48.878
 longitude: 9.07533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/400px-Schwieberdingen_Georgskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/800px-Schwieberdingen_Georgskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/1200px-Schwieberdingen_Georgskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/1920px-Schwieberdingen_Georgskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/1920px-Schwieberdingen_Georgskirche.jpg---
 
 ## Overview
 

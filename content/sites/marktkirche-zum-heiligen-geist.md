@@ -4,13 +4,13 @@ site_name: "Marktkirche zum Heiligen Geist"
 date: 2026-01-26
 draft: false
 description: "church in Clausthal-Zellerfeld, Germany"
-region: "Clausthal-Zellerfeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Clausthal-Zellerfeld"
+  - "Lower Saxony"
 wikidata_id: "Q1901094"
 latitude: 51.804
 longitude: 10.3341
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/400px-Clausthal_Marktkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/800px-Clausthal_Marktkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/1200px-Clausthal_Marktkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/1920px-Clausthal_Marktkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Clausthal_Marktkirche.jpg/1920px-Clausthal_Marktkirche.jpg---
 
 ## Overview
 

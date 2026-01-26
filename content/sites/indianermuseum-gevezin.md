@@ -4,13 +4,13 @@ site_name: "Indianermuseum Gevezin"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Blankenhof"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Blankenhof"
+  - "Brandenburg"
 wikidata_id: "Q18605907"
 latitude: 53.563833
 longitude: 13.1095
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/400px-Gutshaus_Gevezin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/800px-Gutshaus_Gevezin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/1200px-Gutshaus_Gevezin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/1920px-Gutshaus_Gevezin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/1920px-Gutshaus_Gevezin.jpg---
 
 ## Overview
 

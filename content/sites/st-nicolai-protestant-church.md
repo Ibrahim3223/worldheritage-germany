@@ -4,13 +4,13 @@ site_name: "St. Nicolai protestant church"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Schmiedeberg, Saxony-Anhalt, Germany"
-region: "Bad Schmiedeberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Schmiedeberg"
+  - "Brandenburg"
 wikidata_id: "Q1991087"
 latitude: 51.68720278
 longitude: 12.73663056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/400px-B_SchmiedebergStadtkirche2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/800px-B_SchmiedebergStadtkirche2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/1200px-B_SchmiedebergStadtkirche2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/1920px-B_SchmiedebergStadtkirche2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/1920px-B_SchmiedebergStadtkirche2.JPG---
 
 ## Overview
 

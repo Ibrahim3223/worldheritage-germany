@@ -4,13 +4,13 @@ site_name: "Kettenschmiedemuseum Sichtigvor"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Warstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Warstein"
+  - "Hesse"
 wikidata_id: "Q1739970"
 latitude: 51.489
 longitude: 8.27858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Warstein-090711-8905.jpg/400px-Warstein-090711-8905.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Warstein-090711-8905.jpg/800px-Warstein-090711-8905.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Warstein-090711-8905.jpg/1200px-Warstein-090711-8905.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Warstein-090711-8905.jpg/1920px-Warstein-090711-8905.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Warstein-090711-8905.jpg/1920px-Warstein-090711-8905.jpg---
 
 ## Overview
 

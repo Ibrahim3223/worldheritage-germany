@@ -4,13 +4,13 @@ site_name: "Rathaus Hoym"
 date: 2026-01-26
 draft: false
 description: "Bauwerk"
-region: "Seeland"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Seeland"
+  - "Brandenburg"
 wikidata_id: "Q112602137"
 latitude: 51.783153689
 longitude: 11.312905312
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/400px-Rathausplatz_1_(Hoym)_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/800px-Rathausplatz_1_(Hoym)_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/1200px-Rathausplatz_1_(Hoym)_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/1920px-Rathausplatz_1_(Hoym)_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/1920px-Rathausplatz_1_(Hoym)_04.jpg---
 
 ## Overview
 

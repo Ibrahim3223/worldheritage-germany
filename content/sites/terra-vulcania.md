@@ -4,19 +4,18 @@ site_name: "Terra Vulcania"
 date: 2026-01-26
 draft: false
 description: "Museum of basalt mining in Mayen"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q19309895"
 latitude: 50.33301954
 longitude: 7.23788415
 images:
-  []
----
+  []---
 
 ## Overview
 

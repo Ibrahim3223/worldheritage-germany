@@ -4,13 +4,13 @@ site_name: "Vietlübbe Church"
 date: 2026-01-26
 draft: false
 description: "church building in Dragun, Germany"
-region: "Dragun"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dragun"
+  - "Lower Saxony"
 wikidata_id: "Q1244782"
 latitude: 53.710352
 longitude: 11.199054
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/400px-Kirche_in_Vietlübbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/800px-Kirche_in_Vietlübbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/1200px-Kirche_in_Vietlübbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/1920px-Kirche_in_Vietlübbe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/1920px-Kirche_in_Vietlübbe.jpg---
 
 ## Overview
 

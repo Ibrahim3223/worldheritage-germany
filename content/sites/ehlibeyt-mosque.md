@@ -4,13 +4,13 @@ site_name: "Ehlibeyt Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Hanover, Germany"
-region: "Nord"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Nord"
+  - "Lower Saxony"
 wikidata_id: "Q93347170"
 latitude: 52.393439
 longitude: 9.712268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/400px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/800px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/1200px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/1920px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/1920px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg---
 
 ## Overview
 

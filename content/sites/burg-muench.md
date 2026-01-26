@@ -4,13 +4,13 @@ site_name: "Burg Münch"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Münchenbernsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Münchenbernsdorf"
+  - "Saxony"
 wikidata_id: "Q1013175"
 latitude: 50.8205
 longitude: 11.9321
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/400px-MünchenbernsdorfNSchloßstr.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/800px-MünchenbernsdorfNSchloßstr.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/1200px-MünchenbernsdorfNSchloßstr.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/1920px-MünchenbernsdorfNSchloßstr.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/1920px-MünchenbernsdorfNSchloßstr.JPG---
 
 ## Overview
 

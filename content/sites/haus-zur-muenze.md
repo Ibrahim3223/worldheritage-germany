@@ -4,13 +4,13 @@ site_name: "Haus zur Münze"
 date: 2026-01-26
 draft: false
 description: "Town hall of the city of Worms"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q126193224"
 latitude: 49.6298
 longitude: 8.36118
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haus_zur_Münze_vor_1689.jpg/400px-Haus_zur_Münze_vor_1689.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haus_zur_Münze_vor_1689.jpg/800px-Haus_zur_Münze_vor_1689.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haus_zur_Münze_vor_1689.jpg/1200px-Haus_zur_Münze_vor_1689.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haus_zur_Münze_vor_1689.jpg/1920px-Haus_zur_Münze_vor_1689.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haus_zur_Münze_vor_1689.jpg/1920px-Haus_zur_Münze_vor_1689.jpg---
 
 ## Overview
 

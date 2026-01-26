@@ -4,13 +4,13 @@ site_name: "Windmühle am Hafen"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Osterholz-Scharmbeck"
-region: "Osterholz-Scharmbeck"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Osterholz-Scharmbeck"
+  - "Bremen"
 wikidata_id: "Q132559620"
 latitude: 53.218394
 longitude: 8.806044
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osterholzer_Muehle.jpg/400px-Osterholzer_Muehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osterholzer_Muehle.jpg/800px-Osterholzer_Muehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osterholzer_Muehle.jpg/1200px-Osterholzer_Muehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osterholzer_Muehle.jpg/1920px-Osterholzer_Muehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Osterholzer_Muehle.jpg/1920px-Osterholzer_Muehle.jpg---
 
 ## Overview
 

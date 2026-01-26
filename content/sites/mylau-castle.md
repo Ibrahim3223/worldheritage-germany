@@ -4,13 +4,13 @@ site_name: "Mylau Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Reichenbach im Vogtland"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Reichenbach im Vogtland"
+  - "Saxony"
 wikidata_id: "Q317064"
 latitude: 50.618264
 longitude: 12.265469
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/400px-Castle_Mylau_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/800px-Castle_Mylau_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/1200px-Castle_Mylau_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/1920px-Castle_Mylau_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/1920px-Castle_Mylau_(aka).jpg---
 
 ## Overview
 

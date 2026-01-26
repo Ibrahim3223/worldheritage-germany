@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Pirna"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pirna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pirna"
+  - "Saxony"
 wikidata_id: "Q54824104"
 latitude: 50.9636926
 longitude: 13.939237
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/400px-Klosterhof_2_Pirna.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/800px-Klosterhof_2_Pirna.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/1200px-Klosterhof_2_Pirna.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/1920px-Klosterhof_2_Pirna.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/1920px-Klosterhof_2_Pirna.JPG---
 
 ## Overview
 

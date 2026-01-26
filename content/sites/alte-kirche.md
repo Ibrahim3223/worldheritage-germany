@@ -4,13 +4,13 @@ site_name: "Alte Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Emden, Lower Saxony, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q2316627"
 latitude: 53.3394
 longitude: 7.22503
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/400px-OldChurchBorssum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/800px-OldChurchBorssum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/1200px-OldChurchBorssum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/1920px-OldChurchBorssum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/1920px-OldChurchBorssum.JPG---
 
 ## Overview
 

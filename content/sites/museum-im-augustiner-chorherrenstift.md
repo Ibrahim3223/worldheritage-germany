@@ -4,13 +4,13 @@ site_name: "Museum im Augustiner-Chorherrenstift"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Chiemsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Chiemsee"
+  - "Bavaria"
 wikidata_id: "Q76629150"
 latitude: 47.867319444
 longitude: 12.396936111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aerial_image_of_the_Kloster_Herrenchiemsee.jpg/400px-Aerial_image_of_the_Kloster_Herrenchiemsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aerial_image_of_the_Kloster_Herrenchiemsee.jpg/800px-Aerial_image_of_the_Kloster_Herrenchiemsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aerial_image_of_the_Kloster_Herrenchiemsee.jpg/1200px-Aerial_image_of_the_Kloster_Herrenchiemsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aerial_image_of_the_Kloster_Herrenchiemsee.jpg/1920px-Aerial_image_of_the_Kloster_Herrenchiemsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aerial_image_of_the_Kloster_Herrenchiemsee.jpg/1920px-Aerial_image_of_the_Kloster_Herrenchiemsee.jpg---
 
 ## Overview
 

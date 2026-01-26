@@ -4,13 +4,13 @@ site_name: "Druckmuseum/Haus für Industriekultur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q1260954"
 latitude: 49.8809
 longitude: 8.63618
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/400px-DA-Druckmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/800px-DA-Druckmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/1200px-DA-Druckmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/1920px-DA-Druckmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/1920px-DA-Druckmuseum.jpg---
 
 ## Overview
 

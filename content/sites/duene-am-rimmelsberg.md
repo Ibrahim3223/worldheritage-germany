@@ -4,13 +4,13 @@ site_name: "Düne am Rimmelsberg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Jörl"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Jörl"
+  - "Schleswig-Holstein"
 wikidata_id: "Q993054"
 latitude: 54.6223
 longitude: 9.2734
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/400px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/800px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg---
 
 ## Overview
 

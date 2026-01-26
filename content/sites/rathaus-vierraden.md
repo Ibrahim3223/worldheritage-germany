@@ -4,13 +4,13 @@ site_name: "Rathaus Vierraden"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Schwedt/Oder, Landkreis Uckermark, Brandenburg"
-region: "Schwedt/Oder"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Schwedt/Oder"
+  - "Brandenburg"
 wikidata_id: "Q114101926"
 latitude: 53.096552
 longitude: 14.296389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/400px-Vierraden,_Rathaus_am_Markt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/800px-Vierraden,_Rathaus_am_Markt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/1200px-Vierraden,_Rathaus_am_Markt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/1920px-Vierraden,_Rathaus_am_Markt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/1920px-Vierraden,_Rathaus_am_Markt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Guter Hirt"
 date: 2026-01-26
 draft: false
 description: "church building in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q1342599"
 latitude: 52.1613
 longitude: 9.96662
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/400px-Hildesheim_Guter_Hirt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/800px-Hildesheim_Guter_Hirt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/1200px-Hildesheim_Guter_Hirt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/1920px-Hildesheim_Guter_Hirt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/1920px-Hildesheim_Guter_Hirt.jpg---
 
 ## Overview
 

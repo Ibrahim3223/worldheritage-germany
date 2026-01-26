@@ -4,13 +4,13 @@ site_name: "St. Maria im Kapitol"
 date: 2026-01-26
 draft: false
 description: "romanesque church in Cologne, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q598352"
 latitude: 50.934638888
 longitude: 6.958611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mariaamkapitol_16-02-2009_15-36-21.JPG/400px-Mariaamkapitol_16-02-2009_15-36-21.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mariaamkapitol_16-02-2009_15-36-21.JPG/800px-Mariaamkapitol_16-02-2009_15-36-21.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mariaamkapitol_16-02-2009_15-36-21.JPG/1200px-Mariaamkapitol_16-02-2009_15-36-21.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mariaamkapitol_16-02-2009_15-36-21.JPG/1920px-Mariaamkapitol_16-02-2009_15-36-21.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Mariaamkapitol_16-02-2009_15-36-21.JPG/1920px-Mariaamkapitol_16-02-2009_15-36-21.JPG---
 
 ## Overview
 

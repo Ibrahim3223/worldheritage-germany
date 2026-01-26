@@ -4,13 +4,13 @@ site_name: "Gerätemuseum des Coburger Landes"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ahorn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ahorn"
+  - "Bavaria"
 wikidata_id: "Q1515980"
 latitude: 50.2317
 longitude: 10.9489
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/400px-Ahorn-Schaeferei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/800px-Ahorn-Schaeferei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/1200px-Ahorn-Schaeferei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/1920px-Ahorn-Schaeferei.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/1920px-Ahorn-Schaeferei.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Blechburg"
 date: 2026-01-26
 draft: false
 description: "Aussichtsturm mit Aussichtsbastion am nördlichen Ende des Jägerbergs auf Wahnsdorfer Flur"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q883325"
 latitude: 51.1126
 longitude: 13.6868
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Radebeul_Blechburg1844.jpg/400px-Radebeul_Blechburg1844.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Radebeul_Blechburg1844.jpg/800px-Radebeul_Blechburg1844.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Radebeul_Blechburg1844.jpg/1200px-Radebeul_Blechburg1844.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Radebeul_Blechburg1844.jpg/1920px-Radebeul_Blechburg1844.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Radebeul_Blechburg1844.jpg/1920px-Radebeul_Blechburg1844.jpg---
 
 ## Overview
 

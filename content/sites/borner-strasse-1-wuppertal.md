@@ -4,13 +4,13 @@ site_name: "Borner Straße 1 (Wuppertal)"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q893967"
 latitude: 51.2059
 longitude: 7.12878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/400px-Wuppertal_Borner_Str_0004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/800px-Wuppertal_Borner_Str_0004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/1200px-Wuppertal_Borner_Str_0004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/1920px-Wuppertal_Borner_Str_0004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/1920px-Wuppertal_Borner_Str_0004.jpg---
 
 ## Overview
 

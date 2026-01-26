@@ -4,13 +4,13 @@ site_name: "Gärtner- und Häckermuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q1558839"
 latitude: 49.8994
 longitude: 10.8927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/400px-Gärtner-_und_Häckermuseum_201405131004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/800px-Gärtner-_und_Häckermuseum_201405131004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/1200px-Gärtner-_und_Häckermuseum_201405131004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/1920px-Gärtner-_und_Häckermuseum_201405131004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/1920px-Gärtner-_und_Häckermuseum_201405131004.jpg---
 
 ## Overview
 

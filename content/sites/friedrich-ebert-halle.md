@@ -4,13 +4,13 @@ site_name: "Friedrich-Ebert-Halle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Ludwigshafen, Germany"
-region: "Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q929868"
 latitude: 49.4914
 longitude: 8.41291
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/400px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/800px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/1200px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/1920px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/1920px-Ludwigshafen_Friesenheim_Eberthalle3.jpg---
 
 ## Overview
 

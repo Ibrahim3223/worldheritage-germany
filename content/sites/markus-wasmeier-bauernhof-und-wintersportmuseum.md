@@ -4,13 +4,13 @@ site_name: "Markus Wasmeier Bauernhof- und Wintersportmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Schliersee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schliersee"
+  - "Bavaria"
 wikidata_id: "Q266565"
 latitude: 47.7075
 longitude: 11.8783
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wasmeier_Bauernhofmuseum_1.jpg/400px-Wasmeier_Bauernhofmuseum_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wasmeier_Bauernhofmuseum_1.jpg/800px-Wasmeier_Bauernhofmuseum_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wasmeier_Bauernhofmuseum_1.jpg/1200px-Wasmeier_Bauernhofmuseum_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wasmeier_Bauernhofmuseum_1.jpg/1920px-Wasmeier_Bauernhofmuseum_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wasmeier_Bauernhofmuseum_1.jpg/1920px-Wasmeier_Bauernhofmuseum_1.jpg---
 
 ## Overview
 

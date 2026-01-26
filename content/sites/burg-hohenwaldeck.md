@@ -4,13 +4,13 @@ site_name: "Burg Hohenwaldeck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schliersee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schliersee"
+  - "Bavaria"
 wikidata_id: "Q1012452"
 latitude: 47.7154
 longitude: 11.8765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Hohenwaldeck_6.jpg/400px-Burg_Hohenwaldeck_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Hohenwaldeck_6.jpg/800px-Burg_Hohenwaldeck_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Hohenwaldeck_6.jpg/1200px-Burg_Hohenwaldeck_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Hohenwaldeck_6.jpg/1920px-Burg_Hohenwaldeck_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Hohenwaldeck_6.jpg/1920px-Burg_Hohenwaldeck_6.jpg---
 
 ## Overview
 

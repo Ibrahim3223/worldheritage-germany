@@ -4,13 +4,13 @@ site_name: "Bunkermuseum Hagen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q18018890"
 latitude: 51.358048593
 longitude: 7.466354984
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bunker-Außenansicht.jpg/400px-Bunker-Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bunker-Außenansicht.jpg/800px-Bunker-Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bunker-Außenansicht.jpg/1200px-Bunker-Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bunker-Außenansicht.jpg/1920px-Bunker-Außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bunker-Außenansicht.jpg/1920px-Bunker-Außenansicht.jpg---
 
 ## Overview
 

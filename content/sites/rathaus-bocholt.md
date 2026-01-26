@@ -4,13 +4,13 @@ site_name: "Rathaus Bocholt"
 date: 2026-01-26
 draft: false
 description: "town hall and theatre in Bocholt, Germany"
-region: "Bocholt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bocholt"
+  - "Lower Saxony"
 wikidata_id: "Q889032"
 latitude: 51.8369
 longitude: 6.61186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/400px-Bocholt_Rathaus_Weidemann.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/800px-Bocholt_Rathaus_Weidemann.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/1200px-Bocholt_Rathaus_Weidemann.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/1920px-Bocholt_Rathaus_Weidemann.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/1920px-Bocholt_Rathaus_Weidemann.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Turbinenmuseum Augsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2460439"
 latitude: 48.3638
 longitude: 10.9268
 images:
-  []
----
+  []---
 
 ## Overview
 

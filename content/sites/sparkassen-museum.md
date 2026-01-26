@@ -4,13 +4,13 @@ site_name: "Sparkassen-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1564668"
 latitude: 50.9798
 longitude: 10.3245
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/400px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/800px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/1200px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/1920px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/1920px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg---
 
 ## Overview
 

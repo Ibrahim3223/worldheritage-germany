@@ -4,13 +4,13 @@ site_name: "Palatinate Museum of Natural History"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Dürkheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Dürkheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2082269"
 latitude: 49.4614
 longitude: 8.14939
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/150322-Pfalzmuseum-05.jpg/400px-150322-Pfalzmuseum-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/150322-Pfalzmuseum-05.jpg/800px-150322-Pfalzmuseum-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/150322-Pfalzmuseum-05.jpg/1200px-150322-Pfalzmuseum-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/150322-Pfalzmuseum-05.jpg/1920px-150322-Pfalzmuseum-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/150322-Pfalzmuseum-05.jpg/1920px-150322-Pfalzmuseum-05.jpg---
 
 ## Overview
 

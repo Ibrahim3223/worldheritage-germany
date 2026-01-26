@@ -4,13 +4,13 @@ site_name: "Friedhofskapelle Düsseldorf-Gerresheim"
 date: 2026-01-26
 draft: false
 description: "chapel in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1457518"
 latitude: 51.2304
 longitude: 6.8713
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/400px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/800px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/1200px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/1920px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/1920px-Gerresheim_Friedhof_Obere_Kapelle.jpeg---
 
 ## Overview
 

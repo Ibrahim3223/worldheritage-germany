@@ -4,13 +4,13 @@ site_name: "Lister Turm"
 date: 2026-01-26
 draft: false
 description: "building and tower in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q979793"
 latitude: 52.3897
 longitude: 9.75556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/400px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/800px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/1200px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/1920px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/1920px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg---
 
 ## Overview
 

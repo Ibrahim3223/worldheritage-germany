@@ -4,13 +4,13 @@ site_name: "Rathaus (Marköbel)"
 date: 2026-01-26
 draft: false
 description: "Building in Marköbel"
-region: "Hammersbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Hammersbach"
+  - "Bavaria"
 wikidata_id: "Q135044848"
 latitude: 50.222675
 longitude: 8.985483333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marköbel_Rathaus.JPG/400px-Marköbel_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marköbel_Rathaus.JPG/800px-Marköbel_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marköbel_Rathaus.JPG/1200px-Marköbel_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marköbel_Rathaus.JPG/1920px-Marköbel_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marköbel_Rathaus.JPG/1920px-Marköbel_Rathaus.JPG---
 
 ## Overview
 

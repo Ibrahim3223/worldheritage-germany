@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lochenpass.jpg/400px-Lochenpass.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lochenpass.jpg/800px-Lochenpass.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lochenpass.jpg/1200px-Lochenpass.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lochenpass.jpg/1920px-Lochenpass.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lochenpass.jpg/1920px-Lochenpass.jpg---
 
 ## Overview
 

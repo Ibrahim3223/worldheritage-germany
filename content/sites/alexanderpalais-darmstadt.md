@@ -4,13 +4,13 @@ site_name: "Alexanderpalais (Darmstadt)"
 date: 2026-01-26
 draft: false
 description: "Palais  in Darmstadt"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q19258885"
 latitude: 49.8732162
 longitude: 8.65023404
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alexanderpalais-1882_0011.jpg/400px-Alexanderpalais-1882_0011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alexanderpalais-1882_0011.jpg/800px-Alexanderpalais-1882_0011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alexanderpalais-1882_0011.jpg/1200px-Alexanderpalais-1882_0011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alexanderpalais-1882_0011.jpg/1920px-Alexanderpalais-1882_0011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alexanderpalais-1882_0011.jpg/1920px-Alexanderpalais-1882_0011.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Briccius"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2317681"
 latitude: 51.5121
 longitude: 11.9581
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/400px-Halle-Trotha_Friedhof,_Statue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/800px-Halle-Trotha_Friedhof,_Statue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/1200px-Halle-Trotha_Friedhof,_Statue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/1920px-Halle-Trotha_Friedhof,_Statue.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/1920px-Halle-Trotha_Friedhof,_Statue.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brunnen der Völkerfreundschaft"
 date: 2026-01-26
 draft: false
 description: "fountain on Alexanderplatz in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q992755"
 latitude: 52.522
 longitude: 13.4128
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/400px-200806_Berlin_196.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/800px-200806_Berlin_196.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/1200px-200806_Berlin_196.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/1920px-200806_Berlin_196.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/1920px-200806_Berlin_196.JPG---
 
 ## Overview
 

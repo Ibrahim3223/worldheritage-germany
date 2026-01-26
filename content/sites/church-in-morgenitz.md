@@ -4,13 +4,13 @@ site_name: "Church in Morgenitz"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mellenthin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mellenthin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1390091"
 latitude: 53.9261
 longitude: 13.9645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/400px-Kirche-morgenitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/800px-Kirche-morgenitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/1200px-Kirche-morgenitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/1920px-Kirche-morgenitz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/1920px-Kirche-morgenitz.JPG---
 
 ## Overview
 

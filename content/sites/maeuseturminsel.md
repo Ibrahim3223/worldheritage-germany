@@ -4,13 +4,13 @@ site_name: "Mäuseturminsel"
 date: 2026-01-26
 draft: false
 description: "island in Germany"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q834190"
 latitude: 49.9723
 longitude: 7.87909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/400px-Maeuseturm_bingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/800px-Maeuseturm_bingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/1200px-Maeuseturm_bingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/1920px-Maeuseturm_bingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/1920px-Maeuseturm_bingen.JPG---
 
 ## Overview
 

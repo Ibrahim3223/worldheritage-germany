@@ -4,13 +4,13 @@ site_name: "Döhrener Jammer"
 date: 2026-01-26
 draft: false
 description: "group of residential buildings in Hannover, Germany"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q1246048"
 latitude: 52.3344
 longitude: 9.76715
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/400px-Döhrener_Jammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/800px-Döhrener_Jammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/1200px-Döhrener_Jammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/1920px-Döhrener_Jammer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/1920px-Döhrener_Jammer.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Grenzmuseum Schifflersgrund"
 date: 2026-01-26
 draft: false
 description: "Schifflersgrund is a museum at the former inner German border. It is located in the municipality of Asbach-Sickenberg, Thuringia."
-region: "Asbach-Sickenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Asbach-Sickenberg"
+  - "Hesse"
 wikidata_id: "Q1545809"
 latitude: 51.2853
 longitude: 9.99361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/400px-Grenzmuseum_schifflersgrund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/800px-Grenzmuseum_schifflersgrund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1200px-Grenzmuseum_schifflersgrund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1920px-Grenzmuseum_schifflersgrund.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1920px-Grenzmuseum_schifflersgrund.jpg---
 
 ## Overview
 

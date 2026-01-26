@@ -4,13 +4,13 @@ site_name: "Saint Nicholas church"
 date: 2026-01-26
 draft: false
 description: "church in Vechelde-Sonnenberg, Germany"
-region: "Vechelde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vechelde"
+  - "Lower Saxony"
 wikidata_id: "Q2316597"
 latitude: 52.2377
 longitude: 10.4099
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sonnenberg-1.jpg/400px-Sonnenberg-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sonnenberg-1.jpg/800px-Sonnenberg-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sonnenberg-1.jpg/1200px-Sonnenberg-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sonnenberg-1.jpg/1920px-Sonnenberg-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sonnenberg-1.jpg/1920px-Sonnenberg-1.jpg---
 
 ## Overview
 

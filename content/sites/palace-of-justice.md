@@ -4,13 +4,13 @@ site_name: "Palace of Justice"
 date: 2026-01-26
 draft: false
 description: "former courthouse complex in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q128652"
 latitude: 49.454830791
 longitude: 11.046461274
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/400px-Nuremberg_Aerial_Justizpalast.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/800px-Nuremberg_Aerial_Justizpalast.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/1200px-Nuremberg_Aerial_Justizpalast.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/1920px-Nuremberg_Aerial_Justizpalast.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/1920px-Nuremberg_Aerial_Justizpalast.JPG---
 
 ## Overview
 

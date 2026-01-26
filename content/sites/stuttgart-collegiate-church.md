@@ -4,13 +4,13 @@ site_name: "Stuttgart Collegiate Church"
 date: 2026-01-26
 draft: false
 description: "collegiate church in Stuttgart, Germany"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q321819"
 latitude: 48.7767
 longitude: 9.17806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/400px-Stiftskirche_Stuttgart_2015_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/800px-Stiftskirche_Stuttgart_2015_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/1200px-Stiftskirche_Stuttgart_2015_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/1920px-Stiftskirche_Stuttgart_2015_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/1920px-Stiftskirche_Stuttgart_2015_01.jpg---
 
 ## Overview
 

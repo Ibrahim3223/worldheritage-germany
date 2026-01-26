@@ -4,13 +4,13 @@ site_name: "Stiftskirche Hechingen"
 date: 2026-01-26
 draft: false
 description: "church building in Hechingen, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Hechingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hechingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2348763"
 latitude: 48.3517
 longitude: 8.96352
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/400px-Stiftskirche_Hechingen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/800px-Stiftskirche_Hechingen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/1200px-Stiftskirche_Hechingen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/1920px-Stiftskirche_Hechingen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/1920px-Stiftskirche_Hechingen1.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Deutsches Historisches Museum"
 date: 2026-01-26
 draft: false
 description: "museum of German history in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q688335"
 latitude: 52.518055555
 longitude: 13.396944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/400px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/800px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/1200px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg---
 
 ## Overview
 

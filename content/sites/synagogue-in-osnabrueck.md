@@ -4,13 +4,13 @@ site_name: "Synagogue in Osnabrück"
 date: 2026-01-26
 draft: false
 description: "the synagogue, inaugurated in 1969 and reopened in 2010, is the Jewish community's house of assembly and worship. The community belongs to the State A"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1726806"
 latitude: 52.2726
 longitude: 8.01573
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/400px-Osnabrück_Synagoge_2010_b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/800px-Osnabrück_Synagoge_2010_b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/1200px-Osnabrück_Synagoge_2010_b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/1920px-Osnabrück_Synagoge_2010_b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/1920px-Osnabrück_Synagoge_2010_b.jpg---
 
 ## Overview
 

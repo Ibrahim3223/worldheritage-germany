@@ -4,13 +4,13 @@ site_name: "Dresden Armory"
 date: 2026-01-26
 draft: false
 description: "museum in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q571773"
 latitude: 51.05254
 longitude: 13.73743
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/400px-Dresden-Zwinger-Armoury-Armor.13.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/800px-Dresden-Zwinger-Armoury-Armor.13.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/1200px-Dresden-Zwinger-Armoury-Armor.13.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/1920px-Dresden-Zwinger-Armoury-Armor.13.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/1920px-Dresden-Zwinger-Armoury-Armor.13.JPG---
 
 ## Overview 
 

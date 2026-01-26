@@ -4,13 +4,13 @@ site_name: "Jan-Wellem-Chapel"
 date: 2026-01-26
 draft: false
 description: "chapel in Düsseldorf-Hamm, Germany"
-region: "Hamm"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Hamm"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1277953"
 latitude: 51.2061
 longitude: 6.75053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/400px-Jan-Wellem-Kapelle_Düsseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/800px-Jan-Wellem-Kapelle_Düsseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/1200px-Jan-Wellem-Kapelle_Düsseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/1920px-Jan-Wellem-Kapelle_Düsseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/1920px-Jan-Wellem-Kapelle_Düsseldorf.jpg---
 
 ## Overview
 

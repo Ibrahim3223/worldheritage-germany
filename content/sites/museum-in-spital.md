@@ -4,13 +4,13 @@ site_name: "Museum in Spital"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Grünberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grünberg"
+  - "Bavaria"
 wikidata_id: "Q1954720"
 latitude: 50.5885
 longitude: 8.9623
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grünberg_Museum_im_Spital_(1).jpg/400px-Grünberg_Museum_im_Spital_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grünberg_Museum_im_Spital_(1).jpg/800px-Grünberg_Museum_im_Spital_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grünberg_Museum_im_Spital_(1).jpg/1200px-Grünberg_Museum_im_Spital_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grünberg_Museum_im_Spital_(1).jpg/1920px-Grünberg_Museum_im_Spital_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grünberg_Museum_im_Spital_(1).jpg/1920px-Grünberg_Museum_im_Spital_(1).jpg---
 
 ## Overview
 

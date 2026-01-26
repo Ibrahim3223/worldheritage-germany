@@ -4,13 +4,13 @@ site_name: "Althoffblock"
 date: 2026-01-26
 draft: false
 description: "Wohnanlage in Dortmund"
-region: "Dortmund Innenstadt-West"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Dortmund Innenstadt-West"
+  - "Lower Saxony"
 wikidata_id: "Q441031"
 latitude: 51.5071
 longitude: 7.44506
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dortmund-Althoffblock-IMG_5401.JPG/400px-Dortmund-Althoffblock-IMG_5401.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dortmund-Althoffblock-IMG_5401.JPG/800px-Dortmund-Althoffblock-IMG_5401.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dortmund-Althoffblock-IMG_5401.JPG/1200px-Dortmund-Althoffblock-IMG_5401.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dortmund-Althoffblock-IMG_5401.JPG/1920px-Dortmund-Althoffblock-IMG_5401.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dortmund-Althoffblock-IMG_5401.JPG/1920px-Dortmund-Althoffblock-IMG_5401.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ehemalige Schule, dann Gemeindekanzlei und Rathaus"
 date: 2026-01-26
 draft: false
 description: "building in Weidenbach, Middle Franconia, Germany"
-region: "Weidenbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Weidenbach"
+  - "Bavaria"
 wikidata_id: "Q41369606"
 latitude: 49.198680873
 longitude: 10.644689418
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/400px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/800px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/1200px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/1920px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/1920px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg---
 
 ## Overview
 

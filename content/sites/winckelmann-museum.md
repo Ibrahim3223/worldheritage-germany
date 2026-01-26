@@ -4,13 +4,13 @@ site_name: "Winckelmann Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q2583389"
 latitude: 52.607
 longitude: 11.8539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/400px-Stendal_Winckelmannmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/800px-Stendal_Winckelmannmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/1200px-Stendal_Winckelmannmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/1920px-Stendal_Winckelmannmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/1920px-Stendal_Winckelmannmuseum.jpg---
 
 ## Overview
 

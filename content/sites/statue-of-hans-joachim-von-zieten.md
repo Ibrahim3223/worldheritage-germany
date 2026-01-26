@@ -4,13 +4,13 @@ site_name: "Statue of Hans Joachim von Zieten"
 date: 2026-01-26
 draft: false
 description: "Statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976973"
 latitude: 52.5116625
 longitude: 13.3843921
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/400px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/800px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/1200px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/1920px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/1920px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg---
 
 ## Overview
 

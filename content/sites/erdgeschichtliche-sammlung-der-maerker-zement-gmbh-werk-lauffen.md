@@ -4,19 +4,18 @@ site_name: "Erdgeschichtliche Sammlung der Märker Zement GmbH Werk Lauffen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631359"
 latitude: 49.076779
 longitude: 9.160203
 images:
-  []
----
+  []---
 
 ## Overview
 

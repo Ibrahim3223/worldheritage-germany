@@ -4,19 +4,18 @@ site_name: "Friedhofsmuseum Hannover"
 date: 2026-01-26
 draft: false
 description: "cemetery museum in Hannover, Germany"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q17353569"
 latitude: 52.337562
 longitude: 9.790149
 images:
-  []
----
+  []---
 
 ## Overview 
 

@@ -4,19 +4,18 @@ site_name: "Museum Herborn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633897"
 latitude: 50.682773
 longitude: 8.302486
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Klötznersches Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Eisenberg, Thuringia, Germany"
-region: "Eisenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eisenberg"
+  - "Saxony"
 wikidata_id: "Q20480332"
 latitude: 50.968375
 longitude: 11.906189
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eisenberg_(Thüringen),_the_town_museum-2.jpg/400px-Eisenberg_(Thüringen),_the_town_museum-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eisenberg_(Thüringen),_the_town_museum-2.jpg/800px-Eisenberg_(Thüringen),_the_town_museum-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eisenberg_(Thüringen),_the_town_museum-2.jpg/1200px-Eisenberg_(Thüringen),_the_town_museum-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eisenberg_(Thüringen),_the_town_museum-2.jpg/1920px-Eisenberg_(Thüringen),_the_town_museum-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eisenberg_(Thüringen),_the_town_museum-2.jpg/1920px-Eisenberg_(Thüringen),_the_town_museum-2.jpg---
 
 ## Overview
 

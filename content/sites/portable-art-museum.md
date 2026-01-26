@@ -4,19 +4,18 @@ site_name: "Portable Art Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Düren"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1288040"
 latitude: 50.788
 longitude: 6.49223
 images:
-  []
----
+  []---
 
 ## Overview
 

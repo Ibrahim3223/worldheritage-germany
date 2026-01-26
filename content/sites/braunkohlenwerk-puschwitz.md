@@ -4,13 +4,13 @@ site_name: "Braunkohlenwerk Puschwitz"
 date: 2026-01-26
 draft: false
 description: "Bergbaubetrieb im Lausitzer Braunkohlerevier bei Puschwitz in Sachsen"
-region: "Puschwitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Puschwitz"
+  - "Saxony"
 wikidata_id: "Q901515"
 latitude: 51.248
 longitude: 14.2933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bóšicy_–_industrijne_rozwaliny_(2009).jpg/400px-Bóšicy_–_industrijne_rozwaliny_(2009).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bóšicy_–_industrijne_rozwaliny_(2009).jpg/800px-Bóšicy_–_industrijne_rozwaliny_(2009).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bóšicy_–_industrijne_rozwaliny_(2009).jpg/1200px-Bóšicy_–_industrijne_rozwaliny_(2009).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bóšicy_–_industrijne_rozwaliny_(2009).jpg/1920px-Bóšicy_–_industrijne_rozwaliny_(2009).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bóšicy_–_industrijne_rozwaliny_(2009).jpg/1920px-Bóšicy_–_industrijne_rozwaliny_(2009).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Blaue Lacke"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q252927"
 latitude: 47.4827
 longitude: 13.0039
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Die_Blaue_Lache_von_Osten.jpg/400px-Die_Blaue_Lache_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Die_Blaue_Lache_von_Osten.jpg/800px-Die_Blaue_Lache_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Die_Blaue_Lache_von_Osten.jpg/1200px-Die_Blaue_Lache_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Die_Blaue_Lache_von_Osten.jpg/1920px-Die_Blaue_Lache_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Die_Blaue_Lache_von_Osten.jpg/1920px-Die_Blaue_Lache_von_Osten.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "New Residence, Bamberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q430550"
 latitude: 49.891666666
 longitude: 10.8825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/400px-00_3353_Bamberg_-_Neue_Residenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/800px-00_3353_Bamberg_-_Neue_Residenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/1200px-00_3353_Bamberg_-_Neue_Residenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/1920px-00_3353_Bamberg_-_Neue_Residenz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/1920px-00_3353_Bamberg_-_Neue_Residenz.jpg---
 
 ## Overview
 

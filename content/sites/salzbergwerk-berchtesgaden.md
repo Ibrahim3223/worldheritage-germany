@@ -4,13 +4,13 @@ site_name: "Salzbergwerk Berchtesgaden"
 date: 2026-01-26
 draft: false
 description: "Geotop in Landkreis Berchtesgadener Land in Bavaria, Germany"
-region: "Berchtesgaden"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Berchtesgaden"
+  - "Bavaria"
 wikidata_id: "Q2215893"
 latitude: 47.638119733
 longitude: 13.017754043
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/400px-Salzbergwerk-Berchtesgaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/800px-Salzbergwerk-Berchtesgaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/1200px-Salzbergwerk-Berchtesgaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/1920px-Salzbergwerk-Berchtesgaden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/1920px-Salzbergwerk-Berchtesgaden.jpg---
 
 ## Overview
 

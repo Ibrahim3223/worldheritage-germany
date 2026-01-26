@@ -4,13 +4,13 @@ site_name: "Alt-Schieder"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schieder-Schwalenberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schieder-Schwalenberg"
+  - "Lower Saxony"
 wikidata_id: "Q432985"
 latitude: 51.9111
 longitude: 9.16361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/400px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/800px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/1200px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/1920px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/1920px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG---
 
 ## Overview
 

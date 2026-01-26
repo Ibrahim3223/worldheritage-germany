@@ -4,13 +4,13 @@ site_name: "St. Claren"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Blekendorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Blekendorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1571517"
 latitude: 54.2761
 longitude: 10.6499
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blekendorf_-_Kirche_St.Claren.JPG/400px-Blekendorf_-_Kirche_St.Claren.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blekendorf_-_Kirche_St.Claren.JPG/800px-Blekendorf_-_Kirche_St.Claren.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blekendorf_-_Kirche_St.Claren.JPG/1200px-Blekendorf_-_Kirche_St.Claren.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blekendorf_-_Kirche_St.Claren.JPG/1920px-Blekendorf_-_Kirche_St.Claren.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blekendorf_-_Kirche_St.Claren.JPG/1920px-Blekendorf_-_Kirche_St.Claren.JPG---
 
 ## Overview
 

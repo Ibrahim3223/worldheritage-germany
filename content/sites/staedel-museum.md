@@ -4,13 +4,13 @@ site_name: "Städel Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q163804"
 latitude: 50.10322
 longitude: 8.67388
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/400px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/800px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/1200px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/1920px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/1920px-Staedel-Frankfurt-2013-Ffm-862-867.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Nordenstadt Memorial"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte zur Erinnerung an die ermordeten Nordenstadter Juden"
-region: "Nordenstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Nordenstadt"
+  - "Hesse"
 wikidata_id: "Q21042004"
 latitude: 50.06378333
 longitude: 8.34441944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mahnmal_Nordenstadt.jpg/400px-Mahnmal_Nordenstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mahnmal_Nordenstadt.jpg/800px-Mahnmal_Nordenstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mahnmal_Nordenstadt.jpg/1200px-Mahnmal_Nordenstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mahnmal_Nordenstadt.jpg/1920px-Mahnmal_Nordenstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mahnmal_Nordenstadt.jpg/1920px-Mahnmal_Nordenstadt.jpg---
 
 ## Overview
 

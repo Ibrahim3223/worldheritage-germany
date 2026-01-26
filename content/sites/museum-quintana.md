@@ -4,13 +4,13 @@ site_name: "Museum Quintana"
 date: 2026-01-26
 draft: false
 description: "museum in Künzing, Germany"
-region: "Künzing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Künzing"
+  - "Bavaria"
 wikidata_id: "Q1954481"
 latitude: 48.6688
 longitude: 13.0785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/400px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/800px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/1200px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/1920px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/1920px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Garten Am Schloß 7 in Weißdorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-75-184-24 (1) in Weißdorf, Bavaria"
-region: "Weißdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Weißdorf"
+  - "Bavaria"
 wikidata_id: "Q98589380"
 latitude: 50.186409592
 longitude: 11.849722796
 images:
-  []
----
+  []---
 
 ## Overview
 

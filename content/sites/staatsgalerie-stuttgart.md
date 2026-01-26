@@ -4,13 +4,13 @@ site_name: "Staatsgalerie Stuttgart"
 date: 2026-01-26
 draft: false
 description: "art museum in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q14917275"
 latitude: 48.780227777
 longitude: 9.186875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stuttgart_alte_staatsgalerie.jpg/400px-Stuttgart_alte_staatsgalerie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stuttgart_alte_staatsgalerie.jpg/800px-Stuttgart_alte_staatsgalerie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stuttgart_alte_staatsgalerie.jpg/1200px-Stuttgart_alte_staatsgalerie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stuttgart_alte_staatsgalerie.jpg/1920px-Stuttgart_alte_staatsgalerie.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Stuttgart_alte_staatsgalerie.jpg/1920px-Stuttgart_alte_staatsgalerie.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Eisenbahnbrücke über die Spree (am Kilometer 1,732)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schirgiswalde-Kirschau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schirgiswalde-Kirschau"
+  - "Saxony"
 wikidata_id: "Q49406540"
 latitude: 51.107853
 longitude: 14.452044
 images:
-  []
----
+  []---
 
 ## Overview
 

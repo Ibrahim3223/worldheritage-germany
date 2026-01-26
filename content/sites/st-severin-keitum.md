@@ -4,13 +4,13 @@ site_name: "St. Severin, Keitum"
 date: 2026-01-26
 draft: false
 description: "church in Keitum"
-region: "Sylt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sylt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1619026"
 latitude: 54.90202
 longitude: 8.36381
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/400px-Severinskirche_Keitum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/800px-Severinskirche_Keitum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/1200px-Severinskirche_Keitum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/1920px-Severinskirche_Keitum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/1920px-Severinskirche_Keitum.jpg---
 
 ## Overview
 

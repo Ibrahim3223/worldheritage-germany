@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg/400px-144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg/800px-144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg/1200px-144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg/1920px-144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg/1920px-144.,_176._und_184._Gemeindeschule,_Lehrerwohnhaus_und_Turnhalle.jpg---
 
 ## Overview
 

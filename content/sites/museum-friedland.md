@@ -4,13 +4,13 @@ site_name: "Museum Friedland"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Friedland"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedland"
+  - "Hesse"
 wikidata_id: "Q29966131"
 latitude: 51.421503
 longitude: 9.914476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedland-Bahnhof-Strassenseite.jpg/400px-Friedland-Bahnhof-Strassenseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedland-Bahnhof-Strassenseite.jpg/800px-Friedland-Bahnhof-Strassenseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedland-Bahnhof-Strassenseite.jpg/1200px-Friedland-Bahnhof-Strassenseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedland-Bahnhof-Strassenseite.jpg/1920px-Friedland-Bahnhof-Strassenseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedland-Bahnhof-Strassenseite.jpg/1920px-Friedland-Bahnhof-Strassenseite.jpg---
 
 ## Overview
 

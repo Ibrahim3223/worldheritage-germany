@@ -4,13 +4,13 @@ site_name: "Beatles-Museum Halle"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q813227"
 latitude: 51.4802
 longitude: 11.9683
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/400px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/800px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/1200px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/1920px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/1920px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg---
 
 ## Overview
 

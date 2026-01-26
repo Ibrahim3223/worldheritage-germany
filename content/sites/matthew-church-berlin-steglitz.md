@@ -4,13 +4,13 @@ site_name: "Matthew Church, (Berlin-Steglitz)"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf district, Berlin, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1910575"
 latitude: 52.4561
 longitude: 13.3182
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/400px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/800px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1200px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1920px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1920px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg---
 
 ## Overview
 

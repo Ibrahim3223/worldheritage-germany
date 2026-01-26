@@ -4,13 +4,13 @@ site_name: "Burg Greene"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Einbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Einbeck"
+  - "Lower Saxony"
 wikidata_id: "Q1012027"
 latitude: 51.8542
 longitude: 9.93444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Greene_Hauptburg.jpg/400px-Greene_Hauptburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Greene_Hauptburg.jpg/800px-Greene_Hauptburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Greene_Hauptburg.jpg/1200px-Greene_Hauptburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Greene_Hauptburg.jpg/1920px-Greene_Hauptburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Greene_Hauptburg.jpg/1920px-Greene_Hauptburg.jpg---
 
 ## Overview
 

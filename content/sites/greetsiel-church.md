@@ -4,13 +4,13 @@ site_name: "Greetsiel Church"
 date: 2026-01-26
 draft: false
 description: "church in Greetsiel (Krummhörn), Lower Saxony, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1544850"
 latitude: 53.5006
 longitude: 7.09364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/400px-Greetsieler_Kirche_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/800px-Greetsieler_Kirche_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1200px-Greetsieler_Kirche_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1920px-Greetsieler_Kirche_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1920px-Greetsieler_Kirche_2010.jpg---
 
 ## Overview
 

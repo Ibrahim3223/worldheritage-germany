@@ -4,13 +4,13 @@ site_name: "Beach Ückeritz"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Ückeritz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Ückeritz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q136760308"
 latitude: 54.0229728
 longitude: 14.0605325
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg/400px-Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg/800px-Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg/1200px-Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg/1920px-Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg/1920px-Pláž_Ückeritz,_Ückeritz,_spolek_obcí_Usedom-Süd,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko,_Německo_06.jpg---
 
 ## Overview 
 

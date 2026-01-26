@@ -4,13 +4,13 @@ site_name: "Akşemsettin Moschee"
 date: 2026-01-26
 draft: false
 description: "mosque in Lauffen am Neckar, Heilbronn district, Baden-Württemberg, Germany"
-region: "Lauffen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Lauffen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q134701590"
 latitude: 49.07447
 longitude: 9.15653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/400px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/800px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/1200px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/1920px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/1920px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg---
 
 ## Overview
 

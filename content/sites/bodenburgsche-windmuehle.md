@@ -4,19 +4,18 @@ site_name: "Bodenburgsche Windmühle"
 date: 2026-01-26
 draft: false
 description: "demolished windmill in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q889481"
 latitude: 52.0686
 longitude: 11.6724
 images:
-  []
----
+  []---
 
 ## Overview
 

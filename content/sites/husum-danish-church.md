@@ -4,13 +4,13 @@ site_name: "Husum danish Church"
 date: 2026-01-26
 draft: false
 description: "church building in Husum, Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q12317502"
 latitude: 54.48241
 longitude: 9.06587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/400px-Husum_danske_kirke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/800px-Husum_danske_kirke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/1200px-Husum_danske_kirke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/1920px-Husum_danske_kirke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/1920px-Husum_danske_kirke.jpg---
 
 ## Overview
 

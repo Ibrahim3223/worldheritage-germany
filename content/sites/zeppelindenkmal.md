@@ -4,13 +4,13 @@ site_name: "Zeppelindenkmal"
 date: 2026-01-26
 draft: false
 description: "Denkmal am Kornsand im Treburer Ortsteil Geinsheim"
-region: "Trebur"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Trebur"
+  - "Hesse"
 wikidata_id: "Q191429"
 latitude: 49.8656
 longitude: 8.36222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeppelindenkmal_(Kornsand).jpg/400px-Zeppelindenkmal_(Kornsand).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeppelindenkmal_(Kornsand).jpg/800px-Zeppelindenkmal_(Kornsand).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeppelindenkmal_(Kornsand).jpg/1200px-Zeppelindenkmal_(Kornsand).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeppelindenkmal_(Kornsand).jpg/1920px-Zeppelindenkmal_(Kornsand).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeppelindenkmal_(Kornsand).jpg/1920px-Zeppelindenkmal_(Kornsand).jpg---
 
 ## Overview
 

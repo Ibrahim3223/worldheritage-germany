@@ -4,13 +4,13 @@ site_name: "Erich-Ohser-Haus"
 date: 2026-01-26
 draft: false
 description: "heritage building in Plauen (Vogtl), Germany"
-region: "Plauen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Plauen"
+  - "Bavaria"
 wikidata_id: "Q19962307"
 latitude: 50.49357
 longitude: 12.13431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/400px-Erich-Ohser-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/800px-Erich-Ohser-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/1200px-Erich-Ohser-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/1920px-Erich-Ohser-Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/1920px-Erich-Ohser-Haus.jpg---
 
 ## Overview
 

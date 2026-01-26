@@ -4,13 +4,13 @@ site_name: "Barker Heide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Bark"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bark"
+  - "Lower Saxony"
 wikidata_id: "Q808253"
 latitude: 53.901
 longitude: 10.13
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG/400px-Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG/800px-Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG/1200px-Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG/1920px-Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG/1920px-Schleswig-Holstein,_Bark,_Naturschutzgebiet_30_NIK_4205.JPG---
 
 ## Overview
 

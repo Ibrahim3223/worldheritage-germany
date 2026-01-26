@@ -4,13 +4,13 @@ site_name: "Silcher-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Weinstadt-Schnait, Baden-Württemberg, Germany"
-region: "Weinstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weinstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q29393501"
 latitude: 48.79217
 longitude: 9.40299
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/400px-Silchermuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/800px-Silchermuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/1200px-Silchermuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/1920px-Silchermuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/1920px-Silchermuseum.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Europäisches Spargelmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Schrobenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schrobenhausen"
+  - "Bavaria"
 wikidata_id: "Q1274894"
 latitude: 48.5596908
 longitude: 11.2640254
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SchroHausen_EuropSpargelMuseum_A_2013-05.jpg/400px-SchroHausen_EuropSpargelMuseum_A_2013-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SchroHausen_EuropSpargelMuseum_A_2013-05.jpg/800px-SchroHausen_EuropSpargelMuseum_A_2013-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SchroHausen_EuropSpargelMuseum_A_2013-05.jpg/1200px-SchroHausen_EuropSpargelMuseum_A_2013-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SchroHausen_EuropSpargelMuseum_A_2013-05.jpg/1920px-SchroHausen_EuropSpargelMuseum_A_2013-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SchroHausen_EuropSpargelMuseum_A_2013-05.jpg/1920px-SchroHausen_EuropSpargelMuseum_A_2013-05.jpg---
 
 ## Overview
 

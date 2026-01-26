@@ -4,13 +4,13 @@ site_name: "Christopheruskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Treptow-Köpenick"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Treptow-Köpenick"
+  - "Berlin"
 wikidata_id: "Q1087115"
 latitude: 52.451
 longitude: 13.6252
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Berlin-Friedrichshagen_-_Christopheruskirche1.jpg/400px-Berlin-Friedrichshagen_-_Christopheruskirche1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Berlin-Friedrichshagen_-_Christopheruskirche1.jpg/800px-Berlin-Friedrichshagen_-_Christopheruskirche1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Berlin-Friedrichshagen_-_Christopheruskirche1.jpg/1200px-Berlin-Friedrichshagen_-_Christopheruskirche1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Berlin-Friedrichshagen_-_Christopheruskirche1.jpg/1920px-Berlin-Friedrichshagen_-_Christopheruskirche1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Berlin-Friedrichshagen_-_Christopheruskirche1.jpg/1920px-Berlin-Friedrichshagen_-_Christopheruskirche1.jpg---
 
 ## Overview
 

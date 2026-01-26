@@ -4,13 +4,13 @@ site_name: "Zwillbrocker Venn"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Vreden, North Rhine-Westphalia, Germany"
-region: "Vreden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Vreden"
+  - "Lower Saxony"
 wikidata_id: "Q244726"
 latitude: 52.0453
 longitude: 6.7
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/400px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/800px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/1200px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/1920px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/1920px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG---
 
 ## Overview
 

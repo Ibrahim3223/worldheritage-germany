@@ -4,13 +4,13 @@ site_name: "Deutsches Burgenmuseum"
 date: 2026-01-26
 draft: false
 description: "historical museum in Thuringia, Germany"
-region: "Heldburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heldburg"
+  - "Bavaria"
 wikidata_id: "Q17064480"
 latitude: 50.28888889
 longitude: 10.72916667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Veste_Heldburg_(2011).jpg/400px-Veste_Heldburg_(2011).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Veste_Heldburg_(2011).jpg/800px-Veste_Heldburg_(2011).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Veste_Heldburg_(2011).jpg/1200px-Veste_Heldburg_(2011).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Veste_Heldburg_(2011).jpg/1920px-Veste_Heldburg_(2011).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Veste_Heldburg_(2011).jpg/1920px-Veste_Heldburg_(2011).jpg---
 
 ## Overview
 

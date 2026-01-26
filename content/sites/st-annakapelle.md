@@ -4,13 +4,13 @@ site_name: "St. Annakapelle"
 date: 2026-01-26
 draft: false
 description: "church building in Mulfingen, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Mulfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Mulfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1701812"
 latitude: 49.3404
 longitude: 9.79579
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/400px-ST._Anna-Kapelle_Mulfingen_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/800px-ST._Anna-Kapelle_Mulfingen_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/1200px-ST._Anna-Kapelle_Mulfingen_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/1920px-ST._Anna-Kapelle_Mulfingen_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/1920px-ST._Anna-Kapelle_Mulfingen_(2).jpg---
 
 ## Overview
 

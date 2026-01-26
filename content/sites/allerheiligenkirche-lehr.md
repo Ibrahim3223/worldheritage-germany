@@ -4,13 +4,13 @@ site_name: "Allerheiligenkirche Lehr"
 date: 2026-01-26
 draft: false
 description: "church building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q2648551"
 latitude: 48.4325
 longitude: 9.97142
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/400px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/800px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/1200px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/1920px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/1920px-Allerheiligenkirche_Lehr_Aussenansicht.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fatimakapelle (Aitrach)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Aitrach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Aitrach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1398149"
 latitude: 47.9271
 longitude: 10.0814
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fatimakapelle_(Aitrach).jpg/400px-Fatimakapelle_(Aitrach).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fatimakapelle_(Aitrach).jpg/800px-Fatimakapelle_(Aitrach).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fatimakapelle_(Aitrach).jpg/1200px-Fatimakapelle_(Aitrach).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fatimakapelle_(Aitrach).jpg/1920px-Fatimakapelle_(Aitrach).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fatimakapelle_(Aitrach).jpg/1920px-Fatimakapelle_(Aitrach).jpg---
 
 ## Overview
 

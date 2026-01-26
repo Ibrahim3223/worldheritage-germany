@@ -4,13 +4,13 @@ site_name: "Goethes Gartenhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1534213"
 latitude: 50.9761
 longitude: 11.3369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/400px-Weimar_Goethe_Gartenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/800px-Weimar_Goethe_Gartenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/1200px-Weimar_Goethe_Gartenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/1920px-Weimar_Goethe_Gartenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/1920px-Weimar_Goethe_Gartenhaus.jpg---
 
 ## Overview
 

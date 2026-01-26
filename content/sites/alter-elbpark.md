@@ -4,13 +4,13 @@ site_name: "Alter Elbpark"
 date: 2026-01-26
 draft: false
 description: "park in Hamburg-Mitte, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q437844"
 latitude: 53.54833333
 longitude: 9.97222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bismarck-Denkmal_in_Hamburg_von_oben.jpg/400px-Bismarck-Denkmal_in_Hamburg_von_oben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bismarck-Denkmal_in_Hamburg_von_oben.jpg/800px-Bismarck-Denkmal_in_Hamburg_von_oben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bismarck-Denkmal_in_Hamburg_von_oben.jpg/1200px-Bismarck-Denkmal_in_Hamburg_von_oben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bismarck-Denkmal_in_Hamburg_von_oben.jpg/1920px-Bismarck-Denkmal_in_Hamburg_von_oben.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bismarck-Denkmal_in_Hamburg_von_oben.jpg/1920px-Bismarck-Denkmal_in_Hamburg_von_oben.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mainz Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral in Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Catholic Cathedral"
 categories:
   - "Catholic Cathedral"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q666960"
 latitude: 49.998889
 longitude: 8.273889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/400px-Cathedral_(Mainz)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/800px-Cathedral_(Mainz)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/1200px-Cathedral_(Mainz)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/1920px-Cathedral_(Mainz)_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/1920px-Cathedral_(Mainz)_2.jpg---
 
 ## Overview
 

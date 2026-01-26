@@ -4,19 +4,18 @@ site_name: "Brücke über den Lungwitzbach, zwischen Lungwitzer Straße und Less
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Sankt Egidien"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Sankt Egidien"
+  - "Saxony"
 wikidata_id: "Q49438861"
 latitude: 50.78389459
 longitude: 12.627408081
 images:
-  []
----
+  []---
 
 ## Overview
 

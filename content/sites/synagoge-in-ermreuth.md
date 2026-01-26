@@ -4,13 +4,13 @@ site_name: "Synagoge in Ermreuth"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-154-98 (0) in Neunkirchen am Brand, Bavaria"
-region: "Neunkirchen am Brand"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Neunkirchen am Brand"
+  - "Bavaria"
 wikidata_id: "Q2375044"
 latitude: 49.6403
 longitude: 11.1925
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/400px-Ermreuth-Synagoge.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/800px-Ermreuth-Synagoge.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/1200px-Ermreuth-Synagoge.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/1920px-Ermreuth-Synagoge.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/1920px-Ermreuth-Synagoge.jpeg---
 
 ## Overview
 

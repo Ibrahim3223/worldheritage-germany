@@ -4,13 +4,13 @@ site_name: "Hunnesrück Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dassel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dassel"
+  - "Lower Saxony"
 wikidata_id: "Q223216"
 latitude: 51.8211
 longitude: 9.6825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/400px-Hunnesrück_Berge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/800px-Hunnesrück_Berge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/1200px-Hunnesrück_Berge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/1920px-Hunnesrück_Berge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/1920px-Hunnesrück_Berge.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Karlsruhe Zoo"
 date: 2026-01-26
 draft: false
 description: "zoo in Karlsruhe, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q220265"
 latitude: 48.9978
 longitude: 8.40167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/400px-Zoo_de_Karlsruhe_-_Entrée.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/800px-Zoo_de_Karlsruhe_-_Entrée.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/1200px-Zoo_de_Karlsruhe_-_Entrée.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/1920px-Zoo_de_Karlsruhe_-_Entrée.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/1920px-Zoo_de_Karlsruhe_-_Entrée.jpg---
 
 ## Overview
 

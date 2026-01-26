@@ -4,13 +4,13 @@ site_name: "Valentin-Volkssänger-Musäum"
 date: 2026-01-26
 draft: false
 description: "museum in Munich, Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q264209"
 latitude: 48.13496
 longitude: 11.58168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2021_Juli-StammtischTour_Valentin-Musäum_02.jpg/400px-2021_Juli-StammtischTour_Valentin-Musäum_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2021_Juli-StammtischTour_Valentin-Musäum_02.jpg/800px-2021_Juli-StammtischTour_Valentin-Musäum_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2021_Juli-StammtischTour_Valentin-Musäum_02.jpg/1200px-2021_Juli-StammtischTour_Valentin-Musäum_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2021_Juli-StammtischTour_Valentin-Musäum_02.jpg/1920px-2021_Juli-StammtischTour_Valentin-Musäum_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2021_Juli-StammtischTour_Valentin-Musäum_02.jpg/1920px-2021_Juli-StammtischTour_Valentin-Musäum_02.jpg---
 
 ## Overview
 

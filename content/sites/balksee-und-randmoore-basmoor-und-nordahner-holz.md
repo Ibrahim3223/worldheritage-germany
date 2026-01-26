@@ -4,13 +4,13 @@ site_name: "Balksee und Randmoore/ Basmoor und Nordahner Holz"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bülkau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bülkau"
+  - "Lower Saxony"
 wikidata_id: "Q805101"
 latitude: 53.6869
 longitude: 9.02111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/400px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/800px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/1200px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/1920px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/1920px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg---
 
 ## Overview
 

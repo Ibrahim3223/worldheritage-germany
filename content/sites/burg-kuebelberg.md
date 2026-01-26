@@ -4,13 +4,13 @@ site_name: "Burg Kübelberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schönenberg-Kübelberg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schönenberg-Kübelberg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1012783"
 latitude: 49.4061
 longitude: 7.36833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/400px-Galgen_am_Glan_Blies_Radweg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/800px-Galgen_am_Glan_Blies_Radweg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/1200px-Galgen_am_Glan_Blies_Radweg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/1920px-Galgen_am_Glan_Blies_Radweg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/1920px-Galgen_am_Glan_Blies_Radweg.JPG---
 
 ## Overview
 

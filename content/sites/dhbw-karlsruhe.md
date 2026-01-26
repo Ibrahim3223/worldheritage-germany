@@ -4,13 +4,13 @@ site_name: "DHBW Karlsruhe"
 date: 2026-01-26
 draft: false
 description: "higher education institution"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1262599"
 latitude: 49.0261
 longitude: 8.38552
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duale_Hochschule_Karlsruhe.JPG/400px-Duale_Hochschule_Karlsruhe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duale_Hochschule_Karlsruhe.JPG/800px-Duale_Hochschule_Karlsruhe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duale_Hochschule_Karlsruhe.JPG/1200px-Duale_Hochschule_Karlsruhe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duale_Hochschule_Karlsruhe.JPG/1920px-Duale_Hochschule_Karlsruhe.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duale_Hochschule_Karlsruhe.JPG/1920px-Duale_Hochschule_Karlsruhe.JPG---
 
 ## Overview
 

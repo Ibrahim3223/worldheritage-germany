@@ -4,13 +4,13 @@ site_name: "Der Lohn"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Barum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Barum"
+  - "Lower Saxony"
 wikidata_id: "Q1195269"
 latitude: 53.0581
 longitude: 10.5644
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/400px-NSG_Lü266_Lohn_Waldweiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/800px-NSG_Lü266_Lohn_Waldweiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/1200px-NSG_Lü266_Lohn_Waldweiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/1920px-NSG_Lü266_Lohn_Waldweiher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/1920px-NSG_Lü266_Lohn_Waldweiher.jpg---
 
 ## Overview
 

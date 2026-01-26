@@ -4,13 +4,13 @@ site_name: "Zoo in der Wingst"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Wingst"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Wingst"
+  - "Lower Saxony"
 wikidata_id: "Q220127"
 latitude: 53.742944444
 longitude: 9.081444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wingst_zoo_01.jpg/400px-Wingst_zoo_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wingst_zoo_01.jpg/800px-Wingst_zoo_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wingst_zoo_01.jpg/1200px-Wingst_zoo_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wingst_zoo_01.jpg/1920px-Wingst_zoo_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wingst_zoo_01.jpg/1920px-Wingst_zoo_01.jpg---
 
 ## Overview
 

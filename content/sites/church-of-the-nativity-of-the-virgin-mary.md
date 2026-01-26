@@ -4,13 +4,13 @@ site_name: "Church of the Nativity of the Virgin Mary"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Laer, Germany"
-region: "Bad Laer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Laer"
+  - "Lower Saxony"
 wikidata_id: "Q2320786"
 latitude: 52.1026
 longitude: 8.08942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/400px-Badlaerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/800px-Badlaerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/1200px-Badlaerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/1920px-Badlaerkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/1920px-Badlaerkirche.jpg---
 
 ## Overview
 

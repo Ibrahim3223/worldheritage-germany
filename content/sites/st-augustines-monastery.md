@@ -4,13 +4,13 @@ site_name: "St. Augustine's Monastery"
 date: 2026-01-26
 draft: false
 description: "church and Monastery complex"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q420158"
 latitude: 50.97484
 longitude: 11.03016615
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/400px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/800px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/1200px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/1920px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/1920px-Erfurt_Barfüßerstraße_Valentinerhof.jpg---
 
 ## Overview
 

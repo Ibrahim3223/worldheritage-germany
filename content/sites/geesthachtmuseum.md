@@ -4,13 +4,13 @@ site_name: "GeesthachtMuseum!"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Geesthacht"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Geesthacht"
+  - "Hamburg"
 wikidata_id: "Q1497759"
 latitude: 53.433
 longitude: 10.3714
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Museum_Geesthacht.jpg/400px-Museum_Geesthacht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Museum_Geesthacht.jpg/800px-Museum_Geesthacht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Museum_Geesthacht.jpg/1200px-Museum_Geesthacht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Museum_Geesthacht.jpg/1920px-Museum_Geesthacht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Museum_Geesthacht.jpg/1920px-Museum_Geesthacht.jpg---
 
 ## Overview
 

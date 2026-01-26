@@ -4,19 +4,18 @@ site_name: "Christiana mine"
 date: 2026-01-26
 draft: false
 description: "North Rhine-Westphalia"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q169728"
 latitude: 51.4406
 longitude: 7.35868
 images:
-  []
----
+  []---
 
 ## Overview
 

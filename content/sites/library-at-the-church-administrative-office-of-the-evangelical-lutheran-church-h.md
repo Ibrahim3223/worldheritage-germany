@@ -4,19 +4,18 @@ site_name: "Library at the Church administrative office of the Evangelical-Luthe
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q856518"
 latitude: 52.371577
 longitude: 9.728828
 images:
-  []
----
+  []---
 
 ## Overview
 

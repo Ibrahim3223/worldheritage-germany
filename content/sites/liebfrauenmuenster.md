@@ -4,13 +4,13 @@ site_name: "Liebfrauenmünster"
 date: 2026-01-26
 draft: false
 description: "parish church"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q877491"
 latitude: 48.764251
 longitude: 11.420503
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/400px-Ingolstadt_Münster_2012-04_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/800px-Ingolstadt_Münster_2012-04_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1200px-Ingolstadt_Münster_2012-04_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1920px-Ingolstadt_Münster_2012-04_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1920px-Ingolstadt_Münster_2012-04_(cropped).jpg---
 
 ## Overview
 

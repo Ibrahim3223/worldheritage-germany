@@ -4,13 +4,13 @@ site_name: "Gustav-Adolf-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Niederursel, Germany"
-region: "Frankfurt-Nord-West"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Nord-West"
+  - "Hesse"
 wikidata_id: "Q11722095"
 latitude: 50.1679
 longitude: 8.61913
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/400px-Gustav-Adolf-Kirche_Niederursel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/800px-Gustav-Adolf-Kirche_Niederursel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/1200px-Gustav-Adolf-Kirche_Niederursel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/1920px-Gustav-Adolf-Kirche_Niederursel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/1920px-Gustav-Adolf-Kirche_Niederursel.JPG---
 
 ## Overview
 

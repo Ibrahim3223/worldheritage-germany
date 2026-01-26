@@ -4,13 +4,13 @@ site_name: "Old Synagogue"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q316542"
 latitude: 51.4564
 longitude: 7.01667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/400px-Alte_Synagoge_Essen_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/800px-Alte_Synagoge_Essen_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/1200px-Alte_Synagoge_Essen_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/1920px-Alte_Synagoge_Essen_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/1920px-Alte_Synagoge_Essen_2014.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Büraburg"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Fritzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Fritzlar"
+  - "Hesse"
 wikidata_id: "Q314174"
 latitude: 51.120555555
 longitude: 9.236388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/400px-135_3570_Büraburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/800px-135_3570_Büraburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1200px-135_3570_Büraburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1920px-135_3570_Büraburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1920px-135_3570_Büraburg.jpg---
 
 ## Overview
 

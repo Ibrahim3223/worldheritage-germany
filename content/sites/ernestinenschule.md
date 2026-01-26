@@ -4,13 +4,13 @@ site_name: "Ernestinenschule"
 date: 2026-01-26
 draft: false
 description: "school and architectural structure"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1356645"
 latitude: 53.8720825
 longitude: 10.6885343
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/400px-Ernestinenschule.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/800px-Ernestinenschule.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/1200px-Ernestinenschule.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/1920px-Ernestinenschule.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/1920px-Ernestinenschule.JPG---
 
 ## Overview
 

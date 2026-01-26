@@ -4,13 +4,13 @@ site_name: "Spalter Tor"
 date: 2026-01-26
 draft: false
 description: "city gate of Pleinfeld, Bavaria"
-region: "Pleinfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Pleinfeld"
+  - "Bavaria"
 wikidata_id: "Q2306560"
 latitude: 49.106
 longitude: 10.9844
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg/400px-Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg/800px-Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg/1200px-Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg/1920px-Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg/1920px-Pleinfeld,_Spalter_Tor,_Stadtseite,_4.jpg---
 
 ## Overview
 

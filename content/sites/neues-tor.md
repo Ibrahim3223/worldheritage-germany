@@ -4,13 +4,13 @@ site_name: "Neues Tor"
 date: 2026-01-26
 draft: false
 description: "Stadttor der Berliner Akzisemauer"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1265296"
 latitude: 52.5284
 longitude: 13.3787
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg/400px-AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg/800px-AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg/1200px-AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg/1920px-AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg/1920px-AK_Berlin,_Am_Neuen_Tor,_J._Goldiner,_Berlin.jpg---
 
 ## Overview
 

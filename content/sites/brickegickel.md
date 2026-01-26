@@ -4,19 +4,18 @@ site_name: "Brickegickel"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q913446"
 latitude: 50.1092
 longitude: 8.68806
 images:
-  []
----
+  []---
 
 ## Overview
 

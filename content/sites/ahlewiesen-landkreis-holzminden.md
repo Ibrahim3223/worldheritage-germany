@@ -4,13 +4,13 @@ site_name: "Ahlewiesen (Landkreis Holzminden)"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Derental"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Derental"
+  - "Lower Saxony"
 wikidata_id: "Q400496"
 latitude: 51.7288
 longitude: 9.5109
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/400px-Ahlewiesen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/800px-Ahlewiesen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/1200px-Ahlewiesen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/1920px-Ahlewiesen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/1920px-Ahlewiesen.jpg---
 
 ## Overview
 

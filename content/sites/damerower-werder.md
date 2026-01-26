@@ -4,13 +4,13 @@ site_name: "Damerower Werder"
 date: 2026-01-26
 draft: false
 description: "nature reserve in in Mecklenburg-Vorpommern, Germany"
-region: "Jabel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Jabel"
+  - "Brandenburg"
 wikidata_id: "Q1158413"
 latitude: 53.5153
 longitude: 12.5425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/400px-Jabelscher_See.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/800px-Jabelscher_See.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/1200px-Jabelscher_See.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/1920px-Jabelscher_See.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/1920px-Jabelscher_See.JPG---
 
 ## Overview
 

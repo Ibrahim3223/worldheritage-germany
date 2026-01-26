@@ -4,13 +4,13 @@ site_name: "Burg Neu-Wolfskehlen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Riedstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Riedstadt"
+  - "Hesse"
 wikidata_id: "Q1013245"
 latitude: 49.850946
 longitude: 8.503365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/400px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/800px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/1200px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/1920px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/1920px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png---
 
 ## Overview
 

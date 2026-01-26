@@ -4,13 +4,13 @@ site_name: "Bierpinsel"
 date: 2026-01-26
 draft: false
 description: "restaurant tower in Berlin-Steglitz, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q520281"
 latitude: 52.461388888
 longitude: 13.324444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/400px-Berlin_-_Bierpinsel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/800px-Berlin_-_Bierpinsel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/1200px-Berlin_-_Bierpinsel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/1920px-Berlin_-_Bierpinsel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/1920px-Berlin_-_Bierpinsel.jpg---
 
 ## Overview
 

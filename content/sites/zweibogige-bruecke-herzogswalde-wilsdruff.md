@@ -4,19 +4,18 @@ site_name: "Zweibogige Brücke Herzogswalde (Wilsdruff)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wilsdruff"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wilsdruff"
+  - "Saxony"
 wikidata_id: "Q49444264"
 latitude: 51.013859762
 longitude: 13.479929113
 images:
-  []
----
+  []---
 
 ## Overview
 

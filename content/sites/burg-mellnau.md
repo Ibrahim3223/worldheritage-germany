@@ -4,13 +4,13 @@ site_name: "Burg Mellnau"
 date: 2026-01-26
 draft: false
 description: "Castle ruin in Germany"
-region: "Wetter"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wetter"
+  - "Hesse"
 wikidata_id: "Q1013103"
 latitude: 50.9294
 longitude: 8.7482
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/400px-Burg_Mellnau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/800px-Burg_Mellnau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/1200px-Burg_Mellnau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/1920px-Burg_Mellnau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/1920px-Burg_Mellnau.JPG---
 
 ## Overview
 

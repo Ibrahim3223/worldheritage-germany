@@ -4,13 +4,13 @@ site_name: "Elvis-Presley-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q30084612"
 latitude: 51.224972
 longitude: 6.773235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/400px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/800px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1200px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1920px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1920px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg---
 
 ## Overview
 

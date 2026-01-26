@@ -4,13 +4,13 @@ site_name: "Zenssee"
 date: 2026-01-26
 draft: false
 description: "lake"
-region: "Germany"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Germany"
+  - "Brandenburg"
 wikidata_id: "Q189818"
 latitude: 53.196944444
 longitude: 13.341111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/400px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/800px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/1200px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/1920px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/1920px-Lychen_Zenssee_2013-08-10_ama_fec.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alexanderkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Oerlinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oerlinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q1538171"
 latitude: 51.9583
 longitude: 8.65863
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/400px-Oerlinghausen-Kirche01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/800px-Oerlinghausen-Kirche01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/1200px-Oerlinghausen-Kirche01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/1920px-Oerlinghausen-Kirche01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/1920px-Oerlinghausen-Kirche01.jpg---
 
 ## Overview
 

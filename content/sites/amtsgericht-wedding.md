@@ -4,13 +4,13 @@ site_name: "Amtsgericht Wedding"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q481131"
 latitude: 52.550863055
 longitude: 13.375483055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/400px-Amtsgericht_Wedding.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/800px-Amtsgericht_Wedding.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/1200px-Amtsgericht_Wedding.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/1920px-Amtsgericht_Wedding.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/1920px-Amtsgericht_Wedding.jpg---
 
 ## Overview
 

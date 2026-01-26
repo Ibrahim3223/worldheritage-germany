@@ -4,19 +4,18 @@ site_name: "Palais Bückeburg"
 date: 2026-01-26
 draft: false
 description: "Palais in Bückeburg, heute Sitz einer berufsbildenden Schule"
-region: "Bückeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bückeburg"
+  - "Lower Saxony"
 wikidata_id: "Q2046926"
 latitude: 52.2562
 longitude: 9.05203
 images:
-  []
----
+  []---
 
 ## Overview
 

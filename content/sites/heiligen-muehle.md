@@ -4,13 +4,13 @@ site_name: "Heiligen Mühle"
 date: 2026-01-26
 draft: false
 description: "Wassermühle in Erfurt, Thüringen"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20480731"
 latitude: 51.001708
 longitude: 11.022711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/400px-Heiligenmühle_Erfurt_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/800px-Heiligenmühle_Erfurt_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/1200px-Heiligenmühle_Erfurt_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/1920px-Heiligenmühle_Erfurt_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/1920px-Heiligenmühle_Erfurt_2.JPG---
 
 ## Overview
 

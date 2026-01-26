@@ -4,13 +4,13 @@ site_name: "Marienstiftskirche, Lich"
 date: 2026-01-26
 draft: false
 description: "church in Germany"
-region: "Lich"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lich"
+  - "Hesse"
 wikidata_id: "Q1897943"
 latitude: 50.5204
 longitude: 8.81931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/400px-Marienstiftskirche_Lich_08.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/800px-Marienstiftskirche_Lich_08.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/1200px-Marienstiftskirche_Lich_08.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/1920px-Marienstiftskirche_Lich_08.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/1920px-Marienstiftskirche_Lich_08.JPG---
 
 ## Overview
 

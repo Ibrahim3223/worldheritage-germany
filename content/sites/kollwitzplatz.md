@@ -4,13 +4,13 @@ site_name: "Kollwitzplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q872494"
 latitude: 52.5362
 longitude: 13.4172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PrenzlauerBergKollwitzplatz-1.jpg/400px-PrenzlauerBergKollwitzplatz-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PrenzlauerBergKollwitzplatz-1.jpg/800px-PrenzlauerBergKollwitzplatz-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PrenzlauerBergKollwitzplatz-1.jpg/1200px-PrenzlauerBergKollwitzplatz-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PrenzlauerBergKollwitzplatz-1.jpg/1920px-PrenzlauerBergKollwitzplatz-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PrenzlauerBergKollwitzplatz-1.jpg/1920px-PrenzlauerBergKollwitzplatz-1.jpg---
 
 ## Overview
 

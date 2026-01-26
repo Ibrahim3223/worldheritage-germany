@@ -4,13 +4,13 @@ site_name: "Schüßler memorial"
 date: 2026-01-26
 draft: false
 description: "memorial in Bad Zwischenahn, Germany"
-region: "Bad Zwischenahn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Zwischenahn"
+  - "Lower Saxony"
 wikidata_id: "Q1471596"
 latitude: 53.186671
 longitude: 8.003721
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/400px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/800px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/1200px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/1920px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/1920px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg---
 
 ## Overview
 

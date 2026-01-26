@@ -4,13 +4,13 @@ site_name: "Cologne Cathedral"
 date: 2026-01-26
 draft: false
 description: "Roman-Catholic cathedral in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q4176"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/400px-Kölner_Dom_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/800px-Kölner_Dom_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1200px-Kölner_Dom_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1920px-Kölner_Dom_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1920px-Kölner_Dom_von_Osten.jpg---
 
 ## Overview
 

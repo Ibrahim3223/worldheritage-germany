@@ -4,13 +4,13 @@ site_name: "Ernst-Leuschner-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Lutherstadt Eisleben, Germany"
-region: "Eisleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Eisleben"
+  - "Brandenburg"
 wikidata_id: "Q1357108"
 latitude: 51.5235
 longitude: 11.5497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/400px-Ernst_Leuschner_Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/800px-Ernst_Leuschner_Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/1200px-Ernst_Leuschner_Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/1920px-Ernst_Leuschner_Denkmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/1920px-Ernst_Leuschner_Denkmal.JPG---
 
 ## Overview
 

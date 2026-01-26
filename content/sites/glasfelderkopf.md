@@ -4,13 +4,13 @@ site_name: "Glasfelderkopf"
 date: 2026-01-26
 draft: false
 description: "mountain of the Allgäu Alps at the border of Bavaria, Germany, and Tyrol, Austria"
-region: "Bad Hindelang"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Bad Hindelang"
+  - "Bavaria"
 wikidata_id: "Q155086"
 latitude: 47.4029
 longitude: 10.43161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glasfelderkopf2010.jpg/400px-Glasfelderkopf2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glasfelderkopf2010.jpg/800px-Glasfelderkopf2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glasfelderkopf2010.jpg/1200px-Glasfelderkopf2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glasfelderkopf2010.jpg/1920px-Glasfelderkopf2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glasfelderkopf2010.jpg/1920px-Glasfelderkopf2010.jpg---
 
 ## Overview
 

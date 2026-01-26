@@ -4,13 +4,13 @@ site_name: "Museum für Abgüsse Klassischer Bildwerke"
 date: 2026-01-26
 draft: false
 description: "archaeological Museum in Munich"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q323280"
 latitude: 48.1444
 longitude: 11.5667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/400px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/800px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/1200px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/1920px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/1920px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG---
 
 ## Overview
 

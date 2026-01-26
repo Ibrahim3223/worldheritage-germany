@@ -4,13 +4,13 @@ site_name: "Statue of Hans Karl von Winterfeldt"
 date: 2026-01-26
 draft: false
 description: "Statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976984"
 latitude: 52.51189
 longitude: 13.38583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/400px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/800px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/1200px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/1920px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/1920px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg---
 
 ## Overview
 

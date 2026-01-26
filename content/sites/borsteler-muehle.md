@@ -4,13 +4,13 @@ site_name: "Borsteler Mühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Jork im Alten Land (Niedersachsen, bei Hamburg)"
-region: "Jork"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Jork"
+  - "Lower Saxony"
 wikidata_id: "Q777211"
 latitude: 53.5397
 longitude: 9.69279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Muehle-Borstel_01.JPG/400px-Muehle-Borstel_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Muehle-Borstel_01.JPG/800px-Muehle-Borstel_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Muehle-Borstel_01.JPG/1200px-Muehle-Borstel_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Muehle-Borstel_01.JPG/1920px-Muehle-Borstel_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Muehle-Borstel_01.JPG/1920px-Muehle-Borstel_01.JPG---
 
 ## Overview
 

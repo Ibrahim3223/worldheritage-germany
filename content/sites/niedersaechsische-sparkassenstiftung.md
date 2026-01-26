@@ -4,19 +4,18 @@ site_name: "Niedersächsische Sparkassenstiftung"
 date: 2026-01-26
 draft: false
 description: "Stiftung zur Förderung der Kunst, der Musik, der Museen und der Denkmalpflege"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q19964586"
 latitude: 52.371295
 longitude: 9.744552
 images:
-  []
----
+  []---
 
 ## Overview
 

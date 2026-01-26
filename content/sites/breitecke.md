@@ -4,13 +4,13 @@ site_name: "Breitecke"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schlitz, Hesse, Germany"
-region: "Schlitz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Schlitz"
+  - "Hesse"
 wikidata_id: "Q906038"
 latitude: 50.667641666
 longitude: 9.605194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/400px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/800px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/1200px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/1920px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/1920px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png---
 
 ## Overview
 

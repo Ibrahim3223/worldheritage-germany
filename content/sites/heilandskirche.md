@@ -4,13 +4,13 @@ site_name: "Heilandskirche"
 date: 2026-01-26
 draft: false
 description: "church in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1260896"
 latitude: 51.33082
 longitude: 12.34002
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/400px-Leipzig_Plagwitz_Heilandskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/800px-Leipzig_Plagwitz_Heilandskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/1200px-Leipzig_Plagwitz_Heilandskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/1920px-Leipzig_Plagwitz_Heilandskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/1920px-Leipzig_Plagwitz_Heilandskirche.jpg---
 
 ## Overview
 

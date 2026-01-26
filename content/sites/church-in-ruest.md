@@ -4,13 +4,13 @@ site_name: "Church in Ruest"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mestlin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mestlin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244679"
 latitude: 53.615
 longitude: 11.9442
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/400px-Ruest_Kirche_2011-04-20_329.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/800px-Ruest_Kirche_2011-04-20_329.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/1200px-Ruest_Kirche_2011-04-20_329.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/1920px-Ruest_Kirche_2011-04-20_329.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/1920px-Ruest_Kirche_2011-04-20_329.JPG---
 
 ## Overview
 

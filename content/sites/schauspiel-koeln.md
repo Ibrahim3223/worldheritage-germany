@@ -4,13 +4,13 @@ site_name: "Schauspiel Köln"
 date: 2026-01-26
 draft: false
 description: "municipal drama theatre in Cologne, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q832079"
 latitude: 50.9374
 longitude: 6.9505
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/400px-Schauspiel_Köln_(4224-26).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/800px-Schauspiel_Köln_(4224-26).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/1200px-Schauspiel_Köln_(4224-26).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/1920px-Schauspiel_Köln_(4224-26).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/1920px-Schauspiel_Köln_(4224-26).jpg---
 
 ## Overview
 

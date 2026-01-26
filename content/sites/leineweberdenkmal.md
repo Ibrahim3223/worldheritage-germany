@@ -4,13 +4,13 @@ site_name: "Leineweberdenkmal"
 date: 2026-01-26
 draft: false
 description: "memorial and fontain with statue in Bielefeld, Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1815323"
 latitude: 52.0211
 longitude: 8.53279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Leineweberdenkmal-Bielefeld.JPG/400px-Leineweberdenkmal-Bielefeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Leineweberdenkmal-Bielefeld.JPG/800px-Leineweberdenkmal-Bielefeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Leineweberdenkmal-Bielefeld.JPG/1200px-Leineweberdenkmal-Bielefeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Leineweberdenkmal-Bielefeld.JPG/1920px-Leineweberdenkmal-Bielefeld.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Leineweberdenkmal-Bielefeld.JPG/1920px-Leineweberdenkmal-Bielefeld.JPG---
 
 ## Overview
 

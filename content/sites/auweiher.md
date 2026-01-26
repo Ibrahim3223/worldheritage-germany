@@ -4,13 +4,13 @@ site_name: "Auweiher"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bodenseekreis and Ravensburg district, Baden-Württemberg, Germany"
-region: "Bodnegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bodnegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q789604"
 latitude: 47.687780555
 longitude: 9.699169444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/400px-D-BW-Neukirch_-_Auweiher.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/800px-D-BW-Neukirch_-_Auweiher.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/1200px-D-BW-Neukirch_-_Auweiher.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/1920px-D-BW-Neukirch_-_Auweiher.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/1920px-D-BW-Neukirch_-_Auweiher.JPG---
 
 ## Overview
 

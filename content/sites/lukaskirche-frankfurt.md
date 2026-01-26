@@ -4,13 +4,13 @@ site_name: "Lukaskirche (Frankfurt)"
 date: 2026-01-26
 draft: false
 description: "church building in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1876998"
 latitude: 50.1015
 longitude: 8.67639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/400px-Lukaskirche_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/800px-Lukaskirche_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/1200px-Lukaskirche_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/1920px-Lukaskirche_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/1920px-Lukaskirche_2008.jpg---
 
 ## Overview
 

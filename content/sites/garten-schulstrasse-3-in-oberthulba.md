@@ -4,13 +4,13 @@ site_name: "Garten Schulstraße 3 in Oberthulba"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-139-74 (2) in Oberthulba, Bavaria"
-region: "Oberthulba"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Oberthulba"
+  - "Bavaria"
 wikidata_id: "Q98485273"
 latitude: 50.221676409
 longitude: 9.955638055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg/400px-Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg/800px-Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg/1200px-Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg/1920px-Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg/1920px-Hassenbach,_D-6-72-139-74,_Garten_Oberthulba_20220106_0165.jpg---
 
 ## Overview
 

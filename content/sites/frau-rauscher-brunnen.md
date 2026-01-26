@@ -4,13 +4,13 @@ site_name: "Frau Rauscher-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q21256405"
 latitude: 50.105233611
 longitude: 8.691382198
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg/400px-Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg/800px-Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg/1200px-Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg/1920px-Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg/1920px-Frau_Rauscher_Brunnen@Frankfurt_a.M.20170821_04.jpg---
 
 ## Overview
 

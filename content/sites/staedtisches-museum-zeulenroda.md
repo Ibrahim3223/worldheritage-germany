@@ -4,19 +4,18 @@ site_name: "Städtisches Museum Zeulenroda"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Zeulenroda-Triebes"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zeulenroda-Triebes"
+  - "Saxony"
 wikidata_id: "Q20481595"
 latitude: 50.6508884
 longitude: 11.9779542
 images:
-  []
----
+  []---
 
 ## Overview
 

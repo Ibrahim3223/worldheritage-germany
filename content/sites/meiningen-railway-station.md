@@ -4,13 +4,13 @@ site_name: "Meiningen railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Germany"
-region: "Meiningen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Meiningen"
+  - "Bavaria"
 wikidata_id: "Q186139"
 latitude: 50.572962
 longitude: 10.420879
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/400px-Meiningen-Bahnhof2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/800px-Meiningen-Bahnhof2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/1200px-Meiningen-Bahnhof2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/1920px-Meiningen-Bahnhof2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/1920px-Meiningen-Bahnhof2.jpg---
 
 ## Overview
 

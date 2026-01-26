@@ -4,13 +4,13 @@ site_name: "Church in Neuburg"
 date: 2026-01-26
 draft: false
 description: "church building in Neuburg, Germany"
-region: "Neuburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuburg"
+  - "Lower Saxony"
 wikidata_id: "Q2677253"
 latitude: 53.9488
 longitude: 11.5875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neuburg_Kirche_2008-11-13_062.jpg/400px-Neuburg_Kirche_2008-11-13_062.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neuburg_Kirche_2008-11-13_062.jpg/800px-Neuburg_Kirche_2008-11-13_062.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neuburg_Kirche_2008-11-13_062.jpg/1200px-Neuburg_Kirche_2008-11-13_062.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neuburg_Kirche_2008-11-13_062.jpg/1920px-Neuburg_Kirche_2008-11-13_062.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neuburg_Kirche_2008-11-13_062.jpg/1920px-Neuburg_Kirche_2008-11-13_062.jpg---
 
 ## Overview
 

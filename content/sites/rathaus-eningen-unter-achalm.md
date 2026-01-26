@@ -4,13 +4,13 @@ site_name: "Rathaus (Eningen unter Achalm)"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Eningen unter Achalm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Eningen unter Achalm"
+  - "Baden-Württemberg"
 wikidata_id: "Q124360887"
 latitude: 48.486412723
 longitude: 9.258202314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Eningen_unter_Achalm,_Rathaus.jpg/400px-Eningen_unter_Achalm,_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Eningen_unter_Achalm,_Rathaus.jpg/800px-Eningen_unter_Achalm,_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Eningen_unter_Achalm,_Rathaus.jpg/1200px-Eningen_unter_Achalm,_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Eningen_unter_Achalm,_Rathaus.jpg/1920px-Eningen_unter_Achalm,_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Eningen_unter_Achalm,_Rathaus.jpg/1920px-Eningen_unter_Achalm,_Rathaus.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Ehrenfriedhof Hehlrath"
 date: 2026-01-26
 draft: false
 description: "cemetery in Eschweiler, Germany"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1300098"
 latitude: 50.8371
 longitude: 6.23497
 images:
-  []
----
+  []---
 
 ## Overview
 

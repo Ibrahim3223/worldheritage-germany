@@ -4,13 +4,13 @@ site_name: "Paula Modersohn-Becker Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q318983"
 latitude: 53.0751
 longitude: 8.80596
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/400px-PMB_museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/800px-PMB_museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/1200px-PMB_museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/1920px-PMB_museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/1920px-PMB_museum.jpg---
 
 ## Overview
 

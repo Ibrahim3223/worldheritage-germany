@@ -4,13 +4,13 @@ site_name: "St. Jakob (Brandenburg an der Havel)"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Brandenburg an der Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Brandenburg an der Havel"
+  - "Brandenburg"
 wikidata_id: "Q1299244"
 latitude: 52.4026
 longitude: 12.5544
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jakobskapelle.jpg/400px-Jakobskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jakobskapelle.jpg/800px-Jakobskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jakobskapelle.jpg/1200px-Jakobskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jakobskapelle.jpg/1920px-Jakobskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jakobskapelle.jpg/1920px-Jakobskapelle.jpg---
 
 ## Overview
 

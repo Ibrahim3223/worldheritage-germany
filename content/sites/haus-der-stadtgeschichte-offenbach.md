@@ -4,13 +4,13 @@ site_name: "Haus der Stadtgeschichte (Offenbach)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q1590812"
 latitude: 50.1084
 longitude: 8.7616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg/400px-Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg/800px-Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg/1200px-Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg/1920px-Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg/1920px-Logo_Haus_der_Stadtgeschichte_Offenbach_am_Main.jpg---
 
 ## Overview
 

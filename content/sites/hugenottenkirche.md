@@ -4,13 +4,13 @@ site_name: "Hugenottenkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Usingen, Germany"
-region: "Usingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Usingen"
+  - "Hesse"
 wikidata_id: "Q1634154"
 latitude: 50.3359
 longitude: 8.53374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/400px-Hugenotten_Church_in_Usingen,_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/800px-Hugenotten_Church_in_Usingen,_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/1200px-Hugenotten_Church_in_Usingen,_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/1920px-Hugenotten_Church_in_Usingen,_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/1920px-Hugenotten_Church_in_Usingen,_Germany.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Statuenmenhir von Gallmersgarten"
 date: 2026-01-26
 draft: false
 description: "Sandstone stele in the shape of a man from the Neolithic period"
-region: "Landkreis Neustadt an der Aisch-Bad Windsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Landkreis Neustadt an der Aisch-Bad Windsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q19962460"
 latitude: 49.45277
 longitude: 10.28343
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/400px-Menhir_Gallmersgarten_semiprofile.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/800px-Menhir_Gallmersgarten_semiprofile.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/1200px-Menhir_Gallmersgarten_semiprofile.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/1920px-Menhir_Gallmersgarten_semiprofile.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/1920px-Menhir_Gallmersgarten_semiprofile.jpg---
 
 ## Overview
 

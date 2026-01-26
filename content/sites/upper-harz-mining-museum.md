@@ -4,13 +4,13 @@ site_name: "Upper Harz Mining Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Clausthal-Zellerfeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Clausthal-Zellerfeld"
+  - "Lower Saxony"
 wikidata_id: "Q2009784"
 latitude: 51.8171
 longitude: 10.3359
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/400px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/800px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/1200px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/1920px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/1920px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg---
 
 ## Overview
 

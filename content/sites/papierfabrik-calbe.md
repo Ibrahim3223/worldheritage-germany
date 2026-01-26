@@ -4,19 +4,18 @@ site_name: "Papierfabrik (Calbe)"
 date: 2026-01-26
 draft: false
 description: "ehemalige Papierfabrik in Calbe (Saale)"
-region: "Calbe"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Calbe"
+  - "Brandenburg"
 wikidata_id: "Q17441159"
 latitude: 51.903782
 longitude: 11.77753
 images:
-  []
----
+  []---
 
 ## Overview
 

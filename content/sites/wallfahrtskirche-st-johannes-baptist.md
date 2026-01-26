@@ -4,13 +4,13 @@ site_name: "Wallfahrtskirche St. Johannes Baptist"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Hirschberg an der Bergstraße"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hirschberg an der Bergstraße"
+  - "Baden-Württemberg"
 wikidata_id: "Q1619969"
 latitude: 49.5011
 longitude: 8.66588
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/400px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/800px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/1200px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/1920px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/1920px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg---
 
 ## Overview
 

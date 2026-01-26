@@ -4,13 +4,13 @@ site_name: "Historisches Museum Bremerhaven"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q1352513"
 latitude: 53.5388
 longitude: 8.58565
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/400px-Historisches_Museum_Bremerhaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/800px-Historisches_Museum_Bremerhaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1200px-Historisches_Museum_Bremerhaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1920px-Historisches_Museum_Bremerhaven.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1920px-Historisches_Museum_Bremerhaven.jpg---
 
 ## Overview
 

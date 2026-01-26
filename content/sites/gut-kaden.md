@@ -4,13 +4,13 @@ site_name: "Gut Kaden"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Alveslohe"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Alveslohe"
+  - "Hamburg"
 wikidata_id: "Q1556961"
 latitude: 53.7854
 longitude: 9.94797
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gut_Kaden_Herrenhaus.JPG/400px-Gut_Kaden_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gut_Kaden_Herrenhaus.JPG/800px-Gut_Kaden_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gut_Kaden_Herrenhaus.JPG/1200px-Gut_Kaden_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gut_Kaden_Herrenhaus.JPG/1920px-Gut_Kaden_Herrenhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gut_Kaden_Herrenhaus.JPG/1920px-Gut_Kaden_Herrenhaus.JPG---
 
 ## Overview
 

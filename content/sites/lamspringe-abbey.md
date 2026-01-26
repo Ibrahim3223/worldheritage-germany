@@ -4,13 +4,13 @@ site_name: "Lamspringe Abbey"
 date: 2026-01-26
 draft: false
 description: "former monastery in Lamspringe, Germany. Church and buildings are preserved"
-region: "Lamspringe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Lamspringe"
+  - "Lower Saxony"
 wikidata_id: "Q291248"
 latitude: 51.9634
 longitude: 10.0161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/400px-Lamspringe_Kirche_2210.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/800px-Lamspringe_Kirche_2210.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/1200px-Lamspringe_Kirche_2210.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/1920px-Lamspringe_Kirche_2210.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/1920px-Lamspringe_Kirche_2210.JPG---
 
 ## Overview
 

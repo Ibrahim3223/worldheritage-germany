@@ -4,13 +4,13 @@ site_name: "Dreetzsee"
 date: 2026-01-26
 draft: false
 description: "lake in Feldberger Seenlandschaft, Mecklenburg-Vorpommern, Germany"
-region: "Feldberger Seenlandschaft"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Feldberger Seenlandschaft"
+  - "Brandenburg"
 wikidata_id: "Q149910"
 latitude: 53.287
 longitude: 13.4328
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/400px-RK_0907_3536_Dreetzsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/800px-RK_0907_3536_Dreetzsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/1200px-RK_0907_3536_Dreetzsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/1920px-RK_0907_3536_Dreetzsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/1920px-RK_0907_3536_Dreetzsee.jpg---
 
 ## Overview
 

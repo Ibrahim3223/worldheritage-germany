@@ -4,13 +4,13 @@ site_name: "Pfarreimuseum Greßthal"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629718"
 latitude: 50.076594
 longitude: 10.036601
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg/400px-Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg/800px-Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg/1200px-Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg/1920px-Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg/1920px-Wasserlosen,_Greßthal,_Pfarrberg_6,_001.jpg---
 
 ## Overview
 

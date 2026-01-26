@@ -4,13 +4,13 @@ site_name: "Kunst im Tunnel"
 date: 2026-01-26
 draft: false
 description: "art museum in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1792324"
 latitude: 51.2199
 longitude: 6.76678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KIT_Düsseldorf.jpg/400px-KIT_Düsseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KIT_Düsseldorf.jpg/800px-KIT_Düsseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KIT_Düsseldorf.jpg/1200px-KIT_Düsseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KIT_Düsseldorf.jpg/1920px-KIT_Düsseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KIT_Düsseldorf.jpg/1920px-KIT_Düsseldorf.jpg---
 
 ## Overview
 

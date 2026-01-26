@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herrenhaus_in_Hamburg-Wellingsbüttel.jpg/400px-Herrenhaus_in_Hamburg-Wellingsbüttel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herrenhaus_in_Hamburg-Wellingsbüttel.jpg/800px-Herrenhaus_in_Hamburg-Wellingsbüttel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herrenhaus_in_Hamburg-Wellingsbüttel.jpg/1200px-Herrenhaus_in_Hamburg-Wellingsbüttel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herrenhaus_in_Hamburg-Wellingsbüttel.jpg/1920px-Herrenhaus_in_Hamburg-Wellingsbüttel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herrenhaus_in_Hamburg-Wellingsbüttel.jpg/1920px-Herrenhaus_in_Hamburg-Wellingsbüttel.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Motorradmuseum Heiner Beckmann"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Harsewinkel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Harsewinkel"
+  - "Lower Saxony"
 wikidata_id: "Q1250302"
 latitude: 51.9626
 longitude: 8.14011
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/400px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/800px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/1200px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/1920px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/1920px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Herrenhaus Richelsdorf"
 date: 2026-01-26
 draft: false
 description: "building in Richelsdorf, Germany"
-region: "Wildeck"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wildeck"
+  - "Hesse"
 wikidata_id: "Q15815416"
 latitude: 50.976
 longitude: 10.0077
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/400px-Richelsdorf_herrenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/800px-Richelsdorf_herrenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/1200px-Richelsdorf_herrenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/1920px-Richelsdorf_herrenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/1920px-Richelsdorf_herrenhaus.jpg---
 
 ## Overview
 

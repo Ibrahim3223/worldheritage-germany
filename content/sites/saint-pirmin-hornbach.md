@@ -4,13 +4,13 @@ site_name: "Saint Pirmin (Hornbach)"
 date: 2026-01-26
 draft: false
 description: "church building in Hornbach, Germany"
-region: "Hornbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hornbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2322904"
 latitude: 49.1831
 longitude: 7.37119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/400px-Hornbach-St_Pirmin-06-2019-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/800px-Hornbach-St_Pirmin-06-2019-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/1200px-Hornbach-St_Pirmin-06-2019-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/1920px-Hornbach-St_Pirmin-06-2019-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/1920px-Hornbach-St_Pirmin-06-2019-gje.jpg---
 
 ## Overview
 

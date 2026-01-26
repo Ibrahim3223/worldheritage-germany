@@ -4,13 +4,13 @@ site_name: "Gut Obernfelde"
 date: 2026-01-26
 draft: false
 description: "building in Lübbecke, Germany"
-region: "Lübbecke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lübbecke"
+  - "Lower Saxony"
 wikidata_id: "Q1557003"
 latitude: 52.2933
 longitude: 8.6025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/400px-Obernfelde1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/800px-Obernfelde1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/1200px-Obernfelde1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/1920px-Obernfelde1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/1920px-Obernfelde1.jpg---
 
 ## Overview
 

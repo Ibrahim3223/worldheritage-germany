@@ -4,13 +4,13 @@ site_name: "Maria-Magdalena-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Putbus"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Putbus"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1242847"
 latitude: 54.3574
 longitude: 13.5178
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/400px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/800px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1200px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1920px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1920px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG---
 
 ## Overview
 

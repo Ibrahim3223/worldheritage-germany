@@ -4,13 +4,13 @@ site_name: "Lessing-Museum Kamenz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kamenz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kamenz"
+  - "Saxony"
 wikidata_id: "Q1820918"
 latitude: 51.272
 longitude: 14.0947
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/400px-Lessinghaus_Kamenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/800px-Lessinghaus_Kamenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/1200px-Lessinghaus_Kamenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/1920px-Lessinghaus_Kamenz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/1920px-Lessinghaus_Kamenz.jpg---
 
 ## Overview
 

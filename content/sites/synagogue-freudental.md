@@ -4,13 +4,13 @@ site_name: "Synagogue Freudental"
 date: 2026-01-26
 draft: false
 description: "building in Freudental, Germany"
-region: "Freudental"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freudental"
+  - "Baden-Württemberg"
 wikidata_id: "Q2375424"
 latitude: 49.01
 longitude: 9.05879
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/400px-Freudental-synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/800px-Freudental-synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/1200px-Freudental-synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/1920px-Freudental-synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/1920px-Freudental-synagoge.jpg---
 
 ## Overview
 

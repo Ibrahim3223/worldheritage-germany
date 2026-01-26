@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5924-0109 in Gemünden am Main"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gemünden am Main, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Gemünden am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Gemünden am Main"
+  - "Bavaria"
 wikidata_id: "Q98169135"
 latitude: 50.056314883
 longitude: 9.690298687
 images:
-  []
----
+  []---
 
 ## Overview
 

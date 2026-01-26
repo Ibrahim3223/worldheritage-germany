@@ -4,13 +4,13 @@ site_name: "Dornhaldenfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1245749"
 latitude: 48.7527
 longitude: 9.1548
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dornhaldenfriedhof_Stuttgart.JPG/400px-Dornhaldenfriedhof_Stuttgart.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dornhaldenfriedhof_Stuttgart.JPG/800px-Dornhaldenfriedhof_Stuttgart.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dornhaldenfriedhof_Stuttgart.JPG/1200px-Dornhaldenfriedhof_Stuttgart.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dornhaldenfriedhof_Stuttgart.JPG/1920px-Dornhaldenfriedhof_Stuttgart.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dornhaldenfriedhof_Stuttgart.JPG/1920px-Dornhaldenfriedhof_Stuttgart.JPG---
 
 ## Overview
 

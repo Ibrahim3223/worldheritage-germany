@@ -4,19 +4,18 @@ site_name: "Hessisches Forstmuseum Alte Fasanerie"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76633887"
 latitude: 50.085303
 longitude: 8.911724
 images:
-  []
----
+  []---
 
 ## Overview
 

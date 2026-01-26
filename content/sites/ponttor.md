@@ -4,13 +4,13 @@ site_name: "Ponttor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153103"
 latitude: 50.7815162
 longitude: 6.0783228
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/400px-Ponttor_aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/800px-Ponttor_aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/1200px-Ponttor_aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/1920px-Ponttor_aachen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/1920px-Ponttor_aachen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church Kirch Grambow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wedendorfersee"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wedendorfersee"
+  - "Lower Saxony"
 wikidata_id: "Q1244409"
 latitude: 53.769
 longitude: 11.1202
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/400px-Kirch_Grambow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/800px-Kirch_Grambow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/1200px-Kirch_Grambow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/1920px-Kirch_Grambow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/1920px-Kirch_Grambow.jpg---
 
 ## Overview
 

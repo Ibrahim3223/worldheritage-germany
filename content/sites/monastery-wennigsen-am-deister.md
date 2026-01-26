@@ -4,13 +4,13 @@ site_name: "Monastery Wennigsen am Deister"
 date: 2026-01-26
 draft: false
 description: "Evangelical women's monastery in Wennigsen, Region Hannover, Germany"
-region: "Wennigsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wennigsen"
+  - "Lower Saxony"
 wikidata_id: "Q1776274"
 latitude: 52.2744
 longitude: 9.57418
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klosterkirche_(Seitenansicht).jpg/400px-Klosterkirche_(Seitenansicht).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klosterkirche_(Seitenansicht).jpg/800px-Klosterkirche_(Seitenansicht).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klosterkirche_(Seitenansicht).jpg/1200px-Klosterkirche_(Seitenansicht).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klosterkirche_(Seitenansicht).jpg/1920px-Klosterkirche_(Seitenansicht).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klosterkirche_(Seitenansicht).jpg/1920px-Klosterkirche_(Seitenansicht).jpg---
 
 ## Overview
 

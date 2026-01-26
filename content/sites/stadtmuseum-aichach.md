@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Aichach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aichach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aichach"
+  - "Bavaria"
 wikidata_id: "Q15130120"
 latitude: 48.458281
 longitude: 11.133784
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/400px-Stadtmuseum_Aichach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/800px-Stadtmuseum_Aichach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/1200px-Stadtmuseum_Aichach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/1920px-Stadtmuseum_Aichach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/1920px-Stadtmuseum_Aichach.jpg---
 
 ## Overview
 

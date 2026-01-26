@@ -4,13 +4,13 @@ site_name: "Peasant Museum Wiehl"
 date: 2026-01-26
 draft: false
 description: "Museum in Germany"
-region: "Wiehl"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wiehl"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q811291"
 latitude: 50.9572
 longitude: 7.58125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/400px-Bauernmuseum_Wiehl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/800px-Bauernmuseum_Wiehl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/1200px-Bauernmuseum_Wiehl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/1920px-Bauernmuseum_Wiehl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/1920px-Bauernmuseum_Wiehl.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Steile Lagerung"
 date: 2026-01-26
 draft: false
 description: "monument in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q14544624"
 latitude: 51.4499
 longitude: 7.01339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Steile_Lagerung,_Essen.JPG/400px-Steile_Lagerung,_Essen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Steile_Lagerung,_Essen.JPG/800px-Steile_Lagerung,_Essen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Steile_Lagerung,_Essen.JPG/1200px-Steile_Lagerung,_Essen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Steile_Lagerung,_Essen.JPG/1920px-Steile_Lagerung,_Essen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Steile_Lagerung,_Essen.JPG/1920px-Steile_Lagerung,_Essen.JPG---
 
 ## Overview
 

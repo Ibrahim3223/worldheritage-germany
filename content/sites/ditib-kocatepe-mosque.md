@@ -4,13 +4,13 @@ site_name: "DİTİB Kocatepe Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Ingolstadt, Bavaria, Germany"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q1485056"
 latitude: 48.7781
 longitude: 11.4236
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/400px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/800px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/1200px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/1920px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/1920px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg---
 
 ## Overview
 

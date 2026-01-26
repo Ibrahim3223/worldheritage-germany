@@ -4,13 +4,13 @@ site_name: "Medienhaus Mülheim an der Ruhr"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q1916378"
 latitude: 51.4291
 longitude: 6.88238
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg/400px-Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg/800px-Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg/1200px-Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg/1920px-Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg/1920px-Synagogenplatz-Alte-Post-Hajek-Brunnen-Mülheim-2016.jpg---
 
 ## Overview
 

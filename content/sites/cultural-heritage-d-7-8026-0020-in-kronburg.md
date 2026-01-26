@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8026-0020 in Kronburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Kronburg, Unterallgäu, Swabia, Bavaria, Germany"
-region: "Kronburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Kronburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q98291204"
 latitude: 47.899867024
 longitude: 10.142655057
 images:
-  []
----
+  []---
 
 ## Overview
 

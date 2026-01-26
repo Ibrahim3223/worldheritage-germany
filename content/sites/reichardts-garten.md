@@ -4,19 +4,18 @@ site_name: "Reichardts Garten"
 date: 2026-01-26
 draft: false
 description: "garden in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1607923"
 latitude: 51.5037
 longitude: 11.9602
 images:
-  []
----
+  []---
 
 ## Overview
 

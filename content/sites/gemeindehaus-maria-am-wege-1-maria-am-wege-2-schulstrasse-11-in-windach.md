@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Maria am Wege 1; Maria am Wege 2; Schulstraße 11 in Wi
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-81-146-29 (1) in Windach, Bavaria"
-region: "Windach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Windach"
+  - "Bavaria"
 wikidata_id: "Q98744894"
 latitude: 48.070339954
 longitude: 11.033987718
 images:
-  []
----
+  []---
 
 ## Overview
 

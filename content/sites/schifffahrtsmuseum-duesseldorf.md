@@ -4,13 +4,13 @@ site_name: "Schifffahrtsmuseum (Düsseldorf)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2235030"
 latitude: 51.2275
 longitude: 6.77111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg/400px-Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg/800px-Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg/1200px-Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg/1920px-Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg/1920px-Düsseldorf_-_Burgplatz_-_Schlossturm_04_ies.jpg---
 
 ## Overview
 

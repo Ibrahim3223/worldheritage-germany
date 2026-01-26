@@ -4,13 +4,13 @@ site_name: "All Saints Church"
 date: 2026-01-26
 draft: false
 description: "roman-catholic church in Frankfurt am Main, Germany"
-region: "Frankfurt-Bornheim/Ostend"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Bornheim/Ostend"
+  - "Hesse"
 wikidata_id: "Q1283837"
 latitude: 50.1169
 longitude: 8.70243
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/400px-Allerheiligen_Turm_17102009.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/800px-Allerheiligen_Turm_17102009.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/1200px-Allerheiligen_Turm_17102009.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/1920px-Allerheiligen_Turm_17102009.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/1920px-Allerheiligen_Turm_17102009.JPG---
 
 ## Overview
 

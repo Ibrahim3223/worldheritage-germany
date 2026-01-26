@@ -4,13 +4,13 @@ site_name: "Walkenried Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Walkenried"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Walkenried"
+  - "Lower Saxony"
 wikidata_id: "Q428395"
 latitude: 51.583055555
 longitude: 10.619166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/400px-Walkenried-Zisterzienserkloster_2011_börste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/800px-Walkenried-Zisterzienserkloster_2011_börste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/1200px-Walkenried-Zisterzienserkloster_2011_börste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/1920px-Walkenried-Zisterzienserkloster_2011_börste.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/1920px-Walkenried-Zisterzienserkloster_2011_börste.jpg---
 
 ## Overview
 

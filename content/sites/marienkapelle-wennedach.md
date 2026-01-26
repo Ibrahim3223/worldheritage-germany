@@ -4,13 +4,13 @@ site_name: "Marienkapelle (Wennedach)"
 date: 2026-01-26
 draft: false
 description: "building in Ochsenhausen, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Ochsenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ochsenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1897753"
 latitude: 48.1152
 longitude: 9.92247
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/400px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/800px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/1200px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/1920px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/1920px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg---
 
 ## Overview
 

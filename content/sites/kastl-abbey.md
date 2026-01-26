@@ -4,13 +4,13 @@ site_name: "Kastl Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Kastl"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Kastl"
+  - "Bavaria"
 wikidata_id: "Q511312"
 latitude: 49.3692
 longitude: 11.6833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/400px-Ertl_Kastl.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/800px-Ertl_Kastl.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/1200px-Ertl_Kastl.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/1920px-Ertl_Kastl.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/1920px-Ertl_Kastl.png---
 
 ## Overview 
 

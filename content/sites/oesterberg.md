@@ -4,13 +4,13 @@ site_name: "Österberg"
 date: 2026-01-26
 draft: false
 description: "Stadtteil in Tübingen"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q298319"
 latitude: 48.5231
 longitude: 9.07
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/400px-Oesterberg-tuebingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/800px-Oesterberg-tuebingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/1200px-Oesterberg-tuebingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/1920px-Oesterberg-tuebingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/1920px-Oesterberg-tuebingen.jpg---
 
 ## Overview
 

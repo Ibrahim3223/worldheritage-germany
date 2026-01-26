@@ -4,13 +4,13 @@ site_name: "Dömitz Fortress"
 date: 2026-01-26
 draft: false
 description: "was built between 1559 and 1565, to secure Mecklenburg's border"
-region: "Dömitz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dömitz"
+  - "Lower Saxony"
 wikidata_id: "Q878560"
 latitude: 53.1424
 longitude: 11.2457
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/400px-Dömitz_Festung_ReiKi.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/800px-Dömitz_Festung_ReiKi.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1200px-Dömitz_Festung_ReiKi.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1920px-Dömitz_Festung_ReiKi.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1920px-Dömitz_Festung_ReiKi.JPG---
 
 ## Overview
 

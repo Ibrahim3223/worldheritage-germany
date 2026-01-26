@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg/400px-Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg/800px-Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg/1200px-Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg/1920px-Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg/1920px-Beelitzer_Jagdschirm_in_the_Peacock_Island.jpg---
 
 ## Overview
 

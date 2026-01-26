@@ -4,19 +4,18 @@ site_name: "Alte Steinkuhle Colliery"
 date: 2026-01-26
 draft: false
 description: "mine in Bochum, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169636"
 latitude: 51.4575
 longitude: 7.24083
 images:
-  []
----
+  []---
 
 ## Overview
 

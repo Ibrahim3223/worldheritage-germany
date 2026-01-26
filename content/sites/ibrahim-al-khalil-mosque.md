@@ -4,13 +4,13 @@ site_name: "Ibrahim Al-Khalil mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Osnabrück, Germany"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q89207860"
 latitude: 52.27456
 longitude: 8.05359
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/400px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/800px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/1200px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/1920px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/1920px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg---
 
 ## Overview
 

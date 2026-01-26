@@ -4,13 +4,13 @@ site_name: "St. Nikolai, Kiel"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt (Kiel), Germany"
-region: "Altstadt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1991117"
 latitude: 54.3228
 longitude: 10.14
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/400px-Nikolaikirche,_Kiel_msu2017-9142.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/800px-Nikolaikirche,_Kiel_msu2017-9142.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/1200px-Nikolaikirche,_Kiel_msu2017-9142.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/1920px-Nikolaikirche,_Kiel_msu2017-9142.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/1920px-Nikolaikirche,_Kiel_msu2017-9142.jpg---
 
 ## Overview
 

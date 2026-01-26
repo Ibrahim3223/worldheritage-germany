@@ -4,13 +4,13 @@ site_name: "Plauen (Vogtl) ob Bf railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Plauen, Germany"
-region: "Plauen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Plauen"
+  - "Bavaria"
 wikidata_id: "Q320545"
 latitude: 50.505819
 longitude: 12.130422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/400px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/800px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/1200px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/1920px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/1920px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG---
 
 ## Overview
 

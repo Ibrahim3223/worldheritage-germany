@@ -4,13 +4,13 @@ site_name: "Bach-Stammhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Günthersleben-Wechmar, Germany"
-region: "Günthersleben-Wechmar"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Günthersleben-Wechmar"
+  - "Thuringia"
 wikidata_id: "Q20480846"
 latitude: 50.8914
 longitude: 10.77742
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/400px-Wechmar_Bachhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/800px-Wechmar_Bachhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/1200px-Wechmar_Bachhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/1920px-Wechmar_Bachhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/1920px-Wechmar_Bachhaus.JPG---
 
 ## Overview
 

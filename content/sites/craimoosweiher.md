@@ -4,13 +4,13 @@ site_name: "Craimoosweiher"
 date: 2026-01-26
 draft: false
 description: "lake in the municipality of Schnabelwaid, Bavaria, Germany"
-region: "Schnabelwaid"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schnabelwaid"
+  - "Bavaria"
 wikidata_id: "Q261026"
 latitude: 49.8222
 longitude: 11.5946
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/400px-Craimoosweiher.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/800px-Craimoosweiher.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/1200px-Craimoosweiher.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/1920px-Craimoosweiher.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/1920px-Craimoosweiher.JPG---
 
 ## Overview
 

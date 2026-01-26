@@ -4,13 +4,13 @@ site_name: "Natura 2000–Biener Busch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Lingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Lingen"
+  - "Lower Saxony"
 wikidata_id: "Q857614"
 latitude: 52.5756
 longitude: 7.26056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emsland,_Biener_Busch_006.jpg/400px-Emsland,_Biener_Busch_006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emsland,_Biener_Busch_006.jpg/800px-Emsland,_Biener_Busch_006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emsland,_Biener_Busch_006.jpg/1200px-Emsland,_Biener_Busch_006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emsland,_Biener_Busch_006.jpg/1920px-Emsland,_Biener_Busch_006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emsland,_Biener_Busch_006.jpg/1920px-Emsland,_Biener_Busch_006.jpg---
 
 ## Overview
 

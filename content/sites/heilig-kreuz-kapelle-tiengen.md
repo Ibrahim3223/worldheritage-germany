@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kapelle (Tiengen)"
 date: 2026-01-26
 draft: false
 description: "chapel in Waldshut-Tiengen"
-region: "Waldshut-Tiengen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Waldshut-Tiengen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1594917"
 latitude: 47.63649208
 longitude: 8.28173876
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kapelle_Hl._Kreuz_Tiengen2.jpg/400px-Kapelle_Hl._Kreuz_Tiengen2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kapelle_Hl._Kreuz_Tiengen2.jpg/800px-Kapelle_Hl._Kreuz_Tiengen2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kapelle_Hl._Kreuz_Tiengen2.jpg/1200px-Kapelle_Hl._Kreuz_Tiengen2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kapelle_Hl._Kreuz_Tiengen2.jpg/1920px-Kapelle_Hl._Kreuz_Tiengen2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kapelle_Hl._Kreuz_Tiengen2.jpg/1920px-Kapelle_Hl._Kreuz_Tiengen2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Kunibert"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Erftstadt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erftstadt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1620195"
 latitude: 50.8397
 longitude: 6.74111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/400px-Gymnich_St._Kunibert.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/800px-Gymnich_St._Kunibert.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/1200px-Gymnich_St._Kunibert.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/1920px-Gymnich_St._Kunibert.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/1920px-Gymnich_St._Kunibert.jpg---
 
 ## Overview
 

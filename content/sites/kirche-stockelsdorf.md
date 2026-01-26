@@ -4,13 +4,13 @@ site_name: "Kirche Stockelsdorf"
 date: 2026-01-26
 draft: false
 description: "church building in Stockelsdorf, Germany"
-region: "Stockelsdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stockelsdorf"
+  - "Lower Saxony"
 wikidata_id: "Q2350606"
 latitude: 53.8884
 longitude: 10.6488
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stockelsdorf_Evangelische_Kirche_04.jpg/400px-Stockelsdorf_Evangelische_Kirche_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stockelsdorf_Evangelische_Kirche_04.jpg/800px-Stockelsdorf_Evangelische_Kirche_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stockelsdorf_Evangelische_Kirche_04.jpg/1200px-Stockelsdorf_Evangelische_Kirche_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stockelsdorf_Evangelische_Kirche_04.jpg/1920px-Stockelsdorf_Evangelische_Kirche_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stockelsdorf_Evangelische_Kirche_04.jpg/1920px-Stockelsdorf_Evangelische_Kirche_04.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Elster-Saale-Kanal (Sachgesamtheit) Dölzig"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schkeuditz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schkeuditz"
+  - "Saxony"
 wikidata_id: "Q49445380"
 latitude: 51.3587428
 longitude: 12.206753777
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heiligkreuzkapelle (Köln)"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1595366"
 latitude: 50.9411
 longitude: 6.94804
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/400px-Zeughausstraße_und_Umfeld_1570-71.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/800px-Zeughausstraße_und_Umfeld_1570-71.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/1200px-Zeughausstraße_und_Umfeld_1570-71.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/1920px-Zeughausstraße_und_Umfeld_1570-71.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/1920px-Zeughausstraße_und_Umfeld_1570-71.jpg---
 
 ## Overview
 

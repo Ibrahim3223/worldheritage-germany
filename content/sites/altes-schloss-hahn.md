@@ -4,19 +4,18 @@ site_name: "Altes Schloss (Hahn)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lebach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lebach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q439549"
 latitude: 49.423
 longitude: 6.89684
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Kulturbüro Görlitz"
 date: 2026-01-26
 draft: false
 description: "The Cultural Office initiates and supports projects in the city of Görlitz that promote artistic and cultural life"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q131694714"
 latitude: 51.150379
 longitude: 14.985663
 images:
-  []
----
+  []---
 
 ## Overview
 

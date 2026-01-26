@@ -4,19 +4,18 @@ site_name: "ZEPHYR – raum für fotografie!"
 date: 2026-01-26
 draft: false
 description: "museum in Mannheim, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q21035598"
 latitude: 49.48792
 longitude: 8.4627
 images:
-  []
----
+  []---
 
 ## Overview
 

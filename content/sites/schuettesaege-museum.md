@@ -4,13 +4,13 @@ site_name: "Schüttesäge Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schiltach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schiltach"
+  - "Baden-Württemberg"
 wikidata_id: "Q2259902"
 latitude: 48.2905
 longitude: 8.34377
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Museum_Schüttesäge_Schiltach.JPG/400px-Museum_Schüttesäge_Schiltach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Museum_Schüttesäge_Schiltach.JPG/800px-Museum_Schüttesäge_Schiltach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Museum_Schüttesäge_Schiltach.JPG/1200px-Museum_Schüttesäge_Schiltach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Museum_Schüttesäge_Schiltach.JPG/1920px-Museum_Schüttesäge_Schiltach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Museum_Schüttesäge_Schiltach.JPG/1920px-Museum_Schüttesäge_Schiltach.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Selimiye Camii Gundelsheim"
 date: 2026-01-26
 draft: false
 description: "Moschee in Gundelsheim, Landkreis Heilbronn, Baden-Württemberg, Deutschland"
-region: "Gundelsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Gundelsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q136815539"
 latitude: 49.27394
 longitude: 9.15528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DİTİB_Moschee_in_Gundelsheim.jpg/400px-DİTİB_Moschee_in_Gundelsheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DİTİB_Moschee_in_Gundelsheim.jpg/800px-DİTİB_Moschee_in_Gundelsheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DİTİB_Moschee_in_Gundelsheim.jpg/1200px-DİTİB_Moschee_in_Gundelsheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DİTİB_Moschee_in_Gundelsheim.jpg/1920px-DİTİB_Moschee_in_Gundelsheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DİTİB_Moschee_in_Gundelsheim.jpg/1920px-DİTİB_Moschee_in_Gundelsheim.jpg---
 
 ## Overview
 

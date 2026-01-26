@@ -4,13 +4,13 @@ site_name: "Old Synagogue (Erfurt)"
 date: 2026-01-26
 draft: false
 description: "medieval synagogue building"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q436286"
 latitude: 50.9786
 longitude: 11.0293
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/400px-Erfurt_Alte_Synagoge_von_NW.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/800px-Erfurt_Alte_Synagoge_von_NW.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/1200px-Erfurt_Alte_Synagoge_von_NW.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/1920px-Erfurt_Alte_Synagoge_von_NW.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/1920px-Erfurt_Alte_Synagoge_von_NW.JPG---
 
 ## Overview
 

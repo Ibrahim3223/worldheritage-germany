@@ -4,13 +4,13 @@ site_name: "Karlsburg"
 date: 2026-01-26
 draft: false
 description: "village in Schleswig-Holstein"
-region: "Winnemark"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Winnemark"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1421702"
 latitude: 54.618279
 longitude: 9.95276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winnemark_Karlsburg_5200.jpg/400px-Winnemark_Karlsburg_5200.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winnemark_Karlsburg_5200.jpg/800px-Winnemark_Karlsburg_5200.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winnemark_Karlsburg_5200.jpg/1200px-Winnemark_Karlsburg_5200.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winnemark_Karlsburg_5200.jpg/1920px-Winnemark_Karlsburg_5200.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winnemark_Karlsburg_5200.jpg/1920px-Winnemark_Karlsburg_5200.jpg---
 
 ## Overview
 

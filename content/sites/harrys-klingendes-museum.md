@@ -4,19 +4,18 @@ site_name: "Harry’s klingendes Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Schwarmstedt, Germany"
-region: "Schwarmstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwarmstedt"
+  - "Lower Saxony"
 wikidata_id: "Q1586925"
 latitude: 52.67246944
 longitude: 9.61758056
 images:
-  []
----
+  []---
 
 ## Overview
 

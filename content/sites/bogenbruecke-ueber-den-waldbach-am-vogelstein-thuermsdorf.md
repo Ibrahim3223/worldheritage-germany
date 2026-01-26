@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über den Waldbach am Vogelstein Thürmsdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Struppen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Struppen"
+  - "Saxony"
 wikidata_id: "Q49444054"
 latitude: 50.927894275
 longitude: 14.04722124
 images:
-  []
----
+  []---
 
 ## Overview
 

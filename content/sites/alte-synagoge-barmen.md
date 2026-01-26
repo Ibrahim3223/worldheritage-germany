@@ -4,13 +4,13 @@ site_name: "Alte Synagoge (Barmen)"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Barmen, BRD"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q436261"
 latitude: 51.2753
 longitude: 7.20222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/400px-Wuppertal_Barmen_Alte_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/800px-Wuppertal_Barmen_Alte_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/1200px-Wuppertal_Barmen_Alte_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/1920px-Wuppertal_Barmen_Alte_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/1920px-Wuppertal_Barmen_Alte_Synagoge.jpg---
 
 ## Overview
 

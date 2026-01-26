@@ -4,13 +4,13 @@ site_name: "Gedenkstein Karlstein"
 date: 2026-01-26
 draft: false
 description: "monument in Weinstadt, Germany"
-region: "Weinstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Weinstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q780338"
 latitude: 48.7903
 longitude: 9.37583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/400px-Karlstein_restauriert.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/800px-Karlstein_restauriert.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1200px-Karlstein_restauriert.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1920px-Karlstein_restauriert.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1920px-Karlstein_restauriert.JPG---
 
 ## Overview
 

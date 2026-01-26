@@ -4,19 +4,18 @@ site_name: "EMAG Zerbst Maschinenfabrik GmbH"
 date: 2026-01-26
 draft: false
 description: "company in Zerbst, Germany"
-region: "Zerbst"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Zerbst"
+  - "Brandenburg"
 wikidata_id: "Q2560582"
 latitude: 51.95485
 longitude: 12.09339
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Telemax"
 date: 2026-01-26
 draft: false
 description: "telecommunication tower in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q451592"
 latitude: 52.393055555
 longitude: 9.799722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/400px-Telemax_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/800px-Telemax_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/1200px-Telemax_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/1920px-Telemax_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/1920px-Telemax_-_panoramio.jpg---
 
 ## Overview
 

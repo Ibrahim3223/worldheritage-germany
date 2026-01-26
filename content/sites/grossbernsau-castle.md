@@ -4,13 +4,13 @@ site_name: "Großbernsau Castle"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Overath"
-region: "Overath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Overath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012063"
 latitude: 50.9431
 longitude: 7.30139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/400px-Burg_Großbernsau_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/800px-Burg_Großbernsau_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/1200px-Burg_Großbernsau_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/1920px-Burg_Großbernsau_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/1920px-Burg_Großbernsau_(2).jpg---
 
 ## Overview
 

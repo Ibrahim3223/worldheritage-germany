@@ -4,13 +4,13 @@ site_name: "Church in Gristow"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Germany"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742542"
 latitude: 54.17238889
 longitude: 13.33277778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/400px-Kirche_Gristow,_Turm_(2009-10-04).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/800px-Kirche_Gristow,_Turm_(2009-10-04).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/1200px-Kirche_Gristow,_Turm_(2009-10-04).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/1920px-Kirche_Gristow,_Turm_(2009-10-04).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/1920px-Kirche_Gristow,_Turm_(2009-10-04).JPG---
 
 ## Overview
 

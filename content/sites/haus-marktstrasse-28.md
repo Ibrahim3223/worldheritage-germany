@@ -4,13 +4,13 @@ site_name: "Haus Marktstraße 28"
 date: 2026-01-26
 draft: false
 description: "cultural monument in Groß-Bieberau in the Darmstadt-Dieburg district, Hesse, Germany"
-region: "Groß-Bieberau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Groß-Bieberau"
+  - "Baden-Württemberg"
 wikidata_id: "Q116580565"
 latitude: 49.799132528
 longitude: 8.82490275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/400px-Groß-Bieberau_Marktstraße_28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/800px-Groß-Bieberau_Marktstraße_28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/1200px-Groß-Bieberau_Marktstraße_28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/1920px-Groß-Bieberau_Marktstraße_28.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/1920px-Groß-Bieberau_Marktstraße_28.jpg---
 
 ## Overview
 

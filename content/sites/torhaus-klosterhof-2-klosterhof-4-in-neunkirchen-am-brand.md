@@ -4,19 +4,18 @@ site_name: "Torhaus Klosterhof 2; Klosterhof 4 in Neunkirchen am Brand"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-154-61 (1) in Neunkirchen am Brand, Bavaria"
-region: "Neunkirchen am Brand"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Neunkirchen am Brand"
+  - "Bavaria"
 wikidata_id: "Q98587105"
 latitude: 49.61253837
 longitude: 11.129539891
 images:
-  []
----
+  []---
 
 ## Overview
 

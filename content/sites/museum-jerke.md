@@ -4,19 +4,18 @@ site_name: "Museum Jerke"
 date: 2026-01-26
 draft: false
 description: "private museum in Recklinghausen, Germany, devoted to Polish art"
-region: "Recklinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Recklinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q25407671"
 latitude: 51.615279
 longitude: 7.196791
 images:
-  []
----
+  []---
 
 ## Overview
 

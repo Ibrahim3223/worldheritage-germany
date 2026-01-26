@@ -4,13 +4,13 @@ site_name: "St. Helena-Kapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1602060"
 latitude: 50.73355
 longitude: 7.100944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Helenakapelle_Bonn_2.JPG/400px-Helenakapelle_Bonn_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Helenakapelle_Bonn_2.JPG/800px-Helenakapelle_Bonn_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Helenakapelle_Bonn_2.JPG/1200px-Helenakapelle_Bonn_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Helenakapelle_Bonn_2.JPG/1920px-Helenakapelle_Bonn_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Helenakapelle_Bonn_2.JPG/1920px-Helenakapelle_Bonn_2.JPG---
 
 ## Overview
 

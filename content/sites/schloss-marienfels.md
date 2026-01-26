@@ -4,13 +4,13 @@ site_name: "Schloss Marienfels"
 date: 2026-01-26
 draft: false
 description: "palace in Remagen, Germany"
-region: "Remagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Remagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q315002"
 latitude: 50.588888888
 longitude: 7.210555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Marienfels.jpg/400px-Schloss_Marienfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Marienfels.jpg/800px-Schloss_Marienfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Marienfels.jpg/1200px-Schloss_Marienfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Marienfels.jpg/1920px-Schloss_Marienfels.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Marienfels.jpg/1920px-Schloss_Marienfels.jpg---
 
 ## Overview
 

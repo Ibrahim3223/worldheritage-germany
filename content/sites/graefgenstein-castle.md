@@ -4,13 +4,13 @@ site_name: "Gräfgenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Ratingen, Germany"
-region: "Ratingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ratingen"
+  - "Lower Saxony"
 wikidata_id: "Q1012090"
 latitude: 51.311
 longitude: 6.89461
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gräfgenstein.jpg/400px-Gräfgenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gräfgenstein.jpg/800px-Gräfgenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gräfgenstein.jpg/1200px-Gräfgenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gräfgenstein.jpg/1920px-Gräfgenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gräfgenstein.jpg/1920px-Gräfgenstein.jpg---
 
 ## Overview
 

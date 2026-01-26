@@ -4,19 +4,18 @@ site_name: "German Games Museum"
 date: 2026-01-26
 draft: false
 description: "games museum in Chemnitz, Germany"
-region: "Kappel"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kappel"
+  - "Saxony"
 wikidata_id: "Q1205988"
 latitude: 50.8206
 longitude: 12.8927
 images:
-  []
----
+  []---
 
 ## Overview
 

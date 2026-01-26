@@ -4,13 +4,13 @@ site_name: "Buchswald bei Grenzach"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Grenzach-Wyhlen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Grenzach-Wyhlen"
+  - "Baden-Württemberg"
 wikidata_id: "Q998859"
 latitude: 47.55472222
 longitude: 7.67416667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg/400px-Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg/800px-Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg/1200px-Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg/1920px-Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg/1920px-Buchswald_am_Westweg_in_Grenzach-Wyhlen_2.jpg---
 
 ## Overview
 

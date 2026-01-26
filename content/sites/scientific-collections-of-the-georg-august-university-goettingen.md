@@ -4,19 +4,18 @@ site_name: "Scientific Collections of the Georg-August-University Göttingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636067"
 latitude: 51.540745
 longitude: 9.937315
 images:
-  []
----
+  []---
 
 ## Overview
 

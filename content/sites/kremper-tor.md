@@ -4,13 +4,13 @@ site_name: "Kremper Tor"
 date: 2026-01-26
 draft: false
 description: "city gate in Neustadt in Holstein, Germany"
-region: "Neustadt in Holstein"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Neustadt in Holstein"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1242431"
 latitude: 54.10956
 longitude: 10.81633
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/400px-Krempertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/800px-Krempertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1200px-Krempertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1920px-Krempertor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1920px-Krempertor.jpg---
 
 ## Overview
 

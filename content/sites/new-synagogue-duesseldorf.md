@@ -4,13 +4,13 @@ site_name: "New Synagogue, Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "synagogue in Düsseldorf"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q823014"
 latitude: 51.24305556
 longitude: 6.77861111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/400px-Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/800px-Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1200px-Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1920px-Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1920px-Neue_Synagoge_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg---
 
 ## Overview
 

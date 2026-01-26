@@ -4,13 +4,13 @@ site_name: "Church of St Augustine of Canterbury, Wiesbaden"
 date: 2026-01-26
 draft: false
 description: "church building in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q1341217"
 latitude: 50.080030555
 longitude: 8.246033333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/400px-AnglikanischeKircheWiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/800px-AnglikanischeKircheWiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1200px-AnglikanischeKircheWiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1920px-AnglikanischeKircheWiesbaden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1920px-AnglikanischeKircheWiesbaden.jpg---
 
 ## Overview
 

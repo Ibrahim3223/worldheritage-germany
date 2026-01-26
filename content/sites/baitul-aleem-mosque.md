@@ -4,13 +4,13 @@ site_name: "Baitul Aleem Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Wurzburg, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q123480081"
 latitude: 49.729934781
 longitude: 9.961013833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/400px-Baitul_Aleem_Mosque,_Wurzburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/800px-Baitul_Aleem_Mosque,_Wurzburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/1200px-Baitul_Aleem_Mosque,_Wurzburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/1920px-Baitul_Aleem_Mosque,_Wurzburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/1920px-Baitul_Aleem_Mosque,_Wurzburg.jpg---
 
 ## Overview
 

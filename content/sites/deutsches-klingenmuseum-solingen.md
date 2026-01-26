@@ -4,13 +4,13 @@ site_name: "Deutsches Klingenmuseum Solingen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Solingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Solingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1205774"
 latitude: 51.2097
 longitude: 7.0725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/400px-Deutsches-klingenmuseum-20010502.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/800px-Deutsches-klingenmuseum-20010502.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/1200px-Deutsches-klingenmuseum-20010502.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/1920px-Deutsches-klingenmuseum-20010502.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/1920px-Deutsches-klingenmuseum-20010502.jpg---
 
 ## Overview
 

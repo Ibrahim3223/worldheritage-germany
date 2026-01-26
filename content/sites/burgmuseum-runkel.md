@@ -4,19 +4,18 @@ site_name: "Burgmuseum Runkel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Runkel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Runkel"
+  - "Hesse"
 wikidata_id: "Q76634179"
 latitude: 50.405721
 longitude: 8.156345
 images:
-  []
----
+  []---
 
 ## Overview
 

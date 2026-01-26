@@ -4,13 +4,13 @@ site_name: "University of Altdorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Altdorf bei Nürnberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Altdorf bei Nürnberg"
+  - "Bavaria"
 wikidata_id: "Q880228"
 latitude: 49.384724382
 longitude: 11.356808604
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/400px-Altdorf_Uni.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/800px-Altdorf_Uni.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/1200px-Altdorf_Uni.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/1920px-Altdorf_Uni.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/1920px-Altdorf_Uni.jpg---
 
 ## Overview
 

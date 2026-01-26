@@ -4,13 +4,13 @@ site_name: "Church of the Holy Cross"
 date: 2026-01-26
 draft: false
 description: "church in Leverkusen, Germany"
-region: "Leverkusen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leverkusen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q228969"
 latitude: 51.0617
 longitude: 6.95539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/400px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/800px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/1200px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/1920px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/1920px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg---
 
 ## Overview
 

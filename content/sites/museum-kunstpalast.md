@@ -4,13 +4,13 @@ site_name: "Museum Kunstpalast"
 date: 2026-01-26
 draft: false
 description: "art museum in Düsseldorf"
-region: "Pempelfort"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Pempelfort"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q461277"
 latitude: 51.2343
 longitude: 6.77333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/400px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/800px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/1200px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/1920px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/1920px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG---
 
 ## Overview
 

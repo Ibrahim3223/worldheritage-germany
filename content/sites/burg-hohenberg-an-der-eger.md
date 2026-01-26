@@ -4,13 +4,13 @@ site_name: "Burg Hohenberg an der Eger"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Hohenberg an der Eger"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hohenberg an der Eger"
+  - "Bavaria"
 wikidata_id: "Q1012386"
 latitude: 50.097218
 longitude: 12.224157
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/400px-Burg_Hohenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/800px-Burg_Hohenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/1200px-Burg_Hohenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/1920px-Burg_Hohenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/1920px-Burg_Hohenberg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bionicum"
 date: 2026-01-26
 draft: false
 description: "museum about bionics in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q22965403"
 latitude: 49.45027
 longitude: 11.140124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/400px-Bionicum_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/800px-Bionicum_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/1200px-Bionicum_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/1920px-Bionicum_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/1920px-Bionicum_01.JPG---
 
 ## Overview
 

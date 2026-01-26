@@ -4,13 +4,13 @@ site_name: "Garten Johannisstraße 13 in Nürnberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-64-000-909 (1) in Nürnberg, Bavaria"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q98634058"
 latitude: 49.456749279
 longitude: 11.068540511
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg/400px-D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg/800px-D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg/1200px-D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg/1920px-D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg/1920px-D-5-64-000-909_Johannisstraße_13_Nürnberg_20241027_0174.jpg---
 
 ## Overview
 

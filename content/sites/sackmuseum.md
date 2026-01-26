@@ -4,13 +4,13 @@ site_name: "Sackmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nieheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nieheim"
+  - "Lower Saxony"
 wikidata_id: "Q2210810"
 latitude: 51.8049
 longitude: 9.11039
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/400px-Sackmuseum_Nieheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/800px-Sackmuseum_Nieheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/1200px-Sackmuseum_Nieheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/1920px-Sackmuseum_Nieheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/1920px-Sackmuseum_Nieheim.JPG---
 
 ## Overview
 

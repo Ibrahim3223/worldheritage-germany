@@ -4,13 +4,13 @@ site_name: "Gustav Landauer Memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Hadern, Germany"
-region: "Hadern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hadern"
+  - "Bavaria"
 wikidata_id: "Q1555490"
 latitude: 48.108638888
 longitude: 11.495694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/400px-Memorial_Gustav_Landauer_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/800px-Memorial_Gustav_Landauer_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/1200px-Memorial_Gustav_Landauer_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/1920px-Memorial_Gustav_Landauer_2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/1920px-Memorial_Gustav_Landauer_2019.jpg---
 
 ## Overview
 

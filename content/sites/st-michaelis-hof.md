@@ -4,13 +4,13 @@ site_name: "St. Michaelis (Hof)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Hof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hof"
+  - "Bavaria"
 wikidata_id: "Q2321759"
 latitude: 50.3219
 longitude: 11.91992
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/400px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/800px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/1200px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/1920px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/1920px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg---
 
 ## Overview
 

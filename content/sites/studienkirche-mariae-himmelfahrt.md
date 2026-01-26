@@ -4,13 +4,13 @@ site_name: "Studienkirche Mariä Himmelfahrt"
 date: 2026-01-26
 draft: false
 description: "church building in Dillingen an der Donau, Swabia, Germany"
-region: "Dillingen an der Donau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dillingen an der Donau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1695874"
 latitude: 48.5771
 longitude: 10.4908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/400px-Collegium_St_Hieronymi_Vorderseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/800px-Collegium_St_Hieronymi_Vorderseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/1200px-Collegium_St_Hieronymi_Vorderseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/1920px-Collegium_St_Hieronymi_Vorderseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/1920px-Collegium_St_Hieronymi_Vorderseite.jpg---
 
 ## Overview
 

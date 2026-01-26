@@ -4,19 +4,18 @@ site_name: "Bogenbrücke mit Schlussstein Helbigsdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wilsdruff"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wilsdruff"
+  - "Saxony"
 wikidata_id: "Q49444239"
 latitude: 51.030540735
 longitude: 13.478955715
 images:
-  []
----
+  []---
 
 ## Overview
 

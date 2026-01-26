@@ -4,13 +4,13 @@ site_name: "St. Rupert"
 date: 2026-01-26
 draft: false
 description: "church building in Schwanthalerhöhe, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2323050"
 latitude: 48.1357
 longitude: 11.5359
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG/400px-Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG/800px-Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG/1200px-Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG/1920px-Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG/1920px-Iglesia_de_San_Ruperto,_Múnich,_Alemania,_2013-03-30,_DD_02.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Beach of Hooksiel"
 date: 2026-01-26
 draft: false
 description: "beach in Hooksiel, Germany"
-region: "Wangerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Wangerland"
+  - "Lower Saxony"
 wikidata_id: "Q15638688"
 latitude: 53.64206676
 longitude: 8.05889066
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/400px-Hooksiel_Strand.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/800px-Hooksiel_Strand.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/1200px-Hooksiel_Strand.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/1920px-Hooksiel_Strand.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/1920px-Hooksiel_Strand.jpg---
 
 ## Overview
 

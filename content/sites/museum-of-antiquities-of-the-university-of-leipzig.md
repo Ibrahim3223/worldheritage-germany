@@ -4,13 +4,13 @@ site_name: "Museum of Antiquities of the University of Leipzig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q576074"
 latitude: 51.3413
 longitude: 12.3783
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/400px-Leipzig_Alte_Nikolaischule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/800px-Leipzig_Alte_Nikolaischule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1200px-Leipzig_Alte_Nikolaischule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1920px-Leipzig_Alte_Nikolaischule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1920px-Leipzig_Alte_Nikolaischule.jpg---
 
 ## Overview
 

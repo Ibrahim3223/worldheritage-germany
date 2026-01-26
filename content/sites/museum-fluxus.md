@@ -4,13 +4,13 @@ site_name: "Museum FLUXUS+"
 date: 2026-01-26
 draft: false
 description: "art museum in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1954435"
 latitude: 52.4034
 longitude: 13.0727
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/400px-Museumfluxus_außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/800px-Museumfluxus_außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/1200px-Museumfluxus_außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/1920px-Museumfluxus_außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/1920px-Museumfluxus_außenansicht.jpg---
 
 ## Overview
 

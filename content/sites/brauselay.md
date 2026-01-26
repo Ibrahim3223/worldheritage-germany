@@ -4,13 +4,13 @@ site_name: "Brauselay"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Rheinland-Pfalz, Germany"
-region: "Cochem"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Cochem"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q902339"
 latitude: 50.1425
 longitude: 7.18361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/400px-Brauselay_bei_Cochem_0013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/800px-Brauselay_bei_Cochem_0013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/1200px-Brauselay_bei_Cochem_0013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/1920px-Brauselay_bei_Cochem_0013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/1920px-Brauselay_bei_Cochem_0013.jpg---
 
 ## Overview
 

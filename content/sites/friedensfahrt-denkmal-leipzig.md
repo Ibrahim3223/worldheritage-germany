@@ -4,13 +4,13 @@ site_name: "Friedensfahrt-Denkmal (Leipzig)"
 date: 2026-01-26
 draft: false
 description: "memorial in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1596265"
 latitude: 51.3378
 longitude: 12.386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/400px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/800px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/1200px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/1920px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/1920px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg---
 
 ## Overview
 

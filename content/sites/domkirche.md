@@ -4,13 +4,13 @@ site_name: "Domkirche"
 date: 2026-01-26
 draft: false
 description: "religious building"
-region: "Lampertheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lampertheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q15109561"
 latitude: 49.594718
 longitude: 8.467927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lampertheim_Domkirche_01.jpg/400px-Lampertheim_Domkirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lampertheim_Domkirche_01.jpg/800px-Lampertheim_Domkirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lampertheim_Domkirche_01.jpg/1200px-Lampertheim_Domkirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lampertheim_Domkirche_01.jpg/1920px-Lampertheim_Domkirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lampertheim_Domkirche_01.jpg/1920px-Lampertheim_Domkirche_01.jpg---
 
 ## Overview
 

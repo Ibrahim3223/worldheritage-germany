@@ -4,13 +4,13 @@ site_name: "Blender See"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Blender"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Blender"
+  - "Lower Saxony"
 wikidata_id: "Q883785"
 latitude: 52.9241
 longitude: 9.13711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/400px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/800px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/1200px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/1920px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/1920px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG---
 
 ## Overview
 

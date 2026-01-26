@@ -4,13 +4,13 @@ site_name: "Galerie für Zeitgenössische Kunst"
 date: 2026-01-26
 draft: false
 description: "Gallery for contemporary art in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1491911"
 latitude: 51.3339
 longitude: 12.3653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/400px-Leipzig_GfZK_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/800px-Leipzig_GfZK_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/1200px-Leipzig_GfZK_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/1920px-Leipzig_GfZK_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/1920px-Leipzig_GfZK_1.jpg---
 
 ## Overview
 

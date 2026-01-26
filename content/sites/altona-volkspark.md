@@ -4,13 +4,13 @@ site_name: "Altona Volkspark"
 date: 2026-01-26
 draft: false
 description: "Urban park in Hamburg"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q444045"
 latitude: 53.58027778
 longitude: 9.90361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/400px-HH-Altona_Volkspark_o.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/800px-HH-Altona_Volkspark_o.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1200px-HH-Altona_Volkspark_o.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1920px-HH-Altona_Volkspark_o.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1920px-HH-Altona_Volkspark_o.jpg---
 
 ## Overview
 

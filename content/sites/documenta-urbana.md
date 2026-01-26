@@ -4,13 +4,13 @@ site_name: "Documenta urbana"
 date: 2026-01-26
 draft: false
 description: "residential complex in the southwest of Kassel, Hesse"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1234010"
 latitude: 51.293145
 longitude: 9.444988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/400px-Wohnbebauung_an_der_Dönche_Kassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/800px-Wohnbebauung_an_der_Dönche_Kassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/1200px-Wohnbebauung_an_der_Dönche_Kassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/1920px-Wohnbebauung_an_der_Dönche_Kassel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/1920px-Wohnbebauung_an_der_Dönche_Kassel.jpg---
 
 ## Overview
 

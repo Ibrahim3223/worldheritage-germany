@@ -4,13 +4,13 @@ site_name: "Museum der Grafschaft Rantzau"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Barmstedt"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Barmstedt"
+  - "Hamburg"
 wikidata_id: "Q1300457"
 latitude: 53.7829
 longitude: 9.76021
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/400px-Schlossinsel_Barmstedt2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/800px-Schlossinsel_Barmstedt2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/1200px-Schlossinsel_Barmstedt2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/1920px-Schlossinsel_Barmstedt2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/1920px-Schlossinsel_Barmstedt2.JPG---
 
 ## Overview
 

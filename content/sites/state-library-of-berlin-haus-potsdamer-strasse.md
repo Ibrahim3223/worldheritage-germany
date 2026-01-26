@@ -4,13 +4,13 @@ site_name: "State Library of Berlin (Haus Potsdamer Straße)"
 date: 2026-01-26
 draft: false
 description: "library building in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1675021"
 latitude: 52.5075
 longitude: 13.3707
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Staatsbibliothek_zu_Berlin_Haus_2.jpg/400px-Staatsbibliothek_zu_Berlin_Haus_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Staatsbibliothek_zu_Berlin_Haus_2.jpg/800px-Staatsbibliothek_zu_Berlin_Haus_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Staatsbibliothek_zu_Berlin_Haus_2.jpg/1200px-Staatsbibliothek_zu_Berlin_Haus_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Staatsbibliothek_zu_Berlin_Haus_2.jpg/1920px-Staatsbibliothek_zu_Berlin_Haus_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Staatsbibliothek_zu_Berlin_Haus_2.jpg/1920px-Staatsbibliothek_zu_Berlin_Haus_2.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Stanigplatz 12; Stanigplatz 13 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-7917 (2) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98741041"
 latitude: 48.216315534
 longitude: 11.554053818
 images:
-  []
----
+  []---
 
 ## Overview
 

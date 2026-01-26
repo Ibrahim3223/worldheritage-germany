@@ -4,13 +4,13 @@ site_name: "Synagogue in Auerbach"
 date: 2026-01-26
 draft: false
 description: "profanierte Synagoge in Auerbach in Bensheim in Hessen"
-region: "Bensheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bensheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1396332"
 latitude: 49.7012
 longitude: 8.62356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synagoge_Auerbach_03.jpg/400px-Synagoge_Auerbach_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synagoge_Auerbach_03.jpg/800px-Synagoge_Auerbach_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synagoge_Auerbach_03.jpg/1200px-Synagoge_Auerbach_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synagoge_Auerbach_03.jpg/1920px-Synagoge_Auerbach_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Synagoge_Auerbach_03.jpg/1920px-Synagoge_Auerbach_03.jpg---
 
 ## Overview
 

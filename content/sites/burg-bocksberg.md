@@ -4,13 +4,13 @@ site_name: "Burg Bocksberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Laugna"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Laugna"
+  - "Bavaria"
 wikidata_id: "Q1011089"
 latitude: 48.5089
 longitude: 10.6839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/400px-Burg_Bocksberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/800px-Burg_Bocksberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/1200px-Burg_Bocksberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/1920px-Burg_Bocksberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/1920px-Burg_Bocksberg.JPG---
 
 ## Overview
 

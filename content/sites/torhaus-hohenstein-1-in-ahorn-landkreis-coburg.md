@@ -4,19 +4,18 @@ site_name: "Torhaus Hohenstein 1 in Ahorn (Landkreis Coburg)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-73-112-13 (4) in Ahorn (Landkreis Coburg), Bavaria"
-region: "Ahorn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Ahorn"
+  - "Bavaria"
 wikidata_id: "Q98587136"
 latitude: 50.217517138
 longitude: 10.933798329
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Maria in den Benden"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Wersten, Germany"
-region: "Wersten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wersten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1448845"
 latitude: 51.1843
 longitude: 6.81387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg/400px-St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg/800px-St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg/1200px-St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg/1920px-St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg/1920px-St._Maria_in_den_Benden_in_Duesseldorf-Wersten,_von_Osten.jpg---
 
 ## Overview
 

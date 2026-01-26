@@ -4,13 +4,13 @@ site_name: "Die Lupe"
 date: 2026-01-26
 draft: false
 description: "former arthouse cinema, now a comedy theatre in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1214637"
 latitude: 52.26398852
 longitude: 10.51776686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/400px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/800px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/1200px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/1920px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/1920px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg---
 
 ## Overview
 

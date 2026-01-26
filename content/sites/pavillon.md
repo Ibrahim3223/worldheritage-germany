@@ -4,13 +4,13 @@ site_name: "Pavillon"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-77-164-28 (0) in Wonsees, Bavaria"
-region: "Wonsees"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wonsees"
+  - "Bavaria"
 wikidata_id: "Q41311497"
 latitude: 49.98297
 longitude: 11.31857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG/400px-Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG/800px-Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG/1200px-Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG/1920px-Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG/1920px-Felsengarten_Sanspareil_Morgenländischer_Bau_002.JPG---
 
 ## Overview
 

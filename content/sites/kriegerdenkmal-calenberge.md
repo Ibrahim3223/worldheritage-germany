@@ -4,13 +4,13 @@ site_name: "Kriegerdenkmal Calenberge"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1322510"
 latitude: 52.0623
 longitude: 11.7425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kriegerdenkmal_Calenberge2.JPG/400px-Kriegerdenkmal_Calenberge2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kriegerdenkmal_Calenberge2.JPG/800px-Kriegerdenkmal_Calenberge2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kriegerdenkmal_Calenberge2.JPG/1200px-Kriegerdenkmal_Calenberge2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kriegerdenkmal_Calenberge2.JPG/1920px-Kriegerdenkmal_Calenberge2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kriegerdenkmal_Calenberge2.JPG/1920px-Kriegerdenkmal_Calenberge2.JPG---
 
 ## Overview
 

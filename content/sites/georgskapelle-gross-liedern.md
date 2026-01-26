@@ -4,13 +4,13 @@ site_name: "Georgskapelle Groß Liedern"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Uelzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Uelzen"
+  - "Lower Saxony"
 wikidata_id: "Q1409962"
 latitude: 52.95716667
 longitude: 10.60530556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/400px-Kapelle_Gr._Liedern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/800px-Kapelle_Gr._Liedern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/1200px-Kapelle_Gr._Liedern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/1920px-Kapelle_Gr._Liedern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/1920px-Kapelle_Gr._Liedern.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Langes Bäuche"
 date: 2026-01-26
 draft: false
 description: "cultural monument in Darmstadt, Hesse, Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q19964123"
 latitude: 49.87395
 longitude: 8.65297
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Darmstadt_Langes_Bäuches_Friedensplatz.jpg/400px-Darmstadt_Langes_Bäuches_Friedensplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Darmstadt_Langes_Bäuches_Friedensplatz.jpg/800px-Darmstadt_Langes_Bäuches_Friedensplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Darmstadt_Langes_Bäuches_Friedensplatz.jpg/1200px-Darmstadt_Langes_Bäuches_Friedensplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Darmstadt_Langes_Bäuches_Friedensplatz.jpg/1920px-Darmstadt_Langes_Bäuches_Friedensplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Darmstadt_Langes_Bäuches_Friedensplatz.jpg/1920px-Darmstadt_Langes_Bäuches_Friedensplatz.jpg---
 
 ## Overview
 

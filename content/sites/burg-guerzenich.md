@@ -4,13 +4,13 @@ site_name: "Burg Gürzenich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012136"
 latitude: 50.7875
 longitude: 6.44222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/400px-Burg_Guerzenich_Codex_Welser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/800px-Burg_Guerzenich_Codex_Welser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/1200px-Burg_Guerzenich_Codex_Welser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/1920px-Burg_Guerzenich_Codex_Welser.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/1920px-Burg_Guerzenich_Codex_Welser.jpg---
 
 ## Overview
 

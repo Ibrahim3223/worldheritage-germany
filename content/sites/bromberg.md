@@ -4,13 +4,13 @@ site_name: "Bromberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Böblingen district"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Böblingen district"
+  - "Baden-Württemberg"
 wikidata_id: "Q119508"
 latitude: 48.5942
 longitude: 8.99667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Blick_zum_bromberg.jpg/400px-Blick_zum_bromberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Blick_zum_bromberg.jpg/800px-Blick_zum_bromberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Blick_zum_bromberg.jpg/1200px-Blick_zum_bromberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Blick_zum_bromberg.jpg/1920px-Blick_zum_bromberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Blick_zum_bromberg.jpg/1920px-Blick_zum_bromberg.jpg---
 
 ## Overview
 

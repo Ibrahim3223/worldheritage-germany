@@ -4,19 +4,18 @@ site_name: "Hans Böckler birth house"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Trautskirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trautskirchen"
+  - "Bavaria"
 wikidata_id: "Q76629594"
 latitude: 49.45589
 longitude: 10.59474
 images:
-  []
----
+  []---
 
 ## Overview
 

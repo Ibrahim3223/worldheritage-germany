@@ -4,13 +4,13 @@ site_name: "Internationales Artistenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wandlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wandlitz"
+  - "Brandenburg"
 wikidata_id: "Q1629901"
 latitude: 52.7975
 longitude: 13.4789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/400px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/800px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/1200px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/1920px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/1920px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fichtelberg"
 date: 2026-01-26
 draft: false
 description: "mountain of the Ore Mountains in Saxony, Germany"
-region: "Oberwiesenthal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Oberwiesenthal"
+  - "Bavaria"
 wikidata_id: "Q164561"
 latitude: 50.429444444
 longitude: 12.954166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/400px-Fichtelberg_-_mountain.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/800px-Fichtelberg_-_mountain.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/1200px-Fichtelberg_-_mountain.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/1920px-Fichtelberg_-_mountain.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/1920px-Fichtelberg_-_mountain.jpg---
 
 ## Overview
 

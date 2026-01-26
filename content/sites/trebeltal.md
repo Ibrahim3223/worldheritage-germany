@@ -4,13 +4,13 @@ site_name: "Trebeltal"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Mecklenburg-Vorpommern, Germany"
-region: "Behren-Lübchin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Behren-Lübchin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q240125"
 latitude: 54.0141
 longitude: 12.7744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/400px-Warbel-bei-Wasdow-04-07-2008-026.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/800px-Warbel-bei-Wasdow-04-07-2008-026.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/1200px-Warbel-bei-Wasdow-04-07-2008-026.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/1920px-Warbel-bei-Wasdow-04-07-2008-026.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/1920px-Warbel-bei-Wasdow-04-07-2008-026.JPG---
 
 ## Overview
 

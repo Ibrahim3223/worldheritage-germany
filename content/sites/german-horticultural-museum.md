@@ -4,13 +4,13 @@ site_name: "German horticultural museum"
 date: 2026-01-26
 draft: false
 description: "gardening museum in Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1205649"
 latitude: 50.9675
 longitude: 11.0075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/400px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/800px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1200px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1920px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1920px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg---
 
 ## Overview 
 

@@ -4,13 +4,13 @@ site_name: "Schweinemuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q2255673"
 latitude: 48.7857
 longitude: 9.21989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/400px-Pig_museum.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/800px-Pig_museum.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/1200px-Pig_museum.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/1920px-Pig_museum.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/1920px-Pig_museum.png---
 
 ## Overview 
 

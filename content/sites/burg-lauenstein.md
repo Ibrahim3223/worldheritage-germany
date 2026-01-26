@@ -4,13 +4,13 @@ site_name: "Burg Lauenstein"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-76-152-32 (0) in Ludwigsstadt, Bavaria"
-region: "Ludwigsstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ludwigsstadt"
+  - "Bavaria"
 wikidata_id: "Q1012867"
 latitude: 50.513287381
 longitude: 11.369996131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/400px-Lauenstein_Burg_9302266-Pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/800px-Lauenstein_Burg_9302266-Pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1200px-Lauenstein_Burg_9302266-Pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1920px-Lauenstein_Burg_9302266-Pano.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1920px-Lauenstein_Burg_9302266-Pano.jpg---
 
 ## Overview
 

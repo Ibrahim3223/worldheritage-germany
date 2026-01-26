@@ -4,19 +4,18 @@ site_name: "Liegnitz Collection"
 date: 2026-01-26
 draft: false
 description: "Museum in Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1824183"
 latitude: 51.22954
 longitude: 7.06768
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sammlung Ur- und Frühgeschichte der Universität Leipzig"
 date: 2026-01-26
 draft: false
 description: "wissenschaftliche Sammlung"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2217432"
 latitude: 51.341307797
 longitude: 12.379496665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Ritterstraße_14.jpg/400px-Leipzig_Ritterstraße_14.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Ritterstraße_14.jpg/800px-Leipzig_Ritterstraße_14.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Ritterstraße_14.jpg/1200px-Leipzig_Ritterstraße_14.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Ritterstraße_14.jpg/1920px-Leipzig_Ritterstraße_14.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Ritterstraße_14.jpg/1920px-Leipzig_Ritterstraße_14.jpg---
 
 ## Overview
 

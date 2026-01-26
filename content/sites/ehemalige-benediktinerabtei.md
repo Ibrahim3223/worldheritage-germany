@@ -4,19 +4,18 @@ site_name: "Ehemalige Benediktinerabtei"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76634194"
 latitude: 50.042494
 longitude: 8.977378
 images:
-  []
----
+  []---
 
 ## Overview
 

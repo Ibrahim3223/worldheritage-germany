@@ -4,13 +4,13 @@ site_name: "Deutsches Schutzengelmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bretten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bretten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205967"
 latitude: 49.0374
 longitude: 8.70526
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/400px-Bretten-Stadtmuseum1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/800px-Bretten-Stadtmuseum1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/1200px-Bretten-Stadtmuseum1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/1920px-Bretten-Stadtmuseum1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/1920px-Bretten-Stadtmuseum1-Asio.JPG---
 
 ## Overview
 

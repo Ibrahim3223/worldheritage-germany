@@ -4,13 +4,13 @@ site_name: "Matthäikirche (Leer-Bingum)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q568427"
 latitude: 53.2225
 longitude: 7.41324
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/400px-ChurchBingum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/800px-ChurchBingum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1200px-ChurchBingum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1920px-ChurchBingum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1920px-ChurchBingum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bewaldete Düne bei Noer"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Noer"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Noer"
+  - "Schleswig-Holstein"
 wikidata_id: "Q852108"
 latitude: 54.4731
 longitude: 10.0186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/400px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/800px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/1200px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/1920px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/1920px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg---
 
 ## Overview
 

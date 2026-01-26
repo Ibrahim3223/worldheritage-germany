@@ -4,13 +4,13 @@ site_name: "Marienmünster abbey"
 date: 2026-01-26
 draft: false
 description: "Ehemaliges Kloster in Deutschland"
-region: "Marienmünster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Marienmünster"
+  - "Lower Saxony"
 wikidata_id: "Q334034"
 latitude: 51.8317
 longitude: 9.21248
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/400px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/800px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/1200px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/1920px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/1920px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg---
 
 ## Overview
 

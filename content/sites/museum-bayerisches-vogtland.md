@@ -4,13 +4,13 @@ site_name: "Museum Bayerisches Vogtland"
 date: 2026-01-26
 draft: false
 description: "museum in Hof, Bavaria, Germany"
-region: "Hof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hof"
+  - "Bavaria"
 wikidata_id: "Q1408905"
 latitude: 50.324
 longitude: 11.918472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png/400px-Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png/800px-Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png/1200px-Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png/1920px-Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png/1920px-Museum_Bayerisches_Vogtland_20220628_HOF05589_20221229000694.png---
 
 ## Overview
 

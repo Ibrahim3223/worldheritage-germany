@@ -4,13 +4,13 @@ site_name: "Leipzig Botanical Garden"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q323954"
 latitude: 51.3287
 longitude: 12.3913
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg/400px-Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg/800px-Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg/1200px-Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg/1920px-Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg/1920px-Botanischer_Garten_Leipzig_Gewächshäuser_2015.jpg---
 
 ## Overview
 

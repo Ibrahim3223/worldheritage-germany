@@ -4,19 +4,18 @@ site_name: "Nolte Küchen"
 date: 2026-01-26
 draft: false
 description: "Einbauküchenmöbelhersteller"
-region: "Löhne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Löhne"
+  - "Lower Saxony"
 wikidata_id: "Q1995824"
 latitude: 52.18385
 longitude: 8.69555
 images:
-  []
----
+  []---
 
 ## Overview
 

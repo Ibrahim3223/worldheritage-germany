@@ -4,19 +4,18 @@ site_name: "Rundbogenbrücke über die Döllnitz Liptitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wermsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wermsdorf"
+  - "Saxony"
 wikidata_id: "Q49445753"
 latitude: 51.25722716
 longitude: 12.937624812
 images:
-  []
----
+  []---
 
 ## Overview
 

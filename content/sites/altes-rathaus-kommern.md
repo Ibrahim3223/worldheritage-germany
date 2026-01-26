@@ -4,13 +4,13 @@ site_name: "Altes Rathaus Kommern"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Mechernich"
-region: "Mechernich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Mechernich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q129508989"
 latitude: 50.6128599
 longitude: 6.6483346
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/400px-Altes_Rathaus_Kommern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/800px-Altes_Rathaus_Kommern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/1200px-Altes_Rathaus_Kommern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/1920px-Altes_Rathaus_Kommern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/1920px-Altes_Rathaus_Kommern.jpg---
 
 ## Overview
 

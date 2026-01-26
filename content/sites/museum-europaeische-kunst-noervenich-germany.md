@@ -4,19 +4,18 @@ site_name: "Museum Europäische Kunst (Nörvenich, Germany)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nörvenich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nörvenich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1954429"
 latitude: 50.8081
 longitude: 6.64492
 images:
-  []
----
+  []---
 
 ## Overview
 

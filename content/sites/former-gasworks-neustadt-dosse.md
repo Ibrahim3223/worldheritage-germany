@@ -4,13 +4,13 @@ site_name: "Former gasworks Neustadt (Dosse)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neustadt (Dosse)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neustadt (Dosse)"
+  - "Brandenburg"
 wikidata_id: "Q1495723"
 latitude: 52.8625
 longitude: 12.4203
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/400px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/800px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/1200px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/1920px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/1920px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg---
 
 ## Overview
 

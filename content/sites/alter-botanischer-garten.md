@@ -4,13 +4,13 @@ site_name: "Alter Botanischer Garten"
 date: 2026-01-26
 draft: false
 description: "garden in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q153829"
 latitude: 48.141842066
 longitude: 11.564299402
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/400px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/800px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/1200px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/1920px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/1920px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg---
 
 ## Overview
 

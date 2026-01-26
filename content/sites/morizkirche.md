@@ -4,13 +4,13 @@ site_name: "Morizkirche"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-238 (0) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q879697"
 latitude: 50.2572
 longitude: 10.9661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/400px-Coburg_006morizkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/800px-Coburg_006morizkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1200px-Coburg_006morizkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1920px-Coburg_006morizkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1920px-Coburg_006morizkirche.jpg---
 
 ## Overview
 

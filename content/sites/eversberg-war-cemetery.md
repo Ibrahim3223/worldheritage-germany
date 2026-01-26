@@ -4,13 +4,13 @@ site_name: "Eversberg War Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Meschede, Germany"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1300091"
 latitude: 51.3677
 longitude: 8.29896
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/400px-Kriegsgräberstätte_Eversberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/800px-Kriegsgräberstätte_Eversberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/1200px-Kriegsgräberstätte_Eversberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/1920px-Kriegsgräberstätte_Eversberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/1920px-Kriegsgräberstätte_Eversberg.jpg---
 
 ## Overview
 

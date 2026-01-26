@@ -4,13 +4,13 @@ site_name: "Hansebrücke"
 date: 2026-01-26
 draft: false
 description: "road bridge in Stade, Lower Saxony"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q21035103"
 latitude: 53.5966108
 longitude: 9.4783664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hansebrügg_in_Stood_1.jpg/400px-Hansebrügg_in_Stood_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hansebrügg_in_Stood_1.jpg/800px-Hansebrügg_in_Stood_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hansebrügg_in_Stood_1.jpg/1200px-Hansebrügg_in_Stood_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hansebrügg_in_Stood_1.jpg/1920px-Hansebrügg_in_Stood_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hansebrügg_in_Stood_1.jpg/1920px-Hansebrügg_in_Stood_1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Palatine state library Speyer"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q2084562"
 latitude: 49.3153
 longitude: 8.41558
 images:
-  []
----
+  []---
 
 ## Overview
 

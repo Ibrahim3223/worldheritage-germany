@@ -4,19 +4,18 @@ site_name: "Alte Pathologie Wehnen"
 date: 2026-01-26
 draft: false
 description: "Gedenk- und Dokumentationsstätte für Opfer der „Euthanasie“ im nationalsozialistischen Deutschland"
-region: "Bad Zwischenahn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bad Zwischenahn"
+  - "Lower Saxony"
 wikidata_id: "Q436072"
 latitude: 53.1688
 longitude: 8.14188
 images:
-  []
----
+  []---
 
 ## Overview
 

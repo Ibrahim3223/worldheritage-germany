@@ -4,13 +4,13 @@ site_name: "Wilhelmstraße 11 (Ludwigsburg)"
 date: 2026-01-26
 draft: false
 description: "Building in Ludwigsburg; Germany"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q136764624"
 latitude: 48.8959436
 longitude: 9.19167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/400px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/800px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/1200px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/1920px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/1920px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg---
 
 ## Overview
 

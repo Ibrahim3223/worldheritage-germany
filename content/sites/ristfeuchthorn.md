@@ -4,13 +4,13 @@ site_name: "Ristfeuchthorn"
 date: 2026-01-26
 draft: false
 description: "mountain in Bavaria, Germany"
-region: "Schneizlreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Schneizlreuth"
+  - "Bavaria"
 wikidata_id: "Q120074"
 latitude: 47.6942975
 longitude: 12.7817181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/400px-RistfeuchthornVonWeißbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/800px-RistfeuchthornVonWeißbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/1200px-RistfeuchthornVonWeißbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/1920px-RistfeuchthornVonWeißbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/1920px-RistfeuchthornVonWeißbach.jpg---
 
 ## Overview
 

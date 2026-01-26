@@ -4,19 +4,18 @@ site_name: "Volkskundliches Freilichtmuseum Speckenbüttel"
 date: 2026-01-26
 draft: false
 description: "museum in Bremerhaven, Germany"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q23787002"
 latitude: 53.5851
 longitude: 8.5889
 images:
-  []
----
+  []---
 
 ## Overview
 

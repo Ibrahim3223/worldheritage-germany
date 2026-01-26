@@ -4,13 +4,13 @@ site_name: "Stadttheater Amberg"
 date: 2026-01-26
 draft: false
 description: "building in Amberg, Upper Palatinate, Germany"
-region: "Amberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Amberg"
+  - "Bavaria"
 wikidata_id: "Q662467"
 latitude: 49.445692068
 longitude: 11.854040315
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg/400px-2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg/800px-2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg/1200px-2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg/1920px-2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg/1920px-2010.08.21.172205_Stadttheater_Franziskanergasse_Amberg.jpg---
 
 ## Overview
 

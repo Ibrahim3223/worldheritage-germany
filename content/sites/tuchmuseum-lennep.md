@@ -4,13 +4,13 @@ site_name: "Tuchmuseum Lennep"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2459113"
 latitude: 51.1935
 longitude: 7.26044
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/400px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/800px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/1200px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/1920px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/1920px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg---
 
 ## Overview
 

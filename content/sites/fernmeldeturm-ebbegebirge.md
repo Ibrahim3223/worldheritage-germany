@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Ebbegebirge"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Herscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Herscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1407038"
 latitude: 51.1467
 longitude: 7.77323
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/400px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/800px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/1200px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/1920px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/1920px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg---
 
 ## Overview
 

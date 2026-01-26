@@ -4,13 +4,13 @@ site_name: "Herford railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Herford, Germany"
-region: "Herford"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Herford"
+  - "Lower Saxony"
 wikidata_id: "Q320668"
 latitude: 52.1193
 longitude: 8.66436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/400px-Herford_Bahnhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/800px-Herford_Bahnhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/1200px-Herford_Bahnhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/1920px-Herford_Bahnhof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/1920px-Herford_Bahnhof.JPG---
 
 ## Overview
 

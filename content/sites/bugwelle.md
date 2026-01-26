@@ -4,13 +4,13 @@ site_name: "Bugwelle"
 date: 2026-01-26
 draft: false
 description: "Fountain sculpture in Bremerhaven (2002)"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q1002581"
 latitude: 53.5414
 longitude: 8.58113
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/400px-Bugwelle_BHV.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/800px-Bugwelle_BHV.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/1200px-Bugwelle_BHV.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/1920px-Bugwelle_BHV.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/1920px-Bugwelle_BHV.JPG---
 
 ## Overview
 

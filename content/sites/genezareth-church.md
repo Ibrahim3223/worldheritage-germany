@@ -4,13 +4,13 @@ site_name: "Genezareth Church"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q1502159"
 latitude: 52.4771
 longitude: 13.422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/400px-Genezarethkirche_Cafe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/800px-Genezarethkirche_Cafe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1200px-Genezarethkirche_Cafe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1920px-Genezarethkirche_Cafe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1920px-Genezarethkirche_Cafe.jpg---
 
 ## Overview
 

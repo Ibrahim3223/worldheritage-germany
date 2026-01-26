@@ -4,13 +4,13 @@ site_name: "St. Martin in Sindelfingen"
 date: 2026-01-26
 draft: false
 description: "church building in Baden-Württemberg, Germany"
-region: "Sindelfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sindelfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1905710"
 latitude: 48.711027777
 longitude: 9.001388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martinskirche_Sindelfingen_20-04-2019_13.jpg/400px-Martinskirche_Sindelfingen_20-04-2019_13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martinskirche_Sindelfingen_20-04-2019_13.jpg/800px-Martinskirche_Sindelfingen_20-04-2019_13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martinskirche_Sindelfingen_20-04-2019_13.jpg/1200px-Martinskirche_Sindelfingen_20-04-2019_13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martinskirche_Sindelfingen_20-04-2019_13.jpg/1920px-Martinskirche_Sindelfingen_20-04-2019_13.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martinskirche_Sindelfingen_20-04-2019_13.jpg/1920px-Martinskirche_Sindelfingen_20-04-2019_13.jpg---
 
 ## Overview
 

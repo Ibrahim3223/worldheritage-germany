@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Seelower Höhen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Seelow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Seelow"
+  - "Brandenburg"
 wikidata_id: "Q11823591"
 latitude: 52.535
 longitude: 14.395833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/400px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/800px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/1200px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/1920px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/1920px-Gedenkstätte_Seelower_Höhen_2013_02.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Palais am Festungsgraben"
 date: 2026-01-26
 draft: false
 description: "building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q114742"
 latitude: 52.5189
 longitude: 13.3956
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg/400px-Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg/800px-Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg/1200px-Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg/1920px-Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg/1920px-Berlin,_Mitte,_Am_Festungsgraben,_Palais_am_Festungsgraben_01.jpg---
 
 ## Overview
 

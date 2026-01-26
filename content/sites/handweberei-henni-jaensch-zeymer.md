@@ -4,13 +4,13 @@ site_name: "Handweberei „Henni Jaensch-Zeymer“"
 date: 2026-01-26
 draft: false
 description: "museum in Schwielowsee, Brandenburg state, Germany"
-region: "Schwielowsee"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwielowsee"
+  - "Brandenburg"
 wikidata_id: "Q422975"
 latitude: 52.366389
 longitude: 12.955833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/400px-Am_Wasser_19_Geltow_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/800px-Am_Wasser_19_Geltow_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/1200px-Am_Wasser_19_Geltow_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/1920px-Am_Wasser_19_Geltow_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/1920px-Am_Wasser_19_Geltow_04.jpg---
 
 ## Overview
 

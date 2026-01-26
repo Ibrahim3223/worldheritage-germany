@@ -4,13 +4,13 @@ site_name: "Tönsheider Wald"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Aukrug"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Aukrug"
+  - "Schleswig-Holstein"
 wikidata_id: "Q126654"
 latitude: 54.0567
 longitude: 9.77333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/400px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/800px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/1200px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/1920px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/1920px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG---
 
 ## Overview
 

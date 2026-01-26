@@ -4,13 +4,13 @@ site_name: "Greiffenberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Brandenburg, Germany"
-region: "Angermünde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Angermünde"
+  - "Brandenburg"
 wikidata_id: "Q1012039"
 latitude: 53.0912
 longitude: 13.9646
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/400px-Greiffenburg_ruin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/800px-Greiffenburg_ruin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/1200px-Greiffenburg_ruin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/1920px-Greiffenburg_ruin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/1920px-Greiffenburg_ruin.jpg---
 
 ## Overview
 

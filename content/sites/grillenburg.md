@@ -4,13 +4,13 @@ site_name: "Grillenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sangerhausen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sangerhausen"
+  - "Brandenburg"
 wikidata_id: "Q1012053"
 latitude: 51.5346
 longitude: 11.3141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/400px-Grillenburg_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/800px-Grillenburg_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/1200px-Grillenburg_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/1920px-Grillenburg_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/1920px-Grillenburg_5.jpg---
 
 ## Overview
 

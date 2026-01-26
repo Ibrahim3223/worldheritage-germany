@@ -4,13 +4,13 @@ site_name: "Burg Gronau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rödersheim-Gronau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rödersheim-Gronau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012056"
 latitude: 49.4335
 longitude: 8.2756
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/400px-Gronau_Aufriss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/800px-Gronau_Aufriss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1200px-Gronau_Aufriss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1920px-Gronau_Aufriss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1920px-Gronau_Aufriss.jpg---
 
 ## Overview
 

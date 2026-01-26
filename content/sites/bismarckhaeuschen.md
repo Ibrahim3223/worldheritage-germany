@@ -4,13 +4,13 @@ site_name: "Bismarckhäuschen"
 date: 2026-01-26
 draft: false
 description: "Residence of Otto von Bismarck as student at Göttingen University"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q866437"
 latitude: 51.5299
 longitude: 9.93155
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/400px-Göttingen-Bismarckhäuschen.03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/800px-Göttingen-Bismarckhäuschen.03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/1200px-Göttingen-Bismarckhäuschen.03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/1920px-Göttingen-Bismarckhäuschen.03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/1920px-Göttingen-Bismarckhäuschen.03.jpg---
 
 ## Overview
 

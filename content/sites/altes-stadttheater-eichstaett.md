@@ -4,13 +4,13 @@ site_name: "Altes Stadttheater Eichstätt"
 date: 2026-01-26
 draft: false
 description: "culture centre and cinema in Eichstätt, Germany, in the former municipal theatre"
-region: "Q252772"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Q252772"
+  - "Bavaria"
 wikidata_id: "Q439660"
 latitude: 48.891016
 longitude: 11.184002
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/400px-Residenzplatz_17_Eichstaett-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/800px-Residenzplatz_17_Eichstaett-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/1200px-Residenzplatz_17_Eichstaett-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/1920px-Residenzplatz_17_Eichstaett-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/1920px-Residenzplatz_17_Eichstaett-1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Holarium"
 date: 2026-01-26
 draft: false
 description: "former museum in Esens, Germany"
-region: "Esens"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Esens"
+  - "Lower Saxony"
 wikidata_id: "Q76635975"
 latitude: 53.647097
 longitude: 7.612593
 images:
-  []
----
+  []---
 
 ## Overview
 

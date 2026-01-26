@@ -4,13 +4,13 @@ site_name: "Instrumentarium (Museum)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nothweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nothweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q1341459"
 latitude: 49.0691
 longitude: 7.79885
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/400px-Nothweiler_Hauptstr20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/800px-Nothweiler_Hauptstr20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/1200px-Nothweiler_Hauptstr20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/1920px-Nothweiler_Hauptstr20.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/1920px-Nothweiler_Hauptstr20.jpg---
 
 ## Overview
 

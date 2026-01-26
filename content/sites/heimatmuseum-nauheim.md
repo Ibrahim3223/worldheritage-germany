@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Nauheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nauheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nauheim"
+  - "Hesse"
 wikidata_id: "Q76634095"
 latitude: 49.945562
 longitude: 8.456565
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zillerplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q203112"
 latitude: 51.1095
 longitude: 13.6539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/400px-Radebeul_Zillerplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/800px-Radebeul_Zillerplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/1200px-Radebeul_Zillerplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/1920px-Radebeul_Zillerplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/1920px-Radebeul_Zillerplatz.jpg---
 
 ## Overview
 

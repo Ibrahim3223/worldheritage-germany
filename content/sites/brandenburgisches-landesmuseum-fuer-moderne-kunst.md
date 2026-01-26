@@ -4,13 +4,13 @@ site_name: "Brandenburgisches Landesmuseum für moderne Kunst"
 date: 2026-01-26
 draft: false
 description: "Museum with several locations in Brandenburg, Germany"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q119690219"
 latitude: 51.7596
 longitude: 14.3388
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/400px-DKWCottbus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/800px-DKWCottbus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/1200px-DKWCottbus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/1920px-DKWCottbus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/1920px-DKWCottbus.JPG---
 
 ## Overview
 

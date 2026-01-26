@@ -4,19 +4,18 @@ site_name: "Museen der Stadt Regensburg / Reichstagsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q76629235"
 latitude: 49.02047
 longitude: 12.094988
 images:
-  []
----
+  []---
 
 ## Overview
 

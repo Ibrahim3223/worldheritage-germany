@@ -4,13 +4,13 @@ site_name: "Worpsweder Käseglocke"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Worpswede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Worpswede"
+  - "Bremen"
 wikidata_id: "Q1746437"
 latitude: 53.218575
 longitude: 8.929663055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/400px-Kaeseglocke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/800px-Kaeseglocke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/1200px-Kaeseglocke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/1920px-Kaeseglocke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/1920px-Kaeseglocke.jpg---
 
 ## Overview
 

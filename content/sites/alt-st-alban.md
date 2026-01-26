@@ -4,13 +4,13 @@ site_name: "Alt St. Alban"
 date: 2026-01-26
 draft: false
 description: "church in Cologne-Altstadt-Nord, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q433272"
 latitude: 50.9369
 longitude: 6.95824
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/400px-Alt_St._Alban_(8578-80).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/800px-Alt_St._Alban_(8578-80).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/1200px-Alt_St._Alban_(8578-80).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/1920px-Alt_St._Alban_(8578-80).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/1920px-Alt_St._Alban_(8578-80).jpg---
 
 ## Overview
 

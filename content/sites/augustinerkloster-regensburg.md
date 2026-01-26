@@ -4,13 +4,13 @@ site_name: "Augustinerkloster Regensburg"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Kloster der Augustiner-Eremiten in Regensburg in Bayern"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q768532"
 latitude: 49.0177
 longitude: 12.0953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/400px-Augustinerplatz_1_Regensburg_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/800px-Augustinerplatz_1_Regensburg_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/1200px-Augustinerplatz_1_Regensburg_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/1920px-Augustinerplatz_1_Regensburg_2013.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/1920px-Augustinerplatz_1_Regensburg_2013.JPG---
 
 ## Overview
 

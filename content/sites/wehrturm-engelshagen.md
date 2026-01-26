@@ -4,19 +4,18 @@ site_name: "Wehrturm (Engelshagen)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Hückeswagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Hückeswagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1236331"
 latitude: 51.163
 longitude: 7.31245
 images:
-  []
----
+  []---
 
 ## Overview
 

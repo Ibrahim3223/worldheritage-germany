@@ -4,13 +4,13 @@ site_name: "Altenstein Palace"
 date: 2026-01-26
 draft: false
 description: "schloss (palace) upon a rocky hill on the south-western slope of the Thuringian Forest"
-region: "Bad Liebenstein"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bad Liebenstein"
+  - "Thuringia"
 wikidata_id: "Q458439"
 latitude: 50.835277777
 longitude: 10.351944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/400px-Schloss_Altenstein,_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/800px-Schloss_Altenstein,_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/1200px-Schloss_Altenstein,_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/1920px-Schloss_Altenstein,_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/1920px-Schloss_Altenstein,_2.jpg---
 
 ## Overview
 

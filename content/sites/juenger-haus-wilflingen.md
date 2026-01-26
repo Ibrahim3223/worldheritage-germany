@@ -4,13 +4,13 @@ site_name: "Jünger-Haus Wilflingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Langenenslingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Langenenslingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q16999339"
 latitude: 48.1375
 longitude: 9.35631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/400px-Maison_ernst_jünger_wilflingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/800px-Maison_ernst_jünger_wilflingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1200px-Maison_ernst_jünger_wilflingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1920px-Maison_ernst_jünger_wilflingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1920px-Maison_ernst_jünger_wilflingen.jpg---
 
 ## Overview
 

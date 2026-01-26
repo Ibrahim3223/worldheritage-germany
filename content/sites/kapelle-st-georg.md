@@ -4,13 +4,13 @@ site_name: "Kapelle St. Georg"
 date: 2026-01-26
 draft: false
 description: "church in Germany"
-region: "Sengenthal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Sengenthal"
+  - "Bavaria"
 wikidata_id: "Q1113444"
 latitude: 49.2304
 longitude: 11.4785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Winnberg.jpg/400px-Winnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Winnberg.jpg/800px-Winnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Winnberg.jpg/1200px-Winnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Winnberg.jpg/1920px-Winnberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Winnberg.jpg/1920px-Winnberg.jpg---
 
 ## Overview
 

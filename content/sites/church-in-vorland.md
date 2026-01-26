@@ -4,13 +4,13 @@ site_name: "Church in Vorland"
 date: 2026-01-26
 draft: false
 description: "church building in Splietsdorf, Germany"
-region: "Splietsdorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Splietsdorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742748"
 latitude: 54.1192
 longitude: 12.9148
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/400px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/800px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/1200px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/1920px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/1920px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG---
 
 ## Overview
 

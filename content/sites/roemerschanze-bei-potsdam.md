@@ -4,13 +4,13 @@ site_name: "Römerschanze bei Potsdam"
 date: 2026-01-26
 draft: false
 description: "Burgwall in der Nähe von Sacrow, einem Ortsteil von Potsdam"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1688477"
 latitude: 52.4417302
 longitude: 13.0624219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sacrow1.jpg/400px-Sacrow1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sacrow1.jpg/800px-Sacrow1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sacrow1.jpg/1200px-Sacrow1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sacrow1.jpg/1920px-Sacrow1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sacrow1.jpg/1920px-Sacrow1.jpg---
 
 ## Overview
 

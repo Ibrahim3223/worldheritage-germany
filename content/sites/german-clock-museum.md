@@ -4,13 +4,13 @@ site_name: "German Clock Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Furtwangen im Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Furtwangen im Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q896528"
 latitude: 48.0509
 longitude: 8.20785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/400px-DU-Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/800px-DU-Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/1200px-DU-Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/1920px-DU-Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/1920px-DU-Eingang.jpg---
 
 ## Overview
 

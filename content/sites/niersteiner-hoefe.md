@@ -4,13 +4,13 @@ site_name: "Niersteiner Höfe"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Laurensberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Laurensberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1391353"
 latitude: 50.8106
 longitude: 6.04389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Laurensberger_Straße_29.JPG/400px-Laurensberger_Straße_29.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Laurensberger_Straße_29.JPG/800px-Laurensberger_Straße_29.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Laurensberger_Straße_29.JPG/1200px-Laurensberger_Straße_29.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Laurensberger_Straße_29.JPG/1920px-Laurensberger_Straße_29.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Laurensberger_Straße_29.JPG/1920px-Laurensberger_Straße_29.JPG---
 
 ## Overview 
 

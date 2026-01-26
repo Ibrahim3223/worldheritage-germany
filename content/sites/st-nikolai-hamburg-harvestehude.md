@@ -4,13 +4,13 @@ site_name: "St. Nikolai (Hamburg-Harvestehude)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q1422053"
 latitude: 53.58111111
 longitude: 9.99055556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/400px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/800px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/1200px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/1920px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/1920px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg---
 
 ## Overview
 

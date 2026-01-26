@@ -4,13 +4,13 @@ site_name: "Carl-Maria-von-Weber-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Bernburg, Saxony-Anhalt, Germany"
-region: "Bernburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bernburg"
+  - "Brandenburg"
 wikidata_id: "Q1036565"
 latitude: 51.7944
 longitude: 11.7367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/400px-Theater_Bernburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/800px-Theater_Bernburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/1200px-Theater_Bernburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/1920px-Theater_Bernburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/1920px-Theater_Bernburg.JPG---
 
 ## Overview
 

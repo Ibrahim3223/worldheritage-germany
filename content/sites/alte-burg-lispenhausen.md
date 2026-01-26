@@ -4,19 +4,18 @@ site_name: "Alte Burg Lispenhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lispenhausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lispenhausen"
+  - "Hesse"
 wikidata_id: "Q435472"
 latitude: 50.985
 longitude: 9.763
 images:
-  []
----
+  []---
 
 ## Overview
 

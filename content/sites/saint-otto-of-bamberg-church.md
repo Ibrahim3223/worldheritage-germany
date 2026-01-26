@@ -4,13 +4,13 @@ site_name: "Saint Otto of Bamberg Church"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Ottobrunn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ottobrunn"
+  - "Bavaria"
 wikidata_id: "Q2322218"
 latitude: 48.0673
 longitude: 11.6628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/400px-Ottobrunn_St._Otto_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/800px-Ottobrunn_St._Otto_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/1200px-Ottobrunn_St._Otto_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/1920px-Ottobrunn_St._Otto_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/1920px-Ottobrunn_St._Otto_von_Osten.jpg---
 
 ## Overview
 

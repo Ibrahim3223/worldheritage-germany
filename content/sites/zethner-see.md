@@ -4,13 +4,13 @@ site_name: "Zethner See"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q196858"
 latitude: 53.209219444
 longitude: 12.793063888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schwarz_Zethner_See_2010-04-07_106.jpg/400px-Schwarz_Zethner_See_2010-04-07_106.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schwarz_Zethner_See_2010-04-07_106.jpg/800px-Schwarz_Zethner_See_2010-04-07_106.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schwarz_Zethner_See_2010-04-07_106.jpg/1200px-Schwarz_Zethner_See_2010-04-07_106.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schwarz_Zethner_See_2010-04-07_106.jpg/1920px-Schwarz_Zethner_See_2010-04-07_106.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schwarz_Zethner_See_2010-04-07_106.jpg/1920px-Schwarz_Zethner_See_2010-04-07_106.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kapelle zur schmerzhaften Mutter"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Ostbevern"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q1728483"
 latitude: 52.0406
 longitude: 7.84685
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poggenburg-Kapelle_01.jpg/400px-Poggenburg-Kapelle_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poggenburg-Kapelle_01.jpg/800px-Poggenburg-Kapelle_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poggenburg-Kapelle_01.jpg/1200px-Poggenburg-Kapelle_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poggenburg-Kapelle_01.jpg/1920px-Poggenburg-Kapelle_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Poggenburg-Kapelle_01.jpg/1920px-Poggenburg-Kapelle_01.jpg---
 
 ## Overview
 

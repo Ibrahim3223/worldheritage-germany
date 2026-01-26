@@ -4,13 +4,13 @@ site_name: "Palastartiges Mietsgebäude, später Palais Eichthal"
 date: 2026-01-26
 draft: false
 description: "jetzt Büro- und Geschäftshaus, 1824/25 von Leo von Klenze; erhalten lediglich die Fassade in florentinischen Frührenaissanceformen."
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q41180392"
 latitude: 48.143328365
 longitude: 11.57453275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BriennerStraße12_München.jpg/400px-BriennerStraße12_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BriennerStraße12_München.jpg/800px-BriennerStraße12_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BriennerStraße12_München.jpg/1200px-BriennerStraße12_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BriennerStraße12_München.jpg/1920px-BriennerStraße12_München.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BriennerStraße12_München.jpg/1920px-BriennerStraße12_München.jpg---
 
 ## Overview
 

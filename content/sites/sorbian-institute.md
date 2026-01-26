@@ -4,13 +4,13 @@ site_name: "Sorbian Institute"
 date: 2026-01-26
 draft: false
 description: "archive organization in Bautzen, Germany"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q149887"
 latitude: 51.175469
 longitude: 14.429029
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BZ-Bahnhofstr06.jpg/400px-BZ-Bahnhofstr06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BZ-Bahnhofstr06.jpg/800px-BZ-Bahnhofstr06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BZ-Bahnhofstr06.jpg/1200px-BZ-Bahnhofstr06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BZ-Bahnhofstr06.jpg/1920px-BZ-Bahnhofstr06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BZ-Bahnhofstr06.jpg/1920px-BZ-Bahnhofstr06.jpg---
 
 ## Overview
 

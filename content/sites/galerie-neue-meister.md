@@ -4,13 +4,13 @@ site_name: "Galerie Neue Meister"
 date: 2026-01-26
 draft: false
 description: "art museum in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q472706"
 latitude: 51.051944388
 longitude: 13.744444388
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/400px-AlbertinumDresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/800px-AlbertinumDresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1200px-AlbertinumDresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1920px-AlbertinumDresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1920px-AlbertinumDresden.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Tierpark Herborn"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Herborn"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Herborn"
+  - "Hesse"
 wikidata_id: "Q1591277"
 latitude: 50.7019
 longitude: 8.26686
 images:
-  []
----
+  []---
 
 ## Overview
 

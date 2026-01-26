@@ -4,13 +4,13 @@ site_name: "Petrikirche (Dortmund)"
 date: 2026-01-26
 draft: false
 description: "church building in North Rhine-Westphalia, Germany"
-region: "Dortmund Innenstadt-West"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund Innenstadt-West"
+  - "Lower Saxony"
 wikidata_id: "Q879916"
 latitude: 51.5147
 longitude: 7.46028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/400px-Dortmund,_Petrikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/800px-Dortmund,_Petrikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/1200px-Dortmund,_Petrikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/1920px-Dortmund,_Petrikirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/1920px-Dortmund,_Petrikirche.jpg---
 
 ## Overview
 

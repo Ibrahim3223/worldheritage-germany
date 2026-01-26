@@ -4,13 +4,13 @@ site_name: "Textilmuseum Die Scheune"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nettetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nettetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2407925"
 latitude: 51.3447
 longitude: 6.2609
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/400px-TextilScheune.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/800px-TextilScheune.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/1200px-TextilScheune.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/1920px-TextilScheune.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/1920px-TextilScheune.jpg---
 
 ## Overview
 

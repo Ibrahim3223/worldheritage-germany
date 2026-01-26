@@ -4,13 +4,13 @@ site_name: "The Rennsteig Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Großbreitenbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großbreitenbach"
+  - "Bavaria"
 wikidata_id: "Q25478121"
 latitude: 50.5826708
 longitude: 10.9340363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/400px-Rennsteigmuseum_Neustadt_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/800px-Rennsteigmuseum_Neustadt_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/1200px-Rennsteigmuseum_Neustadt_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/1920px-Rennsteigmuseum_Neustadt_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/1920px-Rennsteigmuseum_Neustadt_10.jpg---
 
 ## Overview
 

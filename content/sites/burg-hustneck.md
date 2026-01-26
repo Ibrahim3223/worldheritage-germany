@@ -4,19 +4,18 @@ site_name: "Burg Hustneck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gammertingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gammertingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012528"
 latitude: 48.25472
 longitude: 9.20813
 images:
-  []
----
+  []---
 
 ## Overview
 

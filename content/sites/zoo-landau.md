@@ -4,13 +4,13 @@ site_name: "Zoo Landau"
 date: 2026-01-26
 draft: false
 description: "zoo in Landau in der Pfalz, Germany"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q220051"
 latitude: 49.2028
 longitude: 8.11083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/400px-Weißstorch_Zoo_Landau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/800px-Weißstorch_Zoo_Landau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/1200px-Weißstorch_Zoo_Landau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/1920px-Weißstorch_Zoo_Landau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/1920px-Weißstorch_Zoo_Landau.JPG---
 
 ## Overview
 

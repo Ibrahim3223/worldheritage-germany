@@ -4,13 +4,13 @@ site_name: "Goethe-Institut Dresden"
 date: 2026-01-26
 draft: false
 description: "German cultural institution"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q58201281"
 latitude: 51.0740461
 longitude: 13.7514385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/400px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/800px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/1200px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/1920px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/1920px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dorfkirche Falkenberg"
 date: 2026-01-26
 draft: false
 description: "church in Berlin, Germany"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q1244270"
 latitude: 52.5706
 longitude: 13.5379
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/400px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/800px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/1200px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/1920px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/1920px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG---
 
 ## Overview
 

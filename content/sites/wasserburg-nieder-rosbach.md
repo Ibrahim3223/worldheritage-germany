@@ -4,13 +4,13 @@ site_name: "Wasserburg Nieder-Rosbach"
 date: 2026-01-26
 draft: false
 description: "Burg in Hessen, Deutschland"
-region: "Rosbach vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rosbach vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q1013313"
 latitude: 50.3010594
 longitude: 8.7090532
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/400px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/800px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/1200px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/1920px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/1920px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG---
 
 ## Overview
 

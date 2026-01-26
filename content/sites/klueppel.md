@@ -4,13 +4,13 @@ site_name: "Klüppel"
 date: 2026-01-26
 draft: false
 description: "demolished building in Aachen"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1526226"
 latitude: 50.7769
 longitude: 6.08894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/400px-Großer_und_Kleiner_Klüppel_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/800px-Großer_und_Kleiner_Klüppel_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/1200px-Großer_und_Kleiner_Klüppel_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/1920px-Großer_und_Kleiner_Klüppel_Aachen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/1920px-Großer_und_Kleiner_Klüppel_Aachen.jpg---
 
 ## Overview
 

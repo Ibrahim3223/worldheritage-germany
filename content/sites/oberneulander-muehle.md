@@ -4,13 +4,13 @@ site_name: "Oberneulander Mühle"
 date: 2026-01-26
 draft: false
 description: "windmill in Bremen, Germany"
-region: "Oberneuland"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberneuland"
+  - "Bremen"
 wikidata_id: "Q2010536"
 latitude: 53.086369
 longitude: 8.936181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/400px-MuehleOberneuland-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/800px-MuehleOberneuland-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/1200px-MuehleOberneuland-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/1920px-MuehleOberneuland-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/1920px-MuehleOberneuland-1.jpg---
 
 ## Overview
 

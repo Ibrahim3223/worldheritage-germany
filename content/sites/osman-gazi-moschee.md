@@ -4,19 +4,18 @@ site_name: "Osman-Gazi-Moschee"
 date: 2026-01-26
 draft: false
 description: "mosque in Güglingen, Heilbronn district, Baden-Württemberg, Germany"
-region: "Güglingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Güglingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q134621320"
 latitude: 49.06209
 longitude: 8.99678
 images:
-  []
----
+  []---
 
 ## Overview
 

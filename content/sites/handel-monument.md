@@ -4,13 +4,13 @@ site_name: "Handel monument"
 date: 2026-01-26
 draft: false
 description: "monument in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1276732"
 latitude: 51.4826
 longitude: 11.9703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/400px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/800px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1920px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1920px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Neubrandenburger Tor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Friedland"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Friedland"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1262018"
 latitude: 53.6662
 longitude: 13.5453
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/400px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/800px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/1200px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/1920px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/1920px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Florinskirche"
 date: 2026-01-26
 draft: false
 description: "church in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q829315"
 latitude: 50.361925
 longitude: 7.597231
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg/400px-Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg/800px-Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg/1200px-Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Florinskirche_01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Arabisches Café"
 date: 2026-01-26
 draft: false
 description: "former café (and cinema) in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q624311"
 latitude: 51.2192
 longitude: 6.7825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/400px-Arabische_Cafe_(V-1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/800px-Arabische_Cafe_(V-1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/1200px-Arabische_Cafe_(V-1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/1920px-Arabische_Cafe_(V-1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/1920px-Arabische_Cafe_(V-1).jpg---
 
 ## Overview
 

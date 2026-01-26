@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6029-0071 in Eltmann"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Eltmann, Haßberge, Lower Franconia, Bavaria, Germany"
-region: "Eltmann"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Eltmann"
+  - "Bavaria"
 wikidata_id: "Q98168467"
 latitude: 49.971667144
 longitude: 10.666303035
 images:
-  []
----
+  []---
 
 ## Overview
 

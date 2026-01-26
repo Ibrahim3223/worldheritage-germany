@@ -4,13 +4,13 @@ site_name: "Augustinerkloster Dresden"
 date: 2026-01-26
 draft: false
 description: "former monastery in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q768499"
 latitude: 51.0571
 longitude: 13.743
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/400px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/800px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/1200px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/1920px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/1920px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg---
 
 ## Overview
 

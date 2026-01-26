@@ -4,19 +4,18 @@ site_name: "Brandenburgisches Landeshauptarchiv"
 date: 2026-01-26
 draft: false
 description: "archive in Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q897953"
 latitude: 52.41384
 longitude: 12.97074
 images:
-  []
----
+  []---
 
 ## Overview
 

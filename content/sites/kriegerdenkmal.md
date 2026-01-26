@@ -4,13 +4,13 @@ site_name: "Kriegerdenkmal"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Deutschland"
-region: "Bad Homburg vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Homburg vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q1788605"
 latitude: 50.2273
 longitude: 8.6152
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/400px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/800px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/1200px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/1920px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/1920px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Langenschemmern Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schemmerhofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schemmerhofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012844"
 latitude: 48.1704
 longitude: 9.80403
 images:
-  []
----
+  []---
 
 ## Overview
 

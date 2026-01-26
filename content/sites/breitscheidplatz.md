@@ -4,13 +4,13 @@ site_name: "Breitscheidplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q698370"
 latitude: 52.504833333
 longitude: 13.336166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/400px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/800px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1200px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1920px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1920px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lustgarten"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q702512"
 latitude: 52.518611111
 longitude: 13.399722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Altes_Museum_&_Lustgarten.jpg/400px-Altes_Museum_&_Lustgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Altes_Museum_&_Lustgarten.jpg/800px-Altes_Museum_&_Lustgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Altes_Museum_&_Lustgarten.jpg/1200px-Altes_Museum_&_Lustgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Altes_Museum_&_Lustgarten.jpg/1920px-Altes_Museum_&_Lustgarten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Altes_Museum_&_Lustgarten.jpg/1920px-Altes_Museum_&_Lustgarten.jpg---
 
 ## Overview
 

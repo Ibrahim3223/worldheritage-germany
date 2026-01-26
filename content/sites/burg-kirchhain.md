@@ -4,13 +4,13 @@ site_name: "Burg Kirchhain"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kirchhain"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kirchhain"
+  - "Hesse"
 wikidata_id: "Q1012662"
 latitude: 50.8205
 longitude: 8.9192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirchhain_-_Hinterm_Kirchhof_39.JPG/400px-Kirchhain_-_Hinterm_Kirchhof_39.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirchhain_-_Hinterm_Kirchhof_39.JPG/800px-Kirchhain_-_Hinterm_Kirchhof_39.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirchhain_-_Hinterm_Kirchhof_39.JPG/1200px-Kirchhain_-_Hinterm_Kirchhof_39.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirchhain_-_Hinterm_Kirchhof_39.JPG/1920px-Kirchhain_-_Hinterm_Kirchhof_39.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirchhain_-_Hinterm_Kirchhof_39.JPG/1920px-Kirchhain_-_Hinterm_Kirchhof_39.JPG---
 
 ## Overview
 

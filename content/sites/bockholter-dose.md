@@ -4,13 +4,13 @@ site_name: "Bockholter Dose"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Vrees"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Vrees"
+  - "Lower Saxony"
 wikidata_id: "Q889200"
 latitude: 52.863333333
 longitude: 7.746388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/400px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/800px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/1200px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/1920px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/1920px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg---
 
 ## Overview
 

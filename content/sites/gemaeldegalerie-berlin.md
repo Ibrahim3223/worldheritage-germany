@@ -4,13 +4,13 @@ site_name: "Gemäldegalerie Berlin"
 date: 2026-01-26
 draft: false
 description: "art museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q165631"
 latitude: 52.508611111
 longitude: 13.364722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/400px-Kulturforum.Berlin.Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/800px-Kulturforum.Berlin.Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/1200px-Kulturforum.Berlin.Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/1920px-Kulturforum.Berlin.Portal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/1920px-Kulturforum.Berlin.Portal.jpg---
 
 ## Overview
 

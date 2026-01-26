@@ -4,19 +4,18 @@ site_name: "Museum Strom und Leben"
 date: 2026-01-26
 draft: false
 description: "archive organization in Recklinghausen, Germany"
-region: "Recklinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Recklinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q59536410"
 latitude: 51.561551
 longitude: 7.208259
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kapelle am Deich"
 date: 2026-01-26
 draft: false
 description: "church building in Lemwerder, Germany"
-region: "Lemwerder"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lemwerder"
+  - "Bremen"
 wikidata_id: "Q1728457"
 latitude: 53.1678
 longitude: 8.60661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/400px-Kapelle_am_Deich_Lemwerder.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/800px-Kapelle_am_Deich_Lemwerder.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/1200px-Kapelle_am_Deich_Lemwerder.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/1920px-Kapelle_am_Deich_Lemwerder.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/1920px-Kapelle_am_Deich_Lemwerder.jpg---
 
 ## Overview
 

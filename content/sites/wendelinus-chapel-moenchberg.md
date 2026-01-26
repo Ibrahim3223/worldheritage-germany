@@ -4,13 +4,13 @@ site_name: "Wendelinus Chapel (Mönchberg)"
 date: 2026-01-26
 draft: false
 description: "church building in Mönchberg, Miltenberg district, Lower Franconia, Bavaria, cultural heritage monument D-6-76-141-32 (0)"
-region: "Mönchberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Mönchberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1580576"
 latitude: 49.7868
 longitude: 9.25166
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/400px-Mönchberg_Wendelinuskapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/800px-Mönchberg_Wendelinuskapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/1200px-Mönchberg_Wendelinuskapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/1920px-Mönchberg_Wendelinuskapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/1920px-Mönchberg_Wendelinuskapelle.JPG---
 
 ## Overview
 

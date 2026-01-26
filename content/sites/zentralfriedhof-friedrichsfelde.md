@@ -4,13 +4,13 @@ site_name: "Zentralfriedhof Friedrichsfelde"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin, Germany"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q190494"
 latitude: 52.515555555
 longitude: 13.510555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/400px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/800px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/1200px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/1920px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/1920px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg---
 
 ## Overview
 

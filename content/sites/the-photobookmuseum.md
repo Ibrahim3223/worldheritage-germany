@@ -4,19 +4,18 @@ site_name: "The PhotoBookMuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Cologne, Germany"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q18600505"
 latitude: 50.967222222
 longitude: 7.016111111
 images:
-  []
----
+  []---
 
 ## Overview
 

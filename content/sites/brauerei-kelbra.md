@@ -4,13 +4,13 @@ site_name: "Brauerei Kelbra"
 date: 2026-01-26
 draft: false
 description: "ehemalige Brauerei in der Stadt Kelbra (Kyffhäuser) in Sachsen-Anhalt, einige Gebäude erhalten"
-region: "Kelbra"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Kelbra"
+  - "Lower Saxony"
 wikidata_id: "Q900269"
 latitude: 51.4342
 longitude: 11.0423
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/400px-Kelbra_Brauerei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/800px-Kelbra_Brauerei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/1200px-Kelbra_Brauerei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/1920px-Kelbra_Brauerei.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/1920px-Kelbra_Brauerei.jpg---
 
 ## Overview
 

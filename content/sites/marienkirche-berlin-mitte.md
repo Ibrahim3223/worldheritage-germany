@@ -4,13 +4,13 @@ site_name: "Marienkirche (Berlin-Mitte)"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q679101"
 latitude: 52.520556
 longitude: 13.406667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/400px-Marienkirche_B-Mitte_03-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/800px-Marienkirche_B-Mitte_03-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/1200px-Marienkirche_B-Mitte_03-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/1920px-Marienkirche_B-Mitte_03-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marienkirche_B-Mitte_03-2014.jpg/1920px-Marienkirche_B-Mitte_03-2014.jpg---
 
 ## Overview
 

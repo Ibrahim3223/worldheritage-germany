@@ -4,13 +4,13 @@ site_name: "Wurzburg Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral in Würzburg, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q252166"
 latitude: 49.793378
 longitude: 9.932397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/400px-Dom_Wuerzburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/800px-Dom_Wuerzburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/1200px-Dom_Wuerzburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/1920px-Dom_Wuerzburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/1920px-Dom_Wuerzburg.jpg---
 
 ## Overview
 

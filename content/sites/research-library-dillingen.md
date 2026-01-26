@@ -4,13 +4,13 @@ site_name: "Research library Dillingen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Dillingen an der Donau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Dillingen an der Donau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2358491"
 latitude: 48.57691
 longitude: 10.49113
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Studienb.DLG.JPG/400px-Studienb.DLG.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Studienb.DLG.JPG/800px-Studienb.DLG.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Studienb.DLG.JPG/1200px-Studienb.DLG.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Studienb.DLG.JPG/1920px-Studienb.DLG.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Studienb.DLG.JPG/1920px-Studienb.DLG.JPG---
 
 ## Overview
 

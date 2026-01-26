@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5627-0141 in Heustreu"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Heustreu, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Heustreu"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Heustreu"
+  - "Bavaria"
 wikidata_id: "Q98170301"
 latitude: 50.353877697
 longitude: 10.257435712
 images:
-  []
----
+  []---
 
 ## Overview
 

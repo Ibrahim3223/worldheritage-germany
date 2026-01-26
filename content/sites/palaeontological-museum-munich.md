@@ -4,13 +4,13 @@ site_name: "Palaeontological Museum, Munich"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q473832"
 latitude: 48.1476
 longitude: 11.5638
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mueriwastr1030042017c90.jpg/400px-Mueriwastr1030042017c90.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mueriwastr1030042017c90.jpg/800px-Mueriwastr1030042017c90.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mueriwastr1030042017c90.jpg/1200px-Mueriwastr1030042017c90.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mueriwastr1030042017c90.jpg/1920px-Mueriwastr1030042017c90.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mueriwastr1030042017c90.jpg/1920px-Mueriwastr1030042017c90.jpg---
 
 ## Overview
 

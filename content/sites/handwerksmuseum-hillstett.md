@@ -4,13 +4,13 @@ site_name: "Handwerksmuseum Hillstett"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rötz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rötz"
+  - "Bavaria"
 wikidata_id: "Q41407666"
 latitude: 49.340589056
 longitude: 12.484558286
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/400px-HillstettHandwerksmuseum_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/800px-HillstettHandwerksmuseum_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/1200px-HillstettHandwerksmuseum_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/1920px-HillstettHandwerksmuseum_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/1920px-HillstettHandwerksmuseum_10.jpg---
 
 ## Overview
 

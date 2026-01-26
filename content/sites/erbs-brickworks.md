@@ -4,13 +4,13 @@ site_name: "Erbs Brickworks"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pegau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pegau"
+  - "Saxony"
 wikidata_id: "Q198590"
 latitude: 51.1693
 longitude: 12.271
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ziegelei-Pegau.jpg/400px-Ziegelei-Pegau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ziegelei-Pegau.jpg/800px-Ziegelei-Pegau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ziegelei-Pegau.jpg/1200px-Ziegelei-Pegau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ziegelei-Pegau.jpg/1920px-Ziegelei-Pegau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ziegelei-Pegau.jpg/1920px-Ziegelei-Pegau.jpg---
 
 ## Overview
 

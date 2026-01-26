@@ -4,13 +4,13 @@ site_name: "Garnisonsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q41427790"
 latitude: 49.42716
 longitude: 11.04609
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/400px-Hochbunker_Hohe_Marter.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/800px-Hochbunker_Hohe_Marter.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/1200px-Hochbunker_Hohe_Marter.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/1920px-Hochbunker_Hohe_Marter.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/1920px-Hochbunker_Hohe_Marter.JPG---
 
 ## Overview
 

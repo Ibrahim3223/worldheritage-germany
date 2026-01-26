@@ -4,13 +4,13 @@ site_name: "Schlossmuseum Braunschweig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q20810094"
 latitude: 52.263719444
 longitude: 10.527830555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/400px-ECE_Schloss_06u07_1b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/800px-ECE_Schloss_06u07_1b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1200px-ECE_Schloss_06u07_1b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1920px-ECE_Schloss_06u07_1b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1920px-ECE_Schloss_06u07_1b.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wilhelm-Morgner-Haus"
 date: 2026-01-26
 draft: false
 description: "art museum in Soest, Germany"
-region: "Soest"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Soest"
+  - "Hesse"
 wikidata_id: "Q1552421"
 latitude: 51.5711
 longitude: 8.10811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/400px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/800px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/1200px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/1920px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/1920px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg---
 
 ## Overview
 

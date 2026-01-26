@@ -4,13 +4,13 @@ site_name: "Freiberg Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral"
-region: "Freiberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Freiberg"
+  - "Saxony"
 wikidata_id: "Q592392"
 latitude: 50.920277777
 longitude: 13.343333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/400px-Fg080509_10dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/800px-Fg080509_10dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1200px-Fg080509_10dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1920px-Fg080509_10dom.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1920px-Fg080509_10dom.jpg---
 
 ## Overview
 

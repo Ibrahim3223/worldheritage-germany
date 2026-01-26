@@ -4,13 +4,13 @@ site_name: "Walhalla-Theater"
 date: 2026-01-26
 draft: false
 description: "former theatre in Mitte, Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2542256"
 latitude: 52.5313
 longitude: 13.4023
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Walhalla-Theater_1903.jpg/400px-Walhalla-Theater_1903.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Walhalla-Theater_1903.jpg/800px-Walhalla-Theater_1903.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Walhalla-Theater_1903.jpg/1200px-Walhalla-Theater_1903.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Walhalla-Theater_1903.jpg/1920px-Walhalla-Theater_1903.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Walhalla-Theater_1903.jpg/1920px-Walhalla-Theater_1903.jpg---
 
 ## Overview
 

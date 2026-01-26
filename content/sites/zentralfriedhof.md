@@ -4,13 +4,13 @@ site_name: "Zentralfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q190479"
 latitude: 51.7876
 longitude: 11.1665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/400px-Zentralfriedhof_Quedlinburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/800px-Zentralfriedhof_Quedlinburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/1200px-Zentralfriedhof_Quedlinburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/1920px-Zentralfriedhof_Quedlinburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/1920px-Zentralfriedhof_Quedlinburg.JPG---
 
 ## Overview
 

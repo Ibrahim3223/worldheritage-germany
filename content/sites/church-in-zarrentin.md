@@ -4,13 +4,13 @@ site_name: "Church in Zarrentin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Zarrentin am Schaalsee"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zarrentin am Schaalsee"
+  - "Lower Saxony"
 wikidata_id: "Q1631349"
 latitude: 53.5543
 longitude: 10.9177
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/400px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/800px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1200px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1920px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1920px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Cultural heritage D-5-6933-0047 in Greding"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Greding"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Greding"
+  - "Bavaria"
 wikidata_id: "Q98123419"
 latitude: 49.033161182
 longitude: 11.312229807
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg/400px-Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg/800px-Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg/1200px-Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg/1920px-Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg/1920px-Die_Hauptbefestigung_der_Abschnittsbefestigung_Bleimerschloss.jpg---
 
 ## Overview
 

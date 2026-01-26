@@ -4,13 +4,13 @@ site_name: "Windmühle Lechtingen"
 date: 2026-01-26
 draft: false
 description: "Holländerwindmühle in Wallenhorst in Niedersachsen"
-region: "Wallenhorst"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Wallenhorst"
+  - "Lower Saxony"
 wikidata_id: "Q1440123"
 latitude: 52.3417
 longitude: 8.03417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg/400px-01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg/800px-01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg/1200px-01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg/1920px-01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg/1920px-01_Lechtinger_Mühle_-_Mühlenfest_2016_-_Länge_8.033694_Breite_52.341068.jpg---
 
 ## Overview
 

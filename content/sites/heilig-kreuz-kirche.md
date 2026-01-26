@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Oberstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oberstadt"
+  - "Hesse"
 wikidata_id: "Q1594960"
 latitude: 49.989
 longitude: 8.25839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/400px-HeiligKreuz1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/800px-HeiligKreuz1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/1200px-HeiligKreuz1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/1920px-HeiligKreuz1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/1920px-HeiligKreuz1.JPG---
 
 ## Overview
 

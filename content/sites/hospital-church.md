@@ -4,13 +4,13 @@ site_name: "Hospital church"
 date: 2026-01-26
 draft: false
 description: "church of Hof (Saale)"
-region: "Hof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hof"
+  - "Bavaria"
 wikidata_id: "Q1630470"
 latitude: 50.32443
 longitude: 11.91912
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/400px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/800px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/1200px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/1920px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/1920px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png---
 
 ## Overview
 

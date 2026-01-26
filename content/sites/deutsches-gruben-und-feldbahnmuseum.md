@@ -4,13 +4,13 @@ site_name: "Deutsches Gruben- und Feldbahnmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Witten, Germany"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q1550167"
 latitude: 51.428611111
 longitude: 7.324444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/400px-Witten_Muttental_060509_014_20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/800px-Witten_Muttental_060509_014_20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/1200px-Witten_Muttental_060509_014_20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/1920px-Witten_Muttental_060509_014_20.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/1920px-Witten_Muttental_060509_014_20.jpg---
 
 ## Overview 
 

@@ -4,13 +4,13 @@ site_name: "Lindenkapelle (Bad Lippspringe)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Bad Lippspringe"
-region: "Bad Lippspringe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Lippspringe"
+  - "Lower Saxony"
 wikidata_id: "Q1826105"
 latitude: 51.7771
 longitude: 8.82812
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/400px-Bad_Lippspringe_Lindenkapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/800px-Bad_Lippspringe_Lindenkapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/1200px-Bad_Lippspringe_Lindenkapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/1920px-Bad_Lippspringe_Lindenkapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/1920px-Bad_Lippspringe_Lindenkapelle.jpg---
 
 ## Overview
 

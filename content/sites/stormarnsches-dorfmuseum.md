@@ -4,19 +4,18 @@ site_name: "Stormarnsches Dorfmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hoisdorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hoisdorf"
+  - "Hamburg"
 wikidata_id: "Q1514834"
 latitude: 53.6556
 longitude: 10.333
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kirche aus Niederhörlen (Hessenpark)"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Neu-Anspach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Neu-Anspach"
+  - "Hesse"
 wikidata_id: "Q1391581"
 latitude: 50.2765
 longitude: 8.52767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/400px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/800px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/1200px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/1920px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/1920px-Hessenpark,_Kirche_aus_Niederhörlen.JPG---
 
 ## Overview
 

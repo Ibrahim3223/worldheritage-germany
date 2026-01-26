@@ -4,13 +4,13 @@ site_name: "Mausoleum des Hauses Pfalz-Neuburg"
 date: 2026-01-26
 draft: false
 description: "zwölfeckiger Zentralbau am Chor der Hofkirche St. Andreas in Düsseldorf"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q123035366"
 latitude: 51.227689
 longitude: 6.775137
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/400px-GraphyArchy_-_Wikipedia_00582.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/800px-GraphyArchy_-_Wikipedia_00582.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/1200px-GraphyArchy_-_Wikipedia_00582.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/1920px-GraphyArchy_-_Wikipedia_00582.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/1920px-GraphyArchy_-_Wikipedia_00582.jpg---
 
 ## Overview
 

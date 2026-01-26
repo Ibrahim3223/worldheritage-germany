@@ -4,13 +4,13 @@ site_name: "Apollo Citharoedus"
 date: 2026-01-26
 draft: false
 description: "Statue in the Antikensammlung Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q619115"
 latitude: 52.5208
 longitude: 13.3964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg/400px-Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg/800px-Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg/1200px-Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg/1920px-Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg/1920px-Apollo_Kitharoidos_Antikensammlung_Berlin_1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Deutsche Hundekuchen-Fabrik"
 date: 2026-01-26
 draft: false
 description: "former factory in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q22674534"
 latitude: 52.371861111
 longitude: 9.720833333
 images:
-  []
----
+  []---
 
 ## Overview
 

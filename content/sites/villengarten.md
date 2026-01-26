@@ -4,19 +4,18 @@ site_name: "Villengarten"
 date: 2026-01-26
 draft: false
 description: "Villengarten in Bavaria, Germany"
-region: "Roth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Roth"
+  - "Bavaria"
 wikidata_id: "Q98142051"
 latitude: 49.219570504
 longitude: 11.068529011
 images:
-  []
----
+  []---
 
 ## Overview
 

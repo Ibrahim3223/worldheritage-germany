@@ -4,13 +4,13 @@ site_name: "Otto Pankok Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Hünxe, Germany"
-region: "Hünxe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hünxe"
+  - "Lower Saxony"
 wikidata_id: "Q1531619"
 latitude: 51.71
 longitude: 6.69972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg/400px-Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg/800px-Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg/1200px-Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg/1920px-Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg/1920px-Otto-Pankok-Museum_im_ehemaligen_Wirtschaftsgebäude_am_Haus_Esselt_02.jpg---
 
 ## Overview
 

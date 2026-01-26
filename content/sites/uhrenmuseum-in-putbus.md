@@ -4,13 +4,13 @@ site_name: "Uhrenmuseum in Putbus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Putbus"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Putbus"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q22694370"
 latitude: 54.35219
 longitude: 13.46701
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/400px-Putbus_Uhrenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/800px-Putbus_Uhrenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/1200px-Putbus_Uhrenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/1920px-Putbus_Uhrenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/1920px-Putbus_Uhrenmuseum.jpg---
 
 ## Overview
 

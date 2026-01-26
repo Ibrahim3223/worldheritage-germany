@@ -4,13 +4,13 @@ site_name: "Werkbundarchiv – museum of things"
 date: 2026-01-26
 draft: false
 description: "museum in Germany, Berlin-Mitte"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q2560329"
 latitude: 52.5116
 longitude: 13.39997
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg/400px-Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg/800px-Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg/1200px-Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg/1920px-Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg/1920px-Werkbundarchiv_Museum_der_Dinge_Leipziger_Straße_54_Berlin_10.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Buckauer Tor"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Straßentor der Festung Magdeburg"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q999400"
 latitude: 52.1172
 longitude: 11.627
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/400px-Buckauer_Tor_Foto_1899.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/800px-Buckauer_Tor_Foto_1899.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/1200px-Buckauer_Tor_Foto_1899.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/1920px-Buckauer_Tor_Foto_1899.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/1920px-Buckauer_Tor_Foto_1899.jpg---
 
 ## Overview
 

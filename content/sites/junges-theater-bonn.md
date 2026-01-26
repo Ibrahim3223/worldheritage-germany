@@ -4,13 +4,13 @@ site_name: "Junges Theater Bonn"
 date: 2026-01-26
 draft: false
 description: "theatre in North Rhine-Westphalia, Germany"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q870592"
 latitude: 50.7365
 longitude: 7.11686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/400px-2018-03-18-bonn-beuel-junges-theater-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/800px-2018-03-18-bonn-beuel-junges-theater-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/1200px-2018-03-18-bonn-beuel-junges-theater-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/1920px-2018-03-18-bonn-beuel-junges-theater-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/1920px-2018-03-18-bonn-beuel-junges-theater-01.jpg---
 
 ## Overview
 

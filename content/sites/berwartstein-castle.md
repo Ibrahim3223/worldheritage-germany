@@ -4,13 +4,13 @@ site_name: "Berwartstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Rhineland-Palatinate, Germany"
-region: "Erlenbach bei Dahn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erlenbach bei Dahn"
+  - "Baden-Württemberg"
 wikidata_id: "Q22573"
 latitude: 49.1083
 longitude: 7.86278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/400px-Berwartstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/800px-Berwartstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1200px-Berwartstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1920px-Berwartstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1920px-Berwartstein.JPG---
 
 ## Overview
 

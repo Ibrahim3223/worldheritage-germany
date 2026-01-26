@@ -4,13 +4,13 @@ site_name: "Zeche Carl Funke"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169710"
 latitude: 51.4039
 longitude: 7.04972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/400px-Zeche_Hundsnocken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/800px-Zeche_Hundsnocken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/1200px-Zeche_Hundsnocken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/1920px-Zeche_Hundsnocken.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/1920px-Zeche_Hundsnocken.JPG---
 
 ## Overview
 

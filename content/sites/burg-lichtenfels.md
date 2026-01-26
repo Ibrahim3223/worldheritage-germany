@@ -4,13 +4,13 @@ site_name: "Burg Lichtenfels"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Dalwigksthal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dalwigksthal"
+  - "Hesse"
 wikidata_id: "Q1012933"
 latitude: 51.1481
 longitude: 8.80167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg---
 
 ## Overview
 

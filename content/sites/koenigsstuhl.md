@@ -4,13 +4,13 @@ site_name: "Königsstuhl"
 date: 2026-01-26
 draft: false
 description: "monument in Rhens, Germany"
-region: "Rhens"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Rhens"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q882068"
 latitude: 50.2823
 longitude: 7.61372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/400px-Königsstuhl_von_Rhens_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/800px-Königsstuhl_von_Rhens_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/1200px-Königsstuhl_von_Rhens_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/1920px-Königsstuhl_von_Rhens_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/1920px-Königsstuhl_von_Rhens_2009.jpg---
 
 ## Overview
 

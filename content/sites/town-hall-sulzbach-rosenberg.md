@@ -4,13 +4,13 @@ site_name: "Town hall Sulzbach-Rosenberg"
 date: 2026-01-26
 draft: false
 description: "town hall in Sulzbach-Rosenberg, Upper Palatinate, Germany"
-region: "Sulzbach-Rosenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Sulzbach-Rosenberg"
+  - "Bavaria"
 wikidata_id: "Q41404977"
 latitude: 49.50515
 longitude: 11.73972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/400px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/800px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/1200px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/1920px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/1920px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg---
 
 ## Overview
 

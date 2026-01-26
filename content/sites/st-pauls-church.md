@@ -4,13 +4,13 @@ site_name: "St. Paul's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Kreuznach, Rhineland-Palatinate, Germany"
-region: "Bad Kreuznach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Kreuznach"
+  - "Hesse"
 wikidata_id: "Q2064295"
 latitude: 49.8444
 longitude: 7.85683
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/400px-Pauluskirche_kreuznach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/800px-Pauluskirche_kreuznach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/1200px-Pauluskirche_kreuznach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/1920px-Pauluskirche_kreuznach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/1920px-Pauluskirche_kreuznach.JPG---
 
 ## Overview
 

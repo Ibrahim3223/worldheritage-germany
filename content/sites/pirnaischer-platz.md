@@ -4,13 +4,13 @@ site_name: "Pirnaischer Platz"
 date: 2026-01-26
 draft: false
 description: "public square in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q873693"
 latitude: 51.0492
 longitude: 13.7452
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/400px-Dresden-PirnaischerPlatzVon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/800px-Dresden-PirnaischerPlatzVon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/1200px-Dresden-PirnaischerPlatzVon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/1920px-Dresden-PirnaischerPlatzVon.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/1920px-Dresden-PirnaischerPlatzVon.jpg---
 
 ## Overview
 

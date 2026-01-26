@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Leun"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634005"
 latitude: 50.551586
 longitude: 8.355147
 images:
-  []
----
+  []---
 
 ## Overview
 

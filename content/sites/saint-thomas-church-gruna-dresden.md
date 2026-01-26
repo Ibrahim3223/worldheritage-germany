@@ -4,13 +4,13 @@ site_name: "Saint Thomas Church (Gruna, Dresden)"
 date: 2026-01-26
 draft: false
 description: "church building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1753064"
 latitude: 51.03424
 longitude: 13.7819
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/400px-Thomaskirche_Dresden-Gruna.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/800px-Thomaskirche_Dresden-Gruna.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/1200px-Thomaskirche_Dresden-Gruna.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/1920px-Thomaskirche_Dresden-Gruna.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/1920px-Thomaskirche_Dresden-Gruna.JPG---
 
 ## Overview
 

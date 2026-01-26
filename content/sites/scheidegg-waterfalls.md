@@ -4,13 +4,13 @@ site_name: "Scheidegg Waterfalls"
 date: 2026-01-26
 draft: false
 description: "waterfalls of the stream Rickenbach in the municipality of Scheidegg, Bavaria, Germany"
-region: "Scheidegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Scheidegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1484174"
 latitude: 47.5918
 longitude: 9.8395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/400px-3._Scheidegger_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/800px-3._Scheidegger_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/1200px-3._Scheidegger_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/1920px-3._Scheidegger_Wasserfall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/1920px-3._Scheidegger_Wasserfall.jpg---
 
 ## Overview
 

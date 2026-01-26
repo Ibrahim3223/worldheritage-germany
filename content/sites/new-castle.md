@@ -4,13 +4,13 @@ site_name: "New Castle"
 date: 2026-01-26
 draft: false
 description: "was built in 1490 as the citadel of Ingolstadt Fortress"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q82878"
 latitude: 48.764722222
 longitude: 11.430555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/400px-Neues_Schloss_Ingolstadt_Front.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/800px-Neues_Schloss_Ingolstadt_Front.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/1200px-Neues_Schloss_Ingolstadt_Front.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/1920px-Neues_Schloss_Ingolstadt_Front.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/1920px-Neues_Schloss_Ingolstadt_Front.JPG---
 
 ## Overview
 

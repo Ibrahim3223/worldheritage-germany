@@ -4,13 +4,13 @@ site_name: "Museum für Natur und Umwelt Lübeck"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1360933"
 latitude: 53.860277777
 longitude: 10.685555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/400px-MuseumfNuUHL.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/800px-MuseumfNuUHL.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/1200px-MuseumfNuUHL.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/1920px-MuseumfNuUHL.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/1920px-MuseumfNuUHL.JPG---
 
 ## Overview
 

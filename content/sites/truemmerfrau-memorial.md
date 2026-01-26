@@ -4,13 +4,13 @@ site_name: "Trümmerfrau memorial"
 date: 2026-01-26
 draft: false
 description: "sculpture in memory of the \"Trümmerfrauen\" in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q2457242"
 latitude: 52.4874
 longitude: 13.4139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/400px-Truemmerfrau_Hasenheide3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/800px-Truemmerfrau_Hasenheide3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/1200px-Truemmerfrau_Hasenheide3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/1920px-Truemmerfrau_Hasenheide3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/1920px-Truemmerfrau_Hasenheide3.JPG---
 
 ## Overview
 

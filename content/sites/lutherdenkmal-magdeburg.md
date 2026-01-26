@@ -4,19 +4,18 @@ site_name: "Lutherdenkmal Magdeburg"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Magdeburg (Sachsen-Anhalt)"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1877879"
 latitude: 52.1311
 longitude: 11.6408
 images:
-  []
----
+  []---
 
 ## Overview
 

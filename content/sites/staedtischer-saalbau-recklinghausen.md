@@ -4,13 +4,13 @@ site_name: "Städtischer Saalbau Recklinghausen"
 date: 2026-01-26
 draft: false
 description: "former concert hall in Recklinghausen, Germany"
-region: "Recklinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Recklinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q2360015"
 latitude: 51.6185
 longitude: 7.19245
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/400px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/800px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/1200px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/1920px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/1920px-Staedtischer_Saalbau_Recklinghausen_2006.jpg---
 
 ## Overview
 

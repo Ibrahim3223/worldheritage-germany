@@ -4,13 +4,13 @@ site_name: "Konrad-Wachsmann-Haus"
 date: 2026-01-26
 draft: false
 description: "Firma Christoph und Unmack für Holz-Fertigteilhäuser, bedeutendes Zeugnis für die Aufnahme moderner Architekturvorstellungen, architekturgeschichtlich"
-region: "Niesky"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Niesky"
+  - "Saxony"
 wikidata_id: "Q49420051"
 latitude: 51.2939
 longitude: 14.81275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Konrad-Wachsmann-Haus_2016.jpg/400px-Konrad-Wachsmann-Haus_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Konrad-Wachsmann-Haus_2016.jpg/800px-Konrad-Wachsmann-Haus_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Konrad-Wachsmann-Haus_2016.jpg/1200px-Konrad-Wachsmann-Haus_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Konrad-Wachsmann-Haus_2016.jpg/1920px-Konrad-Wachsmann-Haus_2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Konrad-Wachsmann-Haus_2016.jpg/1920px-Konrad-Wachsmann-Haus_2016.jpg---
 
 ## Overview
 

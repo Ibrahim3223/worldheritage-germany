@@ -4,13 +4,13 @@ site_name: "St. Martin, Lorch"
 date: 2026-01-26
 draft: false
 description: "church building in Lorch, Germany"
-region: "Lorch"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lorch"
+  - "Hesse"
 wikidata_id: "Q1300852"
 latitude: 50.04396283
 longitude: 7.804224671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20111004_LorchStMartin1.JPG/400px-20111004_LorchStMartin1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20111004_LorchStMartin1.JPG/800px-20111004_LorchStMartin1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20111004_LorchStMartin1.JPG/1200px-20111004_LorchStMartin1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20111004_LorchStMartin1.JPG/1920px-20111004_LorchStMartin1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20111004_LorchStMartin1.JPG/1920px-20111004_LorchStMartin1.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Turmuhrenmuseum Bockenem"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bockenem"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bockenem"
+  - "Lower Saxony"
 wikidata_id: "Q1626567"
 latitude: 52.0086
 longitude: 10.1293
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/400px-Haus_des_Turmuhrenmuseums.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/800px-Haus_des_Turmuhrenmuseums.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/1200px-Haus_des_Turmuhrenmuseums.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/1920px-Haus_des_Turmuhrenmuseums.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/1920px-Haus_des_Turmuhrenmuseums.jpg---
 
 ## Overview
 

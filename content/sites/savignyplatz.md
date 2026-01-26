@@ -4,13 +4,13 @@ site_name: "Savignyplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q177912"
 latitude: 52.5058
 longitude: 13.3224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/400px-Savigny-Platz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/800px-Savigny-Platz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/1200px-Savigny-Platz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/1920px-Savigny-Platz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/1920px-Savigny-Platz.jpg---
 
 ## Overview
 

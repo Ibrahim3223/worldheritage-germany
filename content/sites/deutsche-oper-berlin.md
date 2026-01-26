@@ -4,13 +4,13 @@ site_name: "Deutsche Oper Berlin"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q113532112"
 latitude: 52.512777777
 longitude: 13.308333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/400px-Berlin_DeutscheOper_asv2021-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/800px-Berlin_DeutscheOper_asv2021-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/1200px-Berlin_DeutscheOper_asv2021-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/1920px-Berlin_DeutscheOper_asv2021-03_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Berlin_DeutscheOper_asv2021-03_img1.jpg/1920px-Berlin_DeutscheOper_asv2021-03_img1.jpg---
 
 ## Overview
 

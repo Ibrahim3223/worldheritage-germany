@@ -4,13 +4,13 @@ site_name: "Lietzensee"
 date: 2026-01-26
 draft: false
 description: "lake in Berlin-Charlottenburg"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q258569"
 latitude: 52.507777777
 longitude: 13.288333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Funkturm_Berlin_View_03.jpg/400px-Funkturm_Berlin_View_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Funkturm_Berlin_View_03.jpg/800px-Funkturm_Berlin_View_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Funkturm_Berlin_View_03.jpg/1200px-Funkturm_Berlin_View_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Funkturm_Berlin_View_03.jpg/1920px-Funkturm_Berlin_View_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Funkturm_Berlin_View_03.jpg/1920px-Funkturm_Berlin_View_03.jpg---
 
 ## Overview
 

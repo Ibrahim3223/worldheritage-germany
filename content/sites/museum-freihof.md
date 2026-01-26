@@ -4,19 +4,18 @@ site_name: "Museum Freihof"
 date: 2026-01-26
 draft: false
 description: "museum in Haslach im Kinzigtal, Germany"
-region: "Haslach im Kinzigtal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Haslach im Kinzigtal"
+  - "Baden-Württemberg"
 wikidata_id: "Q27479008"
 latitude: 48.274837
 longitude: 8.093621
 images:
-  []
----
+  []---
 
 ## Overview
 

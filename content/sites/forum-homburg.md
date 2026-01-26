@@ -4,13 +4,13 @@ site_name: "Forum Homburg"
 date: 2026-01-26
 draft: false
 description: "building complex in Homburg (Saar)"
-region: "Homburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Homburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q124720358"
 latitude: 49.31849
 longitude: 7.33345
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/400px-Homburg_Saar_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/800px-Homburg_Saar_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/1200px-Homburg_Saar_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/1920px-Homburg_Saar_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/1920px-Homburg_Saar_Rathaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ökologisch-Botanischer Garten der Universität Bayreuth"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q174823"
 latitude: 49.9235
 longitude: 11.5854
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/400px-BotGartenBth072.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/800px-BotGartenBth072.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/1200px-BotGartenBth072.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/1920px-BotGartenBth072.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/1920px-BotGartenBth072.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Denkendorfer Erlachsee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Denkendorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Denkendorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1187919"
 latitude: 48.688741666
 longitude: 9.297930555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/400px-Erlachsee_am_Morgen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/800px-Erlachsee_am_Morgen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/1200px-Erlachsee_am_Morgen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/1920px-Erlachsee_am_Morgen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/1920px-Erlachsee_am_Morgen.jpg---
 
 ## Overview
 

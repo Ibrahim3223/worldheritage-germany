@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5625-0009 in Burkardroth"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Burkardroth, Bad Kissingen, Lower Franconia, Bavaria, Germany"
-region: "Burkardroth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Burkardroth"
+  - "Bavaria"
 wikidata_id: "Q98167668"
 latitude: 50.309935257
 longitude: 9.949059518
 images:
-  []
----
+  []---
 
 ## Overview
 

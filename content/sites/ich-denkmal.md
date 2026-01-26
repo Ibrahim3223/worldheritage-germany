@@ -4,13 +4,13 @@ site_name: "Ich-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1538554"
 latitude: 50.1057
 longitude: 8.71886
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/400px-Ich_denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/800px-Ich_denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/1200px-Ich_denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/1920px-Ich_denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/1920px-Ich_denkmal.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ölbachtal mit Augustdorfer Dünenfeld"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lippe district, North Rhine-Westphalia, Germany"
-region: "Augustdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Augustdorf"
+  - "Lower Saxony"
 wikidata_id: "Q296795"
 latitude: 51.9192
 longitude: 8.68941
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ölbachquelle02.jpg/400px-Ölbachquelle02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ölbachquelle02.jpg/800px-Ölbachquelle02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ölbachquelle02.jpg/1200px-Ölbachquelle02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ölbachquelle02.jpg/1920px-Ölbachquelle02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ölbachquelle02.jpg/1920px-Ölbachquelle02.jpg---
 
 ## Overview
 

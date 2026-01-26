@@ -4,19 +4,18 @@ site_name: "Stiftung Haus Lindenhof"
 date: 2026-01-26
 draft: false
 description: "kirchliches Sozialunternehmen  zur Betreuung von Menschen mit Behinderung in Schwäbisch Gmünd"
-region: "Schwäbisch Gmünd"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Schwäbisch Gmünd"
+  - "Baden-Württemberg"
 wikidata_id: "Q2349002"
 latitude: 48.7788
 longitude: 9.86353
 images:
-  []
----
+  []---
 
 ## Overview
 

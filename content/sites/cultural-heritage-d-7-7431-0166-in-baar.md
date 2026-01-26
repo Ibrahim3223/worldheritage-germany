@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7431-0166 in Baar"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Baar, Aichach-Friedberg, Swabia, Bavaria, Germany"
-region: "Baar"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Baar"
+  - "Bavaria"
 wikidata_id: "Q98284707"
 latitude: 48.593747353
 longitude: 10.975147213
 images:
-  []
----
+  []---
 
 ## Overview
 

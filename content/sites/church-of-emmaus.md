@@ -4,13 +4,13 @@ site_name: "Church of Emmaus"
 date: 2026-01-26
 draft: false
 description: "church in Lausitzer Platz, Berlin-Kreuzberg, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1338502"
 latitude: 52.4998
 longitude: 13.431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/400px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/800px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/1200px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/1920px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/1920px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg---
 
 ## Overview
 

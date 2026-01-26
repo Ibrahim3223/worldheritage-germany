@@ -4,19 +4,18 @@ site_name: "Burg Bräunlingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bräunlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bräunlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q302219"
 latitude: 47.92976
 longitude: 8.445856
 images:
-  []
----
+  []---
 
 ## Overview
 

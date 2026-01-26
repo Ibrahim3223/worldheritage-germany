@@ -4,13 +4,13 @@ site_name: "Tonbergbaumuseum Siershahn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Siershahn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Siershahn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2441502"
 latitude: 50.4855
 longitude: 7.7655
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/SiershahnTonbergbaumuseum1.jpg/400px-SiershahnTonbergbaumuseum1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/SiershahnTonbergbaumuseum1.jpg/800px-SiershahnTonbergbaumuseum1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/SiershahnTonbergbaumuseum1.jpg/1200px-SiershahnTonbergbaumuseum1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/SiershahnTonbergbaumuseum1.jpg/1920px-SiershahnTonbergbaumuseum1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/SiershahnTonbergbaumuseum1.jpg/1920px-SiershahnTonbergbaumuseum1.jpg---
 
 ## Overview
 

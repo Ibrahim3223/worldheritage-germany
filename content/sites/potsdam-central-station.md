@@ -4,13 +4,13 @@ site_name: "Potsdam central station"
 date: 2026-01-26
 draft: false
 description: "central railway station in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q647973"
 latitude: 52.3917
 longitude: 13.0667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg/400px-Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg/800px-Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg/1200px-Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg/1920px-Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg/1920px-Potsdam_Hauptbahnhof_mit_Wasserturm_asv2023-09.jpg---
 
 ## Overview
 

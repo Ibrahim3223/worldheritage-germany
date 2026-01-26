@@ -4,13 +4,13 @@ site_name: "Burg Hohenkarpfen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hausen ob Verena"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hausen ob Verena"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012425"
 latitude: 48.0411
 longitude: 8.7179
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/400px-Hohenkarpfen_20.09.2005_15-30-17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/800px-Hohenkarpfen_20.09.2005_15-30-17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/1200px-Hohenkarpfen_20.09.2005_15-30-17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/1920px-Hohenkarpfen_20.09.2005_15-30-17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/1920px-Hohenkarpfen_20.09.2005_15-30-17.jpg---
 
 ## Overview
 

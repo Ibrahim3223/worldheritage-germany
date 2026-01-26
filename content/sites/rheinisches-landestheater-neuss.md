@@ -4,19 +4,18 @@ site_name: "Rheinisches Landestheater Neuss"
 date: 2026-01-26
 draft: false
 description: "Theater in Deutschland"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q389817"
 latitude: 51.1968
 longitude: 6.69544
 images:
-  []
----
+  []---
 
 ## Overview
 

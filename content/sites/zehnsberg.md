@@ -4,13 +4,13 @@ site_name: "Zehnsberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Thuringia"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Thuringia"
+  - "Hesse"
 wikidata_id: "Q184639"
 latitude: 51.4117
 longitude: 10.2684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zehnsberg_02.jpg/400px-Zehnsberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zehnsberg_02.jpg/800px-Zehnsberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zehnsberg_02.jpg/1200px-Zehnsberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zehnsberg_02.jpg/1920px-Zehnsberg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zehnsberg_02.jpg/1920px-Zehnsberg_02.jpg---
 
 ## Overview
 

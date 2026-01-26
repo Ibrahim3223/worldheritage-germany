@@ -4,13 +4,13 @@ site_name: "Karl-Marx-House museum"
 date: 2026-01-26
 draft: false
 description: "museum in Trier"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q463748"
 latitude: 49.753889
 longitude: 6.635556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trier_BW_2014-06-21_11-11-49.jpg/400px-Trier_BW_2014-06-21_11-11-49.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trier_BW_2014-06-21_11-11-49.jpg/800px-Trier_BW_2014-06-21_11-11-49.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trier_BW_2014-06-21_11-11-49.jpg/1200px-Trier_BW_2014-06-21_11-11-49.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trier_BW_2014-06-21_11-11-49.jpg/1920px-Trier_BW_2014-06-21_11-11-49.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trier_BW_2014-06-21_11-11-49.jpg/1920px-Trier_BW_2014-06-21_11-11-49.jpg---
 
 ## Overview
 

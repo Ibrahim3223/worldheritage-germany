@@ -4,19 +4,18 @@ site_name: "Fatih-Camii-Moschee"
 date: 2026-01-26
 draft: false
 description: "building in Weißenburg in Bayern, Middle Franconia, Germany"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q40640906"
 latitude: 49.02364
 longitude: 10.96294
 images:
-  []
----
+  []---
 
 ## Overview
 

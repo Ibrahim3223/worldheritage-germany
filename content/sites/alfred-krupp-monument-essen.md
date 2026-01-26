@@ -4,13 +4,13 @@ site_name: "Alfred Krupp monument, Essen"
 date: 2026-01-26
 draft: false
 description: "monument in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q14545252"
 latitude: 51.4571
 longitude: 7.01255
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/400px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/800px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/1200px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/1920px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/1920px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg---
 
 ## Overview
 

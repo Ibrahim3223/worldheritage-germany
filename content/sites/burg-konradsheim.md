@@ -4,13 +4,13 @@ site_name: "Burg Konradsheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Erftstadt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Erftstadt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012702"
 latitude: 50.816
 longitude: 6.76722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Erftstadt_Konradsheim01.JPG/400px-Erftstadt_Konradsheim01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Erftstadt_Konradsheim01.JPG/800px-Erftstadt_Konradsheim01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Erftstadt_Konradsheim01.JPG/1200px-Erftstadt_Konradsheim01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Erftstadt_Konradsheim01.JPG/1920px-Erftstadt_Konradsheim01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Erftstadt_Konradsheim01.JPG/1920px-Erftstadt_Konradsheim01.JPG---
 
 ## Overview
 

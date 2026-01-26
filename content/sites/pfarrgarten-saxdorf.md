@@ -4,13 +4,13 @@ site_name: "Pfarrgarten Saxdorf"
 date: 2026-01-26
 draft: false
 description: "Garten in Brandenburg"
-region: "Uebigau-Wahrenbrück"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Uebigau-Wahrenbrück"
+  - "Brandenburg"
 wikidata_id: "Q62577320"
 latitude: 51.502039
 longitude: 13.284553
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pfarrgarten_Saxdorf_(Mai_2014).jpg/400px-Pfarrgarten_Saxdorf_(Mai_2014).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pfarrgarten_Saxdorf_(Mai_2014).jpg/800px-Pfarrgarten_Saxdorf_(Mai_2014).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pfarrgarten_Saxdorf_(Mai_2014).jpg/1200px-Pfarrgarten_Saxdorf_(Mai_2014).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pfarrgarten_Saxdorf_(Mai_2014).jpg/1920px-Pfarrgarten_Saxdorf_(Mai_2014).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pfarrgarten_Saxdorf_(Mai_2014).jpg/1920px-Pfarrgarten_Saxdorf_(Mai_2014).jpg---
 
 ## Overview
 

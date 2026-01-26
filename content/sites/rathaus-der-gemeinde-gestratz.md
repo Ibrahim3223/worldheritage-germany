@@ -4,13 +4,13 @@ site_name: "Rathaus der Gemeinde Gestratz"
 date: 2026-01-26
 draft: false
 description: "building in Gestratz, Swabia, Germany"
-region: "Gestratz"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Gestratz"
+  - "Baden-Württemberg"
 wikidata_id: "Q41234585"
 latitude: 47.64756
 longitude: 9.98578
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/400px-Gestratz_-_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/800px-Gestratz_-_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/1200px-Gestratz_-_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/1920px-Gestratz_-_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/1920px-Gestratz_-_Rathaus.JPG---
 
 ## Overview
 

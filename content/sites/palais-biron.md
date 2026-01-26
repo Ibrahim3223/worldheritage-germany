@@ -4,13 +4,13 @@ site_name: "Palais Biron"
 date: 2026-01-26
 draft: false
 description: "building in Baden-Baden, Germany"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q94993540"
 latitude: 48.751593
 longitude: 8.248374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/400px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/800px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/1200px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/1920px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/1920px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg---
 
 ## Overview
 

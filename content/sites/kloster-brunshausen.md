@@ -4,13 +4,13 @@ site_name: "Kloster Brunshausen"
 date: 2026-01-26
 draft: false
 description: "former monastery, now museum in Bad Gandersheim, Germany"
-region: "Bad Gandersheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Gandersheim"
+  - "Lower Saxony"
 wikidata_id: "Q1775088"
 latitude: 51.8828
 longitude: 10.0319
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/400px-Kloster_Brunshausen_Klosterhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/800px-Kloster_Brunshausen_Klosterhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/1200px-Kloster_Brunshausen_Klosterhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/1920px-Kloster_Brunshausen_Klosterhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/1920px-Kloster_Brunshausen_Klosterhof.jpg---
 
 ## Overview
 

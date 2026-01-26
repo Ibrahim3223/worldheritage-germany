@@ -4,19 +4,18 @@ site_name: "Library and media center of the Palatine protestant churches"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q856557"
 latitude: 49.31612
 longitude: 8.43366
 images:
-  []
----
+  []---
 
 ## Overview
 

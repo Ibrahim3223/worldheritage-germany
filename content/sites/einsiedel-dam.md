@@ -4,13 +4,13 @@ site_name: "Einsiedel Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Einsiedel"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Einsiedel"
+  - "Saxony"
 wikidata_id: "Q2390765"
 latitude: 50.7747
 longitude: 12.9822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/400px-Einsiedel-Staumauer2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/800px-Einsiedel-Staumauer2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1200px-Einsiedel-Staumauer2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1920px-Einsiedel-Staumauer2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1920px-Einsiedel-Staumauer2.jpg---
 
 ## Overview
 

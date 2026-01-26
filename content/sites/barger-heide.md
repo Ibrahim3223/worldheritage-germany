@@ -4,13 +4,13 @@ site_name: "Barger Heide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q808144"
 latitude: 53.5719
 longitude: 9.45333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/400px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/800px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1200px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1920px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1920px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg---
 
 ## Overview
 

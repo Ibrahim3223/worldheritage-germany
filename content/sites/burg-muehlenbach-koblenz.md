@@ -4,13 +4,13 @@ site_name: "Burg Mühlenbach (Koblenz)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013173"
 latitude: 50.3532
 longitude: 7.67103
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/400px-Burg_Mühlenbach_Koblenz_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/800px-Burg_Mühlenbach_Koblenz_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/1200px-Burg_Mühlenbach_Koblenz_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/1920px-Burg_Mühlenbach_Koblenz_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/1920px-Burg_Mühlenbach_Koblenz_2011.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Flora und Botanischer Garten Köln"
 date: 2026-01-26
 draft: false
 description: "Cologne Botanical Garden"
-region: "Riehl"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Riehl"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q320082"
 latitude: 50.95932
 longitude: 6.97194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/400px-Flora_-_Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/800px-Flora_-_Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1200px-Flora_-_Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1920px-Flora_-_Köln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1920px-Flora_-_Köln.jpg---
 
 ## Overview
 

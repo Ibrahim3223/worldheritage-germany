@@ -4,13 +4,13 @@ site_name: "Breitscheidstraße 22, 24, 26, 28, 30"
 date: 2026-01-26
 draft: false
 description: "group of buildings in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15108011"
 latitude: 51.791114
 longitude: 11.135279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Breitscheidstraße_(Quedlinburg).JPG/400px-Breitscheidstraße_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Breitscheidstraße_(Quedlinburg).JPG/800px-Breitscheidstraße_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Breitscheidstraße_(Quedlinburg).JPG/1200px-Breitscheidstraße_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Breitscheidstraße_(Quedlinburg).JPG/1920px-Breitscheidstraße_(Quedlinburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Breitscheidstraße_(Quedlinburg).JPG/1920px-Breitscheidstraße_(Quedlinburg).JPG---
 
 ## Overview
 

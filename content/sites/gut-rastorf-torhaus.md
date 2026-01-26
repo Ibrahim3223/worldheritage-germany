@@ -4,13 +4,13 @@ site_name: "Gut Rastorf: Torhaus"
 date: 2026-01-26
 draft: false
 description: "Torhaus in Rastorf in Schleswig-Holstein"
-region: "Rastorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Rastorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58397885"
 latitude: 54.27203
 longitude: 10.28916
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/400px-Rastorf_Gut_Torhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/800px-Rastorf_Gut_Torhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/1200px-Rastorf_Gut_Torhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/1920px-Rastorf_Gut_Torhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/1920px-Rastorf_Gut_Torhaus.jpg---
 
 ## Overview
 

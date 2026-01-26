@@ -4,13 +4,13 @@ site_name: "Klosterrather Hof"
 date: 2026-01-26
 draft: false
 description: "former house of refuge of Rolduc Abbey, later a residential building and factory in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q152180"
 latitude: 50.7771
 longitude: 6.07985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/400px-Aachen,_Klosterrather_Hof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/800px-Aachen,_Klosterrather_Hof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/1200px-Aachen,_Klosterrather_Hof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/1920px-Aachen,_Klosterrather_Hof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/1920px-Aachen,_Klosterrather_Hof.jpg---
 
 ## Overview
 

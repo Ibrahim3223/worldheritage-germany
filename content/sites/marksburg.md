@@ -4,13 +4,13 @@ site_name: "Marksburg"
 date: 2026-01-26
 draft: false
 description: "Castle in Braubach, Rhineland-Palatinate, Germany"
-region: "Braubach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Braubach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q257210"
 latitude: 50.271917
 longitude: 7.649444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/400px-Marksburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/800px-Marksburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/1200px-Marksburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/1920px-Marksburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/1920px-Marksburg.jpg---
 
 ## Overview
 

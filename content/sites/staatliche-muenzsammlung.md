@@ -4,13 +4,13 @@ site_name: "Staatliche Münzsammlung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q1655054"
 latitude: 48.1411
 longitude: 11.5781
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/400px-München_Staatliche_Münzsammlung_I.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/800px-München_Staatliche_Münzsammlung_I.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/1200px-München_Staatliche_Münzsammlung_I.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/1920px-München_Staatliche_Münzsammlung_I.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/1920px-München_Staatliche_Münzsammlung_I.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bremer Höhe"
 date: 2026-01-26
 draft: false
 description: "residential building complex in Berlin"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q907643"
 latitude: 52.5442
 longitude: 13.4139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/400px-Berlin_-_Bremer_Höhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/800px-Berlin_-_Bremer_Höhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/1200px-Berlin_-_Bremer_Höhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/1920px-Berlin_-_Bremer_Höhe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/1920px-Berlin_-_Bremer_Höhe.jpg---
 
 ## Overview
 

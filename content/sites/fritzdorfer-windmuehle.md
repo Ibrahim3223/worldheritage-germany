@@ -4,13 +4,13 @@ site_name: "Fritzdorfer Windmühle"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Wachtberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Wachtberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1469182"
 latitude: 50.5868
 longitude: 7.09368
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fritzdorf_Windmühle.jpg/400px-Fritzdorf_Windmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fritzdorf_Windmühle.jpg/800px-Fritzdorf_Windmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fritzdorf_Windmühle.jpg/1200px-Fritzdorf_Windmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fritzdorf_Windmühle.jpg/1920px-Fritzdorf_Windmühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fritzdorf_Windmühle.jpg/1920px-Fritzdorf_Windmühle.jpg---
 
 ## Overview
 

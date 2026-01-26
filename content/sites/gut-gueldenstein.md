@@ -4,13 +4,13 @@ site_name: "Gut Güldenstein"
 date: 2026-01-26
 draft: false
 description: "manor house near Harmsdorf, Germany"
-region: "Harmsdorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Harmsdorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1556936"
 latitude: 54.2189
 longitude: 10.8358
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/400px-Gueldenstein_Hof-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/800px-Gueldenstein_Hof-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/1200px-Gueldenstein_Hof-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/1920px-Gueldenstein_Hof-2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/1920px-Gueldenstein_Hof-2.JPG---
 
 ## Overview
 

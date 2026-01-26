@@ -4,13 +4,13 @@ site_name: "Künstlerhaus am Lenbachplatz"
 date: 2026-01-26
 draft: false
 description: "building in Old Town, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q188101"
 latitude: 48.140025396
 longitude: 11.567772023
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/400px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/800px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/1200px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/1920px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/1920px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg---
 
 ## Overview
 

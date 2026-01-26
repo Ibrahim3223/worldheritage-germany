@@ -4,19 +4,18 @@ site_name: "Denkmal für die Märzgefallenen (Mechterstädt)"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1188031"
 latitude: 50.9443
 longitude: 10.5284
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Alte Burg (Düsseldorf-Unterrath)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q435438"
 latitude: 51.2782
 longitude: 6.77231
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Hallermund"
 date: 2026-01-26
 draft: false
 description: "former castle near Springe, Germany"
-region: "Springe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Springe"
+  - "Lower Saxony"
 wikidata_id: "Q1012173"
 latitude: 52.185
 longitude: 9.5714
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hallermund_Fundament.jpg/400px-Hallermund_Fundament.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hallermund_Fundament.jpg/800px-Hallermund_Fundament.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hallermund_Fundament.jpg/1200px-Hallermund_Fundament.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hallermund_Fundament.jpg/1920px-Hallermund_Fundament.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hallermund_Fundament.jpg/1920px-Hallermund_Fundament.jpg---
 
 ## Overview
 

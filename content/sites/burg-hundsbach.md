@@ -4,13 +4,13 @@ site_name: "Burg Hundsbach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ernsthausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ernsthausen"
+  - "Hesse"
 wikidata_id: "Q1012511"
 latitude: 50.8813
 longitude: 8.9613
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/400px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/800px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/1200px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/1920px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/1920px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg---
 
 ## Overview
 

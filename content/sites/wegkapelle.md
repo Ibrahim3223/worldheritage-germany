@@ -4,13 +4,13 @@ site_name: "Wegkapelle"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-73-170-21 (0) in Stockheim (Unterfranken), Bavaria"
-region: "Stockheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Stockheim"
+  - "Bavaria"
 wikidata_id: "Q686023"
 latitude: 50.4613
 longitude: 10.2642
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/400px-Armenseelenkapelle_Kreuz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/800px-Armenseelenkapelle_Kreuz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/1200px-Armenseelenkapelle_Kreuz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/1920px-Armenseelenkapelle_Kreuz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/1920px-Armenseelenkapelle_Kreuz.JPG---
 
 ## Overview
 

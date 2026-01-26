@@ -4,19 +4,18 @@ site_name: "Rothe Brücke"
 date: 2026-01-26
 draft: false
 description: "historischer Straßenübergang am Schwarzwasser nahe Johanngeorgenstadt"
-region: "Johanngeorgenstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Johanngeorgenstadt"
+  - "Bavaria"
 wikidata_id: "Q22691454"
 latitude: 50.44027778
 longitude: 12.7275
 images:
-  []
----
+  []---
 
 ## Overview
 

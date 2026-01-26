@@ -4,13 +4,13 @@ site_name: "Weser-Ems Halle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall and arena complex in Oldenburg, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q2563825"
 latitude: 53.1475
 longitude: 8.227778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Weser-ems-halle.jpg/400px-Weser-ems-halle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Weser-ems-halle.jpg/800px-Weser-ems-halle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Weser-ems-halle.jpg/1200px-Weser-ems-halle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Weser-ems-halle.jpg/1920px-Weser-ems-halle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Weser-ems-halle.jpg/1920px-Weser-ems-halle.jpg---
 
 ## Overview
 

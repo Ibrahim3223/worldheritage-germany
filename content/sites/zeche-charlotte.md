@@ -4,19 +4,18 @@ site_name: "Zeche Charlotte"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q169724"
 latitude: 51.4042
 longitude: 7.28192
 images:
-  []
----
+  []---
 
 ## Overview
 

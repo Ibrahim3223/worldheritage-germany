@@ -4,13 +4,13 @@ site_name: "Gauss Tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Göttingen district"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Göttingen district"
+  - "Hesse"
 wikidata_id: "Q569440"
 latitude: 51.474081
 longitude: 9.766106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/400px-Gaußturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/800px-Gaußturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/1200px-Gaußturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/1920px-Gaußturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/1920px-Gaußturm.JPG---
 
 ## Overview
 

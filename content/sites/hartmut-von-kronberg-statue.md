@@ -4,13 +4,13 @@ site_name: "Hartmut-von-Kronberg-Statue"
 date: 2026-01-26
 draft: false
 description: "Zinkgussfigur in Kronberg im Taunus"
-region: "Kronberg im Taunus"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Kronberg im Taunus"
+  - "Hesse"
 wikidata_id: "Q18631094"
 latitude: 50.178743
 longitude: 8.511113
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/400px-Ritter_hartmuth_kronberg1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/800px-Ritter_hartmuth_kronberg1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/1200px-Ritter_hartmuth_kronberg1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/1920px-Ritter_hartmuth_kronberg1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/1920px-Ritter_hartmuth_kronberg1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Eisenbahnplakat-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Westerwaldkreis"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Westerwaldkreis"
+  - "Hesse"
 wikidata_id: "Q22914379"
 latitude: 50.56087
 longitude: 7.96645
 images:
-  []
----
+  []---
 
 ## Overview
 

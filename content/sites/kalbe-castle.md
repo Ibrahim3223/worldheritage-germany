@@ -4,13 +4,13 @@ site_name: "Kalbe Castle"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Saxony-Anhalt, Germany"
-region: "Kalbe (Milde)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kalbe (Milde)"
+  - "Brandenburg"
 wikidata_id: "Q1012588"
 latitude: 52.654
 longitude: 11.3964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/400px-Kalbe_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/800px-Kalbe_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/1200px-Kalbe_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/1920px-Kalbe_Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/1920px-Kalbe_Burg.jpg---
 
 ## Overview
 

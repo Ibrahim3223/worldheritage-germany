@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Neukirchen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634110"
 latitude: 50.869036
 longitude: 9.342579
 images:
-  []
----
+  []---
 
 ## Overview
 

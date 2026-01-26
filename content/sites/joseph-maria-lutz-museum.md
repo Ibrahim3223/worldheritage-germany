@@ -4,19 +4,18 @@ site_name: "Joseph-Maria-Lutz-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629084"
 latitude: 48.528704
 longitude: 11.507385
 images:
-  []
----
+  []---
 
 ## Overview
 

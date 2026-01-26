@@ -4,13 +4,13 @@ site_name: "Museum DKM"
 date: 2026-01-26
 draft: false
 description: "museum in Duisburg, Germany"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q1430966"
 latitude: 51.4288
 longitude: 6.77013
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/400px-Museum_DKM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/800px-Museum_DKM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/1200px-Museum_DKM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/1920px-Museum_DKM.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/1920px-Museum_DKM.jpg---
 
 ## Overview
 

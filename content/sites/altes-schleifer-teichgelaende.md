@@ -4,13 +4,13 @@ site_name: "Altes Schleifer Teichgelände"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Sachsen, Germany"
-region: "Schleife"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Schleife"
+  - "Brandenburg"
 wikidata_id: "Q439519"
 latitude: 51.5375
 longitude: 14.55
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg/400px-NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg/800px-NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg/1200px-NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg/1920px-NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg/1920px-NSG_Altes_Schleifer_Teichgelände_-_Wehr.jpg---
 
 ## Overview
 

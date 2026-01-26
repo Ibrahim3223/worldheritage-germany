@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Böttchergasse 8 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schirgiswalde-Kirschau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schirgiswalde-Kirschau"
+  - "Saxony"
 wikidata_id: "Q49407077"
 latitude: 51.076693
 longitude: 14.427278
 images:
-  []
----
+  []---
 
 ## Overview
 

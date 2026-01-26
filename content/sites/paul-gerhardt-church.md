@@ -4,13 +4,13 @@ site_name: "Paul Gerhardt church"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Schöneberg"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q2058515"
 latitude: 52.483
 longitude: 13.3489
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg/400px-Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg/800px-Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg/1200px-Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg/1920px-Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg/1920px-Paul-Gerhardt-Kirche-Hauptstr-Berlin-Schoeneberg-09-2017.jpg---
 
 ## Overview
 

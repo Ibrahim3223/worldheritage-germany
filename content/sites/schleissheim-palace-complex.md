@@ -4,13 +4,13 @@ site_name: "Schleißheim palace complex"
 date: 2026-01-26
 draft: false
 description: "comprises three palaces in a grand baroque park in the village of Oberschleißheim near Munich, Bavaria, Germany"
-region: "Oberschleißheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Oberschleißheim"
+  - "Bavaria"
 wikidata_id: "Q680166"
 latitude: 48.248611111
 longitude: 11.568333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_image_of_the_Schleissheim_Palace.jpg/400px-Aerial_image_of_the_Schleissheim_Palace.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_image_of_the_Schleissheim_Palace.jpg/800px-Aerial_image_of_the_Schleissheim_Palace.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_image_of_the_Schleissheim_Palace.jpg/1200px-Aerial_image_of_the_Schleissheim_Palace.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_image_of_the_Schleissheim_Palace.jpg/1920px-Aerial_image_of_the_Schleissheim_Palace.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_image_of_the_Schleissheim_Palace.jpg/1920px-Aerial_image_of_the_Schleissheim_Palace.jpg---
 
 ## Overview
 

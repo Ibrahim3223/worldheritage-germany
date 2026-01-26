@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Erlangen"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Erlangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Erlangen"
+  - "Bavaria"
 wikidata_id: "Q323124"
 latitude: 49.5992
 longitude: 11.0067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/400px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/800px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1200px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1920px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1920px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg---
 
 ## Overview
 

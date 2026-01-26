@@ -4,19 +4,18 @@ site_name: "Gedenkstätte Abraham a Sancta Clara in der Pfarrscheuer"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631368"
 latitude: 48.056556
 longitude: 9.053217
 images:
-  []
----
+  []---
 
 ## Overview
 

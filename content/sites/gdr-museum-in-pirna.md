@@ -4,13 +4,13 @@ site_name: "GDR Museum in Pirna"
 date: 2026-01-26
 draft: false
 description: "German museum"
-region: "Pirna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pirna"
+  - "Saxony"
 wikidata_id: "Q1152700"
 latitude: 50.9438
 longitude: 13.9434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/400px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/800px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/1200px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/1920px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/1920px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG---
 
 ## Overview
 

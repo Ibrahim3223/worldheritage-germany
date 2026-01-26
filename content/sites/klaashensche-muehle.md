@@ -4,13 +4,13 @@ site_name: "Klaashensche Mühle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Schweindorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Schweindorf"
+  - "Lower Saxony"
 wikidata_id: "Q1330536"
 latitude: 53.5976
 longitude: 7.47141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/400px-Windmühe_schweindorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/800px-Windmühe_schweindorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/1200px-Windmühe_schweindorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/1920px-Windmühe_schweindorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/1920px-Windmühe_schweindorf.jpg---
 
 ## Overview
 

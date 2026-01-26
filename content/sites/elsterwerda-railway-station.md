@@ -4,13 +4,13 @@ site_name: "Elsterwerda railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Elsterwerda, Germany"
-region: "Elsterwerda"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Elsterwerda"
+  - "Brandenburg"
 wikidata_id: "Q323268"
 latitude: 51.459167
 longitude: 13.516389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Eda_Jan_2018_P1110944.jpg/400px-Bahnhof_Eda_Jan_2018_P1110944.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Eda_Jan_2018_P1110944.jpg/800px-Bahnhof_Eda_Jan_2018_P1110944.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Eda_Jan_2018_P1110944.jpg/1200px-Bahnhof_Eda_Jan_2018_P1110944.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Eda_Jan_2018_P1110944.jpg/1920px-Bahnhof_Eda_Jan_2018_P1110944.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Eda_Jan_2018_P1110944.jpg/1920px-Bahnhof_Eda_Jan_2018_P1110944.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Wendelin"
 date: 2026-01-26
 draft: false
 description: "church building in Reilingen, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Reilingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reilingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2323708"
 latitude: 49.2943
 longitude: 8.57084
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reilingen_Sankt-Wendelin-Kirche_20110307.jpg/400px-Reilingen_Sankt-Wendelin-Kirche_20110307.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reilingen_Sankt-Wendelin-Kirche_20110307.jpg/800px-Reilingen_Sankt-Wendelin-Kirche_20110307.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reilingen_Sankt-Wendelin-Kirche_20110307.jpg/1200px-Reilingen_Sankt-Wendelin-Kirche_20110307.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reilingen_Sankt-Wendelin-Kirche_20110307.jpg/1920px-Reilingen_Sankt-Wendelin-Kirche_20110307.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reilingen_Sankt-Wendelin-Kirche_20110307.jpg/1920px-Reilingen_Sankt-Wendelin-Kirche_20110307.jpg---
 
 ## Overview
 

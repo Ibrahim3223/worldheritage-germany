@@ -4,19 +4,18 @@ site_name: "Elektrotechnisches Museum Leutkirch e.V."
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631425"
 latitude: 47.822718
 longitude: 10.026398
 images:
-  []
----
+  []---
 
 ## Overview
 

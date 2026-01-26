@@ -4,13 +4,13 @@ site_name: "Burg Neuenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lautenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lautenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013277"
 latitude: 48.5026
 longitude: 8.1291
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/400px-Neuenstein_Schildmauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/800px-Neuenstein_Schildmauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/1200px-Neuenstein_Schildmauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/1920px-Neuenstein_Schildmauer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/1920px-Neuenstein_Schildmauer.jpg---
 
 ## Overview
 

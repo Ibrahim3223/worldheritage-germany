@@ -4,13 +4,13 @@ site_name: "Tierpark Bad Pyrmont"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Bad Pyrmont"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Bad Pyrmont"
+  - "Lower Saxony"
 wikidata_id: "Q129322"
 latitude: 51.97972222
 longitude: 9.25166667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/400px-Tierpark-pyrmont-teich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/800px-Tierpark-pyrmont-teich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/1200px-Tierpark-pyrmont-teich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/1920px-Tierpark-pyrmont-teich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/1920px-Tierpark-pyrmont-teich.jpg---
 
 ## Overview
 

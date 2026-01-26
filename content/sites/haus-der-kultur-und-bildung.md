@@ -4,13 +4,13 @@ site_name: "Haus der Kultur und Bildung"
 date: 2026-01-26
 draft: false
 description: "house of culture in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q6443263"
 latitude: 53.5581
 longitude: 13.2603
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/400px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/800px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1200px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1920px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1920px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg---
 
 ## Overview
 

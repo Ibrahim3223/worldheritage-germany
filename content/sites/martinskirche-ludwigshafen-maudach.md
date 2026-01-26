@@ -4,13 +4,13 @@ site_name: "Martinskirche (Ludwigshafen-Maudach)"
 date: 2026-01-26
 draft: false
 description: "church building in Ludwigshafen, Germany"
-region: "Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q11722140"
 latitude: 49.4538
 longitude: 8.37612
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/400px-Martinskirche_Ludwigshafen_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/800px-Martinskirche_Ludwigshafen_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/1200px-Martinskirche_Ludwigshafen_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/1920px-Martinskirche_Ludwigshafen_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/1920px-Martinskirche_Ludwigshafen_02.JPG---
 
 ## Overview
 

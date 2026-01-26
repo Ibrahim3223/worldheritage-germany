@@ -4,13 +4,13 @@ site_name: "Dynamite factory Krümmel"
 date: 2026-01-26
 draft: false
 description: "historische Sprengstofffabrik bei Geesthacht"
-region: "Geesthacht"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Geesthacht"
+  - "Lower Saxony"
 wikidata_id: "Q1269035"
 latitude: 53.408668
 longitude: 10.417303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/400px-Dynamitfabrik_kruemmel_verwaltung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/800px-Dynamitfabrik_kruemmel_verwaltung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1200px-Dynamitfabrik_kruemmel_verwaltung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1920px-Dynamitfabrik_kruemmel_verwaltung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1920px-Dynamitfabrik_kruemmel_verwaltung.jpg---
 
 ## Overview
 

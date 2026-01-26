@@ -4,13 +4,13 @@ site_name: "Königstuhl"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Heidelberg old town"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Heidelberg old town"
+  - "Baden-Württemberg"
 wikidata_id: "Q27114"
 latitude: 49.3981
 longitude: 8.72611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/400px-Blick_auf_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/800px-Blick_auf_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/1200px-Blick_auf_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/1920px-Blick_auf_Heidelberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/1920px-Blick_auf_Heidelberg.jpg---
 
 ## Overview
 

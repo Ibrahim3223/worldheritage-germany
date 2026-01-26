@@ -4,13 +4,13 @@ site_name: "Church in Herrnburg"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lüdersdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lüdersdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1244366"
 latitude: 53.8342
 longitude: 10.7654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/400px-Dorfkirche_Herrnburg01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/800px-Dorfkirche_Herrnburg01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/1200px-Dorfkirche_Herrnburg01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/1920px-Dorfkirche_Herrnburg01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/1920px-Dorfkirche_Herrnburg01.jpg---
 
 ## Overview
 

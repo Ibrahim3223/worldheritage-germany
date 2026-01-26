@@ -4,19 +4,18 @@ site_name: "Lechner Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Ingolstadt, Bavaria, Germany"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q17066668"
 latitude: 48.766702
 longitude: 11.430488
 images:
-  []
----
+  []---
 
 ## Overview
 

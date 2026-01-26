@@ -4,13 +4,13 @@ site_name: "Herrenhaus Lehsen"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Landkreis Ludwigslust-Parchim in Mecklenburg-Vorpommern"
-region: "Wittenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wittenburg"
+  - "Lower Saxony"
 wikidata_id: "Q15114706"
 latitude: 53.486561
 longitude: 11.023493
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/400px-Lehsen_Herrenhaus_2013-01-21_010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/800px-Lehsen_Herrenhaus_2013-01-21_010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/1200px-Lehsen_Herrenhaus_2013-01-21_010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/1920px-Lehsen_Herrenhaus_2013-01-21_010.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/1920px-Lehsen_Herrenhaus_2013-01-21_010.JPG---
 
 ## Overview
 

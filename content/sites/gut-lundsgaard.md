@@ -4,13 +4,13 @@ site_name: "Gut Lundsgaard"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Grundhof"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Grundhof"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1556979"
 latitude: 54.7782
 longitude: 9.6531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/400px-Gut_Lundsgaard_Haupthaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/800px-Gut_Lundsgaard_Haupthaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1200px-Gut_Lundsgaard_Haupthaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1920px-Gut_Lundsgaard_Haupthaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1920px-Gut_Lundsgaard_Haupthaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Petrikirche"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Wörlitz, Oranienbaum-Wörlitz, Landkreis Wittenberg, Sachsen-Anhalt"
-region: "Oranienbaum-Wörlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oranienbaum-Wörlitz"
+  - "Brandenburg"
 wikidata_id: "Q107345333"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wörlitz_StPetri_asv2024-06_img1.jpg/400px-Wörlitz_StPetri_asv2024-06_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wörlitz_StPetri_asv2024-06_img1.jpg/800px-Wörlitz_StPetri_asv2024-06_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wörlitz_StPetri_asv2024-06_img1.jpg/1200px-Wörlitz_StPetri_asv2024-06_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wörlitz_StPetri_asv2024-06_img1.jpg/1920px-Wörlitz_StPetri_asv2024-06_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wörlitz_StPetri_asv2024-06_img1.jpg/1920px-Wörlitz_StPetri_asv2024-06_img1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hubertus chapel"
 date: 2026-01-26
 draft: false
 description: "Christian sacral building in Ostrach valley in the Allgäu Alps in Bavaria, Germany"
-region: "Bad Hindelang"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Hindelang"
+  - "Bavaria"
 wikidata_id: "Q1633625"
 latitude: 47.4361
 longitude: 10.4269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/400px-HubertuskapelleOstrachtal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/800px-HubertuskapelleOstrachtal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/1200px-HubertuskapelleOstrachtal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/1920px-HubertuskapelleOstrachtal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/1920px-HubertuskapelleOstrachtal.jpg---
 
 ## Overview
 

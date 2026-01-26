@@ -4,13 +4,13 @@ site_name: "Johanniterkirche"
 date: 2026-01-26
 draft: false
 description: "historic building and museum in Schwäbisch Hall"
-region: "Schwäbisch Hall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwäbisch Hall"
+  - "Baden-Württemberg"
 wikidata_id: "Q1628138"
 latitude: 49.1132
 longitude: 9.7326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/400px-SH_Johanniterhalle_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/800px-SH_Johanniterhalle_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/1200px-SH_Johanniterhalle_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/1920px-SH_Johanniterhalle_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/1920px-SH_Johanniterhalle_01.JPG---
 
 ## Overview
 

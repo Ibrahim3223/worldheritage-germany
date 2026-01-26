@@ -4,13 +4,13 @@ site_name: "Marienkapelle Oberstetten"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Erlenmoos"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Erlenmoos"
+  - "Baden-Württemberg"
 wikidata_id: "Q1469335"
 latitude: 48.0455
 longitude: 9.96831
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oberstetten_Marienkapelle_1.jpg/400px-Oberstetten_Marienkapelle_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oberstetten_Marienkapelle_1.jpg/800px-Oberstetten_Marienkapelle_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oberstetten_Marienkapelle_1.jpg/1200px-Oberstetten_Marienkapelle_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oberstetten_Marienkapelle_1.jpg/1920px-Oberstetten_Marienkapelle_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oberstetten_Marienkapelle_1.jpg/1920px-Oberstetten_Marienkapelle_1.jpg---
 
 ## Overview
 

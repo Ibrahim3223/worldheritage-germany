@@ -4,19 +4,18 @@ site_name: "Botanischer Garten Krefeld"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q874042"
 latitude: 51.3325
 longitude: 6.60306
 images:
-  []
----
+  []---
 
 ## Overview
 

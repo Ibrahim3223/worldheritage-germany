@@ -4,13 +4,13 @@ site_name: "Bethanienkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Schleußig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schleußig"
+  - "Saxony"
 wikidata_id: "Q831184"
 latitude: 51.3211
 longitude: 12.347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/400px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/800px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/1200px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/1920px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/1920px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg---
 
 ## Overview
 

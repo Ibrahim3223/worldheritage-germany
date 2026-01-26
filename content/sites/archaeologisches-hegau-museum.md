@@ -4,13 +4,13 @@ site_name: "Archäologisches Hegau-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Singen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Singen"
+  - "Baden-Württemberg"
 wikidata_id: "Q636833"
 latitude: 47.7625
 longitude: 8.83388889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg/400px-Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg/800px-Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg/1200px-Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg/1920px-Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg/1920px-Singen_-_Am_Schlossgarten_-_Schloss_-_Hegau-Museum_01_ies.jpg---
 
 ## Overview
 

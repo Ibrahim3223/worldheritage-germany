@@ -4,13 +4,13 @@ site_name: "Burg Rolandseck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rolandswerth"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rolandswerth"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q570879"
 latitude: 50.64061111
 longitude: 7.20221944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/400px-Rolandsbogen_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/800px-Rolandsbogen_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/1200px-Rolandsbogen_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/1920px-Rolandsbogen_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/1920px-Rolandsbogen_1900.jpg---
 
 ## Overview
 

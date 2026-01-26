@@ -4,13 +4,13 @@ site_name: "Ore Mountain Mining Region"
 date: 2026-01-26
 draft: false
 description: "industrial heritage location"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Public Service Company"
 categories:
   - "Public Service Company"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1945612"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/400px-Blick_vom_Jelení_hora_nach_Südwest.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/800px-Blick_vom_Jelení_hora_nach_Südwest.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/1200px-Blick_vom_Jelení_hora_nach_Südwest.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/1920px-Blick_vom_Jelení_hora_nach_Südwest.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/1920px-Blick_vom_Jelení_hora_nach_Südwest.JPG---
 
 ## Overview
 

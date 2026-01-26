@@ -4,19 +4,18 @@ site_name: "Metall- und Lackwarenfabrik Johannes Großfuß"
 date: 2026-01-26
 draft: false
 description: "former company in Germany"
-region: "Döbeln"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Döbeln"
+  - "Saxony"
 wikidata_id: "Q1924833"
 latitude: 51.12445194
 longitude: 13.10325
 images:
-  []
----
+  []---
 
 ## Overview
 

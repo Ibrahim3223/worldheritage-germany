@@ -4,13 +4,13 @@ site_name: "St. Alban (Stillnau)"
 date: 2026-01-26
 draft: false
 description: "church in Stillnau"
-region: "Bissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bissingen"
+  - "Bavaria"
 wikidata_id: "Q1339362"
 latitude: 48.7294
 longitude: 10.6278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/400px-Kirche_Stillnau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/800px-Kirche_Stillnau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/1200px-Kirche_Stillnau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/1920px-Kirche_Stillnau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/1920px-Kirche_Stillnau.jpg---
 
 ## Overview
 

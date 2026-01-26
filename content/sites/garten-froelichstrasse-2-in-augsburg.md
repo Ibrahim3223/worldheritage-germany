@@ -4,19 +4,18 @@ site_name: "Garten Frölichstraße 2 in Augsburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-7-61-000-264 (2) in Augsburg, Bavaria"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q98720932"
 latitude: 48.370425271
 longitude: 10.889053467
 images:
-  []
----
+  []---
 
 ## Overview
 

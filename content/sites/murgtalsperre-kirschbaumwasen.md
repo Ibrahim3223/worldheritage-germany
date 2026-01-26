@@ -4,13 +4,13 @@ site_name: "Murgtalsperre Kirschbaumwasen"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Forbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Forbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1953680"
 latitude: 48.62
 longitude: 8.3575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/400px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/800px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/1200px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/1920px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/1920px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "DDR-Museum Thale"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Thale"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thale"
+  - "Lower Saxony"
 wikidata_id: "Q22662449"
 latitude: 51.748874
 longitude: 11.032421
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/400px-DDR_Museum_Thale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/800px-DDR_Museum_Thale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/1200px-DDR_Museum_Thale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/1920px-DDR_Museum_Thale.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/1920px-DDR_Museum_Thale.jpg---
 
 ## Overview
 

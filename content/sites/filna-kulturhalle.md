@@ -4,13 +4,13 @@ site_name: "Filna Kulturhalle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Flein, Germany"
-region: "Flein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Flein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1249972"
 latitude: 49.1067
 longitude: 9.20951
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/400px-Flein_Sandberghalle_Neubau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/800px-Flein_Sandberghalle_Neubau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/1200px-Flein_Sandberghalle_Neubau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/1920px-Flein_Sandberghalle_Neubau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/1920px-Flein_Sandberghalle_Neubau.JPG---
 
 ## Overview
 

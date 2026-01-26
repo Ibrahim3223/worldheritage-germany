@@ -4,13 +4,13 @@ site_name: "Braunschweiger Okeraue"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q901936"
 latitude: 52.3072
 longitude: 10.4742
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/400px-Schwarzflaeche_Okerauen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/800px-Schwarzflaeche_Okerauen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/1200px-Schwarzflaeche_Okerauen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/1920px-Schwarzflaeche_Okerauen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/1920px-Schwarzflaeche_Okerauen.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5825-0107 in Elfershausen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Elfershausen, Bad Kissingen, Lower Franconia, Bavaria, Germany"
-region: "Elfershausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Elfershausen"
+  - "Bavaria"
 wikidata_id: "Q98168393"
 latitude: 50.120224509
 longitude: 9.964921551
 images:
-  []
----
+  []---
 
 ## Overview
 

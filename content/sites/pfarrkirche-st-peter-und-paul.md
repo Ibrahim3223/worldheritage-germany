@@ -4,13 +4,13 @@ site_name: "Pfarrkirche St. Peter und Paul"
 date: 2026-01-26
 draft: false
 description: "church building in Buxheim, Swabia, Germany"
-region: "Buxheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Buxheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1691673"
 latitude: 47.9995
 longitude: 10.1333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/400px-Buxheim_St._Peter_und_Paul.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/800px-Buxheim_St._Peter_und_Paul.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/1200px-Buxheim_St._Peter_und_Paul.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/1920px-Buxheim_St._Peter_und_Paul.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/1920px-Buxheim_St._Peter_und_Paul.jpg---
 
 ## Overview
 

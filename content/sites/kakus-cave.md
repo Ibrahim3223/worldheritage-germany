@@ -4,19 +4,18 @@ site_name: "Kakus cave"
 date: 2026-01-26
 draft: false
 description: "cave"
-region: "Mechernich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Mechernich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1507927"
 latitude: 50.545
 longitude: 6.66
 images:
-  []
----
+  []---
 
 ## Overview
 

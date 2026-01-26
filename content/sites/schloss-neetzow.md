@@ -4,13 +4,13 @@ site_name: "Schloss Neetzow"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Neetzow-Liepen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Neetzow-Liepen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1233916"
 latitude: 53.8803
 longitude: 13.4112
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/400px-Neetzow_OVP_Herrenhaus_West.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/800px-Neetzow_OVP_Herrenhaus_West.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/1200px-Neetzow_OVP_Herrenhaus_West.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/1920px-Neetzow_OVP_Herrenhaus_West.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/1920px-Neetzow_OVP_Herrenhaus_West.jpg---
 
 ## Overview
 

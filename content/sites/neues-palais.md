@@ -4,13 +4,13 @@ site_name: "Neues Palais"
 date: 2026-01-26
 draft: false
 description: "last residence of the House Hesse in Darmstadt"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q1685897"
 latitude: 49.8686472
 longitude: 8.65098774
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/400px-Neues_Palais_in_Darmstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/800px-Neues_Palais_in_Darmstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/1200px-Neues_Palais_in_Darmstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/1920px-Neues_Palais_in_Darmstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/1920px-Neues_Palais_in_Darmstadt.jpg---
 
 ## Overview
 

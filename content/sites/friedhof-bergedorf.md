@@ -4,13 +4,13 @@ site_name: "Friedhof Bergedorf"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bergedorf, Germany"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q1399761"
 latitude: 53.480116666
 longitude: 10.250802777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg/400px-Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg/800px-Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg/1200px-Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg/1920px-Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg/1920px-Ausgang_des_Bergedorfer_Friedhofs_-_panoramio.jpg---
 
 ## Overview
 

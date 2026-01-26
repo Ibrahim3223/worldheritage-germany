@@ -4,13 +4,13 @@ site_name: "Augustinian Monastery"
 date: 2026-01-26
 draft: false
 description: "monastery in Speyer"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22825"
 latitude: 49.3195
 longitude: 8.43366
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/400px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/800px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/1200px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/1920px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/1920px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg---
 
 ## Overview
 

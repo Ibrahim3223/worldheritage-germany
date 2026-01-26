@@ -4,19 +4,18 @@ site_name: "Palais Marschall"
 date: 2026-01-26
 draft: false
 description: "Palast in Deutschland"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2047096"
 latitude: 52.5112
 longitude: 13.3831
 images:
-  []
----
+  []---
 
 ## Overview
 

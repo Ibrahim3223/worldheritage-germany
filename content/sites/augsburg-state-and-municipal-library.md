@@ -4,13 +4,13 @@ site_name: "Augsburg State and Municipal Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2324633"
 latitude: 48.3695
 longitude: 10.8906
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/400px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/800px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1200px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1920px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1920px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg---
 
 ## Overview
 

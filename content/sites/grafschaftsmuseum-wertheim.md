@@ -4,13 +4,13 @@ site_name: "Grafschaftsmuseum Wertheim"
 date: 2026-01-26
 draft: false
 description: "museum in Baden-Württemberg, Germany"
-region: "Wertheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wertheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1541857"
 latitude: 49.7596
 longitude: 9.51811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/400px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/800px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/1200px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/1920px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/1920px-Museo-01_Grafschaftsmuseum_Wertheim.jpg---
 
 ## Overview
 

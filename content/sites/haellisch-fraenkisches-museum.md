@@ -4,13 +4,13 @@ site_name: "Hällisch-Fränkisches Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schwäbisch Hall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwäbisch Hall"
+  - "Baden-Württemberg"
 wikidata_id: "Q1641994"
 latitude: 49.1113
 longitude: 9.73676
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg/400px-Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg/800px-Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg/1200px-Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg/1920px-Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg/1920px-Hällisch-Fränkisches_Museum,_Eingangsbereich.jpg---
 
 ## Overview
 

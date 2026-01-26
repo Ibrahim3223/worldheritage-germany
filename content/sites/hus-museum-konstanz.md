@@ -4,13 +4,13 @@ site_name: "Hus-Museum Konstanz"
 date: 2026-01-26
 draft: false
 description: "Museum in Deutschland"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q17575851"
 latitude: 47.658928
 longitude: 9.170857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/400px-Hus_Museum_am_Schnetztor_Konstanz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/800px-Hus_Museum_am_Schnetztor_Konstanz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1200px-Hus_Museum_am_Schnetztor_Konstanz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1920px-Hus_Museum_am_Schnetztor_Konstanz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1920px-Hus_Museum_am_Schnetztor_Konstanz.jpg---
 
 ## Overview
 

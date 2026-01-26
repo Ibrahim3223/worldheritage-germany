@@ -4,13 +4,13 @@ site_name: "Johanniskirche"
 date: 2026-01-26
 draft: false
 description: "church in Flensburg, Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q878499"
 latitude: 54.7836
 longitude: 9.44089
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/400px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/800px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/1200px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/1920px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/1920px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St-Thomas-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Damshagen, Germany"
-region: "Damshagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Damshagen"
+  - "Lower Saxony"
 wikidata_id: "Q1414006"
 latitude: 53.9274
 longitude: 11.1526
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/400px-Kirche_in_Damshagen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/800px-Kirche_in_Damshagen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/1200px-Kirche_in_Damshagen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/1920px-Kirche_in_Damshagen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/1920px-Kirche_in_Damshagen.JPG---
 
 ## Overview
 

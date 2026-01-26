@@ -4,13 +4,13 @@ site_name: "Protestant church Nünschweiler"
 date: 2026-01-26
 draft: false
 description: "Protestant church of Nünschweiler"
-region: "Nünschweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nünschweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q2795078"
 latitude: 49.222464799
 longitude: 7.505230818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuenschweiler-protestantische_Kirche-02-gje.jpg/400px-Nuenschweiler-protestantische_Kirche-02-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuenschweiler-protestantische_Kirche-02-gje.jpg/800px-Nuenschweiler-protestantische_Kirche-02-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuenschweiler-protestantische_Kirche-02-gje.jpg/1200px-Nuenschweiler-protestantische_Kirche-02-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuenschweiler-protestantische_Kirche-02-gje.jpg/1920px-Nuenschweiler-protestantische_Kirche-02-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuenschweiler-protestantische_Kirche-02-gje.jpg/1920px-Nuenschweiler-protestantische_Kirche-02-gje.jpg---
 
 ## Overview
 

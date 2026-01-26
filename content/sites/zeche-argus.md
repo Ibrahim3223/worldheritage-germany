@@ -4,19 +4,18 @@ site_name: "Zeche Argus"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Wetter"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Wetter"
+  - "Lower Saxony"
 wikidata_id: "Q169659"
 latitude: 51.3693
 longitude: 7.31829
 images:
-  []
----
+  []---
 
 ## Overview
 

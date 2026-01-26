@@ -4,13 +4,13 @@ site_name: "Kreismuseum Zons"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dormagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dormagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1787731"
 latitude: 51.1204
 longitude: 6.85114
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/400px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/800px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/1200px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/1920px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/1920px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG---
 
 ## Overview
 

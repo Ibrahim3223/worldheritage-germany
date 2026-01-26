@@ -4,13 +4,13 @@ site_name: "St. Marienkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hannover, Germany"
-region: "Nord"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nord"
+  - "Lower Saxony"
 wikidata_id: "Q2320917"
 latitude: 52.39643
 longitude: 9.72055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/400px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/800px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/1200px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/1920px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/1920px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über die Pließnitz (im Pließnitztal)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bernstadt auf dem Eigen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bernstadt auf dem Eigen"
+  - "Saxony"
 wikidata_id: "Q49430414"
 latitude: 51.045921
 longitude: 14.824648
 images:
-  []
----
+  []---
 
 ## Overview
 

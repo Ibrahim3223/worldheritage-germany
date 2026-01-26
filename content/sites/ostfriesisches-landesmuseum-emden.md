@@ -4,13 +4,13 @@ site_name: "Ostfriesisches Landesmuseum Emden"
 date: 2026-01-26
 draft: false
 description: "museum in East Frisia, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1378648"
 latitude: 53.3668
 longitude: 7.20692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ostfriesisches_Landesmuseum_Emden.jpg/400px-Ostfriesisches_Landesmuseum_Emden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ostfriesisches_Landesmuseum_Emden.jpg/800px-Ostfriesisches_Landesmuseum_Emden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ostfriesisches_Landesmuseum_Emden.jpg/1200px-Ostfriesisches_Landesmuseum_Emden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ostfriesisches_Landesmuseum_Emden.jpg/1920px-Ostfriesisches_Landesmuseum_Emden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ostfriesisches_Landesmuseum_Emden.jpg/1920px-Ostfriesisches_Landesmuseum_Emden.jpg---
 
 ## Overview
 

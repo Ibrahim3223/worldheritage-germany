@@ -4,13 +4,13 @@ site_name: "Burg Herzberg"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Breitenbach am Herzberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Breitenbach am Herzberg"
+  - "Hesse"
 wikidata_id: "Q1012322"
 latitude: 50.77
 longitude: 9.45944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_herzberg_komandanten.jpg/400px-Burg_herzberg_komandanten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_herzberg_komandanten.jpg/800px-Burg_herzberg_komandanten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_herzberg_komandanten.jpg/1200px-Burg_herzberg_komandanten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_herzberg_komandanten.jpg/1920px-Burg_herzberg_komandanten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_herzberg_komandanten.jpg/1920px-Burg_herzberg_komandanten.jpg---
 
 ## Overview
 

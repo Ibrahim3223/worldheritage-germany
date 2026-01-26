@@ -4,13 +4,13 @@ site_name: "Limburg Castle (Hesse)"
 date: 2026-01-26
 draft: false
 description: "castle in Limburg an der Lahn, Germany"
-region: "Limburg an der Lahn"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Limburg an der Lahn"
+  - "Hesse"
 wikidata_id: "Q1012964"
 latitude: 50.3883
 longitude: 8.0677
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Limburg.jpg/400px-Burg_Limburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Limburg.jpg/800px-Burg_Limburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Limburg.jpg/1200px-Burg_Limburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Limburg.jpg/1920px-Burg_Limburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Limburg.jpg/1920px-Burg_Limburg.jpg---
 
 ## Overview
 

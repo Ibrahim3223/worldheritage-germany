@@ -4,19 +4,18 @@ site_name: "Großes Fenster"
 date: 2026-01-26
 draft: false
 description: "Badebucht mit Strand an der Havel in Berlin"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q15111873"
 latitude: 52.451583
 longitude: 13.190887
 images:
-  []
----
+  []---
 
 ## Overview
 

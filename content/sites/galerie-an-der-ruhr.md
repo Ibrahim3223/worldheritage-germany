@@ -4,13 +4,13 @@ site_name: "Galerie an der Ruhr"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q62071012"
 latitude: 51.426111111
 longitude: 6.878333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg/400px-Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg/800px-Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg/1200px-Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg/1920px-Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg/1920px-Villa_Schmitz-Scholl_Muelheim_Ruhrstr.3_Stammhaus_der_Tengelmann-Gruenderfamilie.jpg---
 
 ## Overview
 

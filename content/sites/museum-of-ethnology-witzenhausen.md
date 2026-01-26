@@ -4,19 +4,18 @@ site_name: "Museum of Ethnology Witzenhausen"
 date: 2026-01-26
 draft: false
 description: "Museum of Ethnology Witzenhausen, Germany"
-region: "Witzenhausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Witzenhausen"
+  - "Hesse"
 wikidata_id: "Q42282777"
 latitude: 51.34391
 longitude: 9.85912
 images:
-  []
----
+  []---
 
 ## Overview
 

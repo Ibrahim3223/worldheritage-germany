@@ -4,13 +4,13 @@ site_name: "Church in Volkenshagen"
 date: 2026-01-26
 draft: false
 description: "Protestant church"
-region: "Bentwisch"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bentwisch"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244786"
 latitude: 54.1496
 longitude: 12.3242
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/400px-Dorfkirche_Volkenshagen_August_2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/800px-Dorfkirche_Volkenshagen_August_2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1200px-Dorfkirche_Volkenshagen_August_2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1920px-Dorfkirche_Volkenshagen_August_2012.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1920px-Dorfkirche_Volkenshagen_August_2012.JPG---
 
 ## Overview
 

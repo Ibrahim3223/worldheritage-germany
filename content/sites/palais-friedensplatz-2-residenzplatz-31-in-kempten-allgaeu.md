@@ -4,19 +4,18 @@ site_name: "Palais Friedensplatz 2; Residenzplatz 31 in Kempten (Allgäu)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-7-63-000-201 (2) in Kempten (Allgäu), Bavaria"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q98722877"
 latitude: 47.72728234
 longitude: 10.311522257
 images:
-  []
----
+  []---
 
 ## Overview
 

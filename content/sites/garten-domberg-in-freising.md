@@ -4,19 +4,18 @@ site_name: "Garten Domberg in Freising"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-78-124-38 (1) in Freising, Bavaria"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q98743501"
 latitude: 48.399071632
 longitude: 11.747560468
 images:
-  []
----
+  []---
 
 ## Overview
 

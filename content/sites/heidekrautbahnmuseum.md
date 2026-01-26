@@ -4,13 +4,13 @@ site_name: "Heidekrautbahnmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Basdorf, Wandlitz, Brandenburg, Germany"
-region: "Basdorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Basdorf"
+  - "Brandenburg"
 wikidata_id: "Q42894453"
 latitude: 52.7129
 longitude: 13.43293
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/400px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/800px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1200px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1920px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1920px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG---
 
 ## Overview
 

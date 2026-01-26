@@ -4,13 +4,13 @@ site_name: "Family Business and Politics Foundation"
 date: 2026-01-26
 draft: false
 description: "German family business lobby"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q110222745"
 latitude: 52.51692
 longitude: 13.37788
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/400px-(20250423)_Berlin_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/800px-(20250423)_Berlin_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/1200px-(20250423)_Berlin_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/1920px-(20250423)_Berlin_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/1920px-(20250423)_Berlin_02.jpg---
 
 ## Overview
 

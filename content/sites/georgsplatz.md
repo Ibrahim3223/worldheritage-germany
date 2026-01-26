@@ -4,13 +4,13 @@ site_name: "Georgsplatz"
 date: 2026-01-26
 draft: false
 description: "Buildings in Wennigsen, Germany"
-region: "Wennigsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Wennigsen"
+  - "Lower Saxony"
 wikidata_id: "Q1509560"
 latitude: 52.2648
 longitude: 9.52365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/400px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/800px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/1200px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/1920px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/1920px-Jagdschloss_Forstamt_Wennigser_Mark.jpg---
 
 ## Overview
 

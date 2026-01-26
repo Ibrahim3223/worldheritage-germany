@@ -4,13 +4,13 @@ site_name: "Wilhelm Hauff Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Honau, Lichtenstein, district of Reutlingen, Baden-Württemberg, Germany"
-region: "Lichtenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lichtenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631443"
 latitude: 48.41115
 longitude: 9.26315
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/400px-Honau-Hauff-Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/800px-Honau-Hauff-Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/1200px-Honau-Hauff-Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/1920px-Honau-Hauff-Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/1920px-Honau-Hauff-Museum.JPG---
 
 ## Overview
 

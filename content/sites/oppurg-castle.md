@@ -4,13 +4,13 @@ site_name: "Oppurg Castle"
 date: 2026-01-26
 draft: false
 description: "building in Oppurg (Germany)"
-region: "Oppurg"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Oppurg"
+  - "Thuringia"
 wikidata_id: "Q1799052"
 latitude: 50.7142
 longitude: 11.6539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oppurg_2005-07-02_02.jpg/400px-Oppurg_2005-07-02_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oppurg_2005-07-02_02.jpg/800px-Oppurg_2005-07-02_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oppurg_2005-07-02_02.jpg/1200px-Oppurg_2005-07-02_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oppurg_2005-07-02_02.jpg/1920px-Oppurg_2005-07-02_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oppurg_2005-07-02_02.jpg/1920px-Oppurg_2005-07-02_02.jpg---
 
 ## Overview
 

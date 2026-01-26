@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Rhauderfehn"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Rhauderfehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Rhauderfehn"
+  - "Lower Saxony"
 wikidata_id: "Q28729525"
 latitude: 53.12815
 longitude: 7.5771
 images:
-  []
----
+  []---
 
 ## Overview
 

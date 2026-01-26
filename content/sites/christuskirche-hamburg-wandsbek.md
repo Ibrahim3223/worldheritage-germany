@@ -4,13 +4,13 @@ site_name: "Christuskirche, Hamburg-Wandsbek"
 date: 2026-01-26
 draft: false
 description: "German church"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1087331"
 latitude: 53.57266667
 longitude: 10.07122222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/400px-Hh-christusk-wandsb2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/800px-Hh-christusk-wandsb2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/1200px-Hh-christusk-wandsb2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/1920px-Hh-christusk-wandsb2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/1920px-Hh-christusk-wandsb2.jpg---
 
 ## Overview
 

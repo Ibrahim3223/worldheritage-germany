@@ -4,13 +4,13 @@ site_name: "Burg Güttersbach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mossautal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mossautal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012149"
 latitude: 49.616
 longitude: 8.91041
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg-Guettersbach-ODW_01.JPG/400px-Burg-Guettersbach-ODW_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg-Guettersbach-ODW_01.JPG/800px-Burg-Guettersbach-ODW_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg-Guettersbach-ODW_01.JPG/1200px-Burg-Guettersbach-ODW_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg-Guettersbach-ODW_01.JPG/1920px-Burg-Guettersbach-ODW_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg-Guettersbach-ODW_01.JPG/1920px-Burg-Guettersbach-ODW_01.JPG---
 
 ## Overview
 

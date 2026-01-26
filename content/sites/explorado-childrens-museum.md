@@ -4,19 +4,18 @@ site_name: "Explorado Children's Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q20827142"
 latitude: 51.440549
 longitude: 6.770668
 images:
-  []
----
+  []---
 
 ## Overview
 

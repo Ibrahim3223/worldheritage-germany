@@ -4,13 +4,13 @@ site_name: "Bode Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q157825"
 latitude: 52.521944444
 longitude: 13.394722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/400px-Berlin_Museumsinsel_Fernsehturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/800px-Berlin_Museumsinsel_Fernsehturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/1200px-Berlin_Museumsinsel_Fernsehturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/1920px-Berlin_Museumsinsel_Fernsehturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/1920px-Berlin_Museumsinsel_Fernsehturm.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über den Hohendorfer Bach Bad Brambach"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bad Brambach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bad Brambach"
+  - "Bavaria"
 wikidata_id: "Q49439401"
 latitude: 50.218785
 longitude: 12.307319
 images:
-  []
----
+  []---
 
 ## Overview
 

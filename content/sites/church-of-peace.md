@@ -4,13 +4,13 @@ site_name: "Church of Peace"
 date: 2026-01-26
 draft: false
 description: "church in Potsdam"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q819742"
 latitude: 52.400966
 longitude: 13.043411
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/400px-Friedenskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/800px-Friedenskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1200px-Friedenskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1920px-Friedenskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1920px-Friedenskirche.jpg---
 
 ## Overview
 

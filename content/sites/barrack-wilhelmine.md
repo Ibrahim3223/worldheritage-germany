@@ -4,13 +4,13 @@ site_name: "Barrack Wilhelmine"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Schwanewede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwanewede"
+  - "Bremen"
 wikidata_id: "Q56007"
 latitude: 53.2234
 longitude: 8.54258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg/400px-Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg/800px-Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg/1200px-Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg/1920px-Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg/1920px-Baracke_Wilhelmine_Schwanewede_(2012)-01.jpg---
 
 ## Overview
 

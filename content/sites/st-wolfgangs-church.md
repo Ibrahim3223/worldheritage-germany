@@ -4,13 +4,13 @@ site_name: "St. Wolfgang's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Schneeberg, Erzgebirgskreis, Saxony, Germany"
-region: "Schneeberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schneeberg"
+  - "Bavaria"
 wikidata_id: "Q879378"
 latitude: 50.59388889
 longitude: 12.64416667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/400px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/800px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/1200px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/1920px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/1920px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg---
 
 ## Overview
 

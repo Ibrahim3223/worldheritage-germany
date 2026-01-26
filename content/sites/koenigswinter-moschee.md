@@ -4,13 +4,13 @@ site_name: "Königswinter-Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee in Deutschland"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1796531"
 latitude: 50.6701
 longitude: 7.19694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/400px-Moschee_Koenigswinter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/800px-Moschee_Koenigswinter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/1200px-Moschee_Koenigswinter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/1920px-Moschee_Koenigswinter.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/1920px-Moschee_Koenigswinter.jpg---
 
 ## Overview
 

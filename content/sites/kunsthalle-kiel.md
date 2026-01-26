@@ -4,13 +4,13 @@ site_name: "Kunsthalle Kiel"
 date: 2026-01-26
 draft: false
 description: "art museum in Kiel"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q327540"
 latitude: 54.32861111
 longitude: 10.14611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kunsthalle_zu_Kiel.jpg/400px-Kunsthalle_zu_Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kunsthalle_zu_Kiel.jpg/800px-Kunsthalle_zu_Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kunsthalle_zu_Kiel.jpg/1200px-Kunsthalle_zu_Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kunsthalle_zu_Kiel.jpg/1920px-Kunsthalle_zu_Kiel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kunsthalle_zu_Kiel.jpg/1920px-Kunsthalle_zu_Kiel.jpg---
 
 ## Overview
 

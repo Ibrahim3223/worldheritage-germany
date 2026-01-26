@@ -4,13 +4,13 @@ site_name: "Dorfkirche Tarnow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Tarnow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tarnow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244752"
 latitude: 53.7781
 longitude: 12.0178
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/400px-Tarnow,_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/800px-Tarnow,_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1200px-Tarnow,_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1920px-Tarnow,_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1920px-Tarnow,_Kirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rathaus Osterholz-Scharmbeck"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Osterholz-Scharmbeck"
-region: "Osterholz-Scharmbeck"
+region: "Bremen"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Osterholz-Scharmbeck"
+  - "Bremen"
 wikidata_id: "Q132446526"
 latitude: 53.226929
 longitude: 8.794696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rathaus_Osterholz-Scharmbeck.jpg/400px-Rathaus_Osterholz-Scharmbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rathaus_Osterholz-Scharmbeck.jpg/800px-Rathaus_Osterholz-Scharmbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rathaus_Osterholz-Scharmbeck.jpg/1200px-Rathaus_Osterholz-Scharmbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rathaus_Osterholz-Scharmbeck.jpg/1920px-Rathaus_Osterholz-Scharmbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rathaus_Osterholz-Scharmbeck.jpg/1920px-Rathaus_Osterholz-Scharmbeck.jpg---
 
 ## Overview
 

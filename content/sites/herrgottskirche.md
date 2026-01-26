@@ -4,13 +4,13 @@ site_name: "Herrgottskirche"
 date: 2026-01-26
 draft: false
 description: "church building and museum in Creglingen, Germany"
-region: "Creglingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Creglingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1170495"
 latitude: 49.458236
 longitude: 10.031708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/400px-Creglingen,_Herrgottskirche_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/800px-Creglingen,_Herrgottskirche_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1200px-Creglingen,_Herrgottskirche_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1920px-Creglingen,_Herrgottskirche_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1920px-Creglingen,_Herrgottskirche_001.JPG---
 
 ## Overview
 

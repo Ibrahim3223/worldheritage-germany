@@ -4,13 +4,13 @@ site_name: "Fellner-Doline"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Gößweinstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Gößweinstein"
+  - "Bavaria"
 wikidata_id: "Q1335119"
 latitude: 49.7667
 longitude: 11.3507
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fellnerdoline_03.jpg/400px-Fellnerdoline_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fellnerdoline_03.jpg/800px-Fellnerdoline_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fellnerdoline_03.jpg/1200px-Fellnerdoline_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fellnerdoline_03.jpg/1920px-Fellnerdoline_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fellnerdoline_03.jpg/1920px-Fellnerdoline_03.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dortmund-Kruckel station"
 date: 2026-01-26
 draft: false
 description: "railway station in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q316419"
 latitude: 51.4584
 longitude: 7.41589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/400px-Dortmund-Kruckel_Bahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/800px-Dortmund-Kruckel_Bahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/1200px-Dortmund-Kruckel_Bahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/1920px-Dortmund-Kruckel_Bahnhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/1920px-Dortmund-Kruckel_Bahnhof.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Glasmuseum Spiegelberg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Spiegelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Spiegelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1529703"
 latitude: 49.0378
 longitude: 9.44654
 images:
-  []
----
+  []---
 
 ## Overview
 

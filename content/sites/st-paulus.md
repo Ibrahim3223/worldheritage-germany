@@ -4,13 +4,13 @@ site_name: "St. Paulus"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q975571"
 latitude: 51.5393
 longitude: 9.9438
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Göttingen_asv2022-06_img11_StPaulus.jpg/400px-Göttingen_asv2022-06_img11_StPaulus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Göttingen_asv2022-06_img11_StPaulus.jpg/800px-Göttingen_asv2022-06_img11_StPaulus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Göttingen_asv2022-06_img11_StPaulus.jpg/1200px-Göttingen_asv2022-06_img11_StPaulus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Göttingen_asv2022-06_img11_StPaulus.jpg/1920px-Göttingen_asv2022-06_img11_StPaulus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Göttingen_asv2022-06_img11_StPaulus.jpg/1920px-Göttingen_asv2022-06_img11_StPaulus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Cölner Hofbräu Früh"
 date: 2026-01-26
 draft: false
 description: "German beer brewery"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153852"
 latitude: 50.939722222
 longitude: 6.957222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/400px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/800px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1200px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1920px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1920px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg---
 
 ## Overview
 

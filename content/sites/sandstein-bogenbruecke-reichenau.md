@@ -4,19 +4,18 @@ site_name: "Sandstein-Bogenbrücke Reichenau"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hartmannsdorf-Reichenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hartmannsdorf-Reichenau"
+  - "Saxony"
 wikidata_id: "Q49442237"
 latitude: 50.792132769
 longitude: 13.614583806
 images:
-  []
----
+  []---
 
 ## Overview
 

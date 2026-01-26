@@ -4,13 +4,13 @@ site_name: "Günter Grass House"
 date: 2026-01-26
 draft: false
 description: "building in Lübeck devoted to Günter Grass"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1560511"
 latitude: 53.8694
 longitude: 10.69
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/400px-Guenter-Grass-Haus_Luebeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/800px-Guenter-Grass-Haus_Luebeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1200px-Guenter-Grass-Haus_Luebeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1920px-Guenter-Grass-Haus_Luebeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1920px-Guenter-Grass-Haus_Luebeck.jpg---
 
 ## Overview
 

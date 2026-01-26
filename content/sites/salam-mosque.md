@@ -4,13 +4,13 @@ site_name: "Salam Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Iserlohn, Germany"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q123479994"
 latitude: 51.407294629
 longitude: 7.692577654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Salam_Moschee_Iserlohn.jpg/400px-Salam_Moschee_Iserlohn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Salam_Moschee_Iserlohn.jpg/800px-Salam_Moschee_Iserlohn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Salam_Moschee_Iserlohn.jpg/1200px-Salam_Moschee_Iserlohn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Salam_Moschee_Iserlohn.jpg/1920px-Salam_Moschee_Iserlohn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Salam_Moschee_Iserlohn.jpg/1920px-Salam_Moschee_Iserlohn.jpg---
 
 ## Overview
 

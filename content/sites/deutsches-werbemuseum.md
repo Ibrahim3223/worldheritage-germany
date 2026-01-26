@@ -4,19 +4,18 @@ site_name: "Deutsches Werbemuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1206100"
 latitude: 50.0996
 longitude: 8.68101
 images:
-  []
----
+  []---
 
 ## Overview
 

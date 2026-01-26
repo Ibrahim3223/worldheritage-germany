@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/400px-DESY_sign_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/800px-DESY_sign_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/1200px-DESY_sign_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/1920px-DESY_sign_Hamburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/1920px-DESY_sign_Hamburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Maria in Jerusalem"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt-Nord, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1764717"
 latitude: 50.9378
 longitude: 6.95851
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg/400px-Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg/800px-Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg/1200px-Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg/1920px-Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg/1920px-Köln,_Ratskapelle_von_Nordosten,_1873-1876.jpg---
 
 ## Overview
 

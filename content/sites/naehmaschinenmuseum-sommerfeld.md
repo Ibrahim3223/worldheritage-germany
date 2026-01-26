@@ -4,13 +4,13 @@ site_name: "Nähmaschinenmuseum Sommerfeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kremmen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kremmen"
+  - "Brandenburg"
 wikidata_id: "Q2006386"
 latitude: 52.8011
 longitude: 13.0326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/400px-Nähmaschinenmuseum_Sommerfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/800px-Nähmaschinenmuseum_Sommerfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/1200px-Nähmaschinenmuseum_Sommerfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/1920px-Nähmaschinenmuseum_Sommerfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/1920px-Nähmaschinenmuseum_Sommerfeld.jpg---
 
 ## Overview
 

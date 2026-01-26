@@ -4,13 +4,13 @@ site_name: "Hatzumer Sand"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Moormerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Moormerland"
+  - "Lower Saxony"
 wikidata_id: "Q1589094"
 latitude: 53.3056
 longitude: 7.35306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flug_Leer_nach_Emden_2010_211.JPG/400px-Flug_Leer_nach_Emden_2010_211.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flug_Leer_nach_Emden_2010_211.JPG/800px-Flug_Leer_nach_Emden_2010_211.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flug_Leer_nach_Emden_2010_211.JPG/1200px-Flug_Leer_nach_Emden_2010_211.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flug_Leer_nach_Emden_2010_211.JPG/1920px-Flug_Leer_nach_Emden_2010_211.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flug_Leer_nach_Emden_2010_211.JPG/1920px-Flug_Leer_nach_Emden_2010_211.JPG---
 
 ## Overview
 

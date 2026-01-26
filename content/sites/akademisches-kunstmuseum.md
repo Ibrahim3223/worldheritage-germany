@@ -4,13 +4,13 @@ site_name: "Akademisches Kunstmuseum"
 date: 2026-01-26
 draft: false
 description: "art museum in Bonn"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q414952"
 latitude: 50.73182
 longitude: 7.106187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/400px-20070404_bonn_akademischemuseum04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/800px-20070404_bonn_akademischemuseum04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1200px-20070404_bonn_akademischemuseum04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1920px-20070404_bonn_akademischemuseum04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1920px-20070404_bonn_akademischemuseum04.jpg---
 
 ## Overview
 

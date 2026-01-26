@@ -4,13 +4,13 @@ site_name: "St. Michael (Dormagen)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dormagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dormagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1298333"
 latitude: 51.0909
 longitude: 6.84261
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dormagen_StMichael-2.jpg/400px-Dormagen_StMichael-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dormagen_StMichael-2.jpg/800px-Dormagen_StMichael-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dormagen_StMichael-2.jpg/1200px-Dormagen_StMichael-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dormagen_StMichael-2.jpg/1920px-Dormagen_StMichael-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dormagen_StMichael-2.jpg/1920px-Dormagen_StMichael-2.jpg---
 
 ## Overview
 

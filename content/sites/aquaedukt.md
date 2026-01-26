@@ -4,19 +4,18 @@ site_name: "Aquädukt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gammelsbach, Hesse, Germany"
-region: "Gammelsbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Gammelsbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q47544688"
 latitude: 49.5031808
 longitude: 8.9587714
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church in Eickelberg"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Warnow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Warnow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244253"
 latitude: 53.7745
 longitude: 11.8173
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/400px-Eickelberg_Kirche_2009-07-16_005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/800px-Eickelberg_Kirche_2009-07-16_005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1200px-Eickelberg_Kirche_2009-07-16_005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1920px-Eickelberg_Kirche_2009-07-16_005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1920px-Eickelberg_Kirche_2009-07-16_005.jpg---
 
 ## Overview
 

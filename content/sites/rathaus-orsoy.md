@@ -4,13 +4,13 @@ site_name: "Rathaus Orsoy"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Orsoy, Rheinberg"
-region: "Orsoy"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Orsoy"
+  - "Lower Saxony"
 wikidata_id: "Q124287482"
 latitude: 51.52346522
 longitude: 6.687369054
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/400px-Rathaus_Orsoy.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/800px-Rathaus_Orsoy.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/1200px-Rathaus_Orsoy.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/1920px-Rathaus_Orsoy.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/1920px-Rathaus_Orsoy.jpg---
 
 ## Overview
 

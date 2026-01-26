@@ -4,13 +4,13 @@ site_name: "Neu St. Heribert (Köln)"
 date: 2026-01-26
 draft: false
 description: "church building in Deutz, Germany"
-region: "Deutz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Deutz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1600256"
 latitude: 50.936238
 longitude: 6.972988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/400px-Deutz_Neu_Heribert_Innenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/800px-Deutz_Neu_Heribert_Innenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/1200px-Deutz_Neu_Heribert_Innenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/1920px-Deutz_Neu_Heribert_Innenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/1920px-Deutz_Neu_Heribert_Innenansicht.jpg---
 
 ## Overview
 

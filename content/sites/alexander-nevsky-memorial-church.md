@@ -4,13 +4,13 @@ site_name: "Alexander Nevsky Memorial Church"
 date: 2026-01-26
 draft: false
 description: "church in Potsdam"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q464437"
 latitude: 52.415183
 longitude: 13.057717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam_Alexandrowka_02-14_img6.jpg/400px-Potsdam_Alexandrowka_02-14_img6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam_Alexandrowka_02-14_img6.jpg/800px-Potsdam_Alexandrowka_02-14_img6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam_Alexandrowka_02-14_img6.jpg/1200px-Potsdam_Alexandrowka_02-14_img6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam_Alexandrowka_02-14_img6.jpg/1920px-Potsdam_Alexandrowka_02-14_img6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam_Alexandrowka_02-14_img6.jpg/1920px-Potsdam_Alexandrowka_02-14_img6.jpg---
 
 ## Overview
 

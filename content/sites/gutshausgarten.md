@@ -4,19 +4,18 @@ site_name: "Gutshausgarten"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-127-78 (2) in Hammelburg, Bavaria"
-region: "Hammelburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Hammelburg"
+  - "Bavaria"
 wikidata_id: "Q98485757"
 latitude: 50.050871953
 longitude: 9.869948221
 images:
-  []
----
+  []---
 
 ## Overview
 

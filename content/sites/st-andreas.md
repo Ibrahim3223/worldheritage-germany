@@ -4,13 +4,13 @@ site_name: "St. Andreas"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Homburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Homburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1369563"
 latitude: 49.3442
 longitude: 7.33492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/400px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/800px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/1200px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/1920px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/1920px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG---
 
 ## Overview
 

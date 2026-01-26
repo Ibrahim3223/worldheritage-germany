@@ -4,13 +4,13 @@ site_name: "Garz castle"
 date: 2026-01-26
 draft: false
 description: "castle in Temnitztal, Brandenburg state, Germany"
-region: "Temnitztal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Temnitztal"
+  - "Brandenburg"
 wikidata_id: "Q1011911"
 latitude: 52.8406
 longitude: 12.6311
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Garz_01.jpg/400px-Garz_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Garz_01.jpg/800px-Garz_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Garz_01.jpg/1200px-Garz_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Garz_01.jpg/1920px-Garz_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Garz_01.jpg/1920px-Garz_01.jpg---
 
 ## Overview
 

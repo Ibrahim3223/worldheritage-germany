@@ -4,13 +4,13 @@ site_name: "Altrathen Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rathen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rathen"
+  - "Saxony"
 wikidata_id: "Q885075"
 latitude: 50.9588
 longitude: 14.0806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/400px-Burg-Altrathen2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/800px-Burg-Altrathen2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/1200px-Burg-Altrathen2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/1920px-Burg-Altrathen2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/1920px-Burg-Altrathen2.jpg---
 
 ## Overview
 

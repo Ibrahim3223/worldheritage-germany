@@ -4,13 +4,13 @@ site_name: "St. Leonhard (Burgau)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Burgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Burgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1738364"
 latitude: 48.4322
 longitude: 10.4033
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/400px-Burgau_St._Leonhard_1747.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/800px-Burgau_St._Leonhard_1747.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/1200px-Burgau_St._Leonhard_1747.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/1920px-Burgau_St._Leonhard_1747.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/1920px-Burgau_St._Leonhard_1747.JPG---
 
 ## Overview
 

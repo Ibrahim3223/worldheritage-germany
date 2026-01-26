@@ -4,19 +4,18 @@ site_name: "Villengarten Nähe Schmalwieser Weg in Weißenburg in Bayern"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-77-177-300 (1) in Weißenburg in Bayern, Bavaria"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q98634892"
 latitude: 49.036275746
 longitude: 10.970791311
 images:
-  []
----
+  []---
 
 ## Overview
 

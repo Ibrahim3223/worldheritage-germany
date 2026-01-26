@@ -4,13 +4,13 @@ site_name: "Alte Synagoge (Magdeburg)"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q436301"
 latitude: 52.1331
 longitude: 11.6367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/400px-Alte_Synagoge_Magdeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/800px-Alte_Synagoge_Magdeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1200px-Alte_Synagoge_Magdeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1920px-Alte_Synagoge_Magdeburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1920px-Alte_Synagoge_Magdeburg.jpg---
 
 ## Overview
 

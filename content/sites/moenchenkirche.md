@@ -4,13 +4,13 @@ site_name: "Mönchenkirche"
 date: 2026-01-26
 draft: false
 description: "secularized church building in Jüterbog, Teltow-Fläming district, Brandenburg state, Germany"
-region: "Jüterbog"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jüterbog"
+  - "Brandenburg"
 wikidata_id: "Q1957979"
 latitude: 51.991944444
 longitude: 13.077916666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Möchenkirche_Am_Frauentor_Jüterbog.jpg/400px-Möchenkirche_Am_Frauentor_Jüterbog.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Möchenkirche_Am_Frauentor_Jüterbog.jpg/800px-Möchenkirche_Am_Frauentor_Jüterbog.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Möchenkirche_Am_Frauentor_Jüterbog.jpg/1200px-Möchenkirche_Am_Frauentor_Jüterbog.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Möchenkirche_Am_Frauentor_Jüterbog.jpg/1920px-Möchenkirche_Am_Frauentor_Jüterbog.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Möchenkirche_Am_Frauentor_Jüterbog.jpg/1920px-Möchenkirche_Am_Frauentor_Jüterbog.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Talsperre Tambach-Dietharz"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Tambach-Dietharz"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Tambach-Dietharz"
+  - "Thuringia"
 wikidata_id: "Q1476198"
 latitude: 50.7872
 longitude: 10.6219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/400px-Tambach-Dietharz-Stausee2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/800px-Tambach-Dietharz-Stausee2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/1200px-Tambach-Dietharz-Stausee2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/1920px-Tambach-Dietharz-Stausee2007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/1920px-Tambach-Dietharz-Stausee2007.jpg---
 
 ## Overview
 

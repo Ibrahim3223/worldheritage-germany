@@ -4,13 +4,13 @@ site_name: "Wallnau / Fehmarn"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Fehmarn"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Fehmarn"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q896492"
 latitude: 54.472777777
 longitude: 11.021388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/400px-Wallnau_area.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/800px-Wallnau_area.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/1200px-Wallnau_area.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/1920px-Wallnau_area.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/1920px-Wallnau_area.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gautor (Oppenheim)"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Oppenheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Oppenheim"
+  - "Hesse"
 wikidata_id: "Q1496322"
 latitude: 49.852249
 longitude: 8.352836
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/400px-Gautor-Oppenheim_innen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/800px-Gautor-Oppenheim_innen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/1200px-Gautor-Oppenheim_innen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/1920px-Gautor-Oppenheim_innen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/1920px-Gautor-Oppenheim_innen.jpg---
 
 ## Overview
 

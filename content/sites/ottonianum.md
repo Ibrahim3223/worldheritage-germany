@@ -4,19 +4,18 @@ site_name: "Ottonianum"
 date: 2026-01-26
 draft: false
 description: "school building in Landshut, Germany"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q1646419"
 latitude: 48.530833333
 longitude: 12.149166666
 images:
-  []
----
+  []---
 
 ## Overview
 

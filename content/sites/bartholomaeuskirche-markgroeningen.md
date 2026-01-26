@@ -4,13 +4,13 @@ site_name: "Bartholomäuskirche Markgröningen"
 date: 2026-01-26
 draft: false
 description: "church building in Markgröningen, Baden-Württemberg, Germany"
-region: "Markgröningen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Markgröningen"
+  - "Baden-Württemberg"
 wikidata_id: "Q809402"
 latitude: 48.9048
 longitude: 9.08161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/400px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/800px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1200px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1920px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1920px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg---
 
 ## Overview
 

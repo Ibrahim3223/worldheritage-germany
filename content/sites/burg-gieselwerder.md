@@ -4,13 +4,13 @@ site_name: "Burg Gieselwerder"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gieselwerder"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gieselwerder"
+  - "Hesse"
 wikidata_id: "Q1011956"
 latitude: 51.6001
 longitude: 9.5516
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gieselwerder_01.jpg/400px-Gieselwerder_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gieselwerder_01.jpg/800px-Gieselwerder_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gieselwerder_01.jpg/1200px-Gieselwerder_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gieselwerder_01.jpg/1920px-Gieselwerder_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gieselwerder_01.jpg/1920px-Gieselwerder_01.jpg---
 
 ## Overview
 

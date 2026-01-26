@@ -4,13 +4,13 @@ site_name: "Maritim Hotel Lübeck-Travemünde"
 date: 2026-01-26
 draft: false
 description: "building in Lübeck, Schleswig-Holstein, Germany"
-region: "Travemünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Travemünde"
+  - "Lower Saxony"
 wikidata_id: "Q1899371"
 latitude: 53.961666666
 longitude: 10.881944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/400px-Travemuende-Leuchtturm_mit_Maritim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/800px-Travemuende-Leuchtturm_mit_Maritim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/1200px-Travemuende-Leuchtturm_mit_Maritim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/1920px-Travemuende-Leuchtturm_mit_Maritim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/1920px-Travemuende-Leuchtturm_mit_Maritim.jpg---
 
 ## Overview
 

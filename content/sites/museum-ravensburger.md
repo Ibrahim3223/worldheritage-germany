@@ -4,13 +4,13 @@ site_name: "Museum Ravensburger"
 date: 2026-01-26
 draft: false
 description: "corporate museum of the Ravensburger publishing house in Ravensburg, Germany"
-region: "Ravensburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ravensburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q18760637"
 latitude: 47.7803
 longitude: 9.615542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg/400px-Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg/800px-Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg/1200px-Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg/1920px-Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg/1920px-Museum_Ravensburger_in_der_Marktstraße_in_Ravensburg_(2025).jpg---
 
 ## Overview
 

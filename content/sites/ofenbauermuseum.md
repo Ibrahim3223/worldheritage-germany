@@ -4,13 +4,13 @@ site_name: "Ofenbauermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Westerburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Westerburg"
+  - "Hesse"
 wikidata_id: "Q2015389"
 latitude: 50.557014
 longitude: 7.955594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GershasenWesterburgBackesBackhaus2.jpg/400px-GershasenWesterburgBackesBackhaus2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GershasenWesterburgBackesBackhaus2.jpg/800px-GershasenWesterburgBackesBackhaus2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GershasenWesterburgBackesBackhaus2.jpg/1200px-GershasenWesterburgBackesBackhaus2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GershasenWesterburgBackesBackhaus2.jpg/1920px-GershasenWesterburgBackesBackhaus2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GershasenWesterburgBackesBackhaus2.jpg/1920px-GershasenWesterburgBackesBackhaus2.jpg---
 
 ## Overview
 

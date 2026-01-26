@@ -4,13 +4,13 @@ site_name: "Bottenbroich Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Rhein-Erft District"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Rhein-Erft District"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q744788"
 latitude: 50.885
 longitude: 6.73806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg/400px-Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg/800px-Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg/1200px-Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg/1920px-Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg/1920px-Stadtarchiv_Kerpen,_BA_00429,_Das_ehemalige_Kloster_in_Alt-Bottenbroich.tif.jpg---
 
 ## Overview
 

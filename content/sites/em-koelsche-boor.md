@@ -4,13 +4,13 @@ site_name: "Em Kölsche Boor"
 date: 2026-01-26
 draft: false
 description: "inn"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q969673"
 latitude: 50.9487
 longitude: 6.95675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/400px-Em_Kölsche_Boor-8721.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/800px-Em_Kölsche_Boor-8721.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/1200px-Em_Kölsche_Boor-8721.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/1920px-Em_Kölsche_Boor-8721.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/1920px-Em_Kölsche_Boor-8721.jpg---
 
 ## Overview
 

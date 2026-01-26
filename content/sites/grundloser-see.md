@@ -4,13 +4,13 @@ site_name: "Grundloser See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "District of Rosenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "District of Rosenheim"
+  - "Bavaria"
 wikidata_id: "Q253923"
 latitude: 47.915
 longitude: 12.4181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lienzing_Orthofoto.jpg/400px-Lienzing_Orthofoto.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lienzing_Orthofoto.jpg/800px-Lienzing_Orthofoto.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lienzing_Orthofoto.jpg/1200px-Lienzing_Orthofoto.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lienzing_Orthofoto.jpg/1920px-Lienzing_Orthofoto.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lienzing_Orthofoto.jpg/1920px-Lienzing_Orthofoto.jpg---
 
 ## Overview
 

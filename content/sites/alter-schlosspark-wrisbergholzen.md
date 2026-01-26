@@ -4,13 +4,13 @@ site_name: "Alter Schloßpark Wrisbergholzen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Sibbesse"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Sibbesse"
+  - "Lower Saxony"
 wikidata_id: "Q438174"
 latitude: 52.0306
 longitude: 9.91861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/400px-Wrisbergholzen_Teich_Baum_Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/800px-Wrisbergholzen_Teich_Baum_Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/1200px-Wrisbergholzen_Teich_Baum_Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/1920px-Wrisbergholzen_Teich_Baum_Sommer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/1920px-Wrisbergholzen_Teich_Baum_Sommer.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bernward Monument"
 date: 2026-01-26
 draft: false
 description: "statue in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q826941"
 latitude: 52.1491
 longitude: 9.94633
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/400px-Bernwardsdenkmal_(2019).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/800px-Bernwardsdenkmal_(2019).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/1200px-Bernwardsdenkmal_(2019).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/1920px-Bernwardsdenkmal_(2019).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/1920px-Bernwardsdenkmal_(2019).jpg---
 
 ## Overview
 

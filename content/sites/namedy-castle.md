@@ -4,13 +4,13 @@ site_name: "Namedy Castle"
 date: 2026-01-26
 draft: false
 description: "Rhine valley castle, Germany"
-region: "Andernach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Andernach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013194"
 latitude: 50.4559
 longitude: 7.35666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/400px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/800px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/1200px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/1920px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/1920px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Scharnitz Abbey"
 date: 2026-01-26
 draft: false
 description: "Benedictine monastery in Mittenwald in Bavaria, Germany"
-region: "Krün"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Krün"
+  - "Bavaria"
 wikidata_id: "Q457336"
 latitude: 47.48187222
 longitude: 11.23874444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/400px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/800px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/1200px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/1920px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/1920px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG---
 
 ## Overview
 

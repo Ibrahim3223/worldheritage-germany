@@ -4,13 +4,13 @@ site_name: "Schäftlarn Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Kloster Schäftlarn on the outskirts of Munich, Bavaria, Germany"
-region: "Schäftlarn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Schäftlarn"
+  - "Bavaria"
 wikidata_id: "Q833178"
 latitude: 47.9786
 longitude: 11.4669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kloster_Schaeftlarn_von_Suedosten-1.jpg/400px-Kloster_Schaeftlarn_von_Suedosten-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kloster_Schaeftlarn_von_Suedosten-1.jpg/800px-Kloster_Schaeftlarn_von_Suedosten-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kloster_Schaeftlarn_von_Suedosten-1.jpg/1200px-Kloster_Schaeftlarn_von_Suedosten-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kloster_Schaeftlarn_von_Suedosten-1.jpg/1920px-Kloster_Schaeftlarn_von_Suedosten-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kloster_Schaeftlarn_von_Suedosten-1.jpg/1920px-Kloster_Schaeftlarn_von_Suedosten-1.jpg---
 
 ## Overview
 

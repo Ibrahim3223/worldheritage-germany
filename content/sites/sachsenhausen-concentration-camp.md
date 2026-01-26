@@ -4,13 +4,13 @@ site_name: "Sachsenhausen concentration camp"
 date: 2026-01-26
 draft: false
 description: "Nazi concentration camp in Oranienburg, Germany (1936-1945)"
-region: "Oranienburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Oranienburg"
+  - "Brandenburg"
 wikidata_id: "Q154498"
 latitude: 52.7662
 longitude: 13.2624
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/400px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/800px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/1200px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/1920px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/1920px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg---
 
 ## Overview
 

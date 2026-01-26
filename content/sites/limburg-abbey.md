@@ -4,13 +4,13 @@ site_name: "Limburg Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Germany"
-region: "Bad Dürkheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Bad Dürkheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q572384"
 latitude: 49.4564
 longitude: 8.14639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/400px-2014_06_22_Klosterruine_Limburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/800px-2014_06_22_Klosterruine_Limburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/1200px-2014_06_22_Klosterruine_Limburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/1920px-2014_06_22_Klosterruine_Limburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/1920px-2014_06_22_Klosterruine_Limburg.jpg---
 
 ## Overview
 

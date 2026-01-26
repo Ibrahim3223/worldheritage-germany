@@ -4,13 +4,13 @@ site_name: "Islamic Centre Hamburg"
 date: 2026-01-26
 draft: false
 description: "mosque"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q668264"
 latitude: 53.574569444
 longitude: 10.008416666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/400px-Imam-Ali-Moschee_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/800px-Imam-Ali-Moschee_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1200px-Imam-Ali-Moschee_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1920px-Imam-Ali-Moschee_Hamburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1920px-Imam-Ali-Moschee_Hamburg.jpg---
 
 ## Overview
 

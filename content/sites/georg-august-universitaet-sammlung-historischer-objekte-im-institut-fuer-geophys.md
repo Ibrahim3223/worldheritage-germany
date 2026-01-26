@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität: Sammlung historischer Objekte im Institut
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636079"
 latitude: 51.54992
 longitude: 9.941888
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alexanderplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q152783"
 latitude: 52.521666666
 longitude: 13.413611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/400px-Berlin_-_Alexanderplatz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/800px-Berlin_-_Alexanderplatz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/1200px-Berlin_-_Alexanderplatz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/1920px-Berlin_-_Alexanderplatz1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/1920px-Berlin_-_Alexanderplatz1.jpg---
 
 ## Overview
 

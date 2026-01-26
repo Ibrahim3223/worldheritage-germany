@@ -4,19 +4,18 @@ site_name: "Siemens-Familien-Stammhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q76636031"
 latitude: 51.904363
 longitude: 10.423575
 images:
-  []
----
+  []---
 
 ## Overview
 

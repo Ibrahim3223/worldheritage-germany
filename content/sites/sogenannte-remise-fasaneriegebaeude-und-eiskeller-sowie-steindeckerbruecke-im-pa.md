@@ -4,19 +4,18 @@ site_name: "Sogenannte Remise, Fasaneriegebäude und Eiskeller sowie Steindecker
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Malschwitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Malschwitz"
+  - "Saxony"
 wikidata_id: "Q49408748"
 latitude: 51.223683
 longitude: 14.59
 images:
-  []
----
+  []---
 
 ## Overview
 

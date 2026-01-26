@@ -4,19 +4,18 @@ site_name: "Torhaus Marktplatz 10 in Lonnerstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-72-139-1 (3) in Lonnerstadt, Bavaria"
-region: "Lonnerstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Lonnerstadt"
+  - "Bavaria"
 wikidata_id: "Q98629240"
 latitude: 49.699128705
 longitude: 10.766082913
 images:
-  []
----
+  []---
 
 ## Overview
 

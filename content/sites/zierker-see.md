@@ -4,13 +4,13 @@ site_name: "Zierker See"
 date: 2026-01-26
 draft: false
 description: "lake in Neustrelitz, Mecklenburg-Vorpommern, Germany"
-region: "Neustrelitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Neustrelitz"
+  - "Brandenburg"
 wikidata_id: "Q199102"
 latitude: 53.361513888
 longitude: 13.035963888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2016_Zierker_See_02.jpg/400px-2016_Zierker_See_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2016_Zierker_See_02.jpg/800px-2016_Zierker_See_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2016_Zierker_See_02.jpg/1200px-2016_Zierker_See_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2016_Zierker_See_02.jpg/1920px-2016_Zierker_See_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2016_Zierker_See_02.jpg/1920px-2016_Zierker_See_02.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mutterturm"
 date: 2026-01-26
 draft: false
 description: "heritage-protected building in Landsberg am Lech, Bavaria, Germany"
-region: "Landsberg am Lech"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Landsberg am Lech"
+  - "Bavaria"
 wikidata_id: "Q1349422"
 latitude: 48.0501
 longitude: 10.8711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/400px-Mutterturm_Landsberg_(GER).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/800px-Mutterturm_Landsberg_(GER).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/1200px-Mutterturm_Landsberg_(GER).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/1920px-Mutterturm_Landsberg_(GER).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/1920px-Mutterturm_Landsberg_(GER).jpg---
 
 ## Overview
 

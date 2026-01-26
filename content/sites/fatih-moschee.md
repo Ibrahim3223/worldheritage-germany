@@ -4,13 +4,13 @@ site_name: "Fatih Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee in Essen"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1398075"
 latitude: 51.5053
 longitude: 7.04889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moschee_Essen_DSCF5951.jpg/400px-Moschee_Essen_DSCF5951.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moschee_Essen_DSCF5951.jpg/800px-Moschee_Essen_DSCF5951.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moschee_Essen_DSCF5951.jpg/1200px-Moschee_Essen_DSCF5951.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moschee_Essen_DSCF5951.jpg/1920px-Moschee_Essen_DSCF5951.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moschee_Essen_DSCF5951.jpg/1920px-Moschee_Essen_DSCF5951.jpg---
 
 ## Overview
 

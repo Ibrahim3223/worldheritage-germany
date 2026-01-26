@@ -4,19 +4,18 @@ site_name: "Palais Lüttichau"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2047091"
 latitude: 51.0447
 longitude: 13.7439
 images:
-  []
----
+  []---
 
 ## Overview
 

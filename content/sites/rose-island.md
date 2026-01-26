@@ -4,13 +4,13 @@ site_name: "Rose Island"
 date: 2026-01-26
 draft: false
 description: "island in Lake Starnberg, Feldafing, Germany"
-region: "Feldafing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Feldafing"
+  - "Bavaria"
 wikidata_id: "Q263567"
 latitude: 47.941554206
 longitude: 11.308772468
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/400px-Roseninsel_vom_Feldafinger_Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/800px-Roseninsel_vom_Feldafinger_Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/1200px-Roseninsel_vom_Feldafinger_Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/1920px-Roseninsel_vom_Feldafinger_Park.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/1920px-Roseninsel_vom_Feldafinger_Park.jpg---
 
 ## Overview
 

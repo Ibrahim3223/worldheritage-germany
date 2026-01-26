@@ -4,13 +4,13 @@ site_name: "Burg Jungnau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Jungnau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Jungnau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012583"
 latitude: 48.1402
 longitude: 9.2097
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/400px-Jungnau-Kirche-und-Bergfried.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/800px-Jungnau-Kirche-und-Bergfried.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/1200px-Jungnau-Kirche-und-Bergfried.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/1920px-Jungnau-Kirche-und-Bergfried.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/1920px-Jungnau-Kirche-und-Bergfried.JPG---
 
 ## Overview
 

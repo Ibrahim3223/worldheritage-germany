@@ -4,19 +4,18 @@ site_name: "Plastinarium"
 date: 2026-01-26
 draft: false
 description: "German museum of corpse plastination"
-region: "Guben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Guben"
+  - "Brandenburg"
 wikidata_id: "Q11819445"
 latitude: 51.9587
 longitude: 14.7109
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Baakensmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Voltlage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Voltlage"
+  - "Lower Saxony"
 wikidata_id: "Q797460"
 latitude: 52.4236
 longitude: 7.77389
 images:
-  []
----
+  []---
 
 ## Overview
 

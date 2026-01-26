@@ -4,13 +4,13 @@ site_name: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zinnberg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Penig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Penig"
+  - "Saxony"
 wikidata_id: "Q49449204"
 latitude: 50.91386
 longitude: 12.6816
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Eisenbahnbrücke_Muldentalbahn_45557.JPG/400px-Eisenbahnbrücke_Muldentalbahn_45557.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Eisenbahnbrücke_Muldentalbahn_45557.JPG/800px-Eisenbahnbrücke_Muldentalbahn_45557.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Eisenbahnbrücke_Muldentalbahn_45557.JPG/1200px-Eisenbahnbrücke_Muldentalbahn_45557.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Eisenbahnbrücke_Muldentalbahn_45557.JPG/1920px-Eisenbahnbrücke_Muldentalbahn_45557.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Eisenbahnbrücke_Muldentalbahn_45557.JPG/1920px-Eisenbahnbrücke_Muldentalbahn_45557.JPG---
 
 ## Overview
 

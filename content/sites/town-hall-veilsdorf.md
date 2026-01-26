@@ -4,13 +4,13 @@ site_name: "Town hall Veilsdorf"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Veilsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Veilsdorf"
+  - "Bavaria"
 wikidata_id: "Q134706130"
 latitude: 50.40799
 longitude: 10.80928
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/400px-Veilsdorf-Rathaus-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/800px-Veilsdorf-Rathaus-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/1200px-Veilsdorf-Rathaus-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/1920px-Veilsdorf-Rathaus-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/1920px-Veilsdorf-Rathaus-01.jpg---
 
 ## Overview
 

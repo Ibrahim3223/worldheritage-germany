@@ -4,13 +4,13 @@ site_name: "Grabstätte Thielenberg"
 date: 2026-01-26
 draft: false
 description: "tomb in Eisenhüttenstadt, Brandenburg, Germany"
-region: "Eisenhüttenstadt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Eisenhüttenstadt"
+  - "Brandenburg"
 wikidata_id: "Q113018522"
 latitude: 52.147469298
 longitude: 14.672295541
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/400px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/800px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/1200px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/1920px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/1920px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg---
 
 ## Overview
 

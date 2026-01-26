@@ -4,13 +4,13 @@ site_name: "St. Maria"
 date: 2026-01-26
 draft: false
 description: "church building in Hannover, Germany"
-region: "Nord"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nord"
+  - "Lower Saxony"
 wikidata_id: "Q1448091"
 latitude: 52.3855
 longitude: 9.72786
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/400px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/800px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/1200px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/1920px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/1920px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mäulesmühle"
 date: 2026-01-26
 draft: false
 description: "quarter of Leinfelden-Echterdingen, Baden-Württemberg, Germany"
-region: "Leinfelden-Echterdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leinfelden-Echterdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1030210"
 latitude: 48.6835
 longitude: 9.12829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/400px-Maeulesmuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/800px-Maeulesmuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/1200px-Maeulesmuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/1920px-Maeulesmuehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/1920px-Maeulesmuehle.jpg---
 
 ## Overview
 

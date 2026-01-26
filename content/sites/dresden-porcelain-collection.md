@@ -4,13 +4,13 @@ site_name: "Dresden Porcelain Collection"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q473848"
 latitude: 51.0522
 longitude: 13.7346
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/400px-Dresden-Porzellansammlung.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/800px-Dresden-Porzellansammlung.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1200px-Dresden-Porzellansammlung.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1920px-Dresden-Porzellansammlung.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1920px-Dresden-Porzellansammlung.JPG---
 
 ## Overview
 

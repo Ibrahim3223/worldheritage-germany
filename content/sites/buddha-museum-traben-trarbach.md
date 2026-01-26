@@ -4,13 +4,13 @@ site_name: "Buddha-Museum Traben-Trarbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Traben-Trarbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Traben-Trarbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q15790167"
 latitude: 49.94971
 longitude: 7.110498
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/400px-Trarbach_Oberes_Moselufer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/800px-Trarbach_Oberes_Moselufer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/1200px-Trarbach_Oberes_Moselufer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/1920px-Trarbach_Oberes_Moselufer.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/1920px-Trarbach_Oberes_Moselufer.JPG---
 
 ## Overview
 

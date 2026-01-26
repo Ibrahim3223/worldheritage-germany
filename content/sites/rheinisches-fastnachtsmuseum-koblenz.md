@@ -4,19 +4,18 @@ site_name: "Rheinisches Fastnachtsmuseum Koblenz"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1535025"
 latitude: 50.3509
 longitude: 7.58736
 images:
-  []
----
+  []---
 
 ## Overview
 

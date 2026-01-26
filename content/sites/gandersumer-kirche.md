@@ -4,13 +4,13 @@ site_name: "Gandersumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Moormerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Moormerland"
+  - "Lower Saxony"
 wikidata_id: "Q1493364"
 latitude: 53.323523
 longitude: 7.312125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/400px-ChurchGandersum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/800px-ChurchGandersum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1200px-ChurchGandersum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1920px-ChurchGandersum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1920px-ChurchGandersum.JPG---
 
 ## Overview
 

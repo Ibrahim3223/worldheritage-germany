@@ -4,13 +4,13 @@ site_name: "St. Mary's Church, Reutlingen"
 date: 2026-01-26
 draft: false
 description: "church in Reutlingen, Germany"
-region: "Reutlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reutlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1897859"
 latitude: 48.491111111
 longitude: 9.213333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/400px-Reutlingen_Marienkirche_2012-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/800px-Reutlingen_Marienkirche_2012-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/1200px-Reutlingen_Marienkirche_2012-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/1920px-Reutlingen_Marienkirche_2012-04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/1920px-Reutlingen_Marienkirche_2012-04.jpg---
 
 ## Overview
 

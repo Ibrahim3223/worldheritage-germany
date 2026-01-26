@@ -4,13 +4,13 @@ site_name: "Bodenseeufer - Untere Güll"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q889733"
 latitude: 47.70583333
 longitude: 9.18305556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/400px-Konstanz_Bodenseeufer_Untere_Güll.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/800px-Konstanz_Bodenseeufer_Untere_Güll.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/1200px-Konstanz_Bodenseeufer_Untere_Güll.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/1920px-Konstanz_Bodenseeufer_Untere_Güll.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/1920px-Konstanz_Bodenseeufer_Untere_Güll.JPG---
 
 ## Overview
 

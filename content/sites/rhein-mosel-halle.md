@@ -4,13 +4,13 @@ site_name: "Rhein-Mosel-Halle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall and convention centre in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1235994"
 latitude: 50.3531
 longitude: 7.60014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/400px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/800px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/1200px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/1920px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/1920px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg---
 
 ## Overview
 

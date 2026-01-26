@@ -4,13 +4,13 @@ site_name: "Wegekreuz Virneburg"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Langenfeld"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Langenfeld"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1315496"
 latitude: 51.0919
 longitude: 6.98083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/400px-Wegkreuz_Virneburgstr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/800px-Wegkreuz_Virneburgstr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/1200px-Wegkreuz_Virneburgstr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/1920px-Wegkreuz_Virneburgstr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/1920px-Wegkreuz_Virneburgstr.jpg---
 
 ## Overview
 

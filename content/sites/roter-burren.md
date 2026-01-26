@@ -4,13 +4,13 @@ site_name: "Roter Burren"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Plüderhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Plüderhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q114100"
 latitude: 48.8323
 longitude: 9.6063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NSG_Roter_Burren_2013-05-12.JPG/400px-NSG_Roter_Burren_2013-05-12.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NSG_Roter_Burren_2013-05-12.JPG/800px-NSG_Roter_Burren_2013-05-12.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NSG_Roter_Burren_2013-05-12.JPG/1200px-NSG_Roter_Burren_2013-05-12.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NSG_Roter_Burren_2013-05-12.JPG/1920px-NSG_Roter_Burren_2013-05-12.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NSG_Roter_Burren_2013-05-12.JPG/1920px-NSG_Roter_Burren_2013-05-12.JPG---
 
 ## Overview
 

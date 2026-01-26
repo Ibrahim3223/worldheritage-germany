@@ -4,13 +4,13 @@ site_name: "Schlossmuseum Pillnitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2244615"
 latitude: 51.0083
 longitude: 13.8711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/400px-Pillnitz-Wasseransicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/800px-Pillnitz-Wasseransicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/1200px-Pillnitz-Wasseransicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/1920px-Pillnitz-Wasseransicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/1920px-Pillnitz-Wasseransicht.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Zoologischer Garten Halle"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q220245"
 latitude: 51.50527778
 longitude: 11.9625
 images:
-  []
----
+  []---
 
 ## Overview 
 

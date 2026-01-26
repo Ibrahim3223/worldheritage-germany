@@ -4,13 +4,13 @@ site_name: "Burgwall Glienke"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Friedland"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Friedland"
+  - "Brandenburg"
 wikidata_id: "Q1016166"
 latitude: 53.5836
 longitude: 13.4192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burgwall_Glienke.jpg/400px-Burgwall_Glienke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burgwall_Glienke.jpg/800px-Burgwall_Glienke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burgwall_Glienke.jpg/1200px-Burgwall_Glienke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burgwall_Glienke.jpg/1920px-Burgwall_Glienke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burgwall_Glienke.jpg/1920px-Burgwall_Glienke.jpg---
 
 ## Overview
 

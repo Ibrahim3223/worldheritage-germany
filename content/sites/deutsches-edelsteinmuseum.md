@@ -4,13 +4,13 @@ site_name: "Deutsches Edelsteinmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Idar-Oberstein"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Idar-Oberstein"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1205601"
 latitude: 49.7189
 longitude: 7.30444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/400px-Deutsches_Edelsteinmuseum_IO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/800px-Deutsches_Edelsteinmuseum_IO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1200px-Deutsches_Edelsteinmuseum_IO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1920px-Deutsches_Edelsteinmuseum_IO.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1920px-Deutsches_Edelsteinmuseum_IO.JPG---
 
 ## Overview
 

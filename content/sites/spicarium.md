@@ -4,13 +4,13 @@ site_name: "Spicarium"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Vegesack"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Vegesack"
+  - "Bremen"
 wikidata_id: "Q2309691"
 latitude: 53.1674
 longitude: 8.62609
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/400px-Lange-Speicher_2014_(2)_FHB320.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/800px-Lange-Speicher_2014_(2)_FHB320.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/1200px-Lange-Speicher_2014_(2)_FHB320.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/1920px-Lange-Speicher_2014_(2)_FHB320.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/1920px-Lange-Speicher_2014_(2)_FHB320.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Veste Coburg Art Collections"
 date: 2026-01-26
 draft: false
 description: "the former military history collections of the dukes of Coburg are stored and presented on the castle grounds of Coburg Fortress"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q28738504"
 latitude: 50.26405
 longitude: 10.98117
 images:
-  []
----
+  []---
 
 ## Overview
 

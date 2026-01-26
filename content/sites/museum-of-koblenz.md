@@ -4,13 +4,13 @@ site_name: "Museum of Koblenz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1502400"
 latitude: 50.3641
 longitude: 7.61436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/400px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/800px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/1200px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg---
 
 ## Overview
 

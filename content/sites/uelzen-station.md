@@ -4,13 +4,13 @@ site_name: "Uelzen station"
 date: 2026-01-26
 draft: false
 description: "railway station in Uelzen, Germany"
-region: "Uelzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Uelzen"
+  - "Lower Saxony"
 wikidata_id: "Q322286"
 latitude: 52.9697
 longitude: 10.5531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Empfangsgebäude,_Bahnhof_Uelzen.jpg/400px-Empfangsgebäude,_Bahnhof_Uelzen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Empfangsgebäude,_Bahnhof_Uelzen.jpg/800px-Empfangsgebäude,_Bahnhof_Uelzen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Empfangsgebäude,_Bahnhof_Uelzen.jpg/1200px-Empfangsgebäude,_Bahnhof_Uelzen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Empfangsgebäude,_Bahnhof_Uelzen.jpg/1920px-Empfangsgebäude,_Bahnhof_Uelzen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Empfangsgebäude,_Bahnhof_Uelzen.jpg/1920px-Empfangsgebäude,_Bahnhof_Uelzen.jpg---
 
 ## Overview
 

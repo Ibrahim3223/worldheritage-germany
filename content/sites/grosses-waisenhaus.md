@@ -4,13 +4,13 @@ site_name: "Großes Waisenhaus"
 date: 2026-01-26
 draft: false
 description: "Großes Waisenhaus Beatae Mariae Virginis in Braunschweig"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q13405915"
 latitude: 52.261111111
 longitude: 10.524268333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/400px-Grosses_Waisenhaus_BMV.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/800px-Grosses_Waisenhaus_BMV.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/1200px-Grosses_Waisenhaus_BMV.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/1920px-Grosses_Waisenhaus_BMV.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/1920px-Grosses_Waisenhaus_BMV.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Lohra"
 date: 2026-01-26
 draft: false
 description: "big stone grave in Germany"
-region: "Lohra"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Lohra"
+  - "Hesse"
 wikidata_id: "Q246676"
 latitude: 50.7436
 longitude: 8.62361
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Lauenrode"
 date: 2026-01-26
 draft: false
 description: "demolished castle in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q1012865"
 latitude: 52.372489
 longitude: 9.728631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/400px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/800px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/1200px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/1920px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/1920px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Drover-Berg-Tunnel"
 date: 2026-01-26
 draft: false
 description: "Tunnelbauwerk"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q22949144"
 latitude: 50.7254
 longitude: 6.531029
 images:
-  []
----
+  []---
 
 ## Overview
 

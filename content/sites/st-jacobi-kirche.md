@@ -4,13 +4,13 @@ site_name: "St.-Jacobi-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Neustadt in Sachsen, Germany"
-region: "Neustadt in Sachsen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustadt in Sachsen"
+  - "Saxony"
 wikidata_id: "Q2316166"
 latitude: 51.0266
 longitude: 14.2136
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ev_kirche_neustadt_sa1.JPG/400px-Ev_kirche_neustadt_sa1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ev_kirche_neustadt_sa1.JPG/800px-Ev_kirche_neustadt_sa1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ev_kirche_neustadt_sa1.JPG/1200px-Ev_kirche_neustadt_sa1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ev_kirche_neustadt_sa1.JPG/1920px-Ev_kirche_neustadt_sa1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ev_kirche_neustadt_sa1.JPG/1920px-Ev_kirche_neustadt_sa1.JPG---
 
 ## Overview
 

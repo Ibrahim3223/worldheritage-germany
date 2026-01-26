@@ -4,13 +4,13 @@ site_name: "St. Michael (Sausenhofen)"
 date: 2026-01-26
 draft: false
 description: "church building in Dittenheim, Middle Franconia, Germany"
-region: "Dittenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dittenheim"
+  - "Bavaria"
 wikidata_id: "Q3584668"
 latitude: 49.0663
 longitude: 10.7575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/400px-Sausenhofen_2012-05-11_(22-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/800px-Sausenhofen_2012-05-11_(22-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/1200px-Sausenhofen_2012-05-11_(22-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/1920px-Sausenhofen_2012-05-11_(22-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/1920px-Sausenhofen_2012-05-11_(22-2).jpg---
 
 ## Overview
 

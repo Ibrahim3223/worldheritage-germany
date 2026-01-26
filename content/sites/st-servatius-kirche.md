@@ -4,13 +4,13 @@ site_name: "St. Servatius-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Duderstadt, Germany"
-region: "Duderstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Duderstadt"
+  - "Hesse"
 wikidata_id: "Q2323150"
 latitude: 51.5122
 longitude: 10.2574
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/400px-Duderstadt_-_St._Servatius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/800px-Duderstadt_-_St._Servatius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/1200px-Duderstadt_-_St._Servatius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/1920px-Duderstadt_-_St._Servatius.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/1920px-Duderstadt_-_St._Servatius.jpg---
 
 ## Overview
 

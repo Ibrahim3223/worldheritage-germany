@@ -4,13 +4,13 @@ site_name: "Museum Kunst der Westküste"
 date: 2026-01-26
 draft: false
 description: "art museum in Alkersum on the northfrisian island Før"
-region: "Alkersum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Alkersum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q830164"
 latitude: 54.7082
 longitude: 8.51
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alkersum_Kunstmuseum_1.jpg/400px-Alkersum_Kunstmuseum_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alkersum_Kunstmuseum_1.jpg/800px-Alkersum_Kunstmuseum_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alkersum_Kunstmuseum_1.jpg/1200px-Alkersum_Kunstmuseum_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alkersum_Kunstmuseum_1.jpg/1920px-Alkersum_Kunstmuseum_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alkersum_Kunstmuseum_1.jpg/1920px-Alkersum_Kunstmuseum_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Moritzkirche"
 date: 2026-01-26
 draft: false
 description: "late-Gothic church in Halle (Saale), Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1948167"
 latitude: 51.4801
 longitude: 11.9664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/400px-Moritzkirche_1800.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/800px-Moritzkirche_1800.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1200px-Moritzkirche_1800.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1920px-Moritzkirche_1800.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1920px-Moritzkirche_1800.jpg---
 
 ## Overview
 

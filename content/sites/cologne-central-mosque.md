@@ -4,13 +4,13 @@ site_name: "Cologne Central Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q836059"
 latitude: 50.945555555
 longitude: 6.928333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/400px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/800px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1200px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1920px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1920px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg---
 
 ## Overview
 

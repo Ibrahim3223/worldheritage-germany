@@ -4,13 +4,13 @@ site_name: "Museum im Goldschmiedehaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ahlen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ahlen"
+  - "Lower Saxony"
 wikidata_id: "Q23929054"
 latitude: 51.763055555
 longitude: 7.890277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/400px-Goldschmiedehaus_Ahlen.nnw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/800px-Goldschmiedehaus_Ahlen.nnw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/1200px-Goldschmiedehaus_Ahlen.nnw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/1920px-Goldschmiedehaus_Ahlen.nnw.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/1920px-Goldschmiedehaus_Ahlen.nnw.jpg---
 
 ## Overview
 

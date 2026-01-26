@@ -4,13 +4,13 @@ site_name: "Ursberg Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Ursberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ursberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q315373"
 latitude: 48.266328
 longitude: 10.444468
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_image_of_the_Ursberg_Abbey.jpg/400px-Aerial_image_of_the_Ursberg_Abbey.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_image_of_the_Ursberg_Abbey.jpg/800px-Aerial_image_of_the_Ursberg_Abbey.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_image_of_the_Ursberg_Abbey.jpg/1200px-Aerial_image_of_the_Ursberg_Abbey.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_image_of_the_Ursberg_Abbey.jpg/1920px-Aerial_image_of_the_Ursberg_Abbey.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aerial_image_of_the_Ursberg_Abbey.jpg/1920px-Aerial_image_of_the_Ursberg_Abbey.jpg---
 
 ## Overview
 

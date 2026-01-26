@@ -4,13 +4,13 @@ site_name: "Old Castle"
 date: 2026-01-26
 draft: false
 description: "Renaissance castle in Stuttgart, Germany, seat of the Landesmuseum Württemberg"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q384841"
 latitude: 48.7772
 longitude: 9.17917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg/400px-Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg/800px-Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg/1200px-Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg/1920px-Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg/1920px-Aerial_image_of_the_Old_Castle_Stuttgart_(view_from_the_east).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Krenkingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Waldshut-Tiengen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Waldshut-Tiengen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012732"
 latitude: 47.68123033
 longitude: 8.31922531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/400px-Burghügel_der_Ruine_Altkrenkingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/800px-Burghügel_der_Ruine_Altkrenkingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/1200px-Burghügel_der_Ruine_Altkrenkingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/1920px-Burghügel_der_Ruine_Altkrenkingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/1920px-Burghügel_der_Ruine_Altkrenkingen.jpg---
 
 ## Overview
 

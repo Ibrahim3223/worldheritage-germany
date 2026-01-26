@@ -4,19 +4,18 @@ site_name: "Zschopaubrücke Meinsberg Meinsberg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Waldheim"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Waldheim"
+  - "Saxony"
 wikidata_id: "Q49449859"
 latitude: 51.082448741
 longitude: 13.015730932
 images:
-  []
----
+  []---
 
 ## Overview
 

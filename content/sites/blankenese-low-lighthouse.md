@@ -4,13 +4,13 @@ site_name: "Blankenese Low Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q1821466"
 latitude: 53.55769
 longitude: 9.79583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/400px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/800px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/1200px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/1920px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/1920px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg---
 
 ## Overview
 

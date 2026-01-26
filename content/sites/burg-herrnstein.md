@@ -4,13 +4,13 @@ site_name: "Burg Herrnstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ruppichteroth"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ruppichteroth"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012320"
 latitude: 50.8306
 longitude: 7.38917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/400px-Burg_Herrnstein_Auffahrt.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/800px-Burg_Herrnstein_Auffahrt.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1200px-Burg_Herrnstein_Auffahrt.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1920px-Burg_Herrnstein_Auffahrt.PNG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1920px-Burg_Herrnstein_Auffahrt.PNG---
 
 ## Overview
 

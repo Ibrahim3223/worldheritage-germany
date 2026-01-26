@@ -4,13 +4,13 @@ site_name: "St Mary's Cathedral and St Michael's Church at Hildesheim"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q9710075"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/400px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/800px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/1200px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/1920px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/1920px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg---
 
 ## Overview
 

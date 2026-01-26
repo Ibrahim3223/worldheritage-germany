@@ -4,13 +4,13 @@ site_name: "Silver Lake"
 date: 2026-01-26
 draft: false
 description: "lake in Speyer"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q22821"
 latitude: 49.3625
 longitude: 8.45842
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg/400px-Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg/800px-Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg/1200px-Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg/1920px-Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg/1920px-Silbersee_Speyer,_Blick_von_Süden_nach_Norden.jpg---
 
 ## Overview
 

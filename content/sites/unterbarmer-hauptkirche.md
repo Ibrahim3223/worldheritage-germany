@@ -4,13 +4,13 @@ site_name: "Unterbarmer Hauptkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Barmen, Germany"
-region: "Barmen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Barmen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1769877"
 latitude: 51.2656
 longitude: 7.18056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg/400px-Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg/800px-Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg/1200px-Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg/1920px-Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg/1920px-Wuppertal_-_Unterbarmer_Hauptkirche_02_ies.jpg---
 
 ## Overview
 

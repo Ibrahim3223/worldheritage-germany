@@ -4,13 +4,13 @@ site_name: "Golden-Ross-Kaserne"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1534815"
 latitude: 50.00385
 longitude: 8.26778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/400px-BD-Landesmuseum-20130504-IMG_1609.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/800px-BD-Landesmuseum-20130504-IMG_1609.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1200px-BD-Landesmuseum-20130504-IMG_1609.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1920px-BD-Landesmuseum-20130504-IMG_1609.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1920px-BD-Landesmuseum-20130504-IMG_1609.jpg---
 
 ## Overview
 

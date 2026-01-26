@@ -4,13 +4,13 @@ site_name: "Gondwana – Das Praehistorium"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schiffweiler"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schiffweiler"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1537067"
 latitude: 49.3500556
 longitude: 7.117913
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg/400px-Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg/800px-Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg/1200px-Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg/1920px-Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg/1920px-Gondwana-praehistorium-eingangshalle-argentinosaurus.jpg---
 
 ## Overview
 

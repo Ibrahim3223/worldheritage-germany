@@ -4,13 +4,13 @@ site_name: "Windbergstraße 22"
 date: 2026-01-26
 draft: false
 description: "building, former town hall, in Dresden-Coschütz"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q47507425"
 latitude: 51.017747
 longitude: 13.69974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/400px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/800px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/1200px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/1920px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/1920px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg---
 
 ## Overview
 

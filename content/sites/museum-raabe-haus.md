@@ -4,19 +4,18 @@ site_name: "Museum Raabe-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Eschershausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eschershausen"
+  - "Lower Saxony"
 wikidata_id: "Q76635969"
 latitude: 51.928564
 longitude: 9.635429
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ziegeleigrube Ennigloh"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bünde, North Rhine-Westphalia, Germany"
-region: "Bünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bünde"
+  - "Lower Saxony"
 wikidata_id: "Q198598"
 latitude: 52.2092
 longitude: 8.53586
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/400px-Ziegeleigrube_Ennigloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/800px-Ziegeleigrube_Ennigloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/1200px-Ziegeleigrube_Ennigloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/1920px-Ziegeleigrube_Ennigloh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/1920px-Ziegeleigrube_Ennigloh.jpg---
 
 ## Overview
 

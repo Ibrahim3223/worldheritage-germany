@@ -4,13 +4,13 @@ site_name: "Schloss Johannisburg"
 date: 2026-01-26
 draft: false
 description: "palace in Aschaffenburg, Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q705848"
 latitude: 49.9761
 longitude: 9.14167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/400px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/800px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/1200px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/1920px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/1920px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg---
 
 ## Overview
 

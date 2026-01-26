@@ -4,19 +4,18 @@ site_name: "University of Göttingen: Collections on the history of medicine"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636085"
 latitude: 51.544123
 longitude: 9.94107
 images:
-  []
----
+  []---
 
 ## Overview
 

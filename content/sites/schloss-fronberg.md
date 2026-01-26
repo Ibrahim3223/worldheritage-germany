@@ -4,13 +4,13 @@ site_name: "Schloss Fronberg"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Schwandorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Schwandorf"
+  - "Bavaria"
 wikidata_id: "Q322855"
 latitude: 49.34412806
 longitude: 12.123276393
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/400px-Schloss-fronberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/800px-Schloss-fronberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/1200px-Schloss-fronberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/1920px-Schloss-fronberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/1920px-Schloss-fronberg.jpg---
 
 ## Overview
 

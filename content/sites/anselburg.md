@@ -4,13 +4,13 @@ site_name: "Anselburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neuhemsbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neuhemsbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q569498"
 latitude: 49.5156
 longitude: 7.90386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/400px-Anselburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/800px-Anselburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1200px-Anselburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1920px-Anselburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1920px-Anselburg.jpg---
 
 ## Overview
 

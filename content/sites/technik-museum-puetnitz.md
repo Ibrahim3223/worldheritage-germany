@@ -4,19 +4,18 @@ site_name: "Technik-Museum Pütnitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ribnitz-Damgarten"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ribnitz-Damgarten"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q53869519"
 latitude: 54.2662069
 longitude: 12.4168496
 images:
-  []
----
+  []---
 
 ## Overview
 

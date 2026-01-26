@@ -4,19 +4,18 @@ site_name: "Mühle Döbra (Liebstadt)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Liebstadt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Liebstadt"
+  - "Saxony"
 wikidata_id: "Q49442841"
 latitude: 50.829513196
 longitude: 13.828819514
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Kirchhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1261530"
 latitude: 51.104
 longitude: 13.6342
 images:
-  []
----
+  []---
 
 ## Overview
 

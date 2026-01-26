@@ -4,19 +4,18 @@ site_name: "DDR-Museum Pforzheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pforzheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pforzheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q15109148"
 latitude: 48.877938
 longitude: 8.723509
 images:
-  []
----
+  []---
 
 ## Overview
 

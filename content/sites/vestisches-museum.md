@@ -4,13 +4,13 @@ site_name: "Vestisches Museum"
 date: 2026-01-26
 draft: false
 description: "Recklinghausen, Münster, Germany"
-region: "Recklinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Recklinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q2521245"
 latitude: 51.6093
 longitude: 7.19617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/400px-Recklinghausen_Vestisches_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/800px-Recklinghausen_Vestisches_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/1200px-Recklinghausen_Vestisches_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/1920px-Recklinghausen_Vestisches_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/1920px-Recklinghausen_Vestisches_Museum.jpg---
 
 ## Overview
 

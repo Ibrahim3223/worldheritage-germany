@@ -4,13 +4,13 @@ site_name: "Marienkirche Netzelkow"
 date: 2026-01-26
 draft: false
 description: "church building in Lütow, Germany"
-region: "Lütow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lütow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2320923"
 latitude: 54.023673
 longitude: 13.905518
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/400px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/800px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/1200px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/1920px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/1920px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG---
 
 ## Overview
 

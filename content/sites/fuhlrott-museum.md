@@ -4,13 +4,13 @@ site_name: "Fuhlrott-Museum"
 date: 2026-01-26
 draft: false
 description: "former museum in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1473013"
 latitude: 51.2553
 longitude: 7.13889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/400px-Fuhlrott-Museum_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/800px-Fuhlrott-Museum_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/1200px-Fuhlrott-Museum_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/1920px-Fuhlrott-Museum_0001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/1920px-Fuhlrott-Museum_0001.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bassinplatz"
 date: 2026-01-26
 draft: false
 description: "square in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q810527"
 latitude: 52.4013
 longitude: 13.0611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/400px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/800px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/1200px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/1920px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/1920px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg---
 
 ## Overview
 

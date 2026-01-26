@@ -4,13 +4,13 @@ site_name: "Rostocker Tor (Teterow)"
 date: 2026-01-26
 draft: false
 description: "Stadttor in Teterow"
-region: "Teterow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Teterow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2167890"
 latitude: 53.7751
 longitude: 12.5741
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/400px-Teterow-rostocker-tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/800px-Teterow-rostocker-tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/1200px-Teterow-rostocker-tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/1920px-Teterow-rostocker-tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/1920px-Teterow-rostocker-tor.jpg---
 
 ## Overview
 

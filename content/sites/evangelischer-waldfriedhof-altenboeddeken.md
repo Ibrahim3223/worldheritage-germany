@@ -4,19 +4,18 @@ site_name: "Evangelischer Waldfriedhof Altenböddeken"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bad Wünnenberg, Germany"
-region: "Bad Wünnenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bad Wünnenberg"
+  - "Hesse"
 wikidata_id: "Q1381272"
 latitude: 51.5683
 longitude: 8.66862
 images:
-  []
----
+  []---
 
 ## Overview
 

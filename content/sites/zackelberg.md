@@ -4,19 +4,18 @@ site_name: "Zackelberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Saxony-Anhalt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Saxony-Anhalt"
+  - "Brandenburg"
 wikidata_id: "Q139930"
 latitude: 52.3313
 longitude: 11.4856
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church in Alt Jargenow"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude im Ortsteil Alt Jargenow der Gemeinde Görmin in Vorpommern"
-region: "Görmin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Görmin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1717358"
 latitude: 53.9631
 longitude: 13.3188
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG/400px-Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG/800px-Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG/1200px-Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG/1920px-Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG/1920px-Alt_Jargenow,_Kapelle,_1_(2009-10-22).JPG---
 
 ## Overview
 

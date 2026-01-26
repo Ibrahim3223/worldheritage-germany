@@ -4,13 +4,13 @@ site_name: "Petrikirche"
 date: 2026-01-26
 draft: false
 description: "Listed church building in Hanover, Germany"
-region: "Buchholz-Kleefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Buchholz-Kleefeld"
+  - "Lower Saxony"
 wikidata_id: "Q2080585"
 latitude: 52.3716
 longitude: 9.78291
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/400px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/800px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/1200px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/1920px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/1920px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg---
 
 ## Overview
 

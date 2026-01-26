@@ -4,13 +4,13 @@ site_name: "Burg Neublankenheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Üxheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Üxheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013250"
 latitude: 50.35739832
 longitude: 6.7740646
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/400px-Neublankenheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/800px-Neublankenheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1200px-Neublankenheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1920px-Neublankenheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1920px-Neublankenheim.JPG---
 
 ## Overview
 

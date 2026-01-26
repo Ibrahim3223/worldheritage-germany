@@ -4,13 +4,13 @@ site_name: "Burg Lilienstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Schandau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Schandau"
+  - "Saxony"
 wikidata_id: "Q1012962"
 latitude: 50.9302
 longitude: 14.0849
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/400px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/800px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/1200px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/1920px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/1920px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg---
 
 ## Overview
 

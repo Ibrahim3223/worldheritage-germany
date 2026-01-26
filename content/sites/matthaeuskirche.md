@@ -4,13 +4,13 @@ site_name: "Matthäuskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Pforzheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pforzheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1543101"
 latitude: 48.889
 longitude: 8.65739
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/400px-Eingangsseite_mit_kirchturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/800px-Eingangsseite_mit_kirchturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/1200px-Eingangsseite_mit_kirchturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/1920px-Eingangsseite_mit_kirchturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/1920px-Eingangsseite_mit_kirchturm.jpg---
 
 ## Overview
 

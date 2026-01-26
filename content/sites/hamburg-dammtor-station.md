@@ -4,13 +4,13 @@ site_name: "Hamburg Dammtor station"
 date: 2026-01-26
 draft: false
 description: "railway halt in Rotherbaum, Hamburg, Germany"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q634142"
 latitude: 53.560833
 longitude: 9.989444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/400px-Hamburg-Bahnhof_Dammtor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/800px-Hamburg-Bahnhof_Dammtor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1200px-Hamburg-Bahnhof_Dammtor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1920px-Hamburg-Bahnhof_Dammtor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1920px-Hamburg-Bahnhof_Dammtor.jpg---
 
 ## Overview
 

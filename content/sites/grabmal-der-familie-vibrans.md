@@ -4,13 +4,13 @@ site_name: "Grabmal der Familie Vibrans"
 date: 2026-01-26
 draft: false
 description: "tomb"
-region: "Calvörde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Calvörde"
+  - "Lower Saxony"
 wikidata_id: "Q1540890"
 latitude: 52.3961
 longitude: 11.2892
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Calvörde,_Grabmal_Vibrans_AVR.JPG/400px-Calvörde,_Grabmal_Vibrans_AVR.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Calvörde,_Grabmal_Vibrans_AVR.JPG/800px-Calvörde,_Grabmal_Vibrans_AVR.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Calvörde,_Grabmal_Vibrans_AVR.JPG/1200px-Calvörde,_Grabmal_Vibrans_AVR.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Calvörde,_Grabmal_Vibrans_AVR.JPG/1920px-Calvörde,_Grabmal_Vibrans_AVR.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Calvörde,_Grabmal_Vibrans_AVR.JPG/1920px-Calvörde,_Grabmal_Vibrans_AVR.JPG---
 
 ## Overview
 

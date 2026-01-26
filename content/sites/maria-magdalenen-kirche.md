@@ -4,13 +4,13 @@ site_name: "Maria-Magdalenen-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
-region: "Brackenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brackenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1895566"
 latitude: 49.0898
 longitude: 9.07952
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/400px-Duerrenzimmern-kirche-web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/800px-Duerrenzimmern-kirche-web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/1200px-Duerrenzimmern-kirche-web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/1920px-Duerrenzimmern-kirche-web.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/1920px-Duerrenzimmern-kirche-web.jpg---
 
 ## Overview
 

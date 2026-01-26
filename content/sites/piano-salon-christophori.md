@@ -4,13 +4,13 @@ site_name: "Piano Salon Christophori"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q27926438"
 latitude: 52.552619
 longitude: 13.374169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/400px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/800px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/1200px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/1920px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/1920px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg---
 
 ## Overview
 

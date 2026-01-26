@@ -4,13 +4,13 @@ site_name: "Rathaus Klotzsche"
 date: 2026-01-26
 draft: false
 description: "Gebäude im Dresdner Stadtteil Klotzsche"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q15125896"
 latitude: 51.111778
 longitude: 13.774118
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dresden-Klotzsche-Rathaus.jpg/400px-Dresden-Klotzsche-Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dresden-Klotzsche-Rathaus.jpg/800px-Dresden-Klotzsche-Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dresden-Klotzsche-Rathaus.jpg/1200px-Dresden-Klotzsche-Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dresden-Klotzsche-Rathaus.jpg/1920px-Dresden-Klotzsche-Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dresden-Klotzsche-Rathaus.jpg/1920px-Dresden-Klotzsche-Rathaus.jpg---
 
 ## Overview
 

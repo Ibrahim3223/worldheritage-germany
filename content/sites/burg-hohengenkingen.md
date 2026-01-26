@@ -4,13 +4,13 @@ site_name: "Burg Hohengenkingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sonnenbühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sonnenbühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012418"
 latitude: 48.4004
 longitude: 9.20601
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hohengenkingen02.jpg/400px-Hohengenkingen02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hohengenkingen02.jpg/800px-Hohengenkingen02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hohengenkingen02.jpg/1200px-Hohengenkingen02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hohengenkingen02.jpg/1920px-Hohengenkingen02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hohengenkingen02.jpg/1920px-Hohengenkingen02.jpg---
 
 ## Overview
 

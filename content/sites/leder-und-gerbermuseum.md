@@ -4,13 +4,13 @@ site_name: "Leder- und Gerbermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Mülheim an der Ruhr, Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q1811526"
 latitude: 51.415905555
 longitude: 6.868008333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ledermuseum_(Mülheim).jpg/400px-Ledermuseum_(Mülheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ledermuseum_(Mülheim).jpg/800px-Ledermuseum_(Mülheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ledermuseum_(Mülheim).jpg/1200px-Ledermuseum_(Mülheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ledermuseum_(Mülheim).jpg/1920px-Ledermuseum_(Mülheim).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ledermuseum_(Mülheim).jpg/1920px-Ledermuseum_(Mülheim).jpg---
 
 ## Overview
 

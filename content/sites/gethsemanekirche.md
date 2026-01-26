@@ -4,13 +4,13 @@ site_name: "Gethsemanekirche"
 date: 2026-01-26
 draft: false
 description: "church in Frankfurt (Main)"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1519967"
 latitude: 50.1253
 longitude: 8.68667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/400px-Gethsemanekirche_Frankfurt_am_Main.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/800px-Gethsemanekirche_Frankfurt_am_Main.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/1200px-Gethsemanekirche_Frankfurt_am_Main.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/1920px-Gethsemanekirche_Frankfurt_am_Main.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/1920px-Gethsemanekirche_Frankfurt_am_Main.jpg---
 
 ## Overview
 

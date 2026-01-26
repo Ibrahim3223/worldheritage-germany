@@ -4,19 +4,18 @@ site_name: "Bunter Garten"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Mönchengladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Mönchengladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q880814"
 latitude: 51.2039
 longitude: 6.43389
 images:
-  []
----
+  []---
 
 ## Overview
 

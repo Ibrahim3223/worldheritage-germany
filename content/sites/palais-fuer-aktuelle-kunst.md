@@ -4,13 +4,13 @@ site_name: "Palais für aktuelle Kunst"
 date: 2026-01-26
 draft: false
 description: "building and art museum in Glückstadt, Germany"
-region: "Glückstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Glückstadt"
+  - "Lower Saxony"
 wikidata_id: "Q2047289"
 latitude: 53.7859
 longitude: 9.41741
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/400px-Palais_Quasi_non_Possidentes.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/800px-Palais_Quasi_non_Possidentes.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/1200px-Palais_Quasi_non_Possidentes.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/1920px-Palais_Quasi_non_Possidentes.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/1920px-Palais_Quasi_non_Possidentes.JPG---
 
 ## Overview
 

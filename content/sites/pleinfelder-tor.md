@@ -4,13 +4,13 @@ site_name: "Pleinfelder Tor"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q1228215"
 latitude: 49.0628
 longitude: 10.9673
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pleinfeldertor.jpg/400px-Pleinfeldertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pleinfeldertor.jpg/800px-Pleinfeldertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pleinfeldertor.jpg/1200px-Pleinfeldertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pleinfeldertor.jpg/1920px-Pleinfeldertor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pleinfeldertor.jpg/1920px-Pleinfeldertor.jpg---
 
 ## Overview
 

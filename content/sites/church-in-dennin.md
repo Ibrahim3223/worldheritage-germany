@@ -4,13 +4,13 @@ site_name: "Church in Dennin"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Spantekow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Spantekow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1663857"
 latitude: 53.7913
 longitude: 13.4792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/400px-Dennin_Kirche_Südost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/800px-Dennin_Kirche_Südost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1200px-Dennin_Kirche_Südost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1920px-Dennin_Kirche_Südost.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1920px-Dennin_Kirche_Südost.JPG---
 
 ## Overview
 

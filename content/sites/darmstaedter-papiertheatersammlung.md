@@ -4,19 +4,18 @@ site_name: "Darmstädter Papiertheatersammlung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q19962163"
 latitude: 49.87209
 longitude: 8.66386
 images:
-  []
----
+  []---
 
 ## Overview
 

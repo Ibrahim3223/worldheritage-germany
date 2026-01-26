@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6325-0227 in Bütthard"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bütthard, Würzburg, Lower Franconia, Bavaria, Germany"
-region: "Bütthard"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bütthard"
+  - "Baden-Württemberg"
 wikidata_id: "Q98167700"
 latitude: 49.599094781
 longitude: 9.879996285
 images:
-  []
----
+  []---
 
 ## Overview
 

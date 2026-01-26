@@ -4,13 +4,13 @@ site_name: "Sankt-Johannes-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Arendsee (Altmark), Germany"
-region: "Arendsee"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Arendsee"
+  - "Brandenburg"
 wikidata_id: "Q1669052"
 latitude: 52.8808
 longitude: 11.4858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche_in_Arendsee.JPG/400px-Kirche_in_Arendsee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche_in_Arendsee.JPG/800px-Kirche_in_Arendsee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche_in_Arendsee.JPG/1200px-Kirche_in_Arendsee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche_in_Arendsee.JPG/1920px-Kirche_in_Arendsee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche_in_Arendsee.JPG/1920px-Kirche_in_Arendsee.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Diözesanmuseum Paderborn"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Paderborn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Paderborn"
+  - "Lower Saxony"
 wikidata_id: "Q1363869"
 latitude: 51.7185
 longitude: 8.75514
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Paderborn_Dioezesanmuseum.jpg/400px-Paderborn_Dioezesanmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Paderborn_Dioezesanmuseum.jpg/800px-Paderborn_Dioezesanmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Paderborn_Dioezesanmuseum.jpg/1200px-Paderborn_Dioezesanmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Paderborn_Dioezesanmuseum.jpg/1920px-Paderborn_Dioezesanmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Paderborn_Dioezesanmuseum.jpg/1920px-Paderborn_Dioezesanmuseum.jpg---
 
 ## Overview
 

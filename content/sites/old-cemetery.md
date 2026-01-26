@@ -4,13 +4,13 @@ site_name: "Old Cemetery"
 date: 2026-01-26
 draft: false
 description: "park in Speyer, Germany"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22588"
 latitude: 49.323
 longitude: 8.43027
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/170924-Speyer-05.jpg/400px-170924-Speyer-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/170924-Speyer-05.jpg/800px-170924-Speyer-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/170924-Speyer-05.jpg/1200px-170924-Speyer-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/170924-Speyer-05.jpg/1920px-170924-Speyer-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/170924-Speyer-05.jpg/1920px-170924-Speyer-05.jpg---
 
 ## Overview
 

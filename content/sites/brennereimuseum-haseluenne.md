@@ -4,19 +4,18 @@ site_name: "Brennereimuseum Haselünne"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Haselünne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Haselünne"
+  - "Lower Saxony"
 wikidata_id: "Q76636179"
 latitude: 52.674382
 longitude: 7.485588
 images:
-  []
----
+  []---
 
 ## Overview
 

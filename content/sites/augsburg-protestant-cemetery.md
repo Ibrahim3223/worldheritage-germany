@@ -4,13 +4,13 @@ site_name: "Augsburg Protestant Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bavaria, Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q204223"
 latitude: 48.354
 longitude: 10.9003
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/400px-Ev._Friedh.Augsb.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/800px-Ev._Friedh.Augsb.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/1200px-Ev._Friedh.Augsb.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/1920px-Ev._Friedh.Augsb.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/1920px-Ev._Friedh.Augsb.JPG---
 
 ## Overview
 

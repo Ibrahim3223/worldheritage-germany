@@ -4,13 +4,13 @@ site_name: "St.-Nicolai-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hagenburg, Germany"
-region: "Hagenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hagenburg"
+  - "Lower Saxony"
 wikidata_id: "Q2316593"
 latitude: 52.4353
 longitude: 9.33148
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/400px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/800px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/1200px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/1920px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/1920px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg---
 
 ## Overview
 

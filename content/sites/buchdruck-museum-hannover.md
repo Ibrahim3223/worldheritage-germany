@@ -4,13 +4,13 @@ site_name: "Buchdruck-Museum Hannover"
 date: 2026-01-26
 draft: false
 description: "Museum on Limmerstraße in Hanover organised by the supporting association ‘Freundeskreis Schwarze Kunst e.V.’ (Friends of Black Art), founded in 2002"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q15108126"
 latitude: 52.373014
 longitude: 9.707684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg/400px-Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg/800px-Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg/1200px-Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg/1920px-Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg/1920px-Buchdruck-Museum,_Limmerstraße_43,_30451_Hannover_(Linden-Nord),_Freundeskreis_Schwarze_Kunst_e.V.,_Klempner-Werkstatt,_historisches_Gebäude_im_Stil_einer_Hinterhofdruckerei_der_1950er_Jahre.jpg---
 
 ## Overview
 

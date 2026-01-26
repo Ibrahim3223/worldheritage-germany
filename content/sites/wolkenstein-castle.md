@@ -4,13 +4,13 @@ site_name: "Wolkenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Franconian Switzerland"
-region: "Ebermannstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Ebermannstadt"
+  - "Bavaria"
 wikidata_id: "Q1014655"
 latitude: 49.7553
 longitude: 11.24
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/400px-Burg_Wolkenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/800px-Burg_Wolkenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/1200px-Burg_Wolkenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/1920px-Burg_Wolkenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/1920px-Burg_Wolkenstein.jpg---
 
 ## Overview
 

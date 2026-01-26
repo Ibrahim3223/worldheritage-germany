@@ -4,13 +4,13 @@ site_name: "Gollachgaumuseum Uffenheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629621"
 latitude: 49.54344
 longitude: 10.228733
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/400px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/800px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/1200px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/1920px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/1920px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg---
 
 ## Overview
 

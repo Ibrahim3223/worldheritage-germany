@@ -4,13 +4,13 @@ site_name: "Saint Pancratius Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eslohe (Sauerland)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eslohe (Sauerland)"
+  - "Hesse"
 wikidata_id: "Q1494020"
 latitude: 51.2636
 longitude: 8.24029
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/400px-St._Pankratius_Eslohe-Reiste.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/800px-St._Pankratius_Eslohe-Reiste.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/1200px-St._Pankratius_Eslohe-Reiste.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/1920px-St._Pankratius_Eslohe-Reiste.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/1920px-St._Pankratius_Eslohe-Reiste.JPG---
 
 ## Overview
 

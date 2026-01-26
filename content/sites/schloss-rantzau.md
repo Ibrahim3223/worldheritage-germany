@@ -4,13 +4,13 @@ site_name: "Schloss Rantzau"
 date: 2026-01-26
 draft: false
 description: "Stadtpalais im Lübecker Dombezirk"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q2243060"
 latitude: 53.8627
 longitude: 10.6855
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schloss_Rantzau_(Lübeck).JPG/400px-Schloss_Rantzau_(Lübeck).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schloss_Rantzau_(Lübeck).JPG/800px-Schloss_Rantzau_(Lübeck).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schloss_Rantzau_(Lübeck).JPG/1200px-Schloss_Rantzau_(Lübeck).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schloss_Rantzau_(Lübeck).JPG/1920px-Schloss_Rantzau_(Lübeck).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schloss_Rantzau_(Lübeck).JPG/1920px-Schloss_Rantzau_(Lübeck).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brikettfabrik Herrmannschacht Zeitz"
 date: 2026-01-26
 draft: false
 description: "ehemalige Brikettfabrik als Denkmalbereich und Museum, Fabrik gilt als weltweit älteste erhaltene Brikettfabrik"
-region: "Zeitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zeitz"
+  - "Saxony"
 wikidata_id: "Q916993"
 latitude: 51.054
 longitude: 12.1116
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/400px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/800px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/1200px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/1920px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/1920px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg---
 
 ## Overview
 

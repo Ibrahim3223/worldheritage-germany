@@ -4,13 +4,13 @@ site_name: "Wuppertal-Oberbarmen"
 date: 2026-01-26
 draft: false
 description: "railway station in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q181338"
 latitude: 51.2742
 longitude: 7.22127
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/400px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/800px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/1200px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/1920px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/1920px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg---
 
 ## Overview
 

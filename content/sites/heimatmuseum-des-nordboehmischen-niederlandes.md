@@ -4,13 +4,13 @@ site_name: "Heimatmuseum des Nordböhmischen Niederlandes"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Böblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Böblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1595658"
 latitude: 48.68525
 longitude: 9.012194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/400px-Heimatmuseum_BoemNl_Vorschau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/800px-Heimatmuseum_BoemNl_Vorschau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/1200px-Heimatmuseum_BoemNl_Vorschau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/1920px-Heimatmuseum_BoemNl_Vorschau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/1920px-Heimatmuseum_BoemNl_Vorschau.jpg---
 
 ## Overview
 

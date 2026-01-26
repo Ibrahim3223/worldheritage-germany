@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Zellingen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Zellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Zellingen"
+  - "Bavaria"
 wikidata_id: "Q28729461"
 latitude: 49.89874
 longitude: 9.81874
 images:
-  []
----
+  []---
 
 ## Overview
 

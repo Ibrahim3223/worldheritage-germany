@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7631-0522 in Augsburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Augsburg, Swabia, Bavaria, Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q98284425"
 latitude: 48.36354546
 longitude: 10.90004041
 images:
-  []
----
+  []---
 
 ## Overview
 

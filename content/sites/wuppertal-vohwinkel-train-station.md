@@ -4,13 +4,13 @@ site_name: "Wuppertal-Vohwinkel train station"
 date: 2026-01-26
 draft: false
 description: "railway station in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q322814"
 latitude: 51.2341
 longitude: 7.07143
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/400px-Wuppertal-Vohwinkel-Bahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/800px-Wuppertal-Vohwinkel-Bahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/1200px-Wuppertal-Vohwinkel-Bahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/1920px-Wuppertal-Vohwinkel-Bahnhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/1920px-Wuppertal-Vohwinkel-Bahnhof.jpg---
 
 ## Overview
 

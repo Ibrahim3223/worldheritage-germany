@@ -4,13 +4,13 @@ site_name: "Burg Elberfeld"
 date: 2026-01-26
 draft: false
 description: "demolished castle in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011580"
 latitude: 51.2572
 longitude: 7.14778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/400px-Burg-Elverfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/800px-Burg-Elverfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/1200px-Burg-Elverfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/1920px-Burg-Elverfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/1920px-Burg-Elverfeld.jpg---
 
 ## Overview
 

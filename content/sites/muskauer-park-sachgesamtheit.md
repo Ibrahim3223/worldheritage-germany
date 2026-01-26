@@ -4,21 +4,20 @@ site_name: "Muskauer Park (Sachgesamtheit)"
 date: 2026-01-26
 draft: false
 description: "heritage site in Bad Muskau, Germany"
-region: "Bad Muskau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Heritage Site"
 categories:
   - "Heritage Site"
 regions:
-  - "Bad Muskau"
+  - "Brandenburg"
 wikidata_id: "Q49454084"
 tags:
   - unesco
 latitude: 51.55
 longitude: 14.725
 images:
-  []
----
+  []---
 
 ## Overview
 

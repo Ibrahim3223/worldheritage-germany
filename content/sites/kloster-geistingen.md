@@ -4,13 +4,13 @@ site_name: "Kloster Geistingen"
 date: 2026-01-26
 draft: false
 description: "Monastery in Germany"
-region: "Hennef"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Hennef"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1775256"
 latitude: 50.7697
 longitude: 7.27278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/400px-Hennef_Geistingen,_Klosterstr._4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/800px-Hennef_Geistingen,_Klosterstr._4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/1200px-Hennef_Geistingen,_Klosterstr._4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/1920px-Hennef_Geistingen,_Klosterstr._4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/1920px-Hennef_Geistingen,_Klosterstr._4.JPG---
 
 ## Overview
 

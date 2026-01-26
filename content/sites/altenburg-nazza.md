@@ -4,13 +4,13 @@ site_name: "Altenburg (Nazza)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nazza"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nazza"
+  - "Thuringia"
 wikidata_id: "Q436887"
 latitude: 51.1244
 longitude: 10.3334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/400px-Burgstelle_Altenburg_bei_Nazza.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/800px-Burgstelle_Altenburg_bei_Nazza.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/1200px-Burgstelle_Altenburg_bei_Nazza.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/1920px-Burgstelle_Altenburg_bei_Nazza.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/1920px-Burgstelle_Altenburg_bei_Nazza.jpg---
 
 ## Overview
 

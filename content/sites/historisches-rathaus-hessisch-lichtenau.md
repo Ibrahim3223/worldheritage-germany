@@ -4,13 +4,13 @@ site_name: "Historisches Rathaus Hessisch Lichtenau"
 date: 2026-01-26
 draft: false
 description: "City Hall (Hessisch Lichtenau)"
-region: "Hessisch Lichtenau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Hessisch Lichtenau"
+  - "Hesse"
 wikidata_id: "Q135050535"
 latitude: 51.195647
 longitude: 9.7194988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HessischLichtenau_02.jpg/400px-HessischLichtenau_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HessischLichtenau_02.jpg/800px-HessischLichtenau_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HessischLichtenau_02.jpg/1200px-HessischLichtenau_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HessischLichtenau_02.jpg/1920px-HessischLichtenau_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HessischLichtenau_02.jpg/1920px-HessischLichtenau_02.jpg---
 
 ## Overview
 

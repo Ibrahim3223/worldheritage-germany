@@ -4,19 +4,18 @@ site_name: "Saxon Memorial Foundation"
 date: 2026-01-26
 draft: false
 description: "foundation that manages sites in the Free State of Saxony in Germany where Nazis and Communists committed crimes; established in 1994"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2349185"
 latitude: 51.02651
 longitude: 13.72734
 images:
-  []
----
+  []---
 
 ## Overview
 

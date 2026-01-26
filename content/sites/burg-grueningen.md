@@ -4,13 +4,13 @@ site_name: "Burg Grüningen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Pohlheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Pohlheim"
+  - "Hesse"
 wikidata_id: "Q1012101"
 latitude: 50.5093
 longitude: 8.7287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/400px-Burg_Grüningen-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/800px-Burg_Grüningen-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/1200px-Burg_Grüningen-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/1920px-Burg_Grüningen-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/1920px-Burg_Grüningen-3.jpg---
 
 ## Overview
 

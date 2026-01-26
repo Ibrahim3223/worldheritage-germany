@@ -4,13 +4,13 @@ site_name: "Göhre"
 date: 2026-01-26
 draft: false
 description: "city museum in Jena"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1559234"
 latitude: 50.9285
 longitude: 11.5883
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GöhreJena01.JPG/400px-GöhreJena01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GöhreJena01.JPG/800px-GöhreJena01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GöhreJena01.JPG/1200px-GöhreJena01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GöhreJena01.JPG/1920px-GöhreJena01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GöhreJena01.JPG/1920px-GöhreJena01.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Klingender Wasserfall"
 date: 2026-01-26
 draft: false
 description: "waterfall in Germany"
-region: "Lauf an der Pegnitz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Lauf an der Pegnitz"
+  - "Bavaria"
 wikidata_id: "Q1774526"
 latitude: 49.4782
 longitude: 11.3032
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2016_Klingender_Wasserfall_02.jpg/400px-2016_Klingender_Wasserfall_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2016_Klingender_Wasserfall_02.jpg/800px-2016_Klingender_Wasserfall_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2016_Klingender_Wasserfall_02.jpg/1200px-2016_Klingender_Wasserfall_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2016_Klingender_Wasserfall_02.jpg/1920px-2016_Klingender_Wasserfall_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2016_Klingender_Wasserfall_02.jpg/1920px-2016_Klingender_Wasserfall_02.jpg---
 
 ## Overview
 

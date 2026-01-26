@@ -4,13 +4,13 @@ site_name: "Church in Medow"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Medow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Medow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742631"
 latitude: 53.8404
 longitude: 13.531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Medow_Kirche_Südwest.jpg/400px-Medow_Kirche_Südwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Medow_Kirche_Südwest.jpg/800px-Medow_Kirche_Südwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Medow_Kirche_Südwest.jpg/1200px-Medow_Kirche_Südwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Medow_Kirche_Südwest.jpg/1920px-Medow_Kirche_Südwest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Medow_Kirche_Südwest.jpg/1920px-Medow_Kirche_Südwest.jpg---
 
 ## Overview
 

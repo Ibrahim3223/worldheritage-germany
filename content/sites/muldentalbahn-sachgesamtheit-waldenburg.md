@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit) Waldenburg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Waldenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Waldenburg"
+  - "Saxony"
 wikidata_id: "Q49438907"
 latitude: 50.868206541
 longitude: 12.617530542
 images:
-  []
----
+  []---
 
 ## Overview
 

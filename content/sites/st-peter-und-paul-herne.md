@@ -4,13 +4,13 @@ site_name: "St. Peter und Paul (Herne)"
 date: 2026-01-26
 draft: false
 description: "church building in Herne, Germany"
-region: "Sodingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sodingen"
+  - "Lower Saxony"
 wikidata_id: "Q2322675"
 latitude: 51.5437
 longitude: 7.2605
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/400px-Herne_church_St_Peter_und_Paul.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/800px-Herne_church_St_Peter_und_Paul.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/1200px-Herne_church_St_Peter_und_Paul.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/1920px-Herne_church_St_Peter_und_Paul.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/1920px-Herne_church_St_Peter_und_Paul.jpg---
 
 ## Overview
 

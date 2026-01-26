@@ -4,19 +4,18 @@ site_name: "Kanu museum Augsburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q760547"
 latitude: 48.346389
 longitude: 10.935833
 images:
-  []
----
+  []---
 
 ## Overview
 

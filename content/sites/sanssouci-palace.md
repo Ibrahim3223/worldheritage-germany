@@ -4,13 +4,13 @@ site_name: "Sanssouci Palace"
 date: 2026-01-26
 draft: false
 description: "Palace in Brandenburg, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q151330"
 latitude: 52.403257
 longitude: 13.038626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/400px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/800px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/1200px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/1920px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/1920px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Huckup"
 date: 2026-01-26
 draft: false
 description: "statue and memorial in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q1633756"
 latitude: 52.151
 longitude: 9.95086
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildesheim-Hoher.Weg.Huckup.01.JPG/400px-Hildesheim-Hoher.Weg.Huckup.01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildesheim-Hoher.Weg.Huckup.01.JPG/800px-Hildesheim-Hoher.Weg.Huckup.01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildesheim-Hoher.Weg.Huckup.01.JPG/1200px-Hildesheim-Hoher.Weg.Huckup.01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildesheim-Hoher.Weg.Huckup.01.JPG/1920px-Hildesheim-Hoher.Weg.Huckup.01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildesheim-Hoher.Weg.Huckup.01.JPG/1920px-Hildesheim-Hoher.Weg.Huckup.01.JPG---
 
 ## Overview
 

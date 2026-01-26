@@ -4,13 +4,13 @@ site_name: "Viktualienmarkt"
 date: 2026-01-26
 draft: false
 description: "daily food market and a square in the center of Munich, Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q686629"
 latitude: 48.1353
 longitude: 11.5761
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/400px-Viki-Markt.Maibaum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/800px-Viki-Markt.Maibaum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/1200px-Viki-Markt.Maibaum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/1920px-Viki-Markt.Maibaum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/1920px-Viki-Markt.Maibaum.JPG---
 
 ## Overview
 

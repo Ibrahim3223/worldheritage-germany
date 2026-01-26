@@ -4,13 +4,13 @@ site_name: "Bornhorster Huntewiesen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Elsfleth"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Elsfleth"
+  - "Lower Saxony"
 wikidata_id: "Q893989"
 latitude: 53.1607
 longitude: 8.28747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bornhorster_Huntewiesen-11-02.JPG/400px-Bornhorster_Huntewiesen-11-02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bornhorster_Huntewiesen-11-02.JPG/800px-Bornhorster_Huntewiesen-11-02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bornhorster_Huntewiesen-11-02.JPG/1200px-Bornhorster_Huntewiesen-11-02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bornhorster_Huntewiesen-11-02.JPG/1920px-Bornhorster_Huntewiesen-11-02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bornhorster_Huntewiesen-11-02.JPG/1920px-Bornhorster_Huntewiesen-11-02.JPG---
 
 ## Overview
 

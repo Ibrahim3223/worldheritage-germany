@@ -4,19 +4,18 @@ site_name: "Laurel & Hardy Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q21073056"
 latitude: 51.18056
 longitude: 7.04303
 images:
-  []
----
+  []---
 
 ## Overview
 

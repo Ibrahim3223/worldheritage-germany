@@ -4,19 +4,18 @@ site_name: "Gerhard C. Starck Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Willich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Willich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1511428"
 latitude: 51.265963
 longitude: 6.543522
 images:
-  []
----
+  []---
 
 ## Overview
 

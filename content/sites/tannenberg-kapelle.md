@@ -4,13 +4,13 @@ site_name: "Tannenberg-Kapelle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Haltern am See"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Haltern am See"
+  - "Lower Saxony"
 wikidata_id: "Q1312547"
 latitude: 51.7434
 longitude: 7.11425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tannenberg-Kapelle1.jpg/400px-Tannenberg-Kapelle1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tannenberg-Kapelle1.jpg/800px-Tannenberg-Kapelle1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tannenberg-Kapelle1.jpg/1200px-Tannenberg-Kapelle1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tannenberg-Kapelle1.jpg/1920px-Tannenberg-Kapelle1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tannenberg-Kapelle1.jpg/1920px-Tannenberg-Kapelle1.jpg---
 
 ## Overview
 

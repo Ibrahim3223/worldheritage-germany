@@ -4,19 +4,18 @@ site_name: "Bogenbrücke Oberbobritzsch"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bobritzsch-Hilbersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bobritzsch-Hilbersdorf"
+  - "Saxony"
 wikidata_id: "Q49446084"
 latitude: 50.87953647
 longitude: 13.447870528
 images:
-  []
----
+  []---
 
 ## Overview
 

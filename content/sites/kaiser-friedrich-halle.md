@@ -4,13 +4,13 @@ site_name: "Kaiser-Friedrich-Halle"
 date: 2026-01-26
 draft: false
 description: "concert and multipurpose hall in Mönchengladbach, Germany"
-region: "Mönchengladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Mönchengladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1147984"
 latitude: 51.2005
 longitude: 6.43675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/400px-KaiserFriedrichHalle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/800px-KaiserFriedrichHalle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/1200px-KaiserFriedrichHalle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/1920px-KaiserFriedrichHalle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/1920px-KaiserFriedrichHalle.JPG---
 
 ## Overview
 

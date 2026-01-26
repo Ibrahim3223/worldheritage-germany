@@ -4,13 +4,13 @@ site_name: "Adalbertstor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q348073"
 latitude: 50.77472
 longitude: 6.09472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/400px-Adalbertstor.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/800px-Adalbertstor.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/1200px-Adalbertstor.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/1920px-Adalbertstor.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/1920px-Adalbertstor.png---
 
 ## Overview
 

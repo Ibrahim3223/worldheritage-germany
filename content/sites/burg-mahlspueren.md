@@ -4,19 +4,18 @@ site_name: "Burg Mahlspüren"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mahlspüren im Tal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mahlspüren im Tal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013060"
 latitude: 47.862345
 longitude: 9.08346
 images:
-  []
----
+  []---
 
 ## Overview
 

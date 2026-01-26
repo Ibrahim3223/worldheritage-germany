@@ -4,13 +4,13 @@ site_name: "Gutshaus Friedenfelde"
 date: 2026-01-26
 draft: false
 description: "Gutshaus in Brandenburg, Deutschland"
-region: "Gerswalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Gerswalde"
+  - "Brandenburg"
 wikidata_id: "Q1557275"
 latitude: 53.138
 longitude: 13.7285
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/400px-Friedenfelde_Gutshaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/800px-Friedenfelde_Gutshaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/1200px-Friedenfelde_Gutshaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/1920px-Friedenfelde_Gutshaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/1920px-Friedenfelde_Gutshaus.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Borsteler Binnenelbe und Großes Brack"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Jork"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Jork"
+  - "Hamburg"
 wikidata_id: "Q894221"
 latitude: 53.54388889
 longitude: 9.71611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/400px-Borsteler_Binnenelbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/800px-Borsteler_Binnenelbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/1200px-Borsteler_Binnenelbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/1920px-Borsteler_Binnenelbe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/1920px-Borsteler_Binnenelbe.jpg---
 
 ## Overview
 

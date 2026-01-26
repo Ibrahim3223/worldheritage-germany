@@ -4,13 +4,13 @@ site_name: "Alter Friedhof (Baiertal)"
 date: 2026-01-26
 draft: false
 description: "cemetery in Wiesloch, Germany"
-region: "Wiesloch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Wiesloch"
+  - "Baden-Württemberg"
 wikidata_id: "Q437864"
 latitude: 49.3007
 longitude: 8.73773
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/400px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/800px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/1200px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/1920px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/1920px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG---
 
 ## Overview
 

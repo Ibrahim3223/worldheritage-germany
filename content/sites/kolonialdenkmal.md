@@ -4,13 +4,13 @@ site_name: "Kolonialdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1779597"
 latitude: 52.2697
 longitude: 10.5467
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg/400px-Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg/800px-Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg/1200px-Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg/1920px-Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg/1920px-Braunschweig_Brunswick_Koloniendenkmal_Rueckseite_(2006).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Palatinate Library"
 date: 2026-01-26
 draft: false
 description: "library in Kaiserslautern, Germany"
-region: "Kaiserslautern"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Kaiserslautern"
+  - "Baden-Württemberg"
 wikidata_id: "Q2082241"
 latitude: 49.4437
 longitude: 7.77476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/400px-Pfalzbibliothek_Kaiserslautern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/800px-Pfalzbibliothek_Kaiserslautern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/1200px-Pfalzbibliothek_Kaiserslautern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/1920px-Pfalzbibliothek_Kaiserslautern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/1920px-Pfalzbibliothek_Kaiserslautern.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8127-0053 in Böhen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Böhen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Böhen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98285695"
 latitude: 47.866540447
 longitude: 10.302099331
 images:
-  []
----
+  []---
 
 ## Overview
 

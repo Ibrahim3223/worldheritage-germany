@@ -4,13 +4,13 @@ site_name: "Gut Gelting"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Gelting"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Gelting"
+  - "Schleswig-Holstein"
 wikidata_id: "Q4993308"
 latitude: 54.7502
 longitude: 9.9048
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/400px-Geltinger-wasserschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/800px-Geltinger-wasserschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1200px-Geltinger-wasserschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1920px-Geltinger-wasserschloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1920px-Geltinger-wasserschloss.jpg---
 
 ## Overview
 

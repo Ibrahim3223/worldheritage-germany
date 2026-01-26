@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit) Oberwinkel (Waldenburg)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Waldenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Waldenburg"
+  - "Saxony"
 wikidata_id: "Q49438882"
 latitude: 50.861824619
 longitude: 12.604871764
 images:
-  []
----
+  []---
 
 ## Overview
 

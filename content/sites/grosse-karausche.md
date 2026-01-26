@@ -4,13 +4,13 @@ site_name: "Große Karausche"
 date: 2026-01-26
 draft: false
 description: "lake in Schwerin, Mecklenburg-Vorpommern, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q247082"
 latitude: 53.618611111
 longitude: 11.429444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/400px-Grosse_Karausche_2_Schwerin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/800px-Grosse_Karausche_2_Schwerin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/1200px-Grosse_Karausche_2_Schwerin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/1920px-Grosse_Karausche_2_Schwerin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/1920px-Grosse_Karausche_2_Schwerin.jpg---
 
 ## Overview
 

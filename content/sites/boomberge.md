@@ -4,13 +4,13 @@ site_name: "Boomberge"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Harsewinkel, North Rhine-Westphalia, Germany"
-region: "Harsewinkel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Harsewinkel"
+  - "Lower Saxony"
 wikidata_id: "Q893030"
 latitude: 51.95
 longitude: 8.23611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/400px-Boomberge_Harsewinkel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/800px-Boomberge_Harsewinkel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1200px-Boomberge_Harsewinkel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1920px-Boomberge_Harsewinkel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1920px-Boomberge_Harsewinkel.jpg---
 
 ## Overview
 

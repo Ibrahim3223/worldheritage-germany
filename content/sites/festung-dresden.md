@@ -4,13 +4,13 @@ site_name: "Festung Dresden"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1954433"
 latitude: 51.0527
 longitude: 13.7438
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung-DD.jpg/400px-Festung-DD.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung-DD.jpg/800px-Festung-DD.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung-DD.jpg/1200px-Festung-DD.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung-DD.jpg/1920px-Festung-DD.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung-DD.jpg/1920px-Festung-DD.jpg---
 
 ## Overview
 

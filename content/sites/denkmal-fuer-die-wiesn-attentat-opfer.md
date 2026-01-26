@@ -4,13 +4,13 @@ site_name: "Denkmal für die Wiesn-Attentat-Opfer"
 date: 2026-01-26
 draft: false
 description: "monument in Ludwigsvorstadt-Isarvorstadt, Germany"
-region: "Ludwigsvorstadt-Isarvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Ludwigsvorstadt-Isarvorstadt"
+  - "Bavaria"
 wikidata_id: "Q1188052"
 latitude: 48.1359
 longitude: 11.5497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oktoberfest-Denkmal.jpg/400px-Oktoberfest-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oktoberfest-Denkmal.jpg/800px-Oktoberfest-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oktoberfest-Denkmal.jpg/1200px-Oktoberfest-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oktoberfest-Denkmal.jpg/1920px-Oktoberfest-Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oktoberfest-Denkmal.jpg/1920px-Oktoberfest-Denkmal.jpg---
 
 ## Overview
 

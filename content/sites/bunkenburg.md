@@ -4,13 +4,13 @@ site_name: "Bunkenburg"
 date: 2026-01-26
 draft: false
 description: "castle in Lower Saxony"
-region: "Ahlden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ahlden"
+  - "Lower Saxony"
 wikidata_id: "Q182102"
 latitude: 52.7615
 longitude: 9.55867
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/400px-Brunkenburg_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/800px-Brunkenburg_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1200px-Brunkenburg_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1920px-Brunkenburg_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1920px-Brunkenburg_Panorama.jpg---
 
 ## Overview
 

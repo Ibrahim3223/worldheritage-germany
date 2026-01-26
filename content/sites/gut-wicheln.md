@@ -4,19 +4,18 @@ site_name: "Gut Wicheln"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Arnsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Arnsberg"
+  - "Hesse"
 wikidata_id: "Q1557081"
 latitude: 51.4012
 longitude: 8.02307
 images:
-  []
----
+  []---
 
 ## Overview
 

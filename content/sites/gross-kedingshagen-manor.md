@@ -4,13 +4,13 @@ site_name: "Groß Kedingshagen Manor"
 date: 2026-01-26
 draft: false
 description: "manor house in Kramerhof municipality, Germany"
-region: "Kramerhof"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kramerhof"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1614065"
 latitude: 54.3386
 longitude: 13.0353
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/400px-Groß_Kedingshagen,_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/800px-Groß_Kedingshagen,_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/1200px-Groß_Kedingshagen,_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/1920px-Groß_Kedingshagen,_Schloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/1920px-Groß_Kedingshagen,_Schloss.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Garten Kramerweg 11 in Gmund am Tegernsee"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-82-116-141 (1) in Gmund am Tegernsee, Bavaria"
-region: "Gmund am Tegernsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Gmund am Tegernsee"
+  - "Bavaria"
 wikidata_id: "Q98744954"
 latitude: 47.727653831
 longitude: 11.746856926
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Bischofroda"
 date: 2026-01-26
 draft: false
 description: "Castle in Germany"
-region: "Bischofroda"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bischofroda"
+  - "Thuringia"
 wikidata_id: "Q1268857"
 latitude: 51.0564
 longitude: 10.3616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/400px-WAK_Bischofroda_009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/800px-WAK_Bischofroda_009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/1200px-WAK_Bischofroda_009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/1920px-WAK_Bischofroda_009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/1920px-WAK_Bischofroda_009.jpg---
 
 ## Overview
 

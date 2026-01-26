@@ -4,13 +4,13 @@ site_name: "St. Georg"
 date: 2026-01-26
 draft: false
 description: "church building in Rees, Germany"
-region: "Rees"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rees"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2318394"
 latitude: 51.7744
 longitude: 6.45978
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/400px-St._Georg,_Haldern-3784.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/800px-St._Georg,_Haldern-3784.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/1200px-St._Georg,_Haldern-3784.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/1920px-St._Georg,_Haldern-3784.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/1920px-St._Georg,_Haldern-3784.jpg---
 
 ## Overview
 

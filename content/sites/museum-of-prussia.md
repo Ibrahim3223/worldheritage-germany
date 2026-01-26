@@ -4,13 +4,13 @@ site_name: "Museum of Prussia"
 date: 2026-01-26
 draft: false
 description: "museum in Minden"
-region: "Minden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Minden"
+  - "Lower Saxony"
 wikidata_id: "Q2109125"
 latitude: 52.2836
 longitude: 8.90861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Minden6.jpg/400px-Minden6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Minden6.jpg/800px-Minden6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Minden6.jpg/1200px-Minden6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Minden6.jpg/1920px-Minden6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Minden6.jpg/1920px-Minden6.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Buchmuseum"
 date: 2026-01-26
 draft: false
 description: "rare book and manuscript exhibition of the Saxon State and University Library Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q998667"
 latitude: 51.0286
 longitude: 13.7369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/400px-Schatzkammer_(17929084262)_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/800px-Schatzkammer_(17929084262)_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1200px-Schatzkammer_(17929084262)_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1920px-Schatzkammer_(17929084262)_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1920px-Schatzkammer_(17929084262)_(2).jpg---
 
 ## Overview
 

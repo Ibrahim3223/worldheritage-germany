@@ -4,13 +4,13 @@ site_name: "Memorial Hailfingen-Tailfingen concentration camp"
 date: 2026-01-26
 draft: false
 description: "war memorial in Hailfingen, Germany"
-region: "Tailfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tailfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1719322"
 latitude: 48.5517
 longitude: 8.87531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/400px-Hailfingen-tailfingen_2077.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/800px-Hailfingen-tailfingen_2077.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/1200px-Hailfingen-tailfingen_2077.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/1920px-Hailfingen-tailfingen_2077.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/1920px-Hailfingen-tailfingen_2077.jpg---
 
 ## Overview
 

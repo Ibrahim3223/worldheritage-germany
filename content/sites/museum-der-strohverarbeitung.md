@@ -4,13 +4,13 @@ site_name: "Museum der Strohverarbeitung"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Twistringen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Twistringen"
+  - "Lower Saxony"
 wikidata_id: "Q996623"
 latitude: 52.8036
 longitude: 8.63836
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/400px-Twistringen_Strohmuseum_Küche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/800px-Twistringen_Strohmuseum_Küche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/1200px-Twistringen_Strohmuseum_Küche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/1920px-Twistringen_Strohmuseum_Küche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/1920px-Twistringen_Strohmuseum_Küche.JPG---
 
 ## Overview
 

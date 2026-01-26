@@ -4,13 +4,13 @@ site_name: "Rheinisches Schützenmuseum Neuss"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2147843"
 latitude: 51.1952
 longitude: 6.69689
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/400px-Neuss,_Haus_Rottels,_2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/800px-Neuss,_Haus_Rottels,_2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/1200px-Neuss,_Haus_Rottels,_2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/1920px-Neuss,_Haus_Rottels,_2008.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/1920px-Neuss,_Haus_Rottels,_2008.JPG---
 
 ## Overview
 

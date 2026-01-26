@@ -4,13 +4,13 @@ site_name: "Lutherkirche, Gütersloh"
 date: 2026-01-26
 draft: false
 description: "church building in Gütersloh, Germany"
-region: "Gütersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gütersloh"
+  - "Lower Saxony"
 wikidata_id: "Q1903222"
 latitude: 51.9058
 longitude: 8.37917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/400px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/800px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/1200px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/1920px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/1920px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg---
 
 ## Overview
 

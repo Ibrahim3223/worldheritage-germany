@@ -4,19 +4,18 @@ site_name: "Dorfgrund"
 date: 2026-01-26
 draft: false
 description: "valley in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1244016"
 latitude: 51.1208
 longitude: 13.6587
 images:
-  []
----
+  []---
 
 ## Overview
 

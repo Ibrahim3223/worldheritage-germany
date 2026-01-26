@@ -4,13 +4,13 @@ site_name: "Sowjetischer Ehrenfriedhof Reitwein"
 date: 2026-01-26
 draft: false
 description: "cemetery in Reitwein, Germany"
-region: "Reitwein"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Reitwein"
+  - "Brandenburg"
 wikidata_id: "Q2305023"
 latitude: 52.5006
 longitude: 14.5783
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reitwein_Ehrenfriedhof.jpg/400px-Reitwein_Ehrenfriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reitwein_Ehrenfriedhof.jpg/800px-Reitwein_Ehrenfriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reitwein_Ehrenfriedhof.jpg/1200px-Reitwein_Ehrenfriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reitwein_Ehrenfriedhof.jpg/1920px-Reitwein_Ehrenfriedhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reitwein_Ehrenfriedhof.jpg/1920px-Reitwein_Ehrenfriedhof.jpg---
 
 ## Overview
 

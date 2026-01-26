@@ -4,13 +4,13 @@ site_name: "Denkmal Springendes Pferd"
 date: 2026-01-26
 draft: false
 description: "statue in Bergheim, Germany"
-region: "Bergheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bergheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15815113"
 latitude: 50.941202
 longitude: 6.68084
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Quadrath-Ichendorf_Springendes_Pferd_02.jpg/400px-Quadrath-Ichendorf_Springendes_Pferd_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Quadrath-Ichendorf_Springendes_Pferd_02.jpg/800px-Quadrath-Ichendorf_Springendes_Pferd_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Quadrath-Ichendorf_Springendes_Pferd_02.jpg/1200px-Quadrath-Ichendorf_Springendes_Pferd_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Quadrath-Ichendorf_Springendes_Pferd_02.jpg/1920px-Quadrath-Ichendorf_Springendes_Pferd_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Quadrath-Ichendorf_Springendes_Pferd_02.jpg/1920px-Quadrath-Ichendorf_Springendes_Pferd_02.jpg---
 
 ## Overview
 

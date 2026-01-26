@@ -4,13 +4,13 @@ site_name: "Märchenhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Alsfeld, Germany"
-region: "Alsfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Alsfeld"
+  - "Hesse"
 wikidata_id: "Q9209270"
 latitude: 50.75045
 longitude: 9.26973
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/400px-Alsfeld_Märchenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/800px-Alsfeld_Märchenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/1200px-Alsfeld_Märchenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/1920px-Alsfeld_Märchenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/1920px-Alsfeld_Märchenhaus.jpg---
 
 ## Overview
 

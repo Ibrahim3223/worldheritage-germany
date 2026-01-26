@@ -4,13 +4,13 @@ site_name: "Alte Gerberei"
 date: 2026-01-26
 draft: false
 description: "Museum and Technical Monument in Ohrdruf, Thuringia, Germany"
-region: "Ohrdruf"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ohrdruf"
+  - "Thuringia"
 wikidata_id: "Q435596"
 latitude: 50.8297
 longitude: 10.7344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ohrdruf-Alte-Gerberei.JPG/400px-Ohrdruf-Alte-Gerberei.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ohrdruf-Alte-Gerberei.JPG/800px-Ohrdruf-Alte-Gerberei.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ohrdruf-Alte-Gerberei.JPG/1200px-Ohrdruf-Alte-Gerberei.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ohrdruf-Alte-Gerberei.JPG/1920px-Ohrdruf-Alte-Gerberei.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ohrdruf-Alte-Gerberei.JPG/1920px-Ohrdruf-Alte-Gerberei.JPG---
 
 ## Overview
 

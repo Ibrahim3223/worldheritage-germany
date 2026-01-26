@@ -4,13 +4,13 @@ site_name: "The New Collection"
 date: 2026-01-26
 draft: false
 description: "Design Museum"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q286549"
 latitude: 48.146944
 longitude: 11.572222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/GraphyArchy_-_Wikipedia_00039.jpg/400px-GraphyArchy_-_Wikipedia_00039.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/GraphyArchy_-_Wikipedia_00039.jpg/800px-GraphyArchy_-_Wikipedia_00039.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/GraphyArchy_-_Wikipedia_00039.jpg/1200px-GraphyArchy_-_Wikipedia_00039.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/GraphyArchy_-_Wikipedia_00039.jpg/1920px-GraphyArchy_-_Wikipedia_00039.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/GraphyArchy_-_Wikipedia_00039.jpg/1920px-GraphyArchy_-_Wikipedia_00039.jpg---
 
 ## Overview
 

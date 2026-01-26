@@ -4,19 +4,18 @@ site_name: "An den Wurten 37"
 date: 2026-01-26
 draft: false
 description: "building in Einswarden, Lower Saxony"
-region: "Nordenham"
+region: "Bremen"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Nordenham"
+  - "Bremen"
 wikidata_id: "Q124257862"
 latitude: 53.516918
 longitude: 8.516145
 images:
-  []
----
+  []---
 
 ## Overview
 

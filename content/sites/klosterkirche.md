@@ -4,13 +4,13 @@ site_name: "Klosterkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Cottbus, Brandenburg state, Germany"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q1776416"
 latitude: 51.7616
 longitude: 14.3334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/400px-Cottbus_07-2017_img26_Klosterkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/800px-Cottbus_07-2017_img26_Klosterkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/1200px-Cottbus_07-2017_img26_Klosterkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/1920px-Cottbus_07-2017_img26_Klosterkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cottbus_07-2017_img26_Klosterkirche.jpg/1920px-Cottbus_07-2017_img26_Klosterkirche.jpg---
 
 ## Overview
 

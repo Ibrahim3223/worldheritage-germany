@@ -4,13 +4,13 @@ site_name: "Sebastianskirche Kochendorf"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Friedrichshall, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Bad Friedrichshall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Friedrichshall"
+  - "Baden-Württemberg"
 wikidata_id: "Q2263328"
 latitude: 49.2241
 longitude: 9.21754
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/400px-Kochendorf-sebastianskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/800px-Kochendorf-sebastianskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/1200px-Kochendorf-sebastianskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/1920px-Kochendorf-sebastianskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/1920px-Kochendorf-sebastianskirche.jpg---
 
 ## Overview
 

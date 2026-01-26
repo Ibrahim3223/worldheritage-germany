@@ -4,13 +4,13 @@ site_name: "Buckelgräberfeld von Bad Bevensen"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Bad Bevensen, Germany"
-region: "Bad Bevensen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Bad Bevensen"
+  - "Lower Saxony"
 wikidata_id: "Q999430"
 latitude: 53.085
 longitude: 10.5928
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg/400px-Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg/800px-Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg/1200px-Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg/1920px-Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg/1920px-Bad_Bevensen_-_Römstedter_Straße_-_Galgenberg_-_Buckelgräber_05_ies.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Neuenstein (Walting)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Q629503"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Q629503"
+  - "Bavaria"
 wikidata_id: "Q1013273"
 latitude: 48.92
 longitude: 11.363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/400px-Nonnenstein2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/800px-Nonnenstein2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/1200px-Nonnenstein2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/1920px-Nonnenstein2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/1920px-Nonnenstein2.JPG---
 
 ## Overview
 

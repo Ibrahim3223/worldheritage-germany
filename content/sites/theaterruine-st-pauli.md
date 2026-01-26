@@ -4,13 +4,13 @@ site_name: "Theaterruine St. Pauli"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1250019"
 latitude: 51.0752
 longitude: 13.7489
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dresden-St-Pauli.jpg/400px-Dresden-St-Pauli.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dresden-St-Pauli.jpg/800px-Dresden-St-Pauli.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dresden-St-Pauli.jpg/1200px-Dresden-St-Pauli.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dresden-St-Pauli.jpg/1920px-Dresden-St-Pauli.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dresden-St-Pauli.jpg/1920px-Dresden-St-Pauli.jpg---
 
 ## Overview
 

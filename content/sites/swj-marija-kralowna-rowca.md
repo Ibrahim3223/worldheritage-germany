@@ -4,13 +4,13 @@ site_name: "Swj. Marija, kralowna róžowca"
 date: 2026-01-26
 draft: false
 description: "church building in Radibor, Germany"
-region: "Radibor"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Radibor"
+  - "Saxony"
 wikidata_id: "Q1896274"
 latitude: 51.24281
 longitude: 14.396636
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg/400px-Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg/800px-Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg/1200px-Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg/1920px-Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg/1920px-Radibor_-_Dr.-Maria-Grollmuß-Straße_-_Maria_Rosenkranzkönigin_03_ies.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Christkönig-Kirche (Hauenstein)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hauenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hauenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1083912"
 latitude: 49.1928
 longitude: 7.84989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/400px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/800px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/1200px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/1920px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/1920px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG---
 
 ## Overview
 

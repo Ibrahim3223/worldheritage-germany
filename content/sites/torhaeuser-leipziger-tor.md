@@ -4,13 +4,13 @@ site_name: "Torhäuser Leipziger Tor"
 date: 2026-01-26
 draft: false
 description: "zwei Torhäuser am heutigen Palaisplatz in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1699291"
 latitude: 51.0614
 longitude: 13.7383
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/400px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/800px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/1200px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/1920px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/1920px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg---
 
 ## Overview
 

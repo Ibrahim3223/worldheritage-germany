@@ -4,19 +4,18 @@ site_name: "St.-Alexander-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Schmallenberg, Germany"
-region: "Schmallenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schmallenberg"
+  - "Hesse"
 wikidata_id: "Q2315846"
 latitude: 51.1474
 longitude: 8.28489
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Archivpark Nürnberg"
 date: 2026-01-26
 draft: false
 description: "park in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q635978"
 latitude: 49.4618
 longitude: 11.0737
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/400px-Archiv_Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/800px-Archiv_Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/1200px-Archiv_Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/1920px-Archiv_Park.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/1920px-Archiv_Park.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5628-0123 in Hendungen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Hendungen, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Hendungen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hendungen"
+  - "Bavaria"
 wikidata_id: "Q98170228"
 latitude: 50.394749595
 longitude: 10.351357954
 images:
-  []
----
+  []---
 
 ## Overview
 

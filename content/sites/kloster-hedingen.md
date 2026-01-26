@@ -4,13 +4,13 @@ site_name: "Kloster Hedingen"
 date: 2026-01-26
 draft: false
 description: "church building in Baden-Württemberg, Germany"
-region: "Sigmaringen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sigmaringen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1775304"
 latitude: 48.0819
 longitude: 9.22361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/400px-SigmaringenHedingerKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/800px-SigmaringenHedingerKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/1200px-SigmaringenHedingerKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/1920px-SigmaringenHedingerKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/1920px-SigmaringenHedingerKirche.jpg---
 
 ## Overview
 

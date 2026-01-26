@@ -4,13 +4,13 @@ site_name: "Bavariapark (Munich)"
 date: 2026-01-26
 draft: false
 description: "park in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q812003"
 latitude: 48.130999197
 longitude: 11.543054433
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/400px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/800px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg---
 
 ## Overview
 

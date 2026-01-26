@@ -4,13 +4,13 @@ site_name: "Hagen Open-air Museum"
 date: 2026-01-26
 draft: false
 description: "open-air museum in Hagen, North Rhine-Westphalia, Germany"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q896042"
 latitude: 51.334722222
 longitude: 7.477222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/400px-Hagen_Freilichtmuseum_R01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/800px-Hagen_Freilichtmuseum_R01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/1200px-Hagen_Freilichtmuseum_R01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/1920px-Hagen_Freilichtmuseum_R01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/1920px-Hagen_Freilichtmuseum_R01.jpg---
 
 ## Overview
 

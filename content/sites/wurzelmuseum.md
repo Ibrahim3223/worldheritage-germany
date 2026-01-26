@@ -4,19 +4,18 @@ site_name: "Wurzelmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Speinshart"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Speinshart"
+  - "Bavaria"
 wikidata_id: "Q76629520"
 latitude: 49.7758067
 longitude: 11.8146146
 images:
-  []
----
+  []---
 
 ## Overview
 

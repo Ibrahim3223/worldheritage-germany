@@ -4,19 +4,18 @@ site_name: "Dorotheenkirche (Nortrup)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Nortrup"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nortrup"
+  - "Lower Saxony"
 wikidata_id: "Q1250252"
 latitude: 52.5974
 longitude: 7.86894
 images:
-  []
----
+  []---
 
 ## Overview
 

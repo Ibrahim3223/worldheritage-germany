@@ -4,19 +4,18 @@ site_name: "Mitterwöhr"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1515305"
 latitude: 48.5475
 longitude: 12.1697
 images:
-  []
----
+  []---
 
 ## Overview
 

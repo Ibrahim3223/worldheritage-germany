@@ -4,13 +4,13 @@ site_name: "St. Johannes-Evangelist-Kirche (Berlin-Steglitz)"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q11722072"
 latitude: 52.4514
 longitude: 13.3497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/400px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/800px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/1200px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/1920px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/1920px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG---
 
 ## Overview
 

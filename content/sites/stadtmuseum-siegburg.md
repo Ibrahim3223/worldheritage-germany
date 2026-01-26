@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Siegburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Siegburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Siegburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q24175513"
 latitude: 50.79611
 longitude: 7.2064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/400px-Stadtmuseum_Siegburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/800px-Stadtmuseum_Siegburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/1200px-Stadtmuseum_Siegburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/1920px-Stadtmuseum_Siegburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/1920px-Stadtmuseum_Siegburg.jpg---
 
 ## Overview
 

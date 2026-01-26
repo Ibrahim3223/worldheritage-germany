@@ -4,13 +4,13 @@ site_name: "Schloss Dobbin"
 date: 2026-01-26
 draft: false
 description: "Adelssitz im Landkreis Rostock"
-region: "Dobbin-Linstow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Dobbin-Linstow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q19964393"
 latitude: 53.61583328
 longitude: 12.33111095
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/400px-Schloss_Dobbin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/800px-Schloss_Dobbin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/1200px-Schloss_Dobbin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/1920px-Schloss_Dobbin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/1920px-Schloss_Dobbin.JPG---
 
 ## Overview
 

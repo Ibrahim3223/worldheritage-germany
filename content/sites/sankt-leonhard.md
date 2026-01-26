@@ -4,13 +4,13 @@ site_name: "Sankt Leonhard"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Balzhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Balzhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1671185"
 latitude: 48.2384
 longitude: 10.4936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Balzhausen_Leonhardskapelle.jpg/400px-Balzhausen_Leonhardskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Balzhausen_Leonhardskapelle.jpg/800px-Balzhausen_Leonhardskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Balzhausen_Leonhardskapelle.jpg/1200px-Balzhausen_Leonhardskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Balzhausen_Leonhardskapelle.jpg/1920px-Balzhausen_Leonhardskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Balzhausen_Leonhardskapelle.jpg/1920px-Balzhausen_Leonhardskapelle.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Brewery „Zum Schlüssel“, Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q900425"
 latitude: 51.22611
 longitude: 6.77464
 images:
-  []
----
+  []---
 
 ## Overview
 

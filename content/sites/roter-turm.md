@@ -4,13 +4,13 @@ site_name: "Roter Turm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Kamenz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Kamenz"
+  - "Saxony"
 wikidata_id: "Q1232101"
 latitude: 51.2681
 longitude: 14.0939
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/400px-Kamenz-Roter_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/800px-Kamenz-Roter_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/1200px-Kamenz-Roter_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/1920px-Kamenz-Roter_Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/1920px-Kamenz-Roter_Turm.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rhauder Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Rhauderfehn, Germany"
-region: "Rhauderfehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rhauderfehn"
+  - "Lower Saxony"
 wikidata_id: "Q2147408"
 latitude: 53.1616
 longitude: 7.56932
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/400px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/800px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/1200px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/1920px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/1920px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg---
 
 ## Overview
 

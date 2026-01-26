@@ -4,13 +4,13 @@ site_name: "State Library of Berlin (Haus Unter den Linden)"
 date: 2026-01-26
 draft: false
 description: "library building"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2324837"
 latitude: 52.5178
 longitude: 13.3917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Biblioteca_Estatal_de_Berlín_001.jpg/400px-Biblioteca_Estatal_de_Berlín_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Biblioteca_Estatal_de_Berlín_001.jpg/800px-Biblioteca_Estatal_de_Berlín_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Biblioteca_Estatal_de_Berlín_001.jpg/1200px-Biblioteca_Estatal_de_Berlín_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Biblioteca_Estatal_de_Berlín_001.jpg/1920px-Biblioteca_Estatal_de_Berlín_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Biblioteca_Estatal_de_Berlín_001.jpg/1920px-Biblioteca_Estatal_de_Berlín_001.jpg---
 
 ## Overview
 

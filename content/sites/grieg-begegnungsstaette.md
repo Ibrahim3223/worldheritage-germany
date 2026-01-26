@@ -4,13 +4,13 @@ site_name: "Grieg-Begegnungsstätte"
 date: 2026-01-26
 draft: false
 description: "museum and meeting point of Grieg in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q49235514"
 latitude: 51.335134
 longitude: 12.386167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/400px-Grieg-Begegnungsstätte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/800px-Grieg-Begegnungsstätte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1200px-Grieg-Begegnungsstätte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1920px-Grieg-Begegnungsstätte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1920px-Grieg-Begegnungsstätte.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "WOK – World of Kitchen"
 date: 2026-01-26
 draft: false
 description: "museum in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q1717744"
 latitude: 52.3875
 longitude: 9.74
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/400px-WOK_Museum_Spichernstrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/800px-WOK_Museum_Spichernstrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/1200px-WOK_Museum_Spichernstrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/1920px-WOK_Museum_Spichernstrasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/1920px-WOK_Museum_Spichernstrasse.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hölderlin-Gymnasium Nürtingen"
 date: 2026-01-26
 draft: false
 description: "German school"
-region: "Nürtingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Nürtingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1643957"
 latitude: 48.6148
 longitude: 9.33619
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/400px-HöGy_Nürtingen_Gesamtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/800px-HöGy_Nürtingen_Gesamtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/1200px-HöGy_Nürtingen_Gesamtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/1920px-HöGy_Nürtingen_Gesamtansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/1920px-HöGy_Nürtingen_Gesamtansicht.jpg---
 
 ## Overview
 

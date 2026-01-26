@@ -4,13 +4,13 @@ site_name: "Amtsgericht Bensheim"
 date: 2026-01-26
 draft: false
 description: "Gerichtsgebäude in Bensheim, Hessen"
-region: "Bensheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Bensheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q110206053"
 latitude: 49.6853
 longitude: 8.6199
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bensheim_Amtsgericht_01.jpg/400px-Bensheim_Amtsgericht_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bensheim_Amtsgericht_01.jpg/800px-Bensheim_Amtsgericht_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bensheim_Amtsgericht_01.jpg/1200px-Bensheim_Amtsgericht_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bensheim_Amtsgericht_01.jpg/1920px-Bensheim_Amtsgericht_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bensheim_Amtsgericht_01.jpg/1920px-Bensheim_Amtsgericht_01.jpg---
 
 ## Overview
 

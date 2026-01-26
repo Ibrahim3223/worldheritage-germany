@@ -4,13 +4,13 @@ site_name: "Dorfkirche Cammin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Cammin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cammin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244201"
 latitude: 53.9898
 longitude: 12.3558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/400px-Kirche_in_Cammin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/800px-Kirche_in_Cammin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/1200px-Kirche_in_Cammin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/1920px-Kirche_in_Cammin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/1920px-Kirche_in_Cammin.JPG---
 
 ## Overview
 

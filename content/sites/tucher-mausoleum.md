@@ -4,13 +4,13 @@ site_name: "Tucher-Mausoleum"
 date: 2026-01-26
 draft: false
 description: "mausoleum southeast of Simmelsdorf in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Simmelsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Simmelsdorf"
+  - "Bavaria"
 wikidata_id: "Q41392170"
 latitude: 49.593109
 longitude: 11.32632
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/400px-Simmelsdorf_Tucher-Mausoleum_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/800px-Simmelsdorf_Tucher-Mausoleum_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/1200px-Simmelsdorf_Tucher-Mausoleum_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/1920px-Simmelsdorf_Tucher-Mausoleum_002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/1920px-Simmelsdorf_Tucher-Mausoleum_002.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mühle Münkeboe"
 date: 2026-01-26
 draft: false
 description: "Mühle in Ostfriesland, Niedersachsen, Deutschland"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q1702695"
 latitude: 53.5155
 longitude: 7.37263
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/400px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/800px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/1200px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/1920px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/1920px-Münkeboe_Dorfmuseum_Galerieholländer.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stratmanns Theater Europahaus"
 date: 2026-01-26
 draft: false
 description: "theatre in Essen, Germany, former town hall"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q468138"
 latitude: 51.4561
 longitude: 7.01083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kennedyplatz,_Essen_06.jpg/400px-Kennedyplatz,_Essen_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kennedyplatz,_Essen_06.jpg/800px-Kennedyplatz,_Essen_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kennedyplatz,_Essen_06.jpg/1200px-Kennedyplatz,_Essen_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kennedyplatz,_Essen_06.jpg/1920px-Kennedyplatz,_Essen_06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kennedyplatz,_Essen_06.jpg/1920px-Kennedyplatz,_Essen_06.jpg---
 
 ## Overview
 

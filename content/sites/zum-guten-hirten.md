@@ -4,13 +4,13 @@ site_name: "Zum Guten Hirten"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q1594152"
 latitude: 53.5159
 longitude: 7.36968
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Münkeboe_Kirche.JPG/400px-Münkeboe_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Münkeboe_Kirche.JPG/800px-Münkeboe_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Münkeboe_Kirche.JPG/1200px-Münkeboe_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Münkeboe_Kirche.JPG/1920px-Münkeboe_Kirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Münkeboe_Kirche.JPG/1920px-Münkeboe_Kirche.JPG---
 
 ## Overview
 

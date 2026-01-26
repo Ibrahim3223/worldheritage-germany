@@ -4,13 +4,13 @@ site_name: "Heussallee 7–11"
 date: 2026-01-26
 draft: false
 description: "ensemble of apartment buildings in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q320246"
 latitude: 50.717839
 longitude: 7.124185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn_Heussallee_7_(2).jpg/400px-Bonn_Heussallee_7_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn_Heussallee_7_(2).jpg/800px-Bonn_Heussallee_7_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn_Heussallee_7_(2).jpg/1200px-Bonn_Heussallee_7_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn_Heussallee_7_(2).jpg/1920px-Bonn_Heussallee_7_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn_Heussallee_7_(2).jpg/1920px-Bonn_Heussallee_7_(2).jpg---
 
 ## Overview
 

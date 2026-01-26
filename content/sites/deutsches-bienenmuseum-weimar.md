@@ -4,13 +4,13 @@ site_name: "Deutsches Bienenmuseum Weimar"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1205566"
 latitude: 50.9655934
 longitude: 11.3439034
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/400px-Bienenmuseum_Weimar.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/800px-Bienenmuseum_Weimar.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1200px-Bienenmuseum_Weimar.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1920px-Bienenmuseum_Weimar.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1920px-Bienenmuseum_Weimar.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zwei Brückenpfeiler der Schmalspurbahn und Verladerampe Löbauer St
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Beiersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Beiersdorf"
+  - "Saxony"
 wikidata_id: "Q49430172"
 latitude: 51.070748
 longitude: 14.533519
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/400px-Beiersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/800px-Beiersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/1200px-Beiersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/1920px-Beiersdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/1920px-Beiersdorf.jpg---
 
 ## Overview
 

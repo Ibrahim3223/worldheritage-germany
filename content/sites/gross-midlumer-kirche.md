@@ -4,13 +4,13 @@ site_name: "Groß Midlumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hinte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hinte"
+  - "Lower Saxony"
 wikidata_id: "Q1547942"
 latitude: 53.410216
 longitude: 7.158247
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/400px-Groß_Midlum_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/800px-Groß_Midlum_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1200px-Groß_Midlum_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1920px-Groß_Midlum_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1920px-Groß_Midlum_Westseite.jpg---
 
 ## Overview
 

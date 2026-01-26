@@ -4,19 +4,18 @@ site_name: "Wilhelmsstift. Bibliothek"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1783538"
 latitude: 48.5212
 longitude: 9.05515
 images:
-  []
----
+  []---
 
 ## Overview
 

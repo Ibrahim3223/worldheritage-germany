@@ -4,13 +4,13 @@ site_name: "Wittringen Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gladbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gladbeck"
+  - "Lower Saxony"
 wikidata_id: "Q315376"
 latitude: 51.55965
 longitude: 6.98125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wittringen2.JPG/400px-Wittringen2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wittringen2.JPG/800px-Wittringen2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wittringen2.JPG/1200px-Wittringen2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wittringen2.JPG/1920px-Wittringen2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wittringen2.JPG/1920px-Wittringen2.JPG---
 
 ## Overview
 

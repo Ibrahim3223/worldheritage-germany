@@ -4,19 +4,18 @@ site_name: "Technikmuseum Kummersdorf"
 date: 2026-01-26
 draft: false
 description: "former museum in Germany"
-region: "Am Mellensee"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Am Mellensee"
+  - "Brandenburg"
 wikidata_id: "Q994937"
 latitude: 52.0957
 longitude: 13.3653
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Torhaus Gleißhammerstraße 2 in Nürnberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-64-000-622 (2) in Nürnberg, Bavaria"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q98626593"
 latitude: 49.447157699
 longitude: 11.109004648
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/400px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/800px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/1200px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/1920px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/1920px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg---
 
 ## Overview
 

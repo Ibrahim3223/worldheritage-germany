@@ -4,19 +4,18 @@ site_name: "Stadthalle Balingen"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall and convention centre in Balingen, Germany"
-region: "Balingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Balingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q61695992"
 latitude: 48.27227
 longitude: 8.85728
 images:
-  []
----
+  []---
 
 ## Overview
 

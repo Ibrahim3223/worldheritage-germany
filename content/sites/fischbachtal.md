@@ -4,19 +4,18 @@ site_name: "Fischbachtal"
 date: 2026-01-26
 draft: false
 description: "valley"
-region: "Heimbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Heimbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1419811"
 latitude: 50.6405
 longitude: 6.4744
 images:
-  []
----
+  []---
 
 ## Overview
 

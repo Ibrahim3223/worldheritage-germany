@@ -4,13 +4,13 @@ site_name: "Museum Bad Schwartau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Schwartau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Schwartau"
+  - "Lower Saxony"
 wikidata_id: "Q1759194"
 latitude: 53.9155
 longitude: 10.6985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/400px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/800px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/1200px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/1920px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/1920px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG---
 
 ## Overview
 

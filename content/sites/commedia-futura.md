@@ -4,19 +4,18 @@ site_name: "Commedia Futura"
 date: 2026-01-26
 draft: false
 description: "theatre in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q1115164"
 latitude: 52.3651
 longitude: 9.75215
 images:
-  []
----
+  []---
 
 ## Overview
 

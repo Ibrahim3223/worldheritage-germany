@@ -4,13 +4,13 @@ site_name: "Lessinghaus"
 date: 2026-01-26
 draft: false
 description: "museum in Wolfenbüttel"
-region: "Wolfenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolfenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q1820936"
 latitude: 52.1636
 longitude: 10.5301
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/400px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/800px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/1200px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/1920px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/1920px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg---
 
 ## Overview
 

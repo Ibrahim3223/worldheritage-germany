@@ -4,13 +4,13 @@ site_name: "Paradiesmühle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lügde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lügde"
+  - "Lower Saxony"
 wikidata_id: "Q2051363"
 latitude: 51.8766
 longitude: 9.28196
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/400px-Paradiesmuehle_Rischenau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/800px-Paradiesmuehle_Rischenau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/1200px-Paradiesmuehle_Rischenau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/1920px-Paradiesmuehle_Rischenau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/1920px-Paradiesmuehle_Rischenau.JPG---
 
 ## Overview
 

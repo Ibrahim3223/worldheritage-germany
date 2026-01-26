@@ -4,13 +4,13 @@ site_name: "Buxheim Charterhouse"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Buxheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Buxheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q460224"
 latitude: 47.9995
 longitude: 10.1338
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/400px-Klosterhof_Reichskartause_Buxheim2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/800px-Klosterhof_Reichskartause_Buxheim2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1200px-Klosterhof_Reichskartause_Buxheim2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1920px-Klosterhof_Reichskartause_Buxheim2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1920px-Klosterhof_Reichskartause_Buxheim2.JPG---
 
 ## Overview
 

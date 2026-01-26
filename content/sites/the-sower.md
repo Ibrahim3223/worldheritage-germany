@@ -4,13 +4,13 @@ site_name: "The Sower"
 date: 2026-01-26
 draft: false
 description: "sculpture by Constantin Meunier at the Günthersburgpark in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1197240"
 latitude: 50.1292176
 longitude: 8.7014463
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FFM_Guenthersburgpark_Saemann-Statue.jpg/400px-FFM_Guenthersburgpark_Saemann-Statue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FFM_Guenthersburgpark_Saemann-Statue.jpg/800px-FFM_Guenthersburgpark_Saemann-Statue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FFM_Guenthersburgpark_Saemann-Statue.jpg/1200px-FFM_Guenthersburgpark_Saemann-Statue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FFM_Guenthersburgpark_Saemann-Statue.jpg/1920px-FFM_Guenthersburgpark_Saemann-Statue.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FFM_Guenthersburgpark_Saemann-Statue.jpg/1920px-FFM_Guenthersburgpark_Saemann-Statue.jpg---
 
 ## Overview
 

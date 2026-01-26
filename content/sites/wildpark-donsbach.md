@@ -4,19 +4,18 @@ site_name: "Wildpark Donsbach"
 date: 2026-01-26
 draft: false
 description: "Wildpark in Deutschland"
-region: "Dillenburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Dillenburg"
+  - "Hesse"
 wikidata_id: "Q2570796"
 latitude: 50.7186
 longitude: 8.24083
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mauritianum"
 date: 2026-01-26
 draft: false
 description: "natural history museum in Germany"
-region: "Altenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altenburg"
+  - "Saxony"
 wikidata_id: "Q883163"
 latitude: 50.9919785
 longitude: 12.4464284
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/400px-Mauritianum_Altenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/800px-Mauritianum_Altenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/1200px-Mauritianum_Altenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/1920px-Mauritianum_Altenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/1920px-Mauritianum_Altenburg.jpg---
 
 ## Overview
 

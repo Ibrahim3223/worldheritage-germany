@@ -4,13 +4,13 @@ site_name: "Internationale Bachakademie Stuttgart"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q133648"
 latitude: 48.76898
 longitude: 9.16247
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/400px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/800px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1200px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1920px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1920px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg---
 
 ## Overview
 

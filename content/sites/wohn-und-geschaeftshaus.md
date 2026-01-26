@@ -4,13 +4,13 @@ site_name: "Wohn- und Geschäftshaus"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-61-000-460 (0) in Bamberg, Bavaria"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q41426040"
 latitude: 49.89144
 longitude: 10.88632
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/400px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/800px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/1200px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/1920px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/1920px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg---
 
 ## Overview
 

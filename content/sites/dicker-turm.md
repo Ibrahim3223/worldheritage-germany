@@ -4,13 +4,13 @@ site_name: "Dicker Turm"
 date: 2026-01-26
 draft: false
 description: "tower in Düren,Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1209962"
 latitude: 50.7989
 longitude: 6.48225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/400px-Dueren_Dicker_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/800px-Dueren_Dicker_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/1200px-Dueren_Dicker_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/1920px-Dueren_Dicker_Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/1920px-Dueren_Dicker_Turm.jpg---
 
 ## Overview
 

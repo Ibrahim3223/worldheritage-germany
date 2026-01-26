@@ -4,13 +4,13 @@ site_name: "Burg Haneck"
 date: 2026-01-26
 draft: false
 description: "Burgruine in Deutschland"
-region: "Oestrich-Winkel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Oestrich-Winkel"
+  - "Hesse"
 wikidata_id: "Q1012186"
 latitude: 50.10649206
 longitude: 7.941044735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/400px-GeroldsteinBurgHaneck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/800px-GeroldsteinBurgHaneck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/1200px-GeroldsteinBurgHaneck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/1920px-GeroldsteinBurgHaneck.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/1920px-GeroldsteinBurgHaneck.JPG---
 
 ## Overview
 

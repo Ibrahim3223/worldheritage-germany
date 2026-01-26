@@ -4,13 +4,13 @@ site_name: "Neue Wache"
 date: 2026-01-26
 draft: false
 description: "historical building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q152341"
 latitude: 52.5175
 longitude: 13.395556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150214_Neue_Wache_Berlin.jpg/400px-150214_Neue_Wache_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150214_Neue_Wache_Berlin.jpg/800px-150214_Neue_Wache_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150214_Neue_Wache_Berlin.jpg/1200px-150214_Neue_Wache_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150214_Neue_Wache_Berlin.jpg/1920px-150214_Neue_Wache_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150214_Neue_Wache_Berlin.jpg/1920px-150214_Neue_Wache_Berlin.jpg---
 
 ## Overview
 

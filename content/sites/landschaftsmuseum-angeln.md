@@ -4,13 +4,13 @@ site_name: "Landschaftsmuseum Angeln"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Langballig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Langballig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1803780"
 latitude: 54.795
 longitude: 9.65
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg/400px-Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg/800px-Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg/1200px-Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg/1920px-Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg/1920px-Landschaftsmuseum_Angeln-Luftaufnahme-0149-msu-2020-.jpg---
 
 ## Overview
 

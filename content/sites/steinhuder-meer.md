@@ -4,13 +4,13 @@ site_name: "Steinhuder Meer"
 date: 2026-01-26
 draft: false
 description: "lake in Wunstorf, Lower Saxony, Germany"
-region: "Wunstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Wunstorf"
+  - "Lower Saxony"
 wikidata_id: "Q165782"
 latitude: 52.466666666
 longitude: 9.333333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/400px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/800px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/1200px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/1920px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/1920px-Wilhelmstein_Steinhuder_Meer_Eins.jpg---
 
 ## Overview
 

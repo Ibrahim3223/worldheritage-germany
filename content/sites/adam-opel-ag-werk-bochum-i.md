@@ -4,19 +4,18 @@ site_name: "Adam Opel AG Werk Bochum I"
 date: 2026-01-26
 draft: false
 description: "ehemaliger Produktionsstandort der Adam Opel AG in Bochum"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q350571"
 latitude: 51.465833
 longitude: 7.263889
 images:
-  []
----
+  []---
 
 ## Overview 
 

@@ -4,13 +4,13 @@ site_name: "Ruppiner See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Ostprignitz-Ruppin District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ostprignitz-Ruppin District"
+  - "Brandenburg"
 wikidata_id: "Q323423"
 latitude: 52.8975
 longitude: 12.8075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/OPR_Wustrau_Ruppiner_See.jpg/400px-OPR_Wustrau_Ruppiner_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/OPR_Wustrau_Ruppiner_See.jpg/800px-OPR_Wustrau_Ruppiner_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/OPR_Wustrau_Ruppiner_See.jpg/1200px-OPR_Wustrau_Ruppiner_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/OPR_Wustrau_Ruppiner_See.jpg/1920px-OPR_Wustrau_Ruppiner_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/OPR_Wustrau_Ruppiner_See.jpg/1920px-OPR_Wustrau_Ruppiner_See.jpg---
 
 ## Overview
 

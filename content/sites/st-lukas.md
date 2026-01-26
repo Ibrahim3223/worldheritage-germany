@@ -4,13 +4,13 @@ site_name: "St. Lukas"
 date: 2026-01-26
 draft: false
 description: "Evangelical Lutheran church in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q321485"
 latitude: 48.135197
 longitude: 11.587397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2023-02-10_St._Lukaskirche_München_01.jpg/400px-2023-02-10_St._Lukaskirche_München_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2023-02-10_St._Lukaskirche_München_01.jpg/800px-2023-02-10_St._Lukaskirche_München_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2023-02-10_St._Lukaskirche_München_01.jpg/1200px-2023-02-10_St._Lukaskirche_München_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2023-02-10_St._Lukaskirche_München_01.jpg/1920px-2023-02-10_St._Lukaskirche_München_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2023-02-10_St._Lukaskirche_München_01.jpg/1920px-2023-02-10_St._Lukaskirche_München_01.jpg---
 
 ## Overview
 

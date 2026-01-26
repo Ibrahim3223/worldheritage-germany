@@ -4,13 +4,13 @@ site_name: "Kupferstich-Kabinett Dresden"
 date: 2026-01-26
 draft: false
 description: "collection of prints of the Staatliche Kunstsammlungen Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q570620"
 latitude: 51.0527
 longitude: 13.7369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/400px-DD-Schloss-gp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/800px-DD-Schloss-gp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1200px-DD-Schloss-gp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1920px-DD-Schloss-gp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1920px-DD-Schloss-gp.jpg---
 
 ## Overview
 

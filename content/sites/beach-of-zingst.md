@@ -4,13 +4,13 @@ site_name: "Beach of Zingst"
 date: 2026-01-26
 draft: false
 description: "Strand an der Ostsee in Mecklenburg-Vorpommern."
-region: "Zingst"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Zingst"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q136410113"
 latitude: 54.441959
 longitude: 12.670766
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zingst,_Strand04.jpg/400px-Zingst,_Strand04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zingst,_Strand04.jpg/800px-Zingst,_Strand04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zingst,_Strand04.jpg/1200px-Zingst,_Strand04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zingst,_Strand04.jpg/1920px-Zingst,_Strand04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zingst,_Strand04.jpg/1920px-Zingst,_Strand04.jpg---
 
 ## Overview
 

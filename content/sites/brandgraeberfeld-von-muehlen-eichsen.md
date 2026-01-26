@@ -4,19 +4,18 @@ site_name: "Brandgräberfeld von Mühlen Eichsen"
 date: 2026-01-26
 draft: false
 description: "archäologische Stätte in Deutschland"
-region: "Nordwestmecklenburg District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Nordwestmecklenburg District"
+  - "Lower Saxony"
 wikidata_id: "Q898001"
 latitude: 53.7558
 longitude: 11.2589
 images:
-  []
----
+  []---
 
 ## Overview
 

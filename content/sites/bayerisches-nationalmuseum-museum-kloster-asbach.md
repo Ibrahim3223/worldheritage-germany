@@ -4,19 +4,18 @@ site_name: "Bayerisches Nationalmuseum / Museum Kloster Asbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629390"
 latitude: 48.396379
 longitude: 13.177681
 images:
-  []
----
+  []---
 
 ## Overview
 

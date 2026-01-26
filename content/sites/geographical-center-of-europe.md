@@ -4,13 +4,13 @@ site_name: "geographical center of Europe"
 date: 2026-01-26
 draft: false
 description: "memorial and geographical midpoint of Europe in Tillenberg near Bad Neualbenreuth and Stará Voda"
-region: "Stará Voda"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Stará Voda"
+  - "Bavaria"
 wikidata_id: "Q21000036"
 latitude: 49.96202
 longitude: 12.49068
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG/400px-Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG/800px-Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG/1200px-Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG/1920px-Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG/1920px-Mittelpunkt_Europas_Tillenberg_2015_xy2.JPG---
 
 ## Overview
 

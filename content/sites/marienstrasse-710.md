@@ -4,19 +4,18 @@ site_name: "Marienstraße 7–10"
 date: 2026-01-26
 draft: false
 description: "buildings in Stralsund, Germany"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15867181"
 latitude: 54.30939
 longitude: 13.0871
 images:
-  []
----
+  []---
 
 ## Overview
 

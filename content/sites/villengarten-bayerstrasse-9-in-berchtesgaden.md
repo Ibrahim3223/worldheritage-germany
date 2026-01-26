@@ -4,19 +4,18 @@ site_name: "Villengarten Bayerstraße 9 in Berchtesgaden"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-72-116-11 (2) in Berchtesgaden, Bavaria"
-region: "Berchtesgaden"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Berchtesgaden"
+  - "Bavaria"
 wikidata_id: "Q98741943"
 latitude: 47.626947298
 longitude: 12.992114973
 images:
-  []
----
+  []---
 
 ## Overview
 

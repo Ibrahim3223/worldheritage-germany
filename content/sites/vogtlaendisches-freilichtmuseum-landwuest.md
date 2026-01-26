@@ -4,13 +4,13 @@ site_name: "Vogtländisches Freilichtmuseum Landwüst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Markneukirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Markneukirchen"
+  - "Bavaria"
 wikidata_id: "Q2530352"
 latitude: 50.27
 longitude: 12.3313
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Landwüst_Freilichtmuseum.JPG/400px-Landwüst_Freilichtmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Landwüst_Freilichtmuseum.JPG/800px-Landwüst_Freilichtmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Landwüst_Freilichtmuseum.JPG/1200px-Landwüst_Freilichtmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Landwüst_Freilichtmuseum.JPG/1920px-Landwüst_Freilichtmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Landwüst_Freilichtmuseum.JPG/1920px-Landwüst_Freilichtmuseum.JPG---
 
 ## Overview
 

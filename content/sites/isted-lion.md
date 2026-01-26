@@ -4,13 +4,13 @@ site_name: "Isted Lion"
 date: 2026-01-26
 draft: false
 description: "sculpture"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q538360"
 latitude: 54.78531076
 longitude: 9.42948818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/400px-Flensburger_Loewe3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/800px-Flensburger_Loewe3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/1200px-Flensburger_Loewe3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/1920px-Flensburger_Loewe3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/1920px-Flensburger_Loewe3.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Schliersee"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629429"
 latitude: 47.73452
 longitude: 11.863335
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/400px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/800px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/1200px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/1920px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/1920px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg---
 
 ## Overview
 

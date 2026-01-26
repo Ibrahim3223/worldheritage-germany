@@ -4,13 +4,13 @@ site_name: "Georgi-Dimitroff-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q55591691"
 latitude: 51.333027777
 longitude: 12.369777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg/400px-Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg/800px-Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg/1200px-Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg/1920px-Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg/1920px-Fotothek_df_roe-neg_0006372_011_Chinesische_Delegierte_im_Plenarsaal_des_Reichge.jpg---
 
 ## Overview
 

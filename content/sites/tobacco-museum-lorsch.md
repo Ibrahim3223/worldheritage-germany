@@ -4,19 +4,18 @@ site_name: "Tobacco Museum Lorsch"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lorsch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lorsch"
+  - "Baden-Württemberg"
 wikidata_id: "Q2386248"
 latitude: 49.6543
 longitude: 8.5691
 images:
-  []
----
+  []---
 
 ## Overview
 

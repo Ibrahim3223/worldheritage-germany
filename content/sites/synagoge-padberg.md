@@ -4,13 +4,13 @@ site_name: "Synagoge (Padberg)"
 date: 2026-01-26
 draft: false
 description: "former synagogue"
-region: "Marsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Marsberg"
+  - "Hesse"
 wikidata_id: "Q1386186"
 latitude: 51.4039
 longitude: 8.76464
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/400px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/800px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/1200px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/1920px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/1920px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg---
 
 ## Overview
 

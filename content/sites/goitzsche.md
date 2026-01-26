@@ -4,13 +4,13 @@ site_name: "Goitzsche"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Anhalt-Bitterfeld"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Anhalt-Bitterfeld"
+  - "Brandenburg"
 wikidata_id: "Q1123435"
 latitude: 51.6263
 longitude: 12.3637
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/400px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/800px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/1200px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/1920px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/1920px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg---
 
 ## Overview
 

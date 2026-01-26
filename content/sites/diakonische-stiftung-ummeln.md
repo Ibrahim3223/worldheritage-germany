@@ -4,19 +4,18 @@ site_name: "Diakonische Stiftung Ummeln"
 date: 2026-01-26
 draft: false
 description: "betreibt Einrichtungen und Dienste der Behindertenhilfe und der Jugendhilfe"
-region: "North Rhine-Westphalia"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "North Rhine-Westphalia"
+  - "Lower Saxony"
 wikidata_id: "Q2349193"
 latitude: 51.9753
 longitude: 8.44716
 images:
-  []
----
+  []---
 
 ## Overview
 

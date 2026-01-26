@@ -4,13 +4,13 @@ site_name: "Dorfkirche Gustow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Gustow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gustow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244343"
 latitude: 54.3018
 longitude: 13.2135
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/400px-Gustow_kirche_imgp7751.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/800px-Gustow_kirche_imgp7751.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1200px-Gustow_kirche_imgp7751.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1920px-Gustow_kirche_imgp7751.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1920px-Gustow_kirche_imgp7751.jpg---
 
 ## Overview
 

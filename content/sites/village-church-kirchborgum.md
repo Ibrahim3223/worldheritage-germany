@@ -4,13 +4,13 @@ site_name: "Village church Kirchborgum"
 date: 2026-01-26
 draft: false
 description: "church building in Lower Saxony state, Germany"
-region: "Weener"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weener"
+  - "Lower Saxony"
 wikidata_id: "Q1311745"
 latitude: 53.2002
 longitude: 7.40437
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/400px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/800px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/1200px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/1920px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/1920px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG---
 
 ## Overview
 

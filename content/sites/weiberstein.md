@@ -4,13 +4,13 @@ site_name: "Weiberstein"
 date: 2026-01-26
 draft: false
 description: "monument in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1373012"
 latitude: 51.0969
 longitude: 13.6557
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/400px-RadebeulWeiberstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/800px-RadebeulWeiberstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/1200px-RadebeulWeiberstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/1920px-RadebeulWeiberstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/1920px-RadebeulWeiberstein.JPG---
 
 ## Overview
 

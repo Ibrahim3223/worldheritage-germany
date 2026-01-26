@@ -4,13 +4,13 @@ site_name: "Vilbel Castle"
 date: 2026-01-26
 draft: false
 description: "Kulturdenkmal in Bad Vilbel"
-region: "Bad Vilbel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Vilbel"
+  - "Hesse"
 wikidata_id: "Q368760"
 latitude: 50.185
 longitude: 8.7448
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/400px-Wasserburg_Bad_Vilbel_869-vd.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/800px-Wasserburg_Bad_Vilbel_869-vd.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/1200px-Wasserburg_Bad_Vilbel_869-vd.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/1920px-Wasserburg_Bad_Vilbel_869-vd.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/1920px-Wasserburg_Bad_Vilbel_869-vd.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Ratsschulbibliothek Zwickau"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Zwickau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Zwickau"
+  - "Saxony"
 wikidata_id: "Q2132885"
 latitude: 50.7258
 longitude: 12.4897
 images:
-  []
----
+  []---
 
 ## Overview
 

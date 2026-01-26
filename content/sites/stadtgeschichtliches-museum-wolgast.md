@@ -4,13 +4,13 @@ site_name: "Stadtgeschichtliches Museum (Wolgast)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wolgast"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolgast"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2327172"
 latitude: 54.0545
 longitude: 13.7778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/400px-Stadtgeschichtliches_Museum_Wolgast.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/800px-Stadtgeschichtliches_Museum_Wolgast.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/1200px-Stadtgeschichtliches_Museum_Wolgast.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/1920px-Stadtgeschichtliches_Museum_Wolgast.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/1920px-Stadtgeschichtliches_Museum_Wolgast.jpg---
 
 ## Overview
 

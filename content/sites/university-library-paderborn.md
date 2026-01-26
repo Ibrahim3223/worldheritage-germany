@@ -4,13 +4,13 @@ site_name: "University Library Paderborn"
 date: 2026-01-26
 draft: false
 description: "library in Paderborn, Germany"
-region: "Paderborn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Paderborn"
+  - "Lower Saxony"
 wikidata_id: "Q2496328"
 latitude: 51.7081
 longitude: 8.77222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/400px-Unibibliothek_Paderborn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/800px-Unibibliothek_Paderborn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/1200px-Unibibliothek_Paderborn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/1920px-Unibibliothek_Paderborn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/1920px-Unibibliothek_Paderborn.jpg---
 
 ## Overview
 

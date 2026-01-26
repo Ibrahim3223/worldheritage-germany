@@ -4,19 +4,18 @@ site_name: "Stiftung für Toleranz und Völkerverständigung"
 date: 2026-01-26
 draft: false
 description: "private Stiftung"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q19962358"
 latitude: 52.3956181
 longitude: 13.0567583
 images:
-  []
----
+  []---
 
 ## Overview
 

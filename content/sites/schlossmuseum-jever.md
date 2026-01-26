@@ -4,13 +4,13 @@ site_name: "Schlossmuseum Jever"
 date: 2026-01-26
 draft: false
 description: "museum in Jever, Lower Saxony, Germany (1921-)"
-region: "Jever"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jever"
+  - "Lower Saxony"
 wikidata_id: "Q2244612"
 latitude: 53.5722
 longitude: 7.90306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schloss_Jever.JPG/400px-Schloss_Jever.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schloss_Jever.JPG/800px-Schloss_Jever.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schloss_Jever.JPG/1200px-Schloss_Jever.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schloss_Jever.JPG/1920px-Schloss_Jever.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schloss_Jever.JPG/1920px-Schloss_Jever.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Olympiapark"
 date: 2026-01-26
 draft: false
 description: "urban park in Munich, Bavaria, Germany"
-region: "Milbertshofen-Am Hart"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Milbertshofen-Am Hart"
+  - "Bavaria"
 wikidata_id: "Q383296"
 latitude: 48.17
 longitude: 11.551666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/München_-_Olympische_Bauten.jpg/400px-München_-_Olympische_Bauten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/München_-_Olympische_Bauten.jpg/800px-München_-_Olympische_Bauten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/München_-_Olympische_Bauten.jpg/1200px-München_-_Olympische_Bauten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/München_-_Olympische_Bauten.jpg/1920px-München_-_Olympische_Bauten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/München_-_Olympische_Bauten.jpg/1920px-München_-_Olympische_Bauten.jpg---
 
 ## Overview
 

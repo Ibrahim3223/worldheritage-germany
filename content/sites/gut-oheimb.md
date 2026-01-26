@@ -4,13 +4,13 @@ site_name: "Gut Oheimb"
 date: 2026-01-26
 draft: false
 description: "manor house in Holzhausen, Germany"
-region: "Porta Westfalica"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Porta Westfalica"
+  - "Lower Saxony"
 wikidata_id: "Q1557004"
 latitude: 52.2278
 longitude: 8.8975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GutOheimb1.jpg/400px-GutOheimb1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GutOheimb1.jpg/800px-GutOheimb1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GutOheimb1.jpg/1200px-GutOheimb1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GutOheimb1.jpg/1920px-GutOheimb1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/GutOheimb1.jpg/1920px-GutOheimb1.jpg---
 
 ## Overview
 

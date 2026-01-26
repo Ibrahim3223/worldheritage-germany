@@ -4,13 +4,13 @@ site_name: "Evangelische Hauptkirche Rheydt"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mönchengladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mönchengladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1380199"
 latitude: 51.1682
 longitude: 6.44638
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/400px-Ev_Hauptkirche_Rheydt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/800px-Ev_Hauptkirche_Rheydt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/1200px-Ev_Hauptkirche_Rheydt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/1920px-Ev_Hauptkirche_Rheydt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/1920px-Ev_Hauptkirche_Rheydt.jpg---
 
 ## Overview
 

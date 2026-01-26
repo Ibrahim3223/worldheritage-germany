@@ -4,19 +4,18 @@ site_name: "Atlantis Childrens' Museum"
 date: 2026-01-26
 draft: false
 description: "museum for children in Duisburg, Germany"
-region: "Duisburg-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Duisburg-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q756700"
 latitude: 51.4403
 longitude: 6.77028
 images:
-  []
----
+  []---
 
 ## Overview
 

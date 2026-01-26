@@ -4,13 +4,13 @@ site_name: "Roggenstede Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dornum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dornum"
+  - "Lower Saxony"
 wikidata_id: "Q1367708"
 latitude: 53.6311
 longitude: 7.48544
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/400px-ChurchRoggenstede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/800px-ChurchRoggenstede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/1200px-ChurchRoggenstede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/1920px-ChurchRoggenstede.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/1920px-ChurchRoggenstede.jpg---
 
 ## Overview
 

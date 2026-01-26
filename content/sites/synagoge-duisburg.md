@@ -4,13 +4,13 @@ site_name: "Synagoge Duisburg"
 date: 2026-01-26
 draft: false
 description: "synagogue in Duisburg-Mitte, Germany"
-region: "Duisburg-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Duisburg-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q2375028"
 latitude: 51.4383
 longitude: 6.76583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/400px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/800px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/1200px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/1920px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/1920px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg---
 
 ## Overview
 

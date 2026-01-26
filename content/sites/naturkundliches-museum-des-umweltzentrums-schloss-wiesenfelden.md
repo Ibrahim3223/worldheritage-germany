@@ -4,19 +4,18 @@ site_name: "Naturkundliches Museum des Umweltzentrums Schloss Wiesenfelden"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629791"
 latitude: 49.039691
 longitude: 12.540896
 images:
-  []
----
+  []---
 
 ## Overview
 

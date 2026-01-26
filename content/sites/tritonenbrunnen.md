@@ -4,13 +4,13 @@ site_name: "Tritonenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1591906"
 latitude: 50.7536
 longitude: 6.0702
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/400px-Tritonenbrunnen,_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/800px-Tritonenbrunnen,_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/1200px-Tritonenbrunnen,_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/1920px-Tritonenbrunnen,_Aachen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/1920px-Tritonenbrunnen,_Aachen.jpg---
 
 ## Overview
 

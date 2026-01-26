@@ -4,13 +4,13 @@ site_name: "Chronos und die Trauernde"
 date: 2026-01-26
 draft: false
 description: "monument in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1088334"
 latitude: 51.104
 longitude: 13.6341
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/400px-Radebeul_Denkmal_Chronos_Trauernde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/800px-Radebeul_Denkmal_Chronos_Trauernde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/1200px-Radebeul_Denkmal_Chronos_Trauernde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/1920px-Radebeul_Denkmal_Chronos_Trauernde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/1920px-Radebeul_Denkmal_Chronos_Trauernde.jpg---
 
 ## Overview
 

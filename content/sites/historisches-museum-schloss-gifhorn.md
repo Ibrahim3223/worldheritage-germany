@@ -4,19 +4,18 @@ site_name: "Historisches Museum Schloss Gifhorn"
 date: 2026-01-26
 draft: false
 description: "museum in Gifhorn, Germany"
-region: "Gifhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gifhorn"
+  - "Lower Saxony"
 wikidata_id: "Q76635998"
 latitude: 52.489366
 longitude: 10.547976
 images:
-  []
----
+  []---
 
 ## Overview
 

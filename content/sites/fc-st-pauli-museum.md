@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018-OCT-07_Millerntorstadion_Museum.jpg/400px-2018-OCT-07_Millerntorstadion_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018-OCT-07_Millerntorstadion_Museum.jpg/800px-2018-OCT-07_Millerntorstadion_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018-OCT-07_Millerntorstadion_Museum.jpg/1200px-2018-OCT-07_Millerntorstadion_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018-OCT-07_Millerntorstadion_Museum.jpg/1920px-2018-OCT-07_Millerntorstadion_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018-OCT-07_Millerntorstadion_Museum.jpg/1920px-2018-OCT-07_Millerntorstadion_Museum.jpg---
 
 ## Overview
 

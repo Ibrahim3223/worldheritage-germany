@@ -4,19 +4,18 @@ site_name: "Landgraf-Philipp-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Kassel, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1802929"
 latitude: 51.3169
 longitude: 9.50111
 images:
-  []
----
+  []---
 
 ## Overview
 

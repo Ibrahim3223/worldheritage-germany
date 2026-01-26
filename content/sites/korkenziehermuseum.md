@@ -4,13 +4,13 @@ site_name: "Korkenziehermuseum-"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Vogtsburg im Kaiserstuhl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Vogtsburg im Kaiserstuhl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1784444"
 latitude: 48.1008
 longitude: 7.59806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/400px-Korkenziehermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/800px-Korkenziehermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/1200px-Korkenziehermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/1920px-Korkenziehermuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/1920px-Korkenziehermuseum.jpg---
 
 ## Overview
 

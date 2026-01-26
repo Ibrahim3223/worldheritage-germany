@@ -4,13 +4,13 @@ site_name: "Church in Bartow"
 date: 2026-01-26
 draft: false
 description: "church building in Bartow, Germany"
-region: "Bartow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bartow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1680595"
 latitude: 53.8163
 longitude: 13.3458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/400px-Bartow_Vorpommern_Ostgiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/800px-Bartow_Vorpommern_Ostgiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1200px-Bartow_Vorpommern_Ostgiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1920px-Bartow_Vorpommern_Ostgiebel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1920px-Bartow_Vorpommern_Ostgiebel.JPG---
 
 ## Overview
 

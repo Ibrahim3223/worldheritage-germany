@@ -4,13 +4,13 @@ site_name: "Schöningen Spears"
 date: 2026-01-26
 draft: false
 description: "8 wooden throwing spears from the Palaeolithic, excavated in 1994–1998 in Schöningen, Helmstedt district, Germany"
-region: "Schöningen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Schöningen"
+  - "Lower Saxony"
 wikidata_id: "Q320796"
 latitude: 52.1335
 longitude: 10.9893
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/400px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/800px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/1200px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/1920px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/1920px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg---
 
 ## Overview
 

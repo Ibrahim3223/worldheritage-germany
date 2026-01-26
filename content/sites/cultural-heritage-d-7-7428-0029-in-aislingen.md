@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7428-0029 in Aislingen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Aislingen, Dillingen, Swabia, Bavaria, Germany"
-region: "Raetia"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Raetia"
+  - "Baden-Württemberg"
 wikidata_id: "Q98283869"
 latitude: 48.505901927
 longitude: 10.463099058
 images:
-  []
----
+  []---
 
 ## Overview
 

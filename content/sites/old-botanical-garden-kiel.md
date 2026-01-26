@@ -4,13 +4,13 @@ site_name: "Old Botanical Garden, Kiel"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q437788"
 latitude: 54.3308
 longitude: 10.1469
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alter_Botanischer_Garten_Kiel_Pavillon.jpg/400px-Alter_Botanischer_Garten_Kiel_Pavillon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alter_Botanischer_Garten_Kiel_Pavillon.jpg/800px-Alter_Botanischer_Garten_Kiel_Pavillon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alter_Botanischer_Garten_Kiel_Pavillon.jpg/1200px-Alter_Botanischer_Garten_Kiel_Pavillon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alter_Botanischer_Garten_Kiel_Pavillon.jpg/1920px-Alter_Botanischer_Garten_Kiel_Pavillon.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alter_Botanischer_Garten_Kiel_Pavillon.jpg/1920px-Alter_Botanischer_Garten_Kiel_Pavillon.jpg---
 
 ## Overview
 

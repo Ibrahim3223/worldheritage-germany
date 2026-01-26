@@ -4,13 +4,13 @@ site_name: "Botanischer Garten der Technischen Universität Dresden"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q321575"
 latitude: 51.04302
 longitude: 13.75856
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/400px-Botanischergartendresden-juli2016_-_26.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/800px-Botanischergartendresden-juli2016_-_26.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1200px-Botanischergartendresden-juli2016_-_26.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1920px-Botanischergartendresden-juli2016_-_26.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1920px-Botanischergartendresden-juli2016_-_26.jpeg---
 
 ## Overview
 

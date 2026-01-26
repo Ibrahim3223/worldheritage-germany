@@ -4,13 +4,13 @@ site_name: "Iris-Jörg"
 date: 2026-01-26
 draft: false
 description: "museum ship built in 1956"
-region: "Wischhafen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wischhafen"
+  - "Lower Saxony"
 wikidata_id: "Q1672701"
 latitude: 53.7736
 longitude: 9.32214
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/400px-Iris-Jörg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/800px-Iris-Jörg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/1200px-Iris-Jörg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/1920px-Iris-Jörg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/1920px-Iris-Jörg.jpg---
 
 ## Overview
 

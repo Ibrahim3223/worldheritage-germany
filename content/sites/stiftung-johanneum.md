@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Stiftung_Johanneum.jpg/400px-Stiftung_Johanneum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Stiftung_Johanneum.jpg/800px-Stiftung_Johanneum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Stiftung_Johanneum.jpg/1200px-Stiftung_Johanneum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Stiftung_Johanneum.jpg/1920px-Stiftung_Johanneum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Stiftung_Johanneum.jpg/1920px-Stiftung_Johanneum.jpg---
 
 ## Overview
 

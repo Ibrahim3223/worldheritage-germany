@@ -4,19 +4,18 @@ site_name: "Museum im Ursula-Stift und Schmiede am Stift"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Gerstetten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gerstetten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954721"
 latitude: 48.6412
 longitude: 9.95754
 images:
-  []
----
+  []---
 
 ## Overview
 

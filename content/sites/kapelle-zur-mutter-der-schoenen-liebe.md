@@ -4,13 +4,13 @@ site_name: "Kapelle Zur Mutter der schönen Liebe"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Koblenz"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1728454"
 latitude: 50.3571
 longitude: 7.62708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg/400px-Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg/800px-Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg/1200px-Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg/1920px-Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg/1920px-Kapelle_Zur_Mutter_der_schönen_Liebe_01_Koblenz_2012.jpg---
 
 ## Overview
 

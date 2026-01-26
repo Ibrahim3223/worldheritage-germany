@@ -4,13 +4,13 @@ site_name: "Karl Gebhardt watch collection"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q2474193"
 latitude: 49.4517
 longitude: 11.0833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg/400px-Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg/800px-Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg/1200px-Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg/1920px-Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg/1920px-Displays_-_Karl_Gebhardt_Horological_Collection_-_Gewerbemuseum_-_Nuremberg,_Germany_-_DSC01855.jpg---
 
 ## Overview
 

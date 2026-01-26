@@ -4,13 +4,13 @@ site_name: "Rhine Water Fountain"
 date: 2026-01-26
 draft: false
 description: "water fountain in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q667339"
 latitude: 48.132287816
 longitude: 11.586504199
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/400px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/800px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/1200px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/1920px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/1920px-München_Vater-Rhein-Brunnen_a_gesamt.jpg---
 
 ## Overview
 

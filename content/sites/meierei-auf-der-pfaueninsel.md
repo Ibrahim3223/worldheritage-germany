@@ -4,13 +4,13 @@ site_name: "Meierei auf der Pfaueninsel"
 date: 2026-01-26
 draft: false
 description: "building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Building"
 categories:
   - "Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q115726238"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Meierei_Pfaueninsel_2010_-_panoramio.jpg/400px-Meierei_Pfaueninsel_2010_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Meierei_Pfaueninsel_2010_-_panoramio.jpg/800px-Meierei_Pfaueninsel_2010_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Meierei_Pfaueninsel_2010_-_panoramio.jpg/1200px-Meierei_Pfaueninsel_2010_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Meierei_Pfaueninsel_2010_-_panoramio.jpg/1920px-Meierei_Pfaueninsel_2010_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Meierei_Pfaueninsel_2010_-_panoramio.jpg/1920px-Meierei_Pfaueninsel_2010_-_panoramio.jpg---
 
 ## Overview
 

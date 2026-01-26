@@ -4,13 +4,13 @@ site_name: "Congress Center Hamburg"
 date: 2026-01-26
 draft: false
 description: "convention centre and event venue in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q896114"
 latitude: 53.56166667
 longitude: 9.98694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/400px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/800px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1200px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1920px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1920px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png---
 
 ## Overview
 

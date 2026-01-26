@@ -4,13 +4,13 @@ site_name: "Dionysiuskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bremerhaven-Wulsdorf, Germany"
-region: "Wulsdorf"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wulsdorf"
+  - "Bremen"
 wikidata_id: "Q1227027"
 latitude: 53.5011
 longitude: 8.60248
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dionysiuskirche_bremerhaven_hg.jpg/400px-Dionysiuskirche_bremerhaven_hg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dionysiuskirche_bremerhaven_hg.jpg/800px-Dionysiuskirche_bremerhaven_hg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dionysiuskirche_bremerhaven_hg.jpg/1200px-Dionysiuskirche_bremerhaven_hg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dionysiuskirche_bremerhaven_hg.jpg/1920px-Dionysiuskirche_bremerhaven_hg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dionysiuskirche_bremerhaven_hg.jpg/1920px-Dionysiuskirche_bremerhaven_hg.jpg---
 
 ## Overview
 

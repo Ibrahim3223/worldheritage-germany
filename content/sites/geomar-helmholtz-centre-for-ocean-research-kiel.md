@@ -4,13 +4,13 @@ site_name: "GEOMAR Helmholtz Centre for Ocean Research Kiel"
 date: 2026-01-26
 draft: false
 description: "research institute in Kiel, Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q323945"
 latitude: 54.32723
 longitude: 10.18185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/400px-GEOMAR-Kiel_2016-03-23_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/800px-GEOMAR-Kiel_2016-03-23_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/1200px-GEOMAR-Kiel_2016-03-23_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/1920px-GEOMAR-Kiel_2016-03-23_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/1920px-GEOMAR-Kiel_2016-03-23_01.jpg---
 
 ## Overview
 

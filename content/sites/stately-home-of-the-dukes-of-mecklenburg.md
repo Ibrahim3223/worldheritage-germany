@@ -4,13 +4,13 @@ site_name: "Stately home of the Dukes of Mecklenburg"
 date: 2026-01-26
 draft: false
 description: "former stately home now museum in Ratzeburg, Schleswig-Holstein, Germany"
-region: "Ratzeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ratzeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1614098"
 latitude: 53.7026
 longitude: 10.7755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Herrenhaus_Ratzeburg2.JPG/400px-Herrenhaus_Ratzeburg2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Herrenhaus_Ratzeburg2.JPG/800px-Herrenhaus_Ratzeburg2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Herrenhaus_Ratzeburg2.JPG/1200px-Herrenhaus_Ratzeburg2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Herrenhaus_Ratzeburg2.JPG/1920px-Herrenhaus_Ratzeburg2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Herrenhaus_Ratzeburg2.JPG/1920px-Herrenhaus_Ratzeburg2.JPG---
 
 ## Overview
 

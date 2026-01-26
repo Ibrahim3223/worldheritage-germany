@@ -4,13 +4,13 @@ site_name: "Holy Trinity Chapel"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Oedheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Oedheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1257612"
 latitude: 49.2372
 longitude: 9.26064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oedheim_Dreifaltigkeitskapelle_20080427.jpg/400px-Oedheim_Dreifaltigkeitskapelle_20080427.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oedheim_Dreifaltigkeitskapelle_20080427.jpg/800px-Oedheim_Dreifaltigkeitskapelle_20080427.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oedheim_Dreifaltigkeitskapelle_20080427.jpg/1200px-Oedheim_Dreifaltigkeitskapelle_20080427.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oedheim_Dreifaltigkeitskapelle_20080427.jpg/1920px-Oedheim_Dreifaltigkeitskapelle_20080427.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oedheim_Dreifaltigkeitskapelle_20080427.jpg/1920px-Oedheim_Dreifaltigkeitskapelle_20080427.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Nesselwangen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nesselwangen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nesselwangen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013224"
 latitude: 47.821583
 longitude: 9.117375
 images:
-  []
----
+  []---
 
 ## Overview
 

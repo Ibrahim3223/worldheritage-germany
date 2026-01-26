@@ -4,13 +4,13 @@ site_name: "Leibdragonerdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1246685"
 latitude: 49.0108
 longitude: 8.38639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/400px-Karlsruhe_Leibdragonerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/800px-Karlsruhe_Leibdragonerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/1200px-Karlsruhe_Leibdragonerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/1920px-Karlsruhe_Leibdragonerdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/1920px-Karlsruhe_Leibdragonerdenkmal.jpg---
 
 ## Overview
 

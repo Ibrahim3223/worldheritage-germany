@@ -4,13 +4,13 @@ site_name: "Yunus Emre Camii mosque"
 date: 2026-01-26
 draft: false
 description: "mosque"
-region: "Esslingen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Esslingen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q86326356"
 latitude: 48.73307
 longitude: 9.31644
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Esslingen,_Yunus-Emre-Moskeo,_4.jpeg/400px-Esslingen,_Yunus-Emre-Moskeo,_4.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Esslingen,_Yunus-Emre-Moskeo,_4.jpeg/800px-Esslingen,_Yunus-Emre-Moskeo,_4.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Esslingen,_Yunus-Emre-Moskeo,_4.jpeg/1200px-Esslingen,_Yunus-Emre-Moskeo,_4.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Esslingen,_Yunus-Emre-Moskeo,_4.jpeg/1920px-Esslingen,_Yunus-Emre-Moskeo,_4.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Esslingen,_Yunus-Emre-Moskeo,_4.jpeg/1920px-Esslingen,_Yunus-Emre-Moskeo,_4.jpeg---
 
 ## Overview
 

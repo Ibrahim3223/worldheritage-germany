@@ -4,13 +4,13 @@ site_name: "Electrum"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg, Germany"
-region: "Harburg"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Harburg"
+  - "Hamburg"
 wikidata_id: "Q1326181"
 latitude: 53.464156
 longitude: 9.982038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Electrum.jpg/400px-Electrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Electrum.jpg/800px-Electrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Electrum.jpg/1200px-Electrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Electrum.jpg/1920px-Electrum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Electrum.jpg/1920px-Electrum.jpg---
 
 ## Overview
 

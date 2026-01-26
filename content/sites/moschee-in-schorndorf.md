@@ -4,13 +4,13 @@ site_name: "Moschee in Schorndorf"
 date: 2026-01-26
 draft: false
 description: "Ditib Türkisch Islamische Gemeinde zu Schorndorf"
-region: "Schorndorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Schorndorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q127774120"
 latitude: 48.80779
 longitude: 9.53979
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/400px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/800px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/1200px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/1920px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/1920px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg---
 
 ## Overview
 

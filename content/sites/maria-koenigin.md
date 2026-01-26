@@ -4,13 +4,13 @@ site_name: "Maria Königin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lüdenscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lüdenscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1523156"
 latitude: 51.222163
 longitude: 7.61831
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/400px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/800px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/1200px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/1920px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/1920px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG---
 
 ## Overview
 

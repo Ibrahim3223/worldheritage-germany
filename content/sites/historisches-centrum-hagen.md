@@ -4,13 +4,13 @@ site_name: "Historisches Centrum Hagen"
 date: 2026-01-26
 draft: false
 description: "City museum in Germany"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q1620980"
 latitude: 51.3478
 longitude: 7.49092
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/400px-Hagen-Stadtmuseum1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/800px-Hagen-Stadtmuseum1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/1200px-Hagen-Stadtmuseum1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/1920px-Hagen-Stadtmuseum1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/1920px-Hagen-Stadtmuseum1-Bubo.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Naturkunde-Museum Bielefeld"
 date: 2026-01-26
 draft: false
 description: "natural History Museum in Kreuzstrasse in Bielefeld, Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1970349"
 latitude: 52.0165
 longitude: 8.52857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/400px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/800px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/1200px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/1920px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/1920px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg---
 
 ## Overview
 

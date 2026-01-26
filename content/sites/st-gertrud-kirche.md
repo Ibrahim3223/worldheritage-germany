@@ -4,13 +4,13 @@ site_name: "St.-Gertrud-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1618736"
 latitude: 53.8778
 longitude: 10.7069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gertrudkirche_hl.jpg/400px-Gertrudkirche_hl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gertrudkirche_hl.jpg/800px-Gertrudkirche_hl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gertrudkirche_hl.jpg/1200px-Gertrudkirche_hl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gertrudkirche_hl.jpg/1920px-Gertrudkirche_hl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gertrudkirche_hl.jpg/1920px-Gertrudkirche_hl.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Haus Martfeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schwelm"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwelm"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1590355"
 latitude: 51.291527777
 longitude: 7.308333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/400px-Tor_Haus_Martfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/800px-Tor_Haus_Martfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/1200px-Tor_Haus_Martfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/1920px-Tor_Haus_Martfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/1920px-Tor_Haus_Martfeld.jpg---
 
 ## Overview
 

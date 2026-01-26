@@ -4,19 +4,18 @@ site_name: "Agnetenkloster"
 date: 2026-01-26
 draft: false
 description: "former monastery in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q394843"
 latitude: 52.1478
 longitude: 11.6425
 images:
-  []
----
+  []---
 
 ## Overview
 

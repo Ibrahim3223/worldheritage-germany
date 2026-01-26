@@ -4,13 +4,13 @@ site_name: "Blasiuskapelle, Bergweiler"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Tholey"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Tholey"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q881915"
 latitude: 49.4765
 longitude: 6.99665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/400px-Blasiuskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/800px-Blasiuskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/1200px-Blasiuskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/1920px-Blasiuskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/1920px-Blasiuskapelle.jpg---
 
 ## Overview
 

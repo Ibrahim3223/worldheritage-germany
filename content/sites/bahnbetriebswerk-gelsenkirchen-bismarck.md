@@ -4,13 +4,13 @@ site_name: "Bahnbetriebswerk Gelsenkirchen-Bismarck"
 date: 2026-01-26
 draft: false
 description: "Ehemaliges Bahnbetriebswerk in Gelsenkirchen-Bismarck"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q800295"
 latitude: 51.5402
 longitude: 7.11927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/400px-BWGelsenkirchenBismarckSchuppen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/800px-BWGelsenkirchenBismarckSchuppen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/1200px-BWGelsenkirchenBismarckSchuppen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/1920px-BWGelsenkirchenBismarckSchuppen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/1920px-BWGelsenkirchenBismarckSchuppen.jpg---
 
 ## Overview
 

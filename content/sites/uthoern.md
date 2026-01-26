@@ -4,13 +4,13 @@ site_name: "Uthörn"
 date: 2026-01-26
 draft: false
 description: "German island"
-region: "List auf Sylt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "List auf Sylt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q20664"
 latitude: 55.035833333
 longitude: 8.430277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sylt_Uthörn_HDR.jpg/400px-Sylt_Uthörn_HDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sylt_Uthörn_HDR.jpg/800px-Sylt_Uthörn_HDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sylt_Uthörn_HDR.jpg/1200px-Sylt_Uthörn_HDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sylt_Uthörn_HDR.jpg/1920px-Sylt_Uthörn_HDR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sylt_Uthörn_HDR.jpg/1920px-Sylt_Uthörn_HDR.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "University Library Bochum"
 date: 2026-01-26
 draft: false
 description: "Library in Bochum"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q2496285"
 latitude: 51.445
 longitude: 7.26056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/400px-Universitätsbibliothek_Bochum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/800px-Universitätsbibliothek_Bochum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/1200px-Universitätsbibliothek_Bochum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/1920px-Universitätsbibliothek_Bochum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/1920px-Universitätsbibliothek_Bochum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Von der Heydt Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Wuppertal, Germany"
-region: "Elberfeld"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Elberfeld"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q819504"
 latitude: 51.2573
 longitude: 7.14658
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/400px-Wuppertal_vdheydtmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/800px-Wuppertal_vdheydtmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/1200px-Wuppertal_vdheydtmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/1920px-Wuppertal_vdheydtmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/1920px-Wuppertal_vdheydtmuseum.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rantum Basin"
 date: 2026-01-26
 draft: false
 description: "lake by Rantum"
-region: "Sylt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Sylt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q20622"
 latitude: 54.867122222
 longitude: 8.322144444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg/400px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg/800px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg/1200px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg/1920px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg/1920px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_9206.jpg---
 
 ## Overview
 

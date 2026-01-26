@@ -4,13 +4,13 @@ site_name: "St. Augustine"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf, Germany"
-region: "Eller"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eller"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1255819"
 latitude: 51.2
 longitude: 6.83976
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg/400px-St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg/800px-St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg/1200px-St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg/1920px-St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg/1920px-St._Augustinus_in_Duesseldorf-Eller,_von_Westen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Peters Music Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1492796"
 latitude: 51.3356
 longitude: 12.38626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/400px-MusikbibliothekPetersTalstrasse.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/800px-MusikbibliothekPetersTalstrasse.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/1200px-MusikbibliothekPetersTalstrasse.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/1920px-MusikbibliothekPetersTalstrasse.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/1920px-MusikbibliothekPetersTalstrasse.JPG---
 
 ## Overview
 

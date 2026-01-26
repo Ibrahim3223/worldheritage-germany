@@ -4,13 +4,13 @@ site_name: "Kunstgussmuseum Lauchhammer"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lauchhammer"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lauchhammer"
+  - "Brandenburg"
 wikidata_id: "Q1792398"
 latitude: 51.5035
 longitude: 13.7954
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/400px-Kunstgussmuseum_Lauchhammer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/800px-Kunstgussmuseum_Lauchhammer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/1200px-Kunstgussmuseum_Lauchhammer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/1920px-Kunstgussmuseum_Lauchhammer.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/1920px-Kunstgussmuseum_Lauchhammer.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Glasmuseum Boffzen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Boffzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Boffzen"
+  - "Lower Saxony"
 wikidata_id: "Q41191262"
 latitude: 51.753888888
 longitude: 9.4
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/400px-Glasmuseum_Boffzen_Toreinfahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/800px-Glasmuseum_Boffzen_Toreinfahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/1200px-Glasmuseum_Boffzen_Toreinfahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/1920px-Glasmuseum_Boffzen_Toreinfahrt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/1920px-Glasmuseum_Boffzen_Toreinfahrt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Botschaftsgedenkstein"
 date: 2026-01-26
 draft: false
 description: "Denkmal"
-region: "Kyffhäuserkreis"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Kyffhäuserkreis"
+  - "Lower Saxony"
 wikidata_id: "Q894845"
 latitude: 51.41361111
 longitude: 11.10777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kaiserbotschaft-Denkmal.jpg/400px-Kaiserbotschaft-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kaiserbotschaft-Denkmal.jpg/800px-Kaiserbotschaft-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kaiserbotschaft-Denkmal.jpg/1200px-Kaiserbotschaft-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kaiserbotschaft-Denkmal.jpg/1920px-Kaiserbotschaft-Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kaiserbotschaft-Denkmal.jpg/1920px-Kaiserbotschaft-Denkmal.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Frauenau Glass Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frauenau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frauenau"
+  - "Bavaria"
 wikidata_id: "Q1529697"
 latitude: 48.9881114
 longitude: 13.2983821
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/400px-Glasmuseum_Frauenau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/800px-Glasmuseum_Frauenau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1200px-Glasmuseum_Frauenau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1920px-Glasmuseum_Frauenau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1920px-Glasmuseum_Frauenau.JPG---
 
 ## Overview
 

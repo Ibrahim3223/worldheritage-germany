@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über die Jahna in Verlängerung der Meißner Straß
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Riesa"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Riesa"
+  - "Saxony"
 wikidata_id: "Q49451683"
 latitude: 51.299784203
 longitude: 13.32316526
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gut Stockhausen"
 date: 2026-01-26
 draft: false
 description: "manor house in Lübbecke, Germany"
-region: "Lübbecke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lübbecke"
+  - "Lower Saxony"
 wikidata_id: "Q1557051"
 latitude: 52.3197
 longitude: 8.58167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/400px-Stockhausen-Sammlung_Duncker_(5413026).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/800px-Stockhausen-Sammlung_Duncker_(5413026).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/1200px-Stockhausen-Sammlung_Duncker_(5413026).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/1920px-Stockhausen-Sammlung_Duncker_(5413026).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/1920px-Stockhausen-Sammlung_Duncker_(5413026).jpg---
 
 ## Overview
 

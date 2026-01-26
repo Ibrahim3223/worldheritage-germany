@@ -4,13 +4,13 @@ site_name: "Eichhof Park Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Kronshagen"
-region: "Kronshagen"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Kronshagen"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1407381"
 latitude: 54.335019444
 longitude: 10.094719444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eichhof_Allee.jpg/400px-Eichhof_Allee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eichhof_Allee.jpg/800px-Eichhof_Allee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eichhof_Allee.jpg/1200px-Eichhof_Allee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eichhof_Allee.jpg/1920px-Eichhof_Allee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eichhof_Allee.jpg/1920px-Eichhof_Allee.jpg---
 
 ## Overview
 

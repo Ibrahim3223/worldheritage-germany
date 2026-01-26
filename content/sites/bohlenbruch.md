@@ -4,19 +4,18 @@ site_name: "Bohlenbruch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Eicklingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Eicklingen"
+  - "Lower Saxony"
 wikidata_id: "Q890807"
 latitude: 52.5311
 longitude: 10.2319
 images:
-  []
----
+  []---
 
 ## Overview
 

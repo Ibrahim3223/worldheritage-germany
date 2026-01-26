@@ -4,13 +4,13 @@ site_name: "Alte Veste"
 date: 2026-01-26
 draft: false
 description: "castle near Fürth, Germany"
-region: "Zirndorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Zirndorf"
+  - "Bavaria"
 wikidata_id: "Q436352"
 latitude: 49.4532
 longitude: 10.9661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/400px-Alte_Veste_f_sw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/800px-Alte_Veste_f_sw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/1200px-Alte_Veste_f_sw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/1920px-Alte_Veste_f_sw.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/1920px-Alte_Veste_f_sw.jpg---
 
 ## Overview
 

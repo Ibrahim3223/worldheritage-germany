@@ -4,13 +4,13 @@ site_name: "Doberschauer Schanze"
 date: 2026-01-26
 draft: false
 description: "Burg in Sachsen, Deutschland"
-region: "Doberschau-Gaußig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Doberschau-Gaußig"
+  - "Saxony"
 wikidata_id: "Q2676882"
 latitude: 51.147
 longitude: 14.394
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Doberschauer_Schanze_Geländemodell.jpg/400px-Doberschauer_Schanze_Geländemodell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Doberschauer_Schanze_Geländemodell.jpg/800px-Doberschauer_Schanze_Geländemodell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Doberschauer_Schanze_Geländemodell.jpg/1200px-Doberschauer_Schanze_Geländemodell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Doberschauer_Schanze_Geländemodell.jpg/1920px-Doberschauer_Schanze_Geländemodell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Doberschauer_Schanze_Geländemodell.jpg/1920px-Doberschauer_Schanze_Geländemodell.jpg---
 
 ## Overview
 

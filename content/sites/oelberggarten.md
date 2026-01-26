@@ -4,13 +4,13 @@ site_name: "Ölberggarten"
 date: 2026-01-26
 draft: false
 description: "park in Görlitz, Germany"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q296825"
 latitude: 51.16087
 longitude: 14.983768
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/400px-Görlitz_Ölberggarten_Gewässer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/800px-Görlitz_Ölberggarten_Gewässer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/1200px-Görlitz_Ölberggarten_Gewässer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/1920px-Görlitz_Ölberggarten_Gewässer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/1920px-Görlitz_Ölberggarten_Gewässer.jpg---
 
 ## Overview
 

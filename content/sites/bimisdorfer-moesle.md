@@ -4,13 +4,13 @@ site_name: "Bimisdorfer Mösle"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Wangen im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wangen im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q863444"
 latitude: 47.703061111
 longitude: 9.871111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20250731_155657_HDR.jpg/400px-20250731_155657_HDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20250731_155657_HDR.jpg/800px-20250731_155657_HDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20250731_155657_HDR.jpg/1200px-20250731_155657_HDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20250731_155657_HDR.jpg/1920px-20250731_155657_HDR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20250731_155657_HDR.jpg/1920px-20250731_155657_HDR.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ingolstadt Nord station"
 date: 2026-01-26
 draft: false
 description: "railway station in Ingolstadt, Germany"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q320520"
 latitude: 48.773086
 longitude: 11.433187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/400px-Ingolstadt_Nord_MIN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/800px-Ingolstadt_Nord_MIN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1200px-Ingolstadt_Nord_MIN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1920px-Ingolstadt_Nord_MIN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1920px-Ingolstadt_Nord_MIN.jpg---
 
 ## Overview
 

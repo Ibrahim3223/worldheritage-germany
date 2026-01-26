@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Hiddensee"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Insel Hiddensee"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Insel Hiddensee"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q23787616"
 latitude: 54.58484
 longitude: 13.102112
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/400px-KlosterHeimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/800px-KlosterHeimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/1200px-KlosterHeimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/1920px-KlosterHeimatmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/1920px-KlosterHeimatmuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gatehouse of the bath gate and nail forge"
 date: 2026-01-26
 draft: false
 description: "former gate house of the bath gate and nail smithy in Gräfenberg, Bavaria. Small hipped roof construction, solid, with projecting half-timbered upper "
-region: "Gräfenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Gräfenberg"
+  - "Bavaria"
 wikidata_id: "Q41376435"
 latitude: 49.64506
 longitude: 11.24891
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/400px-Bahnhofstraße_2_(Gräfenberg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/800px-Bahnhofstraße_2_(Gräfenberg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/1200px-Bahnhofstraße_2_(Gräfenberg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/1920px-Bahnhofstraße_2_(Gräfenberg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/1920px-Bahnhofstraße_2_(Gräfenberg).JPG---
 
 ## Overview
 

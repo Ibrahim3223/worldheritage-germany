@@ -4,13 +4,13 @@ site_name: "Altes Rathaus Plochingen"
 date: 2026-01-26
 draft: false
 description: "Altes Rathaus in Plochingen"
-region: "Plochingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Plochingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q123239354"
 latitude: 48.70979
 longitude: 9.41847
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/400px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/800px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/1200px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/1920px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/1920px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg---
 
 ## Overview
 

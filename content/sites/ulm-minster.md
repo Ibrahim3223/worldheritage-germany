@@ -4,13 +4,13 @@ site_name: "Ulm Minster"
 date: 2026-01-26
 draft: false
 description: "Gothic church in Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q44562"
 latitude: 48.398611111
 longitude: 9.9925
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg/400px-Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg/800px-Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg/1200px-Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg/1920px-Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg/1920px-Landappbw_526530_1820_Ulmer_Münster_Luftaufnahme_Ulmer_Münster_(cropped).jpg---
 
 ## Overview
 

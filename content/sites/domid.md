@@ -4,13 +4,13 @@ site_name: "DOMiD"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1154754"
 latitude: 50.952328
 longitude: 6.91351
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DOMiD,_Köln-2082.jpg/400px-DOMiD,_Köln-2082.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DOMiD,_Köln-2082.jpg/800px-DOMiD,_Köln-2082.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DOMiD,_Köln-2082.jpg/1200px-DOMiD,_Köln-2082.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DOMiD,_Köln-2082.jpg/1920px-DOMiD,_Köln-2082.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DOMiD,_Köln-2082.jpg/1920px-DOMiD,_Köln-2082.jpg---
 
 ## Overview
 

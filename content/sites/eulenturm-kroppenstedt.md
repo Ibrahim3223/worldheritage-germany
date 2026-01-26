@@ -4,13 +4,13 @@ site_name: "Eulenturm (Kroppenstedt)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Kroppenstedt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Kroppenstedt"
+  - "Brandenburg"
 wikidata_id: "Q1373821"
 latitude: 51.9409
 longitude: 11.3047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/400px-Kroppenstedt_Eulenturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/800px-Kroppenstedt_Eulenturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/1200px-Kroppenstedt_Eulenturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/1920px-Kroppenstedt_Eulenturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/1920px-Kroppenstedt_Eulenturm.JPG---
 
 ## Overview
 

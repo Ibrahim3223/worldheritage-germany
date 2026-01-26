@@ -4,19 +4,18 @@ site_name: "Burg Hals"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bodman-Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bodman-Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012171"
 latitude: 47.77888889
 longitude: 9.06083333
 images:
-  []
----
+  []---
 
 ## Overview
 

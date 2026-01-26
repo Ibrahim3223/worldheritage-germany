@@ -4,13 +4,13 @@ site_name: "Haus Letmathe"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1590306"
 latitude: 51.3661
 longitude: 7.60833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/400px-Letmathe-HausLetmathe1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/800px-Letmathe-HausLetmathe1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1200px-Letmathe-HausLetmathe1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1920px-Letmathe-HausLetmathe1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1920px-Letmathe-HausLetmathe1-Bubo.JPG---
 
 ## Overview
 

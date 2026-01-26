@@ -4,13 +4,13 @@ site_name: "Village church Papitz"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Kolkwitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kolkwitz"
+  - "Brandenburg"
 wikidata_id: "Q1244583"
 latitude: 51.781429
 longitude: 14.199112
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/400px-Papitz_Dorfkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/800px-Papitz_Dorfkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/1200px-Papitz_Dorfkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/1920px-Papitz_Dorfkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/1920px-Papitz_Dorfkirche.JPG---
 
 ## Overview
 

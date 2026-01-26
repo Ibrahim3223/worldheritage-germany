@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6024-0060 in Karlstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Karlstadt am Main, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Karlstadt am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Karlstadt am Main"
+  - "Bavaria"
 wikidata_id: "Q98170701"
 latitude: 49.99745299
 longitude: 9.75609227
 images:
-  []
----
+  []---
 
 ## Overview
 

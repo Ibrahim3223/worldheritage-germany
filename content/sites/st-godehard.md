@@ -4,13 +4,13 @@ site_name: "St. Godehard"
 date: 2026-01-26
 draft: false
 description: "church building in Linden-Limmer, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q2318671"
 latitude: 52.3637
 longitude: 9.71487
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/400px-Godehardkirche_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/800px-Godehardkirche_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/1200px-Godehardkirche_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/1920px-Godehardkirche_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/1920px-Godehardkirche_Hannover.jpg---
 
 ## Overview
 

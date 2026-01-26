@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität: Museum, Sammlungen & Geopark Göttinger Z
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636062"
 latitude: 51.556391
 longitude: 9.947503
 images:
-  []
----
+  []---
 
 ## Overview
 

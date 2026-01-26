@@ -4,13 +4,13 @@ site_name: "Aachen-Rothe Erde station"
 date: 2026-01-26
 draft: false
 description: "railway station in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q323235"
 latitude: 50.7703
 longitude: 6.1163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/400px-Bf-ac-rotheerde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/800px-Bf-ac-rotheerde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/1200px-Bf-ac-rotheerde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/1920px-Bf-ac-rotheerde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/1920px-Bf-ac-rotheerde.jpg---
 
 ## Overview
 

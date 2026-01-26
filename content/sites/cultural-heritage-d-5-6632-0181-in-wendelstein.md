@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-5-6632-0181 in Wendelstein"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Wendelstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Wendelstein"
+  - "Bavaria"
 wikidata_id: "Q98124740"
 latitude: 49.355656948
 longitude: 11.144019069
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_208.jpg---
 
 ## Overview
 

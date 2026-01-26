@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Altes Rathaus Loßburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631456"
 latitude: 48.415155
 longitude: 8.448351
 images:
-  []
----
+  []---
 
 ## Overview
 

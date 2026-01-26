@@ -4,19 +4,18 @@ site_name: "Mevlana-Moschee Stadtprozelten"
 date: 2026-01-26
 draft: false
 description: "building in Stadtprozelten, Lower Franconia, Germany"
-region: "Stadtprozelten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Stadtprozelten"
+  - "Baden-Württemberg"
 wikidata_id: "Q49769301"
 latitude: 49.792011
 longitude: 9.429754
 images:
-  []
----
+  []---
 
 ## Overview
 

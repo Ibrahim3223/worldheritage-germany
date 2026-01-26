@@ -4,13 +4,13 @@ site_name: "St. Mary's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Rostock, Mecklenburg-Vorpommern, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q666923"
 latitude: 54.089547
 longitude: 12.1386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/400px-Marienkirche_in_Rostock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/800px-Marienkirche_in_Rostock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/1200px-Marienkirche_in_Rostock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/1920px-Marienkirche_in_Rostock.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/1920px-Marienkirche_in_Rostock.jpg---
 
 ## Overview
 

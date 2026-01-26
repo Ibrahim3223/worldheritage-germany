@@ -4,13 +4,13 @@ site_name: "Kurpark"
 date: 2026-01-26
 draft: false
 description: "park in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q688907"
 latitude: 50.0844
 longitude: 8.25167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/400px-Kurhaus_Parkseite_100Jahr_0212.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/800px-Kurhaus_Parkseite_100Jahr_0212.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/1200px-Kurhaus_Parkseite_100Jahr_0212.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/1920px-Kurhaus_Parkseite_100Jahr_0212.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/1920px-Kurhaus_Parkseite_100Jahr_0212.jpg---
 
 ## Overview
 

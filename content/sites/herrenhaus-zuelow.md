@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herrenhaus_Zülow.jpg/400px-Herrenhaus_Zülow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herrenhaus_Zülow.jpg/800px-Herrenhaus_Zülow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herrenhaus_Zülow.jpg/1200px-Herrenhaus_Zülow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herrenhaus_Zülow.jpg/1920px-Herrenhaus_Zülow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herrenhaus_Zülow.jpg/1920px-Herrenhaus_Zülow.jpg---
 
 ## Overview
 

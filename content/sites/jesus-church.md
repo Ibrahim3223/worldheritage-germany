@@ -4,13 +4,13 @@ site_name: "Jesus Church"
 date: 2026-01-26
 draft: false
 description: "15th-century building in Kaulsdorf, Germany"
-region: "Marzahn-Hellersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marzahn-Hellersdorf"
+  - "Berlin"
 wikidata_id: "Q1244404"
 latitude: 52.5082
 longitude: 13.5808
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/400px-Dorfkirche_Kaulsdorf_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/800px-Dorfkirche_Kaulsdorf_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/1200px-Dorfkirche_Kaulsdorf_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/1920px-Dorfkirche_Kaulsdorf_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/1920px-Dorfkirche_Kaulsdorf_05.jpg---
 
 ## Overview
 

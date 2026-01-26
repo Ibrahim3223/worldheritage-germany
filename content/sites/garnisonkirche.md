@@ -4,13 +4,13 @@ site_name: "Garnisonkirche"
 date: 2026-01-26
 draft: false
 description: "former church building in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1494389"
 latitude: 52.3723
 longitude: 9.72383
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg/400px-Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg/800px-Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg/1200px-Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg/1920px-Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg/1920px-Karl_F._Wunder_PC_0354_Hannover,_Garnisonkirche._Ansichtsseite.jpg---
 
 ## Overview
 

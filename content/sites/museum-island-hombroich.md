@@ -4,13 +4,13 @@ site_name: "Museum Island Hombroich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q10862311"
 latitude: 51.147412
 longitude: 6.658745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heerich_Turm_Hombroich_2006.jpg/400px-Heerich_Turm_Hombroich_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heerich_Turm_Hombroich_2006.jpg/800px-Heerich_Turm_Hombroich_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heerich_Turm_Hombroich_2006.jpg/1200px-Heerich_Turm_Hombroich_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heerich_Turm_Hombroich_2006.jpg/1920px-Heerich_Turm_Hombroich_2006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heerich_Turm_Hombroich_2006.jpg/1920px-Heerich_Turm_Hombroich_2006.jpg---
 
 ## Overview
 

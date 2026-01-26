@@ -4,13 +4,13 @@ site_name: "Mühle Dralle"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Rehburg-Loccum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Rehburg-Loccum"
+  - "Lower Saxony"
 wikidata_id: "Q137686009"
 latitude: 52.451653522
 longitude: 9.137863963
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/400px-Windmühle_Dralle_Loccum_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/800px-Windmühle_Dralle_Loccum_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/1200px-Windmühle_Dralle_Loccum_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/1920px-Windmühle_Dralle_Loccum_II.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/1920px-Windmühle_Dralle_Loccum_II.jpg---
 
 ## Overview 
 

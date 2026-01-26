@@ -4,13 +4,13 @@ site_name: "Galerie am Ratswall"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bitterfeld-Wolfen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bitterfeld-Wolfen"
+  - "Brandenburg"
 wikidata_id: "Q1491900"
 latitude: 51.6225
 longitude: 12.3297
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/400px-Logo_gar.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/800px-Logo_gar.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/1200px-Logo_gar.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/1920px-Logo_gar.gif
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/1920px-Logo_gar.gif---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rathaus und Friedensgericht"
 date: 2026-01-26
 draft: false
 description: "former town hall in Nieder-Olm"
-region: "Nieder-Olm"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Nieder-Olm"
+  - "Hesse"
 wikidata_id: "Q136793070"
 latitude: 49.909309
 longitude: 8.20257
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Altes_Rathaus_Nieder-Olm_Front.jpg/400px-Altes_Rathaus_Nieder-Olm_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Altes_Rathaus_Nieder-Olm_Front.jpg/800px-Altes_Rathaus_Nieder-Olm_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Altes_Rathaus_Nieder-Olm_Front.jpg/1200px-Altes_Rathaus_Nieder-Olm_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Altes_Rathaus_Nieder-Olm_Front.jpg/1920px-Altes_Rathaus_Nieder-Olm_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Altes_Rathaus_Nieder-Olm_Front.jpg/1920px-Altes_Rathaus_Nieder-Olm_Front.jpg---
 
 ## Overview
 

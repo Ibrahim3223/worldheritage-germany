@@ -4,13 +4,13 @@ site_name: "Protestant church Rüdinghausen"
 date: 2026-01-26
 draft: false
 description: "church in Witten"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q1380883"
 latitude: 51.4471
 longitude: 7.3974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/400px-Witten-Ruedinghausen_EvKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/800px-Witten-Ruedinghausen_EvKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/1200px-Witten-Ruedinghausen_EvKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/1920px-Witten-Ruedinghausen_EvKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/1920px-Witten-Ruedinghausen_EvKirche.jpg---
 
 ## Overview
 

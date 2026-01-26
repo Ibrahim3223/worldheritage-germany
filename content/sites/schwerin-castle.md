@@ -4,13 +4,13 @@ site_name: "Schwerin Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Landmark"
 categories:
   - "Architectural Landmark"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q573656"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/400px-Schwerin-Schloss-gp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/800px-Schwerin-Schloss-gp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/1200px-Schwerin-Schloss-gp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/1920px-Schwerin-Schloss-gp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/1920px-Schwerin-Schloss-gp.jpg---
 
 ## Overview
 

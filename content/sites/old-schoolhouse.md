@@ -4,13 +4,13 @@ site_name: "Old Schoolhouse"
 date: 2026-01-26
 draft: false
 description: "late 19th century elementary school building in Oberderdingen, Germany"
-region: "Oberderdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Oberderdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q439613"
 latitude: 49.0597
 longitude: 8.80062
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG/400px-Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG/800px-Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG/1200px-Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG/1920px-Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG/1920px-Oberderdingen-Altes-Schulhaus-2012-Schmelzle-bild094.JPG---
 
 ## Overview
 

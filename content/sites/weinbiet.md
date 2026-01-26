@@ -4,13 +4,13 @@ site_name: "Weinbiet"
 date: 2026-01-26
 draft: false
 description: "mountain in Germany"
-region: "Neustadt an der Weinstraße"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Neustadt an der Weinstraße"
+  - "Baden-Württemberg"
 wikidata_id: "Q22604"
 latitude: 49.376111111
 longitude: 8.120833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008-Mussbach-Weinbiet-116.jpg/400px-2008-Mussbach-Weinbiet-116.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008-Mussbach-Weinbiet-116.jpg/800px-2008-Mussbach-Weinbiet-116.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008-Mussbach-Weinbiet-116.jpg/1200px-2008-Mussbach-Weinbiet-116.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008-Mussbach-Weinbiet-116.jpg/1920px-2008-Mussbach-Weinbiet-116.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008-Mussbach-Weinbiet-116.jpg/1920px-2008-Mussbach-Weinbiet-116.jpg---
 
 ## Overview
 

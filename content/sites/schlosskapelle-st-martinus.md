@@ -4,13 +4,13 @@ site_name: "Schloßkapelle St. Martinus"
 date: 2026-01-26
 draft: false
 description: "church building in Herten, North Rhine-Westphalia, Germany"
-region: "Herten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Herten"
+  - "Lower Saxony"
 wikidata_id: "Q2244908"
 latitude: 51.5982
 longitude: 7.09024
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Herten_Westerholt_Schlosskapelle.jpg/400px-Herten_Westerholt_Schlosskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Herten_Westerholt_Schlosskapelle.jpg/800px-Herten_Westerholt_Schlosskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Herten_Westerholt_Schlosskapelle.jpg/1200px-Herten_Westerholt_Schlosskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Herten_Westerholt_Schlosskapelle.jpg/1920px-Herten_Westerholt_Schlosskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Herten_Westerholt_Schlosskapelle.jpg/1920px-Herten_Westerholt_Schlosskapelle.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Knollenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dischingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dischingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012686"
 latitude: 48.6907
 longitude: 10.3639
 images:
-  []
----
+  []---
 
 ## Overview
 

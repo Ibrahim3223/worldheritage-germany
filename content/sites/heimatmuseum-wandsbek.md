@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Wandsbek"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg, Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q14906798"
 latitude: 53.574403
 longitude: 10.078001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/400px-Hamburg_Böhmestraße_20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/800px-Hamburg_Böhmestraße_20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/1200px-Hamburg_Böhmestraße_20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/1920px-Hamburg_Böhmestraße_20.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/1920px-Hamburg_Böhmestraße_20.jpg---
 
 ## Overview
 

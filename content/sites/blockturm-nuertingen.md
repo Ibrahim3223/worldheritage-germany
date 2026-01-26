@@ -4,13 +4,13 @@ site_name: "Blockturm Nürtingen"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Nürtingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Nürtingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q884806"
 latitude: 48.6254
 longitude: 9.33869
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/400px-Nürtingen-Blockturm-4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/800px-Nürtingen-Blockturm-4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/1200px-Nürtingen-Blockturm-4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/1920px-Nürtingen-Blockturm-4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/1920px-Nürtingen-Blockturm-4.jpg---
 
 ## Overview
 

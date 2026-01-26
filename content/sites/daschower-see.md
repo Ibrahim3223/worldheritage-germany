@@ -4,13 +4,13 @@ site_name: "Daschower See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Gallin-Kuppentin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Gallin-Kuppentin"
+  - "Brandenburg"
 wikidata_id: "Q1171829"
 latitude: 53.5053
 longitude: 12.1672
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/400px-Daschower_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/800px-Daschower_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/1200px-Daschower_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/1920px-Daschower_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/1920px-Daschower_See.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alt-Trauchburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Weitnau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Weitnau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1010779"
 latitude: 47.655
 longitude: 10.1093
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Alttrauchburg_3.jpg/400px-Burg_Alttrauchburg_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Alttrauchburg_3.jpg/800px-Burg_Alttrauchburg_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Alttrauchburg_3.jpg/1200px-Burg_Alttrauchburg_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Alttrauchburg_3.jpg/1920px-Burg_Alttrauchburg_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Alttrauchburg_3.jpg/1920px-Burg_Alttrauchburg_3.jpg---
 
 ## Overview
 

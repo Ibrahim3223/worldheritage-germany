@@ -4,13 +4,13 @@ site_name: "Burg Gleichenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wachstedt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wachstedt"
+  - "Hesse"
 wikidata_id: "Q1011973"
 latitude: 51.2924
 longitude: 10.2064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/400px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/800px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1200px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1920px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1920px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG---
 
 ## Overview
 

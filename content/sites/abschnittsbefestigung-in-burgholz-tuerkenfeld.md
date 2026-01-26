@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung in Burgholz (Türkenfeld)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q332117"
 latitude: 48.0916
 longitude: 11.0976
 images:
-  []
----
+  []---
 
 ## Overview
 

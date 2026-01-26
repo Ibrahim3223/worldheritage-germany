@@ -4,13 +4,13 @@ site_name: "Garnisonkirche Oldenburg"
 date: 2026-01-26
 draft: false
 description: "church building in Oldenburg, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q11722157"
 latitude: 53.1454
 longitude: 8.21112
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/400px-Garnisonkirche_zu_Oldenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/800px-Garnisonkirche_zu_Oldenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/1200px-Garnisonkirche_zu_Oldenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/1920px-Garnisonkirche_zu_Oldenburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/1920px-Garnisonkirche_zu_Oldenburg.JPG---
 
 ## Overview
 

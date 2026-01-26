@@ -4,13 +4,13 @@ site_name: "St. Thomas a Becket Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1342586"
 latitude: 53.54872222
 longitude: 9.97461111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/400px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/800px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/1200px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/1920px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/1920px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg---
 
 ## Overview
 

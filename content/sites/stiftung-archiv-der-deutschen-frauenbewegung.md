@@ -4,19 +4,18 @@ site_name: "Stiftung Archiv der deutschen Frauenbewegung"
 date: 2026-01-26
 draft: false
 description: "Stiftung des außeruniversitären Zentrums zur Überlieferung und Erforschung der Geschichte von Frauen und Frauenbewegungen in Deutschland zwischen 1800"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q17326432"
 latitude: 51.325961
 longitude: 9.503536
 images:
-  []
----
+  []---
 
 ## Overview
 

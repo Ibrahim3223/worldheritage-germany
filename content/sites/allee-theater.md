@@ -4,19 +4,18 @@ site_name: "Allee-Theater"
 date: 2026-01-26
 draft: false
 description: "children's theatre and chamber opera house in Altona, Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q1275609"
 latitude: 53.55472222
 longitude: 9.94194444
 images:
-  []
----
+  []---
 
 ## Overview
 

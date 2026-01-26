@@ -4,13 +4,13 @@ site_name: "Burgwall Riewend"
 date: 2026-01-26
 draft: false
 description: "hillfort of a Slavic lowland castle near Riewend in the municipality of Päwesin (Brandenburg)"
-region: "Päwesin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Päwesin"
+  - "Brandenburg"
 wikidata_id: "Q1016207"
 latitude: 52.5414
 longitude: 12.7219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/400px-BurgwallRiewend.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/800px-BurgwallRiewend.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/1200px-BurgwallRiewend.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/1920px-BurgwallRiewend.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/1920px-BurgwallRiewend.jpg---
 
 ## Overview
 

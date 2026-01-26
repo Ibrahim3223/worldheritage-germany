@@ -4,13 +4,13 @@ site_name: "Torell-Stein"
 date: 2026-01-26
 draft: false
 description: "monument in Helbersdorf, Germany"
-region: "Helbersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Helbersdorf"
+  - "Saxony"
 wikidata_id: "Q2443886"
 latitude: 50.7986
 longitude: 12.9078
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/400px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/800px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/1200px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/1920px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/1920px-Chemnitz-Gedenkstein_im_Stadtpark.jpg---
 
 ## Overview
 

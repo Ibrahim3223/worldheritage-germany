@@ -4,13 +4,13 @@ site_name: "Laurentiuskirche (Trebur)"
 date: 2026-01-26
 draft: false
 description: "church building in Trebur, Hesse, Germany"
-region: "Trebur"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Trebur"
+  - "Hesse"
 wikidata_id: "Q1808233"
 latitude: 49.923
 longitude: 8.4118
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/400px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/800px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/1200px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/1920px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/1920px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg---
 
 ## Overview
 

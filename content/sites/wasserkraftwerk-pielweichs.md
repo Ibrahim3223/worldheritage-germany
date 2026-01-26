@@ -4,13 +4,13 @@ site_name: "Wasserkraftwerk Pielweichs"
 date: 2026-01-26
 draft: false
 description: "Laufwasserkraftwerk an der Isar, letztes Kraftwerk an der Isar vor der Einmündung in die Donau"
-region: "Plattling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Plattling"
+  - "Bavaria"
 wikidata_id: "Q2551168"
 latitude: 48.7617
 longitude: 12.8704
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/400px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/800px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/1200px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/1920px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/1920px-20230211_Wasserkraftwerk_Pielweichs_01.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bichtenberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q856777"
 latitude: 49.1597
 longitude: 7.725
 images:
-  []
----
+  []---
 
 ## Overview
 

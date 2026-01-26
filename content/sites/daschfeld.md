@@ -4,19 +4,18 @@ site_name: "Daschfeld"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bad Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bad Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1171810"
 latitude: 52.3619
 longitude: 8.34444
 images:
-  []
----
+  []---
 
 ## Overview
 

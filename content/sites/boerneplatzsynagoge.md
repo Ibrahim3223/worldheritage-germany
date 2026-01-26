@@ -4,13 +4,13 @@ site_name: "Börneplatzsynagoge"
 date: 2026-01-26
 draft: false
 description: "Synagoge in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q926542"
 latitude: 50.1117
 longitude: 8.68944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/400px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/800px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/1200px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/1920px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/1920px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg---
 
 ## Overview
 

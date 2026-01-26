@@ -4,13 +4,13 @@ site_name: "Neuleiningen Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neuleiningen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neuleiningen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013302"
 latitude: 49.5427
 longitude: 8.13989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Neuleiningen_Bergfried.JPG/400px-Burg_Neuleiningen_Bergfried.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Neuleiningen_Bergfried.JPG/800px-Burg_Neuleiningen_Bergfried.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Neuleiningen_Bergfried.JPG/1200px-Burg_Neuleiningen_Bergfried.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Neuleiningen_Bergfried.JPG/1920px-Burg_Neuleiningen_Bergfried.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Neuleiningen_Bergfried.JPG/1920px-Burg_Neuleiningen_Bergfried.JPG---
 
 ## Overview
 

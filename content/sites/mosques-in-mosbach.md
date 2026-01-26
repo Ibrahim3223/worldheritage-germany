@@ -4,13 +4,13 @@ site_name: "Mosques in Mosbach"
 date: 2026-01-26
 draft: false
 description: "mosque in Mosbach, Germany"
-region: "Mosbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Mosbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1548879"
 latitude: 49.3462
 longitude: 9.13056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/400px-Mosbach_Moschee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/800px-Mosbach_Moschee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/1200px-Mosbach_Moschee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/1920px-Mosbach_Moschee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/1920px-Mosbach_Moschee.JPG---
 
 ## Overview
 

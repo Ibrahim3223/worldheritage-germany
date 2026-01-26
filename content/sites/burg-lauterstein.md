@@ -4,19 +4,18 @@ site_name: "Burg Lauterstein"
 date: 2026-01-26
 draft: false
 description: "castle in Wippingen"
-region: "Blaustein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Blaustein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012873"
 latitude: 48.4484
 longitude: 9.8584
 images:
-  []
----
+  []---
 
 ## Overview
 

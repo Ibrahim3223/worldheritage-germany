@@ -4,19 +4,18 @@ site_name: "Tier- und Jagdmuseum St. Hubertus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629439"
 latitude: 49.52366
 longitude: 12.523533
 images:
-  []
----
+  []---
 
 ## Overview
 

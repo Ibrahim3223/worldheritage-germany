@@ -4,13 +4,13 @@ site_name: "Althener Anger 19, Leipzig"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Saxony, museum and former school building in Leipzig-Althen, Germany"
-region: "Althen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Althen"
+  - "Saxony"
 wikidata_id: "Q49253468"
 latitude: 51.339314
 longitude: 12.519391
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/400px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/800px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/1200px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/1920px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/1920px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg---
 
 ## Overview
 

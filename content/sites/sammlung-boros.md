@@ -4,13 +4,13 @@ site_name: "Sammlung Boros"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q15126890"
 latitude: 52.52351667
 longitude: 13.38396944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/400px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/800px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/1200px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/1920px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/1920px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg---
 
 ## Overview
 

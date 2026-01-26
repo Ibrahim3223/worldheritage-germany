@@ -4,19 +4,18 @@ site_name: "Husarendenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Wiesental, Waghäusel, Germany"
-region: "Waghäusel"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Waghäusel"
+  - "Baden-Württemberg"
 wikidata_id: "Q1638834"
 latitude: 49.2263
 longitude: 8.51777
 images:
-  []
----
+  []---
 
 ## Overview
 

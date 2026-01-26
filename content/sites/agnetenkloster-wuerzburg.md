@@ -4,19 +4,18 @@ site_name: "Agnetenkloster Würzburg"
 date: 2026-01-26
 draft: false
 description: "building in Würzburg, Lower Franconia, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q394846"
 latitude: 49.7905
 longitude: 9.93467
 images:
-  []
----
+  []---
 
 ## Overview
 

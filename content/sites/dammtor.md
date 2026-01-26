@@ -4,13 +4,13 @@ site_name: "Dammtor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Barth"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Barth"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1158673"
 latitude: 54.3686
 longitude: 12.7219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/400px-Dammtor_Barth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/800px-Dammtor_Barth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/1200px-Dammtor_Barth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/1920px-Dammtor_Barth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/1920px-Dammtor_Barth.jpg---
 
 ## Overview
 

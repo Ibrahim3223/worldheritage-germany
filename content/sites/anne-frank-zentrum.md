@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/400px-Anne-frank-zentrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/800px-Anne-frank-zentrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/1200px-Anne-frank-zentrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/1920px-Anne-frank-zentrum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/1920px-Anne-frank-zentrum.jpg---
 
 ## Overview
 

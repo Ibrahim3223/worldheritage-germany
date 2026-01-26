@@ -4,19 +4,18 @@ site_name: "Burg Ingweiler"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ingweilerhof"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ingweilerhof"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012563"
 latitude: 49.6189
 longitude: 7.67866
 images:
-  []
----
+  []---
 
 ## Overview
 

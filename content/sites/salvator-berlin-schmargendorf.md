@@ -4,13 +4,13 @@ site_name: "Salvator (Berlin-Schmargendorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1699828"
 latitude: 52.4797
 longitude: 13.2937
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/400px-Salvator_(Berlin-Schmargendorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/800px-Salvator_(Berlin-Schmargendorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/1200px-Salvator_(Berlin-Schmargendorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/1920px-Salvator_(Berlin-Schmargendorf).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/1920px-Salvator_(Berlin-Schmargendorf).jpg---
 
 ## Overview
 

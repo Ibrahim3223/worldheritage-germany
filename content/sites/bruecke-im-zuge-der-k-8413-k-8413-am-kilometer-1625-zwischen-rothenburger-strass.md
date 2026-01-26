@@ -4,19 +4,18 @@ site_name: "Brücke im Zuge der K 8413 (K 8413, am Kilometer 1,625 - zwischen Ro
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rietschen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rietschen"
+  - "Saxony"
 wikidata_id: "Q49417699"
 latitude: 51.396728
 longitude: 14.80335
 images:
-  []
----
+  []---
 
 ## Overview
 

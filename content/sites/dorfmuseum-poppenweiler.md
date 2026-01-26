@@ -4,19 +4,18 @@ site_name: "Dorfmuseum Poppenweiler"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631471"
 latitude: 48.908561
 longitude: 9.265423
 images:
-  []
----
+  []---
 
 ## Overview
 

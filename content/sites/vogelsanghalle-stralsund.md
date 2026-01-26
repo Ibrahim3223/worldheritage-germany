@@ -4,13 +4,13 @@ site_name: "Vogelsanghalle Stralsund"
 date: 2026-01-26
 draft: false
 description: "Mehrzweckhalle in der Gemeinde Kramerhof nahe der Stadt Stralsund"
-region: "Kramerhof"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Kramerhof"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2530059"
 latitude: 54.3206
 longitude: 13.0447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/400px-Vogelsanghalle_(2009-04-04).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/800px-Vogelsanghalle_(2009-04-04).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/1200px-Vogelsanghalle_(2009-04-04).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/1920px-Vogelsanghalle_(2009-04-04).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/1920px-Vogelsanghalle_(2009-04-04).JPG---
 
 ## Overview
 

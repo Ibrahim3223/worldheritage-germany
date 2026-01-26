@@ -4,13 +4,13 @@ site_name: "St. Petri"
 date: 2026-01-26
 draft: false
 description: "church building in Rochlitz, Saxony, Germany"
-region: "Rochlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rochlitz"
+  - "Saxony"
 wikidata_id: "Q1737535"
 latitude: 51.0456
 longitude: 12.7933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/400px-Rochlitz_Petrikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/800px-Rochlitz_Petrikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/1200px-Rochlitz_Petrikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/1920px-Rochlitz_Petrikirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/1920px-Rochlitz_Petrikirche.jpg---
 
 ## Overview
 

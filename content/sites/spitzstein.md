@@ -4,13 +4,13 @@ site_name: "Spitzstein"
 date: 2026-01-26
 draft: false
 description: "mountain in the Chiemgau Alps at the border Tyrol / Bavaria"
-region: "Erl"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Erl"
+  - "Bavaria"
 wikidata_id: "Q185459"
 latitude: 47.710833333
 longitude: 12.246666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spitzstein_von_Sueden-1.jpg/400px-Spitzstein_von_Sueden-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spitzstein_von_Sueden-1.jpg/800px-Spitzstein_von_Sueden-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spitzstein_von_Sueden-1.jpg/1200px-Spitzstein_von_Sueden-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spitzstein_von_Sueden-1.jpg/1920px-Spitzstein_von_Sueden-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spitzstein_von_Sueden-1.jpg/1920px-Spitzstein_von_Sueden-1.jpg---
 
 ## Overview
 

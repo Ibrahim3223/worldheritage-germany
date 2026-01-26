@@ -4,13 +4,13 @@ site_name: "Congress Centrum Suhl"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Suhl, Thuringia, Germany"
-region: "Suhl"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Suhl"
+  - "Thuringia"
 wikidata_id: "Q1125845"
 latitude: 50.61027778
 longitude: 10.68777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/400px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/800px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1200px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg---
 
 ## Overview
 

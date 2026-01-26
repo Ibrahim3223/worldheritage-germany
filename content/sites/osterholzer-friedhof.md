@@ -4,13 +4,13 @@ site_name: "Osterholzer Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Osterholz, Bremen, Germany"
-region: "Osterholz"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Osterholz"
+  - "Bremen"
 wikidata_id: "Q1281961"
 latitude: 53.0639
 longitude: 8.92111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/OsterholzerFriedhof_05.jpg/400px-OsterholzerFriedhof_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/OsterholzerFriedhof_05.jpg/800px-OsterholzerFriedhof_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/OsterholzerFriedhof_05.jpg/1200px-OsterholzerFriedhof_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/OsterholzerFriedhof_05.jpg/1920px-OsterholzerFriedhof_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/OsterholzerFriedhof_05.jpg/1920px-OsterholzerFriedhof_05.jpg---
 
 ## Overview 
 

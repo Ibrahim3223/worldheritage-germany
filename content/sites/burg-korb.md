@@ -4,13 +4,13 @@ site_name: "Burg Korb"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Möckmühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Möckmühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012705"
 latitude: 49.355
 longitude: 9.39658
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/400px-Korb-Moeckmuehl-Kirchblick.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/800px-Korb-Moeckmuehl-Kirchblick.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/1200px-Korb-Moeckmuehl-Kirchblick.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/1920px-Korb-Moeckmuehl-Kirchblick.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/1920px-Korb-Moeckmuehl-Kirchblick.JPG---
 
 ## Overview
 

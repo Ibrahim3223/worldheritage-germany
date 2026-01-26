@@ -4,13 +4,13 @@ site_name: "Selimiye Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Deggendorf. Bavaria, Germany"
-region: "Deggendorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Deggendorf"
+  - "Bavaria"
 wikidata_id: "Q130486431"
 latitude: 48.818771
 longitude: 12.950861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/400px-Deggendorf_camii_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/800px-Deggendorf_camii_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/1200px-Deggendorf_camii_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/1920px-Deggendorf_camii_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/1920px-Deggendorf_camii_1.jpg---
 
 ## Overview
 

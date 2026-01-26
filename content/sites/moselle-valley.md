@@ -4,19 +4,18 @@ site_name: "Moselle Valley"
 date: 2026-01-26
 draft: false
 description: "geographical region in Belgium, France, Germany and Luxembourg"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q897106"
 latitude: 50.4
 longitude: 7.6
 images:
-  []
----
+  []---
 
 ## Overview
 

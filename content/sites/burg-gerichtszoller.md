@@ -4,19 +4,18 @@ site_name: "Burg Gerichtszoller"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Emmingen-Liptingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Emmingen-Liptingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011939"
 latitude: 47.892861
 longitude: 8.821674
 images:
-  []
----
+  []---
 
 ## Overview
 

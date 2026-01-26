@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mschatta-Fassade_(Pergamonmuseum).jpg/400px-Mschatta-Fassade_(Pergamonmuseum).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mschatta-Fassade_(Pergamonmuseum).jpg/800px-Mschatta-Fassade_(Pergamonmuseum).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mschatta-Fassade_(Pergamonmuseum).jpg/1200px-Mschatta-Fassade_(Pergamonmuseum).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mschatta-Fassade_(Pergamonmuseum).jpg/1920px-Mschatta-Fassade_(Pergamonmuseum).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mschatta-Fassade_(Pergamonmuseum).jpg/1920px-Mschatta-Fassade_(Pergamonmuseum).jpg---
 
 ## Overview
 

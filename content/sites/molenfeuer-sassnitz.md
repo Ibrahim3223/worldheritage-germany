@@ -4,13 +4,13 @@ site_name: "Molenfeuer Sassnitz"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
-region: "Sassnitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Sassnitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1943419"
 latitude: 54.5060217
 longitude: 13.6373189
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Molenfeuer_Sassnitz_2012.jpg/400px-Molenfeuer_Sassnitz_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Molenfeuer_Sassnitz_2012.jpg/800px-Molenfeuer_Sassnitz_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Molenfeuer_Sassnitz_2012.jpg/1200px-Molenfeuer_Sassnitz_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Molenfeuer_Sassnitz_2012.jpg/1920px-Molenfeuer_Sassnitz_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Molenfeuer_Sassnitz_2012.jpg/1920px-Molenfeuer_Sassnitz_2012.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Drostei"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Stadtpalais in Pinneberg"
-region: "Pinneberg"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Pinneberg"
+  - "Hamburg"
 wikidata_id: "Q1260605"
 latitude: 53.6608
 longitude: 9.79667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pinneberg_Drostei_1.jpg/400px-Pinneberg_Drostei_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pinneberg_Drostei_1.jpg/800px-Pinneberg_Drostei_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pinneberg_Drostei_1.jpg/1200px-Pinneberg_Drostei_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pinneberg_Drostei_1.jpg/1920px-Pinneberg_Drostei_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pinneberg_Drostei_1.jpg/1920px-Pinneberg_Drostei_1.jpg---
 
 ## Overview
 

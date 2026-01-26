@@ -4,13 +4,13 @@ site_name: "Landschafts-Informationszentrum"
 date: 2026-01-26
 draft: false
 description: "museum in Möhnesee"
-region: "Möhnesee"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Möhnesee"
+  - "Hesse"
 wikidata_id: "Q1252305"
 latitude: 51.49484
 longitude: 8.04821
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Möhnesee-Günne_LIZ_(1).JPG/400px-Möhnesee-Günne_LIZ_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Möhnesee-Günne_LIZ_(1).JPG/800px-Möhnesee-Günne_LIZ_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Möhnesee-Günne_LIZ_(1).JPG/1200px-Möhnesee-Günne_LIZ_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Möhnesee-Günne_LIZ_(1).JPG/1920px-Möhnesee-Günne_LIZ_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Möhnesee-Günne_LIZ_(1).JPG/1920px-Möhnesee-Günne_LIZ_(1).JPG---
 
 ## Overview
 

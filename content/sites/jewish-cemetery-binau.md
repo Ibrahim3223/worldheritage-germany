@@ -4,13 +4,13 @@ site_name: "Jewish Cemetery, Binau"
 date: 2026-01-26
 draft: false
 description: "building in Binau, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Binau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Binau"
+  - "Baden-Württemberg"
 wikidata_id: "Q971564"
 latitude: 49.3674
 longitude: 9.06443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/400px-Juedischer_Friedhof_Binau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/800px-Juedischer_Friedhof_Binau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/1200px-Juedischer_Friedhof_Binau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/1920px-Juedischer_Friedhof_Binau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/1920px-Juedischer_Friedhof_Binau.jpg---
 
 ## Overview
 

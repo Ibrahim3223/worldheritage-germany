@@ -4,13 +4,13 @@ site_name: "Hamburg Central Mosque"
 date: 2026-01-26
 draft: false
 description: "Mosque in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1054368"
 latitude: 53.55416667
 longitude: 10.01666667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/400px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/800px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1200px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1920px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1920px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg---
 
 ## Overview
 

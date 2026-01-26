@@ -4,19 +4,18 @@ site_name: "Asbeketal-Kinzbachtal"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Germany"
-region: "Herford"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Herford"
+  - "Lower Saxony"
 wikidata_id: "Q721321"
 latitude: 52.1127
 longitude: 8.62787
 images:
-  []
----
+  []---
 
 ## Overview
 

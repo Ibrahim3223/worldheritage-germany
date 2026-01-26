@@ -4,13 +4,13 @@ site_name: "Museum Art.Plus"
 date: 2026-01-26
 draft: false
 description: "art museum in Donaueschingen, Germany"
-region: "Donaueschingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Donaueschingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954406"
 latitude: 47.95052778
 longitude: 8.50202778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/400px-Museum_Biedermann.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/800px-Museum_Biedermann.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/1200px-Museum_Biedermann.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/1920px-Museum_Biedermann.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/1920px-Museum_Biedermann.jpg---
 
 ## Overview
 

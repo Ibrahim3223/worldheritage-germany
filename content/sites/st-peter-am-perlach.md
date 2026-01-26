@@ -4,13 +4,13 @@ site_name: "St. Peter am Perlach"
 date: 2026-01-26
 draft: false
 description: "church building in Augsburg, Swabia, Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2801585"
 latitude: 48.369153
 longitude: 10.898414
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/400px-Augsburg-Perlachkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/800px-Augsburg-Perlachkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1200px-Augsburg-Perlachkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1920px-Augsburg-Perlachkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1920px-Augsburg-Perlachkirche.jpg---
 
 ## Overview
 

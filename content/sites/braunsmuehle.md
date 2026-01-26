@@ -4,13 +4,13 @@ site_name: "Braunsmühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Kaarst"
-region: "Kaarst"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Kaarst"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q902119"
 latitude: 51.1976
 longitude: 6.62521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg/400px-07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg/800px-07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg/1200px-07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg/1920px-07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg/1920px-07_(2)_Braunsmühle,_An_der_Braunsmühle_2,_Büttgen.jpg---
 
 ## Overview
 

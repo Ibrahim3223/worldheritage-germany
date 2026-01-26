@@ -4,13 +4,13 @@ site_name: "Hammerschmiede Gnuse"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Vlotho"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Vlotho"
+  - "Lower Saxony"
 wikidata_id: "Q1384152"
 latitude: 52.137
 longitude: 8.85898
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/400px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/800px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/1200px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/1920px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/1920px-Vlotho-Denkmal-102-2013-06-29-0437.jpg---
 
 ## Overview
 

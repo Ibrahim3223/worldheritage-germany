@@ -4,13 +4,13 @@ site_name: "Weinbergweg 34 (Bonn)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Beuel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Beuel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012970"
 latitude: 50.7302
 longitude: 7.1395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG/400px-2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG/800px-2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG/1200px-2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG/1920px-2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG/1920px-2016-05-05_Bonn-Beuel_Burgruine_Limperich_Weinbergweg_34_(1).JPG---
 
 ## Overview
 

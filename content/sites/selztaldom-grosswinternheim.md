@@ -4,13 +4,13 @@ site_name: "Selztaldom Großwinternheim"
 date: 2026-01-26
 draft: false
 description: "Protestant church in Ingelheim, Rhineland-Palatinate, Germany"
-region: "Ingelheim am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ingelheim am Rhein"
+  - "Hesse"
 wikidata_id: "Q2268820"
 latitude: 49.942
 longitude: 8.08405
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Selztaldom2.JPG/400px-Selztaldom2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Selztaldom2.JPG/800px-Selztaldom2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Selztaldom2.JPG/1200px-Selztaldom2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Selztaldom2.JPG/1920px-Selztaldom2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Selztaldom2.JPG/1920px-Selztaldom2.JPG---
 
 ## Overview
 

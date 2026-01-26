@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/400px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/800px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/1200px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/1920px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/1920px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg---
 
 ## Overview
 

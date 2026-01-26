@@ -4,13 +4,13 @@ site_name: "Inn-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Rosenheim, Bavaria, Germany"
-region: "Rosenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rosenheim"
+  - "Bavaria"
 wikidata_id: "Q1534447"
 latitude: 47.855
 longitude: 12.141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/400px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/800px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/1200px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/1920px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/1920px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG---
 
 ## Overview
 

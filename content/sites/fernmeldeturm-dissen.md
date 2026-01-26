@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Dissen"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Dissen am Teutoburger Wald"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Dissen am Teutoburger Wald"
+  - "Lower Saxony"
 wikidata_id: "Q1407037"
 latitude: 52.1284
 longitude: 8.22281
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/400px-Fernmeldeturm_Dissen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/800px-Fernmeldeturm_Dissen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/1200px-Fernmeldeturm_Dissen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/1920px-Fernmeldeturm_Dissen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/1920px-Fernmeldeturm_Dissen.jpg---
 
 ## Overview
 

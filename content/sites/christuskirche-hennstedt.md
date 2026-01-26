@@ -4,13 +4,13 @@ site_name: "Christuskirche (Hennstedt)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hennstedt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hennstedt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1087337"
 latitude: 54.0308
 longitude: 9.71472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/400px-Hennstedt_(Steinburg)_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/800px-Hennstedt_(Steinburg)_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/1200px-Hennstedt_(Steinburg)_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/1920px-Hennstedt_(Steinburg)_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/1920px-Hennstedt_(Steinburg)_Kirche.jpg---
 
 ## Overview
 

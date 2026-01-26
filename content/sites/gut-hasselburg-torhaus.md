@@ -4,13 +4,13 @@ site_name: "Gut Hasselburg: Torhaus"
 date: 2026-01-26
 draft: false
 description: "building in Altenkrempe (Germany)"
-region: "Altenkrempe"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Altenkrempe"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q786909"
 latitude: 54.140279
 longitude: 10.817215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/400px-Hasselburg_Torhaus_rueck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/800px-Hasselburg_Torhaus_rueck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/1200px-Hasselburg_Torhaus_rueck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/1920px-Hasselburg_Torhaus_rueck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/1920px-Hasselburg_Torhaus_rueck.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Papiermühle Plöger"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schieder-Schwalenberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schieder-Schwalenberg"
+  - "Lower Saxony"
 wikidata_id: "Q2050734"
 latitude: 51.9103
 longitude: 9.14461
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/400px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/800px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/1200px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/1920px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/1920px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg---
 
 ## Overview
 

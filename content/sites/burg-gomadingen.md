@@ -4,19 +4,18 @@ site_name: "Burg Gomadingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gomadingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gomadingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011997"
 latitude: 48.393295
 longitude: 9.37945
 images:
-  []
----
+  []---
 
 ## Overview
 

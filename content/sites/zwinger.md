@@ -4,13 +4,13 @@ site_name: "Zwinger"
 date: 2026-01-26
 draft: false
 description: "palace in Dresden, eastern Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q155107"
 latitude: 51.053055555
 longitude: 13.733888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/400px-Zwinger_Dresden_Innenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/800px-Zwinger_Dresden_Innenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/1200px-Zwinger_Dresden_Innenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/1920px-Zwinger_Dresden_Innenhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/1920px-Zwinger_Dresden_Innenhof.jpg---
 
 ## Overview
 

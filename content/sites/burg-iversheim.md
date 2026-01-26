@@ -4,19 +4,18 @@ site_name: "Burg Iversheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Münstereifel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Münstereifel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012569"
 latitude: 50.5835
 longitude: 6.77323
 images:
-  []
----
+  []---
 
 ## Overview
 

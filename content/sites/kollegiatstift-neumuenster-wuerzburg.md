@@ -4,13 +4,13 @@ site_name: "Kollegiatstift Neumünster, Würzburg"
 date: 2026-01-26
 draft: false
 description: "church building and cultural heritage monument D-6-63-000-289 (0) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q881050"
 latitude: 49.7938
 longitude: 9.93158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/400px-Neumünster_Würzburg_facade_-_DSC02776.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/800px-Neumünster_Würzburg_facade_-_DSC02776.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/1200px-Neumünster_Würzburg_facade_-_DSC02776.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/1920px-Neumünster_Würzburg_facade_-_DSC02776.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/1920px-Neumünster_Würzburg_facade_-_DSC02776.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Jever Brewery"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Jever"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Jever"
+  - "Lower Saxony"
 wikidata_id: "Q601859"
 latitude: 53.57600021
 longitude: 7.90199995
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/400px-Friesischesbrauhauszujever2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/800px-Friesischesbrauhauszujever2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/1200px-Friesischesbrauhauszujever2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/1920px-Friesischesbrauhauszujever2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/1920px-Friesischesbrauhauszujever2.jpg---
 
 ## Overview
 

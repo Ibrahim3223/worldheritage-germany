@@ -4,13 +4,13 @@ site_name: "Mennonitenkirche Norden"
 date: 2026-01-26
 draft: false
 description: "church building in Norden, Germany"
-region: "Norden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Norden"
+  - "Lower Saxony"
 wikidata_id: "Q1920653"
 latitude: 53.5947
 longitude: 7.20528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mennonit_Nord_7376.jpg/400px-Mennonit_Nord_7376.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mennonit_Nord_7376.jpg/800px-Mennonit_Nord_7376.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mennonit_Nord_7376.jpg/1200px-Mennonit_Nord_7376.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mennonit_Nord_7376.jpg/1920px-Mennonit_Nord_7376.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mennonit_Nord_7376.jpg/1920px-Mennonit_Nord_7376.jpg---
 
 ## Overview
 

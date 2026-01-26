@@ -4,13 +4,13 @@ site_name: "Vorpommersche Landesbühne Anklam"
 date: 2026-01-26
 draft: false
 description: "theatre in Anklam, Germany"
-region: "Anklam"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Anklam"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1602133"
 latitude: 53.8516
 longitude: 13.678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/400px-TheaterAnklam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/800px-TheaterAnklam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/1200px-TheaterAnklam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/1920px-TheaterAnklam.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/1920px-TheaterAnklam.jpg---
 
 ## Overview
 

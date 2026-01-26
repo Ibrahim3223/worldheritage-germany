@@ -4,13 +4,13 @@ site_name: "Museum der Westlausitz zu Kamenz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kamenz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kamenz"
+  - "Saxony"
 wikidata_id: "Q16003202"
 latitude: 51.26985
 longitude: 14.092953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/400px-Außenansicht_Elementarium_3.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/800px-Außenansicht_Elementarium_3.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/1200px-Außenansicht_Elementarium_3.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/1920px-Außenansicht_Elementarium_3.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/1920px-Außenansicht_Elementarium_3.jpeg---
 
 ## Overview
 

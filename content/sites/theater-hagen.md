@@ -4,13 +4,13 @@ site_name: "Theater Hagen"
 date: 2026-01-26
 draft: false
 description: "theatre and opera hosue in Hagen, Germany"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q546897"
 latitude: 51.358938888
 longitude: 7.466916666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/400px-Theaterhagen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/800px-Theaterhagen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/1200px-Theaterhagen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/1920px-Theaterhagen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/1920px-Theaterhagen.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Georgenkirche Waren"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Waren"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Waren"
+  - "Brandenburg"
 wikidata_id: "Q1508733"
 latitude: 53.5135
 longitude: 12.686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/400px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/800px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/1200px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/1920px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/1920px-Waren_(Müritz)_St._Georgenkirche_2010.jpg---
 
 ## Overview
 

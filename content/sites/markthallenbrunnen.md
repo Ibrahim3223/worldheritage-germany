@@ -4,13 +4,13 @@ site_name: "Markthallenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q28924229"
 latitude: 52.5225
 longitude: 13.408333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/400px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/800px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/1200px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/1920px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/1920px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg---
 
 ## Overview
 

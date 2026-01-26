@@ -4,13 +4,13 @@ site_name: "Stadtkirche St. Wenzel"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q670913"
 latitude: 51.1517
 longitude: 11.8097
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/400px-Naumburg_stwenzel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/800px-Naumburg_stwenzel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/1200px-Naumburg_stwenzel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/1920px-Naumburg_stwenzel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/1920px-Naumburg_stwenzel.jpg---
 
 ## Overview
 

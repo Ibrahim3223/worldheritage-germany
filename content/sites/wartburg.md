@@ -4,13 +4,13 @@ site_name: "Wartburg"
 date: 2026-01-26
 draft: false
 description: "castle in Eisenach, Germany"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q151545"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg/400px-Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg/800px-Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg/1200px-Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg/1920px-Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg/1920px-Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg---
 
 ## Overview
 

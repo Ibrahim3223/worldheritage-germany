@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Langquaid"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Langquaid"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Langquaid"
+  - "Bavaria"
 wikidata_id: "Q28729491"
 latitude: 48.82072
 longitude: 12.05027
 images:
-  []
----
+  []---
 
 ## Overview
 

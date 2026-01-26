@@ -4,13 +4,13 @@ site_name: "Maus Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Sankt Goarshausen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sankt Goarshausen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q315120"
 latitude: 50.1719
 longitude: 7.69599
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Maus_4.JPG/400px-Maus_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Maus_4.JPG/800px-Maus_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Maus_4.JPG/1200px-Maus_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Maus_4.JPG/1920px-Maus_4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Maus_4.JPG/1920px-Maus_4.JPG---
 
 ## Overview
 

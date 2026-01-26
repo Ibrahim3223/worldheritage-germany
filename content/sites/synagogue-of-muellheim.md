@@ -4,13 +4,13 @@ site_name: "Synagogue of Müllheim"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Müllheim im Markgräflerland"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Müllheim im Markgräflerland"
+  - "Baden-Württemberg"
 wikidata_id: "Q1420289"
 latitude: 47.806943
 longitude: 7.624469
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Müllheim_Baden_Synagoge983.JPG/400px-Müllheim_Baden_Synagoge983.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Müllheim_Baden_Synagoge983.JPG/800px-Müllheim_Baden_Synagoge983.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Müllheim_Baden_Synagoge983.JPG/1200px-Müllheim_Baden_Synagoge983.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Müllheim_Baden_Synagoge983.JPG/1920px-Müllheim_Baden_Synagoge983.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Müllheim_Baden_Synagoge983.JPG/1920px-Müllheim_Baden_Synagoge983.JPG---
 
 ## Overview
 

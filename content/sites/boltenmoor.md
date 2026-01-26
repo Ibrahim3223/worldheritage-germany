@@ -4,13 +4,13 @@ site_name: "Boltenmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Syke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Syke"
+  - "Lower Saxony"
 wikidata_id: "Q891625"
 latitude: 52.9132
 longitude: 8.90691
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/400px-Boltenmoor_-_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/800px-Boltenmoor_-_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/1200px-Boltenmoor_-_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/1920px-Boltenmoor_-_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/1920px-Boltenmoor_-_03.JPG---
 
 ## Overview
 

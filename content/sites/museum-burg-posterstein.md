@@ -4,13 +4,13 @@ site_name: "Museum Burg Posterstein"
 date: 2026-01-26
 draft: false
 description: "museum in Thuringia, Germany"
-region: "Posterstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Posterstein"
+  - "Saxony"
 wikidata_id: "Q1013517"
 latitude: 50.8631
 longitude: 12.2528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Burg_Posterstein.jpg/400px-Museum_Burg_Posterstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Burg_Posterstein.jpg/800px-Museum_Burg_Posterstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Burg_Posterstein.jpg/1200px-Museum_Burg_Posterstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Burg_Posterstein.jpg/1920px-Museum_Burg_Posterstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Burg_Posterstein.jpg/1920px-Museum_Burg_Posterstein.jpg---
 
 ## Overview
 

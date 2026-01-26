@@ -4,13 +4,13 @@ site_name: "St. Mariä Himmelfahrt"
 date: 2026-01-26
 draft: false
 description: "church building in Cologne, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q880674"
 latitude: 50.943067
 longitude: 6.956142
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Köln_st_mariä_himmelfahrt_fassade.jpg/400px-Köln_st_mariä_himmelfahrt_fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Köln_st_mariä_himmelfahrt_fassade.jpg/800px-Köln_st_mariä_himmelfahrt_fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Köln_st_mariä_himmelfahrt_fassade.jpg/1200px-Köln_st_mariä_himmelfahrt_fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Köln_st_mariä_himmelfahrt_fassade.jpg/1920px-Köln_st_mariä_himmelfahrt_fassade.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Köln_st_mariä_himmelfahrt_fassade.jpg/1920px-Köln_st_mariä_himmelfahrt_fassade.jpg---
 
 ## Overview
 

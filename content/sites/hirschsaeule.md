@@ -4,13 +4,13 @@ site_name: "Hirschsäule"
 date: 2026-01-26
 draft: false
 description: "statue in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1496582"
 latitude: 52.1312
 longitude: 11.6395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Magdeburg_asv2022-08_img33_Hirschsäule.jpg/400px-Magdeburg_asv2022-08_img33_Hirschsäule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Magdeburg_asv2022-08_img33_Hirschsäule.jpg/800px-Magdeburg_asv2022-08_img33_Hirschsäule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Magdeburg_asv2022-08_img33_Hirschsäule.jpg/1200px-Magdeburg_asv2022-08_img33_Hirschsäule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Magdeburg_asv2022-08_img33_Hirschsäule.jpg/1920px-Magdeburg_asv2022-08_img33_Hirschsäule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Magdeburg_asv2022-08_img33_Hirschsäule.jpg/1920px-Magdeburg_asv2022-08_img33_Hirschsäule.jpg---
 
 ## Overview
 

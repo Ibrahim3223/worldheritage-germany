@@ -4,13 +4,13 @@ site_name: "Evangelisch-reformierte Kirche Pivitsheide"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1380093"
 latitude: 51.9451
 longitude: 8.79039
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/400px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/800px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1200px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1920px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1920px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg---
 
 ## Overview
 

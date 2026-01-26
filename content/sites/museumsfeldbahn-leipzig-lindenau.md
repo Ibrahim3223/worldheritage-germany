@@ -4,13 +4,13 @@ site_name: "Museumsfeldbahn Leipzig-Lindenau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1954818"
 latitude: 51.335
 longitude: 12.3005
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/400px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/800px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/1200px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/1920px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/1920px-Museumsfeldbahn_Leipzig_IMG_7594.JPG---
 
 ## Overview
 

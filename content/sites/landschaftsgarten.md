@@ -4,13 +4,13 @@ site_name: "Landschaftsgarten"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-79-169-270 (0) in Wunsiedel, Bavaria"
-region: "Wunsiedel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Wunsiedel"
+  - "Bavaria"
 wikidata_id: "Q317712"
 latitude: 50.01048186
 longitude: 11.993764635
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/400px-Luisenburg_2014_11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/800px-Luisenburg_2014_11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/1200px-Luisenburg_2014_11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/1920px-Luisenburg_2014_11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/1920px-Luisenburg_2014_11.jpg---
 
 ## Overview
 

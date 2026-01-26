@@ -4,13 +4,13 @@ site_name: "Prinz Albrecht von Preußen Memorial"
 date: 2026-01-26
 draft: false
 description: "statue in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q2110523"
 latitude: 52.5190508
 longitude: 13.2960218
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prinz-Albrecht.jpg/400px-Prinz-Albrecht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prinz-Albrecht.jpg/800px-Prinz-Albrecht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prinz-Albrecht.jpg/1200px-Prinz-Albrecht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prinz-Albrecht.jpg/1920px-Prinz-Albrecht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Prinz-Albrecht.jpg/1920px-Prinz-Albrecht.jpg---
 
 ## Overview
 

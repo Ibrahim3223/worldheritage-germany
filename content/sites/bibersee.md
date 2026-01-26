@@ -4,19 +4,18 @@ site_name: "Bibersee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Fronreute"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Fronreute"
+  - "Baden-Württemberg"
 wikidata_id: "Q856228"
 latitude: 47.865
 longitude: 9.557780555
 images:
-  []
----
+  []---
 
 ## Overview
 

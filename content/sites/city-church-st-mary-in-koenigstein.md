@@ -4,13 +4,13 @@ site_name: "City Church St. Mary in Königstein"
 date: 2026-01-26
 draft: false
 description: "church building in Saxony, Germany"
-region: "Königstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Königstein"
+  - "Saxony"
 wikidata_id: "Q1897828"
 latitude: 50.9183
 longitude: 14.0722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/400px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/800px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/1200px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/1920px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/1920px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg---
 
 ## Overview
 

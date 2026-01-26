@@ -4,13 +4,13 @@ site_name: "Fichtel and Sachs Bunker"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schweinfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schweinfurt"
+  - "Bavaria"
 wikidata_id: "Q22963488"
 latitude: 50.029756
 longitude: 10.209673
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/400px-Bunkermuseum_Schweinfurt_Logo.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/800px-Bunkermuseum_Schweinfurt_Logo.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/1200px-Bunkermuseum_Schweinfurt_Logo.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/1920px-Bunkermuseum_Schweinfurt_Logo.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/1920px-Bunkermuseum_Schweinfurt_Logo.png---
 
 ## Overview
 

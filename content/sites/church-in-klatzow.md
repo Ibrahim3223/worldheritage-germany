@@ -4,13 +4,13 @@ site_name: "Church in Klatzow"
 date: 2026-01-26
 draft: false
 description: "church building in Altentreptow, Germany"
-region: "Altentreptow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altentreptow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742599"
 latitude: 53.7124
 longitude: 13.2543
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/400px-Klatzow_Kirche_Südseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/800px-Klatzow_Kirche_Südseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/1200px-Klatzow_Kirche_Südseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/1920px-Klatzow_Kirche_Südseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/1920px-Klatzow_Kirche_Südseite.JPG---
 
 ## Overview
 

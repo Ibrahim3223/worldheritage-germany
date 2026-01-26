@@ -4,19 +4,18 @@ site_name: "Geschichtswerkstatt Zülpich"
 date: 2026-01-26
 draft: false
 description: "Museum zur Stadtgeschichte in Zülpich"
-region: "Zülpich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zülpich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q18624538"
 latitude: 50.6901662
 longitude: 6.6467901
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brahms-Institut"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q15204138"
 latitude: 53.88
 longitude: 10.696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/400px-HL_–_Jerusalemsberg_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/800px-HL_–_Jerusalemsberg_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/1200px-HL_–_Jerusalemsberg_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/1920px-HL_–_Jerusalemsberg_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/1920px-HL_–_Jerusalemsberg_4.jpg---
 
 ## Overview
 

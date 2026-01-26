@@ -4,13 +4,13 @@ site_name: "Lady Chapel Adenau"
 date: 2026-01-26
 draft: false
 description: "Chapel in Adenau"
-region: "Adenau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Adenau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1777719"
 latitude: 50.3834
 longitude: 6.92594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/400px-Adenau_Marienkapelle127.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/800px-Adenau_Marienkapelle127.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/1200px-Adenau_Marienkapelle127.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/1920px-Adenau_Marienkapelle127.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/1920px-Adenau_Marienkapelle127.JPG---
 
 ## Overview
 

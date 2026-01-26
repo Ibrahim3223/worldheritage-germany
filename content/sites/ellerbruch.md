@@ -4,13 +4,13 @@ site_name: "Ellerbruch"
 date: 2026-01-26
 draft: false
 description: "cemetery in Wingst, Germany"
-region: "Wingst"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Wingst"
+  - "Lower Saxony"
 wikidata_id: "Q1332004"
 latitude: 53.711894444
 longitude: 9.056444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg/400px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg/800px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg/1200px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg/1920px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg/1920px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_02.jpg---
 
 ## Overview
 

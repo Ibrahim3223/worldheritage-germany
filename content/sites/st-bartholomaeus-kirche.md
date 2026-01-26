@@ -4,13 +4,13 @@ site_name: "St.-Bartholomäus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Dornum, Germany"
-region: "Dornum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dornum"
+  - "Lower Saxony"
 wikidata_id: "Q2315990"
 latitude: 53.6461
 longitude: 7.42806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dornum_Kirche.jpg/400px-Dornum_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dornum_Kirche.jpg/800px-Dornum_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dornum_Kirche.jpg/1200px-Dornum_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dornum_Kirche.jpg/1920px-Dornum_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dornum_Kirche.jpg/1920px-Dornum_Kirche.jpg---
 
 ## Overview
 

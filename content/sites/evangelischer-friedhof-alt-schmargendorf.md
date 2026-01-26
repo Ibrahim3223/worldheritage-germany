@@ -4,13 +4,13 @@ site_name: "Evangelischer Friedhof Alt-Schmargendorf"
 date: 2026-01-26
 draft: false
 description: "cemetery in Charlottenburg-Wilmersdorf, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1294974"
 latitude: 52.473722222
 longitude: 13.293894444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/400px-Friedhof_Alt-Schmargendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/800px-Friedhof_Alt-Schmargendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/1200px-Friedhof_Alt-Schmargendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/1920px-Friedhof_Alt-Schmargendorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/1920px-Friedhof_Alt-Schmargendorf.jpg---
 
 ## Overview
 

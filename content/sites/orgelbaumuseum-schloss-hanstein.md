@@ -4,13 +4,13 @@ site_name: "Orgelbaumuseum Schloss Hanstein"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ostheim vor der Rhön"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ostheim vor der Rhön"
+  - "Bavaria"
 wikidata_id: "Q1302561"
 latitude: 50.4586
 longitude: 10.235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schloss_Hanstein_2.JPG/400px-Schloss_Hanstein_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schloss_Hanstein_2.JPG/800px-Schloss_Hanstein_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schloss_Hanstein_2.JPG/1200px-Schloss_Hanstein_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schloss_Hanstein_2.JPG/1920px-Schloss_Hanstein_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schloss_Hanstein_2.JPG/1920px-Schloss_Hanstein_2.JPG---
 
 ## Overview
 

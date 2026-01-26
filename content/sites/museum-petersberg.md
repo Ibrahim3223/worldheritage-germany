@@ -4,13 +4,13 @@ site_name: "Museum Petersberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Petersberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Petersberg"
+  - "Brandenburg"
 wikidata_id: "Q1804979"
 latitude: 51.5942
 longitude: 11.9642
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/400px-PetersbergMuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/800px-PetersbergMuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/1200px-PetersbergMuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/1920px-PetersbergMuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/1920px-PetersbergMuseum.JPG---
 
 ## Overview
 

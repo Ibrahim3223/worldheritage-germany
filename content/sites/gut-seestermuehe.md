@@ -4,13 +4,13 @@ site_name: "Gut Seestermühe"
 date: 2026-01-26
 draft: false
 description: "building in Seesermühe, Germany"
-region: "Seestermühe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Seestermühe"
+  - "Lower Saxony"
 wikidata_id: "Q1557045"
 latitude: 53.7074
 longitude: 9.56798
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/400px-Seestermuehe_Gutshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/800px-Seestermuehe_Gutshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1200px-Seestermuehe_Gutshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1920px-Seestermuehe_Gutshaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1920px-Seestermuehe_Gutshaus.jpg---
 
 ## Overview
 

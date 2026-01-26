@@ -4,13 +4,13 @@ site_name: "Sankt-Nicolai-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Magdeburg, Saxony-Anhalt, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1670852"
 latitude: 52.1561
 longitude: 11.6377
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/400px-Nicolaikirche_Ostseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/800px-Nicolaikirche_Ostseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/1200px-Nicolaikirche_Ostseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/1920px-Nicolaikirche_Ostseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/1920px-Nicolaikirche_Ostseite.JPG---
 
 ## Overview
 

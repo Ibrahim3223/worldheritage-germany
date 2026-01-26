@@ -4,13 +4,13 @@ site_name: "Rathaus Zerbst"
 date: 2026-01-26
 draft: false
 description: "town hall"
-region: "Saxony-Anhalt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Saxony-Anhalt"
+  - "Brandenburg"
 wikidata_id: "Q124538840"
 latitude: 51.963916666
 longitude: 12.083666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg/400px-ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg/800px-ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg/1200px-ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg/1920px-ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg/1920px-ZerbstAnhalt_Kavalierhaus_asv2023-05_img1.jpg---
 
 ## Overview
 

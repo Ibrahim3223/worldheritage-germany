@@ -4,13 +4,13 @@ site_name: "St. Johann Nepomuk"
 date: 2026-01-26
 draft: false
 description: "chapel in Boos, Bavaria, Germany"
-region: "Boos"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Boos"
+  - "Baden-Württemberg"
 wikidata_id: "Q1539940"
 latitude: 48.0767
 longitude: 10.1956
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/400px-St._Johann_Nepomuk_(Boos)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/800px-St._Johann_Nepomuk_(Boos)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/1200px-St._Johann_Nepomuk_(Boos)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/1920px-St._Johann_Nepomuk_(Boos)_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/1920px-St._Johann_Nepomuk_(Boos)_01.JPG---
 
 ## Overview
 

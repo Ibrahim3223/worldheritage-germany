@@ -4,13 +4,13 @@ site_name: "Theater Baden-Baden"
 date: 2026-01-26
 draft: false
 description: "building in Baden-Baden, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q897218"
 latitude: 48.7597
 longitude: 8.23788
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/400px-Theater_Baden-Baden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/800px-Theater_Baden-Baden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/1200px-Theater_Baden-Baden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/1920px-Theater_Baden-Baden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/1920px-Theater_Baden-Baden.jpg---
 
 ## Overview
 

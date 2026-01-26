@@ -4,13 +4,13 @@ site_name: "Vierländerin-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q18632417"
 latitude: 53.54766
 longitude: 9.99014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/400px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/800px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/1200px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/1920px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/1920px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg---
 
 ## Overview
 

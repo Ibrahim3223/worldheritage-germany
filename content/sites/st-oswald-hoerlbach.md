@@ -4,13 +4,13 @@ site_name: "St. Oswald (Hörlbach)"
 date: 2026-01-26
 draft: false
 description: "church building in Ellingen, Middle Franconia, Germany"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q1773601"
 latitude: 49.0735
 longitude: 10.9417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kirche_St_Oswald.jpg/400px-Kirche_St_Oswald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kirche_St_Oswald.jpg/800px-Kirche_St_Oswald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kirche_St_Oswald.jpg/1200px-Kirche_St_Oswald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kirche_St_Oswald.jpg/1920px-Kirche_St_Oswald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kirche_St_Oswald.jpg/1920px-Kirche_St_Oswald.jpg---
 
 ## Overview
 

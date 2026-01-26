@@ -4,13 +4,13 @@ site_name: "Manningaburg"
 date: 2026-01-26
 draft: false
 description: "Burg in Pewsum, einem Ortsteil der Gemeinde Krummhörn"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q127794"
 latitude: 53.43559
 longitude: 7.09495
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/400px-Manningaburg-Pewsum-msu-0567.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/800px-Manningaburg-Pewsum-msu-0567.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/1200px-Manningaburg-Pewsum-msu-0567.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/1920px-Manningaburg-Pewsum-msu-0567.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/1920px-Manningaburg-Pewsum-msu-0567.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Drewensee"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q1258784"
 latitude: 53.256811111
 longitude: 13.061988888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/400px-Drewensee_Ahrensberg_5436.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/800px-Drewensee_Ahrensberg_5436.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/1200px-Drewensee_Ahrensberg_5436.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/1920px-Drewensee_Ahrensberg_5436.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/1920px-Drewensee_Ahrensberg_5436.JPG---
 
 ## Overview
 

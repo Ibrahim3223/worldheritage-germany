@@ -4,13 +4,13 @@ site_name: "König-Albert-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain with sculptures in Plauen, Germany"
-region: "Plauen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Plauen"
+  - "Bavaria"
 wikidata_id: "Q1795920"
 latitude: 50.494002
 longitude: 12.135885
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/König-Albert-Brunnen.jpg/400px-König-Albert-Brunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/König-Albert-Brunnen.jpg/800px-König-Albert-Brunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/König-Albert-Brunnen.jpg/1200px-König-Albert-Brunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/König-Albert-Brunnen.jpg/1920px-König-Albert-Brunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/König-Albert-Brunnen.jpg/1920px-König-Albert-Brunnen.jpg---
 
 ## Overview
 

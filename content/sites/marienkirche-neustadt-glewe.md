@@ -4,13 +4,13 @@ site_name: "Marienkirche, Neustadt-Glewe"
 date: 2026-01-26
 draft: false
 description: "church building in Neustadt-Glewe, Germany"
-region: "Neustadt-Glewe"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustadt-Glewe"
+  - "Brandenburg"
 wikidata_id: "Q1897841"
 latitude: 53.382666666
 longitude: 11.584722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/400px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/800px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/1200px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/1920px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/1920px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG---
 
 ## Overview
 

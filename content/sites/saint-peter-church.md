@@ -4,13 +4,13 @@ site_name: "Saint Peter Church"
 date: 2026-01-26
 draft: false
 description: "church building in Goch, Germany"
-region: "Goch"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Goch"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2322504"
 latitude: 51.68202
 longitude: 6.0343782
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/400px-Hommersum_St._Petrus_Dm24_4094.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/800px-Hommersum_St._Petrus_Dm24_4094.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/1200px-Hommersum_St._Petrus_Dm24_4094.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/1920px-Hommersum_St._Petrus_Dm24_4094.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/1920px-Hommersum_St._Petrus_Dm24_4094.jpg---
 
 ## Overview
 

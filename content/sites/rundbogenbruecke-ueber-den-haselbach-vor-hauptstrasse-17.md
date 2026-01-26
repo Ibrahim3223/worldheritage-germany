@@ -4,19 +4,18 @@ site_name: "Rundbogenbrücke über den Haselbach vor Hauptstraße 17"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403587"
 latitude: 51.234889
 longitude: 14.042894
 images:
-  []
----
+  []---
 
 ## Overview
 

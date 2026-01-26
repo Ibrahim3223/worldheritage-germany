@@ -4,19 +4,18 @@ site_name: "Missionsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629465"
 latitude: 49.80496
 longitude: 10.229949
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burgwall Wittenborn"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Galenbeck"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Galenbeck"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1016226"
 latitude: 53.6047
 longitude: 13.675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/BurgwallWittenbornHauptburg.jpg/400px-BurgwallWittenbornHauptburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/BurgwallWittenbornHauptburg.jpg/800px-BurgwallWittenbornHauptburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/BurgwallWittenbornHauptburg.jpg/1200px-BurgwallWittenbornHauptburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/BurgwallWittenbornHauptburg.jpg/1920px-BurgwallWittenbornHauptburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/BurgwallWittenbornHauptburg.jpg/1920px-BurgwallWittenbornHauptburg.jpg---
 
 ## Overview
 

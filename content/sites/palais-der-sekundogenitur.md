@@ -4,13 +4,13 @@ site_name: "Palais der Sekundogenitur"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1571052"
 latitude: 51.043844
 longitude: 13.745079
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pailais_Zinsendorfstraße_Dresden.jpg/400px-Pailais_Zinsendorfstraße_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pailais_Zinsendorfstraße_Dresden.jpg/800px-Pailais_Zinsendorfstraße_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pailais_Zinsendorfstraße_Dresden.jpg/1200px-Pailais_Zinsendorfstraße_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pailais_Zinsendorfstraße_Dresden.jpg/1920px-Pailais_Zinsendorfstraße_Dresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pailais_Zinsendorfstraße_Dresden.jpg/1920px-Pailais_Zinsendorfstraße_Dresden.jpg---
 
 ## Overview
 

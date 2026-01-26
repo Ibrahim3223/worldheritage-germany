@@ -4,13 +4,13 @@ site_name: "Burg Krosigk"
 date: 2026-01-26
 draft: false
 description: "castle in Petersberg, Saxony-Anhalt, Germany"
-region: "Petersberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Petersberg"
+  - "Brandenburg"
 wikidata_id: "Q1012749"
 latitude: 51.6094
 longitude: 11.9348
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/400px-Burg_Krosigk_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/800px-Burg_Krosigk_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/1200px-Burg_Krosigk_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/1920px-Burg_Krosigk_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/1920px-Burg_Krosigk_4.jpg---
 
 ## Overview
 

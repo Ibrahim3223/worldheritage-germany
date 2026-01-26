@@ -4,13 +4,13 @@ site_name: "Riedkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Benningen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Benningen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1422169"
 latitude: 47.972356514
 longitude: 10.206374514
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RiedkapelleAussen02.jpg/400px-RiedkapelleAussen02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RiedkapelleAussen02.jpg/800px-RiedkapelleAussen02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RiedkapelleAussen02.jpg/1200px-RiedkapelleAussen02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RiedkapelleAussen02.jpg/1920px-RiedkapelleAussen02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RiedkapelleAussen02.jpg/1920px-RiedkapelleAussen02.jpg---
 
 ## Overview
 

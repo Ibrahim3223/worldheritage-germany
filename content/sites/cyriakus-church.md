@@ -4,13 +4,13 @@ site_name: "Cyriakus church"
 date: 2026-01-26
 draft: false
 description: "church building in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1148513"
 latitude: 52.2448
 longitude: 10.4903
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/400px-Braunschweig_Cyriakuskirche_2015-4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/800px-Braunschweig_Cyriakuskirche_2015-4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/1200px-Braunschweig_Cyriakuskirche_2015-4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/1920px-Braunschweig_Cyriakuskirche_2015-4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/1920px-Braunschweig_Cyriakuskirche_2015-4.jpg---
 
 ## Overview
 

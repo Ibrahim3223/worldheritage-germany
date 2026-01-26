@@ -4,13 +4,13 @@ site_name: "KGB Prison, Potsdam"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1498157"
 latitude: 52.41647222
 longitude: 13.06441667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/400px-Gefängnis_Leistikowstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/800px-Gefängnis_Leistikowstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/1200px-Gefängnis_Leistikowstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/1920px-Gefängnis_Leistikowstraße.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/1920px-Gefängnis_Leistikowstraße.jpg---
 
 ## Overview
 

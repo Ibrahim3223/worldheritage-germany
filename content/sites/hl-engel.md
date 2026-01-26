@@ -4,13 +4,13 @@ site_name: "Hl. Engel"
 date: 2026-01-26
 draft: false
 description: "church building in Peine, Germany"
-region: "Peine"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Peine"
+  - "Lower Saxony"
 wikidata_id: "Q1621397"
 latitude: 52.32423
 longitude: 10.22224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Peine_Kirche_kath.jpg/400px-Peine_Kirche_kath.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Peine_Kirche_kath.jpg/800px-Peine_Kirche_kath.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Peine_Kirche_kath.jpg/1200px-Peine_Kirche_kath.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Peine_Kirche_kath.jpg/1920px-Peine_Kirche_kath.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Peine_Kirche_kath.jpg/1920px-Peine_Kirche_kath.jpg---
 
 ## Overview
 

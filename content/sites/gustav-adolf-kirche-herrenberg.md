@@ -4,13 +4,13 @@ site_name: "Gustav-Adolf-Kirche (Herrenberg)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1555460"
 latitude: 50.956
 longitude: 11.075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Erfurt_Gustav-Adolf-Kirche_03.jpg/400px-Erfurt_Gustav-Adolf-Kirche_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Erfurt_Gustav-Adolf-Kirche_03.jpg/800px-Erfurt_Gustav-Adolf-Kirche_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Erfurt_Gustav-Adolf-Kirche_03.jpg/1200px-Erfurt_Gustav-Adolf-Kirche_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Erfurt_Gustav-Adolf-Kirche_03.jpg/1920px-Erfurt_Gustav-Adolf-Kirche_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Erfurt_Gustav-Adolf-Kirche_03.jpg/1920px-Erfurt_Gustav-Adolf-Kirche_03.jpg---
 
 ## Overview
 

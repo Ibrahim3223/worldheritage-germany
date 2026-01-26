@@ -4,13 +4,13 @@ site_name: "Museum im Malhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wasserburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wasserburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954715"
 latitude: 47.566745
 longitude: 9.629889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Malhaus_2.jpg/400px-Wasserburg_Malhaus_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Malhaus_2.jpg/800px-Wasserburg_Malhaus_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Malhaus_2.jpg/1200px-Wasserburg_Malhaus_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Malhaus_2.jpg/1920px-Wasserburg_Malhaus_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Malhaus_2.jpg/1920px-Wasserburg_Malhaus_2.jpg---
 
 ## Overview
 

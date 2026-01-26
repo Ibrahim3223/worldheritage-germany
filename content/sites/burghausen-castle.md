@@ -4,13 +4,13 @@ site_name: "Burghausen Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Burghausen, Germany"
-region: "Burghausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Burghausen"
+  - "Bavaria"
 wikidata_id: "Q258217"
 latitude: 48.156111111
 longitude: 12.828888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/400px-Burghausen_-_Hauptburg_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/800px-Burghausen_-_Hauptburg_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1200px-Burghausen_-_Hauptburg_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1920px-Burghausen_-_Hauptburg_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1920px-Burghausen_-_Hauptburg_(1).JPG---
 
 ## Overview
 

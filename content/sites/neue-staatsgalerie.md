@@ -4,13 +4,13 @@ site_name: "Neue Staatsgalerie"
 date: 2026-01-26
 draft: false
 description: "art museum in Stuttgart, Germany"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q316242"
 latitude: 48.78022778
 longitude: 9.186875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Staatsgalerie1.jpg/400px-Staatsgalerie1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Staatsgalerie1.jpg/800px-Staatsgalerie1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Staatsgalerie1.jpg/1200px-Staatsgalerie1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Staatsgalerie1.jpg/1920px-Staatsgalerie1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Staatsgalerie1.jpg/1920px-Staatsgalerie1.jpg---
 
 ## Overview
 

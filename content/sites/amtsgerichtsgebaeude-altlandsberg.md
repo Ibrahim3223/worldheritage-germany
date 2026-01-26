@@ -4,13 +4,13 @@ site_name: "Amtsgerichtsgebäude Altlandsberg"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Altlandsberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Altlandsberg"
+  - "Berlin"
 wikidata_id: "Q127513167"
 latitude: 52.559719
 longitude: 13.722299
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/400px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/800px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/1200px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/1920px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/1920px-Altlandsberg_asv2022-09_img04_Rathaus.jpg---
 
 ## Overview
 

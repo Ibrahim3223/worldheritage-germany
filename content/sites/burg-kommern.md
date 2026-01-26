@@ -4,13 +4,13 @@ site_name: "Burg Kommern"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mechernich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mechernich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012698"
 latitude: 50.6127
 longitude: 6.6475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Kommern.jpg/400px-Burg_Kommern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Kommern.jpg/800px-Burg_Kommern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Kommern.jpg/1200px-Burg_Kommern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Kommern.jpg/1920px-Burg_Kommern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Kommern.jpg/1920px-Burg_Kommern.jpg---
 
 ## Overview
 

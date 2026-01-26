@@ -4,13 +4,13 @@ site_name: "Bremer Geschichtenhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q907621"
 latitude: 53.0726
 longitude: 8.80958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/400px-Schnoor-StJacobusPackhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/800px-Schnoor-StJacobusPackhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/1200px-Schnoor-StJacobusPackhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/1920px-Schnoor-StJacobusPackhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/1920px-Schnoor-StJacobusPackhaus.jpg---
 
 ## Overview
 

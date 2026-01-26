@@ -4,13 +4,13 @@ site_name: "New city library Augsburg"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2326998"
 latitude: 48.36927
 longitude: 10.89513
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/400px-Neue-Stadtbuecherei-Augsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/800px-Neue-Stadtbuecherei-Augsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/1200px-Neue-Stadtbuecherei-Augsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/1920px-Neue-Stadtbuecherei-Augsburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/1920px-Neue-Stadtbuecherei-Augsburg.jpg---
 
 ## Overview
 

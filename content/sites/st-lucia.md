@@ -4,13 +4,13 @@ site_name: "St. Lucia"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Harsewinkel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Harsewinkel"
+  - "Lower Saxony"
 wikidata_id: "Q1316135"
 latitude: 51.9619
 longitude: 8.22595
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Luftbild_Harsewinkel_St._Lucia.jpg/400px-Luftbild_Harsewinkel_St._Lucia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Luftbild_Harsewinkel_St._Lucia.jpg/800px-Luftbild_Harsewinkel_St._Lucia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Luftbild_Harsewinkel_St._Lucia.jpg/1200px-Luftbild_Harsewinkel_St._Lucia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Luftbild_Harsewinkel_St._Lucia.jpg/1920px-Luftbild_Harsewinkel_St._Lucia.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Luftbild_Harsewinkel_St._Lucia.jpg/1920px-Luftbild_Harsewinkel_St._Lucia.jpg---
 
 ## Overview
 

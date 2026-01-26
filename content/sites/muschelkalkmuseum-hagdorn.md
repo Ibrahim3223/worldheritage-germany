@@ -4,13 +4,13 @@ site_name: "Muschelkalkmuseum Hagdorn"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ingelfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ingelfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1528467"
 latitude: 49.301
 longitude: 9.65028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ingelfingen_Muschelkalkmuseum.jpg/400px-Ingelfingen_Muschelkalkmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ingelfingen_Muschelkalkmuseum.jpg/800px-Ingelfingen_Muschelkalkmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ingelfingen_Muschelkalkmuseum.jpg/1200px-Ingelfingen_Muschelkalkmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ingelfingen_Muschelkalkmuseum.jpg/1920px-Ingelfingen_Muschelkalkmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ingelfingen_Muschelkalkmuseum.jpg/1920px-Ingelfingen_Muschelkalkmuseum.jpg---
 
 ## Overview
 

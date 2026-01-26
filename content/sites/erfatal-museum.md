@@ -4,13 +4,13 @@ site_name: "Erfatal Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hardheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hardheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1350085"
 latitude: 49.609
 longitude: 9.47419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Museum_Hardheim_01.JPG/400px-Museum_Hardheim_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Museum_Hardheim_01.JPG/800px-Museum_Hardheim_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Museum_Hardheim_01.JPG/1200px-Museum_Hardheim_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Museum_Hardheim_01.JPG/1920px-Museum_Hardheim_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Museum_Hardheim_01.JPG/1920px-Museum_Hardheim_01.JPG---
 
 ## Overview
 

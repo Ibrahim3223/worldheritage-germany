@@ -4,13 +4,13 @@ site_name: "Orpheus statue"
 date: 2026-01-26
 draft: false
 description: "statue in Düren"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15123616"
 latitude: 50.803209
 longitude: 6.478779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/400px-Orpheusdueren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/800px-Orpheusdueren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/1200px-Orpheusdueren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/1920px-Orpheusdueren.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/1920px-Orpheusdueren.jpg---
 
 ## Overview
 

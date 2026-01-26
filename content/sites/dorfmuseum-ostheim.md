@@ -4,19 +4,18 @@ site_name: "Dorfmuseum Ostheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ostheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ostheim"
+  - "Bavaria"
 wikidata_id: "Q76634115"
 latitude: 50.22614
 longitude: 8.910589
 images:
-  []
----
+  []---
 
 ## Overview
 

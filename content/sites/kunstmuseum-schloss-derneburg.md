@@ -4,19 +4,18 @@ site_name: "Kunstmuseum Schloss Derneburg"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Holle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Holle"
+  - "Lower Saxony"
 wikidata_id: "Q125481139"
 latitude: 52.095438888
 longitude: 10.133138888
 images:
-  []
----
+  []---
 
 ## Overview
 

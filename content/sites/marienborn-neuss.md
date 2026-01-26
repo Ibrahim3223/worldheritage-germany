@@ -4,13 +4,13 @@ site_name: "Marienborn Neuss"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1542538"
 latitude: 51.2031
 longitude: 6.68545
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/400px-Neuss_Marienborn_asv2024-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/800px-Neuss_Marienborn_asv2024-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/1200px-Neuss_Marienborn_asv2024-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/1920px-Neuss_Marienborn_asv2024-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/1920px-Neuss_Marienborn_asv2024-05.jpg---
 
 ## Overview
 

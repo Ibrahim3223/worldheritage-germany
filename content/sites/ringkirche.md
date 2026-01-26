@@ -4,13 +4,13 @@ site_name: "Ringkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q463806"
 latitude: 50.077228
 longitude: 8.229261
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ringkirche_2025.jpg/400px-Ringkirche_2025.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ringkirche_2025.jpg/800px-Ringkirche_2025.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ringkirche_2025.jpg/1200px-Ringkirche_2025.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ringkirche_2025.jpg/1920px-Ringkirche_2025.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ringkirche_2025.jpg/1920px-Ringkirche_2025.jpg---
 
 ## Overview
 

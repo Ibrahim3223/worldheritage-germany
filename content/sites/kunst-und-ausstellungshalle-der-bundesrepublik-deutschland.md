@@ -4,13 +4,13 @@ site_name: "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland"
 date: 2026-01-26
 draft: false
 description: "museum in Bonn, Germany"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q879960"
 latitude: 50.7142
 longitude: 7.12203
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg/400px-Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg/800px-Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg/1200px-Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg/1920px-Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg/1920px-Kunst-_und_Ausstellungshalle_der_Bundesrepublik_Deutschland_-_Bundeskunsthalle-9245.jpg---
 
 ## Overview
 

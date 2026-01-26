@@ -4,13 +4,13 @@ site_name: "New synagogue Mainz"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q870253"
 latitude: 50.0087
 longitude: 8.25931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/400px-New_Synagogue_Mainz_exterior.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/800px-New_Synagogue_Mainz_exterior.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/1200px-New_Synagogue_Mainz_exterior.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/1920px-New_Synagogue_Mainz_exterior.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/1920px-New_Synagogue_Mainz_exterior.jpg---
 
 ## Overview
 

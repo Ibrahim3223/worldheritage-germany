@@ -4,19 +4,18 @@ site_name: "Zeche Am Busch"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169648"
 latitude: 51.4936
 longitude: 7.47908
 images:
-  []
----
+  []---
 
 ## Overview
 

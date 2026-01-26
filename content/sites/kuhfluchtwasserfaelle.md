@@ -4,13 +4,13 @@ site_name: "Kuhfluchtwasserfälle"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1791188"
 latitude: 47.529
 longitude: 11.1268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Smaller_IMG_6751.jpg/400px-Smaller_IMG_6751.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Smaller_IMG_6751.jpg/800px-Smaller_IMG_6751.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Smaller_IMG_6751.jpg/1200px-Smaller_IMG_6751.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Smaller_IMG_6751.jpg/1920px-Smaller_IMG_6751.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Smaller_IMG_6751.jpg/1920px-Smaller_IMG_6751.jpg---
 
 ## Overview
 

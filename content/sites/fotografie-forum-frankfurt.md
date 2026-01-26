@@ -4,19 +4,18 @@ site_name: "Fotografie Forum Frankfurt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q61781086"
 latitude: 50.11121
 longitude: 8.68255
 images:
-  []
----
+  []---
 
 ## Overview
 

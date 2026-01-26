@@ -4,19 +4,18 @@ site_name: "Max-Walther-Brücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Heidenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Heidenau"
+  - "Saxony"
 wikidata_id: "Q49442272"
 latitude: 50.97555
 longitude: 13.872205
 images:
-  []
----
+  []---
 
 ## Overview
 

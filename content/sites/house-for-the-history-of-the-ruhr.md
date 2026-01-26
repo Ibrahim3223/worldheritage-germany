@@ -4,13 +4,13 @@ site_name: "House for the History of the Ruhr"
 date: 2026-01-26
 draft: false
 description: "research institute in Bochum, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1590764"
 latitude: 51.47413
 longitude: 7.21688
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stiftung_Bibliothek_des_Ruhrgebiets.JPG/400px-Stiftung_Bibliothek_des_Ruhrgebiets.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stiftung_Bibliothek_des_Ruhrgebiets.JPG/800px-Stiftung_Bibliothek_des_Ruhrgebiets.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stiftung_Bibliothek_des_Ruhrgebiets.JPG/1200px-Stiftung_Bibliothek_des_Ruhrgebiets.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stiftung_Bibliothek_des_Ruhrgebiets.JPG/1920px-Stiftung_Bibliothek_des_Ruhrgebiets.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stiftung_Bibliothek_des_Ruhrgebiets.JPG/1920px-Stiftung_Bibliothek_des_Ruhrgebiets.JPG---
 
 ## Overview
 

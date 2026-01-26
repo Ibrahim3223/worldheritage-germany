@@ -4,13 +4,13 @@ site_name: "Wohnhaus Nürnberger Straße 26"
 date: 2026-01-26
 draft: false
 description: "building in Wendelstein, Middle Franconia, Germany"
-region: "Wendelstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Wendelstein"
+  - "Bavaria"
 wikidata_id: "Q41373541"
 latitude: 49.357783828
 longitude: 11.142282099
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2021_Wendelstein_Nürnberger_Str_26_01.jpg/400px-2021_Wendelstein_Nürnberger_Str_26_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2021_Wendelstein_Nürnberger_Str_26_01.jpg/800px-2021_Wendelstein_Nürnberger_Str_26_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2021_Wendelstein_Nürnberger_Str_26_01.jpg/1200px-2021_Wendelstein_Nürnberger_Str_26_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2021_Wendelstein_Nürnberger_Str_26_01.jpg/1920px-2021_Wendelstein_Nürnberger_Str_26_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2021_Wendelstein_Nürnberger_Str_26_01.jpg/1920px-2021_Wendelstein_Nürnberger_Str_26_01.jpg---
 
 ## Overview
 

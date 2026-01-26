@@ -4,13 +4,13 @@ site_name: "St.-Martinus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Friedeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1464203"
 latitude: 53.4675
 longitude: 7.90522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/400px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/800px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/1200px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/1920px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/1920px-St._Martinus-Kirche_Etzel_(Nordseite).JPG---
 
 ## Overview
 

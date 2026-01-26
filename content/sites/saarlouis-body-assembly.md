@@ -4,13 +4,13 @@ site_name: "Saarlouis Body & Assembly"
 date: 2026-01-26
 draft: false
 description: "German car plant located in Saarlouis of Ford"
-region: "Germany"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q3552590"
 latitude: 49.34722222
 longitude: 6.76472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/400px-Ford_Plant_Saarlouis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/800px-Ford_Plant_Saarlouis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/1200px-Ford_Plant_Saarlouis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/1920px-Ford_Plant_Saarlouis.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/1920px-Ford_Plant_Saarlouis.jpg---
 
 ## Overview
 

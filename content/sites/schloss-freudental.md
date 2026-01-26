@@ -4,13 +4,13 @@ site_name: "Schloss Freudental"
 date: 2026-01-26
 draft: false
 description: "building in Allensbach (Germany)"
-region: "Allensbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Allensbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q2241053"
 latitude: 47.74797222
 longitude: 9.07855556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/400px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/800px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/1200px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/1920px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/1920px-Schloss_Freudental_Ansicht_Volutengiebel.jpg---
 
 ## Overview
 

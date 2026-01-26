@@ -4,19 +4,18 @@ site_name: "Heimatstube des Harzklub-ZV Hahnenklee-Bockswiese mit Paul-Lincke-Ec
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q76636021"
 latitude: 51.860314
 longitude: 10.339395
 images:
-  []
----
+  []---
 
 ## Overview
 

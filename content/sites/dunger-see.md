@@ -4,13 +4,13 @@ site_name: "Dunger See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Burglesum"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Burglesum"
+  - "Bremen"
 wikidata_id: "Q1265754"
 latitude: 53.1575
 longitude: 8.67611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dunger_See_(Blick_auf_den_See)_-_1.jpg/400px-Dunger_See_(Blick_auf_den_See)_-_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dunger_See_(Blick_auf_den_See)_-_1.jpg/800px-Dunger_See_(Blick_auf_den_See)_-_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dunger_See_(Blick_auf_den_See)_-_1.jpg/1200px-Dunger_See_(Blick_auf_den_See)_-_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dunger_See_(Blick_auf_den_See)_-_1.jpg/1920px-Dunger_See_(Blick_auf_den_See)_-_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dunger_See_(Blick_auf_den_See)_-_1.jpg/1920px-Dunger_See_(Blick_auf_den_See)_-_1.jpg---
 
 ## Overview
 

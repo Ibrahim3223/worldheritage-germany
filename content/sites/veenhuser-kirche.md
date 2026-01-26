@@ -4,13 +4,13 @@ site_name: "Veenhuser Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Moormerland, Germany"
-region: "Moormerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Moormerland"
+  - "Lower Saxony"
 wikidata_id: "Q1760879"
 latitude: 53.2907
 longitude: 7.45472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/400px-ChurchVeenhusen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/800px-ChurchVeenhusen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/1200px-ChurchVeenhusen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/1920px-ChurchVeenhusen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/1920px-ChurchVeenhusen.jpg---
 
 ## Overview
 

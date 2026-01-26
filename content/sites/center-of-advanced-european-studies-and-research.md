@@ -4,13 +4,13 @@ site_name: "Center of Advanced European Studies and Research"
 date: 2026-01-26
 draft: false
 description: "Research institution"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q163307"
 latitude: 50.703888888
 longitude: 7.151111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/400px-Bonn-Forschungszentrum_Caesar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/800px-Bonn-Forschungszentrum_Caesar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1200px-Bonn-Forschungszentrum_Caesar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1920px-Bonn-Forschungszentrum_Caesar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1920px-Bonn-Forschungszentrum_Caesar.jpg---
 
 ## Overview
 

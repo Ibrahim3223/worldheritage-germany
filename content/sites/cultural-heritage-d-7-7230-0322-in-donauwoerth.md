@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7230-0322 in Donauwörth"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Donauwörth, Donau-Ries, Swabia, Bavaria, Germany"
-region: "Donauwörth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Donauwörth"
+  - "Bavaria"
 wikidata_id: "Q98286858"
 latitude: 48.723070363
 longitude: 10.777365073
 images:
-  []
----
+  []---
 
 ## Overview
 

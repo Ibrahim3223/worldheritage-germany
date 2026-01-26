@@ -4,19 +4,18 @@ site_name: "Granitbrücke über den Letschbach Stolpen"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Stolpen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Stolpen"
+  - "Saxony"
 wikidata_id: "Q49444005"
 latitude: 51.042499958
 longitude: 14.086879122
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church of the Holy Spirit"
 date: 2026-01-26
 draft: false
 description: "Danish church in Flensburg, Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q878494"
 latitude: 54.78768
 longitude: 9.43244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/400px-Heiliggeistkirche_(Flensburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/800px-Heiliggeistkirche_(Flensburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/1200px-Heiliggeistkirche_(Flensburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/1920px-Heiliggeistkirche_(Flensburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/1920px-Heiliggeistkirche_(Flensburg).JPG---
 
 ## Overview
 

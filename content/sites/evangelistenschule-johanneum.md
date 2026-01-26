@@ -4,19 +4,18 @@ site_name: "Evangelistenschule Johanneum"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1381401"
 latitude: 51.2836
 longitude: 7.20139
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bergtor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151288"
 latitude: 50.7822
 longitude: 6.08488
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/400px-Bergtor.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/800px-Bergtor.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1200px-Bergtor.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1920px-Bergtor.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1920px-Bergtor.png---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church in Weitenhagen"
 date: 2026-01-26
 draft: false
 description: "church building in Weitenhagen, Germany"
-region: "Weitenhagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weitenhagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742753"
 latitude: 54.0525
 longitude: 13.4105
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Weitenhagen,_Kirche_(2009-10-04).JPG/400px-Weitenhagen,_Kirche_(2009-10-04).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Weitenhagen,_Kirche_(2009-10-04).JPG/800px-Weitenhagen,_Kirche_(2009-10-04).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Weitenhagen,_Kirche_(2009-10-04).JPG/1200px-Weitenhagen,_Kirche_(2009-10-04).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Weitenhagen,_Kirche_(2009-10-04).JPG/1920px-Weitenhagen,_Kirche_(2009-10-04).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Weitenhagen,_Kirche_(2009-10-04).JPG/1920px-Weitenhagen,_Kirche_(2009-10-04).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Tatarenturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1395591"
 latitude: 52.124
 longitude: 11.6355
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/400px-Tartarenturm_Magdeburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/800px-Tartarenturm_Magdeburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/1200px-Tartarenturm_Magdeburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/1920px-Tartarenturm_Magdeburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/1920px-Tartarenturm_Magdeburg.JPG---
 
 ## Overview
 

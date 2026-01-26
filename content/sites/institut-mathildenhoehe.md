@@ -4,19 +4,18 @@ site_name: "Institut Mathildenhöhe"
 date: 2026-01-26
 draft: false
 description: "archive organization in Darmstadt, Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q23907646"
 latitude: 49.876888888
 longitude: 8.667611111
 images:
-  []
----
+  []---
 
 ## Overview
 

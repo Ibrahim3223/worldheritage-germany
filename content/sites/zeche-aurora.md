@@ -4,13 +4,13 @@ site_name: "Zeche Aurora"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Hattingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Hattingen"
+  - "Lower Saxony"
 wikidata_id: "Q169667"
 latitude: 51.3936
 longitude: 7.20647
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/400px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/800px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/1200px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg---
 
 ## Overview
 

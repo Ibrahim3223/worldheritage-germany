@@ -4,13 +4,13 @@ site_name: "Villa Haas"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Sinn"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Sinn"
+  - "Hesse"
 wikidata_id: "Q180009"
 latitude: 50.6581
 longitude: 8.3274
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/400px-Villa_Haas_Luftbild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/800px-Villa_Haas_Luftbild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/1200px-Villa_Haas_Luftbild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/1920px-Villa_Haas_Luftbild.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/1920px-Villa_Haas_Luftbild.jpg---
 
 ## Overview
 

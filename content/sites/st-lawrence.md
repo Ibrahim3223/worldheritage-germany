@@ -4,13 +4,13 @@ site_name: "St. Lawrence"
 date: 2026-01-26
 draft: false
 description: "church building in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q707357"
 latitude: 49.450999894
 longitude: 11.078702397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/400px-Nürnberg_St._Lorenz_Türme_Totale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/800px-Nürnberg_St._Lorenz_Türme_Totale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/1200px-Nürnberg_St._Lorenz_Türme_Totale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/1920px-Nürnberg_St._Lorenz_Türme_Totale.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/1920px-Nürnberg_St._Lorenz_Türme_Totale.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Graukloster"
 date: 2026-01-26
 draft: false
 description: "monastery in Schleswig"
-region: "Schleswig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Schleswig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q182140"
 latitude: 54.51446
 longitude: 9.571927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/400px-Graukloster-Schleswig.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/800px-Graukloster-Schleswig.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/1200px-Graukloster-Schleswig.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/1920px-Graukloster-Schleswig.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/1920px-Graukloster-Schleswig.png---
 
 ## Overview
 

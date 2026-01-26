@@ -4,13 +4,13 @@ site_name: "Feldkapelle"
 date: 2026-01-26
 draft: false
 description: "Catholic chapel in Germany"
-region: "Mechernich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Mechernich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q992149"
 latitude: 50.592980832
 longitude: 6.727386645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/400px-Bruder_Klaus_Feldkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/800px-Bruder_Klaus_Feldkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1200px-Bruder_Klaus_Feldkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1920px-Bruder_Klaus_Feldkapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1920px-Bruder_Klaus_Feldkapelle.JPG---
 
 ## Overview
 

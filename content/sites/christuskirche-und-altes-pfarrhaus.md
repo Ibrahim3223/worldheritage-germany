@@ -4,13 +4,13 @@ site_name: "Christuskirche und Altes Pfarrhaus"
 date: 2026-01-26
 draft: false
 description: "building ensemble in Bremerhaven, Germany"
-region: "Geestemünde"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Geestemünde"
+  - "Bremen"
 wikidata_id: "Q1087442"
 latitude: 53.535
 longitude: 8.59335
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/400px-BHV_Christuskirche1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/800px-BHV_Christuskirche1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/1200px-BHV_Christuskirche1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/1920px-BHV_Christuskirche1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/1920px-BHV_Christuskirche1.jpg---
 
 ## Overview
 

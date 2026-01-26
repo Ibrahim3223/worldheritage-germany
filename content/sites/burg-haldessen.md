@@ -4,19 +4,18 @@ site_name: "Burg Haldessen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grebenstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grebenstein"
+  - "Hesse"
 wikidata_id: "Q1012167"
 latitude: 51.4686
 longitude: 9.44236
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität: Sammlung des Seminars für Ur- und Frühg
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636072"
 latitude: 51.53895
 longitude: 9.937276
 images:
-  []
----
+  []---
 
 ## Overview
 

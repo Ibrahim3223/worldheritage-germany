@@ -4,13 +4,13 @@ site_name: "Feld der Vereinten Nationen"
 date: 2026-01-26
 draft: false
 description: "cemetery in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1117288"
 latitude: 52.0578
 longitude: 11.6751
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/400px-Feld_der_Vereinten_Nationen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/800px-Feld_der_Vereinten_Nationen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/1200px-Feld_der_Vereinten_Nationen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/1920px-Feld_der_Vereinten_Nationen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/1920px-Feld_der_Vereinten_Nationen.JPG---
 
 ## Overview
 

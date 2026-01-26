@@ -4,13 +4,13 @@ site_name: "Noor ud Din Mosque"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q835514"
 latitude: 49.8853
 longitude: 8.62083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/400px-Nuur-ud-Din-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/800px-Nuur-ud-Din-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/1200px-Nuur-ud-Din-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/1920px-Nuur-ud-Din-Moschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/1920px-Nuur-ud-Din-Moschee.jpg---
 
 ## Overview
 

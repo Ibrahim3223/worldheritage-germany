@@ -4,19 +4,18 @@ site_name: "Zwei Steindeckerbrücken Weißenberger Straße 16 (neben)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Weißenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Weißenberg"
+  - "Saxony"
 wikidata_id: "Q49405991"
 latitude: 51.190709
 longitude: 14.577035
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bürgersee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Penkun"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Penkun"
+  - "Brandenburg"
 wikidata_id: "Q1021467"
 latitude: 53.3
 longitude: 14.25
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/400px-Penkun_Buergersee_Karte.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/800px-Penkun_Buergersee_Karte.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/1200px-Penkun_Buergersee_Karte.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/1920px-Penkun_Buergersee_Karte.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/1920px-Penkun_Buergersee_Karte.png---
 
 ## Overview
 

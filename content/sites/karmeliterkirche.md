@@ -4,13 +4,13 @@ site_name: "Karmeliterkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt (Mainz), Germany"
-region: "Altstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt"
+  - "Hesse"
 wikidata_id: "Q3585896"
 latitude: 50.0027
 longitude: 8.2733
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/400px-Karmeliterkirche_Mainz_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/800px-Karmeliterkirche_Mainz_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1200px-Karmeliterkirche_Mainz_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1920px-Karmeliterkirche_Mainz_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1920px-Karmeliterkirche_Mainz_01.jpg---
 
 ## Overview
 

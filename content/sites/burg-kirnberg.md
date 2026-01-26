@@ -4,19 +4,18 @@ site_name: "Burg Kirnberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Orsingen-Nenzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Orsingen-Nenzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012671"
 latitude: 47.82527778
 longitude: 8.93583333
 images:
-  []
----
+  []---
 
 ## Overview
 

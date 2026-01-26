@@ -4,13 +4,13 @@ site_name: "Gedenkstein Altes Gewerkschaftshaus Hannover"
 date: 2026-01-26
 draft: false
 description: "memorial stone in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q17574853"
 latitude: 52.377269
 longitude: 9.732428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/400px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/800px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/1200px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/1920px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/1920px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg---
 
 ## Overview
 

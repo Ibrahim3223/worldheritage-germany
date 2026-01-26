@@ -4,13 +4,13 @@ site_name: "Stuttgart-Mitte"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q727750"
 latitude: 48.7767
 longitude: 9.1775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/400px-Hauptbahnhof_Stuttgart.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/800px-Hauptbahnhof_Stuttgart.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/1200px-Hauptbahnhof_Stuttgart.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/1920px-Hauptbahnhof_Stuttgart.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/1920px-Hauptbahnhof_Stuttgart.jpg---
 
 ## Overview
 

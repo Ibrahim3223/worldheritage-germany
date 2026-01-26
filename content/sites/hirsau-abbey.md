@@ -4,13 +4,13 @@ site_name: "Hirsau Abbey"
 date: 2026-01-26
 draft: false
 description: "former Benedictine abbey in Calw"
-region: "Calw"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Calw"
+  - "Baden-Württemberg"
 wikidata_id: "Q532415"
 latitude: 48.7378
 longitude: 8.7321
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/400px-Kloster_Hirsau_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/800px-Kloster_Hirsau_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/1200px-Kloster_Hirsau_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/1920px-Kloster_Hirsau_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/1920px-Kloster_Hirsau_2010.jpg---
 
 ## Overview
 

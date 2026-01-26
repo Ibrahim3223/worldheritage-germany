@@ -4,13 +4,13 @@ site_name: "Stadtkirche St. Marien"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Homberg (Efze)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Homberg (Efze)"
+  - "Hesse"
 wikidata_id: "Q1306215"
 latitude: 51.0339
 longitude: 9.40531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/400px-Marienkirche_am_Abend.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/800px-Marienkirche_am_Abend.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/1200px-Marienkirche_am_Abend.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/1920px-Marienkirche_am_Abend.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/1920px-Marienkirche_am_Abend.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Brauerei Rittmayer"
 date: 2026-01-26
 draft: false
 description: "brewery in Hallerndorf, Germany"
-region: "Hallerndorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Hallerndorf"
+  - "Bavaria"
 wikidata_id: "Q900351"
 latitude: 49.7597
 longitude: 10.9828
 images:
-  []
----
+  []---
 
 ## Overview
 

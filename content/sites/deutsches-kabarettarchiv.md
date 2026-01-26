@@ -4,19 +4,18 @@ site_name: "Deutsches Kabarettarchiv"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1205757"
 latitude: 49.9993
 longitude: 8.26511
 images:
-  []
----
+  []---
 
 ## Overview
 

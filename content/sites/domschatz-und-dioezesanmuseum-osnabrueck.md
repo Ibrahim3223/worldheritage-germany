@@ -4,13 +4,13 @@ site_name: "Domschatz- und Diözesanmuseum Osnabrück"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1238679"
 latitude: 52.2773
 longitude: 8.0444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/400px-Forum_am_Dom_Osnabrück_8-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/800px-Forum_am_Dom_Osnabrück_8-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/1200px-Forum_am_Dom_Osnabrück_8-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/1920px-Forum_am_Dom_Osnabrück_8-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/1920px-Forum_am_Dom_Osnabrück_8-2017.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Großer Winterberg"
 date: 2026-01-26
 draft: false
 description: "mountain and subpeak of the Wurmberg mountain in the High Harz of central Germany"
-region: "Harz District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Harz District"
+  - "Lower Saxony"
 wikidata_id: "Q29795"
 latitude: 51.760555555
 longitude: 10.624444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/400px-Wurmbergschanze_Auslauf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/800px-Wurmbergschanze_Auslauf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/1200px-Wurmbergschanze_Auslauf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/1920px-Wurmbergschanze_Auslauf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/1920px-Wurmbergschanze_Auslauf.JPG---
 
 ## Overview
 

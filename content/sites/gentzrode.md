@@ -4,13 +4,13 @@ site_name: "Gentzrode"
 date: 2026-01-26
 draft: false
 description: "Anwesen in Neuruppin, Landkreis Ostprignitz-Ruppin, Brandenburg"
-region: "Neuruppin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Neuruppin"
+  - "Brandenburg"
 wikidata_id: "Q872588"
 latitude: 52.9792
 longitude: 12.7969
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/400px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/800px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1200px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1920px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1920px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg---
 
 ## Overview
 

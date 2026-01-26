@@ -4,13 +4,13 @@ site_name: "Burg Groitzsch"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Groitzsch"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Groitzsch"
+  - "Saxony"
 wikidata_id: "Q1012055"
 latitude: 51.1596
 longitude: 12.275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/400px-Groitzsch_Wiprechtsburg_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/800px-Groitzsch_Wiprechtsburg_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/1200px-Groitzsch_Wiprechtsburg_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/1920px-Groitzsch_Wiprechtsburg_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/1920px-Groitzsch_Wiprechtsburg_2.jpg---
 
 ## Overview 
 

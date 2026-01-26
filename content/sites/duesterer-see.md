@@ -4,19 +4,18 @@ site_name: "Düsterer See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Krackow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Krackow"
+  - "Brandenburg"
 wikidata_id: "Q1272425"
 latitude: 53.3283
 longitude: 14.2822
 images:
-  []
----
+  []---
 
 ## Overview
 

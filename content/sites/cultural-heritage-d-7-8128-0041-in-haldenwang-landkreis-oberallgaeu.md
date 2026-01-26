@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8128-0041 in Haldenwang (Landkreis Oberallgäu
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Haldenwang, Oberallgäu, Swabia, Bavaria, Germany"
-region: "Haldenwang"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Haldenwang"
+  - "Baden-Württemberg"
 wikidata_id: "Q98289207"
 latitude: 47.801062238
 longitude: 10.3542073
 images:
-  []
----
+  []---
 
 ## Overview
 

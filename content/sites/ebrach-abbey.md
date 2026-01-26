@@ -4,13 +4,13 @@ site_name: "Ebrach Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Ebrach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ebrach"
+  - "Bavaria"
 wikidata_id: "Q315482"
 latitude: 49.8469
 longitude: 10.4942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/400px-Ebrach,_Kloster_Ebrach_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/800px-Ebrach,_Kloster_Ebrach_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1200px-Ebrach,_Kloster_Ebrach_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1920px-Ebrach,_Kloster_Ebrach_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1920px-Ebrach,_Kloster_Ebrach_001.JPG---
 
 ## Overview
 

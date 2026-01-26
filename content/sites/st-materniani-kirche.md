@@ -4,13 +4,13 @@ site_name: "St.-Materniani-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ochtersum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ochtersum"
+  - "Lower Saxony"
 wikidata_id: "Q1239233"
 latitude: 53.6092
 longitude: 7.50815
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/400px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/800px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/1200px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/1920px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/1920px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg---
 
 ## Overview
 

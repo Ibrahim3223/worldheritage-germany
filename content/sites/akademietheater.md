@@ -4,13 +4,13 @@ site_name: "Akademietheater"
 date: 2026-01-26
 draft: false
 description: "theatre in Munich, Germany"
-region: "Bogenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bogenhausen"
+  - "Bavaria"
 wikidata_id: "Q414542"
 latitude: 48.1386
 longitude: 11.6055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/400px-Akademietheater_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/800px-Akademietheater_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/1200px-Akademietheater_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/1920px-Akademietheater_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/1920px-Akademietheater_Muenchen-1.jpg---
 
 ## Overview
 

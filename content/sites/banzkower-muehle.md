@@ -4,13 +4,13 @@ site_name: "Banzkower Mühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in dem mecklenburgischen Dorf Banzkow"
-region: "Banzkow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Banzkow"
+  - "Brandenburg"
 wikidata_id: "Q807028"
 latitude: 53.5214
 longitude: 11.5047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/400px-Banzkow_Windmuehle_2008-10-29.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/800px-Banzkow_Windmuehle_2008-10-29.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/1200px-Banzkow_Windmuehle_2008-10-29.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/1920px-Banzkow_Windmuehle_2008-10-29.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/1920px-Banzkow_Windmuehle_2008-10-29.JPG---
 
 ## Overview
 

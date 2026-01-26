@@ -4,13 +4,13 @@ site_name: "Grunewald-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1550830"
 latitude: 52.485
 longitude: 13.2738
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/400px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/800px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/1200px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/1920px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/1920px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Killer"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Killer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Killer"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012655"
 latitude: 48.3164
 longitude: 9.06272
 images:
-  []
----
+  []---
 
 ## Overview
 

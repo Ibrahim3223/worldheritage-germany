@@ -4,19 +4,18 @@ site_name: "Von Behring-Röntgen-Stiftung"
 date: 2026-01-26
 draft: false
 description: "nonprofit organization in Marburg, Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q33121778"
 latitude: 50.809801
 longitude: 8.769798
 images:
-  []
----
+  []---
 
 ## Overview
 

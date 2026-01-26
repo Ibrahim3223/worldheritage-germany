@@ -4,13 +4,13 @@ site_name: "Upper Castle (Bishops' Residence)"
 date: 2026-01-26
 draft: false
 description: "Ruins of a palatial building complex at Stolpen Castle"
-region: "Stolpen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Stolpen"
+  - "Saxony"
 wikidata_id: "Q130789273"
 latitude: 51.0476781
 longitude: 14.0830054
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/400px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/800px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/1200px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/1920px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/1920px-Burg-Stolpen_Hochschloss_20240829_150027.jpg---
 
 ## Overview
 

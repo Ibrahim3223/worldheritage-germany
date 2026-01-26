@@ -4,13 +4,13 @@ site_name: "Amtsgericht Talstraße 48"
 date: 2026-01-26
 draft: false
 description: "temporäres Gebäude"
-region: "Böblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Böblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q108790093"
 latitude: 48.684748812
 longitude: 9.001965522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg/400px-Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg/800px-Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg/1200px-Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg/1920px-Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg/1920px-Amtsgericht_Talstraße_Nr._48_in_Böblingen_02.jpg---
 
 ## Overview
 

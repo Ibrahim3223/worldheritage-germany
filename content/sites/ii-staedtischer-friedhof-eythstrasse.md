@@ -4,19 +4,18 @@ site_name: "II. Städtischer Friedhof Eythstraße"
 date: 2026-01-26
 draft: false
 description: "cemetery in Tempelhof-Schöneberg, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q1264395"
 latitude: 52.459722222
 longitude: 13.369722222
 images:
-  []
----
+  []---
 
 ## Overview
 

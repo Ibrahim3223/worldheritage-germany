@@ -4,13 +4,13 @@ site_name: "Friedrich-Ebert-Schule"
 date: 2026-01-26
 draft: false
 description: "school in Uetersen, Germany"
-region: "Uetersen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Uetersen"
+  - "Lower Saxony"
 wikidata_id: "Q1457728"
 latitude: 53.6852
 longitude: 9.67296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Uetersen_F.EbertSchule.jpg/400px-Uetersen_F.EbertSchule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Uetersen_F.EbertSchule.jpg/800px-Uetersen_F.EbertSchule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Uetersen_F.EbertSchule.jpg/1200px-Uetersen_F.EbertSchule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Uetersen_F.EbertSchule.jpg/1920px-Uetersen_F.EbertSchule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Uetersen_F.EbertSchule.jpg/1920px-Uetersen_F.EbertSchule.jpg---
 
 ## Overview
 

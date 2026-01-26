@@ -4,13 +4,13 @@ site_name: "Lighthouse Darßer Ort"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
-region: "Born auf dem Darß"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Born auf dem Darß"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1720366"
 latitude: 54.4728
 longitude: 12.5022
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/400px-Lighthouse_Darsser_Ort.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/800px-Lighthouse_Darsser_Ort.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/1200px-Lighthouse_Darsser_Ort.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/1920px-Lighthouse_Darsser_Ort.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/1920px-Lighthouse_Darsser_Ort.jpg---
 
 ## Overview
 

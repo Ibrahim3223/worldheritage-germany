@@ -4,13 +4,13 @@ site_name: "Burg Kessenich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Euskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Euskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012646"
 latitude: 50.6828
 longitude: 6.79747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Kessenich,_Luftaufnahme_(2014).jpg/400px-Burg_Kessenich,_Luftaufnahme_(2014).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Kessenich,_Luftaufnahme_(2014).jpg/800px-Burg_Kessenich,_Luftaufnahme_(2014).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Kessenich,_Luftaufnahme_(2014).jpg/1200px-Burg_Kessenich,_Luftaufnahme_(2014).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Kessenich,_Luftaufnahme_(2014).jpg/1920px-Burg_Kessenich,_Luftaufnahme_(2014).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Kessenich,_Luftaufnahme_(2014).jpg/1920px-Burg_Kessenich,_Luftaufnahme_(2014).jpg---
 
 ## Overview
 

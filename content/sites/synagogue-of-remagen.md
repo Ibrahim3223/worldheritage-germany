@@ -4,13 +4,13 @@ site_name: "synagogue of Remagen"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1267589"
 latitude: 50.5784
 longitude: 7.2292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Remagen_Synagoge_523.JPG/400px-Remagen_Synagoge_523.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Remagen_Synagoge_523.JPG/800px-Remagen_Synagoge_523.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Remagen_Synagoge_523.JPG/1200px-Remagen_Synagoge_523.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Remagen_Synagoge_523.JPG/1920px-Remagen_Synagoge_523.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Remagen_Synagoge_523.JPG/1920px-Remagen_Synagoge_523.JPG---
 
 ## Overview
 

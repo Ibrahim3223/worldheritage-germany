@@ -4,13 +4,13 @@ site_name: "Harz Roller-Canary Museum"
 date: 2026-01-26
 draft: false
 description: "museum about the canary breed of the Harz Roller in Sankt Andreasberg"
-region: "Braunlage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Braunlage"
+  - "Lower Saxony"
 wikidata_id: "Q16735774"
 latitude: 51.71281
 longitude: 10.51601
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/400px-Samson_mine_Andreasberg_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/800px-Samson_mine_Andreasberg_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/1200px-Samson_mine_Andreasberg_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/1920px-Samson_mine_Andreasberg_3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/1920px-Samson_mine_Andreasberg_3.JPG---
 
 ## Overview
 

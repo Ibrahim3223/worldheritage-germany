@@ -4,13 +4,13 @@ site_name: "Borgfeld church"
 date: 2026-01-26
 draft: false
 description: "church building in Bremen-Borgfeld, Germany"
-region: "Borgfeld"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Borgfeld"
+  - "Bremen"
 wikidata_id: "Q1742822"
 latitude: 53.1263
 longitude: 8.90572
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/400px-Bremen-Borgfeld_evang-Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/800px-Bremen-Borgfeld_evang-Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/1200px-Bremen-Borgfeld_evang-Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/1920px-Bremen-Borgfeld_evang-Kirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/1920px-Bremen-Borgfeld_evang-Kirche_01.jpg---
 
 ## Overview
 

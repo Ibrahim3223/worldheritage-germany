@@ -4,13 +4,13 @@ site_name: "Bautzen railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Bautzen, Germany"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q320740"
 latitude: 51.172778
 longitude: 14.428889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/400px-Bahnhof_(Bautzen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/800px-Bahnhof_(Bautzen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/1200px-Bahnhof_(Bautzen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/1920px-Bahnhof_(Bautzen).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/1920px-Bahnhof_(Bautzen).jpg---
 
 ## Overview
 

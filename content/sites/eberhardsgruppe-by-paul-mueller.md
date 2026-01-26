@@ -4,13 +4,13 @@ site_name: "Eberhardsgruppe by Paul Müller"
 date: 2026-01-26
 draft: false
 description: "monument in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1279656"
 latitude: 48.7818
 longitude: 9.1839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Stuttgart_Unterer_Schlossgarten_11.jpg/400px-Stuttgart_Unterer_Schlossgarten_11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Stuttgart_Unterer_Schlossgarten_11.jpg/800px-Stuttgart_Unterer_Schlossgarten_11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Stuttgart_Unterer_Schlossgarten_11.jpg/1200px-Stuttgart_Unterer_Schlossgarten_11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Stuttgart_Unterer_Schlossgarten_11.jpg/1920px-Stuttgart_Unterer_Schlossgarten_11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Stuttgart_Unterer_Schlossgarten_11.jpg/1920px-Stuttgart_Unterer_Schlossgarten_11.jpg---
 
 ## Overview
 

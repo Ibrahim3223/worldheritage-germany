@@ -4,13 +4,13 @@ site_name: "Klauskirche"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Betzenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Betzenstein"
+  - "Bavaria"
 wikidata_id: "Q1578441"
 latitude: 49.6833
 longitude: 11.41
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klauskirche_05.jpg/400px-Klauskirche_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klauskirche_05.jpg/800px-Klauskirche_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klauskirche_05.jpg/1200px-Klauskirche_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klauskirche_05.jpg/1920px-Klauskirche_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Klauskirche_05.jpg/1920px-Klauskirche_05.jpg---
 
 ## Overview
 

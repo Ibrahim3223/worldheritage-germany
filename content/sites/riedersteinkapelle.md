@@ -4,13 +4,13 @@ site_name: "Riedersteinkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel in Germany"
-region: "Tegernsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Tegernsee"
+  - "Bavaria"
 wikidata_id: "Q1729412"
 latitude: 47.704161
 longitude: 11.792268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/400px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/800px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/1200px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/1920px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/1920px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg---
 
 ## Overview
 

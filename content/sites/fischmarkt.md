@@ -4,13 +4,13 @@ site_name: "Fischmarkt"
 date: 2026-01-26
 draft: false
 description: "square in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q119584"
 latitude: 50.9778
 longitude: 11.0289
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/400px-Fischmarkt_und_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/800px-Fischmarkt_und_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/1200px-Fischmarkt_und_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/1920px-Fischmarkt_und_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/1920px-Fischmarkt_und_Rathaus.jpg---
 
 ## Overview
 

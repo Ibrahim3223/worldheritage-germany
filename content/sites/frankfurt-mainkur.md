@@ -4,13 +4,13 @@ site_name: "Frankfurt-Mainkur"
 date: 2026-01-26
 draft: false
 description: "railway halt in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q800769"
 latitude: 50.134441
 longitude: 8.766953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/400px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/800px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/1200px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/1920px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/1920px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG---
 
 ## Overview
 

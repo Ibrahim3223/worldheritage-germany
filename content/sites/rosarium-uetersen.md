@@ -4,13 +4,13 @@ site_name: "Rosarium Uetersen"
 date: 2026-01-26
 draft: false
 description: "rose garden in Uetersen, Germany"
-region: "Uetersen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Uetersen"
+  - "Lower Saxony"
 wikidata_id: "Q328081"
 latitude: 53.6838
 longitude: 9.66981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/400px-Uetersen_rosarium_kleinueberblick.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/800px-Uetersen_rosarium_kleinueberblick.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/1200px-Uetersen_rosarium_kleinueberblick.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/1920px-Uetersen_rosarium_kleinueberblick.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/1920px-Uetersen_rosarium_kleinueberblick.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Städtisches Museum Schloss Rheydt"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Mönchengladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mönchengladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q26879052"
 latitude: 51.1819558
 longitude: 6.4812765
 images:
-  []
----
+  []---
 
 ## Overview
 

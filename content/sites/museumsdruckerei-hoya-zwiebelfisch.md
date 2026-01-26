@@ -4,19 +4,18 @@ site_name: "Museumsdruckerei Hoya „Zwiebelfisch“"
 date: 2026-01-26
 draft: false
 description: "museum in Hoya, Germany"
-region: "Hoya"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hoya"
+  - "Lower Saxony"
 wikidata_id: "Q37068876"
 latitude: 52.807152
 longitude: 9.143007
 images:
-  []
----
+  []---
 
 ## Overview
 

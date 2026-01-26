@@ -4,13 +4,13 @@ site_name: "Liebfrauen"
 date: 2026-01-26
 draft: false
 description: "church building in Arnsberg, Germany"
-region: "Arnsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Arnsberg"
+  - "Hesse"
 wikidata_id: "Q1823894"
 latitude: 51.3947
 longitude: 8.06993
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Liebfrauenkirche_(Arnsberg).jpg/400px-Liebfrauenkirche_(Arnsberg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Liebfrauenkirche_(Arnsberg).jpg/800px-Liebfrauenkirche_(Arnsberg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Liebfrauenkirche_(Arnsberg).jpg/1200px-Liebfrauenkirche_(Arnsberg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Liebfrauenkirche_(Arnsberg).jpg/1920px-Liebfrauenkirche_(Arnsberg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Liebfrauenkirche_(Arnsberg).jpg/1920px-Liebfrauenkirche_(Arnsberg).jpg---
 
 ## Overview
 

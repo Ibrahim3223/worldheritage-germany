@@ -4,13 +4,13 @@ site_name: "Rochuskirche"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Pempelfort, Germany"
-region: "Pempelfort"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pempelfort"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2160330"
 latitude: 51.2333
 longitude: 6.78861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/400px-Rochuskirche4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/800px-Rochuskirche4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/1200px-Rochuskirche4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/1920px-Rochuskirche4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/1920px-Rochuskirche4.JPG---
 
 ## Overview
 

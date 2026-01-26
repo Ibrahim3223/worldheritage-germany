@@ -4,13 +4,13 @@ site_name: "DDR-Museum Zeitreise"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1152699"
 latitude: 51.1036
 longitude: 13.6696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/400px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/800px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/1200px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/1920px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/1920px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg---
 
 ## Overview
 

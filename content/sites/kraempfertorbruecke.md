@@ -4,13 +4,13 @@ site_name: "Krämpfertorbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q18575237"
 latitude: 50.980276
 longitude: 11.03988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erfurt-Krämpfertorbrücke.jpg/400px-Erfurt-Krämpfertorbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erfurt-Krämpfertorbrücke.jpg/800px-Erfurt-Krämpfertorbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erfurt-Krämpfertorbrücke.jpg/1200px-Erfurt-Krämpfertorbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erfurt-Krämpfertorbrücke.jpg/1920px-Erfurt-Krämpfertorbrücke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erfurt-Krämpfertorbrücke.jpg/1920px-Erfurt-Krämpfertorbrücke.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Jagdschloss Grunewald"
 date: 2026-01-26
 draft: false
 description: "hunting lodge and art museum"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q531032"
 latitude: 52.4672
 longitude: 13.2614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/400px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/800px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/1200px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/1920px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/1920px-2018-09-22-Jagdschloss_Grunewald-0670.jpg---
 
 ## Overview
 

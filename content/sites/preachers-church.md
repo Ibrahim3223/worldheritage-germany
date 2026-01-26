@@ -4,13 +4,13 @@ site_name: "Preacher's Church"
 date: 2026-01-26
 draft: false
 description: "church building in the Old Town of Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2108283"
 latitude: 50.9767
 longitude: 11.0292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/400px-Predigerkirche_erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/800px-Predigerkirche_erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/1200px-Predigerkirche_erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/1920px-Predigerkirche_erfurt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/1920px-Predigerkirche_erfurt.JPG---
 
 ## Overview
 

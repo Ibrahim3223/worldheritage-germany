@@ -4,13 +4,13 @@ site_name: "St. Thomas Church"
 date: 2026-01-26
 draft: false
 description: "Lutheran church in Leipzig, Germany"
-region: "Zentrum"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zentrum"
+  - "Saxony"
 wikidata_id: "Q170402"
 latitude: 51.339292
 longitude: 12.372586
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/400px-St._Thomas_Church,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/800px-St._Thomas_Church,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/1200px-St._Thomas_Church,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/1920px-St._Thomas_Church,_Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/1920px-St._Thomas_Church,_Leipzig.jpg---
 
 ## Overview
 

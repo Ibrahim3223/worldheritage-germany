@@ -4,13 +4,13 @@ site_name: "Hofkapelle Schlecht"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Aitrach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Aitrach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1623142"
 latitude: 47.9215
 longitude: 10.0829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hofkapelle_Schlecht.jpg/400px-Hofkapelle_Schlecht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hofkapelle_Schlecht.jpg/800px-Hofkapelle_Schlecht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hofkapelle_Schlecht.jpg/1200px-Hofkapelle_Schlecht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hofkapelle_Schlecht.jpg/1920px-Hofkapelle_Schlecht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hofkapelle_Schlecht.jpg/1920px-Hofkapelle_Schlecht.jpg---
 
 ## Overview
 

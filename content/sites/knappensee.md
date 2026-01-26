@@ -4,13 +4,13 @@ site_name: "Knappensee"
 date: 2026-01-26
 draft: false
 description: "reservoir in Saxony, Germany"
-region: "Wittichenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Wittichenau"
+  - "Saxony"
 wikidata_id: "Q160753"
 latitude: 51.381111111
 longitude: 14.306944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/400px-Knappensee_Groß_Särchen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/800px-Knappensee_Groß_Särchen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/1200px-Knappensee_Groß_Särchen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/1920px-Knappensee_Groß_Särchen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/1920px-Knappensee_Groß_Särchen.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Nikolaus (Orsoy)"
 date: 2026-01-26
 draft: false
 description: "church building in Rheinberg, Germany"
-region: "Rheinberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rheinberg"
+  - "Lower Saxony"
 wikidata_id: "Q2322080"
 latitude: 51.5238
 longitude: 6.68802
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Orsoy.katholische.Kirche.jpg/400px-Orsoy.katholische.Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Orsoy.katholische.Kirche.jpg/800px-Orsoy.katholische.Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Orsoy.katholische.Kirche.jpg/1200px-Orsoy.katholische.Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Orsoy.katholische.Kirche.jpg/1920px-Orsoy.katholische.Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Orsoy.katholische.Kirche.jpg/1920px-Orsoy.katholische.Kirche.jpg---
 
 ## Overview
 

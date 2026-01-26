@@ -4,19 +4,18 @@ site_name: "Garten Nähe An der Stadtmauer in Hallstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-71-140-46 (2) in Hallstadt, Bavaria"
-region: "Hallstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Hallstadt"
+  - "Bavaria"
 wikidata_id: "Q98589411"
 latitude: 49.929647716
 longitude: 10.874550743
 images:
-  []
----
+  []---
 
 ## Overview
 

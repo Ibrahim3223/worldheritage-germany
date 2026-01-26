@@ -4,13 +4,13 @@ site_name: "Burg Gruttenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Reichenhall"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Reichenhall"
+  - "Bavaria"
 wikidata_id: "Q1012081"
 latitude: 47.720953109
 longitude: 12.879803862
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/400px-Burg-gruttenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/800px-Burg-gruttenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/1200px-Burg-gruttenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/1920px-Burg-gruttenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/1920px-Burg-gruttenstein.jpg---
 
 ## Overview
 

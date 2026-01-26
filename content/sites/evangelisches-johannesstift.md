@@ -4,13 +4,13 @@ site_name: "Evangelisches Johannesstift"
 date: 2026-01-26
 draft: false
 description: "Berlin, Germany"
-region: "Spandau"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Spandau"
+  - "Berlin"
 wikidata_id: "Q1381314"
 latitude: 52.5694
 longitude: 13.1944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/400px-Stiftskirche-Johannesstift.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/800px-Stiftskirche-Johannesstift.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1200px-Stiftskirche-Johannesstift.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1920px-Stiftskirche-Johannesstift.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1920px-Stiftskirche-Johannesstift.jpg---
 
 ## Overview
 

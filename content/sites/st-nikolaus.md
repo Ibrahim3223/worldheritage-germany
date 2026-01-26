@@ -4,13 +4,13 @@ site_name: "St. Nikolaus"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1406052"
 latitude: 51.46239
 longitude: 11.95043
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Böllberg.jpg/400px-Böllberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Böllberg.jpg/800px-Böllberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Böllberg.jpg/1200px-Böllberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Böllberg.jpg/1920px-Böllberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Böllberg.jpg/1920px-Böllberg.jpg---
 
 ## Overview
 

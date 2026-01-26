@@ -4,13 +4,13 @@ site_name: "Große Inselkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Baltrum, Germany"
-region: "Baltrum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Baltrum"
+  - "Lower Saxony"
 wikidata_id: "Q1664476"
 latitude: 53.727439
 longitude: 7.371633
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/400px-Baltrum_ev_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/800px-Baltrum_ev_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/1200px-Baltrum_ev_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/1920px-Baltrum_ev_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/1920px-Baltrum_ev_Kirche.jpg---
 
 ## Overview
 

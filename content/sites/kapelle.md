@@ -4,13 +4,13 @@ site_name: "Kapelle"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Deutschland"
-region: "Kronburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kronburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1279562"
 latitude: 47.8954
 longitude: 10.1444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kapelle_Wagsberg_-_panoramio.jpg/400px-Kapelle_Wagsberg_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kapelle_Wagsberg_-_panoramio.jpg/800px-Kapelle_Wagsberg_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kapelle_Wagsberg_-_panoramio.jpg/1200px-Kapelle_Wagsberg_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kapelle_Wagsberg_-_panoramio.jpg/1920px-Kapelle_Wagsberg_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kapelle_Wagsberg_-_panoramio.jpg/1920px-Kapelle_Wagsberg_-_panoramio.jpg---
 
 ## Overview
 

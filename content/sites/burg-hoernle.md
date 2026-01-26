@@ -4,19 +4,18 @@ site_name: "Burg Hörnle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wutach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wutach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012536"
 latitude: 47.8514
 longitude: 8.4387
 images:
-  []
----
+  []---
 
 ## Overview
 

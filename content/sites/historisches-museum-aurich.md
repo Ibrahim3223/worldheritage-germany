@@ -4,13 +4,13 @@ site_name: "Historisches Museum Aurich"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Aurich"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aurich"
+  - "Lower Saxony"
 wikidata_id: "Q1620991"
 latitude: 53.4693
 longitude: 7.48042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HistorischesMuseumAurich44.jpg/400px-HistorischesMuseumAurich44.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HistorischesMuseumAurich44.jpg/800px-HistorischesMuseumAurich44.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HistorischesMuseumAurich44.jpg/1200px-HistorischesMuseumAurich44.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HistorischesMuseumAurich44.jpg/1920px-HistorischesMuseumAurich44.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/HistorischesMuseumAurich44.jpg/1920px-HistorischesMuseumAurich44.jpg---
 
 ## Overview
 

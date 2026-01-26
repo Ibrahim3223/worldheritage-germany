@@ -4,13 +4,13 @@ site_name: "Statue of Alexander von Humboldt, Berlin"
 date: 2026-01-26
 draft: false
 description: "statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q17351109"
 latitude: 52.51765278
 longitude: 13.39408333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/400px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/800px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/1200px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/1920px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/1920px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg---
 
 ## Overview
 

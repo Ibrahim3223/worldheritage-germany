@@ -4,13 +4,13 @@ site_name: "Hamburg Dungeon"
 date: 2026-01-26
 draft: false
 description: "tourist attraction in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q882600"
 latitude: 53.543871
 longitude: 9.9894039
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/400px-HamburgDungeon2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/800px-HamburgDungeon2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/1200px-HamburgDungeon2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/1920px-HamburgDungeon2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/1920px-HamburgDungeon2.JPG---
 
 ## Overview
 

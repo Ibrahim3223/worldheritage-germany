@@ -4,13 +4,13 @@ site_name: "Mildenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Leisnig, Saxony"
-region: "Leisnig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leisnig"
+  - "Saxony"
 wikidata_id: "Q1013131"
 latitude: 51.1623
 longitude: 12.9255
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/400px-Burg_Mildenstein_an_der_Mulde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/800px-Burg_Mildenstein_an_der_Mulde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/1200px-Burg_Mildenstein_an_der_Mulde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/1920px-Burg_Mildenstein_an_der_Mulde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/1920px-Burg_Mildenstein_an_der_Mulde.jpg---
 
 ## Overview
 

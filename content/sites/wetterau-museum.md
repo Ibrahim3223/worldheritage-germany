@@ -4,13 +4,13 @@ site_name: "Wetterau-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Friedberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedberg"
+  - "Hesse"
 wikidata_id: "Q2565911"
 latitude: 50.336365092
 longitude: 8.755795737
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/400px-Friedberg_-_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/800px-Friedberg_-_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/1200px-Friedberg_-_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/1920px-Friedberg_-_Stadtmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/1920px-Friedberg_-_Stadtmuseum.jpg---
 
 ## Overview
 

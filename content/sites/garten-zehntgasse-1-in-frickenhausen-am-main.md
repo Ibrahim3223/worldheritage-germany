@@ -4,19 +4,18 @@ site_name: "Garten Zehntgasse 1 in Frickenhausen am Main"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-79-131-38 (6) in Frickenhausen am Main, Bavaria"
-region: "Frickenhausen am Main"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Frickenhausen am Main"
+  - "Baden-Württemberg"
 wikidata_id: "Q98485267"
 latitude: 49.67079131
 longitude: 10.091448235
 images:
-  []
----
+  []---
 
 ## Overview
 

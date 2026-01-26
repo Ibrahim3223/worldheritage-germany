@@ -4,19 +4,18 @@ site_name: "Burg Galgenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Oberstadion"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Oberstadion"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011904"
 latitude: 48.1756
 longitude: 9.7331
 images:
-  []
----
+  []---
 
 ## Overview
 

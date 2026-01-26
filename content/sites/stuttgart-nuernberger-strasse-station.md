@@ -4,13 +4,13 @@ site_name: "Stuttgart Nürnberger Straße station"
 date: 2026-01-26
 draft: false
 description: "railway station in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q130397"
 latitude: 48.8061
 longitude: 9.23472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg/400px-Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg/800px-Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg/1200px-Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg/1920px-Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg/1920px-Bahnhof_Stuttgart_Nürnberger_Straße_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Witzenhöhle"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Wiesenttal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Wiesenttal"
+  - "Bavaria"
 wikidata_id: "Q1112276"
 latitude: 49.7995
 longitude: 11.2721
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/400px-Witzenhöhle_(C_7)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/800px-Witzenhöhle_(C_7)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/1200px-Witzenhöhle_(C_7)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/1920px-Witzenhöhle_(C_7)_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/1920px-Witzenhöhle_(C_7)_01.jpg---
 
 ## Overview
 

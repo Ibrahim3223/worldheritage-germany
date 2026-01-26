@@ -4,13 +4,13 @@ site_name: "Bad Homburg station"
 date: 2026-01-26
 draft: false
 description: "railway station in Bad Homburg vor der Höhe, Germany"
-region: "Bad Homburg vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bad Homburg vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q322665"
 latitude: 50.2199
 longitude: 8.62111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/400px-Bad-homburg-bahnhof-011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/800px-Bad-homburg-bahnhof-011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/1200px-Bad-homburg-bahnhof-011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/1920px-Bad-homburg-bahnhof-011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/1920px-Bad-homburg-bahnhof-011.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Thurant Castle"
 date: 2026-01-26
 draft: false
 description: "Castle ruins above the village of Alken on the Moselle"
-region: "Alken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Alken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1014241"
 latitude: 50.2482
 longitude: 7.45291
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/400px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/800px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/1200px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/1920px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/1920px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg---
 
 ## Overview
 

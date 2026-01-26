@@ -4,13 +4,13 @@ site_name: "Haus Gartlage"
 date: 2026-01-26
 draft: false
 description: "building in Osnabrück, Germany"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1485200"
 latitude: 52.2939
 longitude: 8.07931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/400px-Osnabrück_Haus_Gartlage.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/800px-Osnabrück_Haus_Gartlage.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/1200px-Osnabrück_Haus_Gartlage.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/1920px-Osnabrück_Haus_Gartlage.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/1920px-Osnabrück_Haus_Gartlage.jpg---
 
 ## Overview
 

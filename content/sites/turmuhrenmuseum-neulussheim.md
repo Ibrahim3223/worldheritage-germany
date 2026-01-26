@@ -4,19 +4,18 @@ site_name: "Turmuhrenmuseum Neulußheim"
 date: 2026-01-26
 draft: false
 description: "museum in Neulußheim, Germany"
-region: "Neulußheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neulußheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q18028791"
 latitude: 49.293188
 longitude: 8.52375
 images:
-  []
----
+  []---
 
 ## Overview
 

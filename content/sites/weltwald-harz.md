@@ -4,19 +4,18 @@ site_name: "WeltWald Harz"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Bad Grund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Bad Grund"
+  - "Lower Saxony"
 wikidata_id: "Q630395"
 latitude: 51.8199
 longitude: 10.2286
 images:
-  []
----
+  []---
 
 ## Overview
 

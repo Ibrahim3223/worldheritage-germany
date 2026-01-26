@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Lich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634006"
 latitude: 50.520875
 longitude: 8.819434
 images:
-  []
----
+  []---
 
 ## Overview
 

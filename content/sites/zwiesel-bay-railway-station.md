@@ -4,13 +4,13 @@ site_name: "Zwiesel (Bay) railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Zwiesel, Germany"
-region: "Zwiesel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Zwiesel"
+  - "Bavaria"
 wikidata_id: "Q315810"
 latitude: 49.021003
 longitude: 13.226437
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zwiesel_Bf.jpg/400px-Zwiesel_Bf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zwiesel_Bf.jpg/800px-Zwiesel_Bf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zwiesel_Bf.jpg/1200px-Zwiesel_Bf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zwiesel_Bf.jpg/1920px-Zwiesel_Bf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zwiesel_Bf.jpg/1920px-Zwiesel_Bf.jpg---
 
 ## Overview
 

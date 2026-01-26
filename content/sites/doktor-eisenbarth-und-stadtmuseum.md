@@ -4,19 +4,18 @@ site_name: "Doktor-Eisenbarth- und Stadtmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628999"
 latitude: 49.461193
 longitude: 12.419451
 images:
-  []
----
+  []---
 
 ## Overview
 

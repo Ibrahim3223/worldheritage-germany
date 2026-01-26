@@ -4,13 +4,13 @@ site_name: "Untertor (Jerusalemer Tor)"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Büdingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Büdingen"
+  - "Bavaria"
 wikidata_id: "Q1499399"
 latitude: 50.2925
 longitude: 9.11472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Buedingen_Untertor1.jpg/400px-Buedingen_Untertor1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Buedingen_Untertor1.jpg/800px-Buedingen_Untertor1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Buedingen_Untertor1.jpg/1200px-Buedingen_Untertor1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Buedingen_Untertor1.jpg/1920px-Buedingen_Untertor1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Buedingen_Untertor1.jpg/1920px-Buedingen_Untertor1.jpg---
 
 ## Overview
 

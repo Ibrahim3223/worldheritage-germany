@@ -4,13 +4,13 @@ site_name: "Kernerhaus"
 date: 2026-01-26
 draft: false
 description: "building in Weinsberg, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Weinsberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weinsberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1623660"
 latitude: 49.1523
 longitude: 9.28878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/400px-Kernerhaus_in_Weinsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/800px-Kernerhaus_in_Weinsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/1200px-Kernerhaus_in_Weinsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/1920px-Kernerhaus_in_Weinsberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/1920px-Kernerhaus_in_Weinsberg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schlosstheater Schwetzingen"
 date: 2026-01-26
 draft: false
 description: "palace theatre in Schwetzingen, Germany"
-region: "Schwetzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Schwetzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q656581"
 latitude: 49.385277777
 longitude: 8.568611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/400px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/800px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/1200px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/1920px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/1920px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg---
 
 ## Overview
 

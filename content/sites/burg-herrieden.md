@@ -4,13 +4,13 @@ site_name: "Burg Herrieden"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Herrieden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Herrieden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012315"
 latitude: 49.233714
 longitude: 10.499915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg/400px-D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg/800px-D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg/1200px-D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg/1920px-D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg/1920px-D-5-71-166-57,_Stadtschloss_Herrieden_20220219_0157.jpg---
 
 ## Overview
 

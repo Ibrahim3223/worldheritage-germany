@@ -4,13 +4,13 @@ site_name: "Altonaer Balkon"
 date: 2026-01-26
 draft: false
 description: "park and observation point in Hamburg-Altona, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q443975"
 latitude: 53.54535556
 longitude: 9.93545833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/400px-Altonaer_Balkon_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/800px-Altonaer_Balkon_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/1200px-Altonaer_Balkon_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/1920px-Altonaer_Balkon_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/1920px-Altonaer_Balkon_(1).jpg---
 
 ## Overview
 

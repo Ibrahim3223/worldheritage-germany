@@ -4,13 +4,13 @@ site_name: "Church of St. Mary Magdalene"
 date: 2026-01-26
 draft: false
 description: "church building in Lauenburg/Elbe, Germany"
-region: "Lauenburg/Elbe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lauenburg/Elbe"
+  - "Lower Saxony"
 wikidata_id: "Q1895569"
 latitude: 53.3708
 longitude: 10.5533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/400px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/800px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/1200px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/1920px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/1920px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg---
 
 ## Overview
 

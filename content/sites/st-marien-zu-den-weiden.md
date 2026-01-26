@@ -4,19 +4,18 @@ site_name: "St. Marien zu den Weiden"
 date: 2026-01-26
 draft: false
 description: "church building in Wismar, Germany"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q2320908"
 latitude: 53.8911
 longitude: 11.4624
 images:
-  []
----
+  []---
 
 ## Overview
 

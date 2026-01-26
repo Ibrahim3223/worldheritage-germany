@@ -4,13 +4,13 @@ site_name: "Mainz Römisches Theater station"
 date: 2026-01-26
 draft: false
 description: "railway station in Mainz, Germany"
-region: "Altstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Altstadt"
+  - "Hesse"
 wikidata_id: "Q320339"
 latitude: 49.9933
 longitude: 8.27778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mainz_Römisches_Theater_1.jpg/400px-Mainz_Römisches_Theater_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mainz_Römisches_Theater_1.jpg/800px-Mainz_Römisches_Theater_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mainz_Römisches_Theater_1.jpg/1200px-Mainz_Römisches_Theater_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mainz_Römisches_Theater_1.jpg/1920px-Mainz_Römisches_Theater_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mainz_Römisches_Theater_1.jpg/1920px-Mainz_Römisches_Theater_1.jpg---
 
 ## Overview
 

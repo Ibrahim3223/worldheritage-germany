@@ -4,13 +4,13 @@ site_name: "Schlossmuseum, Quedlinburg"
 date: 2026-01-26
 draft: false
 description: "museum in the castle of Quedlinburg"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q2244617"
 latitude: 51.7859
 longitude: 11.1352
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/400px-Quedlinburg_asv2018-10_img03_Castle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/800px-Quedlinburg_asv2018-10_img03_Castle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/1200px-Quedlinburg_asv2018-10_img03_Castle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/1920px-Quedlinburg_asv2018-10_img03_Castle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/1920px-Quedlinburg_asv2018-10_img03_Castle.jpg---
 
 ## Overview
 

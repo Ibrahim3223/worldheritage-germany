@@ -4,13 +4,13 @@ site_name: "Nathan-Söderblom-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Reinbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reinbek"
+  - "Hamburg"
 wikidata_id: "Q1256930"
 latitude: 53.5122
 longitude: 10.2356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/400px-Ahrend_Orgel_Reinbek.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/800px-Ahrend_Orgel_Reinbek.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1200px-Ahrend_Orgel_Reinbek.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1920px-Ahrend_Orgel_Reinbek.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1920px-Ahrend_Orgel_Reinbek.JPG---
 
 ## Overview
 

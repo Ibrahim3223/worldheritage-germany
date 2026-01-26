@@ -4,13 +4,13 @@ site_name: "Deutsche Bücherei"
 date: 2026-01-26
 draft: false
 description: "former national library of Germany in Leipzig (1912-1990)"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1202265"
 latitude: 51.3224
 longitude: 12.3967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/400px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/800px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1200px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1920px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1920px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG---
 
 ## Overview
 

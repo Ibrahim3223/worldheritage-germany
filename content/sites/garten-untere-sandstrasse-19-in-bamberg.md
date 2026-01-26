@@ -4,19 +4,18 @@ site_name: "Garten Untere Sandstraße 19 in Bamberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-61-000-689 (2) in Bamberg, Bavaria"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q98589435"
 latitude: 49.893231537
 longitude: 10.881256991
 images:
-  []
----
+  []---
 
 ## Overview
 

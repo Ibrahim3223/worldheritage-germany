@@ -4,13 +4,13 @@ site_name: "Wilhelm Busch Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Hannover, Germany"
-region: "Nord"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Nord"
+  - "Lower Saxony"
 wikidata_id: "Q316005"
 latitude: 52.38425
 longitude: 9.70778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/400px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/800px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/1200px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/1920px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/1920px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg---
 
 ## Overview
 

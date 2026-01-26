@@ -4,19 +4,18 @@ site_name: "Museum KeltenKeller"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Biebertal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Biebertal"
+  - "Hesse"
 wikidata_id: "Q1954451"
 latitude: 50.6202
 longitude: 8.59447
 images:
-  []
----
+  []---
 
 ## Overview
 

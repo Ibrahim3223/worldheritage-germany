@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5930-0047 in Ebern"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Ebern, Haßberge, Lower Franconia, Bavaria, Germany"
-region: "Ebern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Ebern"
+  - "Bavaria"
 wikidata_id: "Q98168136"
 latitude: 50.094389068
 longitude: 10.794280551
 images:
-  []
----
+  []---
 
 ## Overview
 

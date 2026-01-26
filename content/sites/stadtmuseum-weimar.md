@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Weimar"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q25474097"
 latitude: 50.982946
 longitude: 11.325558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/400px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/800px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/1200px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/1920px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/1920px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg---
 
 ## Overview
 

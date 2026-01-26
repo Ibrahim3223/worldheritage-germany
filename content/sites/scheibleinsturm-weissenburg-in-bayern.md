@@ -4,13 +4,13 @@ site_name: "Scheibleinsturm (Weißenburg in Bayern)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q638477"
 latitude: 49.0306
 longitude: 10.9688
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/400px-Weißenburg_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/800px-Weißenburg_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/1200px-Weißenburg_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/1920px-Weißenburg_Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/1920px-Weißenburg_Turm.jpg---
 
 ## Overview
 

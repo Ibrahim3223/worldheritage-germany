@@ -4,13 +4,13 @@ site_name: "Waginger See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "District of Traunstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "District of Traunstein"
+  - "Bavaria"
 wikidata_id: "Q314769"
 latitude: 47.938611111
 longitude: 12.7775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Waginger_See_(view_from_the_southeast).jpg---
 
 ## Overview
 

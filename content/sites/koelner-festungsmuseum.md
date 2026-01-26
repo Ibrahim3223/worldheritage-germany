@@ -4,13 +4,13 @@ site_name: "Kölner Festungsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Marienburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Marienburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1774698"
 latitude: 50.8986
 longitude: 6.98256
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/400px-Koelner-festungsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/800px-Koelner-festungsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/1200px-Koelner-festungsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/1920px-Koelner-festungsmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/1920px-Koelner-festungsmuseum.jpg---
 
 ## Overview
 

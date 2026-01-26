@@ -4,13 +4,13 @@ site_name: "Hornbosteler Hutweide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Winsen an der Aller"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Winsen an der Aller"
+  - "Lower Saxony"
 wikidata_id: "Q74496"
 latitude: 52.6864
 longitude: 9.85389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/400px-Hutweide-Hornbostel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/800px-Hutweide-Hornbostel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1200px-Hutweide-Hornbostel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1920px-Hutweide-Hornbostel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1920px-Hutweide-Hornbostel.jpg---
 
 ## Overview
 

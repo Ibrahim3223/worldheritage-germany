@@ -4,13 +4,13 @@ site_name: "Kragstuhlmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lauenförde"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lauenförde"
+  - "Hesse"
 wikidata_id: "Q1786271"
 latitude: 51.6631
 longitude: 9.39083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kragstuhlmuseum1.jpg/400px-Kragstuhlmuseum1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kragstuhlmuseum1.jpg/800px-Kragstuhlmuseum1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kragstuhlmuseum1.jpg/1200px-Kragstuhlmuseum1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kragstuhlmuseum1.jpg/1920px-Kragstuhlmuseum1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kragstuhlmuseum1.jpg/1920px-Kragstuhlmuseum1.jpg---
 
 ## Overview
 

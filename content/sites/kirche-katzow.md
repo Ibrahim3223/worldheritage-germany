@@ -4,13 +4,13 @@ site_name: "Kirche Katzow"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Katzow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Katzow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2319471"
 latitude: 54.0486
 longitude: 13.671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/400px-Katzow_Kirche3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/800px-Katzow_Kirche3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1200px-Katzow_Kirche3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1920px-Katzow_Kirche3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1920px-Katzow_Kirche3.jpg---
 
 ## Overview
 

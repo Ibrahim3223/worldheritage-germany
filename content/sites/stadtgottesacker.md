@@ -4,13 +4,13 @@ site_name: "Stadtgottesacker"
 date: 2026-01-26
 draft: false
 description: "cemetery in Halle (Saale), Saxony-Anhalt, Germany, established in 1557"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2327192"
 latitude: 51.482222222
 longitude: 11.9775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/400px-HAL-StadtgottesackerEingTorturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/800px-HAL-StadtgottesackerEingTorturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/1200px-HAL-StadtgottesackerEingTorturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/1920px-HAL-StadtgottesackerEingTorturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/1920px-HAL-StadtgottesackerEingTorturm.JPG---
 
 ## Overview
 

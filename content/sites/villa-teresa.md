@@ -4,13 +4,13 @@ site_name: "Villa Teresa"
 date: 2026-01-26
 draft: false
 description: "museum and centre for chamber music in Coswig, Germany"
-region: "Coswig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Coswig"
+  - "Saxony"
 wikidata_id: "Q49371259"
 latitude: 51.1202
 longitude: 13.57375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Villa_Teresa_Coswig.jpg/400px-Villa_Teresa_Coswig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Villa_Teresa_Coswig.jpg/800px-Villa_Teresa_Coswig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Villa_Teresa_Coswig.jpg/1200px-Villa_Teresa_Coswig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Villa_Teresa_Coswig.jpg/1920px-Villa_Teresa_Coswig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Villa_Teresa_Coswig.jpg/1920px-Villa_Teresa_Coswig.jpg---
 
 ## Overview
 

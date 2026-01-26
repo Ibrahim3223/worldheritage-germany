@@ -4,13 +4,13 @@ site_name: "Burg Nieder-Modau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nieder-Modau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nieder-Modau"
+  - "Hesse"
 wikidata_id: "Q1013309"
 latitude: 49.806833333
 longitude: 8.741472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/400px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/800px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1200px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1920px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1920px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png---
 
 ## Overview
 

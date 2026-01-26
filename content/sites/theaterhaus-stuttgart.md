@@ -4,13 +4,13 @@ site_name: "Theaterhaus Stuttgart"
 date: 2026-01-26
 draft: false
 description: "building in Stuttgart, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1304434"
 latitude: 48.8104
 longitude: 9.17947
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/400px-Theaterhaus_Stuttgart_Pragsattel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/800px-Theaterhaus_Stuttgart_Pragsattel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/1200px-Theaterhaus_Stuttgart_Pragsattel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/1920px-Theaterhaus_Stuttgart_Pragsattel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/1920px-Theaterhaus_Stuttgart_Pragsattel.jpg---
 
 ## Overview
 

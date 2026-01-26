@@ -4,13 +4,13 @@ site_name: "Hans-Momsen-Haus"
 date: 2026-01-26
 draft: false
 description: "building in Dagebüll, Germany"
-region: "Dagebüll"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dagebüll"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1577947"
 latitude: 54.705915
 longitude: 8.791532
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/400px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/800px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/1200px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/1920px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/1920px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Flottbektal"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q944351"
 latitude: 53.5494
 longitude: 9.86917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/400px-Flottbektal_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/800px-Flottbektal_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1200px-Flottbektal_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1920px-Flottbektal_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1920px-Flottbektal_(2).jpg---
 
 ## Overview
 

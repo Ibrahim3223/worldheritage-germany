@@ -4,19 +4,18 @@ site_name: "Stellwerk Köln-Dünnwald"
 date: 2026-01-26
 draft: false
 description: "Museum für Signal- und Fernmeldetechnik im Eisenbahnwesen"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q18546021"
 latitude: 50.99981636
 longitude: 7.03532324
 images:
-  []
----
+  []---
 
 ## Overview
 

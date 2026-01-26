@@ -4,19 +4,18 @@ site_name: "Porcelaine Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Rödental, Germany"
-region: "Rödental"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rödental"
+  - "Bavaria"
 wikidata_id: "Q76629321"
 latitude: 50.288007
 longitude: 11.025169
 images:
-  []
----
+  []---
 
 ## Overview
 

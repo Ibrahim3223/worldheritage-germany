@@ -4,13 +4,13 @@ site_name: "Brauerei Keesmann"
 date: 2026-01-26
 draft: false
 description: "Brauerei in Bamberg, Bayern"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q900266"
 latitude: 49.8904
 longitude: 10.9056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/400px-Wunderburg5_ba2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/800px-Wunderburg5_ba2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/1200px-Wunderburg5_ba2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/1920px-Wunderburg5_ba2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/1920px-Wunderburg5_ba2.JPG---
 
 ## Overview
 

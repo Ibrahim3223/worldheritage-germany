@@ -4,13 +4,13 @@ site_name: "Kornelimünster Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey in Germany, attached to the congregation of Subiaco"
-region: "Kornelimünster/Walheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Kornelimünster/Walheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q152432"
 latitude: 50.728611
 longitude: 6.178056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC_BD_Reichsabtei_Kornelimünster.jpg/400px-AC_BD_Reichsabtei_Kornelimünster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC_BD_Reichsabtei_Kornelimünster.jpg/800px-AC_BD_Reichsabtei_Kornelimünster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC_BD_Reichsabtei_Kornelimünster.jpg/1200px-AC_BD_Reichsabtei_Kornelimünster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC_BD_Reichsabtei_Kornelimünster.jpg/1920px-AC_BD_Reichsabtei_Kornelimünster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC_BD_Reichsabtei_Kornelimünster.jpg/1920px-AC_BD_Reichsabtei_Kornelimünster.jpg---
 
 ## Overview
 

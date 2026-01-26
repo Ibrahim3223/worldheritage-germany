@@ -4,13 +4,13 @@ site_name: "Triberg Waterfalls"
 date: 2026-01-26
 draft: false
 description: "waterfall in Black Forest, Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q650634"
 latitude: 48.126111111
 longitude: 8.2275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Triberg3.jpg/400px-Triberg3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Triberg3.jpg/800px-Triberg3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Triberg3.jpg/1200px-Triberg3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Triberg3.jpg/1920px-Triberg3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Triberg3.jpg/1920px-Triberg3.jpg---
 
 ## Overview
 

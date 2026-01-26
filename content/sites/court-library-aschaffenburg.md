@@ -4,13 +4,13 @@ site_name: "Court Library Aschaffenburg"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q1622950"
 latitude: 49.9761
 longitude: 9.14111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/400px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/800px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1200px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1920px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1920px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kunsthaus Dresden"
 date: 2026-01-26
 draft: false
 description: "museum in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1784938"
 latitude: 51.0593
 longitude: 13.741
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Haus_der_Brücke_03.jpg/400px-Haus_der_Brücke_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Haus_der_Brücke_03.jpg/800px-Haus_der_Brücke_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Haus_der_Brücke_03.jpg/1200px-Haus_der_Brücke_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Haus_der_Brücke_03.jpg/1920px-Haus_der_Brücke_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Haus_der_Brücke_03.jpg/1920px-Haus_der_Brücke_03.jpg---
 
 ## Overview
 

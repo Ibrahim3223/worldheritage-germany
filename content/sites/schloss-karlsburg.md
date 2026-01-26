@@ -4,13 +4,13 @@ site_name: "Schloss Karlsburg"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Karlsburg"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Karlsburg"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q875375"
 latitude: 53.9703
 longitude: 13.6122
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Institut_Karlsburg_Schloss.jpg/400px-Institut_Karlsburg_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Institut_Karlsburg_Schloss.jpg/800px-Institut_Karlsburg_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Institut_Karlsburg_Schloss.jpg/1200px-Institut_Karlsburg_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Institut_Karlsburg_Schloss.jpg/1920px-Institut_Karlsburg_Schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Institut_Karlsburg_Schloss.jpg/1920px-Institut_Karlsburg_Schloss.jpg---
 
 ## Overview
 

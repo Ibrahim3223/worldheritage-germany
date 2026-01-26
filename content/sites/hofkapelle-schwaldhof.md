@@ -4,13 +4,13 @@ site_name: "Hofkapelle Schwaldhof"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bad Wurzach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Wurzach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1623143"
 latitude: 47.956508
 longitude: 9.902115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/400px-Hofkapelle_Schwaldhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/800px-Hofkapelle_Schwaldhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/1200px-Hofkapelle_Schwaldhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/1920px-Hofkapelle_Schwaldhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/1920px-Hofkapelle_Schwaldhof.jpg---
 
 ## Overview
 

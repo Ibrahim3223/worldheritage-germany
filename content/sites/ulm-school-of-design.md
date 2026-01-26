@@ -4,13 +4,13 @@ site_name: "Ulm School of Design"
 date: 2026-01-26
 draft: false
 description: "Ulm School of Design"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q591905"
 latitude: 48.3806
 longitude: 9.95278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/400px-HfGUlmbuilding.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/800px-HfGUlmbuilding.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/1200px-HfGUlmbuilding.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/1920px-HfGUlmbuilding.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/1920px-HfGUlmbuilding.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Marienstern Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Brandenburg"
-region: "Mühlberg/Elbe"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Mühlberg/Elbe"
+  - "Brandenburg"
 wikidata_id: "Q188086"
 latitude: 51.436
 longitude: 13.2193
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/400px-Klosterkirche_Mühlberg_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/800px-Klosterkirche_Mühlberg_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/1200px-Klosterkirche_Mühlberg_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/1920px-Klosterkirche_Mühlberg_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/1920px-Klosterkirche_Mühlberg_001.JPG---
 
 ## Overview
 

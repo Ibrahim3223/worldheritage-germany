@@ -4,13 +4,13 @@ site_name: "Steigerwald Nature Park"
 date: 2026-01-26
 draft: false
 description: "nature park in Bavaria, Germany"
-region: "Markt Bibart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Markt Bibart"
+  - "Baden-Württemberg"
 wikidata_id: "Q454707"
 latitude: 49.6142
 longitude: 10.2872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Geusfeld_003.JPG/400px-Geusfeld_003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Geusfeld_003.JPG/800px-Geusfeld_003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Geusfeld_003.JPG/1200px-Geusfeld_003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Geusfeld_003.JPG/1920px-Geusfeld_003.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Geusfeld_003.JPG/1920px-Geusfeld_003.JPG---
 
 ## Overview
 

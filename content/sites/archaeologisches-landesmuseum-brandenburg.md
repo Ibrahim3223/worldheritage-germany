@@ -4,13 +4,13 @@ site_name: "Archäologisches Landesmuseum Brandenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Brandenburg an der Havel, Brandenburg, Germany"
-region: "Brandenburg an der Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brandenburg an der Havel"
+  - "Brandenburg"
 wikidata_id: "Q636865"
 latitude: 52.4061
 longitude: 12.5631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/400px-Paulikloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/800px-Paulikloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/1200px-Paulikloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/1920px-Paulikloster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/1920px-Paulikloster.jpg---
 
 ## Overview
 

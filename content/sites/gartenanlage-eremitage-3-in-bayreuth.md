@@ -4,13 +4,13 @@ site_name: "Gartenanlage Eremitage 3 in Bayreuth"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-62-000-392 (16) in Bayreuth, Bavaria"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q98589429"
 latitude: 49.94868777
 longitude: 11.623466776
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/400px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/800px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/1200px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/1920px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/1920px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg---
 
 ## Overview
 

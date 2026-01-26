@@ -4,19 +4,18 @@ site_name: "Kumede"
 date: 2026-01-26
 draft: false
 description: "theatre in Cologne, North Rhine-Westphalia, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151262"
 latitude: 50.93501
 longitude: 6.980809
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dorfmuseum Wagenschwend"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Limbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Limbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631448"
 latitude: 49.472383
 longitude: 9.145831
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/400px-Dorfmuseum_Wagenschwend.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/800px-Dorfmuseum_Wagenschwend.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/1200px-Dorfmuseum_Wagenschwend.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/1920px-Dorfmuseum_Wagenschwend.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/1920px-Dorfmuseum_Wagenschwend.jpg---
 
 ## Overview
 

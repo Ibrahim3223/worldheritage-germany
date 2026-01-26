@@ -4,19 +4,18 @@ site_name: "Hauptstraße 39"
 date: 2026-01-26
 draft: false
 description: "Villa in Neugersdorf"
-region: "Ebersbach-Neugersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Ebersbach-Neugersdorf"
+  - "Saxony"
 wikidata_id: "Q49352265"
 latitude: 50.97765
 longitude: 14.60686
 images:
-  []
----
+  []---
 
 ## Overview
 

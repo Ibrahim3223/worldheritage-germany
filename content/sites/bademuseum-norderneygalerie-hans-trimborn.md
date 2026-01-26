@@ -4,13 +4,13 @@ site_name: "Bade~museum norderney/Galerie Hans Trimborn"
 date: 2026-01-26
 draft: false
 description: "museum in Norderney, Germany"
-region: "Norderney"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Norderney"
+  - "Lower Saxony"
 wikidata_id: "Q15107099"
 latitude: 53.701775
 longitude: 7.144311
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Norderney_bademuseum.jpg/400px-Norderney_bademuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Norderney_bademuseum.jpg/800px-Norderney_bademuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Norderney_bademuseum.jpg/1200px-Norderney_bademuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Norderney_bademuseum.jpg/1920px-Norderney_bademuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Norderney_bademuseum.jpg/1920px-Norderney_bademuseum.jpg---
 
 ## Overview
 

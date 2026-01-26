@@ -4,13 +4,13 @@ site_name: "Old Botanical Garden of Göttingen University"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q570148"
 latitude: 51.5382
 longitude: 9.9367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/400px-Magnolie_rot.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/800px-Magnolie_rot.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/1200px-Magnolie_rot.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/1920px-Magnolie_rot.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/1920px-Magnolie_rot.jpg---
 
 ## Overview
 

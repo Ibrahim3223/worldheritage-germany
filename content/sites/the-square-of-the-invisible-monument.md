@@ -4,13 +4,13 @@ site_name: "The Square Of The Invisible Monument"
 date: 2026-01-26
 draft: false
 description: "public square in Saarbrücken, Germany"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2098885"
 latitude: 49.2305
 longitude: 6.99157
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/400px-Saarbruecken_Schloss_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/800px-Saarbruecken_Schloss_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/1200px-Saarbruecken_Schloss_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/1920px-Saarbruecken_Schloss_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/1920px-Saarbruecken_Schloss_5.jpg---
 
 ## Overview
 

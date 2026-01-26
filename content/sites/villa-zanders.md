@@ -4,13 +4,13 @@ site_name: "Villa Zanders"
 date: 2026-01-26
 draft: false
 description: "villa"
-region: "Bergisch Gladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bergisch Gladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1617748"
 latitude: 50.9908
 longitude: 7.13056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Villa_Zanders.jpg/400px-Villa_Zanders.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Villa_Zanders.jpg/800px-Villa_Zanders.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Villa_Zanders.jpg/1200px-Villa_Zanders.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Villa_Zanders.jpg/1920px-Villa_Zanders.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Villa_Zanders.jpg/1920px-Villa_Zanders.jpg---
 
 ## Overview
 

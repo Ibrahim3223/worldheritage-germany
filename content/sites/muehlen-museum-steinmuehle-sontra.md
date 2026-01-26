@@ -4,19 +4,18 @@ site_name: "Mühlen-Museum Steinmühle Sontra"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634208"
 latitude: 51.078614
 longitude: 9.937588
 images:
-  []
----
+  []---
 
 ## Overview
 

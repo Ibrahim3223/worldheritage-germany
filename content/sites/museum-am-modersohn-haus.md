@@ -4,19 +4,18 @@ site_name: "Museum am Modersohn-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Worpswede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Worpswede"
+  - "Bremen"
 wikidata_id: "Q63726112"
 latitude: 53.221616
 longitude: 8.930897
 images:
-  []
----
+  []---
 
 ## Overview
 

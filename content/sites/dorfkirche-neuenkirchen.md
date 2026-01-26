@@ -4,13 +4,13 @@ site_name: "Dorfkirche Neuenkirchen"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Neuenkirchen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuenkirchen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742643"
 latitude: 54.1189
 longitude: 13.3752
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/400px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/800px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/1200px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/1920px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/1920px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG---
 
 ## Overview
 

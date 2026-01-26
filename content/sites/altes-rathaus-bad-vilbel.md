@@ -4,13 +4,13 @@ site_name: "Altes Rathaus Bad Vilbel"
 date: 2026-01-26
 draft: false
 description: "Kulturdenkmal in Bad Vilbel"
-region: "Bad Vilbel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Bad Vilbel"
+  - "Hesse"
 wikidata_id: "Q68705682"
 latitude: 50.18342
 longitude: 8.74456
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Badvilbel-altesrathaus.jpg/400px-Badvilbel-altesrathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Badvilbel-altesrathaus.jpg/800px-Badvilbel-altesrathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Badvilbel-altesrathaus.jpg/1200px-Badvilbel-altesrathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Badvilbel-altesrathaus.jpg/1920px-Badvilbel-altesrathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Badvilbel-altesrathaus.jpg/1920px-Badvilbel-altesrathaus.jpg---
 
 ## Overview
 

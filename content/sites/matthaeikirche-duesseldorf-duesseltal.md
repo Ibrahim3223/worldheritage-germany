@@ -4,13 +4,13 @@ site_name: "Matthäikirche (Düsseldorf-Düsseltal)"
 date: 2026-01-26
 draft: false
 description: "church building in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1910484"
 latitude: 51.2349
 longitude: 6.80748
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/400px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/800px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/1200px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/1920px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/1920px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg---
 
 ## Overview
 

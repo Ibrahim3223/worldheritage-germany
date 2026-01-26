@@ -4,13 +4,13 @@ site_name: "Bunkenmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Stöckse"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Stöckse"
+  - "Lower Saxony"
 wikidata_id: "Q1009522"
 latitude: 52.6464
 longitude: 9.28361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bunkenmoor_-_01.jpg/400px-Bunkenmoor_-_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bunkenmoor_-_01.jpg/800px-Bunkenmoor_-_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bunkenmoor_-_01.jpg/1200px-Bunkenmoor_-_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bunkenmoor_-_01.jpg/1920px-Bunkenmoor_-_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bunkenmoor_-_01.jpg/1920px-Bunkenmoor_-_01.jpg---
 
 ## Overview
 

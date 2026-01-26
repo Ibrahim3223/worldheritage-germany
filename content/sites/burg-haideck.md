@@ -4,13 +4,13 @@ site_name: "Burg Haideck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Trochtelfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Trochtelfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012157"
 latitude: 48.3298
 longitude: 9.24863
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Haideck_5.jpg/400px-Burg_Haideck_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Haideck_5.jpg/800px-Burg_Haideck_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Haideck_5.jpg/1200px-Burg_Haideck_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Haideck_5.jpg/1920px-Burg_Haideck_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Haideck_5.jpg/1920px-Burg_Haideck_5.jpg---
 
 ## Overview
 

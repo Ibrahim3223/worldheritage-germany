@@ -4,13 +4,13 @@ site_name: "Gut Farve"
 date: 2026-01-26
 draft: false
 description: "building in Wangels (Germany)"
-region: "Wangels"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wangels"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1556918"
 latitude: 54.2853
 longitude: 10.7938
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/400px-Gut-Farve.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/800px-Gut-Farve.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1200px-Gut-Farve.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1920px-Gut-Farve.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1920px-Gut-Farve.jpg---
 
 ## Overview
 

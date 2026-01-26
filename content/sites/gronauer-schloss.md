@@ -4,13 +4,13 @@ site_name: "Gronauer Schloß"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Krofdorf-Gleiberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Krofdorf-Gleiberg"
+  - "Hesse"
 wikidata_id: "Q439213"
 latitude: 50.692
 longitude: 8.65917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/400px-IMG_5196_Gronauer_Schloss_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/800px-IMG_5196_Gronauer_Schloss_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/1200px-IMG_5196_Gronauer_Schloss_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/1920px-IMG_5196_Gronauer_Schloss_3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/1920px-IMG_5196_Gronauer_Schloss_3.JPG---
 
 ## Overview
 

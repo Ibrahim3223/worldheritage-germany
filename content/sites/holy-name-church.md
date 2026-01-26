@@ -4,13 +4,13 @@ site_name: "Holy Name Church"
 date: 2026-01-26
 draft: false
 description: "Bonn"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q477567"
 latitude: 50.736244
 longitude: 7.101253
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/400px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/800px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/1200px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/1920px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/1920px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg---
 
 ## Overview
 

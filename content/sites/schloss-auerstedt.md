@@ -4,13 +4,13 @@ site_name: "Schloss Auerstedt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Sulza"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Sulza"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20480171"
 latitude: 51.098615
 longitude: 11.589796
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/400px-Rittergut_Schloss_Auerstedt_P4160514.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/800px-Rittergut_Schloss_Auerstedt_P4160514.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/1200px-Rittergut_Schloss_Auerstedt_P4160514.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/1920px-Rittergut_Schloss_Auerstedt_P4160514.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/1920px-Rittergut_Schloss_Auerstedt_P4160514.jpg---
 
 ## Overview
 

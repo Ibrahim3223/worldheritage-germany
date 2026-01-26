@@ -4,19 +4,18 @@ site_name: "Privatkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1438764"
 latitude: 48.0779
 longitude: 10.6166
 images:
-  []
----
+  []---
 
 ## Overview
 

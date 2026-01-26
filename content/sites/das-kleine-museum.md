@@ -4,13 +4,13 @@ site_name: "Das kleine Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Weißenstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Weißenstadt"
+  - "Bavaria"
 wikidata_id: "Q29353511"
 latitude: 50.10141
 longitude: 11.890602
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Das_kleine_Museum_Weißenstadt_2017.jpg/400px-Das_kleine_Museum_Weißenstadt_2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Das_kleine_Museum_Weißenstadt_2017.jpg/800px-Das_kleine_Museum_Weißenstadt_2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Das_kleine_Museum_Weißenstadt_2017.jpg/1200px-Das_kleine_Museum_Weißenstadt_2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Das_kleine_Museum_Weißenstadt_2017.jpg/1920px-Das_kleine_Museum_Weißenstadt_2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Das_kleine_Museum_Weißenstadt_2017.jpg/1920px-Das_kleine_Museum_Weißenstadt_2017.jpg---
 
 ## Overview
 

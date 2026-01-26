@@ -4,13 +4,13 @@ site_name: "Annener Gußstahlwerk concentration camp"
 date: 2026-01-26
 draft: false
 description: "subcamp Annen Steelworks of concentration camp Buchenwald in Witten"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q789801"
 latitude: 51.44825
 longitude: 7.37131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/400px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/800px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/1200px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/1920px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/1920px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg---
 
 ## Overview
 

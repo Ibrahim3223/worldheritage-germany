@@ -4,19 +4,18 @@ site_name: "Steinerne Bogenbrücke Ortsausgang Richtung Commerau"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Großdubrau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Großdubrau"
+  - "Saxony"
 wikidata_id: "Q49402748"
 latitude: 51.292347
 longitude: 14.492597
 images:
-  []
----
+  []---
 
 ## Overview
 

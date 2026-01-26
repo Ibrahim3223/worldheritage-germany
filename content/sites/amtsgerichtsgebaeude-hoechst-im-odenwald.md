@@ -4,13 +4,13 @@ site_name: "Amtsgerichtsgebäude Höchst im Odenwald"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Höchst im Odenwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Höchst im Odenwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q116921217"
 latitude: 49.799695
 longitude: 8.994195
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg/400px-Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg/800px-Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg/1200px-Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg/1920px-Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg/1920px-Aschaffenburger_Straße_2,_Hoechst_i._Odw._(2018).jpg---
 
 ## Overview
 

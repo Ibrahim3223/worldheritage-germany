@@ -4,13 +4,13 @@ site_name: "Sacred Heart Church (Saarbrücken)"
 date: 2026-01-26
 draft: false
 description: "church in Saarbrücken"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1493844"
 latitude: 49.2469
 longitude: 6.95315
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/400px-Herz-Jesu-Kirche_Saarbrücken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/800px-Herz-Jesu-Kirche_Saarbrücken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/1200px-Herz-Jesu-Kirche_Saarbrücken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/1920px-Herz-Jesu-Kirche_Saarbrücken.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/1920px-Herz-Jesu-Kirche_Saarbrücken.jpg---
 
 ## Overview
 

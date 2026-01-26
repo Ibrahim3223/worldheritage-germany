@@ -4,19 +4,18 @@ site_name: "Antoniterkloster Nördlingen"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q606510"
 latitude: 48.8511
 longitude: 10.4902
 images:
-  []
----
+  []---
 
 ## Overview
 

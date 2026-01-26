@@ -4,19 +4,18 @@ site_name: "Zeche Carl Wilhelm"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169712"
 latitude: 51.4161
 longitude: 7.23979
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Alexandrowka"
 date: 2026-01-26
 draft: false
 description: "museum in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1749649"
 latitude: 52.4117
 longitude: 13.0569
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Potsdam_Alexandrowka_02-14_img3.jpg/400px-Potsdam_Alexandrowka_02-14_img3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Potsdam_Alexandrowka_02-14_img3.jpg/800px-Potsdam_Alexandrowka_02-14_img3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Potsdam_Alexandrowka_02-14_img3.jpg/1200px-Potsdam_Alexandrowka_02-14_img3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Potsdam_Alexandrowka_02-14_img3.jpg/1920px-Potsdam_Alexandrowka_02-14_img3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Potsdam_Alexandrowka_02-14_img3.jpg/1920px-Potsdam_Alexandrowka_02-14_img3.jpg---
 
 ## Overview
 

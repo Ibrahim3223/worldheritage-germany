@@ -4,13 +4,13 @@ site_name: "Kiepenkerldenkmal"
 date: 2026-01-26
 draft: false
 description: "statue"
-region: "Münster-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Münster-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q15116588"
 latitude: 51.964114
 longitude: 7.626215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/400px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/800px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/1200px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/1920px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/1920px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg---
 
 ## Overview
 

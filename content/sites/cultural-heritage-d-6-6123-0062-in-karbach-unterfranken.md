@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6123-0062 in Karbach (Unterfranken)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Karbach, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Karbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Karbach"
+  - "Bavaria"
 wikidata_id: "Q98170665"
 latitude: 49.86780641
 longitude: 9.638111774
 images:
-  []
----
+  []---
 
 ## Overview
 

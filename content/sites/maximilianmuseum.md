@@ -4,13 +4,13 @@ site_name: "Maximilianmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Augsburg"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1914179"
 latitude: 48.3678
 longitude: 10.8967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg/400px-2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg/800px-2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg/1200px-2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg/1920px-2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg/1920px-2019-04-05_Regionale_Staatsbibliothek_Augsburg_30.jpg---
 
 ## Overview
 

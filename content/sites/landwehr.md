@@ -4,13 +4,13 @@ site_name: "Landwehr"
 date: 2026-01-26
 draft: false
 description: "Römerwall in Maisborn"
-region: "Maisborn"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Roman Limes"
 categories:
   - "Roman Limes"
 regions:
-  - "Maisborn"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q114734308"
 latitude: 50.084767
 longitude: 7.581083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/400px-Landwehr_Maisborn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/800px-Landwehr_Maisborn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/1200px-Landwehr_Maisborn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/1920px-Landwehr_Maisborn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/1920px-Landwehr_Maisborn.jpg---
 
 ## Overview
 

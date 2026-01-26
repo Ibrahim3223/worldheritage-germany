@@ -4,13 +4,13 @@ site_name: "Knock lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Lower Saxony, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1821430"
 latitude: 53.33869444
 longitude: 7.02366667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/400px-VerkehrszentraleEms.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/800px-VerkehrszentraleEms.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/1200px-VerkehrszentraleEms.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/1920px-VerkehrszentraleEms.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/1920px-VerkehrszentraleEms.JPG---
 
 ## Overview
 

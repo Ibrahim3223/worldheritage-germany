@@ -4,13 +4,13 @@ site_name: "Czorneboh"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Bautzen District"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Bautzen District"
+  - "Saxony"
 wikidata_id: "Q160740"
 latitude: 51.1195346
 longitude: 14.5260235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/400px-Běłobóh_Čornobóh.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/800px-Běłobóh_Čornobóh.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1200px-Běłobóh_Čornobóh.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1920px-Běłobóh_Čornobóh.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1920px-Běłobóh_Čornobóh.JPG---
 
 ## Overview
 

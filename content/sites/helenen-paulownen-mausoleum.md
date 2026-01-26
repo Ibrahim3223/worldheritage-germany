@@ -4,13 +4,13 @@ site_name: "Helenen-Paulownen-Mausoleum"
 date: 2026-01-26
 draft: false
 description: "Mausoleum im Schlosspark von Schloss Ludwigslust"
-region: "Ludwigslust"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Ludwigslust"
+  - "Brandenburg"
 wikidata_id: "Q2715904"
 latitude: 53.3237
 longitude: 11.4828
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/400px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/800px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/1200px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/1920px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/1920px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg---
 
 ## Overview
 

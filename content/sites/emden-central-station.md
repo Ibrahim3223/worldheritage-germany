@@ -4,13 +4,13 @@ site_name: "Emden Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Emden, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q320682"
 latitude: 53.3689
 longitude: 7.19556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/400px-Hauptbahnhof_emden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/800px-Hauptbahnhof_emden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1200px-Hauptbahnhof_emden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1920px-Hauptbahnhof_emden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1920px-Hauptbahnhof_emden.jpg---
 
 ## Overview
 

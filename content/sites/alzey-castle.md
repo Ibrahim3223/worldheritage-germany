@@ -4,13 +4,13 @@ site_name: "Alzey Castle"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q450713"
 latitude: 49.746
 longitude: 8.11625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/400px-SchlossAlzey.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/800px-SchlossAlzey.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1200px-SchlossAlzey.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1920px-SchlossAlzey.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1920px-SchlossAlzey.jpg---
 
 ## Overview
 

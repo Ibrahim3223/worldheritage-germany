@@ -4,13 +4,13 @@ site_name: "Museum of Communication Nuremberg"
 date: 2026-01-26
 draft: false
 description: "museum in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1954644"
 latitude: 49.44555556
 longitude: 11.07444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/111021_MKN_Eingangsbereich.jpg/400px-111021_MKN_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/111021_MKN_Eingangsbereich.jpg/800px-111021_MKN_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/111021_MKN_Eingangsbereich.jpg/1200px-111021_MKN_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/111021_MKN_Eingangsbereich.jpg/1920px-111021_MKN_Eingangsbereich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/111021_MKN_Eingangsbereich.jpg/1920px-111021_MKN_Eingangsbereich.jpg---
 
 ## Overview
 

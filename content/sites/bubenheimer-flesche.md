@@ -4,19 +4,18 @@ site_name: "Bubenheimer Flesche"
 date: 2026-01-26
 draft: false
 description: "Teil der preußischen Festung Koblenz"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q997513"
 latitude: 50.375
 longitude: 7.59083
 images:
-  []
----
+  []---
 
 ## Overview
 

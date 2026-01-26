@@ -4,13 +4,13 @@ site_name: "Michaeliskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bautzen, Germany"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q1546343"
 latitude: 51.181
 longitude: 14.421
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/400px-Budyšin_–_Michałska_cyrkej_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/800px-Budyšin_–_Michałska_cyrkej_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/1200px-Budyšin_–_Michałska_cyrkej_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/1920px-Budyšin_–_Michałska_cyrkej_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/1920px-Budyšin_–_Michałska_cyrkej_3.jpg---
 
 ## Overview
 

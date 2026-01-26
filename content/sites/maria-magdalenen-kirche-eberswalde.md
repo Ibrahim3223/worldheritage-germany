@@ -4,13 +4,13 @@ site_name: "Maria-Magdalenen-Kirche (Eberswalde)"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Eberswalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eberswalde"
+  - "Brandenburg"
 wikidata_id: "Q1895564"
 latitude: 52.8322
 longitude: 13.8208
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/400px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/800px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/1200px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/1920px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/1920px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg---
 
 ## Overview
 

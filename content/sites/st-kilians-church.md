@@ -4,13 +4,13 @@ site_name: "St. Kilian's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Heilbronn, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q878243"
 latitude: 49.1417
 longitude: 9.21917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/400px-Heilbronn-St._Kilian-12-2019-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/800px-Heilbronn-St._Kilian-12-2019-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/1200px-Heilbronn-St._Kilian-12-2019-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/1920px-Heilbronn-St._Kilian-12-2019-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/1920px-Heilbronn-St._Kilian-12-2019-gje.jpg---
 
 ## Overview
 

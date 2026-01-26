@@ -4,13 +4,13 @@ site_name: "Borsteler Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Borstel, Landkreis Diepholz, Lower Saxony"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Borstel, Landkreis Diepholz, Lower Saxony"
+  - "Lower Saxony"
 wikidata_id: "Q894220"
 latitude: 52.6514
 longitude: 8.95278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/400px-Borsteler_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/800px-Borsteler_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/1200px-Borsteler_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/1920px-Borsteler_Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/1920px-Borsteler_Moor.jpg---
 
 ## Overview
 

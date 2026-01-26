@@ -4,13 +4,13 @@ site_name: "Chiemsee"
 date: 2026-01-26
 draft: false
 description: "freshwater lake in Bavaria, Germany"
-region: "Chiemsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Chiemsee"
+  - "Bavaria"
 wikidata_id: "Q4138"
 latitude: 47.89
 longitude: 12.47
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg---
 
 ## Overview
 

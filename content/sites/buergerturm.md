@@ -4,13 +4,13 @@ site_name: "Bürgerturm"
 date: 2026-01-26
 draft: false
 description: "house in Freising (Germany). Former watchtower of the medieval town fortification, then prison and poorhouse, four-storey with single-axis fenestratio"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q1021500"
 latitude: 48.4028
 longitude: 11.7465
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/400px-Bürgerturm_Freising.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/800px-Bürgerturm_Freising.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/1200px-Bürgerturm_Freising.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/1920px-Bürgerturm_Freising.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/1920px-Bürgerturm_Freising.JPG---
 
 ## Overview
 

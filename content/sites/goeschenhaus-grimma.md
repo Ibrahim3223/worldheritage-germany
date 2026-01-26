@@ -4,13 +4,13 @@ site_name: "Göschenhaus Grimma"
 date: 2026-01-26
 draft: false
 description: "museum in Grimma, Saxony, Germany"
-region: "Grimma"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grimma"
+  - "Saxony"
 wikidata_id: "Q49569029"
 latitude: 51.252471
 longitude: 12.731563
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg/400px-Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg/800px-Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg/1200px-Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg/1920px-Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg/1920px-Göschenhaus_Schillerstr_(Hohnstädt)_01.jpg---
 
 ## Overview
 

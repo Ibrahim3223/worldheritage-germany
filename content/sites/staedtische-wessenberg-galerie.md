@@ -4,19 +4,18 @@ site_name: "Städtische Wessenberg-Galerie"
 date: 2026-01-26
 draft: false
 description: "museum in Konstanz (Bodensee)"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q15849542"
 latitude: 47.66325556
 longitude: 9.17507222
 images:
-  []
----
+  []---
 
 ## Overview
 

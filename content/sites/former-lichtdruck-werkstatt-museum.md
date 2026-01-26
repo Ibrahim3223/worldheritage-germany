@@ -4,13 +4,13 @@ site_name: "former Lichtdruck-Werkstatt-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1543579"
 latitude: 51.035
 longitude: 13.8008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Druckhaus_Dresden.jpg/400px-Druckhaus_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Druckhaus_Dresden.jpg/800px-Druckhaus_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Druckhaus_Dresden.jpg/1200px-Druckhaus_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Druckhaus_Dresden.jpg/1920px-Druckhaus_Dresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Druckhaus_Dresden.jpg/1920px-Druckhaus_Dresden.jpg---
 
 ## Overview
 

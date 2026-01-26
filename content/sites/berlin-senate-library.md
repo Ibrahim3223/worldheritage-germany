@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Senatsbibliothek_Berlin.png/400px-Logo_Senatsbibliothek_Berlin.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Senatsbibliothek_Berlin.png/800px-Logo_Senatsbibliothek_Berlin.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Senatsbibliothek_Berlin.png/1200px-Logo_Senatsbibliothek_Berlin.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Senatsbibliothek_Berlin.png/1920px-Logo_Senatsbibliothek_Berlin.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Senatsbibliothek_Berlin.png/1920px-Logo_Senatsbibliothek_Berlin.png---
 
 ## Overview
 

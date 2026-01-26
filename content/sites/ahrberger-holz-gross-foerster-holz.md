@@ -4,13 +4,13 @@ site_name: "Ahrberger Holz / Groß Förster Holz"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Giesen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Giesen"
+  - "Lower Saxony"
 wikidata_id: "Q402654"
 latitude: 52.213888888
 longitude: 9.888333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/400px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/800px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/1200px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/1920px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/1920px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG---
 
 ## Overview
 

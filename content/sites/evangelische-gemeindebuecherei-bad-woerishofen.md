@@ -4,19 +4,18 @@ site_name: "Evangelische Gemeindebücherei Bad Wörishofen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Bad Wörishofen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bad Wörishofen"
+  - "Bavaria"
 wikidata_id: "Q28729542"
 latitude: 48.0106
 longitude: 10.59431
 images:
-  []
----
+  []---
 
 ## Overview
 

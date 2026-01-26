@@ -4,13 +4,13 @@ site_name: "St. Prokop-Kirche (Hamburg-Stellingen)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Hamburg"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q1377140"
 latitude: 53.584201
 longitude: 9.946925
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Prokop,_Stellingen_02.jpg/400px-St._Prokop,_Stellingen_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Prokop,_Stellingen_02.jpg/800px-St._Prokop,_Stellingen_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Prokop,_Stellingen_02.jpg/1200px-St._Prokop,_Stellingen_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Prokop,_Stellingen_02.jpg/1920px-St._Prokop,_Stellingen_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Prokop,_Stellingen_02.jpg/1920px-St._Prokop,_Stellingen_02.jpg---
 
 ## Overview
 

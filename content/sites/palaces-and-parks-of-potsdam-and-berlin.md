@@ -4,13 +4,13 @@ site_name: "Palaces and Parks of Potsdam and Berlin"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Berlin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Berlin"
+  - "Brandenburg"
 wikidata_id: "Q852427"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg/400px-Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg/800px-Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg/1200px-Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg/1920px-Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg/1920px-Park_Sanssouci,_Belvedere_auf_dem_Klausberg,_Schloss_Sanssouci,_Neues_Palais,_Orangerieschloss,_Universität_Potsdam,_Potsdam,_Luftaufnahme,_Vogelperspektive,_aerial_view,_1.jpg---
 
 ## Overview
 

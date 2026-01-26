@@ -4,19 +4,18 @@ site_name: "Oberfränkisches Textilmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Helmbrechts"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Helmbrechts"
+  - "Bavaria"
 wikidata_id: "Q27831266"
 latitude: 50.23879
 longitude: 11.71892
 images:
-  []
----
+  []---
 
 ## Overview
 

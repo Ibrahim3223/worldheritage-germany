@@ -4,13 +4,13 @@ site_name: "Max-Eyth-Haus"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Kirchheim unter Teck"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kirchheim unter Teck"
+  - "Baden-Württemberg"
 wikidata_id: "Q1491323"
 latitude: 48.6488
 longitude: 9.45004
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eythhaus.JPG/400px-Eythhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eythhaus.JPG/800px-Eythhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eythhaus.JPG/1200px-Eythhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eythhaus.JPG/1920px-Eythhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eythhaus.JPG/1920px-Eythhaus.JPG---
 
 ## Overview
 

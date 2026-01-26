@@ -4,13 +4,13 @@ site_name: "Flensburger Brauerei"
 date: 2026-01-26
 draft: false
 description: "brewery in Flensburg, Schleswig-Holstein, Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q682660"
 latitude: 54.779055555
 longitude: 9.435722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/400px-Flensborg_Bryggeri.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/800px-Flensborg_Bryggeri.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1200px-Flensborg_Bryggeri.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1920px-Flensborg_Bryggeri.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1920px-Flensborg_Bryggeri.JPG---
 
 ## Overview
 

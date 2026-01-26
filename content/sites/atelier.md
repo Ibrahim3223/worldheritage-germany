@@ -4,13 +4,13 @@ site_name: "Atelier"
 date: 2026-01-26
 draft: false
 description: "cinema in Lübeck"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q754049"
 latitude: 53.86511
 longitude: 10.68769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/400px-WP_Atelier.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/800px-WP_Atelier.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/1200px-WP_Atelier.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/1920px-WP_Atelier.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/1920px-WP_Atelier.jpg---
 
 ## Overview
 

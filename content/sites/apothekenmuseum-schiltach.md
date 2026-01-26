@@ -4,13 +4,13 @@ site_name: "Apothekenmuseum Schiltach"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Schiltach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schiltach"
+  - "Baden-Württemberg"
 wikidata_id: "Q620547"
 latitude: 48.2899
 longitude: 8.3434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/400px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/800px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/1200px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/1920px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/1920px-Schiltach_Martkplatz05_Apothekenmuseum.jpg---
 
 ## Overview
 

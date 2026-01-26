@@ -4,13 +4,13 @@ site_name: "Forschungsmuseum Schöningen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schöningen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schöningen"
+  - "Lower Saxony"
 wikidata_id: "Q15058350"
 latitude: 52.12995801
 longitude: 10.99182129
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/400px-Paläon_Eingangshalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/800px-Paläon_Eingangshalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/1200px-Paläon_Eingangshalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/1920px-Paläon_Eingangshalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/1920px-Paläon_Eingangshalle.jpg---
 
 ## Overview
 

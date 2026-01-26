@@ -4,19 +4,18 @@ site_name: "Burg Immendingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Immendingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Immendingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012554"
 latitude: 47.91182
 longitude: 8.73796
 images:
-  []
----
+  []---
 
 ## Overview
 

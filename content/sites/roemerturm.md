@@ -4,13 +4,13 @@ site_name: "Römerturm"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Haigerloch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Haigerloch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012162"
 latitude: 48.365
 longitude: 8.80356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Haigerloch_Römerturm_2010.jpg/400px-Haigerloch_Römerturm_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Haigerloch_Römerturm_2010.jpg/800px-Haigerloch_Römerturm_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Haigerloch_Römerturm_2010.jpg/1200px-Haigerloch_Römerturm_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Haigerloch_Römerturm_2010.jpg/1920px-Haigerloch_Römerturm_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Haigerloch_Römerturm_2010.jpg/1920px-Haigerloch_Römerturm_2010.jpg---
 
 ## Overview
 

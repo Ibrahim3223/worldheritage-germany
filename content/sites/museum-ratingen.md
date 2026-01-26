@@ -4,13 +4,13 @@ site_name: "Museum Ratingen"
 date: 2026-01-26
 draft: false
 description: "local museum in Ratingen, Germany"
-region: "Ratingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ratingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1771700"
 latitude: 51.298782
 longitude: 6.847107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ratingen-Museum-01-01-2016_115.JPG/400px-Ratingen-Museum-01-01-2016_115.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ratingen-Museum-01-01-2016_115.JPG/800px-Ratingen-Museum-01-01-2016_115.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ratingen-Museum-01-01-2016_115.JPG/1200px-Ratingen-Museum-01-01-2016_115.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ratingen-Museum-01-01-2016_115.JPG/1920px-Ratingen-Museum-01-01-2016_115.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ratingen-Museum-01-01-2016_115.JPG/1920px-Ratingen-Museum-01-01-2016_115.JPG---
 
 ## Overview
 

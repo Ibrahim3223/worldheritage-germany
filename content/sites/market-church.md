@@ -4,13 +4,13 @@ site_name: "Market Church"
 date: 2026-01-26
 draft: false
 description: "church in Hanover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q895585"
 latitude: 52.371789047
 longitude: 9.735329191
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/400px-Marktkirche_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/800px-Marktkirche_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/1200px-Marktkirche_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/1920px-Marktkirche_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Marktkirche_Hannover.jpg/1920px-Marktkirche_Hannover.jpg---
 
 ## Overview
 

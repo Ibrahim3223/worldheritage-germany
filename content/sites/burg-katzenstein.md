@@ -4,19 +4,18 @@ site_name: "Burg Katzenstein"
 date: 2026-01-26
 draft: false
 description: "castle in Langenburg, Germany"
-region: "Bächlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bächlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012629"
 latitude: 49.2326
 longitude: 9.86338
 images:
-  []
----
+  []---
 
 ## Overview
 

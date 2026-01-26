@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uta_from_Naumburg.jpg/400px-Uta_from_Naumburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uta_from_Naumburg.jpg/800px-Uta_from_Naumburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uta_from_Naumburg.jpg/1200px-Uta_from_Naumburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uta_from_Naumburg.jpg/1920px-Uta_from_Naumburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uta_from_Naumburg.jpg/1920px-Uta_from_Naumburg.jpg---
 
 ## Overview
 

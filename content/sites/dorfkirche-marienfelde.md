@@ -4,13 +4,13 @@ site_name: "Dorfkirche Marienfelde"
 date: 2026-01-26
 draft: false
 description: "church building in Tempelhof-Schöneberg, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q1244502"
 latitude: 52.412222222
 longitude: 13.3675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/400px-MarienfeldeKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/800px-MarienfeldeKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1200px-MarienfeldeKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1920px-MarienfeldeKirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1920px-MarienfeldeKirche.JPG---
 
 ## Overview
 

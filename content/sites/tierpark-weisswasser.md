@@ -4,19 +4,18 @@ site_name: "Tierpark Weißwasser"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Weißwasser"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Weißwasser"
+  - "Brandenburg"
 wikidata_id: "Q1628644"
 latitude: 51.5114
 longitude: 14.6331
 images:
-  []
----
+  []---
 
 ## Overview
 

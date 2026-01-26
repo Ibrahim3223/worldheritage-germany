@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5627-0017 in Bad Neustadt an der Saale"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bad Neustadt an der Saale, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Bad Neustadt an der Saale"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bad Neustadt an der Saale"
+  - "Bavaria"
 wikidata_id: "Q98167363"
 latitude: 50.31350391
 longitude: 10.227829515
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Haus Schulenburg"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Gera"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gera"
+  - "Saxony"
 wikidata_id: "Q1232270"
 latitude: 50.8671
 longitude: 12.0607
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/400px-Haus_Schulenburg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/800px-Haus_Schulenburg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/1200px-Haus_Schulenburg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/1920px-Haus_Schulenburg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/1920px-Haus_Schulenburg_1.jpg---
 
 ## Overview
 

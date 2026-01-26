@@ -4,19 +4,18 @@ site_name: "Kaulbach-Villa (Ohlstadt)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ohlstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ohlstadt"
+  - "Bavaria"
 wikidata_id: "Q76629024"
 latitude: 47.633022
 longitude: 11.231833
 images:
-  []
----
+  []---
 
 ## Overview
 

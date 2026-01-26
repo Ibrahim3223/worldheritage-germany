@@ -4,13 +4,13 @@ site_name: "Amtsgerichtsgebäude Friedberg"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Friedberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Friedberg"
+  - "Bavaria"
 wikidata_id: "Q116925305"
 latitude: 48.353036115
 longitude: 10.981400198
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/400px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/800px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/1200px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/1920px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/1920px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG---
 
 ## Overview
 

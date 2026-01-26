@@ -4,13 +4,13 @@ site_name: "Mendelssohn-Denkmal"
 date: 2026-01-26
 draft: false
 description: "statue in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q25473863"
 latitude: 51.339488
 longitude: 12.371575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/400px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/800px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/1200px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/1920px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/1920px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg---
 
 ## Overview
 

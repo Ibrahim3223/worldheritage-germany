@@ -4,13 +4,13 @@ site_name: "Protestant Samaritan Church"
 date: 2026-01-26
 draft: false
 description: "church building in Friedrichshain-Kreuzberg, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q2216809"
 latitude: 52.518
 longitude: 13.4665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/400px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/800px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/1200px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/1920px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/1920px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg---
 
 ## Overview
 

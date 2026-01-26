@@ -4,13 +4,13 @@ site_name: "Islamisches Zentrum München"
 date: 2026-01-26
 draft: false
 description: "Zentrum des Islam in München im Stadtbezirk Schwabing-Freimann"
-region: "Schwabing-Freimann"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Schwabing-Freimann"
+  - "Bavaria"
 wikidata_id: "Q1674174"
 latitude: 48.2103
 longitude: 11.6342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/400px-Moschee_Freimann.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/800px-Moschee_Freimann.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1200px-Moschee_Freimann.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1920px-Moschee_Freimann.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1920px-Moschee_Freimann.JPG---
 
 ## Overview
 

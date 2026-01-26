@@ -4,13 +4,13 @@ site_name: "Mainz Reduit"
 date: 2026-01-26
 draft: false
 description: "part of Fortress of Mainz built between 1830 and 1834"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q2136400"
 latitude: 50.0065
 longitude: 8.28133
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/400px-Reduit-Kastel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/800px-Reduit-Kastel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/1200px-Reduit-Kastel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/1920px-Reduit-Kastel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/1920px-Reduit-Kastel.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Deutsches Windkraftmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stemwede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stemwede"
+  - "Lower Saxony"
 wikidata_id: "Q27831267"
 latitude: 52.449301
 longitude: 8.502809
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Syratalbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Plauen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Plauen"
+  - "Bavaria"
 wikidata_id: "Q15060225"
 latitude: 50.50153352
 longitude: 12.11437404
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Plauen,_Syratalbrücke_03.JPG/400px-Plauen,_Syratalbrücke_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Plauen,_Syratalbrücke_03.JPG/800px-Plauen,_Syratalbrücke_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Plauen,_Syratalbrücke_03.JPG/1200px-Plauen,_Syratalbrücke_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Plauen,_Syratalbrücke_03.JPG/1920px-Plauen,_Syratalbrücke_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Plauen,_Syratalbrücke_03.JPG/1920px-Plauen,_Syratalbrücke_03.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burgring"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Goddelsheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Goddelsheim"
+  - "Hesse"
 wikidata_id: "Q113579"
 latitude: 51.1969
 longitude: 8.76099
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "EmslandArena"
 date: 2026-01-26
 draft: false
 description: "Mehrzweckhalle in der niedersächsischen Stadt Lingen im Emsland"
-region: "Lingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Lingen"
+  - "Lower Saxony"
 wikidata_id: "Q15808063"
 latitude: 52.5139
 longitude: 7.31389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/400px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/800px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/1200px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/1920px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/1920px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg---
 
 ## Overview
 

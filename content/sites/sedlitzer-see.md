@@ -4,13 +4,13 @@ site_name: "Sedlitzer See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Senftenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Senftenberg"
+  - "Brandenburg"
 wikidata_id: "Q160978"
 latitude: 51.5454
 longitude: 14.0983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/400px-Sedlitzer-See-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/800px-Sedlitzer-See-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/1200px-Sedlitzer-See-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/1920px-Sedlitzer-See-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/1920px-Sedlitzer-See-03.jpg---
 
 ## Overview
 

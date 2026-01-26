@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/400px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/800px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/1200px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/1920px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/1920px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG---
 
 ## Overview
 

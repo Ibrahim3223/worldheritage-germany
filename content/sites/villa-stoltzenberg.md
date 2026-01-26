@@ -4,13 +4,13 @@ site_name: "Villa Stoltzenberg"
 date: 2026-01-26
 draft: false
 description: "villa in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1434536"
 latitude: 52.488
 longitude: 13.264
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/400px-Trabener_Straße_1_Berlin-Grunewald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/800px-Trabener_Straße_1_Berlin-Grunewald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/1200px-Trabener_Straße_1_Berlin-Grunewald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/1920px-Trabener_Straße_1_Berlin-Grunewald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/1920px-Trabener_Straße_1_Berlin-Grunewald.jpg---
 
 ## Overview
 

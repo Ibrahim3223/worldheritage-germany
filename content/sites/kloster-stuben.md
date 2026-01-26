@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Klosterruine_Stuben_1.JPG/400px-Klosterruine_Stuben_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Klosterruine_Stuben_1.JPG/800px-Klosterruine_Stuben_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Klosterruine_Stuben_1.JPG/1200px-Klosterruine_Stuben_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Klosterruine_Stuben_1.JPG/1920px-Klosterruine_Stuben_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Klosterruine_Stuben_1.JPG/1920px-Klosterruine_Stuben_1.JPG---
 
 ## Overview
 

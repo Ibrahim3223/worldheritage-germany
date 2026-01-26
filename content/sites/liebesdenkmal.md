@@ -4,13 +4,13 @@ site_name: "Liebesdenkmal"
 date: 2026-01-26
 draft: false
 description: "memorial in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1288344"
 latitude: 51.3076
 longitude: 12.3365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/400px-Liebesdenkmal_(Leipzig).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/800px-Liebesdenkmal_(Leipzig).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/1200px-Liebesdenkmal_(Leipzig).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/1920px-Liebesdenkmal_(Leipzig).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/1920px-Liebesdenkmal_(Leipzig).jpg---
 
 ## Overview
 

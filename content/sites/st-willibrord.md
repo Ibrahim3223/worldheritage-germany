@@ -4,13 +4,13 @@ site_name: "St. Willibrord"
 date: 2026-01-26
 draft: false
 description: "church building in Kleve, Germany"
-region: "Kleve"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kleve"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1680439"
 latitude: 51.8134
 longitude: 6.12797
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_st_willibrord_kleve_rindern.jpg/400px-Kirche_st_willibrord_kleve_rindern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_st_willibrord_kleve_rindern.jpg/800px-Kirche_st_willibrord_kleve_rindern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_st_willibrord_kleve_rindern.jpg/1200px-Kirche_st_willibrord_kleve_rindern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_st_willibrord_kleve_rindern.jpg/1920px-Kirche_st_willibrord_kleve_rindern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_st_willibrord_kleve_rindern.jpg/1920px-Kirche_st_willibrord_kleve_rindern.jpg---
 
 ## Overview 
 

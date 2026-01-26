@@ -4,13 +4,13 @@ site_name: "Bandkeramik-Museum Schwanfeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schwanfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwanfeld"
+  - "Bavaria"
 wikidata_id: "Q21035604"
 latitude: 49.91952
 longitude: 10.13746
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bandkeramik-Museum_Schwanfeld_01.jpg/400px-Bandkeramik-Museum_Schwanfeld_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bandkeramik-Museum_Schwanfeld_01.jpg/800px-Bandkeramik-Museum_Schwanfeld_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bandkeramik-Museum_Schwanfeld_01.jpg/1200px-Bandkeramik-Museum_Schwanfeld_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bandkeramik-Museum_Schwanfeld_01.jpg/1920px-Bandkeramik-Museum_Schwanfeld_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bandkeramik-Museum_Schwanfeld_01.jpg/1920px-Bandkeramik-Museum_Schwanfeld_01.jpg---
 
 ## Overview
 

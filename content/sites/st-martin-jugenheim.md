@@ -4,13 +4,13 @@ site_name: "St. Martin (Jugenheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Rhineland-Palatinate, Germany"
-region: "Jugenheim in Rheinhessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jugenheim in Rheinhessen"
+  - "Hesse"
 wikidata_id: "Q2321139"
 latitude: 49.8957
 longitude: 8.08438
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/St._Martin_Jugenheim.jpg/400px-St._Martin_Jugenheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/St._Martin_Jugenheim.jpg/800px-St._Martin_Jugenheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/St._Martin_Jugenheim.jpg/1200px-St._Martin_Jugenheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/St._Martin_Jugenheim.jpg/1920px-St._Martin_Jugenheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/St._Martin_Jugenheim.jpg/1920px-St._Martin_Jugenheim.jpg---
 
 ## Overview
 

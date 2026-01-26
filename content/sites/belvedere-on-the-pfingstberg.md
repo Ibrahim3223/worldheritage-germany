@@ -4,13 +4,13 @@ site_name: "Belvedere on the Pfingstberg"
 date: 2026-01-26
 draft: false
 description: "World Heritage Site in Germany"
-region: "Nördliche Vorstädte"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Nördliche Vorstädte"
+  - "Brandenburg"
 wikidata_id: "Q454078"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/400px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/800px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1200px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1920px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1920px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg---
 
 ## Overview
 

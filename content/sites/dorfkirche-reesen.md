@@ -4,13 +4,13 @@ site_name: "Dorfkirche Reesen"
 date: 2026-01-26
 draft: false
 description: "church building in Burg (bei Magdeburg), Saxony-Anhalt, Germany"
-region: "Burg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Burg"
+  - "Brandenburg"
 wikidata_id: "Q1244644"
 latitude: 52.2842
 longitude: 11.9386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/400px-Reesenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/800px-Reesenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/1200px-Reesenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/1920px-Reesenkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/1920px-Reesenkirche.jpg---
 
 ## Overview
 

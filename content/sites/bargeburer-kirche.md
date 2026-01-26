@@ -4,13 +4,13 @@ site_name: "Bargeburer Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Norden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Norden"
+  - "Lower Saxony"
 wikidata_id: "Q777938"
 latitude: 53.592839
 longitude: 7.223692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/400px-ChurchBargebur.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/800px-ChurchBargebur.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1200px-ChurchBargebur.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1920px-ChurchBargebur.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1920px-ChurchBargebur.jpg---
 
 ## Overview
 

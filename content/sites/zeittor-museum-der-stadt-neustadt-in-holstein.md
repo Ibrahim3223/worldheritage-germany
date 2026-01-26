@@ -4,13 +4,13 @@ site_name: "zeiTTor - Museum der Stadt Neustadt in Holstein"
 date: 2026-01-26
 draft: false
 description: "museum in Neustadt in Holstein, Germany"
-region: "Neustadt in Holstein"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neustadt in Holstein"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1954562"
 latitude: 54.1094
 longitude: 10.8164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/400px-Krempertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/800px-Krempertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1200px-Krempertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1920px-Krempertor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1920px-Krempertor.jpg---
 
 ## Overview
 

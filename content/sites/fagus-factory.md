@@ -4,13 +4,13 @@ site_name: "Fagus Factory"
 date: 2026-01-26
 draft: false
 description: "factory in Alfeld, Germany"
-region: "Alfeld (Leine)"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Alfeld (Leine)"
+  - "Lower Saxony"
 wikidata_id: "Q685476"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/400px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/800px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1200px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1920px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1920px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg---
 
 ## Overview
 

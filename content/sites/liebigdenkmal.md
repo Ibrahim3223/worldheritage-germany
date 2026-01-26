@@ -4,13 +4,13 @@ site_name: "Liebigdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Giessen, Germany"
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q1785563"
 latitude: 50.5852
 longitude: 8.6794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Liebigdenkmal_Gießen.jpg/400px-Liebigdenkmal_Gießen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Liebigdenkmal_Gießen.jpg/800px-Liebigdenkmal_Gießen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Liebigdenkmal_Gießen.jpg/1200px-Liebigdenkmal_Gießen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Liebigdenkmal_Gießen.jpg/1920px-Liebigdenkmal_Gießen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Liebigdenkmal_Gießen.jpg/1920px-Liebigdenkmal_Gießen.jpg---
 
 ## Overview
 

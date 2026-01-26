@@ -4,19 +4,18 @@ site_name: "Affentor"
 date: 2026-01-26
 draft: false
 description: "southernmost of the medieval city gates of Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q382401"
 latitude: 50.1046
 longitude: 8.69026
 images:
-  []
----
+  []---
 
 ## Overview
 

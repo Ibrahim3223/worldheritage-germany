@@ -4,13 +4,13 @@ site_name: "Church in Neuenkirchen"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Neuenkirchen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuenkirchen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742642"
 latitude: 53.799
 longitude: 13.5721
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/400px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/800px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/1200px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/1920px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/1920px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg---
 
 ## Overview
 

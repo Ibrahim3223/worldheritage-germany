@@ -4,13 +4,13 @@ site_name: "Burg Lohra"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Großlohra"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Großlohra"
+  - "Lower Saxony"
 wikidata_id: "Q1013013"
 latitude: 51.4139
 longitude: 10.6303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/400px-Lohra_Ruine_Bergfried.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/800px-Lohra_Ruine_Bergfried.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1200px-Lohra_Ruine_Bergfried.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1920px-Lohra_Ruine_Bergfried.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1920px-Lohra_Ruine_Bergfried.JPG---
 
 ## Overview
 

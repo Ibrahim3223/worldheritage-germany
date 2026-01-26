@@ -4,19 +4,18 @@ site_name: "Burg Gerkendahl"
 date: 2026-01-26
 draft: false
 description: "castle in Iserlohn, Germany"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1011942"
 latitude: 51.4625
 longitude: 7.69249
 images:
-  []
----
+  []---
 
 ## Overview
 

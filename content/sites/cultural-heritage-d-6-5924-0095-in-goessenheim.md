@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5924-0095 in Gössenheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gössenheim, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Gössenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Gössenheim"
+  - "Bavaria"
 wikidata_id: "Q98169513"
 latitude: 50.020119999
 longitude: 9.780634102
 images:
-  []
----
+  []---
 
 ## Overview
 

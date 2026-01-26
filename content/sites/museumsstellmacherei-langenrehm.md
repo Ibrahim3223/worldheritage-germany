@@ -4,13 +4,13 @@ site_name: "Museumsstellmacherei Langenrehm"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rosengarten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rosengarten"
+  - "Lower Saxony"
 wikidata_id: "Q50445462"
 latitude: 53.39797
 longitude: 9.8592
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/400px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/800px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/1200px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/1920px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/1920px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg---
 
 ## Overview
 

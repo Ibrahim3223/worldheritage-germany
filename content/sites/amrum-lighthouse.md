@@ -4,13 +4,13 @@ site_name: "Amrum Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Amrum, Schleswig-Holstein, Germany"
-region: "Nebel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Nebel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q20669"
 latitude: 54.6312
 longitude: 8.35458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/400px-Amrum_M_Suessen-3362-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/800px-Amrum_M_Suessen-3362-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/1200px-Amrum_M_Suessen-3362-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/1920px-Amrum_M_Suessen-3362-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/1920px-Amrum_M_Suessen-3362-2.jpg---
 
 ## Overview
 

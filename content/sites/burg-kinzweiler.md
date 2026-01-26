@@ -4,13 +4,13 @@ site_name: "Burg Kinzweiler"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151537"
 latitude: 50.8458
 longitude: 6.23083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/400px-BurgKinzweiler02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/800px-BurgKinzweiler02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/1200px-BurgKinzweiler02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/1920px-BurgKinzweiler02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/1920px-BurgKinzweiler02.jpg---
 
 ## Overview
 

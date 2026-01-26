@@ -4,13 +4,13 @@ site_name: "Palais Spinrath"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2047178"
 latitude: 51.2292
 longitude: 6.7739
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/400px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/800px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/1200px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/1920px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/1920px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg---
 
 ## Overview
 

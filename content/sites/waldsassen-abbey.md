@@ -4,13 +4,13 @@ site_name: "Waldsassen Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Waldsassen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Waldsassen"
+  - "Bavaria"
 wikidata_id: "Q531466"
 latitude: 50.004105821
 longitude: 12.309321121
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Waldsassen.jpg/400px-Kloster_Waldsassen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Waldsassen.jpg/800px-Kloster_Waldsassen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Waldsassen.jpg/1200px-Kloster_Waldsassen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Waldsassen.jpg/1920px-Kloster_Waldsassen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Waldsassen.jpg/1920px-Kloster_Waldsassen.jpg---
 
 ## Overview
 

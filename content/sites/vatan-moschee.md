@@ -4,13 +4,13 @@ site_name: "Vatan-Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee in Bielefeld"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q2511215"
 latitude: 51.98
 longitude: 8.51722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/400px-Brackwede_DITIB-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/800px-Brackwede_DITIB-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/1200px-Brackwede_DITIB-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/1920px-Brackwede_DITIB-Moschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/1920px-Brackwede_DITIB-Moschee.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Raphaelskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Cleebronn, Heilbronn district, Baden-Württemberg, Germany"
-region: "Cleebronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cleebronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q2131448"
 latitude: 49.0447
 longitude: 9.0392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cleebronn-kirche2007.jpg/400px-Cleebronn-kirche2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cleebronn-kirche2007.jpg/800px-Cleebronn-kirche2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cleebronn-kirche2007.jpg/1200px-Cleebronn-kirche2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cleebronn-kirche2007.jpg/1920px-Cleebronn-kirche2007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cleebronn-kirche2007.jpg/1920px-Cleebronn-kirche2007.jpg---
 
 ## Overview
 

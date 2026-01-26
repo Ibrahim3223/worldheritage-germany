@@ -4,13 +4,13 @@ site_name: "Darnsee"
 date: 2026-01-26
 draft: false
 description: "lake in Bramsche, Lower Saxony, Germany"
-region: "Bramsche"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Bramsche"
+  - "Lower Saxony"
 wikidata_id: "Q1166534"
 latitude: 52.421388888
 longitude: 7.999722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/400px-Darnsee_Bramsche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/800px-Darnsee_Bramsche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/1200px-Darnsee_Bramsche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/1920px-Darnsee_Bramsche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/1920px-Darnsee_Bramsche.jpg---
 
 ## Overview
 

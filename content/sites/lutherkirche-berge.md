@@ -4,13 +4,13 @@ site_name: "Lutherkirche (Berge)"
 date: 2026-01-26
 draft: false
 description: "church building in Berge, Lower Saxony, Germany"
-region: "Berge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Berge"
+  - "Lower Saxony"
 wikidata_id: "Q1877928"
 latitude: 52.6212
 longitude: 7.74611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/400px-Evg._Kirche_Berge-.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/800px-Evg._Kirche_Berge-.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/1200px-Evg._Kirche_Berge-.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/1920px-Evg._Kirche_Berge-.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/1920px-Evg._Kirche_Berge-.JPG---
 
 ## Overview
 

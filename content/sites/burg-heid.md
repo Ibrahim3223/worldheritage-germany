@@ -4,13 +4,13 @@ site_name: "Burg Heid"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schillingen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schillingen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1012246"
 latitude: 49.6417
 longitude: 6.72917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/400px-Burg_Heid_014x.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/800px-Burg_Heid_014x.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1200px-Burg_Heid_014x.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1920px-Burg_Heid_014x.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1920px-Burg_Heid_014x.jpg---
 
 ## Overview
 

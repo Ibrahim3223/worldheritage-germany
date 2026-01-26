@@ -4,19 +4,18 @@ site_name: "Heimatmuseum der Bürgergemeinschaft Wülferode"
 date: 2026-01-26
 draft: false
 description: "local museum in Hannover, Germany"
-region: "Kirchrode-Bemerode-Wülferode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kirchrode-Bemerode-Wülferode"
+  - "Lower Saxony"
 wikidata_id: "Q76636148"
 latitude: 52.326549
 longitude: 9.850824
 images:
-  []
----
+  []---
 
 ## Overview
 

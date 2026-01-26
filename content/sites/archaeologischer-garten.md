@@ -4,13 +4,13 @@ site_name: "Archäologischer Garten"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Innenstadt, Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q187163"
 latitude: 50.1106
 longitude: 8.6845
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/400px-Archaeologischer-garten-2010-ffm-052.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/800px-Archaeologischer-garten-2010-ffm-052.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/1200px-Archaeologischer-garten-2010-ffm-052.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/1920px-Archaeologischer-garten-2010-ffm-052.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/1920px-Archaeologischer-garten-2010-ffm-052.jpg---
 
 ## Overview
 

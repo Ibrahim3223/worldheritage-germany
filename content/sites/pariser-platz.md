@@ -4,13 +4,13 @@ site_name: "Pariser Platz"
 date: 2026-01-26
 draft: false
 description: "town square in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q156716"
 latitude: 52.516388888
 longitude: 13.378888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/400px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/800px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/1200px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/1920px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/1920px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg---
 
 ## Overview
 

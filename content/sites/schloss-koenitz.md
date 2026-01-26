@@ -4,13 +4,13 @@ site_name: "Schloss Könitz"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Unterwellenborn"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Unterwellenborn"
+  - "Thuringia"
 wikidata_id: "Q1012778"
 latitude: 50.6516
 longitude: 11.4897
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/400px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/800px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/1200px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/1920px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/1920px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg---
 
 ## Overview
 

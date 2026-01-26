@@ -4,13 +4,13 @@ site_name: "Büchnerhaus"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Goddelau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goddelau"
+  - "Hesse"
 wikidata_id: "Q1020395"
 latitude: 49.8355
 longitude: 8.50012
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goddelau_Geburtshaus_Büchner_20110309.jpg/400px-Goddelau_Geburtshaus_Büchner_20110309.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goddelau_Geburtshaus_Büchner_20110309.jpg/800px-Goddelau_Geburtshaus_Büchner_20110309.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goddelau_Geburtshaus_Büchner_20110309.jpg/1200px-Goddelau_Geburtshaus_Büchner_20110309.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goddelau_Geburtshaus_Büchner_20110309.jpg/1920px-Goddelau_Geburtshaus_Büchner_20110309.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goddelau_Geburtshaus_Büchner_20110309.jpg/1920px-Goddelau_Geburtshaus_Büchner_20110309.jpg---
 
 ## Overview
 

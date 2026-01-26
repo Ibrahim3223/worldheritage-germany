@@ -4,13 +4,13 @@ site_name: "Fürth Crime Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fürth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fürth"
+  - "Bavaria"
 wikidata_id: "Q1788979"
 latitude: 49.47691
 longitude: 10.98887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/400px-Fuerth_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/800px-Fuerth_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/1200px-Fuerth_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/1920px-Fuerth_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerth_Rathaus.jpg/1920px-Fuerth_Rathaus.jpg---
 
 ## Overview
 

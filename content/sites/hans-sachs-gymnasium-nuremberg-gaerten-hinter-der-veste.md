@@ -4,13 +4,13 @@ site_name: "Hans-Sachs-Gymnasium (Nuremberg-Gärten hinter der Veste)"
 date: 2026-01-26
 draft: false
 description: "gymnasium in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1578192"
 latitude: 49.462777777
 longitude: 11.085555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/400px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/800px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/1200px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/1920px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/1920px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg---
 
 ## Overview
 

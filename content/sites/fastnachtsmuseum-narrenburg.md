@@ -4,13 +4,13 @@ site_name: "Fastnachtsmuseum Narrenburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hettingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hettingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1344377"
 latitude: 48.217
 longitude: 9.23328
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fasnachtsmuseum_Narrenburg.jpg/400px-Fasnachtsmuseum_Narrenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fasnachtsmuseum_Narrenburg.jpg/800px-Fasnachtsmuseum_Narrenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fasnachtsmuseum_Narrenburg.jpg/1200px-Fasnachtsmuseum_Narrenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fasnachtsmuseum_Narrenburg.jpg/1920px-Fasnachtsmuseum_Narrenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fasnachtsmuseum_Narrenburg.jpg/1920px-Fasnachtsmuseum_Narrenburg.jpg---
 
 ## Overview
 

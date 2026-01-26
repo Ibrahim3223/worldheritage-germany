@@ -4,13 +4,13 @@ site_name: "Goslarer Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q21285786"
 latitude: 51.904589
 longitude: 10.429566
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/400px-Goslarer_Museum_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/800px-Goslarer_Museum_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/1200px-Goslarer_Museum_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/1920px-Goslarer_Museum_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/1920px-Goslarer_Museum_03.jpg---
 
 ## Overview
 

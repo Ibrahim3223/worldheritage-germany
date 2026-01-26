@@ -4,13 +4,13 @@ site_name: "Reisenbach Telecommunication Tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Mudau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Mudau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1243984"
 latitude: 49.5067
 longitude: 9.11519
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fernmeldeturm_Reisenbach.jpg/400px-Fernmeldeturm_Reisenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fernmeldeturm_Reisenbach.jpg/800px-Fernmeldeturm_Reisenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fernmeldeturm_Reisenbach.jpg/1200px-Fernmeldeturm_Reisenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fernmeldeturm_Reisenbach.jpg/1920px-Fernmeldeturm_Reisenbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fernmeldeturm_Reisenbach.jpg/1920px-Fernmeldeturm_Reisenbach.jpg---
 
 ## Overview
 

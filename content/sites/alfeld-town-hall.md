@@ -4,13 +4,13 @@ site_name: "Alfeld town hall"
 date: 2026-01-26
 draft: false
 description: "town hall in Alfeld (Leine), Germany"
-region: "Alfeld (Leine)"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Alfeld (Leine)"
+  - "Lower Saxony"
 wikidata_id: "Q123153234"
 latitude: 51.98672
 longitude: 9.82554
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alfeld_Rathaus_1_2005.jpg/400px-Alfeld_Rathaus_1_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alfeld_Rathaus_1_2005.jpg/800px-Alfeld_Rathaus_1_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alfeld_Rathaus_1_2005.jpg/1200px-Alfeld_Rathaus_1_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alfeld_Rathaus_1_2005.jpg/1920px-Alfeld_Rathaus_1_2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alfeld_Rathaus_1_2005.jpg/1920px-Alfeld_Rathaus_1_2005.jpg---
 
 ## Overview
 

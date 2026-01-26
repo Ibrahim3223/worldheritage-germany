@@ -4,13 +4,13 @@ site_name: "St. Hubert Chapel"
 date: 2026-01-26
 draft: false
 description: "chapel in Düsseldorf-Angermund, Germany"
-region: "District 5"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "District 5"
+  - "Lower Saxony"
 wikidata_id: "Q1325799"
 latitude: 51.3481
 longitude: 6.75333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/400px-Hubertuskapelle_D.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/800px-Hubertuskapelle_D.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/1200px-Hubertuskapelle_D.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/1920px-Hubertuskapelle_D.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/1920px-Hubertuskapelle_D.JPG---
 
 ## Overview
 

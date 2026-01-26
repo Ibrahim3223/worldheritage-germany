@@ -4,13 +4,13 @@ site_name: "Katholische Kirche Maulburg"
 date: 2026-01-26
 draft: false
 description: "former church building in Maulburg, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Maulburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Maulburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2322388"
 latitude: 47.64557869
 longitude: 7.78004765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Maulburg_-_Katholische_Kirche1b.jpg/400px-Maulburg_-_Katholische_Kirche1b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Maulburg_-_Katholische_Kirche1b.jpg/800px-Maulburg_-_Katholische_Kirche1b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Maulburg_-_Katholische_Kirche1b.jpg/1200px-Maulburg_-_Katholische_Kirche1b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Maulburg_-_Katholische_Kirche1b.jpg/1920px-Maulburg_-_Katholische_Kirche1b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Maulburg_-_Katholische_Kirche1b.jpg/1920px-Maulburg_-_Katholische_Kirche1b.jpg---
 
 ## Overview
 

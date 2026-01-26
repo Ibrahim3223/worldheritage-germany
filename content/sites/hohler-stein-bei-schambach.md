@@ -4,13 +4,13 @@ site_name: "Hohler Stein (bei Schambach)"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Böhmfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Böhmfeld"
+  - "Bavaria"
 wikidata_id: "Q1624039"
 latitude: 48.8888
 longitude: 11.3683
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/400px-Hohler_Stein_Eingangsportal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/800px-Hohler_Stein_Eingangsportal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1200px-Hohler_Stein_Eingangsportal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1920px-Hohler_Stein_Eingangsportal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1920px-Hohler_Stein_Eingangsportal.jpg---
 
 ## Overview
 

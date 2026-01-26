@@ -4,13 +4,13 @@ site_name: "St. Magnus"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Marsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marsberg"
+  - "Hesse"
 wikidata_id: "Q1623233"
 latitude: 51.4602
 longitude: 8.85426
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Magnus_Marsberg_ShiftN.jpg/400px-St_Magnus_Marsberg_ShiftN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Magnus_Marsberg_ShiftN.jpg/800px-St_Magnus_Marsberg_ShiftN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Magnus_Marsberg_ShiftN.jpg/1200px-St_Magnus_Marsberg_ShiftN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Magnus_Marsberg_ShiftN.jpg/1920px-St_Magnus_Marsberg_ShiftN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Magnus_Marsberg_ShiftN.jpg/1920px-St_Magnus_Marsberg_ShiftN.jpg---
 
 ## Overview
 

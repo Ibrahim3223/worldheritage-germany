@@ -4,13 +4,13 @@ site_name: "Explora"
 date: 2026-01-26
 draft: false
 description: "museum in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1384526"
 latitude: 50.1278
 longitude: 8.689525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/400px-Frankfurt,_Explora_Museum_Außenansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/800px-Frankfurt,_Explora_Museum_Außenansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/1200px-Frankfurt,_Explora_Museum_Außenansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/1920px-Frankfurt,_Explora_Museum_Außenansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/1920px-Frankfurt,_Explora_Museum_Außenansicht.JPG---
 
 ## Overview
 

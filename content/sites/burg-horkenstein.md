@@ -4,13 +4,13 @@ site_name: "Burg Horkenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1012488"
 latitude: 51.4243
 longitude: 7.14583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Horkenstein_Bochum_1900.jpg/400px-Burg_Horkenstein_Bochum_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Horkenstein_Bochum_1900.jpg/800px-Burg_Horkenstein_Bochum_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Horkenstein_Bochum_1900.jpg/1200px-Burg_Horkenstein_Bochum_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Horkenstein_Bochum_1900.jpg/1920px-Burg_Horkenstein_Bochum_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Horkenstein_Bochum_1900.jpg/1920px-Burg_Horkenstein_Bochum_1900.jpg---
 
 ## Overview
 

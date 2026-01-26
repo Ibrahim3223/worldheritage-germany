@@ -4,13 +4,13 @@ site_name: "Village church Nudow"
 date: 2026-01-26
 draft: false
 description: "church building in Nuthetal, Potsdam-Mittelmark district, Brandenburg state, Germany"
-region: "Nuthetal"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nuthetal"
+  - "Berlin"
 wikidata_id: "Q1244567"
 latitude: 52.327777777
 longitude: 13.162388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/400px-Dorfkirche_Nudow_A.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/800px-Dorfkirche_Nudow_A.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/1200px-Dorfkirche_Nudow_A.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/1920px-Dorfkirche_Nudow_A.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/1920px-Dorfkirche_Nudow_A.jpg---
 
 ## Overview
 

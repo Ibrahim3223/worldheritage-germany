@@ -4,13 +4,13 @@ site_name: "Dämeritzsee"
 date: 2026-01-26
 draft: false
 description: "lake in Treptow-Köpenick, Brandenburg, Germany"
-region: "Oder-Spree District"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Oder-Spree District"
+  - "Berlin"
 wikidata_id: "Q1269642"
 latitude: 52.422777777
 longitude: 13.733888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daemeritzsee.jpg/400px-Daemeritzsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daemeritzsee.jpg/800px-Daemeritzsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daemeritzsee.jpg/1200px-Daemeritzsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daemeritzsee.jpg/1920px-Daemeritzsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daemeritzsee.jpg/1920px-Daemeritzsee.jpg---
 
 ## Overview
 

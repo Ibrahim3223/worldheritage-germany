@@ -4,13 +4,13 @@ site_name: "Herrenhaus Zühr"
 date: 2026-01-26
 draft: false
 description: "Historisches Gebäude mit Parkanlage in Mecklenburg-Vorpommern"
-region: "Wittenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wittenburg"
+  - "Lower Saxony"
 wikidata_id: "Q17322255"
 latitude: 53.436857
 longitude: 11.027471
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/400px-Herrenhaus_Zühr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/800px-Herrenhaus_Zühr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/1200px-Herrenhaus_Zühr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/1920px-Herrenhaus_Zühr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/1920px-Herrenhaus_Zühr.jpg---
 
 ## Overview
 

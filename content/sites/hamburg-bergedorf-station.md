@@ -4,13 +4,13 @@ site_name: "Hamburg-Bergedorf station"
 date: 2026-01-26
 draft: false
 description: "railway station in Hamburg, Germany"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q320225"
 latitude: 53.48944444
 longitude: 10.20638889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/400px-Bf_Bergedorf_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/800px-Bf_Bergedorf_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/1200px-Bf_Bergedorf_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/1920px-Bf_Bergedorf_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/1920px-Bf_Bergedorf_2014.jpg---
 
 ## Overview
 

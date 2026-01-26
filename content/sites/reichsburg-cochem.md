@@ -4,13 +4,13 @@ site_name: "Reichsburg Cochem"
 date: 2026-01-26
 draft: false
 description: "fortification in Germany"
-region: "Cochem"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cochem"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q506465"
 latitude: 50.1422
 longitude: 7.16694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Reichsburg_Cochem.jpg/400px-Reichsburg_Cochem.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Reichsburg_Cochem.jpg/800px-Reichsburg_Cochem.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Reichsburg_Cochem.jpg/1200px-Reichsburg_Cochem.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Reichsburg_Cochem.jpg/1920px-Reichsburg_Cochem.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Reichsburg_Cochem.jpg/1920px-Reichsburg_Cochem.jpg---
 
 ## Overview
 

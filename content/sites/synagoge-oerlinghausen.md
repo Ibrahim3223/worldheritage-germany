@@ -4,13 +4,13 @@ site_name: "Synagoge Oerlinghausen"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Oerlinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Oerlinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q1112421"
 latitude: 51.9593
 longitude: 8.65964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Synagoge_Oerlinghausen.jpg/400px-Synagoge_Oerlinghausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Synagoge_Oerlinghausen.jpg/800px-Synagoge_Oerlinghausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Synagoge_Oerlinghausen.jpg/1200px-Synagoge_Oerlinghausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Synagoge_Oerlinghausen.jpg/1920px-Synagoge_Oerlinghausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Synagoge_Oerlinghausen.jpg/1920px-Synagoge_Oerlinghausen.jpg---
 
 ## Overview
 

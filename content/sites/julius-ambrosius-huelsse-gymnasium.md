@@ -4,13 +4,13 @@ site_name: "Julius-Ambrosius-Hülße-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "Gymnasium in Germany in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1712427"
 latitude: 51.0126
 longitude: 13.7915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/400px-Julius-Ambrosius-Hülße-Gymnasium.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/800px-Julius-Ambrosius-Hülße-Gymnasium.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/1200px-Julius-Ambrosius-Hülße-Gymnasium.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/1920px-Julius-Ambrosius-Hülße-Gymnasium.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/1920px-Julius-Ambrosius-Hülße-Gymnasium.JPG---
 
 ## Overview
 

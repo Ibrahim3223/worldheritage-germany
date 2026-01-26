@@ -4,13 +4,13 @@ site_name: "Duve-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1268054"
 latitude: 52.37077
 longitude: 9.73068
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duve_Brunnen_September_2010.jpg/400px-Duve_Brunnen_September_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duve_Brunnen_September_2010.jpg/800px-Duve_Brunnen_September_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duve_Brunnen_September_2010.jpg/1200px-Duve_Brunnen_September_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duve_Brunnen_September_2010.jpg/1920px-Duve_Brunnen_September_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duve_Brunnen_September_2010.jpg/1920px-Duve_Brunnen_September_2010.jpg---
 
 ## Overview
 

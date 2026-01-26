@@ -4,19 +4,18 @@ site_name: "Museum der Stadt Rüsselsheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rüsselsheim am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rüsselsheim am Main"
+  - "Hesse"
 wikidata_id: "Q2326319"
 latitude: 49.9994
 longitude: 8.41907
 images:
-  []
----
+  []---
 
 ## Overview
 

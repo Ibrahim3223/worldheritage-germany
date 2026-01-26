@@ -4,13 +4,13 @@ site_name: "Kreuzkapelle"
 date: 2026-01-26
 draft: false
 description: "Catholic pilgrimage church"
-region: "Bad Camberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Camberg"
+  - "Hesse"
 wikidata_id: "Q1788313"
 latitude: 50.3075
 longitude: 8.2862
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kreuzkapelle_Bad_Camberg_aussen.JPG/400px-Kreuzkapelle_Bad_Camberg_aussen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kreuzkapelle_Bad_Camberg_aussen.JPG/800px-Kreuzkapelle_Bad_Camberg_aussen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kreuzkapelle_Bad_Camberg_aussen.JPG/1200px-Kreuzkapelle_Bad_Camberg_aussen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kreuzkapelle_Bad_Camberg_aussen.JPG/1920px-Kreuzkapelle_Bad_Camberg_aussen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kreuzkapelle_Bad_Camberg_aussen.JPG/1920px-Kreuzkapelle_Bad_Camberg_aussen.JPG---
 
 ## Overview
 

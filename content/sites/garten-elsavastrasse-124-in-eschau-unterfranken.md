@@ -4,19 +4,18 @@ site_name: "Garten Elsavastraße 124 in Eschau (Unterfranken)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-76-123-20 (1) in Eschau (Unterfranken), Bavaria"
-region: "Eschau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Eschau"
+  - "Bavaria"
 wikidata_id: "Q98485266"
 latitude: 49.82285601
 longitude: 9.253718508
 images:
-  []
----
+  []---
 
 ## Overview
 

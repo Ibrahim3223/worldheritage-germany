@@ -4,13 +4,13 @@ site_name: "Burg Hemmerich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bornheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bornheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012299"
 latitude: 50.762
 longitude: 6.92997
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/400px-Burg_Hemmerich,_Bornheim_007-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/800px-Burg_Hemmerich,_Bornheim_007-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/1200px-Burg_Hemmerich,_Bornheim_007-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/1920px-Burg_Hemmerich,_Bornheim_007-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/1920px-Burg_Hemmerich,_Bornheim_007-.jpg---
 
 ## Overview
 

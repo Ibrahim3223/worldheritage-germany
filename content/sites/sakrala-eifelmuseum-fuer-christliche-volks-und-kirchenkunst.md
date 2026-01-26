@@ -4,19 +4,18 @@ site_name: "SAKRALA – Eifelmuseum für christliche Volks- und Kirchenkunst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Simmerath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Simmerath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q16856485"
 latitude: 50.589533888
 longitude: 6.315998055
 images:
-  []
----
+  []---
 
 ## Overview
 

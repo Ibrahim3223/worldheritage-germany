@@ -4,13 +4,13 @@ site_name: "Meersburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Baden-Württemberg, Germany"
-region: "Meersburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meersburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q552305"
 latitude: 47.6939
 longitude: 9.270516
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/400px-Bodensee_Meersburg_asv2022-10_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/800px-Bodensee_Meersburg_asv2022-10_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/1200px-Bodensee_Meersburg_asv2022-10_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/1920px-Bodensee_Meersburg_asv2022-10_img2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/1920px-Bodensee_Meersburg_asv2022-10_img2.jpg---
 
 ## Overview
 

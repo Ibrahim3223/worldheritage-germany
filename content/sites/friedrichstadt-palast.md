@@ -4,13 +4,13 @@ site_name: "Friedrichstadt-Palast"
 date: 2026-01-26
 draft: false
 description: "revue theatre in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q565670"
 latitude: 52.52393
 longitude: 13.3881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/400px-Friedrichstadtpalast-BLN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/800px-Friedrichstadtpalast-BLN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/1200px-Friedrichstadtpalast-BLN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/1920px-Friedrichstadtpalast-BLN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/1920px-Friedrichstadtpalast-BLN.jpg---
 
 ## Overview
 

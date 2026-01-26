@@ -4,13 +4,13 @@ site_name: "St. Maria unter dem Kreuz"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Unterrath, Germany"
-region: "Unterrath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Unterrath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1378300"
 latitude: 51.274
 longitude: 6.79222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/400px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/800px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/1200px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/1920px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/1920px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG---
 
 ## Overview
 

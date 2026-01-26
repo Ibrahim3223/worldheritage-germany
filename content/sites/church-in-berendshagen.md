@@ -4,13 +4,13 @@ site_name: "Church in Berendshagen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Satow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Satow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244133"
 latitude: 53.9467
 longitude: 11.8329
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/400px-Berendshagen_Kirche_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/800px-Berendshagen_Kirche_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1200px-Berendshagen_Kirche_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1920px-Berendshagen_Kirche_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1920px-Berendshagen_Kirche_2.jpg---
 
 ## Overview
 

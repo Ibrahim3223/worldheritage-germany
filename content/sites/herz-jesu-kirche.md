@@ -4,13 +4,13 @@ site_name: "Herz-Jesu-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1360969"
 latitude: 51.9554
 longitude: 7.64877
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/400px-Herz-Jesu-Kirche_1_(Münster).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/800px-Herz-Jesu-Kirche_1_(Münster).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/1200px-Herz-Jesu-Kirche_1_(Münster).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/1920px-Herz-Jesu-Kirche_1_(Münster).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/1920px-Herz-Jesu-Kirche_1_(Münster).JPG---
 
 ## Overview
 

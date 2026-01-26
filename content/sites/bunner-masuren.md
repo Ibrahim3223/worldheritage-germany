@@ -4,19 +4,18 @@ site_name: "Bunner Masuren"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Löningen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Löningen"
+  - "Lower Saxony"
 wikidata_id: "Q1009638"
 latitude: 52.7303
 longitude: 7.84
 images:
-  []
----
+  []---
 
 ## Overview
 

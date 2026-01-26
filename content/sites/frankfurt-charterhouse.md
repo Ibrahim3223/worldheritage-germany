@@ -4,19 +4,18 @@ site_name: "Frankfurt Charterhouse"
 date: 2026-01-26
 draft: false
 description: "carthusian monastery in Frankfurt an der Oder, Germany"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q691178"
 latitude: 52.333333
 longitude: 14.553139
 images:
-  []
----
+  []---
 
 ## Overview
 

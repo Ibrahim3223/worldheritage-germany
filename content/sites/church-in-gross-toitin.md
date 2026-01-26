@@ -4,13 +4,13 @@ site_name: "Church in Groß Toitin"
 date: 2026-01-26
 draft: false
 description: "church building in Jarmen, Germany"
-region: "Jarmen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jarmen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1728386"
 latitude: 53.9036
 longitude: 13.3836
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/400px-Groß_Toitin_Kirche_Südost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/800px-Groß_Toitin_Kirche_Südost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/1200px-Groß_Toitin_Kirche_Südost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/1920px-Groß_Toitin_Kirche_Südost.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/1920px-Groß_Toitin_Kirche_Südost.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Tawhid-Moschee"
 date: 2026-01-26
 draft: false
 description: "mosque in Dietzenbach, Hesse, Germany"
-region: "Dietzenbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Dietzenbach"
+  - "Hesse"
 wikidata_id: "Q117319661"
 latitude: 50.00699
 longitude: 8.7928
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dietzenbach_Tawhid-Moschee.jpg/400px-Dietzenbach_Tawhid-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dietzenbach_Tawhid-Moschee.jpg/800px-Dietzenbach_Tawhid-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dietzenbach_Tawhid-Moschee.jpg/1200px-Dietzenbach_Tawhid-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dietzenbach_Tawhid-Moschee.jpg/1920px-Dietzenbach_Tawhid-Moschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dietzenbach_Tawhid-Moschee.jpg/1920px-Dietzenbach_Tawhid-Moschee.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Catherine's church Brandenburg"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg an der Havel, Germany"
-region: "Brandenburg an der Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brandenburg an der Havel"
+  - "Brandenburg"
 wikidata_id: "Q1303552"
 latitude: 52.4089
 longitude: 12.5616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/400px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/800px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/1200px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/1920px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/1920px-Brandenburg_St-Katharinenkirche_18_(MK).jpg---
 
 ## Overview
 

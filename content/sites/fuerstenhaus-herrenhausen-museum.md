@@ -4,13 +4,13 @@ site_name: "Fürstenhaus Herrenhausen-Museum"
 date: 2026-01-26
 draft: false
 description: "palais and former museum in Hannover, Germany"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q1483277"
 latitude: 52.3921
 longitude: 9.69267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg/400px-Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg/800px-Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg/1200px-Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg/1920px-Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg/1920px-Fürstenhaus_Hannover_Gräfin_Delitz_Alte_Herrenhäuser_Straße_14_Südseite.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Trausnitz Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q512271"
 latitude: 48.531675138
 longitude: 12.152121628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/400px-Burg_Trausnitz_Landshut.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/800px-Burg_Trausnitz_Landshut.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/1200px-Burg_Trausnitz_Landshut.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/1920px-Burg_Trausnitz_Landshut.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/1920px-Burg_Trausnitz_Landshut.jpg---
 
 ## Overview
 

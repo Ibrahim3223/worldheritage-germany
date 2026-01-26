@@ -4,19 +4,18 @@ site_name: "Alt-Lichtenegg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Illmensee"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Illmensee"
+  - "Baden-Württemberg"
 wikidata_id: "Q432955"
 latitude: 47.827716
 longitude: 9.380463
 images:
-  []
----
+  []---
 
 ## Overview
 

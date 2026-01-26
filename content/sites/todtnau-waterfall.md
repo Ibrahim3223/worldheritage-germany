@@ -4,13 +4,13 @@ site_name: "Todtnau Waterfall"
 date: 2026-01-26
 draft: false
 description: "waterfall in the Southern Black Forest, Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q1263811"
 latitude: 47.843482
 longitude: 7.939199
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/00_0838_Todtnauer_Wasserfall.jpg/400px-00_0838_Todtnauer_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/00_0838_Todtnauer_Wasserfall.jpg/800px-00_0838_Todtnauer_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/00_0838_Todtnauer_Wasserfall.jpg/1200px-00_0838_Todtnauer_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/00_0838_Todtnauer_Wasserfall.jpg/1920px-00_0838_Todtnauer_Wasserfall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/00_0838_Todtnauer_Wasserfall.jpg/1920px-00_0838_Todtnauer_Wasserfall.jpg---
 
 ## Overview
 

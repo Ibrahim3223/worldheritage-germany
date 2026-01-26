@@ -4,13 +4,13 @@ site_name: "St. Reinold"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Vennhausen, Germany"
-region: "Vennhausen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vennhausen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2322985"
 latitude: 51.2158
 longitude: 6.84878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg/400px-St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg/800px-St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg/1200px-St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg/1920px-St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg/1920px-St._Reinold_in_Duesseldorf-Vennhausen,_von_Westen.jpg---
 
 ## Overview
 

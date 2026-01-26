@@ -4,13 +4,13 @@ site_name: "Aegidiischanze"
 date: 2026-01-26
 draft: false
 description: "park in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q380621"
 latitude: 51.9569
 longitude: 7.62083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/400px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/800px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/1200px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/1920px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/1920px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg---
 
 ## Overview
 

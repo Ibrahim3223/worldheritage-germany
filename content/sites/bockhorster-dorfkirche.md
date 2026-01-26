@@ -4,13 +4,13 @@ site_name: "Bockhorster Dorfkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Versmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Versmold"
+  - "Lower Saxony"
 wikidata_id: "Q1380162"
 latitude: 52.074
 longitude: 8.20329
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/400px-Bockhorst_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/800px-Bockhorst_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/1200px-Bockhorst_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/1920px-Bockhorst_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/1920px-Bockhorst_Dorfkirche.jpg---
 
 ## Overview
 

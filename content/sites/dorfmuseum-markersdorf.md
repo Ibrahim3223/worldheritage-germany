@@ -4,13 +4,13 @@ site_name: "Dorfmuseum Markersdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Markersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Markersdorf"
+  - "Saxony"
 wikidata_id: "Q41367761"
 latitude: 51.14699
 longitude: 14.89086
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/400px-Dorfmuseum_Markersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/800px-Dorfmuseum_Markersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/1200px-Dorfmuseum_Markersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/1920px-Dorfmuseum_Markersdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/1920px-Dorfmuseum_Markersdorf.jpg---
 
 ## Overview
 

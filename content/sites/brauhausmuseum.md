@@ -4,19 +4,18 @@ site_name: "Brauhausmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629525"
 latitude: 50.158108
 longitude: 10.403211
 images:
-  []
----
+  []---
 
 ## Overview
 

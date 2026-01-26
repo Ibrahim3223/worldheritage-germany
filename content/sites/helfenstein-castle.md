@@ -4,13 +4,13 @@ site_name: "Helfenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Geislingen an der Steige"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Geislingen an der Steige"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012286"
 latitude: 48.6161
 longitude: 9.84694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/400px-Burgruine_helfenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/800px-Burgruine_helfenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/1200px-Burgruine_helfenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/1920px-Burgruine_helfenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/1920px-Burgruine_helfenstein.jpg---
 
 ## Overview 
 

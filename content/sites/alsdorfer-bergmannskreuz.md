@@ -4,13 +4,13 @@ site_name: "Alsdorfer Bergmannskreuz"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Simmerath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Simmerath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q18616172"
 latitude: 50.568
 longitude: 6.29344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/400px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/800px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/1200px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/1920px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/1920px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg---
 
 ## Overview
 

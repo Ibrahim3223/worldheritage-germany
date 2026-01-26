@@ -4,13 +4,13 @@ site_name: "Schlachthof Leipzig"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2237843"
 latitude: 51.315673
 longitude: 12.38363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/400px-Schlachthof_Leipzig_Gleisanschluss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/800px-Schlachthof_Leipzig_Gleisanschluss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/1200px-Schlachthof_Leipzig_Gleisanschluss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/1920px-Schlachthof_Leipzig_Gleisanschluss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/1920px-Schlachthof_Leipzig_Gleisanschluss.jpg---
 
 ## Overview
 

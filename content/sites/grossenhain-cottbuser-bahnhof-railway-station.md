@@ -4,13 +4,13 @@ site_name: "Großenhain Cottbuser Bahnhof railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Großenhain, Germany"
-region: "Großenhain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Großenhain"
+  - "Saxony"
 wikidata_id: "Q319246"
 latitude: 51.2913
 longitude: 13.5237
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/400px-Cottbuser_Bahnhof_Großenhain.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/800px-Cottbuser_Bahnhof_Großenhain.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/1200px-Cottbuser_Bahnhof_Großenhain.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/1920px-Cottbuser_Bahnhof_Großenhain.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/1920px-Cottbuser_Bahnhof_Großenhain.JPG---
 
 ## Overview
 

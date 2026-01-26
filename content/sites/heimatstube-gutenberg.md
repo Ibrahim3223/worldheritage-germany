@@ -4,19 +4,18 @@ site_name: "Heimatstube Gutenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628964"
 latitude: 47.950948
 longitude: 10.718072
 images:
-  []
----
+  []---
 
 ## Overview
 

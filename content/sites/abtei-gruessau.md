@@ -4,13 +4,13 @@ site_name: "Abtei Grüssau"
 date: 2026-01-26
 draft: false
 description: "Abtei der Beuroner Kongregation"
-region: "Bad Wimpfen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Bad Wimpfen"
+  - "Baden-Württemberg"
 wikidata_id: "Q333947"
 latitude: 49.2318
 longitude: 9.17745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wimpfen-stift-kreuzgang2.jpg/400px-Wimpfen-stift-kreuzgang2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wimpfen-stift-kreuzgang2.jpg/800px-Wimpfen-stift-kreuzgang2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wimpfen-stift-kreuzgang2.jpg/1200px-Wimpfen-stift-kreuzgang2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wimpfen-stift-kreuzgang2.jpg/1920px-Wimpfen-stift-kreuzgang2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wimpfen-stift-kreuzgang2.jpg/1920px-Wimpfen-stift-kreuzgang2.jpg---
 
 ## Overview
 

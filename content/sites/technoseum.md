@@ -4,13 +4,13 @@ site_name: "Technoseum"
 date: 2026-01-26
 draft: false
 description: "museum in Mannheim"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q882079"
 latitude: 49.4764
 longitude: 8.49755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/400px-Technoseum_(43470).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/800px-Technoseum_(43470).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/1200px-Technoseum_(43470).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/1920px-Technoseum_(43470).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/1920px-Technoseum_(43470).jpg---
 
 ## Overview
 

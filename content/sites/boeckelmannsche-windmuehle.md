@@ -4,19 +4,18 @@ site_name: "Böckelmannsche Windmühle"
 date: 2026-01-26
 draft: false
 description: "nicht mehr existierende Windmühle im Magdeburger Stadtteil Westerhüsen"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1019585"
 latitude: 52.0645
 longitude: 11.6709
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Gereon's Basilica"
 date: 2026-01-26
 draft: false
 description: "church in Cologne"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q682188"
 latitude: 50.943225
 longitude: 6.945967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/St._Gereon_Köln_-_Ostseite_(2520).jpg/400px-St._Gereon_Köln_-_Ostseite_(2520).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/St._Gereon_Köln_-_Ostseite_(2520).jpg/800px-St._Gereon_Köln_-_Ostseite_(2520).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/St._Gereon_Köln_-_Ostseite_(2520).jpg/1200px-St._Gereon_Köln_-_Ostseite_(2520).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/St._Gereon_Köln_-_Ostseite_(2520).jpg/1920px-St._Gereon_Köln_-_Ostseite_(2520).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/St._Gereon_Köln_-_Ostseite_(2520).jpg/1920px-St._Gereon_Köln_-_Ostseite_(2520).jpg---
 
 ## Overview 
 

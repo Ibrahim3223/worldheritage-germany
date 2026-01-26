@@ -4,13 +4,13 @@ site_name: "Statue of Leopold I, Prince of Anhalt-Dessau"
 date: 2026-01-26
 draft: false
 description: "Statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976970"
 latitude: 52.5115231
 longitude: 13.3836847
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin,_Germany_(April_2016)_-_105.JPG/400px-Berlin,_Germany_(April_2016)_-_105.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin,_Germany_(April_2016)_-_105.JPG/800px-Berlin,_Germany_(April_2016)_-_105.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin,_Germany_(April_2016)_-_105.JPG/1200px-Berlin,_Germany_(April_2016)_-_105.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin,_Germany_(April_2016)_-_105.JPG/1920px-Berlin,_Germany_(April_2016)_-_105.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin,_Germany_(April_2016)_-_105.JPG/1920px-Berlin,_Germany_(April_2016)_-_105.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Town hall of Hoya"
 date: 2026-01-26
 draft: false
 description: "building in Hoya, Germany"
-region: "Hoya"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Hoya"
+  - "Lower Saxony"
 wikidata_id: "Q118146282"
 latitude: 52.806629
 longitude: 9.146723
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/400px-Hoya_047.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/800px-Hoya_047.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/1200px-Hoya_047.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/1920px-Hoya_047.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/1920px-Hoya_047.JPG---
 
 ## Overview
 

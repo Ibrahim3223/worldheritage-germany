@@ -4,13 +4,13 @@ site_name: "Oldenburgisches Staatstheater"
 date: 2026-01-26
 draft: false
 description: "theatre company in Oldenburg, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q113532068"
 latitude: 53.1392
 longitude: 8.21
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oldenburger_Staatstheater.jpg/400px-Oldenburger_Staatstheater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oldenburger_Staatstheater.jpg/800px-Oldenburger_Staatstheater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oldenburger_Staatstheater.jpg/1200px-Oldenburger_Staatstheater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oldenburger_Staatstheater.jpg/1920px-Oldenburger_Staatstheater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oldenburger_Staatstheater.jpg/1920px-Oldenburger_Staatstheater.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Wachsmuseum Krumbach"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Krumbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Krumbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1620006"
 latitude: 48.252889
 longitude: 10.357645
 images:
-  []
----
+  []---
 
 ## Overview
 

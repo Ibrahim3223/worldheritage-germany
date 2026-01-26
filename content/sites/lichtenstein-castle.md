@@ -4,13 +4,13 @@ site_name: "Lichtenstein Castle"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-74-184-19 (0) in Pfarrweisach, Bavaria"
-region: "Pfarrweisach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Pfarrweisach"
+  - "Bavaria"
 wikidata_id: "Q1012936"
 latitude: 50.1417
 longitude: 10.7794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg_Lichtenstein_Nord.jpg/400px-Burg_Lichtenstein_Nord.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg_Lichtenstein_Nord.jpg/800px-Burg_Lichtenstein_Nord.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg_Lichtenstein_Nord.jpg/1200px-Burg_Lichtenstein_Nord.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg_Lichtenstein_Nord.jpg/1920px-Burg_Lichtenstein_Nord.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg_Lichtenstein_Nord.jpg/1920px-Burg_Lichtenstein_Nord.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Zeche Buschbank"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Sprockhövel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Sprockhövel"
+  - "Lower Saxony"
 wikidata_id: "Q169703"
 latitude: 51.3236
 longitude: 7.22442
 images:
-  []
----
+  []---
 
 ## Overview
 

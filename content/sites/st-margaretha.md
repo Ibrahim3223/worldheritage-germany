@@ -4,13 +4,13 @@ site_name: "St. Margaretha"
 date: 2026-01-26
 draft: false
 description: "church building in Libur, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1346722"
 latitude: 50.8375
 longitude: 7.06954
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/400px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/800px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/1200px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/1920px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/1920px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG---
 
 ## Overview
 

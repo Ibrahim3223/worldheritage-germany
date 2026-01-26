@@ -4,19 +4,18 @@ site_name: "Garten Am Schloß 5 in Gräfendorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-77-133-67 (3) in Gräfendorf, Bavaria"
-region: "Gräfendorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Gräfendorf"
+  - "Bavaria"
 wikidata_id: "Q98485283"
 latitude: 50.091847846
 longitude: 9.736023715
 images:
-  []
----
+  []---
 
 ## Overview
 

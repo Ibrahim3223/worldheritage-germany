@@ -4,13 +4,13 @@ site_name: "Rommel Museum, Blaustein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Blaustein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Blaustein"
+  - "Baden-Württemberg"
 wikidata_id: "Q20180117"
 latitude: 48.41936
 longitude: 9.8957
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/400px-Herrlingen_Villa_Lindenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/800px-Herrlingen_Villa_Lindenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/1200px-Herrlingen_Villa_Lindenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/1920px-Herrlingen_Villa_Lindenhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/1920px-Herrlingen_Villa_Lindenhof.jpg---
 
 ## Overview
 

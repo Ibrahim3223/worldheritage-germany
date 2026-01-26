@@ -4,13 +4,13 @@ site_name: "Stiftsmuseum der Stadt Aschaffenburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-61-000-292 (0) in Aschaffenburg, Bavaria"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q1637521"
 latitude: 49.973862789
 longitude: 9.146452027
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/400px-Stiftsmuseum_Aschaffenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/800px-Stiftsmuseum_Aschaffenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/1200px-Stiftsmuseum_Aschaffenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/1920px-Stiftsmuseum_Aschaffenburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/1920px-Stiftsmuseum_Aschaffenburg.JPG---
 
 ## Overview
 

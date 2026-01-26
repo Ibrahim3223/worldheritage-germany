@@ -4,13 +4,13 @@ site_name: "Düsseldorf-Oberbilk station"
 date: 2026-01-26
 draft: false
 description: "railway station in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q323121"
 latitude: 51.208
 longitude: 6.80917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/400px-Bf-d-oberbilk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/800px-Bf-d-oberbilk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/1200px-Bf-d-oberbilk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/1920px-Bf-d-oberbilk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/1920px-Bf-d-oberbilk.jpg---
 
 ## Overview
 

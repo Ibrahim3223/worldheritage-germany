@@ -4,13 +4,13 @@ site_name: "Zehrensdorf Indian Military Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Zossen, Germany"
-region: "Zossen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Zossen"
+  - "Brandenburg"
 wikidata_id: "Q184707"
 latitude: 52.1728
 longitude: 13.5025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/400px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/800px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/1200px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/1920px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/1920px-Zehrendorf_Kriegsgräberfriedhof_10.jpg---
 
 ## Overview
 

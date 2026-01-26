@@ -4,13 +4,13 @@ site_name: "Kloster St. Jöris"
 date: 2026-01-26
 draft: false
 description: "former monastery in Germany"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q206092"
 latitude: 50.8353
 longitude: 6.21083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_St._Jöris_(02).jpg/400px-Kloster_St._Jöris_(02).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_St._Jöris_(02).jpg/800px-Kloster_St._Jöris_(02).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_St._Jöris_(02).jpg/1200px-Kloster_St._Jöris_(02).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_St._Jöris_(02).jpg/1920px-Kloster_St._Jöris_(02).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_St._Jöris_(02).jpg/1920px-Kloster_St._Jöris_(02).jpg---
 
 ## Overview
 

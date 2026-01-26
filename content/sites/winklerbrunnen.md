@@ -4,13 +4,13 @@ site_name: "Winklerbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Bad Soden am Taunus"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Bad Soden am Taunus"
+  - "Hesse"
 wikidata_id: "Q2584635"
 latitude: 50.1412
 longitude: 8.49711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/400px-Bad_Soden,_Winklerbrunnen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/800px-Bad_Soden,_Winklerbrunnen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/1200px-Bad_Soden,_Winklerbrunnen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/1920px-Bad_Soden,_Winklerbrunnen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/1920px-Bad_Soden,_Winklerbrunnen.JPG---
 
 ## Overview
 

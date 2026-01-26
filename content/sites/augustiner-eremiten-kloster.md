@@ -4,13 +4,13 @@ site_name: "Augustiner-Eremiten-Kloster"
 date: 2026-01-26
 draft: false
 description: "Baden, Austria"
-region: "Einbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Einbeck"
+  - "Lower Saxony"
 wikidata_id: "Q768393"
 latitude: 51.8181
 longitude: 9.86972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Einbeck-1654-Merian_(cropped-3).jpg/400px-Einbeck-1654-Merian_(cropped-3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Einbeck-1654-Merian_(cropped-3).jpg/800px-Einbeck-1654-Merian_(cropped-3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Einbeck-1654-Merian_(cropped-3).jpg/1200px-Einbeck-1654-Merian_(cropped-3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Einbeck-1654-Merian_(cropped-3).jpg/1920px-Einbeck-1654-Merian_(cropped-3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Einbeck-1654-Merian_(cropped-3).jpg/1920px-Einbeck-1654-Merian_(cropped-3).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Flora (Quedlinburg)"
 date: 2026-01-26
 draft: false
 description: "statue in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15564725"
 latitude: 51.785356
 longitude: 11.151615
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/400px-Flora_Quedlinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/800px-Flora_Quedlinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/1200px-Flora_Quedlinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/1920px-Flora_Quedlinburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/1920px-Flora_Quedlinburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hessian State Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Kassel, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1508725"
 latitude: 51.3108
 longitude: 9.48972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/400px-Hessisches_landesmuseum_kassel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/800px-Hessisches_landesmuseum_kassel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1200px-Hessisches_landesmuseum_kassel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1920px-Hessisches_landesmuseum_kassel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1920px-Hessisches_landesmuseum_kassel.JPG---
 
 ## Overview
 

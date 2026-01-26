@@ -4,19 +4,18 @@ site_name: "Barger Meer"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Detern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Detern"
+  - "Lower Saxony"
 wikidata_id: "Q808143"
 latitude: 53.1897
 longitude: 7.6675
 images:
-  []
----
+  []---
 
 ## Overview
 

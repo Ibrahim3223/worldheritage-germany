@@ -4,13 +4,13 @@ site_name: "Goldener Löwe Eisenach, SPD-Gedenkstätte"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1314486"
 latitude: 50.9688
 longitude: 10.3225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/400px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/800px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/1200px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/1920px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/1920px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg---
 
 ## Overview
 

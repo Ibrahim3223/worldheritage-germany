@@ -4,13 +4,13 @@ site_name: "Kemenate"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-121-64 (0) in Ebermannstadt, Bavaria"
-region: "Ebermannstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ebermannstadt"
+  - "Bavaria"
 wikidata_id: "Q1011903"
 latitude: 49.780074005
 longitude: 11.288640385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Gailenreuth.jpg/400px-Burg_Gailenreuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Gailenreuth.jpg/800px-Burg_Gailenreuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Gailenreuth.jpg/1200px-Burg_Gailenreuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Gailenreuth.jpg/1920px-Burg_Gailenreuth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Gailenreuth.jpg/1920px-Burg_Gailenreuth.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Haus Goy"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1357122"
 latitude: 51.4686
 longitude: 7.24944
 images:
-  []
----
+  []---
 
 ## Overview
 

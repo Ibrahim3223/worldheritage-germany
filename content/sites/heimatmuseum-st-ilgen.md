@@ -4,19 +4,18 @@ site_name: "Heimatmuseum St. Ilgen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631375"
 latitude: 49.334294
 longitude: 8.672344
 images:
-  []
----
+  []---
 
 ## Overview
 

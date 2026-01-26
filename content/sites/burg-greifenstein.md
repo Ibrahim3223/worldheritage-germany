@@ -4,13 +4,13 @@ site_name: "Burg Greifenstein"
 date: 2026-01-26
 draft: false
 description: "ruins in Bad Blankenburg, Germany"
-region: "Bad Blankenburg"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Blankenburg"
+  - "Thuringia"
 wikidata_id: "Q1012030"
 latitude: 50.690418
 longitude: 11.262944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/400px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/800px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/1200px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/1920px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/1920px-Burg.Greifenstein.Thüringen.Außenansicht.jpg---
 
 ## Overview
 

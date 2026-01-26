@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-5-6932-0004 in Heideck"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Heideck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Heideck"
+  - "Bavaria"
 wikidata_id: "Q98123616"
 latitude: 49.090102458
 longitude: 11.155979809
 images:
-  []
----
+  []---
 
 ## Overview
 

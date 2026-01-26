@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gairenbuckel.jpg/400px-Gairenbuckel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gairenbuckel.jpg/800px-Gairenbuckel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gairenbuckel.jpg/1200px-Gairenbuckel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gairenbuckel.jpg/1920px-Gairenbuckel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gairenbuckel.jpg/1920px-Gairenbuckel.jpg---
 
 ## Overview
 

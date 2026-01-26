@@ -4,13 +4,13 @@ site_name: "Uhrenmuseum Bad Iburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Iburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Iburg"
+  - "Lower Saxony"
 wikidata_id: "Q2474182"
 latitude: 52.1583
 longitude: 8.04639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/400px-BadIburgUhrenmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/800px-BadIburgUhrenmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/1200px-BadIburgUhrenmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/1920px-BadIburgUhrenmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/1920px-BadIburgUhrenmuseum.JPG---
 
 ## Overview
 

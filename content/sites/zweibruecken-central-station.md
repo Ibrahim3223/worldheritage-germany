@@ -4,13 +4,13 @@ site_name: "Zweibrücken Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Zweibrücken, Germany"
-region: "Zweibrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Zweibrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q232341"
 latitude: 49.2469
 longitude: 7.35694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hbf_zbn.jpg/400px-Hbf_zbn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hbf_zbn.jpg/800px-Hbf_zbn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hbf_zbn.jpg/1200px-Hbf_zbn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hbf_zbn.jpg/1920px-Hbf_zbn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hbf_zbn.jpg/1920px-Hbf_zbn.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Motorradmuseum Ibbenbüren"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ibbenbüren"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ibbenbüren"
+  - "Lower Saxony"
 wikidata_id: "Q1805702"
 latitude: 52.2565
 longitude: 7.72806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/400px-Motorradmuseum-Ibbenbueren02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/800px-Motorradmuseum-Ibbenbueren02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/1200px-Motorradmuseum-Ibbenbueren02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/1920px-Motorradmuseum-Ibbenbueren02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/1920px-Motorradmuseum-Ibbenbueren02.JPG---
 
 ## Overview
 

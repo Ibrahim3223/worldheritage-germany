@@ -4,13 +4,13 @@ site_name: "Sammlung für Völkerkunde"
 date: 2026-01-26
 draft: false
 description: "museum in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q882430"
 latitude: 51.535
 longitude: 9.94083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Goettingen_fg01.jpg/400px-Goettingen_fg01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Goettingen_fg01.jpg/800px-Goettingen_fg01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Goettingen_fg01.jpg/1200px-Goettingen_fg01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Goettingen_fg01.jpg/1920px-Goettingen_fg01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Goettingen_fg01.jpg/1920px-Goettingen_fg01.jpg---
 
 ## Overview
 

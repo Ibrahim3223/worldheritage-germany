@@ -4,13 +4,13 @@ site_name: "Georg-August-Universität: Nutztierforschung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636063"
 latitude: 51.546667
 longitude: 9.946534
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/400px-Georg-August-Universität-_Nutztierforschung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/800px-Georg-August-Universität-_Nutztierforschung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/1200px-Georg-August-Universität-_Nutztierforschung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/1920px-Georg-August-Universität-_Nutztierforschung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/1920px-Georg-August-Universität-_Nutztierforschung.jpg---
 
 ## Overview
 

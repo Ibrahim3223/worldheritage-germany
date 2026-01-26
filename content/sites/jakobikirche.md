@@ -4,13 +4,13 @@ site_name: "Jakobikirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q509171"
 latitude: 51.053317
 longitude: 13.724389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/400px-Dresden_Jakobikirche_1902.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/800px-Dresden_Jakobikirche_1902.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/1200px-Dresden_Jakobikirche_1902.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/1920px-Dresden_Jakobikirche_1902.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/1920px-Dresden_Jakobikirche_1902.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit) Remse"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Remse"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Remse"
+  - "Saxony"
 wikidata_id: "Q49438836"
 latitude: 50.854805343
 longitude: 12.590587382
 images:
-  []
----
+  []---
 
 ## Overview
 

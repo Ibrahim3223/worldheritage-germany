@@ -4,13 +4,13 @@ site_name: "Museum im Kleihues-Bau"
 date: 2026-01-26
 draft: false
 description: "building in Kornwestheim, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Kornwestheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kornwestheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q27036848"
 latitude: 48.85852
 longitude: 9.186738
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kleihues_Bau,_Stuttgart_Kornwestheim.jpg/400px-Kleihues_Bau,_Stuttgart_Kornwestheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kleihues_Bau,_Stuttgart_Kornwestheim.jpg/800px-Kleihues_Bau,_Stuttgart_Kornwestheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kleihues_Bau,_Stuttgart_Kornwestheim.jpg/1200px-Kleihues_Bau,_Stuttgart_Kornwestheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kleihues_Bau,_Stuttgart_Kornwestheim.jpg/1920px-Kleihues_Bau,_Stuttgart_Kornwestheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kleihues_Bau,_Stuttgart_Kornwestheim.jpg/1920px-Kleihues_Bau,_Stuttgart_Kornwestheim.jpg---
 
 ## Overview
 

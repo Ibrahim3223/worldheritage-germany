@@ -4,13 +4,13 @@ site_name: "Aachtobel"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Owingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Owingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q300768"
 latitude: 47.819263888
 longitude: 9.218644444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/400px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/800px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/1200px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/1920px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/1920px-D-BW_-_Aachtobel_-_Molassefelsen.jpg---
 
 ## Overview
 

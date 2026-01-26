@@ -4,13 +4,13 @@ site_name: "Johannes-Nepomuk-Kapelle"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Arnsberg"
-region: "Arnsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Arnsberg"
+  - "Hesse"
 wikidata_id: "Q1697106"
 latitude: 51.3954
 longitude: 8.06881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/400px-Kapelle_am_Brückencenter-abf-.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/800px-Kapelle_am_Brückencenter-abf-.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/1200px-Kapelle_am_Brückencenter-abf-.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/1920px-Kapelle_am_Brückencenter-abf-.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/1920px-Kapelle_am_Brückencenter-abf-.JPG---
 
 ## Overview
 

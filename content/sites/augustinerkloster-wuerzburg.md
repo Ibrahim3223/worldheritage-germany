@@ -4,19 +4,18 @@ site_name: "Augustinerkloster Würzburg"
 date: 2026-01-26
 draft: false
 description: "building in Würzburg, Lower Franconia, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q768539"
 latitude: 49.7964
 longitude: 9.93188
 images:
-  []
----
+  []---
 
 ## Overview
 

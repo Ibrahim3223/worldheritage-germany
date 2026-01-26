@@ -4,13 +4,13 @@ site_name: "Kastell Holten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Oberhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Oberhausen"
+  - "Lower Saxony"
 wikidata_id: "Q373380"
 latitude: 51.5269
 longitude: 6.78417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kastell_Holten_(2).jpg/400px-Kastell_Holten_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kastell_Holten_(2).jpg/800px-Kastell_Holten_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kastell_Holten_(2).jpg/1200px-Kastell_Holten_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kastell_Holten_(2).jpg/1920px-Kastell_Holten_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kastell_Holten_(2).jpg/1920px-Kastell_Holten_(2).jpg---
 
 ## Overview
 

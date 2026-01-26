@@ -4,13 +4,13 @@ site_name: "Zoo Palast"
 date: 2026-01-26
 draft: false
 description: "cinema in Charlottenburg, Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q220069"
 latitude: 52.5061
 longitude: 13.3342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zoo_Palast_frontal_02-2014.jpg/400px-Zoo_Palast_frontal_02-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zoo_Palast_frontal_02-2014.jpg/800px-Zoo_Palast_frontal_02-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zoo_Palast_frontal_02-2014.jpg/1200px-Zoo_Palast_frontal_02-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zoo_Palast_frontal_02-2014.jpg/1920px-Zoo_Palast_frontal_02-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zoo_Palast_frontal_02-2014.jpg/1920px-Zoo_Palast_frontal_02-2014.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Congress Park Hanau"
 date: 2026-01-26
 draft: false
 description: "congress center and multi-purpose events hall in Hanau, Hesse, Germany"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q15108891"
 latitude: 50.138263
 longitude: 8.918648
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/400px-Hanau_Stadtschloss8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/800px-Hanau_Stadtschloss8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/1200px-Hanau_Stadtschloss8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/1920px-Hanau_Stadtschloss8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/1920px-Hanau_Stadtschloss8.jpg---
 
 ## Overview
 

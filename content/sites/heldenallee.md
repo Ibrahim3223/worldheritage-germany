@@ -4,19 +4,18 @@ site_name: "Heldenallee"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte für die Gefallenen des Ersten Weltkriegs aus dem oberbayerischen Ebersberg"
-region: "Ebersberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Ebersberg"
+  - "Bavaria"
 wikidata_id: "Q18412328"
 latitude: 48.087030106
 longitude: 11.963126708
 images:
-  []
----
+  []---
 
 ## Overview
 

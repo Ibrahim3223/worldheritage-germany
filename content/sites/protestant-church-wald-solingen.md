@@ -4,13 +4,13 @@ site_name: "Protestant Church (Wald, Solingen)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Solingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Solingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1380906"
 latitude: 51.1836
 longitude: 7.04139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Walder_Kirche_1.jpg/400px-Walder_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Walder_Kirche_1.jpg/800px-Walder_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Walder_Kirche_1.jpg/1200px-Walder_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Walder_Kirche_1.jpg/1920px-Walder_Kirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Walder_Kirche_1.jpg/1920px-Walder_Kirche_1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Ernst-Abbe-Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation in Jena, Germany"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1356990"
 latitude: 50.932879
 longitude: 11.584942
 images:
-  []
----
+  []---
 
 ## Overview
 

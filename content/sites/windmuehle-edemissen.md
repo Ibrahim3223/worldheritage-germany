@@ -4,13 +4,13 @@ site_name: "Windmühle Edemissen"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Edemissen"
-region: "Edemissen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Edemissen"
+  - "Lower Saxony"
 wikidata_id: "Q137691462"
 latitude: 52.390951438
 longitude: 10.262146276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edemissen_Ehem_Windmuehle-01.jpg/400px-Edemissen_Ehem_Windmuehle-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edemissen_Ehem_Windmuehle-01.jpg/800px-Edemissen_Ehem_Windmuehle-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edemissen_Ehem_Windmuehle-01.jpg/1200px-Edemissen_Ehem_Windmuehle-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edemissen_Ehem_Windmuehle-01.jpg/1920px-Edemissen_Ehem_Windmuehle-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edemissen_Ehem_Windmuehle-01.jpg/1920px-Edemissen_Ehem_Windmuehle-01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Hoheneck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dillweißenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dillweißenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012396"
 latitude: 48.8733
 longitude: 8.68294
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/400px-Dillweißenstein_Hoheneck_Ruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/800px-Dillweißenstein_Hoheneck_Ruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/1200px-Dillweißenstein_Hoheneck_Ruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/1920px-Dillweißenstein_Hoheneck_Ruine.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/1920px-Dillweißenstein_Hoheneck_Ruine.jpg---
 
 ## Overview
 

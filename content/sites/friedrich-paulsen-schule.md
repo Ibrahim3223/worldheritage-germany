@@ -4,13 +4,13 @@ site_name: "Friedrich-Paulsen-Schule"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Niebüll"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Niebüll"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1457838"
 latitude: 54.7869
 longitude: 8.82381
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-230.jpg---
 
 ## Overview
 

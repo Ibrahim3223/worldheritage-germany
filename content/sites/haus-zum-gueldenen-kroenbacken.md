@@ -4,13 +4,13 @@ site_name: "Haus zum Güldenen Krönbacken"
 date: 2026-01-26
 draft: false
 description: "Baudenkmal in Erfurt"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1552000"
 latitude: 50.9792
 longitude: 11.0283
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/400px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/800px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/1200px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/1920px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/1920px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg---
 
 ## Overview
 

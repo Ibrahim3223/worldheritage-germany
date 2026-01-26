@@ -4,13 +4,13 @@ site_name: "St. Mary's Neuruppin"
 date: 2026-01-26
 draft: false
 description: "church building in Neuruppin, Germany"
-region: "Neuruppin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuruppin"
+  - "Brandenburg"
 wikidata_id: "Q2222278"
 latitude: 52.9262
 longitude: 12.8082
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Neuruppin_Kulturkirche_asv2023-10_img1.jpg/400px-Neuruppin_Kulturkirche_asv2023-10_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Neuruppin_Kulturkirche_asv2023-10_img1.jpg/800px-Neuruppin_Kulturkirche_asv2023-10_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Neuruppin_Kulturkirche_asv2023-10_img1.jpg/1200px-Neuruppin_Kulturkirche_asv2023-10_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Neuruppin_Kulturkirche_asv2023-10_img1.jpg/1920px-Neuruppin_Kulturkirche_asv2023-10_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Neuruppin_Kulturkirche_asv2023-10_img1.jpg/1920px-Neuruppin_Kulturkirche_asv2023-10_img1.jpg---
 
 ## Overview
 

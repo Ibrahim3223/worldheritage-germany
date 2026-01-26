@@ -4,19 +4,18 @@ site_name: "Druckereimuseum Hatten"
 date: 2026-01-26
 draft: false
 description: "former museum in Germany"
-region: "Hatten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hatten"
+  - "Lower Saxony"
 wikidata_id: "Q76636186"
 latitude: 53.050438
 longitude: 8.249059
 images:
-  []
----
+  []---
 
 ## Overview
 

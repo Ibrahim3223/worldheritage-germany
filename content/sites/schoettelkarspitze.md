@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schoettelkarspitze.jpg/400px-Schoettelkarspitze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schoettelkarspitze.jpg/800px-Schoettelkarspitze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schoettelkarspitze.jpg/1200px-Schoettelkarspitze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schoettelkarspitze.jpg/1920px-Schoettelkarspitze.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schoettelkarspitze.jpg/1920px-Schoettelkarspitze.jpg---
 
 ## Overview
 

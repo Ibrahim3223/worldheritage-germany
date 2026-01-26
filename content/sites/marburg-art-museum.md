@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Marburg_Kunstmuseum_von_W.jpg/400px-Marburg_Kunstmuseum_von_W.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Marburg_Kunstmuseum_von_W.jpg/800px-Marburg_Kunstmuseum_von_W.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Marburg_Kunstmuseum_von_W.jpg/1200px-Marburg_Kunstmuseum_von_W.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Marburg_Kunstmuseum_von_W.jpg/1920px-Marburg_Kunstmuseum_von_W.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Marburg_Kunstmuseum_von_W.jpg/1920px-Marburg_Kunstmuseum_von_W.jpg---
 
 ## Overview
 

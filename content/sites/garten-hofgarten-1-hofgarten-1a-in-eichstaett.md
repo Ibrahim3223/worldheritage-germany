@@ -4,19 +4,18 @@ site_name: "Garten Hofgarten 1; Hofgarten 1a in Eichstätt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-76-123-687 (2) in Eichstätt, Bavaria"
-region: "Q252772"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Q252772"
+  - "Bavaria"
 wikidata_id: "Q98743215"
 latitude: 48.888607242
 longitude: 11.186820581
 images:
-  []
----
+  []---
 
 ## Overview
 

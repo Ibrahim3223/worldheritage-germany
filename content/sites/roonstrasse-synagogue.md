@@ -4,13 +4,13 @@ site_name: "Roonstrasse Synagogue"
 date: 2026-01-26
 draft: false
 description: "synagogue in Cologne"
-region: "Neustadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Neustadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q544285"
 latitude: 50.932125
 longitude: 6.936681
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Synagoge_Roonstraße,_Köln-7836.jpg/400px-Synagoge_Roonstraße,_Köln-7836.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Synagoge_Roonstraße,_Köln-7836.jpg/800px-Synagoge_Roonstraße,_Köln-7836.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Synagoge_Roonstraße,_Köln-7836.jpg/1200px-Synagoge_Roonstraße,_Köln-7836.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Synagoge_Roonstraße,_Köln-7836.jpg/1920px-Synagoge_Roonstraße,_Köln-7836.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Synagoge_Roonstraße,_Köln-7836.jpg/1920px-Synagoge_Roonstraße,_Köln-7836.jpg---
 
 ## Overview
 

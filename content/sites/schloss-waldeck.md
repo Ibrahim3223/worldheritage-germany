@@ -4,13 +4,13 @@ site_name: "Schloss Waldeck"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Waldeck"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Waldeck"
+  - "Hesse"
 wikidata_id: "Q881787"
 latitude: 51.2038
 longitude: 9.05576
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/400px-Schloss_Waldeck_vom_Schiff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/800px-Schloss_Waldeck_vom_Schiff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/1200px-Schloss_Waldeck_vom_Schiff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/1920px-Schloss_Waldeck_vom_Schiff.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/1920px-Schloss_Waldeck_vom_Schiff.jpg---
 
 ## Overview
 

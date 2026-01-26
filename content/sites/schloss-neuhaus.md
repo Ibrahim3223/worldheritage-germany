@@ -4,13 +4,13 @@ site_name: "Schloss Neuhaus"
 date: 2026-01-26
 draft: false
 description: "manor in Brandenburg"
-region: "Lübben (Spreewald)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lübben (Spreewald)"
+  - "Brandenburg"
 wikidata_id: "Q2242634"
 latitude: 51.928
 longitude: 13.8923
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/400px-Luebben_Gut_Neuhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/800px-Luebben_Gut_Neuhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/1200px-Luebben_Gut_Neuhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/1920px-Luebben_Gut_Neuhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/1920px-Luebben_Gut_Neuhaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Deutsches Freimaurer-Museum"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-62-000-120 (0) in Bayreuth, Bavaria"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q1205644"
 latitude: 49.941410427
 longitude: 11.580899474
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deutsches_Freimaurermuseum_(Schild).jpg/400px-Deutsches_Freimaurermuseum_(Schild).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deutsches_Freimaurermuseum_(Schild).jpg/800px-Deutsches_Freimaurermuseum_(Schild).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deutsches_Freimaurermuseum_(Schild).jpg/1200px-Deutsches_Freimaurermuseum_(Schild).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deutsches_Freimaurermuseum_(Schild).jpg/1920px-Deutsches_Freimaurermuseum_(Schild).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deutsches_Freimaurermuseum_(Schild).jpg/1920px-Deutsches_Freimaurermuseum_(Schild).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ottoneum"
 date: 2026-01-26
 draft: false
 description: "museum and former theatre in Kassel, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q316298"
 latitude: 51.3133
 longitude: 9.49889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/400px-Kassel_asv2022-02_img27_Ottoneum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/800px-Kassel_asv2022-02_img27_Ottoneum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/1200px-Kassel_asv2022-02_img27_Ottoneum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/1920px-Kassel_asv2022-02_img27_Ottoneum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/1920px-Kassel_asv2022-02_img27_Ottoneum.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Donaueschingen court library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Donaueschingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Donaueschingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q176893"
 latitude: 47.95211
 longitude: 8.49912
 images:
-  []
----
+  []---
 
 ## Overview
 

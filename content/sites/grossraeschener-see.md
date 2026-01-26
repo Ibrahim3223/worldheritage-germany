@@ -4,13 +4,13 @@ site_name: "Großräschener See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Großräschen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Großräschen"
+  - "Brandenburg"
 wikidata_id: "Q160841"
 latitude: 51.562038888
 longitude: 14.036647222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ilsesee_2009-06-07_1.jpg/400px-Ilsesee_2009-06-07_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ilsesee_2009-06-07_1.jpg/800px-Ilsesee_2009-06-07_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ilsesee_2009-06-07_1.jpg/1200px-Ilsesee_2009-06-07_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ilsesee_2009-06-07_1.jpg/1920px-Ilsesee_2009-06-07_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ilsesee_2009-06-07_1.jpg/1920px-Ilsesee_2009-06-07_1.jpg---
 
 ## Overview
 

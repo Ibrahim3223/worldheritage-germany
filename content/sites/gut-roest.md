@@ -4,13 +4,13 @@ site_name: "Gut Roest"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Kappeln"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kappeln"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1557024"
 latitude: 54.6589
 longitude: 9.8945
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/400px-Gut_Roest_Torhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/800px-Gut_Roest_Torhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/1200px-Gut_Roest_Torhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/1920px-Gut_Roest_Torhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/1920px-Gut_Roest_Torhaus.JPG---
 
 ## Overview
 

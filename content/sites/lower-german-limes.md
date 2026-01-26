@@ -4,21 +4,20 @@ site_name: "Lower German Limes"
 date: 2026-01-26
 draft: false
 description: "UNESCO World Heritage Site in Germany, Netherlands"
-region: "Germania Inferior"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Germania Inferior"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1265889"
 tags:
   - unesco
 latitude: 51.662222222
 longitude: 6.453888888
 images:
-  []
----
+  []---
 
 ## Overview
 

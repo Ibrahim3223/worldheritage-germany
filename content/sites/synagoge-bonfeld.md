@@ -4,19 +4,18 @@ site_name: "Synagoge (Bonfeld)"
 date: 2026-01-26
 draft: false
 description: "building in Bad Rappenau, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Bad Rappenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bad Rappenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2374981"
 latitude: 49.2141
 longitude: 9.09467
 images:
-  []
----
+  []---
 
 ## Overview
 

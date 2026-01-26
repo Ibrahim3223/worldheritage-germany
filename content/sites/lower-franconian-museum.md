@@ -4,13 +4,13 @@ site_name: "Lower Franconian Museum"
 date: 2026-01-26
 draft: false
 description: "state Museum of Art and Cultural History in Würzburg"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1123124"
 latitude: 49.7897
 longitude: 9.92139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wü_Festung_(1).JPG/400px-Wü_Festung_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wü_Festung_(1).JPG/800px-Wü_Festung_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wü_Festung_(1).JPG/1200px-Wü_Festung_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wü_Festung_(1).JPG/1920px-Wü_Festung_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wü_Festung_(1).JPG/1920px-Wü_Festung_(1).JPG---
 
 ## Overview
 

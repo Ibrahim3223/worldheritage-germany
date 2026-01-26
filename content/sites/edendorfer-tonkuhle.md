@@ -4,13 +4,13 @@ site_name: "Edendorfer Tonkuhle"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Schleswig-Holstein"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schleswig-Holstein"
+  - "Lower Saxony"
 wikidata_id: "Q1283588"
 latitude: 53.9475
 longitude: 9.4966
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/400px-Itzehoe_NIK_1066.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/800px-Itzehoe_NIK_1066.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/1200px-Itzehoe_NIK_1066.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/1920px-Itzehoe_NIK_1066.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/1920px-Itzehoe_NIK_1066.JPG---
 
 ## Overview
 

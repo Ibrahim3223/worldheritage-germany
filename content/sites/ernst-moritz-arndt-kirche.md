@@ -4,13 +4,13 @@ site_name: "Ernst-Moritz-Arndt-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1357152"
 latitude: 52.4488
 longitude: 13.2515
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/400px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/800px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/1200px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/1920px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/1920px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg---
 
 ## Overview
 

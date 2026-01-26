@@ -4,13 +4,13 @@ site_name: "St. Mariä Empfängnis"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Stadtmitte, Germany"
-region: "Stadtmitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtmitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2320940"
 latitude: 51.225547222
 longitude: 6.789361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg/400px-St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg/800px-St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg/1200px-St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg/1920px-St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg/1920px-St._Maria_Empfaengnis_in_Duesseldorf-Stadtmitte,_von_Suedwesten.jpg---
 
 ## Overview
 

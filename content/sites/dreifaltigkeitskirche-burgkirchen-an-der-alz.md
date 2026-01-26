@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirche (Burgkirchen an der Alz)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Burgkirchen an der Alz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Burgkirchen an der Alz"
+  - "Bavaria"
 wikidata_id: "Q1257650"
 latitude: 48.1659
 longitude: 12.7312
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/400px-Dreifaltigkeitskirche_Burgkirchen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/800px-Dreifaltigkeitskirche_Burgkirchen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/1200px-Dreifaltigkeitskirche_Burgkirchen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/1920px-Dreifaltigkeitskirche_Burgkirchen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/1920px-Dreifaltigkeitskirche_Burgkirchen.JPG---
 
 ## Overview
 

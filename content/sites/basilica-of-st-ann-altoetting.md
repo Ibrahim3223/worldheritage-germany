@@ -4,13 +4,13 @@ site_name: "Basilica of St. Ann, Altötting"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Altötting"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altötting"
+  - "Bavaria"
 wikidata_id: "Q810109"
 latitude: 48.227886
 longitude: 12.673669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AIMG_7666.jpg/400px-AIMG_7666.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AIMG_7666.jpg/800px-AIMG_7666.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AIMG_7666.jpg/1200px-AIMG_7666.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AIMG_7666.jpg/1920px-AIMG_7666.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AIMG_7666.jpg/1920px-AIMG_7666.jpg---
 
 ## Overview
 

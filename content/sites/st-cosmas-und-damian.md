@@ -4,13 +4,13 @@ site_name: "St. Cosmas und Damian"
 date: 2026-01-26
 draft: false
 description: "roman catholic church in Bergheim, Northrhine-Westfalia, Germany"
-region: "Bergheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bergheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2801519"
 latitude: 50.9733
 longitude: 6.5961
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/400px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/800px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/1200px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/1920px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/1920px-St._Kosmas_und_Damian_(Glesch)_(1).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Amtshaus Winsen"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in  Winsen (Aller)"
-region: "Winsen an der Aller"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Winsen an der Aller"
+  - "Lower Saxony"
 wikidata_id: "Q137369472"
 latitude: 52.678789
 longitude: 9.907874
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rathaus_Winsen_(Aller)_IMG_5960.jpg/400px-Rathaus_Winsen_(Aller)_IMG_5960.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rathaus_Winsen_(Aller)_IMG_5960.jpg/800px-Rathaus_Winsen_(Aller)_IMG_5960.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rathaus_Winsen_(Aller)_IMG_5960.jpg/1200px-Rathaus_Winsen_(Aller)_IMG_5960.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rathaus_Winsen_(Aller)_IMG_5960.jpg/1920px-Rathaus_Winsen_(Aller)_IMG_5960.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rathaus_Winsen_(Aller)_IMG_5960.jpg/1920px-Rathaus_Winsen_(Aller)_IMG_5960.jpg---
 
 ## Overview
 

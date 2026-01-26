@@ -4,19 +4,18 @@ site_name: "Burg Geinegge"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hamm"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hamm"
+  - "Lower Saxony"
 wikidata_id: "Q1011923"
 latitude: 51.6833
 longitude: 7.75
 images:
-  []
----
+  []---
 
 ## Overview
 

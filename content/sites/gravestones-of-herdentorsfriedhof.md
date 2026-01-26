@@ -4,13 +4,13 @@ site_name: "Gravestones of Herdentorsfriedhof"
 date: 2026-01-26
 draft: false
 description: "Gravestones at the Osterholz cemetery in Bremen-Osterholz"
-region: "Osterholz"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Osterholz"
+  - "Bremen"
 wikidata_id: "Q42431236"
 latitude: 53.061167
 longitude: 8.922944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/KunsthandwerkerBrunnen-2.jpg/400px-KunsthandwerkerBrunnen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/KunsthandwerkerBrunnen-2.jpg/800px-KunsthandwerkerBrunnen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/KunsthandwerkerBrunnen-2.jpg/1200px-KunsthandwerkerBrunnen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/KunsthandwerkerBrunnen-2.jpg/1920px-KunsthandwerkerBrunnen-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/KunsthandwerkerBrunnen-2.jpg/1920px-KunsthandwerkerBrunnen-2.jpg---
 
 ## Overview
 

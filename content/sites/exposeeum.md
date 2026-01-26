@@ -4,13 +4,13 @@ site_name: "EXPOSEEUM"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q22080297"
 latitude: 52.32099
 longitude: 9.81883
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/400px-Exposeeum_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/800px-Exposeeum_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/1200px-Exposeeum_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/1920px-Exposeeum_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/1920px-Exposeeum_Hannover.jpg---
 
 ## Overview
 

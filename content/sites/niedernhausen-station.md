@@ -4,13 +4,13 @@ site_name: "Niedernhausen station"
 date: 2026-01-26
 draft: false
 description: "railway station in Niedernhausen, Germany"
-region: "Niedernhausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Niedernhausen"
+  - "Hesse"
 wikidata_id: "Q317472"
 latitude: 50.1596
 longitude: 8.31286
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NiedernhausenBahnhof.jpg/400px-NiedernhausenBahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NiedernhausenBahnhof.jpg/800px-NiedernhausenBahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NiedernhausenBahnhof.jpg/1200px-NiedernhausenBahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NiedernhausenBahnhof.jpg/1920px-NiedernhausenBahnhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NiedernhausenBahnhof.jpg/1920px-NiedernhausenBahnhof.jpg---
 
 ## Overview
 

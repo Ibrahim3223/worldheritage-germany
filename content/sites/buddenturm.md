@@ -4,13 +4,13 @@ site_name: "Buddenturm"
 date: 2026-01-26
 draft: false
 description: "medieval tower in Münster"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1000781"
 latitude: 51.9663
 longitude: 7.62303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/400px-Buddenturm_in_Münster.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/800px-Buddenturm_in_Münster.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1200px-Buddenturm_in_Münster.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1920px-Buddenturm_in_Münster.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1920px-Buddenturm_in_Münster.JPG---
 
 ## Overview
 

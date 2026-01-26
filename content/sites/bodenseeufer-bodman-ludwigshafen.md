@@ -4,13 +4,13 @@ site_name: "Bodenseeufer (Bodman-Ludwigshafen)"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Bodman-Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bodman-Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q889724"
 latitude: 47.81333333
 longitude: 9.03361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/400px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/800px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/1200px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/1920px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/1920px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg---
 
 ## Overview
 

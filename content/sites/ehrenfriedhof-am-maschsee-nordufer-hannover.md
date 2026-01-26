@@ -4,13 +4,13 @@ site_name: "Ehrenfriedhof am Maschsee-Nordufer (Hannover)"
 date: 2026-01-26
 draft: false
 description: "cemetery in Hannover"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1300114"
 latitude: 52.3633
 longitude: 9.73729
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/400px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/800px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/1200px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/1920px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/1920px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg---
 
 ## Overview
 

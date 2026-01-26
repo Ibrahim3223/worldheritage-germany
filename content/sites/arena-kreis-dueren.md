@@ -4,13 +4,13 @@ site_name: "Arena Kreis Düren"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q641350"
 latitude: 50.793258
 longitude: 6.487754
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/400px-Arenadueren1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/800px-Arenadueren1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/1200px-Arenadueren1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/1920px-Arenadueren1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/1920px-Arenadueren1.jpg---
 
 ## Overview
 

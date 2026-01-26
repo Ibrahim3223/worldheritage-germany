@@ -4,13 +4,13 @@ site_name: "St. Philippus und Jakobus (Ollendorf)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ollendorf"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ollendorf"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1575691"
 latitude: 51.0353
 longitude: 11.1872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/400px-Kirchturm_Ollendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/800px-Kirchturm_Ollendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/1200px-Kirchturm_Ollendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/1920px-Kirchturm_Ollendorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/1920px-Kirchturm_Ollendorf.jpg---
 
 ## Overview
 

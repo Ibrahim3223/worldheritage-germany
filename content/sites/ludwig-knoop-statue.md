@@ -4,13 +4,13 @@ site_name: "Ludwig-Knoop-Statue"
 date: 2026-01-26
 draft: false
 description: "statue in Burglesum, Germany"
-region: "Burglesum"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Burglesum"
+  - "Bremen"
 wikidata_id: "Q19295033"
 latitude: 53.16452
 longitude: 8.67394
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/400px-Ludwig_Knoop-RZ_neu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/800px-Ludwig_Knoop-RZ_neu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/1200px-Ludwig_Knoop-RZ_neu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/1920px-Ludwig_Knoop-RZ_neu.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/1920px-Ludwig_Knoop-RZ_neu.jpg---
 
 ## Overview
 

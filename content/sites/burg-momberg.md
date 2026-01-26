@@ -4,19 +4,18 @@ site_name: "Burg Momberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Momberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Momberg"
+  - "Hesse"
 wikidata_id: "Q1013133"
 latitude: 50.8775
 longitude: 9.10972
 images:
-  []
----
+  []---
 
 ## Overview
 

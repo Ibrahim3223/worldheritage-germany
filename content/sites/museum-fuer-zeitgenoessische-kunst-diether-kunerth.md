@@ -4,19 +4,18 @@ site_name: "Museum für zeitgenössische Kunst – Diether Kunerth"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ottobeuren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ottobeuren"
+  - "Baden-Württemberg"
 wikidata_id: "Q17124822"
 latitude: 47.94222
 longitude: 10.29944
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Elbinsel Wilhelmsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q6940650"
 latitude: 53.4877
 longitude: 10.018
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/400px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/800px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/1200px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/1920px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/1920px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg---
 
 ## Overview
 

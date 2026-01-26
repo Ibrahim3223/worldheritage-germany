@@ -4,13 +4,13 @@ site_name: "Liebieghaus"
 date: 2026-01-26
 draft: false
 description: "sculpture museum in Frankfurt/Main, Germany"
-region: "Frankfurt-Süd"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt-Süd"
+  - "Hesse"
 wikidata_id: "Q1823966"
 latitude: 50.1019
 longitude: 8.67167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/400px-Liebieghaus_Galerieflügel_Haupteingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/800px-Liebieghaus_Galerieflügel_Haupteingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/1200px-Liebieghaus_Galerieflügel_Haupteingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/1920px-Liebieghaus_Galerieflügel_Haupteingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/1920px-Liebieghaus_Galerieflügel_Haupteingang.jpg---
 
 ## Overview
 

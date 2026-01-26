@@ -4,13 +4,13 @@ site_name: "Statue of Kurt Christoph Graf von Schwerin"
 date: 2026-01-26
 draft: false
 description: "Statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976986"
 latitude: 52.51197
 longitude: 13.38579
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg/400px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg/800px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg/1200px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg/1920px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg/1920px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Schwerin.jpg---
 
 ## Overview
 

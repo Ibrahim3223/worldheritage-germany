@@ -4,13 +4,13 @@ site_name: "Mitte"
 date: 2026-01-26
 draft: false
 description: "borough of the city of Wiesbaden in Hesse, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q688877"
 latitude: 50.081666666
 longitude: 8.241111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/400px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/800px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/1200px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/1920px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/1920px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg---
 
 ## Overview
 

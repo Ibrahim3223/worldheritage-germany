@@ -4,13 +4,13 @@ site_name: "Romanisches Haus (Bad Kösen)"
 date: 2026-01-26
 draft: false
 description: "museum in Naumburg (Saale), Saxony-Anhalt, Germany"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1730042"
 latitude: 51.1356
 longitude: 11.7225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/400px-Romanisches_Haus_Bad_Kösen-1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/800px-Romanisches_Haus_Bad_Kösen-1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/1200px-Romanisches_Haus_Bad_Kösen-1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/1920px-Romanisches_Haus_Bad_Kösen-1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/1920px-Romanisches_Haus_Bad_Kösen-1.JPG---
 
 ## Overview
 

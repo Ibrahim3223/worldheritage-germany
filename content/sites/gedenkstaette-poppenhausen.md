@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Poppenhausen"
 date: 2026-01-26
 draft: false
 description: "Hinrichtungsort von Häftlingen aus dem Konzentrationslager Buchenwald in Poppenhausen"
-region: "Poppenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Poppenhausen"
+  - "Bavaria"
 wikidata_id: "Q19513813"
 latitude: 50.2553623
 longitude: 10.7240954
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/400px-Poppenhausen-Denkmal-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/800px-Poppenhausen-Denkmal-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/1200px-Poppenhausen-Denkmal-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/1920px-Poppenhausen-Denkmal-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/1920px-Poppenhausen-Denkmal-2014.jpg---
 
 ## Overview
 

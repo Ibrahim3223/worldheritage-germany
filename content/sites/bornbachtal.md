@@ -4,13 +4,13 @@ site_name: "Bornbachtal"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wrestedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wrestedt"
+  - "Lower Saxony"
 wikidata_id: "Q893939"
 latitude: 52.8614
 longitude: 10.5322
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/400px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/800px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/1200px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/1920px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/1920px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg---
 
 ## Overview
 

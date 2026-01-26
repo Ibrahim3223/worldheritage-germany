@@ -4,13 +4,13 @@ site_name: "Saint Michael Church"
 date: 2026-01-26
 draft: false
 description: "church building in Gunzenhausen, Middle Franconia, Germany"
-region: "Gunzenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gunzenhausen"
+  - "Bavaria"
 wikidata_id: "Q1689469"
 latitude: 49.09777
 longitude: 10.78963
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/400px-Unterasbach_2011-10-20_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/800px-Unterasbach_2011-10-20_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/1200px-Unterasbach_2011-10-20_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/1920px-Unterasbach_2011-10-20_(3).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/1920px-Unterasbach_2011-10-20_(3).JPG---
 
 ## Overview
 

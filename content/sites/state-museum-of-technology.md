@@ -4,13 +4,13 @@ site_name: "State Museum of Technology"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q2399460"
 latitude: 53.89363889
 longitude: 11.43066111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/400px-GlashausWismar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/800px-GlashausWismar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/1200px-GlashausWismar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/1920px-GlashausWismar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/1920px-GlashausWismar.jpg---
 
 ## Overview
 

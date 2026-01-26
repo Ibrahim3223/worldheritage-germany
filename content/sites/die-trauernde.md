@@ -4,13 +4,13 @@ site_name: "Die Trauernde"
 date: 2026-01-26
 draft: false
 description: "Plastik zum Gedenken der Opfer des Zweiten Weltkriegs"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1216847"
 latitude: 50.934818
 longitude: 6.958895
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/400px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/800px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/1200px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/1920px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/1920px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg---
 
 ## Overview
 

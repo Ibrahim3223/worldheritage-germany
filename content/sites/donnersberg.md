@@ -4,13 +4,13 @@ site_name: "Donnersberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Donnersbergkreis"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Donnersbergkreis"
+  - "Baden-Württemberg"
 wikidata_id: "Q22547"
 latitude: 49.625280555
 longitude: 7.914719444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/400px-Donnersberg_von_Steinbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/800px-Donnersberg_von_Steinbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1200px-Donnersberg_von_Steinbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1920px-Donnersberg_von_Steinbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1920px-Donnersberg_von_Steinbach.jpg---
 
 ## Overview
 

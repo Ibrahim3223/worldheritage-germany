@@ -4,13 +4,13 @@ site_name: "Stadthaus Ulm"
 date: 2026-01-26
 draft: false
 description: "architectural structure in Ulm, Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q268609"
 latitude: 48.3981
 longitude: 9.99084
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg/400px-View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg/800px-View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg/1200px-View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg/1920px-View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg/1920px-View_of_Stadthaus_Ulm_from_Ulm_Minster_03.jpg---
 
 ## Overview
 

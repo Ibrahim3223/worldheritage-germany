@@ -4,13 +4,13 @@ site_name: "Gedenkstätte für die Gefallenen der Roten Armee in Senftenberg"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Senftenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Senftenberg"
+  - "Brandenburg"
 wikidata_id: "Q1497552"
 latitude: 51.5144
 longitude: 13.9877
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/400px-Senftenberg_sowjetehrenmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/800px-Senftenberg_sowjetehrenmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/1200px-Senftenberg_sowjetehrenmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/1920px-Senftenberg_sowjetehrenmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/1920px-Senftenberg_sowjetehrenmal.JPG---
 
 ## Overview
 

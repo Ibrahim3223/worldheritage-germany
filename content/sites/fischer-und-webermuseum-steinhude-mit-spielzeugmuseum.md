@@ -4,13 +4,13 @@ site_name: "Fischer- und Webermuseum Steinhude mit Spielzeugmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Steinhude near Hannover, Germany"
-region: "Wunstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wunstorf"
+  - "Lower Saxony"
 wikidata_id: "Q1419951"
 latitude: 52.455
 longitude: 9.35255
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/400px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/800px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/1200px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/1920px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/1920px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Petershausen Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q457309"
 latitude: 47.668
 longitude: 9.1785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/400px-Petershausen_1627.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/800px-Petershausen_1627.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/1200px-Petershausen_1627.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/1920px-Petershausen_1627.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/1920px-Petershausen_1627.jpg---
 
 ## Overview
 

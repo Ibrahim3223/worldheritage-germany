@@ -4,13 +4,13 @@ site_name: "Islamisches Forum Penzberg"
 date: 2026-01-26
 draft: false
 description: "building in Penzberg, Upper Bavaria, Germany"
-region: "Penzberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Penzberg"
+  - "Bavaria"
 wikidata_id: "Q56064647"
 latitude: 47.74957
 longitude: 11.3829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/400px-Islamisches_Forum_Penzberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/800px-Islamisches_Forum_Penzberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/1200px-Islamisches_Forum_Penzberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/1920px-Islamisches_Forum_Penzberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/1920px-Islamisches_Forum_Penzberg.JPG---
 
 ## Overview
 

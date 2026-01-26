@@ -4,19 +4,18 @@ site_name: "Zeche Aufgottgewagt"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q169662"
 latitude: 51.4205
 longitude: 7.30343
 images:
-  []
----
+  []---
 
 ## Overview
 

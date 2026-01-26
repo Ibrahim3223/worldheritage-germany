@@ -4,13 +4,13 @@ site_name: "St. Remberti"
 date: 2026-01-26
 draft: false
 description: "church building in Schwachhausen, Germany"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q2322989"
 latitude: 53.089444444
 longitude: 8.855555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/400px-Bremen_St._Remberti-Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/800px-Bremen_St._Remberti-Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/1200px-Bremen_St._Remberti-Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/1920px-Bremen_St._Remberti-Kirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/1920px-Bremen_St._Remberti-Kirche.JPG---
 
 ## Overview
 

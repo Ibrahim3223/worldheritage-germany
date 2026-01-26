@@ -4,13 +4,13 @@ site_name: "Fliesenmuseum Boizenburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Boizenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Boizenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1362265"
 latitude: 53.3739
 longitude: 10.7218
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/400px-Boizenburg-Fliesenmuseum1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/800px-Boizenburg-Fliesenmuseum1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/1200px-Boizenburg-Fliesenmuseum1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/1920px-Boizenburg-Fliesenmuseum1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/1920px-Boizenburg-Fliesenmuseum1-Bubo.JPG---
 
 ## Overview
 

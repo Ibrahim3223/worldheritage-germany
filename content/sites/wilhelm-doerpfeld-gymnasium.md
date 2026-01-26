@@ -4,13 +4,13 @@ site_name: "Wilhelm-Dörpfeld-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "high school (gymnasium) in Wuppertal-Elberfeld"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q727386"
 latitude: 51.2542
 longitude: 7.14389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wuppertal_Islandufer_0010.JPG/400px-Wuppertal_Islandufer_0010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wuppertal_Islandufer_0010.JPG/800px-Wuppertal_Islandufer_0010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wuppertal_Islandufer_0010.JPG/1200px-Wuppertal_Islandufer_0010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wuppertal_Islandufer_0010.JPG/1920px-Wuppertal_Islandufer_0010.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wuppertal_Islandufer_0010.JPG/1920px-Wuppertal_Islandufer_0010.JPG---
 
 ## Overview
 

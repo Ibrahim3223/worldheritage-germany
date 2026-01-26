@@ -4,13 +4,13 @@ site_name: "Altes Rathaus Brehna"
 date: 2026-01-26
 draft: false
 description: "Baudenkmal in der Stadt Sandersdorf-Brehna im Landkreis Anhalt-Bitterfeld in Sachsen-Anhalt"
-region: "Sandersdorf-Brehna"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Sandersdorf-Brehna"
+  - "Brandenburg"
 wikidata_id: "Q58856348"
 latitude: 51.558565
 longitude: 12.21226
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/400px-BrehnaAltesRathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/800px-BrehnaAltesRathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/1200px-BrehnaAltesRathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/1920px-BrehnaAltesRathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/1920px-BrehnaAltesRathaus.jpg---
 
 ## Overview
 

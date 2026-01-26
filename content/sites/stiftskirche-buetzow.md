@@ -4,13 +4,13 @@ site_name: "Stiftskirche Bützow"
 date: 2026-01-26
 draft: false
 description: "church building in Bützow, Germany"
-region: "Bützow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bützow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1302040"
 latitude: 53.8488
 longitude: 11.9817
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/400px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/800px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/1200px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/1920px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/1920px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg---
 
 ## Overview
 

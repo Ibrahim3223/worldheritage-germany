@@ -4,13 +4,13 @@ site_name: "Oberpfälzer Freilandmuseum Neusath-Perschen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nabburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nabburg"
+  - "Bavaria"
 wikidata_id: "Q2010607"
 latitude: 49.4658
 longitude: 12.2201
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Perschen-Neusath-WJP-1.jpg/400px-Perschen-Neusath-WJP-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Perschen-Neusath-WJP-1.jpg/800px-Perschen-Neusath-WJP-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Perschen-Neusath-WJP-1.jpg/1200px-Perschen-Neusath-WJP-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Perschen-Neusath-WJP-1.jpg/1920px-Perschen-Neusath-WJP-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Perschen-Neusath-WJP-1.jpg/1920px-Perschen-Neusath-WJP-1.jpg---
 
 ## Overview
 

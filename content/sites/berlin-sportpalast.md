@@ -4,13 +4,13 @@ site_name: "Berlin Sportpalast"
 date: 2026-01-26
 draft: false
 description: "former multi-purpose arena in Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q686156"
 latitude: 52.494722222
 longitude: 13.359166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/400px-F_13610.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/800px-F_13610.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1200px-F_13610.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1920px-F_13610.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1920px-F_13610.jpg---
 
 ## Overview
 

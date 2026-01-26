@@ -4,13 +4,13 @@ site_name: "Bustedter Wiesen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Hiddenhausen, North Rhine-Westphalia, Germany"
-region: "Hiddenhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hiddenhausen"
+  - "Lower Saxony"
 wikidata_id: "Q1017750"
 latitude: 52.1745
 longitude: 8.6086
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/400px-Naturschutzgebiet_Bustedt_6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/800px-Naturschutzgebiet_Bustedt_6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/1200px-Naturschutzgebiet_Bustedt_6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/1920px-Naturschutzgebiet_Bustedt_6.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/1920px-Naturschutzgebiet_Bustedt_6.JPG---
 
 ## Overview
 

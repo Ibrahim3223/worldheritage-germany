@@ -4,13 +4,13 @@ site_name: "Altstadtmarkt"
 date: 2026-01-26
 draft: false
 description: "public square in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q445644"
 latitude: 52.2628
 longitude: 10.5175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/400px-Braunschweig_Altstadtmarkt_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/800px-Braunschweig_Altstadtmarkt_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/1200px-Braunschweig_Altstadtmarkt_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/1920px-Braunschweig_Altstadtmarkt_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/1920px-Braunschweig_Altstadtmarkt_Panorama.jpg---
 
 ## Overview
 

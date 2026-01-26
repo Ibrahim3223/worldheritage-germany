@@ -4,19 +4,18 @@ site_name: "Brückturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q996622"
 latitude: 49.0212
 longitude: 12.0971
 images:
-  []
----
+  []---
 
 ## Overview
 

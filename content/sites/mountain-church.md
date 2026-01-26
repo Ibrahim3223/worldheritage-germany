@@ -4,13 +4,13 @@ site_name: "Mountain Church"
 date: 2026-01-26
 draft: false
 description: "church building in Wiesbaden, Germany"
-region: "Mitte"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Hesse"
 wikidata_id: "Q819898"
 latitude: 50.086894
 longitude: 8.239194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/400px-Bergkirche-wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/800px-Bergkirche-wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1200px-Bergkirche-wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1920px-Bergkirche-wiesbaden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1920px-Bergkirche-wiesbaden.jpg---
 
 ## Overview
 

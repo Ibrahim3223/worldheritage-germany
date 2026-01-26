@@ -4,13 +4,13 @@ site_name: "Schwindinsel"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1551429"
 latitude: 48.1375
 longitude: 11.5918
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Luftbild_Schwindinsel_in_Muenchen_2.jpg/400px-Luftbild_Schwindinsel_in_Muenchen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Luftbild_Schwindinsel_in_Muenchen_2.jpg/800px-Luftbild_Schwindinsel_in_Muenchen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Luftbild_Schwindinsel_in_Muenchen_2.jpg/1200px-Luftbild_Schwindinsel_in_Muenchen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Luftbild_Schwindinsel_in_Muenchen_2.jpg/1920px-Luftbild_Schwindinsel_in_Muenchen_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Luftbild_Schwindinsel_in_Muenchen_2.jpg/1920px-Luftbild_Schwindinsel_in_Muenchen_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Groß-Vernich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Weilerswist"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Weilerswist"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012061"
 latitude: 50.7414
 longitude: 6.83389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Turmruine_Burg_Grossvernich.JPG/400px-Turmruine_Burg_Grossvernich.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Turmruine_Burg_Grossvernich.JPG/800px-Turmruine_Burg_Grossvernich.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Turmruine_Burg_Grossvernich.JPG/1200px-Turmruine_Burg_Grossvernich.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Turmruine_Burg_Grossvernich.JPG/1920px-Turmruine_Burg_Grossvernich.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Turmruine_Burg_Grossvernich.JPG/1920px-Turmruine_Burg_Grossvernich.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. George's Abbey"
 date: 2026-01-26
 draft: false
 description: "Benedictine monastery in Isny"
-region: "Isny im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Isny im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q878638"
 latitude: 47.6939
 longitude: 10.0429
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Isny_Kloster_07.jpg/400px-Isny_Kloster_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Isny_Kloster_07.jpg/800px-Isny_Kloster_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Isny_Kloster_07.jpg/1200px-Isny_Kloster_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Isny_Kloster_07.jpg/1920px-Isny_Kloster_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Isny_Kloster_07.jpg/1920px-Isny_Kloster_07.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Merkenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neidlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neidlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013114"
 latitude: 48.5879
 longitude: 9.57481
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/400px-Äcker_beim_Pfundhardhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/800px-Äcker_beim_Pfundhardhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/1200px-Äcker_beim_Pfundhardhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/1920px-Äcker_beim_Pfundhardhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/1920px-Äcker_beim_Pfundhardhof.jpg---
 
 ## Overview
 

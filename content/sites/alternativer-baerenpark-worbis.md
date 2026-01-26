@@ -4,13 +4,13 @@ site_name: "Alternativer Bärenpark Worbis"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Leinefelde-Worbis"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Leinefelde-Worbis"
+  - "Lower Saxony"
 wikidata_id: "Q438680"
 latitude: 51.4272
 longitude: 10.3469
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/400px-Wbs_Bärenpark_(7).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/800px-Wbs_Bärenpark_(7).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/1200px-Wbs_Bärenpark_(7).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/1920px-Wbs_Bärenpark_(7).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/1920px-Wbs_Bärenpark_(7).jpg---
 
 ## Overview
 

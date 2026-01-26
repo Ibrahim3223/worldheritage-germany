@@ -4,13 +4,13 @@ site_name: "Steinwache"
 date: 2026-01-26
 draft: false
 description: "Memorial museum in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q2341732"
 latitude: 51.5196
 longitude: 7.46062
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg/400px-Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg/800px-Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg/1200px-Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg/1920px-Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg/1920px-Steinwache_Dortmund_-StreetArt_-LippeadlerCity_-BjörnStankewitz_-Fotokunst_(28045830417).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Focke Museum"
 date: 2026-01-26
 draft: false
 description: "museum of history and the history of art for the city and state of Bremen"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q1434990"
 latitude: 53.0925
 longitude: 8.86417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/400px-FockeMuseum-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/800px-FockeMuseum-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/1200px-FockeMuseum-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/1920px-FockeMuseum-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/1920px-FockeMuseum-01.jpg---
 
 ## Overview
 

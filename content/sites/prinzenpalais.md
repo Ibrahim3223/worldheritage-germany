@@ -4,13 +4,13 @@ site_name: "Prinzenpalais"
 date: 2026-01-26
 draft: false
 description: "building used as an art museum in Oldenburg, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q15125469"
 latitude: 53.13638889
 longitude: 8.21777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prinzenpalais_OL.jpg/400px-Prinzenpalais_OL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prinzenpalais_OL.jpg/800px-Prinzenpalais_OL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prinzenpalais_OL.jpg/1200px-Prinzenpalais_OL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prinzenpalais_OL.jpg/1920px-Prinzenpalais_OL.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prinzenpalais_OL.jpg/1920px-Prinzenpalais_OL.jpg---
 
 ## Overview
 

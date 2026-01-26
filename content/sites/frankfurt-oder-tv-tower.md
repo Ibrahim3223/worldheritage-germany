@@ -4,13 +4,13 @@ site_name: "Frankfurt (Oder) TV tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q1407044"
 latitude: 52.3199
 longitude: 14.5287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/400px-FFO_04-13_Fernsehturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/800px-FFO_04-13_Fernsehturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1200px-FFO_04-13_Fernsehturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1920px-FFO_04-13_Fernsehturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1920px-FFO_04-13_Fernsehturm.jpg---
 
 ## Overview
 

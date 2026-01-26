@@ -4,19 +4,18 @@ site_name: "Steinbogenbrücke Neukirchen"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Reinsberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Reinsberg"
+  - "Saxony"
 wikidata_id: "Q49449359"
 latitude: 51.030636602
 longitude: 13.394086262
 images:
-  []
----
+  []---
 
 ## Overview
 

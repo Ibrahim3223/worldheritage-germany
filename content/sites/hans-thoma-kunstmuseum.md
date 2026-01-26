@@ -4,13 +4,13 @@ site_name: "Hans-Thoma-Kunstmuseum"
 date: 2026-01-26
 draft: false
 description: "Museum in Bernau im Schwarzwald"
-region: "Bernau im Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bernau im Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q106858974"
 latitude: 47.8018154
 longitude: 8.0355279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg/400px-Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg/800px-Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg/1200px-Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg/1920px-Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg/1920px-Bernau_im_Schwarzwald,_Rathaus_und_Museum.jpg---
 
 ## Overview
 

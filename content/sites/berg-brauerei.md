@@ -4,13 +4,13 @@ site_name: "Berg Brauerei"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q819284"
 latitude: 48.2625
 longitude: 9.735277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/400px-Berg_Brauerei_Ehingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/800px-Berg_Brauerei_Ehingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/1200px-Berg_Brauerei_Ehingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/1920px-Berg_Brauerei_Ehingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/1920px-Berg_Brauerei_Ehingen.jpg---
 
 ## Overview
 

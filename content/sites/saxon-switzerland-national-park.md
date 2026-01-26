@@ -4,13 +4,13 @@ site_name: "Saxon Switzerland National Park"
 date: 2026-01-26
 draft: false
 description: "national park in Saxony, Germany"
-region: "Hohnstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "National Park"
 categories:
   - "National Park"
 regions:
-  - "Hohnstein"
+  - "Saxony"
 wikidata_id: "Q702566"
 latitude: 50.9142
 longitude: 14.2784
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/400px-Basteibrücke_morgens_(Zuschnitt).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/800px-Basteibrücke_morgens_(Zuschnitt).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/1200px-Basteibrücke_morgens_(Zuschnitt).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/1920px-Basteibrücke_morgens_(Zuschnitt).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/1920px-Basteibrücke_morgens_(Zuschnitt).jpg---
 
 ## Overview
 

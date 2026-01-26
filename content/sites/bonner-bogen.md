@@ -4,13 +4,13 @@ site_name: "Bonner Bogen"
 date: 2026-01-26
 draft: false
 description: "neu entwickeltes Areal am Rheinufer auf der Grenze der Bonner Stadtteile Ramersdorf und Oberkassel im Stadtbezirk Beuel"
-region: "Beuel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Beuel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q892729"
 latitude: 50.7178
 longitude: 7.15283
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bonner_Bogen.JPG/400px-Bonner_Bogen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bonner_Bogen.JPG/800px-Bonner_Bogen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bonner_Bogen.JPG/1200px-Bonner_Bogen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bonner_Bogen.JPG/1920px-Bonner_Bogen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bonner_Bogen.JPG/1920px-Bonner_Bogen.JPG---
 
 ## Overview
 

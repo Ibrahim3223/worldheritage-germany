@@ -4,13 +4,13 @@ site_name: "Staufenberg Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Hesse, Germany"
-region: "Staufenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Staufenberg"
+  - "Hesse"
 wikidata_id: "Q225611"
 latitude: 50.665
 longitude: 8.72833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/400px-Staufenberg_De_Merian_Hassiae.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/800px-Staufenberg_De_Merian_Hassiae.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1200px-Staufenberg_De_Merian_Hassiae.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1920px-Staufenberg_De_Merian_Hassiae.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1920px-Staufenberg_De_Merian_Hassiae.jpg---
 
 ## Overview
 

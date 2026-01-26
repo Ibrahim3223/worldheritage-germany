@@ -4,13 +4,13 @@ site_name: "Schule am Rathaus"
 date: 2026-01-26
 draft: false
 description: "school in Berlin-Lichtenberg"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q1052429"
 latitude: 52.515593
 longitude: 13.480879
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/400px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/800px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/1200px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/1920px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/1920px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg---
 
 ## Overview
 

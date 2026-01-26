@@ -4,13 +4,13 @@ site_name: "Kiel Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Kiel, Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q473477"
 latitude: 54.3242
 longitude: 10.1434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/400px-Kieler_Slott_ole_un_modern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/800px-Kieler_Slott_ole_un_modern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/1200px-Kieler_Slott_ole_un_modern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/1920px-Kieler_Slott_ole_un_modern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/1920px-Kieler_Slott_ole_un_modern.jpg---
 
 ## Overview
 

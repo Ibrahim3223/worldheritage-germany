@@ -4,13 +4,13 @@ site_name: "Artland-Arena"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall"
-region: "Quakenbrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Quakenbrück"
+  - "Lower Saxony"
 wikidata_id: "Q713561"
 latitude: 52.6775
 longitude: 7.965
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/400px-Artland_Arena_Quakenbrück_(2008).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/800px-Artland_Arena_Quakenbrück_(2008).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1200px-Artland_Arena_Quakenbrück_(2008).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1920px-Artland_Arena_Quakenbrück_(2008).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1920px-Artland_Arena_Quakenbrück_(2008).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Altes Haus Greifenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633851"
 latitude: 50.592223
 longitude: 8.286468
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Technikmuseum Dessau"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1509363"
 latitude: 51.8364
 longitude: 12.2089
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/400px-IL-14_im_Technikmuseum_Dessau_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/800px-IL-14_im_Technikmuseum_Dessau_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/1200px-IL-14_im_Technikmuseum_Dessau_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/1920px-IL-14_im_Technikmuseum_Dessau_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/1920px-IL-14_im_Technikmuseum_Dessau_2.JPG---
 
 ## Overview
 

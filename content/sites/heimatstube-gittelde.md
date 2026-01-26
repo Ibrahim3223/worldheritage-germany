@@ -4,19 +4,18 @@ site_name: "Heimatstube Gittelde"
 date: 2026-01-26
 draft: false
 description: "museum in Gittelde, Germany"
-region: "Bad Grund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Grund"
+  - "Lower Saxony"
 wikidata_id: "Q76636004"
 latitude: 51.799556
 longitude: 10.177156
 images:
-  []
----
+  []---
 
 ## Overview
 

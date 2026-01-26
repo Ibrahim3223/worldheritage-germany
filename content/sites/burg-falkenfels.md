@@ -4,13 +4,13 @@ site_name: "Burg Falkenfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Falkenfels"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Falkenfels"
+  - "Bavaria"
 wikidata_id: "Q1011672"
 latitude: 49.003957695
 longitude: 12.591727237
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Falkenfels-2.JPG/400px-Burg_Falkenfels-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Falkenfels-2.JPG/800px-Burg_Falkenfels-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Falkenfels-2.JPG/1200px-Burg_Falkenfels-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Falkenfels-2.JPG/1920px-Burg_Falkenfels-2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Falkenfels-2.JPG/1920px-Burg_Falkenfels-2.JPG---
 
 ## Overview
 

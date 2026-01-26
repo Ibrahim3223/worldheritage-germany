@@ -4,13 +4,13 @@ site_name: "Church in Börzow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stepenitztal"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stepenitztal"
+  - "Lower Saxony"
 wikidata_id: "Q1244192"
 latitude: 53.8573
 longitude: 11.1213
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/400px-Boerzow_Kirche_2009-01-02_038.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/800px-Boerzow_Kirche_2009-01-02_038.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1200px-Boerzow_Kirche_2009-01-02_038.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1920px-Boerzow_Kirche_2009-01-02_038.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1920px-Boerzow_Kirche_2009-01-02_038.jpg---
 
 ## Overview
 

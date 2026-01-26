@@ -4,13 +4,13 @@ site_name: "Militärhistorisches Museum Wolkenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Saxony, Germany"
-region: "Wolkenstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolkenstein"
+  - "Saxony"
 wikidata_id: "Q21953111"
 latitude: 50.655379
 longitude: 13.065126
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Militärhistorisches_Museum_Wolkenstein_(1).jpg/400px-Militärhistorisches_Museum_Wolkenstein_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Militärhistorisches_Museum_Wolkenstein_(1).jpg/800px-Militärhistorisches_Museum_Wolkenstein_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Militärhistorisches_Museum_Wolkenstein_(1).jpg/1200px-Militärhistorisches_Museum_Wolkenstein_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Militärhistorisches_Museum_Wolkenstein_(1).jpg/1920px-Militärhistorisches_Museum_Wolkenstein_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Militärhistorisches_Museum_Wolkenstein_(1).jpg/1920px-Militärhistorisches_Museum_Wolkenstein_(1).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Babelsberg Park"
 date: 2026-01-26
 draft: false
 description: "park in the city of Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q315105"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/400px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/800px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1200px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1920px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1920px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg---
 
 ## Overview
 

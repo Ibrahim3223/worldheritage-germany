@@ -4,19 +4,18 @@ site_name: "Windmühle Trebbus"
 date: 2026-01-26
 draft: false
 description: "Bockwindmühle bei Trebbus in der brandenburgischen Gemeinde Doberlug-Kirchhain"
-region: "Doberlug-Kirchhain"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Doberlug-Kirchhain"
+  - "Brandenburg"
 wikidata_id: "Q889324"
 latitude: 51.6917
 longitude: 13.5137
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Bergmannshaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aldenhoven"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aldenhoven"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1954405"
 latitude: 50.8942
 longitude: 6.28232
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg/400px-Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg/800px-Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg/1200px-Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg/1920px-Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg/1920px-Bergmannshaus_und_Bergbaumuseum_Aldenhoven.jpg---
 
 ## Overview
 

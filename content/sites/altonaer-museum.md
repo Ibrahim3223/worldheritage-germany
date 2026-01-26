@@ -4,13 +4,13 @@ site_name: "Altonaer Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q126971"
 latitude: 53.54902
 longitude: 9.9347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/400px-Altonaer_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/800px-Altonaer_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1200px-Altonaer_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1920px-Altonaer_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1920px-Altonaer_Museum.jpg---
 
 ## Overview
 

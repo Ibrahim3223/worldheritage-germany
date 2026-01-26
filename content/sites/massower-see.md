@@ -4,13 +4,13 @@ site_name: "Massower See"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q287154"
 latitude: 53.322777777
 longitude: 12.442222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/400px-Kornhorst_Massower_See_2010-04-07_032.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/800px-Kornhorst_Massower_See_2010-04-07_032.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/1200px-Kornhorst_Massower_See_2010-04-07_032.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/1920px-Kornhorst_Massower_See_2010-04-07_032.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/1920px-Kornhorst_Massower_See_2010-04-07_032.jpg---
 
 ## Overview
 

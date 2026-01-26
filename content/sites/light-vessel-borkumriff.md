@@ -4,13 +4,13 @@ site_name: "Light Vessel Borkumriff"
 date: 2026-01-26
 draft: false
 description: "museum ship in Borkum, Germany"
-region: "Borkum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Borkum"
+  - "Lower Saxony"
 wikidata_id: "Q1409667"
 latitude: 53.5622
 longitude: 6.7474
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/400px-Feuerschiff_Borkumriff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/800px-Feuerschiff_Borkumriff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/1200px-Feuerschiff_Borkumriff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/1920px-Feuerschiff_Borkumriff.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/1920px-Feuerschiff_Borkumriff.jpg---
 
 ## Overview
 

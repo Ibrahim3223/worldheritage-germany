@@ -4,13 +4,13 @@ site_name: "Sumelocenna-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rottenburg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rottenburg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q2365188"
 latitude: 48.4783
 longitude: 8.93625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/400px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/800px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/1200px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/1920px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/1920px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg---
 
 ## Overview
 

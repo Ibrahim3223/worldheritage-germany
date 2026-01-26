@@ -4,13 +4,13 @@ site_name: "Wirtschaftsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum of economic and social history of the 19th and 20th centuries in Ravensburg, Germany"
-region: "Ravensburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ravensburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2585923"
 latitude: 47.780396
 longitude: 9.615395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/400px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/800px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/1200px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/1920px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/1920px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg---
 
 ## Overview
 

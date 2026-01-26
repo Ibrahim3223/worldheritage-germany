@@ -4,13 +4,13 @@ site_name: "Foundation Friedenstein Stiftung Gotha"
 date: 2026-01-26
 draft: false
 description: "organization responsible for the buildings and projects belonging to Friedenstein Castle"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q28738569"
 latitude: 50.94584
 longitude: 10.70439
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/400px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/800px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/1200px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/1920px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/1920px-GLAM_Gotha_Friedenstein_Universum-7239.jpg---
 
 ## Overview
 

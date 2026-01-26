@@ -4,13 +4,13 @@ site_name: "Bugenhagenkirche, Hamburg-Barmbek"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q1002408"
 latitude: 53.581556
 longitude: 10.03199
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bugenhagenkirche_Hamburg-Barmbek.jpg/400px-Bugenhagenkirche_Hamburg-Barmbek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bugenhagenkirche_Hamburg-Barmbek.jpg/800px-Bugenhagenkirche_Hamburg-Barmbek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bugenhagenkirche_Hamburg-Barmbek.jpg/1200px-Bugenhagenkirche_Hamburg-Barmbek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bugenhagenkirche_Hamburg-Barmbek.jpg/1920px-Bugenhagenkirche_Hamburg-Barmbek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bugenhagenkirche_Hamburg-Barmbek.jpg/1920px-Bugenhagenkirche_Hamburg-Barmbek.jpg---
 
 ## Overview
 

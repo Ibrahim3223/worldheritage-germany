@@ -4,13 +4,13 @@ site_name: "Pirna railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Pirna, Germany"
-region: "Pirna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Pirna"
+  - "Saxony"
 wikidata_id: "Q665578"
 latitude: 50.961667
 longitude: 13.928056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/400px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/800px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/1200px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/1920px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/1920px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg---
 
 ## Overview
 

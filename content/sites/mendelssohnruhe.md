@@ -4,13 +4,13 @@ site_name: "Mendelssohnruhe"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte zum Komponisten Felix Mendelssohn Bartholdy in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q17124739"
 latitude: 50.065722222
 longitude: 8.686055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FFM_Mendelssohnruhe_Gedenkstein_01.jpg/400px-FFM_Mendelssohnruhe_Gedenkstein_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FFM_Mendelssohnruhe_Gedenkstein_01.jpg/800px-FFM_Mendelssohnruhe_Gedenkstein_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FFM_Mendelssohnruhe_Gedenkstein_01.jpg/1200px-FFM_Mendelssohnruhe_Gedenkstein_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FFM_Mendelssohnruhe_Gedenkstein_01.jpg/1920px-FFM_Mendelssohnruhe_Gedenkstein_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FFM_Mendelssohnruhe_Gedenkstein_01.jpg/1920px-FFM_Mendelssohnruhe_Gedenkstein_01.jpg---
 
 ## Overview
 

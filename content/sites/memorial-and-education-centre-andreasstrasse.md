@@ -4,13 +4,13 @@ site_name: "Memorial and Education Centre Andreasstrasse"
 date: 2026-01-26
 draft: false
 description: "Stasi Prison Museum"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q18020420"
 latitude: 50.978611111
 longitude: 11.023333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/400px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/800px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/1200px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/1920px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/1920px-Stasi_Memorial_Andreasstraße_Erfurt.JPG---
 
 ## Overview
 

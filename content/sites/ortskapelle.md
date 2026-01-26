@@ -4,13 +4,13 @@ site_name: "Ortskapelle"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Deutschland"
-region: "Ettringen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ettringen"
+  - "Bavaria"
 wikidata_id: "Q1380854"
 latitude: 48.1663
 longitude: 10.6788
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/400px-Ortskapelle_Aletshofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/800px-Ortskapelle_Aletshofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/1200px-Ortskapelle_Aletshofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/1920px-Ortskapelle_Aletshofen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/1920px-Ortskapelle_Aletshofen.jpg---
 
 ## Overview
 

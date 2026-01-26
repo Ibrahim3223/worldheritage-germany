@@ -4,13 +4,13 @@ site_name: "Kunst- und Kulturzentrum der StädteRegion Aachen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Monschau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Monschau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q23826178"
 latitude: 50.554893055
 longitude: 6.244251944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/400px-Monschau,_CN-019,_2011-08-31.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/800px-Monschau,_CN-019,_2011-08-31.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/1200px-Monschau,_CN-019,_2011-08-31.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/1920px-Monschau,_CN-019,_2011-08-31.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/1920px-Monschau,_CN-019,_2011-08-31.JPG---
 
 ## Overview
 

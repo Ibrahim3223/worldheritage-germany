@@ -4,13 +4,13 @@ site_name: "Dessau"
 date: 2026-01-26
 draft: false
 description: "city in Saxony-Anhalt, since 2007 district of Dessau-Roßlau"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Ortsteil"
 categories:
   - "Ortsteil"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q487070"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DessauRathaus.JPG/400px-DessauRathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DessauRathaus.JPG/800px-DessauRathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DessauRathaus.JPG/1200px-DessauRathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DessauRathaus.JPG/1920px-DessauRathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DessauRathaus.JPG/1920px-DessauRathaus.JPG---
 
 ## Overview
 

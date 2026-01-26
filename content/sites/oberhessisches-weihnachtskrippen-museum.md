@@ -4,19 +4,18 @@ site_name: "Oberhessisches Weihnachtskrippen-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nidda"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nidda"
+  - "Bavaria"
 wikidata_id: "Q42578986"
 latitude: 50.461227777
 longitude: 9.008494444
 images:
-  []
----
+  []---
 
 ## Overview
 

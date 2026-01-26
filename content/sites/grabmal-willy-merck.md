@@ -4,13 +4,13 @@ site_name: "Grabmal Willy Merck"
 date: 2026-01-26
 draft: false
 description: "Grabmal in Darmstadt"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q27129210"
 latitude: 49.870444444
 longitude: 8.612
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Darmstadt_Grab_Willy_Merck.jpg/400px-Darmstadt_Grab_Willy_Merck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Darmstadt_Grab_Willy_Merck.jpg/800px-Darmstadt_Grab_Willy_Merck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Darmstadt_Grab_Willy_Merck.jpg/1200px-Darmstadt_Grab_Willy_Merck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Darmstadt_Grab_Willy_Merck.jpg/1920px-Darmstadt_Grab_Willy_Merck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Darmstadt_Grab_Willy_Merck.jpg/1920px-Darmstadt_Grab_Willy_Merck.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Trutzeltz Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wierschem"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wierschem"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q152130"
 latitude: 50.2071
 longitude: 7.33633
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Eltz_fg02.JPG/400px-Burg_Eltz_fg02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Eltz_fg02.JPG/800px-Burg_Eltz_fg02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Eltz_fg02.JPG/1200px-Burg_Eltz_fg02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Eltz_fg02.JPG/1920px-Burg_Eltz_fg02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Eltz_fg02.JPG/1920px-Burg_Eltz_fg02.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ehrenfriedhof Cap-Arcona Scharbeutz"
 date: 2026-01-26
 draft: false
 description: "cemetery in Scharbeutz, Germany"
-region: "Scharbeutz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Scharbeutz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1300120"
 latitude: 54.052
 longitude: 10.737
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/400px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/800px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/1200px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/1920px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/1920px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Heidenpütz"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nassau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nassau"
+  - "Hesse"
 wikidata_id: "Q1012256"
 latitude: 50.2948
 longitude: 7.80152
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/400px-Heidenpütz_029.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/800px-Heidenpütz_029.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/1200px-Heidenpütz_029.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/1920px-Heidenpütz_029.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/1920px-Heidenpütz_029.JPG---
 
 ## Overview
 

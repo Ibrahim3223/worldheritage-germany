@@ -4,13 +4,13 @@ site_name: "Bückeburg station"
 date: 2026-01-26
 draft: false
 description: "railway station in Bückeburg, Germany"
-region: "Bückeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bückeburg"
+  - "Lower Saxony"
 wikidata_id: "Q319921"
 latitude: 52.2675
 longitude: 9.0475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/400px-Bückeburg_2011-by-RaBoe-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/800px-Bückeburg_2011-by-RaBoe-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/1200px-Bückeburg_2011-by-RaBoe-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/1920px-Bückeburg_2011-by-RaBoe-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/1920px-Bückeburg_2011-by-RaBoe-05.jpg---
 
 ## Overview
 

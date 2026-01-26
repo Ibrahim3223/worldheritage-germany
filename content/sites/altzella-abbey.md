@@ -4,13 +4,13 @@ site_name: "Altzella Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Nossen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nossen"
+  - "Saxony"
 wikidata_id: "Q314478"
 latitude: 51.0603
 longitude: 13.2765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/400px-Altzella_Konversenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/800px-Altzella_Konversenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1200px-Altzella_Konversenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1920px-Altzella_Konversenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1920px-Altzella_Konversenhaus.jpg---
 
 ## Overview
 

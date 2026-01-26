@@ -4,13 +4,13 @@ site_name: "Gut Rattelvitz"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Ortsteil Rattelvitz der Gemeinde Gingst"
-region: "Gingst"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Gingst"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1557016"
 latitude: 54.4508
 longitude: 13.2165
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/400px-Gut-rattelvitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/800px-Gut-rattelvitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/1200px-Gut-rattelvitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/1920px-Gut-rattelvitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/1920px-Gut-rattelvitz.jpg---
 
 ## Overview
 

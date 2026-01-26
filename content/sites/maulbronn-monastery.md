@@ -4,13 +4,13 @@ site_name: "Maulbronn Monastery"
 date: 2026-01-26
 draft: false
 description: "monastery in Germany"
-region: "Maulbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Maulbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q157886"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kloster_Maulbronn_2009.jpg/400px-Kloster_Maulbronn_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kloster_Maulbronn_2009.jpg/800px-Kloster_Maulbronn_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kloster_Maulbronn_2009.jpg/1200px-Kloster_Maulbronn_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kloster_Maulbronn_2009.jpg/1920px-Kloster_Maulbronn_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kloster_Maulbronn_2009.jpg/1920px-Kloster_Maulbronn_2009.jpg---
 
 ## Overview
 

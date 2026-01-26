@@ -4,13 +4,13 @@ site_name: "Deichtorhallen"
 date: 2026-01-26
 draft: false
 description: "Exhibition venue for contemporary art"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1183156"
 latitude: 53.54638889
 longitude: 10.00638889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/400px-DTH_Nordhalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/800px-DTH_Nordhalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/1200px-DTH_Nordhalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/1920px-DTH_Nordhalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/1920px-DTH_Nordhalle.jpg---
 
 ## Overview
 

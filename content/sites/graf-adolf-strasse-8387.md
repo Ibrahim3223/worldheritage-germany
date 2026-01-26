@@ -4,13 +4,13 @@ site_name: "Graf-Adolf-Straße 83–87"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltene Wohn- und Geschäftshaus-Gruppe in Düsseldorf"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1541350"
 latitude: 51.2192
 longitude: 6.78942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg/400px-Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg/800px-Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg/1200px-Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg/1920px-Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg/1920px-Geschäfts-_und_Wohnhausgruppe_Graf-Adolf-Straße_83–87_in_Düsseldorf,_erbaut_1896_und_1898–1899,_Architekt_Heinrich_Salzmann,_Bauherr_Aktiengesellschaft_de_Fries_&_Cie._(Werkzeugbau).jpg---
 
 ## Overview
 

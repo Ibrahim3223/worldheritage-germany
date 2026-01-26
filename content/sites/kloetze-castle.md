@@ -4,13 +4,13 @@ site_name: "Klötze Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Klötze"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Klötze"
+  - "Lower Saxony"
 wikidata_id: "Q1012687"
 latitude: 52.6267
 longitude: 11.1622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/400px-Burg_Klötze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/800px-Burg_Klötze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/1200px-Burg_Klötze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/1920px-Burg_Klötze.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/1920px-Burg_Klötze.jpg---
 
 ## Overview
 

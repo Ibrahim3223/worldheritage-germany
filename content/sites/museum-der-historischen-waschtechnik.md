@@ -4,19 +4,18 @@ site_name: "Museum der historischen Waschtechnik"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q1954573"
 latitude: 52.0766
 longitude: 7.77841
 images:
-  []
----
+  []---
 
 ## Overview
 

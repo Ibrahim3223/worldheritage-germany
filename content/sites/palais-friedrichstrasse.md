@@ -4,13 +4,13 @@ site_name: "Palais Friedrichstraße"
 date: 2026-01-26
 draft: false
 description: "building and event venue in Wiesbaden, Germany, home of Wiesbadener Casino-Gesellschaft"
-region: "Mitte"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Mitte"
+  - "Hesse"
 wikidata_id: "Q130432401"
 latitude: 50.080177
 longitude: 8.241071
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/400px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/800px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/1200px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/1920px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/1920px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg---
 
 ## Overview
 

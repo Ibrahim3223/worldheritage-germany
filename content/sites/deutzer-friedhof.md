@@ -4,19 +4,18 @@ site_name: "Deutzer Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Poll, Germany"
-region: "Poll"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Poll"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1206575"
 latitude: 50.925030555
 longitude: 6.988205555
 images:
-  []
----
+  []---
 
 ## Overview
 

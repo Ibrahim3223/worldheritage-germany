@@ -4,13 +4,13 @@ site_name: "Simssee"
 date: 2026-01-26
 draft: false
 description: "lake in Rosenheim district, Bavaria, Germany"
-region: "District of Rosenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "District of Rosenheim"
+  - "Bavaria"
 wikidata_id: "Q315443"
 latitude: 47.872777777
 longitude: 12.239444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg/400px-Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg/800px-Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Lake_Simssee_(view_from_the_southwest).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Sebastianus (Bad Bodendorf)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Sinzig"
-region: "Bad Bodendorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Bodendorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1687491"
 latitude: 50.5589
 longitude: 7.22063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/400px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/800px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/1200px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/1920px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/1920px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG---
 
 ## Overview
 

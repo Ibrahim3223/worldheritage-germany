@@ -4,13 +4,13 @@ site_name: "Saint Matthew's Church"
 date: 2026-01-26
 draft: false
 description: "church in Munich, built in the 1950s"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2321445"
 latitude: 48.133180975
 longitude: 11.56480918
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/400px-Matthaeuskirche_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/800px-Matthaeuskirche_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/1200px-Matthaeuskirche_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/1920px-Matthaeuskirche_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/1920px-Matthaeuskirche_Muenchen-1.jpg---
 
 # Guide to Saint Matthew's Church
 

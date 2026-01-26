@@ -4,13 +4,13 @@ site_name: "Ansgarkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg, Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q569748"
 latitude: 53.65238889
 longitude: 10.00838889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/400px-Ansgar_rückseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/800px-Ansgar_rückseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/1200px-Ansgar_rückseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/1920px-Ansgar_rückseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/1920px-Ansgar_rückseite.jpg---
 
 ## Overview
 

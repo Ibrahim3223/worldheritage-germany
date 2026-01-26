@@ -4,13 +4,13 @@ site_name: "Imperial Palace Ingelheim"
 date: 2026-01-26
 draft: false
 description: "an important Imperial Palace erected in the second half of the 8th century in Germany"
-region: "Ingelheim am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ingelheim am Rhein"
+  - "Hesse"
 wikidata_id: "Q1662969"
 latitude: 49.9775
 longitude: 8.0715
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/400px-NI-Kaiserpfalz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/800px-NI-Kaiserpfalz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1200px-NI-Kaiserpfalz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1920px-NI-Kaiserpfalz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1920px-NI-Kaiserpfalz.JPG---
 
 ## Overview
 

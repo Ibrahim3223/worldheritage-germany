@@ -4,13 +4,13 @@ site_name: "Nicolai Church"
 date: 2026-01-26
 draft: false
 description: "church building in Dortmund Innenstadt-West (district), Germany"
-region: "Dortmund Innenstadt-West"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund Innenstadt-West"
+  - "Lower Saxony"
 wikidata_id: "Q1986272"
 latitude: 51.5014
 longitude: 7.45278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/400px-Nikolaikirche_dortmund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/800px-Nikolaikirche_dortmund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/1200px-Nikolaikirche_dortmund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/1920px-Nikolaikirche_dortmund.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/1920px-Nikolaikirche_dortmund.jpg---
 
 ## Overview
 

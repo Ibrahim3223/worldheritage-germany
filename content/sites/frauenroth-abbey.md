@@ -4,13 +4,13 @@ site_name: "Frauenroth abbey"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-117-10 (0) in Burkardroth, Bavaria"
-region: "Burkardroth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Burkardroth"
+  - "Bavaria"
 wikidata_id: "Q291044"
 latitude: 50.24667
 longitude: 10.00942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/400px-Frauenroth_Klosterkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/800px-Frauenroth_Klosterkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/1200px-Frauenroth_Klosterkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/1920px-Frauenroth_Klosterkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/1920px-Frauenroth_Klosterkirche.JPG---
 
 ## Overview
 

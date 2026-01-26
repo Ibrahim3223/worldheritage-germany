@@ -4,13 +4,13 @@ site_name: "Wegemuseum Wusterhausen"
 date: 2026-01-26
 draft: false
 description: "heritage institution"
-region: "Wusterhausen/Dosse"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wusterhausen/Dosse"
+  - "Brandenburg"
 wikidata_id: "Q1714154"
 latitude: 52.8908
 longitude: 12.4611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wegemuseum_Ansicht_1.jpeg/400px-Wegemuseum_Ansicht_1.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wegemuseum_Ansicht_1.jpeg/800px-Wegemuseum_Ansicht_1.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wegemuseum_Ansicht_1.jpeg/1200px-Wegemuseum_Ansicht_1.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wegemuseum_Ansicht_1.jpeg/1920px-Wegemuseum_Ansicht_1.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wegemuseum_Ansicht_1.jpeg/1920px-Wegemuseum_Ansicht_1.jpeg---
 
 ## Overview
 

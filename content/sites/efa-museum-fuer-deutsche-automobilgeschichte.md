@@ -4,13 +4,13 @@ site_name: "EFA-Museum für Deutsche Automobilgeschichte"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Amerang"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Amerang"
+  - "Bavaria"
 wikidata_id: "Q1274463"
 latitude: 47.996127777
 longitude: 12.307852777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/400px-EFA_Hall_of_Fame.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/800px-EFA_Hall_of_Fame.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/1200px-EFA_Hall_of_Fame.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/1920px-EFA_Hall_of_Fame.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/1920px-EFA_Hall_of_Fame.jpg---
 
 ## Overview
 

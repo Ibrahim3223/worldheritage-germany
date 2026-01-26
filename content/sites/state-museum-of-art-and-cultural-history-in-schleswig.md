@@ -4,13 +4,13 @@ site_name: "State Museum of Art and Cultural History in Schleswig"
 date: 2026-01-26
 draft: false
 description: "Art museum at Schloss Gottorf, Schleswig"
-region: "Schleswig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schleswig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q39695701"
 latitude: 54.5116
 longitude: 9.5415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gottorf,_Portal_und_Wachhäuser.JPG/400px-Gottorf,_Portal_und_Wachhäuser.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gottorf,_Portal_und_Wachhäuser.JPG/800px-Gottorf,_Portal_und_Wachhäuser.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gottorf,_Portal_und_Wachhäuser.JPG/1200px-Gottorf,_Portal_und_Wachhäuser.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gottorf,_Portal_und_Wachhäuser.JPG/1920px-Gottorf,_Portal_und_Wachhäuser.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gottorf,_Portal_und_Wachhäuser.JPG/1920px-Gottorf,_Portal_und_Wachhäuser.JPG---
 
 ## Overview
 

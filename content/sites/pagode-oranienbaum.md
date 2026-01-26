@@ -4,13 +4,13 @@ site_name: "Pagode Oranienbaum"
 date: 2026-01-26
 draft: false
 description: "1793 bis 1797 erbaute Chinoiserie im Englisch-Chinesischen Garten Oranienbaum, Oranienbaum-Wörlitz, Landkreis Wittenberg, Sachsen-Anhalt"
-region: "Oranienbaum-Wörlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chinoiserie"
 categories:
   - "Chinoiserie"
 regions:
-  - "Oranienbaum-Wörlitz"
+  - "Brandenburg"
 wikidata_id: "Q124052132"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/400px-Pagode_Oranienbaum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/800px-Pagode_Oranienbaum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/1200px-Pagode_Oranienbaum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/1920px-Pagode_Oranienbaum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/1920px-Pagode_Oranienbaum.jpg---
 
 ## Overview
 

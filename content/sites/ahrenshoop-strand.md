@@ -4,13 +4,13 @@ site_name: "Ahrenshoop Strand"
 date: 2026-01-26
 draft: false
 description: "Strand bei Ahrenshoop, ein Seebad auf der Halbinsel Fischland-Darß-Zingst an der deutschen Ostseeküste"
-region: "Ahrenshoop"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Ahrenshoop"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q136368518"
 latitude: 54.378664
 longitude: 12.411214
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ahrenshoop_Strand_2025-08-21.jpg/400px-Ahrenshoop_Strand_2025-08-21.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ahrenshoop_Strand_2025-08-21.jpg/800px-Ahrenshoop_Strand_2025-08-21.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ahrenshoop_Strand_2025-08-21.jpg/1200px-Ahrenshoop_Strand_2025-08-21.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ahrenshoop_Strand_2025-08-21.jpg/1920px-Ahrenshoop_Strand_2025-08-21.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ahrenshoop_Strand_2025-08-21.jpg/1920px-Ahrenshoop_Strand_2025-08-21.jpg---
 
 ## Overview
 

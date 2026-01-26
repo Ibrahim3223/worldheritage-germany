@@ -4,13 +4,13 @@ site_name: "Saint Blaise"
 date: 2026-01-26
 draft: false
 description: "church building in Muehlhausen, Thuringia, Germany"
-region: "Mühlhausen/Thuringia"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mühlhausen/Thuringia"
+  - "Thuringia"
 wikidata_id: "Q1230608"
 latitude: 51.2071817
 longitude: 10.45879459
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/400px-Blasiikirche_Mühlhausen_Türme.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/800px-Blasiikirche_Mühlhausen_Türme.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/1200px-Blasiikirche_Mühlhausen_Türme.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/1920px-Blasiikirche_Mühlhausen_Türme.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/1920px-Blasiikirche_Mühlhausen_Türme.JPG---
 
 ## Overview
 

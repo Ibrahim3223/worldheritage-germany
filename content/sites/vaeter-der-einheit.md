@@ -4,13 +4,13 @@ site_name: "Väter der Einheit"
 date: 2026-01-26
 draft: false
 description: "monument by the French sculptor Serge Mangin, consisting of three busts of the portraits of George H. W. Bush, Helmut Kohl and Mikhail Gorbachev set o"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1000480"
 latitude: 52.50736
 longitude: 13.397709
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Väter_der_Einheit.jpg/400px-Väter_der_Einheit.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Väter_der_Einheit.jpg/800px-Väter_der_Einheit.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Väter_der_Einheit.jpg/1200px-Väter_der_Einheit.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Väter_der_Einheit.jpg/1920px-Väter_der_Einheit.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Väter_der_Einheit.jpg/1920px-Väter_der_Einheit.jpg---
 
 ## Overview
 

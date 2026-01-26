@@ -4,13 +4,13 @@ site_name: "Ephraim-Palais"
 date: 2026-01-26
 draft: false
 description: "Rokoko building in Berlin. Location for special exhibitions by the Stadtmuseum Berlin on wide-ranging themes related to the history and culture of Ber"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q878325"
 latitude: 52.515848
 longitude: 13.40714
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/400px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/800px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/1200px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/1920px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/1920px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg---
 
 ## Overview
 

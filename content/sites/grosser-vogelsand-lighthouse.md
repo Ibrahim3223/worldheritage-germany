@@ -4,13 +4,13 @@ site_name: "Großer Vogelsand lighthouse"
 date: 2026-01-26
 draft: false
 description: "former lighthouse near Neuwerk, Germany"
-region: "Schleswig-Holstein"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Schleswig-Holstein"
+  - "Lower Saxony"
 wikidata_id: "Q1740187"
 latitude: 53.98833333
 longitude: 8.47805556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lighthouse_DEU_Grosser_Vogelsand_2.JPG/400px-Lighthouse_DEU_Grosser_Vogelsand_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lighthouse_DEU_Grosser_Vogelsand_2.JPG/800px-Lighthouse_DEU_Grosser_Vogelsand_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lighthouse_DEU_Grosser_Vogelsand_2.JPG/1200px-Lighthouse_DEU_Grosser_Vogelsand_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lighthouse_DEU_Grosser_Vogelsand_2.JPG/1920px-Lighthouse_DEU_Grosser_Vogelsand_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lighthouse_DEU_Grosser_Vogelsand_2.JPG/1920px-Lighthouse_DEU_Grosser_Vogelsand_2.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Landesarchiv Berlin"
 date: 2026-01-26
 draft: false
 description: "central state archive of Berlin"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q1610731"
 latitude: 52.58025
 longitude: 13.31638
 images:
-  []
----
+  []---
 
 ## Overview
 

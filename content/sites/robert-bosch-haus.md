@@ -4,13 +4,13 @@ site_name: "Robert-Bosch-Haus"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q2156206"
 latitude: 48.7778
 longitude: 9.19889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/400px-Robert-Bosch-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/800px-Robert-Bosch-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/1200px-Robert-Bosch-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/1920px-Robert-Bosch-Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/1920px-Robert-Bosch-Haus.jpg---
 
 ## Overview
 

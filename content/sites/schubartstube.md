@@ -4,19 +4,18 @@ site_name: "Schubartstube"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Blaubeuren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Blaubeuren"
+  - "Baden-Württemberg"
 wikidata_id: "Q2250555"
 latitude: 48.4143
 longitude: 9.78469
 images:
-  []
----
+  []---
 
 ## Overview
 

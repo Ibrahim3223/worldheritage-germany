@@ -4,19 +4,18 @@ site_name: "Affen- und Vogelpark Eckenhagen"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Reichshof"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Reichshof"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q382294"
 latitude: 50.9967
 longitude: 7.69191
 images:
-  []
----
+  []---
 
 ## Overview
 

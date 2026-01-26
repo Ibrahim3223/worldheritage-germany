@@ -4,13 +4,13 @@ site_name: "Märchenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q1957380"
 latitude: 52.4672
 longitude: 13.4711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/400px-Maerchenbrunnen1_Schulenburgpark.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/800px-Maerchenbrunnen1_Schulenburgpark.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/1200px-Maerchenbrunnen1_Schulenburgpark.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/1920px-Maerchenbrunnen1_Schulenburgpark.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/1920px-Maerchenbrunnen1_Schulenburgpark.JPG---
 
 ## Overview
 

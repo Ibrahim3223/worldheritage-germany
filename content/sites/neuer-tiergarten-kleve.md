@@ -4,13 +4,13 @@ site_name: "Neuer Tiergarten Kleve"
 date: 2026-01-26
 draft: false
 description: "garden in Kleve, Germany"
-region: "Kleve"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Kleve"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2086420"
 latitude: 51.79638
 longitude: 6.12447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/400px-Kleefse_tuinen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/800px-Kleefse_tuinen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/1200px-Kleefse_tuinen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/1920px-Kleefse_tuinen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/1920px-Kleefse_tuinen.jpg---
 
 ## Overview
 

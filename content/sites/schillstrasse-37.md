@@ -4,13 +4,13 @@ site_name: "Schillstraße 37"
 date: 2026-01-26
 draft: false
 description: "building in Stralsund, Germany"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15127439"
 latitude: 54.31688
 longitude: 13.08881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/400px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/800px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/1200px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg---
 
 ## Overview
 

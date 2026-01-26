@@ -4,19 +4,18 @@ site_name: "part of D-1-72-116-230 in Berchtesgaden in Bavaria, Germany"
 date: 2026-01-26
 draft: false
 description: "Villengarten in Bavaria, Germany"
-region: "Berchtesgaden"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Berchtesgaden"
+  - "Bavaria"
 wikidata_id: "Q98100393"
 latitude: 47.638782936
 longitude: 13.02017625
 images:
-  []
----
+  []---
 
 ## Overview
 

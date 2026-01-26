@@ -4,19 +4,18 @@ site_name: "Bördenheimatmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heeslingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heeslingen"
+  - "Lower Saxony"
 wikidata_id: "Q76636192"
 latitude: 53.313403
 longitude: 9.332181
 images:
-  []
----
+  []---
 
 ## Overview
 

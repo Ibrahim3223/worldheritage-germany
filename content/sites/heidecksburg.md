@@ -4,13 +4,13 @@ site_name: "Heidecksburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rudolstadt"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rudolstadt"
+  - "Thuringia"
 wikidata_id: "Q316382"
 latitude: 50.723
 longitude: 11.339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/400px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/800px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/1200px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/1920px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/1920px-Residenzschloss_Heidecksburg_Rudolstadt.jpg---
 
 ## Overview
 

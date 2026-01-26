@@ -4,13 +4,13 @@ site_name: "Plankstetten Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Germany"
-region: "Q248062"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Q248062"
+  - "Bavaria"
 wikidata_id: "Q319484"
 latitude: 49.069077026
 longitude: 11.454051032
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berching,_Kloster_Plankstetten_001.JPG/400px-Berching,_Kloster_Plankstetten_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berching,_Kloster_Plankstetten_001.JPG/800px-Berching,_Kloster_Plankstetten_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berching,_Kloster_Plankstetten_001.JPG/1200px-Berching,_Kloster_Plankstetten_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berching,_Kloster_Plankstetten_001.JPG/1920px-Berching,_Kloster_Plankstetten_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berching,_Kloster_Plankstetten_001.JPG/1920px-Berching,_Kloster_Plankstetten_001.JPG---
 
 ## Overview
 

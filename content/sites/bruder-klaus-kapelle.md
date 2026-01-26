@@ -4,13 +4,13 @@ site_name: "Bruder-Klaus-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Kirchdorf an der Iller"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kirchdorf an der Iller"
+  - "Baden-Württemberg"
 wikidata_id: "Q992148"
 latitude: 48.0627
 longitude: 10.0538
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/400px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/800px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/1200px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/1920px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/1920px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg---
 
 ## Overview
 

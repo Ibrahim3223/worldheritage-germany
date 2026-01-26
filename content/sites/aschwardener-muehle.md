@@ -4,13 +4,13 @@ site_name: "Aschwardener Mühle"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Schwanewede, Landkreis Osterholz, Niedersachsen"
-region: "Schwanewede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Schwanewede"
+  - "Bremen"
 wikidata_id: "Q133317915"
 latitude: 53.28186
 longitude: 8.5246
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/400px-Aschwardener_Windmühle_(2023).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/800px-Aschwardener_Windmühle_(2023).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/1200px-Aschwardener_Windmühle_(2023).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/1920px-Aschwardener_Windmühle_(2023).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/1920px-Aschwardener_Windmühle_(2023).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Käthe Kollwitz House"
 date: 2026-01-26
 draft: false
 description: "museum in Moritzburg, Germany, dedicated to the artist Käthe Kollwitz"
-region: "Moritzburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Moritzburg"
+  - "Saxony"
 wikidata_id: "Q20890527"
 latitude: 51.166064
 longitude: 13.674649
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hohenfreyberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eisenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eisenberg"
+  - "Bavaria"
 wikidata_id: "Q1012413"
 latitude: 47.6138
 longitude: 10.5877
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/400px-Hohenfreyberg_bild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/800px-Hohenfreyberg_bild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1200px-Hohenfreyberg_bild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1920px-Hohenfreyberg_bild.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1920px-Hohenfreyberg_bild.jpg---
 
 ## Overview
 

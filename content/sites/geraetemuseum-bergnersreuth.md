@@ -4,13 +4,13 @@ site_name: "Gerätemuseum Bergnersreuth"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Arzberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Arzberg"
+  - "Bavaria"
 wikidata_id: "Q29417413"
 latitude: 50.0687
 longitude: 12.15125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/400px-Bergnersreuth_2017_xy3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/800px-Bergnersreuth_2017_xy3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/1200px-Bergnersreuth_2017_xy3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/1920px-Bergnersreuth_2017_xy3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/1920px-Bergnersreuth_2017_xy3.jpg---
 
 ## Overview
 

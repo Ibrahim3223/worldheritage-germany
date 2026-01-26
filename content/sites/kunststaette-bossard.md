@@ -4,13 +4,13 @@ site_name: "Kunststätte Bossard"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Jesteburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jesteburg"
+  - "Lower Saxony"
 wikidata_id: "Q28154531"
 latitude: 53.282
 longitude: 9.941
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/400px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/800px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/1200px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/1920px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/1920px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG---
 
 ## Overview
 

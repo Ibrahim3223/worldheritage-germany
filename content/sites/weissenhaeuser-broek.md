@@ -4,19 +4,18 @@ site_name: "Weissenhäuser Brök"
 date: 2026-01-26
 draft: false
 description: "Strand in Deutschland"
-region: "Schleswig-Holstein"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Schleswig-Holstein"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q33346545"
 latitude: 54.316666666
 longitude: 10.783333333
 images:
-  []
----
+  []---
 
 ## Overview
 

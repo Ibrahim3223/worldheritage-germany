@@ -4,13 +4,13 @@ site_name: "Terra-Sigillata-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rheinzabern"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rheinzabern"
+  - "Baden-Württemberg"
 wikidata_id: "Q1735683"
 latitude: 49.1197
 longitude: 8.27784
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/400px-Terra_Sigillata_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/800px-Terra_Sigillata_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/1200px-Terra_Sigillata_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/1920px-Terra_Sigillata_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/1920px-Terra_Sigillata_Museum.jpg---
 
 ## Overview
 

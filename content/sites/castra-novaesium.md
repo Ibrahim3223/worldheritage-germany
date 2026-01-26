@@ -4,19 +4,18 @@ site_name: "Castra Novaesium"
 date: 2026-01-26
 draft: false
 description: "Roman fort"
-region: "Germania Inferior"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Germania Inferior"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q318196"
 latitude: 51.1839
 longitude: 6.72194
 images:
-  []
----
+  []---
 
 ## Overview
 

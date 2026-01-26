@@ -4,13 +4,13 @@ site_name: "Am Gemeindeamt 7; 9"
 date: 2026-01-26
 draft: false
 description: "town hall in Mittelherwigsdorf"
-region: "Mittelherwigsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Mittelherwigsdorf"
+  - "Saxony"
 wikidata_id: "Q49418452"
 latitude: 50.916606
 longitude: 14.76475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/400px-MittelherwigsdorfGemeindeamt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/800px-MittelherwigsdorfGemeindeamt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/1200px-MittelherwigsdorfGemeindeamt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/1920px-MittelherwigsdorfGemeindeamt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/1920px-MittelherwigsdorfGemeindeamt.jpg---
 
 ## Overview
 

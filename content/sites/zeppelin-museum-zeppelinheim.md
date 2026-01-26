@@ -4,13 +4,13 @@ site_name: "Zeppelin Museum Zeppelinheim"
 date: 2026-01-26
 draft: false
 description: "airship museum in Neu-Isenburg at Frankfurt/Main"
-region: "Neu-Isenburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neu-Isenburg"
+  - "Hesse"
 wikidata_id: "Q191399"
 latitude: 50.035
 longitude: 8.6146
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/400px-Zeppelin_museum_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/800px-Zeppelin_museum_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/1200px-Zeppelin_museum_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/1920px-Zeppelin_museum_Frankfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/1920px-Zeppelin_museum_Frankfurt.jpg---
 
 ## Overview
 

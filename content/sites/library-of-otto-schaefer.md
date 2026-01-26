@@ -4,19 +4,18 @@ site_name: "Library of Otto Schäfer"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Schweinfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Schweinfurt"
+  - "Bavaria"
 wikidata_id: "Q856459"
 latitude: 50.0514
 longitude: 10.2479
 images:
-  []
----
+  []---
 
 ## Overview
 

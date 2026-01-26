@@ -4,19 +4,18 @@ site_name: "Museum Kirtorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kirtorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kirtorf"
+  - "Hesse"
 wikidata_id: "Q76633962"
 latitude: 50.769189411
 longitude: 9.105881517
 images:
-  []
----
+  []---
 
 ## Overview
 

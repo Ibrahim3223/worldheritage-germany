@@ -4,13 +4,13 @@ site_name: "Schlossmuseum Darmstadt"
 date: 2026-01-26
 draft: false
 description: "museum in Darmstadt, Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q1232004"
 latitude: 49.8734
 longitude: 8.65578
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Darmstadt_Residenzschloss_asv2024-09_img4.jpg/400px-Darmstadt_Residenzschloss_asv2024-09_img4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Darmstadt_Residenzschloss_asv2024-09_img4.jpg/800px-Darmstadt_Residenzschloss_asv2024-09_img4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Darmstadt_Residenzschloss_asv2024-09_img4.jpg/1200px-Darmstadt_Residenzschloss_asv2024-09_img4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Darmstadt_Residenzschloss_asv2024-09_img4.jpg/1920px-Darmstadt_Residenzschloss_asv2024-09_img4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Darmstadt_Residenzschloss_asv2024-09_img4.jpg/1920px-Darmstadt_Residenzschloss_asv2024-09_img4.jpg---
 
 ## Overview
 

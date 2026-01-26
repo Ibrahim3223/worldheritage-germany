@@ -4,19 +4,18 @@ site_name: "Graphit-Besucherbergwerk Kropfmühl"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hauzenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hauzenberg"
+  - "Bavaria"
 wikidata_id: "Q28045030"
 latitude: 48.62583333
 longitude: 13.66055556
 images:
-  []
----
+  []---
 
 ## Overview
 

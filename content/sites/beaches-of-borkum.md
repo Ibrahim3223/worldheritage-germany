@@ -4,13 +4,13 @@ site_name: "Beaches of Borkum"
 date: 2026-01-26
 draft: false
 description: "Strände der Nordseeinsel Borkum"
-region: "Borkum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Borkum"
+  - "Lower Saxony"
 wikidata_id: "Q136005781"
 latitude: 53.590708
 longitude: 6.657293
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Borkum,_Hauptstrand_--_2020_--_2788.jpg/400px-Borkum,_Hauptstrand_--_2020_--_2788.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Borkum,_Hauptstrand_--_2020_--_2788.jpg/800px-Borkum,_Hauptstrand_--_2020_--_2788.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Borkum,_Hauptstrand_--_2020_--_2788.jpg/1200px-Borkum,_Hauptstrand_--_2020_--_2788.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Borkum,_Hauptstrand_--_2020_--_2788.jpg/1920px-Borkum,_Hauptstrand_--_2020_--_2788.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Borkum,_Hauptstrand_--_2020_--_2788.jpg/1920px-Borkum,_Hauptstrand_--_2020_--_2788.jpg---
 
 ## Overview
 

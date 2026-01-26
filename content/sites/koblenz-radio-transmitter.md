@@ -4,19 +4,18 @@ site_name: "Koblenz radio transmitter"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q877994"
 latitude: 50.3753
 longitude: 7.585
 images:
-  []
----
+  []---
 
 ## Overview
 

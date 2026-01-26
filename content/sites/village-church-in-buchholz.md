@@ -4,13 +4,13 @@ site_name: "Village Church in Buchholz"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Ziesendorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ziesendorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244180"
 latitude: 54.0068
 longitude: 12.0626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kirche_Buchholz.jpg/400px-Kirche_Buchholz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kirche_Buchholz.jpg/800px-Kirche_Buchholz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kirche_Buchholz.jpg/1200px-Kirche_Buchholz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kirche_Buchholz.jpg/1920px-Kirche_Buchholz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kirche_Buchholz.jpg/1920px-Kirche_Buchholz.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Musikhistorische Sammlung Jehle"
 date: 2026-01-26
 draft: false
 description: "music collection and museum in Baden-Württemberg, Germany"
-region: "Albstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Albstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q29382020"
 latitude: 48.21479
 longitude: 8.95979
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/400px-Lautlingen_Schloss_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/800px-Lautlingen_Schloss_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/1200px-Lautlingen_Schloss_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/1920px-Lautlingen_Schloss_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/1920px-Lautlingen_Schloss_3.jpg---
 
 ## Overview
 

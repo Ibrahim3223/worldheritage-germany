@@ -4,13 +4,13 @@ site_name: "Gartenkirche St. Marien"
 date: 2026-01-26
 draft: false
 description: "church in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1494662"
 latitude: 52.3694
 longitude: 9.74722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/400px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/800px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1200px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1920px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1920px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg---
 
 ## Overview
 

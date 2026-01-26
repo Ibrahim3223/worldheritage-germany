@@ -4,13 +4,13 @@ site_name: "Zeche Crone"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169742"
 latitude: 51.4736
 longitude: 7.48417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Zeche_Crone.jpg/400px-Zeche_Crone.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Zeche_Crone.jpg/800px-Zeche_Crone.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Zeche_Crone.jpg/1200px-Zeche_Crone.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Zeche_Crone.jpg/1920px-Zeche_Crone.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Zeche_Crone.jpg/1920px-Zeche_Crone.jpg---
 
 ## Overview
 

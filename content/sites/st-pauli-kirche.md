@@ -4,13 +4,13 @@ site_name: "St.-Pauli-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Altona-Altstadt, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q2316651"
 latitude: 53.54686111
 longitude: 9.9565
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/400px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/800px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/1200px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/1920px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/1920px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg---
 
 ## Overview
 

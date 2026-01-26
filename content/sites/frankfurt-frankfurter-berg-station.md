@@ -4,13 +4,13 @@ site_name: "Frankfurt Frankfurter Berg station"
 date: 2026-01-26
 draft: false
 description: "railway station in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q800763"
 latitude: 50.1701
 longitude: 8.6772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bhf-frankfurterberg001.jpg/400px-Bhf-frankfurterberg001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bhf-frankfurterberg001.jpg/800px-Bhf-frankfurterberg001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bhf-frankfurterberg001.jpg/1200px-Bhf-frankfurterberg001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bhf-frankfurterberg001.jpg/1920px-Bhf-frankfurterberg001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bhf-frankfurterberg001.jpg/1920px-Bhf-frankfurterberg001.jpg---
 
 ## Overview
 

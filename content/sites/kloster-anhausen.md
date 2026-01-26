@@ -4,13 +4,13 @@ site_name: "Kloster Anhausen"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Satteldorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Satteldorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q874597"
 latitude: 49.2011
 longitude: 10.0426
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/400px-Anhäuser_Mauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/800px-Anhäuser_Mauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/1200px-Anhäuser_Mauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/1920px-Anhäuser_Mauer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/1920px-Anhäuser_Mauer.jpg---
 
 ## Overview
 

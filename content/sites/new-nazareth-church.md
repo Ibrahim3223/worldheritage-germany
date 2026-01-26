@@ -4,13 +4,13 @@ site_name: "New Nazareth church"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1979671"
 latitude: 52.548497
 longitude: 13.362106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/400px-Berlin-wed-neue-nazarethkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/800px-Berlin-wed-neue-nazarethkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1200px-Berlin-wed-neue-nazarethkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1920px-Berlin-wed-neue-nazarethkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1920px-Berlin-wed-neue-nazarethkirche.jpg---
 
 ## Overview
 

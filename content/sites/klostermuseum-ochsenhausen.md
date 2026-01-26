@@ -4,13 +4,13 @@ site_name: "Klostermuseum Ochsenhausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ochsenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ochsenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1776456"
 latitude: 48.0642
 longitude: 9.95139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/400px-Klostermuseum_Ochsenhausen_2009e.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/800px-Klostermuseum_Ochsenhausen_2009e.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/1200px-Klostermuseum_Ochsenhausen_2009e.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/1920px-Klostermuseum_Ochsenhausen_2009e.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/1920px-Klostermuseum_Ochsenhausen_2009e.JPG---
 
 ## Overview
 

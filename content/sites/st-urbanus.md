@@ -4,13 +4,13 @@ site_name: "St. Urbanus"
 date: 2026-01-26
 draft: false
 description: "church building in Wurster Nordseeküste, Germany"
-region: "Wurster Nordseeküste"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wurster Nordseeküste"
+  - "Bremen"
 wikidata_id: "Q2316772"
 latitude: 53.688608
 longitude: 8.568617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorum_Kirche.jpg/400px-Dorum_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorum_Kirche.jpg/800px-Dorum_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorum_Kirche.jpg/1200px-Dorum_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorum_Kirche.jpg/1920px-Dorum_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorum_Kirche.jpg/1920px-Dorum_Kirche.jpg---
 
 ## Overview
 

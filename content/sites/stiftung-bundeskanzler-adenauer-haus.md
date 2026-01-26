@@ -4,19 +4,18 @@ site_name: "Stiftung Bundeskanzler-Adenauer-Haus"
 date: 2026-01-26
 draft: false
 description: "Foundation in Germany"
-region: "Bad Honnef"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Honnef"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1712225"
 latitude: 50.65834
 longitude: 7.216159999
 images:
-  []
----
+  []---
 
 ## Overview
 

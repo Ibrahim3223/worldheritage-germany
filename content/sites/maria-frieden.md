@@ -4,19 +4,18 @@ site_name: "Maria Frieden"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kippenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kippenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1633476"
 latitude: 48.29375
 longitude: 7.83631
 images:
-  []
----
+  []---
 
 ## Overview
 

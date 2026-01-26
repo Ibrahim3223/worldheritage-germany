@@ -4,13 +4,13 @@ site_name: "Reformierte Kirche Lübeck"
 date: 2026-01-26
 draft: false
 description: "church building in Lübeck's Old City, Schleswig-Holstein, Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1766218"
 latitude: 53.8697
 longitude: 10.6891
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/400px-HLRefKircheaussen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/800px-HLRefKircheaussen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/1200px-HLRefKircheaussen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/1920px-HLRefKircheaussen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/1920px-HLRefKircheaussen.JPG---
 
 ## Overview
 

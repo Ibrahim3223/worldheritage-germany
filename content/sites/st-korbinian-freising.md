@@ -4,13 +4,13 @@ site_name: "St. Korbinian (Freising)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q1270117"
 latitude: 48.394619466
 longitude: 11.730230169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/400px-Asamkapelle_Freising.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/800px-Asamkapelle_Freising.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/1200px-Asamkapelle_Freising.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/1920px-Asamkapelle_Freising.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/1920px-Asamkapelle_Freising.jpg---
 
 ## Overview
 

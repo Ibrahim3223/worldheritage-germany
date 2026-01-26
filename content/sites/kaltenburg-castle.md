@@ -4,13 +4,13 @@ site_name: "Kaltenburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Giengen an der Brenz"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Giengen an der Brenz"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012602"
 latitude: 48.5814
 longitude: 10.2117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Kaltenburg.jpg/400px-Burg_Kaltenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Kaltenburg.jpg/800px-Burg_Kaltenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Kaltenburg.jpg/1200px-Burg_Kaltenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Kaltenburg.jpg/1920px-Burg_Kaltenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Kaltenburg.jpg/1920px-Burg_Kaltenburg.jpg---
 
 ## Overview
 

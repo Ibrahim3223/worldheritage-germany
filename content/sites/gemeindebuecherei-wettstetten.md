@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Wettstetten"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Wettstetten"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Wettstetten"
+  - "Bavaria"
 wikidata_id: "Q28729459"
 latitude: 48.82403
 longitude: 11.41346
 images:
-  []
----
+  []---
 
 ## Overview
 

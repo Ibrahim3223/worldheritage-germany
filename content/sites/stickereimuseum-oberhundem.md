@@ -4,13 +4,13 @@ site_name: "Stickereimuseum Oberhundem"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kirchhundem"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kirchhundem"
+  - "Hesse"
 wikidata_id: "Q1231234"
 latitude: 51.086
 longitude: 8.17446
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oberhundem_Stickereimuseum_2.JPG/400px-Oberhundem_Stickereimuseum_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oberhundem_Stickereimuseum_2.JPG/800px-Oberhundem_Stickereimuseum_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oberhundem_Stickereimuseum_2.JPG/1200px-Oberhundem_Stickereimuseum_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oberhundem_Stickereimuseum_2.JPG/1920px-Oberhundem_Stickereimuseum_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Oberhundem_Stickereimuseum_2.JPG/1920px-Oberhundem_Stickereimuseum_2.JPG---
 
 ## Overview
 

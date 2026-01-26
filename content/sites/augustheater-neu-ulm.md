@@ -4,13 +4,13 @@ site_name: "AuGuSTheater Neu-Ulm"
 date: 2026-01-26
 draft: false
 description: "building in Neu-Ulm, Swabia, Germany"
-region: "Neu-Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Neu-Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q758362"
 latitude: 48.3938
 longitude: 9.99569
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/400px-Eingang_Theater_Neu-Ulm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/800px-Eingang_Theater_Neu-Ulm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/1200px-Eingang_Theater_Neu-Ulm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/1920px-Eingang_Theater_Neu-Ulm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/1920px-Eingang_Theater_Neu-Ulm.jpg---
 
 ## Overview
 

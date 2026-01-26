@@ -4,19 +4,18 @@ site_name: "Industriewerke Ludwigsfelde"
 date: 2026-01-26
 draft: false
 description: "factory"
-region: "Ludwigsfelde"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Ludwigsfelde"
+  - "Berlin"
 wikidata_id: "Q787879"
 latitude: 52.31713
 longitude: 13.26499
 images:
-  []
----
+  []---
 
 ## Overview
 

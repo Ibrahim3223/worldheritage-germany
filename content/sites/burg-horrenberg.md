@@ -4,13 +4,13 @@ site_name: "Burg Horrenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dielheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dielheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012499"
 latitude: 49.2812
 longitude: 8.78123
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/400px-Horrenberg_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/800px-Horrenberg_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/1200px-Horrenberg_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/1920px-Horrenberg_Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/1920px-Horrenberg_Burg.jpg---
 
 ## Overview
 

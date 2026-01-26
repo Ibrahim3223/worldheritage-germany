@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung im Taitinger Holz"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q332119"
 latitude: 48.4173
 longitude: 11.0275
 images:
-  []
----
+  []---
 
 ## Overview
 

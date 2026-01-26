@@ -4,19 +4,18 @@ site_name: "Bahnbetriebswerk Bamberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-61-000-856 (0) in Bamberg, Bavaria"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q15107108"
 latitude: 49.909672777
 longitude: 10.892714061
 images:
-  []
----
+  []---
 
 ## Overview
 

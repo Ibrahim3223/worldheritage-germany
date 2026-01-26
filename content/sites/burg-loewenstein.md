@@ -4,13 +4,13 @@ site_name: "Burg Löwenstein"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Löwenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Löwenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013048"
 latitude: 49.0929
 longitude: 9.383
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Burg_Loewenstein_von_Sueden_20070312.jpg/400px-Burg_Loewenstein_von_Sueden_20070312.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Burg_Loewenstein_von_Sueden_20070312.jpg/800px-Burg_Loewenstein_von_Sueden_20070312.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Burg_Loewenstein_von_Sueden_20070312.jpg/1200px-Burg_Loewenstein_von_Sueden_20070312.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Burg_Loewenstein_von_Sueden_20070312.jpg/1920px-Burg_Loewenstein_von_Sueden_20070312.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Burg_Loewenstein_von_Sueden_20070312.jpg/1920px-Burg_Loewenstein_von_Sueden_20070312.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kaiser-Wilhelm-Gedächtniskirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q153951"
 latitude: 52.504722222
 longitude: 13.335277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/400px-Gedächtniskirche1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/800px-Gedächtniskirche1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/1200px-Gedächtniskirche1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/1920px-Gedächtniskirche1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/1920px-Gedächtniskirche1.JPG---
 
 ## Overview
 

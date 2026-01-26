@@ -4,19 +4,18 @@ site_name: "Insel Hombroich Foundation"
 date: 2026-01-26
 draft: false
 description: "German art foundation"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2349026"
 latitude: 51.147412
 longitude: 6.658745
 images:
-  []
----
+  []---
 
 ## Overview
 

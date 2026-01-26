@@ -4,13 +4,13 @@ site_name: "Schloss Bredebeck"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Lohheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lohheide"
+  - "Lower Saxony"
 wikidata_id: "Q2240375"
 latitude: 52.7872
 longitude: 9.89028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/400px-Schloss_Bredebeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/800px-Schloss_Bredebeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/1200px-Schloss_Bredebeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/1920px-Schloss_Bredebeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/1920px-Schloss_Bredebeck.jpg---
 
 ## Overview
 

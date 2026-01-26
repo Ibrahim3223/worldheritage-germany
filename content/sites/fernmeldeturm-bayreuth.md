@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Bayreuth"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1407023"
 latitude: 49.9669
 longitude: 11.6444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oschenbergturm.JPG/400px-Oschenbergturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oschenbergturm.JPG/800px-Oschenbergturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oschenbergturm.JPG/1200px-Oschenbergturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oschenbergturm.JPG/1920px-Oschenbergturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oschenbergturm.JPG/1920px-Oschenbergturm.JPG---
 
 ## Overview
 

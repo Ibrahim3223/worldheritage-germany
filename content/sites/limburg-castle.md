@@ -4,13 +4,13 @@ site_name: "Limburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sasbach am Kaiserstuhl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sasbach am Kaiserstuhl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012969"
 latitude: 48.1469
 longitude: 7.60447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaiserstuhl_2012_108.jpg/400px-Kaiserstuhl_2012_108.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaiserstuhl_2012_108.jpg/800px-Kaiserstuhl_2012_108.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaiserstuhl_2012_108.jpg/1200px-Kaiserstuhl_2012_108.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaiserstuhl_2012_108.jpg/1920px-Kaiserstuhl_2012_108.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kaiserstuhl_2012_108.jpg/1920px-Kaiserstuhl_2012_108.jpg---
 
 ## Overview
 

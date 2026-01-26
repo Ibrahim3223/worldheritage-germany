@@ -4,13 +4,13 @@ site_name: "Muskau Park"
 date: 2026-01-26
 draft: false
 description: "landscape park in the Upper Lusatia region of Germany and Poland"
-region: "Bad Muskau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Bad Muskau"
+  - "Brandenburg"
 wikidata_id: "Q156308"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1024_2012-1-sept-5088.jpg/400px-1024_2012-1-sept-5088.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1024_2012-1-sept-5088.jpg/800px-1024_2012-1-sept-5088.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1024_2012-1-sept-5088.jpg/1200px-1024_2012-1-sept-5088.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1024_2012-1-sept-5088.jpg/1920px-1024_2012-1-sept-5088.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1024_2012-1-sept-5088.jpg/1920px-1024_2012-1-sept-5088.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Kunibert's Church"
 date: 2026-01-26
 draft: false
 description: "church in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q457665"
 latitude: 50.946681
 longitude: 6.962719
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/400px-Köln_St_kunibert_vomrheinaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/800px-Köln_St_kunibert_vomrheinaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/1200px-Köln_St_kunibert_vomrheinaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/1920px-Köln_St_kunibert_vomrheinaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/1920px-Köln_St_kunibert_vomrheinaus.jpg---
 
 ## Overview
 

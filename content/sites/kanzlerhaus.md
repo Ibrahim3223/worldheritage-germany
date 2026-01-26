@@ -4,13 +4,13 @@ site_name: "Kanzlerhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wolfenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolfenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q15122710"
 latitude: 52.163118
 longitude: 10.536345
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/400px-Haus_Vredeman_de_Vries.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/800px-Haus_Vredeman_de_Vries.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/1200px-Haus_Vredeman_de_Vries.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/1920px-Haus_Vredeman_de_Vries.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/1920px-Haus_Vredeman_de_Vries.jpg---
 
 ## Overview
 

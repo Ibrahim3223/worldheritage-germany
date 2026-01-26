@@ -4,19 +4,18 @@ site_name: "Hans Körnig Museum"
 date: 2026-01-26
 draft: false
 description: "former art museum for Hans Koernig"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q85680222"
 latitude: 51.06146
 longitude: 13.74014
 images:
-  []
----
+  []---
 
 ## Overview
 

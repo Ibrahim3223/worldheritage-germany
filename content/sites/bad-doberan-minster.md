@@ -4,13 +4,13 @@ site_name: "Bad Doberan Minster"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bad Doberan"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Doberan"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q461397"
 latitude: 54.107783333
 longitude: 11.909833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/400px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/800px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/1200px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/1920px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/1920px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg---
 
 ## Overview
 

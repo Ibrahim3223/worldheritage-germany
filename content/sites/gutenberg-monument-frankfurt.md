@@ -4,13 +4,13 @@ site_name: "Gutenberg monument, Frankfurt"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1557145"
 latitude: 50.1123
 longitude: 8.67644
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/400px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/800px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/1200px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/1920px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/1920px-Frankfurt_Gutenberg-Denkmal.20140607.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Auequelle"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Kirchlinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kirchlinteln"
+  - "Lower Saxony"
 wikidata_id: "Q759161"
 latitude: 53.0153
 longitude: 9.32056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/400px-Auequelle_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/800px-Auequelle_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1200px-Auequelle_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1920px-Auequelle_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1920px-Auequelle_001.jpg---
 
 ## Overview
 

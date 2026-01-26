@@ -4,13 +4,13 @@ site_name: "St. Nicolaikirche (Wittmund)"
 date: 2026-01-26
 draft: false
 description: "church building in Wittmund, Germany"
-region: "Wittmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wittmund"
+  - "Lower Saxony"
 wikidata_id: "Q1657329"
 latitude: 53.5763
 longitude: 7.78215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/400px-Wittmund,_St._Nicolaikirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/800px-Wittmund,_St._Nicolaikirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/1200px-Wittmund,_St._Nicolaikirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/1920px-Wittmund,_St._Nicolaikirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/1920px-Wittmund,_St._Nicolaikirche.JPG---
 
 ## Overview
 

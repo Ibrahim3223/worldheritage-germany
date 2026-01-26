@@ -4,13 +4,13 @@ site_name: "Burg Nehren"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nehren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nehren"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013210"
 latitude: 48.431
 longitude: 9.07149
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/400px-Nehrener_Wasserburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/800px-Nehrener_Wasserburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/1200px-Nehrener_Wasserburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/1920px-Nehrener_Wasserburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/1920px-Nehrener_Wasserburg.jpg---
 
 ## Overview
 

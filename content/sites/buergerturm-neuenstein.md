@@ -4,13 +4,13 @@ site_name: "Bürgerturm (Neuenstein)"
 date: 2026-01-26
 draft: false
 description: "tower in Neuenstein, Baden-Württemberg"
-region: "Neuenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Neuenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1021501"
 latitude: 49.2054
 longitude: 9.58184
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/400px-Bürgerturm_(Neuenstein)-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/800px-Bürgerturm_(Neuenstein)-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/1200px-Bürgerturm_(Neuenstein)-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/1920px-Bürgerturm_(Neuenstein)-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/1920px-Bürgerturm_(Neuenstein)-01.jpg---
 
 ## Overview
 

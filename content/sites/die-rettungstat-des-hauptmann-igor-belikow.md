@@ -4,13 +4,13 @@ site_name: "Die Rettungstat des Hauptmann Igor Belikow"
 date: 2026-01-26
 draft: false
 description: "sculpture and memorial in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1215765"
 latitude: 52.1311
 longitude: 11.6333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/400px-Belikow-Denkmal_Vorderseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/800px-Belikow-Denkmal_Vorderseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/1200px-Belikow-Denkmal_Vorderseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/1920px-Belikow-Denkmal_Vorderseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/1920px-Belikow-Denkmal_Vorderseite.JPG---
 
 ## Overview
 

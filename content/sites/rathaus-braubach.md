@@ -4,13 +4,13 @@ site_name: "Rathaus Braubach"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Rheinland-Pfalz"
-region: "Braubach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Braubach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q122696266"
 latitude: 50.2743
 longitude: 7.64441
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rathaus_Braubach_2023-05-03_6.jpg/400px-Rathaus_Braubach_2023-05-03_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rathaus_Braubach_2023-05-03_6.jpg/800px-Rathaus_Braubach_2023-05-03_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rathaus_Braubach_2023-05-03_6.jpg/1200px-Rathaus_Braubach_2023-05-03_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rathaus_Braubach_2023-05-03_6.jpg/1920px-Rathaus_Braubach_2023-05-03_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rathaus_Braubach_2023-05-03_6.jpg/1920px-Rathaus_Braubach_2023-05-03_6.jpg---
 
 ## Overview
 

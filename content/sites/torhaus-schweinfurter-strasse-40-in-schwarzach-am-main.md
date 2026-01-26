@@ -4,19 +4,18 @@ site_name: "Torhaus Schweinfurter Straße 40 in Schwarzach am Main"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-165-28 (2) in Schwarzach am Main, Bavaria"
-region: "Schwarzach am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Schwarzach am Main"
+  - "Bavaria"
 wikidata_id: "Q98495720"
 latitude: 49.805109286
 longitude: 10.230124917
 images:
-  []
----
+  []---
 
 ## Overview
 

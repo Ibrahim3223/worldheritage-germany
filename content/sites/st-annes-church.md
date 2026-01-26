@@ -4,13 +4,13 @@ site_name: "St. Anne's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Annaberg-Buchholz, Saxony, Germany"
-region: "Annaberg-Buchholz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Annaberg-Buchholz"
+  - "Bavaria"
 wikidata_id: "Q896131"
 latitude: 50.5786
 longitude: 13.0053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/400px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/800px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/1200px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/1920px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/1920px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg---
 
 ## Overview
 

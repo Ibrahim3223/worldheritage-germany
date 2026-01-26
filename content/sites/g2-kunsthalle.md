@@ -4,19 +4,18 @@ site_name: "G2 Kunsthalle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q23787561"
 latitude: 51.34
 longitude: 12.370833333
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Prunn"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Q503693"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Q503693"
+  - "Bavaria"
 wikidata_id: "Q1013521"
 latitude: 48.950277777
 longitude: 11.739583333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Schloss_Prunn_Sued.jpg/400px-Schloss_Prunn_Sued.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Schloss_Prunn_Sued.jpg/800px-Schloss_Prunn_Sued.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Schloss_Prunn_Sued.jpg/1200px-Schloss_Prunn_Sued.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Schloss_Prunn_Sued.jpg/1920px-Schloss_Prunn_Sued.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Schloss_Prunn_Sued.jpg/1920px-Schloss_Prunn_Sued.jpg---
 
 ## Overview
 

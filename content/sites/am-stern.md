@@ -4,13 +4,13 @@ site_name: "Am Stern"
 date: 2026-01-26
 draft: false
 description: "public square in Schwachhausen, Germany"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q451475"
 latitude: 53.0844
 longitude: 8.8248
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG/400px-2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG/800px-2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG/1200px-2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG/1920px-2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG/1920px-2012-08-08-fotoflug-bremen_zweiter_flug_1098.JPG---
 
 ## Overview
 

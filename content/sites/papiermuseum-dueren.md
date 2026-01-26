@@ -4,19 +4,18 @@ site_name: "Papiermuseum Düren"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2050718"
 latitude: 50.8008
 longitude: 6.47944
 images:
-  []
----
+  []---
 
 ## Overview
 

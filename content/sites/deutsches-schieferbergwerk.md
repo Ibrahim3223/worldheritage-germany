@@ -4,13 +4,13 @@ site_name: "Deutsches Schieferbergwerk"
 date: 2026-01-26
 draft: false
 description: "Erlebnisbergwerk und Museum in der Stadt Mayen"
-region: "Mayen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mayen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1205955"
 latitude: 50.3264
 longitude: 7.22215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/400px-Mayen,_Genovevaburcht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/800px-Mayen,_Genovevaburcht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/1200px-Mayen,_Genovevaburcht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/1920px-Mayen,_Genovevaburcht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/1920px-Mayen,_Genovevaburcht.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kerpen Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kerpen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kerpen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012642"
 latitude: 50.3111
 longitude: 6.73262
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/400px-Burg_Kerpen03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/800px-Burg_Kerpen03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/1200px-Burg_Kerpen03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/1920px-Burg_Kerpen03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/1920px-Burg_Kerpen03.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Christ-Königs-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Düren, Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1077945"
 latitude: 50.8109
 longitude: 6.44576
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg/400px-Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg/800px-Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg/1200px-Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg/1920px-Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg/1920px-Düren-Mariaweiler_Denkmal-Nr._9-003,_Lommessemstraße_59_(475).jpg---
 
 ## Overview
 

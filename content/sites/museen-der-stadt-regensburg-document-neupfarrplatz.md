@@ -4,19 +4,18 @@ site_name: "Museen der Stadt Regensburg / document Neupfarrplatz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q76629221"
 latitude: 49.018315
 longitude: 12.096098
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "synagogue Zündorf"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Cologne, Germany"
-region: "Zündorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Zündorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q179375"
 latitude: 50.8688
 longitude: 7.04472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Synagoge_Zündorf,_Westansicht,_1960.jpg/400px-Synagoge_Zündorf,_Westansicht,_1960.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Synagoge_Zündorf,_Westansicht,_1960.jpg/800px-Synagoge_Zündorf,_Westansicht,_1960.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Synagoge_Zündorf,_Westansicht,_1960.jpg/1200px-Synagoge_Zündorf,_Westansicht,_1960.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Synagoge_Zündorf,_Westansicht,_1960.jpg/1920px-Synagoge_Zündorf,_Westansicht,_1960.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Synagoge_Zündorf,_Westansicht,_1960.jpg/1920px-Synagoge_Zündorf,_Westansicht,_1960.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke über den Haselbach Schwosdorfer Straße"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403619"
 latitude: 51.242897
 longitude: 14.025482
 images:
-  []
----
+  []---
 
 ## Overview
 

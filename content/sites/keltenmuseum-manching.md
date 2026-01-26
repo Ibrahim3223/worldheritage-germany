@@ -4,13 +4,13 @@ site_name: "Keltenmuseum Manching"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Manching"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Manching"
+  - "Bavaria"
 wikidata_id: "Q1550590"
 latitude: 48.713
 longitude: 11.4933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kelten_römer_museum_manching_von_S.JPG/400px-Kelten_römer_museum_manching_von_S.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kelten_römer_museum_manching_von_S.JPG/800px-Kelten_römer_museum_manching_von_S.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kelten_römer_museum_manching_von_S.JPG/1200px-Kelten_römer_museum_manching_von_S.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kelten_römer_museum_manching_von_S.JPG/1920px-Kelten_römer_museum_manching_von_S.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kelten_römer_museum_manching_von_S.JPG/1920px-Kelten_römer_museum_manching_von_S.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wendelinuskapellen von Budenheim"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Budenheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Budenheim"
+  - "Hesse"
 wikidata_id: "Q1673504"
 latitude: 50.0113
 longitude: 8.19025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wendelinuskapelle1866.jpg/400px-Wendelinuskapelle1866.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wendelinuskapelle1866.jpg/800px-Wendelinuskapelle1866.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wendelinuskapelle1866.jpg/1200px-Wendelinuskapelle1866.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wendelinuskapelle1866.jpg/1920px-Wendelinuskapelle1866.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wendelinuskapelle1866.jpg/1920px-Wendelinuskapelle1866.jpg---
 
 ## Overview
 

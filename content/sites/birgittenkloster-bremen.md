@@ -4,13 +4,13 @@ site_name: "Birgittenkloster Bremen"
 date: 2026-01-26
 draft: false
 description: "Bridgettine convent in Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q865402"
 latitude: 53.0733
 longitude: 8.80972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Birgittenkloster-01.jpg/400px-Birgittenkloster-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Birgittenkloster-01.jpg/800px-Birgittenkloster-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Birgittenkloster-01.jpg/1200px-Birgittenkloster-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Birgittenkloster-01.jpg/1920px-Birgittenkloster-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Birgittenkloster-01.jpg/1920px-Birgittenkloster-01.jpg---
 
 ## Overview
 

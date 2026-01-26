@@ -4,13 +4,13 @@ site_name: "Pfarrkirche"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-174-253 (0) in Volkach, Bavaria"
-region: "Volkach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Volkach"
+  - "Bavaria"
 wikidata_id: "Q14541241"
 latitude: 49.8906
 longitude: 10.2275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/400px-GaibachKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/800px-GaibachKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/1200px-GaibachKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/1920px-GaibachKirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/1920px-GaibachKirche.JPG---
 
 ## Overview
 

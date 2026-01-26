@@ -4,13 +4,13 @@ site_name: "Neuer Zollhof"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q822071"
 latitude: 51.216197222
 longitude: 6.757708333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg/400px-NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg/800px-NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg/1200px-NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg/1920px-NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg/1920px-NRW,_Düsseldorf_-_Medienhafen,_Neue_Zollhof_01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Askanischer Platz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q264438"
 latitude: 52.504
 longitude: 13.3817
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/400px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/800px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/1200px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/1920px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/1920px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wildpark Mainz-Gonsenheim"
 date: 2026-01-26
 draft: false
 description: "Wildpark im Mainzer Stadtteil Gonsenheim"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q2570817"
 latitude: 50.0061
 longitude: 8.2037
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildpark_Mainz-Gonsenheim_Eingang.jpg/400px-Wildpark_Mainz-Gonsenheim_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildpark_Mainz-Gonsenheim_Eingang.jpg/800px-Wildpark_Mainz-Gonsenheim_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildpark_Mainz-Gonsenheim_Eingang.jpg/1200px-Wildpark_Mainz-Gonsenheim_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildpark_Mainz-Gonsenheim_Eingang.jpg/1920px-Wildpark_Mainz-Gonsenheim_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildpark_Mainz-Gonsenheim_Eingang.jpg/1920px-Wildpark_Mainz-Gonsenheim_Eingang.jpg---
 
 ## Overview
 

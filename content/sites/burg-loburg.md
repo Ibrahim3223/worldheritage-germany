@@ -4,13 +4,13 @@ site_name: "Burg Loburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Möckern"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Möckern"
+  - "Brandenburg"
 wikidata_id: "Q1013008"
 latitude: 52.1111
 longitude: 12.0697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/400px-Loburg1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/800px-Loburg1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1200px-Loburg1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1920px-Loburg1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1920px-Loburg1.JPG---
 
 ## Overview
 

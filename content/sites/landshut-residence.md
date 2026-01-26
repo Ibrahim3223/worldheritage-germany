@@ -4,13 +4,13 @@ site_name: "Landshut Residence"
 date: 2026-01-26
 draft: false
 description: "building in Landshut, Lower Bavaria, Germany"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q2327993"
 latitude: 48.5361
 longitude: 12.1508
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Landshut_-_Stadtresidenz_Landshut.jpg/400px-Landshut_-_Stadtresidenz_Landshut.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Landshut_-_Stadtresidenz_Landshut.jpg/800px-Landshut_-_Stadtresidenz_Landshut.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Landshut_-_Stadtresidenz_Landshut.jpg/1200px-Landshut_-_Stadtresidenz_Landshut.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Landshut_-_Stadtresidenz_Landshut.jpg/1920px-Landshut_-_Stadtresidenz_Landshut.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Landshut_-_Stadtresidenz_Landshut.jpg/1920px-Landshut_-_Stadtresidenz_Landshut.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Blankeneser Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q881579"
 latitude: 53.56166667
 longitude: 9.81291667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/400px-Ensemble-Evangelische-Kirche-Blankenese.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/800px-Ensemble-Evangelische-Kirche-Blankenese.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1200px-Ensemble-Evangelische-Kirche-Blankenese.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1920px-Ensemble-Evangelische-Kirche-Blankenese.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1920px-Ensemble-Evangelische-Kirche-Blankenese.jpg---
 
 ## Overview
 

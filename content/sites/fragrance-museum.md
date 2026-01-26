@@ -4,13 +4,13 @@ site_name: "Fragrance Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q694490"
 latitude: 50.93774
 longitude: 6.95792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/400px-Farina-Haus_Köln_(4213-15).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/800px-Farina-Haus_Köln_(4213-15).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/1200px-Farina-Haus_Köln_(4213-15).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/1920px-Farina-Haus_Köln_(4213-15).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/1920px-Farina-Haus_Köln_(4213-15).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heiligenburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle ruin on the hill of Heiligenberg in the district of Schwalm-Eder-Kreis, Hesse, Germany."
-region: "Gensungen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gensungen"
+  - "Hesse"
 wikidata_id: "Q1012261"
 latitude: 51.1328
 longitude: 9.45833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/400px-Felsberg_De_Merian_Hassiae.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/800px-Felsberg_De_Merian_Hassiae.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1200px-Felsberg_De_Merian_Hassiae.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1920px-Felsberg_De_Merian_Hassiae.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1920px-Felsberg_De_Merian_Hassiae.jpg---
 
 ## Overview
 

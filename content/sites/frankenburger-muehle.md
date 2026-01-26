@@ -4,13 +4,13 @@ site_name: "Frankenburger Mühle"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Lilienthal"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Lilienthal"
+  - "Bremen"
 wikidata_id: "Q137691420"
 latitude: 53.175270946
 longitude: 8.905896151
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/400px-Mühle_Frankenburg_Lilienthal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/800px-Mühle_Frankenburg_Lilienthal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/1200px-Mühle_Frankenburg_Lilienthal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/1920px-Mühle_Frankenburg_Lilienthal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/1920px-Mühle_Frankenburg_Lilienthal.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bad Elster Spa Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Elster"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Elster"
+  - "Bavaria"
 wikidata_id: "Q798883"
 latitude: 50.2833
 longitude: 12.2394
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/400px-BadElster5204.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/800px-BadElster5204.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/1200px-BadElster5204.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/1920px-BadElster5204.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/1920px-BadElster5204.JPG---
 
 ## Overview
 

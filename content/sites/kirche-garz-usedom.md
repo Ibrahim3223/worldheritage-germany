@@ -4,13 +4,13 @@ site_name: "Kirche Garz (Usedom)"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Garz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Garz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742536"
 latitude: 53.8808
 longitude: 14.1745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/400px-Kirche_Garz_(Usedom)_von_SO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/800px-Kirche_Garz_(Usedom)_von_SO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/1200px-Kirche_Garz_(Usedom)_von_SO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/1920px-Kirche_Garz_(Usedom)_von_SO.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/1920px-Kirche_Garz_(Usedom)_von_SO.jpg---
 
 ## Overview
 

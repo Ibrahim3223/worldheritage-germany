@@ -4,13 +4,13 @@ site_name: "Burg Baltenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Betzigau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Betzigau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1010903"
 latitude: 47.721935484
 longitude: 10.400984574
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine_Baltenstein_GO-2.jpg/400px-Ruine_Baltenstein_GO-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine_Baltenstein_GO-2.jpg/800px-Ruine_Baltenstein_GO-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine_Baltenstein_GO-2.jpg/1200px-Ruine_Baltenstein_GO-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine_Baltenstein_GO-2.jpg/1920px-Ruine_Baltenstein_GO-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine_Baltenstein_GO-2.jpg/1920px-Ruine_Baltenstein_GO-2.jpg---
 
 ## Overview
 

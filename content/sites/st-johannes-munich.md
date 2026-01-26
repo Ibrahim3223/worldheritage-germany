@@ -4,13 +4,13 @@ site_name: "St. Johannes, Munich"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1360442"
 latitude: 48.1325
 longitude: 11.5942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/St._Johannes_Kirche_in_München_Haidhausen_02.jpg/400px-St._Johannes_Kirche_in_München_Haidhausen_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/St._Johannes_Kirche_in_München_Haidhausen_02.jpg/800px-St._Johannes_Kirche_in_München_Haidhausen_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/St._Johannes_Kirche_in_München_Haidhausen_02.jpg/1200px-St._Johannes_Kirche_in_München_Haidhausen_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/St._Johannes_Kirche_in_München_Haidhausen_02.jpg/1920px-St._Johannes_Kirche_in_München_Haidhausen_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/St._Johannes_Kirche_in_München_Haidhausen_02.jpg/1920px-St._Johannes_Kirche_in_München_Haidhausen_02.jpg---
 
 ## Overview
 

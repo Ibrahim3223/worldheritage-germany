@@ -4,13 +4,13 @@ site_name: "Wiesen- und Weidenflächen an der Oste"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Kranenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kranenburg"
+  - "Lower Saxony"
 wikidata_id: "Q474558"
 latitude: 53.606666666
 longitude: 9.178055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg---
 
 ## Overview
 

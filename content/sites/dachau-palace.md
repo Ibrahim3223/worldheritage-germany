@@ -4,13 +4,13 @@ site_name: "Dachau Palace"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dachau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dachau"
+  - "Bavaria"
 wikidata_id: "Q573699"
 latitude: 48.258388888
 longitude: 11.432972222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg---
 
 ## Overview
 

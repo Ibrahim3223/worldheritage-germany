@@ -4,13 +4,13 @@ site_name: "Müritz"
 date: 2026-01-26
 draft: false
 description: "large lake in Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q3369"
 latitude: 53.416666666
 longitude: 12.683333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/400px-Müritz_Karte.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/800px-Müritz_Karte.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/1200px-Müritz_Karte.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/1920px-Müritz_Karte.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/1920px-Müritz_Karte.png---
 
 ## Overview
 

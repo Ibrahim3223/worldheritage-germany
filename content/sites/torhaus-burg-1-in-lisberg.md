@@ -4,19 +4,18 @@ site_name: "Torhaus Burg 1 in Lisberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-71-154-1 (2) in Lisberg, Bavaria"
-region: "Lisberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Lisberg"
+  - "Bavaria"
 wikidata_id: "Q98587109"
 latitude: 49.884036369
 longitude: 10.727047446
 images:
-  []
----
+  []---
 
 ## Overview
 

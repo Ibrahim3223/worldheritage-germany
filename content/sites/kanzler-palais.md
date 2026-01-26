@@ -4,13 +4,13 @@ site_name: "Kanzler-Palais"
 date: 2026-01-26
 draft: false
 description: "building in Fulda (Germany)"
-region: "Fulda"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Fulda"
+  - "Bavaria"
 wikidata_id: "Q62445680"
 latitude: 50.551261111
 longitude: 9.676388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/FD_KanzlerPalais_01.jpg/400px-FD_KanzlerPalais_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/FD_KanzlerPalais_01.jpg/800px-FD_KanzlerPalais_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/FD_KanzlerPalais_01.jpg/1200px-FD_KanzlerPalais_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/FD_KanzlerPalais_01.jpg/1920px-FD_KanzlerPalais_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/FD_KanzlerPalais_01.jpg/1920px-FD_KanzlerPalais_01.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "D.I.W.A. Frauenforschungsstelle Münster e. V., Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q2253754"
 latitude: 51.9571
 longitude: 7.63311
 images:
-  []
----
+  []---
 
 ## Overview
 

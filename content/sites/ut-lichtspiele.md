@@ -4,19 +4,18 @@ site_name: "U.T.-Lichtspiele"
 date: 2026-01-26
 draft: false
 description: "former cinema and theatre in Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q2466427"
 latitude: 53.86865
 longitude: 10.6847
 images:
-  []
----
+  []---
 
 ## Overview
 

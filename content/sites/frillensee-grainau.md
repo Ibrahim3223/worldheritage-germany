@@ -4,13 +4,13 @@ site_name: "Frillensee (Grainau)"
 date: 2026-01-26
 draft: false
 description: "lake of Bavaria"
-region: "Grainau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Grainau"
+  - "Bavaria"
 wikidata_id: "Q256725"
 latitude: 47.454
 longitude: 10.9849
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Frillensee_1.JPG/400px-Frillensee_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Frillensee_1.JPG/800px-Frillensee_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Frillensee_1.JPG/1200px-Frillensee_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Frillensee_1.JPG/1920px-Frillensee_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Frillensee_1.JPG/1920px-Frillensee_1.JPG---
 
 ## Overview
 

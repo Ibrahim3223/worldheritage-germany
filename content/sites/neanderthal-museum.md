@@ -4,13 +4,13 @@ site_name: "Neanderthal Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Mettmann, Germany"
-region: "Mettmann"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mettmann"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q464416"
 latitude: 51.2269
 longitude: 6.95056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Museum1.JPG/400px-Museum1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Museum1.JPG/800px-Museum1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Museum1.JPG/1200px-Museum1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Museum1.JPG/1920px-Museum1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Museum1.JPG/1920px-Museum1.JPG---
 
 ## Overview
 

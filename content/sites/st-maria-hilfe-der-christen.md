@@ -4,13 +4,13 @@ site_name: "St. Maria Hilfe der Christen"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Lörick, Germany"
-region: "Lörick"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lörick"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2320642"
 latitude: 51.2453
 longitude: 6.72299
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/400px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/800px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/1200px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/1920px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/1920px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg---
 
 ## Overview
 

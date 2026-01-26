@@ -4,13 +4,13 @@ site_name: "Reformed Church (Campen)"
 date: 2026-01-26
 draft: false
 description: "church building in Krummhörn, Lower Saxony, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q127918"
 latitude: 53.399919
 longitude: 7.051156
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/400px-ChurchCampenRef.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/800px-ChurchCampenRef.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/1200px-ChurchCampenRef.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/1920px-ChurchCampenRef.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/1920px-ChurchCampenRef.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Gera"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Gera"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Gera"
+  - "Saxony"
 wikidata_id: "Q769851"
 latitude: 50.8758
 longitude: 12.0878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/400px-Botanischer_Garten_Gera_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/800px-Botanischer_Garten_Gera_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1200px-Botanischer_Garten_Gera_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1920px-Botanischer_Garten_Gera_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1920px-Botanischer_Garten_Gera_5.jpg---
 
 ## Overview
 

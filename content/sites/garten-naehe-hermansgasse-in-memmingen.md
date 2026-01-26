@@ -4,19 +4,18 @@ site_name: "Garten Nähe Hermansgasse in Memmingen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-7-64-000-259 (3) in Memmingen, Bavaria"
-region: "Memmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Memmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98722957"
 latitude: 47.986452977
 longitude: 10.179112924
 images:
-  []
----
+  []---
 
 ## Overview
 

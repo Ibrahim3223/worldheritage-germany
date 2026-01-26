@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/400px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/800px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/1200px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/1920px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/1920px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg---
 
 ## Overview
 

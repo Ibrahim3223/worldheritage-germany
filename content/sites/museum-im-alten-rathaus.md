@@ -4,19 +4,18 @@ site_name: "Museum im Alten Rathaus"
 date: 2026-01-26
 draft: false
 description: "museum in Pfarrkirchen, Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629089"
 latitude: 48.432132
 longitude: 12.93886
 images:
-  []
----
+  []---
 
 ## Overview
 

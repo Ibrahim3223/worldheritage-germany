@@ -4,13 +4,13 @@ site_name: "Haus Rüschhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Münster, Germany"
-region: "Münster-West"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münster-West"
+  - "Lower Saxony"
 wikidata_id: "Q895735"
 latitude: 51.990662
 longitude: 7.552318
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/400px-Münster_Haus_Rüschhaus_2006_vorne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/800px-Münster_Haus_Rüschhaus_2006_vorne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1200px-Münster_Haus_Rüschhaus_2006_vorne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1920px-Münster_Haus_Rüschhaus_2006_vorne.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1920px-Münster_Haus_Rüschhaus_2006_vorne.jpg---
 
 ## Overview
 

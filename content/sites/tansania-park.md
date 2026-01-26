@@ -4,19 +4,18 @@ site_name: "Tansania-Park"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1236450"
 latitude: 53.583611
 longitude: 10.133889
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Draft Horse Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lütau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lütau"
+  - "Lower Saxony"
 wikidata_id: "Q228479"
 latitude: 53.43587
 longitude: 10.55005
 images:
-  []
----
+  []---
 
 ## Overview
 

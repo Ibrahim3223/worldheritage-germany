@@ -4,19 +4,18 @@ site_name: "Altenburg (Wolfstein)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wolfstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wolfstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q436912"
 latitude: 49.60741
 longitude: 7.60707
 images:
-  []
----
+  []---
 
 ## Overview
 

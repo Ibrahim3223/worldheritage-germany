@@ -4,13 +4,13 @@ site_name: "Eifgenburg"
 date: 2026-01-26
 draft: false
 description: "ehemalige Hangburg"
-region: "Burscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Burscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1302966"
 latitude: 51.0744
 longitude: 7.14333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burscheid_-_Eifgenburg_07_ies.jpg/400px-Burscheid_-_Eifgenburg_07_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burscheid_-_Eifgenburg_07_ies.jpg/800px-Burscheid_-_Eifgenburg_07_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burscheid_-_Eifgenburg_07_ies.jpg/1200px-Burscheid_-_Eifgenburg_07_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burscheid_-_Eifgenburg_07_ies.jpg/1920px-Burscheid_-_Eifgenburg_07_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burscheid_-_Eifgenburg_07_ies.jpg/1920px-Burscheid_-_Eifgenburg_07_ies.jpg---
 
 ## Overview
 

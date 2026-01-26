@@ -4,13 +4,13 @@ site_name: "Zelle Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q537738"
 latitude: 50.598055555
 longitude: 12.693055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/400px-Kloesterlein_Zelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/800px-Kloesterlein_Zelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/1200px-Kloesterlein_Zelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/1920px-Kloesterlein_Zelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/1920px-Kloesterlein_Zelle.jpg---
 
 ## Overview
 

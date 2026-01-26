@@ -4,13 +4,13 @@ site_name: "Schloss Wörlitz"
 date: 2026-01-26
 draft: false
 description: "castle in Wörlitz, Saxony-Anhalt, formerly owned by Dukes of Anhalt"
-region: "Oranienbaum-Wörlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Maison De Plaisance"
 categories:
   - "Maison De Plaisance"
 regions:
-  - "Oranienbaum-Wörlitz"
+  - "Brandenburg"
 wikidata_id: "Q21293161"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/400px-Wörlitz_Schloss_asv2024-06_img17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/800px-Wörlitz_Schloss_asv2024-06_img17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/1200px-Wörlitz_Schloss_asv2024-06_img17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/1920px-Wörlitz_Schloss_asv2024-06_img17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/1920px-Wörlitz_Schloss_asv2024-06_img17.jpg---
 
 ## Overview
 

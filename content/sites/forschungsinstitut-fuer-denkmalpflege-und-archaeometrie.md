@@ -4,19 +4,18 @@ site_name: "Forschungsinstitut für Denkmalpflege und Archäometrie"
 date: 2026-01-26
 draft: false
 description: "archive organization in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q77075573"
 latitude: 52.393974
 longitude: 13.020129
 images:
-  []
----
+  []---
 
 ## Overview
 

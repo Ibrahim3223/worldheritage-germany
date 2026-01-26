@@ -4,13 +4,13 @@ site_name: "Grafschaft Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Schmallenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Schmallenberg"
+  - "Hesse"
 wikidata_id: "Q543879"
 latitude: 51.1444
 longitude: 8.3241
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/400px-Kloster_Grafschaft_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/800px-Kloster_Grafschaft_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/1200px-Kloster_Grafschaft_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/1920px-Kloster_Grafschaft_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/1920px-Kloster_Grafschaft_2011.jpg---
 
 ## Overview
 

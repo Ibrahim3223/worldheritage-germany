@@ -4,13 +4,13 @@ site_name: "Ziegelsee"
 date: 2026-01-26
 draft: false
 description: "lake in Mölln (Germany)"
-region: "Mölln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mölln"
+  - "Lower Saxony"
 wikidata_id: "Q198723"
 latitude: 53.6283
 longitude: 10.679
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/400px-Mölln_Ziegelsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/800px-Mölln_Ziegelsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/1200px-Mölln_Ziegelsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/1920px-Mölln_Ziegelsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/1920px-Mölln_Ziegelsee.jpg---
 
 ## Overview
 

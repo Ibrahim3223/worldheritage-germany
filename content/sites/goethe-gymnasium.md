@@ -4,13 +4,13 @@ site_name: "Goethe Gymnasium"
 date: 2026-01-26
 draft: false
 description: "school in Berlin-Wilmersdorf"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1534107"
 latitude: 52.4873
 longitude: 13.3216
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg/400px-Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg/800px-Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg/1200px-Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg/1920px-Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg/1920px-Goethe-Gymnasium_B-Wilmersdorf_02-2014.jpg---
 
 ## Overview
 

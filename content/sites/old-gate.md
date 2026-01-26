@@ -4,13 +4,13 @@ site_name: "Old Gate"
 date: 2026-01-26
 draft: false
 description: "medieval west city gate of Speyer"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22567"
 latitude: 49.3175
 longitude: 8.43227
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Speyer_BW_6.JPG/400px-Speyer_BW_6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Speyer_BW_6.JPG/800px-Speyer_BW_6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Speyer_BW_6.JPG/1200px-Speyer_BW_6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Speyer_BW_6.JPG/1920px-Speyer_BW_6.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Speyer_BW_6.JPG/1920px-Speyer_BW_6.JPG---
 
 ## Overview
 

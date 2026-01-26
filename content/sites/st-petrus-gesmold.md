@@ -4,13 +4,13 @@ site_name: "St. Petrus (Gesmold)"
 date: 2026-01-26
 draft: false
 description: "church building in Gesmold, Germany"
-region: "Melle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Melle"
+  - "Lower Saxony"
 wikidata_id: "Q2316694"
 latitude: 52.2106
 longitude: 8.27272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kirche_Friedhof_Gesmold.jpg/400px-Kirche_Friedhof_Gesmold.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kirche_Friedhof_Gesmold.jpg/800px-Kirche_Friedhof_Gesmold.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kirche_Friedhof_Gesmold.jpg/1200px-Kirche_Friedhof_Gesmold.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kirche_Friedhof_Gesmold.jpg/1920px-Kirche_Friedhof_Gesmold.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kirche_Friedhof_Gesmold.jpg/1920px-Kirche_Friedhof_Gesmold.jpg---
 
 ## Overview
 

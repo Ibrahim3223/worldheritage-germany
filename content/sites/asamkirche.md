@@ -4,13 +4,13 @@ site_name: "Asamkirche"
 date: 2026-01-26
 draft: false
 description: "Filial church in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q152973"
 latitude: 48.13520696
 longitude: 11.569513967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/400px-St._Nepomuk_retusche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/800px-St._Nepomuk_retusche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1200px-St._Nepomuk_retusche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1920px-St._Nepomuk_retusche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1920px-St._Nepomuk_retusche.jpg---
 
 ## Overview
 

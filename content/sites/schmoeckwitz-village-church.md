@@ -4,13 +4,13 @@ site_name: "Schmöckwitz village church"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin"
-region: "Treptow-Köpenick"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Treptow-Köpenick"
+  - "Berlin"
 wikidata_id: "Q1244714"
 latitude: 52.3755
 longitude: 13.6498
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Schmöckwitz_02.jpg/400px-Dorfkirche_Schmöckwitz_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Schmöckwitz_02.jpg/800px-Dorfkirche_Schmöckwitz_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Schmöckwitz_02.jpg/1200px-Dorfkirche_Schmöckwitz_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Schmöckwitz_02.jpg/1920px-Dorfkirche_Schmöckwitz_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Schmöckwitz_02.jpg/1920px-Dorfkirche_Schmöckwitz_02.jpg---
 
 ## Overview
 

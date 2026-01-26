@@ -4,13 +4,13 @@ site_name: "Brögberner Teiche – Baccumer Bruch"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Lingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Lingen"
+  - "Lower Saxony"
 wikidata_id: "Q995719"
 latitude: 52.55222222
 longitude: 7.39944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/400px-Broegberner_teiche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/800px-Broegberner_teiche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/1200px-Broegberner_teiche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/1920px-Broegberner_teiche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/1920px-Broegberner_teiche.jpg---
 
 ## Overview
 

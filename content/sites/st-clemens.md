@@ -4,13 +4,13 @@ site_name: "St. Clemens"
 date: 2026-01-26
 draft: false
 description: "church building in Solingen, Germany"
-region: "Solingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Solingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317833"
 latitude: 51.1743
 longitude: 7.08617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St._Clemens_Solingen_2019_07.jpg/400px-St._Clemens_Solingen_2019_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St._Clemens_Solingen_2019_07.jpg/800px-St._Clemens_Solingen_2019_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St._Clemens_Solingen_2019_07.jpg/1200px-St._Clemens_Solingen_2019_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St._Clemens_Solingen_2019_07.jpg/1920px-St._Clemens_Solingen_2019_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St._Clemens_Solingen_2019_07.jpg/1920px-St._Clemens_Solingen_2019_07.jpg---
 
 ## Overview
 

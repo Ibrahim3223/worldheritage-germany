@@ -4,13 +4,13 @@ site_name: "Taranto goddess"
 date: 2026-01-26
 draft: false
 description: "statue in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2429638"
 latitude: 52.5194
 longitude: 13.3983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_-_Altes_Museum_7609.jpg/400px-Berlin_-_Altes_Museum_7609.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_-_Altes_Museum_7609.jpg/800px-Berlin_-_Altes_Museum_7609.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_-_Altes_Museum_7609.jpg/1200px-Berlin_-_Altes_Museum_7609.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_-_Altes_Museum_7609.jpg/1920px-Berlin_-_Altes_Museum_7609.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_-_Altes_Museum_7609.jpg/1920px-Berlin_-_Altes_Museum_7609.jpg---
 
 ## Overview
 

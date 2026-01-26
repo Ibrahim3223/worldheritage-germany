@@ -4,13 +4,13 @@ site_name: "Church Ochsenwerder"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg-Ochsenwerder, Germany"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q1259001"
 latitude: 53.47583333
 longitude: 10.085
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/400px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/800px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/1200px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/1920px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/1920px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg---
 
 ## Overview
 

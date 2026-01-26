@@ -4,13 +4,13 @@ site_name: "Konrad Adenauer head (Bonn)"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Bonn"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q13583146"
 latitude: 50.71946
 longitude: 7.11746
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/400px-Adenauer_Kopf_01_Bonn_20080504.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/800px-Adenauer_Kopf_01_Bonn_20080504.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/1200px-Adenauer_Kopf_01_Bonn_20080504.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/1920px-Adenauer_Kopf_01_Bonn_20080504.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/1920px-Adenauer_Kopf_01_Bonn_20080504.jpg---
 
 ## Overview
 

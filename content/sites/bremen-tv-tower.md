@@ -4,13 +4,13 @@ site_name: "Bremen TV tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Walle"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Walle"
+  - "Bremen"
 wikidata_id: "Q1407028"
 latitude: 53.0957
 longitude: 8.79187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/400px-Fernmeldeturm_Bremen_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/800px-Fernmeldeturm_Bremen_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/1200px-Fernmeldeturm_Bremen_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/1920px-Fernmeldeturm_Bremen_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/1920px-Fernmeldeturm_Bremen_(1).jpg---
 
 ## Overview
 

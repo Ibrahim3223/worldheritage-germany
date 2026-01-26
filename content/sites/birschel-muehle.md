@@ -4,13 +4,13 @@ site_name: "Birschel-Mühle"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Hattingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Hattingen"
+  - "Lower Saxony"
 wikidata_id: "Q865852"
 latitude: 51.402222222
 longitude: 7.1725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/400px-Hattingen_-_Birschel-Mühle_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/800px-Hattingen_-_Birschel-Mühle_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/1200px-Hattingen_-_Birschel-Mühle_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/1920px-Hattingen_-_Birschel-Mühle_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/1920px-Hattingen_-_Birschel-Mühle_01_ies.jpg---
 
 ## Overview
 

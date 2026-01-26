@@ -4,13 +4,13 @@ site_name: "Burg Gemen"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Borken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Borken"
+  - "Lower Saxony"
 wikidata_id: "Q1011929"
 latitude: 51.8631
 longitude: 6.86656
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/400px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/800px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg---
 
 ## Overview
 

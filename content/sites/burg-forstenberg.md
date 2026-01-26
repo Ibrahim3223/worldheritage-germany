@@ -4,13 +4,13 @@ site_name: "Burg Forstenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Regenstauf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Regenstauf"
+  - "Bavaria"
 wikidata_id: "Q1011755"
 latitude: 49.151528
 longitude: 12.164167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/400px-Ruine_Forstenberg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/800px-Ruine_Forstenberg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1200px-Ruine_Forstenberg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1920px-Ruine_Forstenberg.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1920px-Ruine_Forstenberg.png---
 
 ## Overview
 

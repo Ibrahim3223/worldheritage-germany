@@ -4,19 +4,18 @@ site_name: "Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI)"
 date: 2026-01-26
 draft: false
 description: "Institute for research into media change and the associated structural changes in public communication"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q1372960"
 latitude: 53.56561
 longitude: 9.98953
 images:
-  []
----
+  []---
 
 ## Overview
 

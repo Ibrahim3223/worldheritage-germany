@@ -4,13 +4,13 @@ site_name: "Rote Burg — Büchel Museum Aachen"
 date: 2026-01-26
 draft: false
 description: "art museum in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q62665060"
 latitude: 50.776025
 longitude: 6.085295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/400px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/800px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/1200px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/1920px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/1920px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg---
 
 ## Overview
 

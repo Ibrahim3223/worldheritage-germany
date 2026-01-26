@@ -4,19 +4,18 @@ site_name: "Eisenbahnbrücke Durchwehna"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Laußig"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Laußig"
+  - "Brandenburg"
 wikidata_id: "Q49444998"
 latitude: 51.645148229
 longitude: 12.672013559
 images:
-  []
----
+  []---
 
 ## Overview
 

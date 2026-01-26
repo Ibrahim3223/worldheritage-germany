@@ -4,13 +4,13 @@ site_name: "Dom-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Frankfurt/Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1238556"
 latitude: 50.1108
 longitude: 8.685
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/400px-Dom-museum-domschatz-2014--ffm-646.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/800px-Dom-museum-domschatz-2014--ffm-646.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/1200px-Dom-museum-domschatz-2014--ffm-646.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/1920px-Dom-museum-domschatz-2014--ffm-646.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/1920px-Dom-museum-domschatz-2014--ffm-646.jpg---
 
 ## Overview
 

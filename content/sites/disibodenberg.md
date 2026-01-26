@@ -4,13 +4,13 @@ site_name: "Disibodenberg"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Odernheim am Glan"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Odernheim am Glan"
+  - "Baden-Württemberg"
 wikidata_id: "Q565067"
 latitude: 49.7766
 longitude: 7.70119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/400px-Kloster_Disibodenberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/800px-Kloster_Disibodenberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/1200px-Kloster_Disibodenberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/1920px-Kloster_Disibodenberg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/1920px-Kloster_Disibodenberg_02.jpg---
 
 ## Overview
 

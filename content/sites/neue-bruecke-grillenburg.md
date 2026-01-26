@@ -4,19 +4,18 @@ site_name: "Neue Brücke Grillenburg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Tharandt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Tharandt"
+  - "Saxony"
 wikidata_id: "Q49444088"
 latitude: 50.98281
 longitude: 13.49101
 images:
-  []
----
+  []---
 
 ## Overview
 

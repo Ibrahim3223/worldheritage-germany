@@ -4,13 +4,13 @@ site_name: "German Literature Archive Marbach"
 date: 2026-01-26
 draft: false
 description: "literature archive in Marbach am Neckar, Baden-Württemberg, Germany (1955-)"
-region: "Marbach am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Marbach am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205813"
 latitude: 48.9357107
 longitude: 9.2555486
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MarbachDeutschesLiteraturarchiv.jpg/400px-MarbachDeutschesLiteraturarchiv.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MarbachDeutschesLiteraturarchiv.jpg/800px-MarbachDeutschesLiteraturarchiv.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MarbachDeutschesLiteraturarchiv.jpg/1200px-MarbachDeutschesLiteraturarchiv.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MarbachDeutschesLiteraturarchiv.jpg/1920px-MarbachDeutschesLiteraturarchiv.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MarbachDeutschesLiteraturarchiv.jpg/1920px-MarbachDeutschesLiteraturarchiv.jpg---
 
 ## Overview
 

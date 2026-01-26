@@ -4,13 +4,13 @@ site_name: "Don-Bosco-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1238815"
 latitude: 48.357504
 longitude: 10.926155
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/400px-Don-Bosco-Augsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/800px-Don-Bosco-Augsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1200px-Don-Bosco-Augsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1920px-Don-Bosco-Augsburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1920px-Don-Bosco-Augsburg.jpg---
 
 ## Overview
 

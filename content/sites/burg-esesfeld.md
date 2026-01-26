@@ -4,13 +4,13 @@ site_name: "Burg Esesfeld"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Itzehoe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Itzehoe"
+  - "Lower Saxony"
 wikidata_id: "Q1011655"
 latitude: 53.9341
 longitude: 9.47973
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/400px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/800px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/1200px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/1920px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/1920px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG---
 
 ## Overview
 

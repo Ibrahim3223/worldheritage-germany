@@ -4,13 +4,13 @@ site_name: "Karlsruher Str. 96"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q47464016"
 latitude: 51.010173
 longitude: 13.692139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/400px-Rathaus-Gittersee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/800px-Rathaus-Gittersee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/1200px-Rathaus-Gittersee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/1920px-Rathaus-Gittersee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/1920px-Rathaus-Gittersee.jpg---
 
 ## Overview
 

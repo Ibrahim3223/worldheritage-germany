@@ -4,13 +4,13 @@ site_name: "Mausoleum of the Opel family"
 date: 2026-01-26
 draft: false
 description: "Mausoleum in Rüsselsheim, Deutschland"
-region: "Rüsselsheim am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Rüsselsheim am Main"
+  - "Hesse"
 wikidata_id: "Q14848787"
 latitude: 49.99461
 longitude: 8.40138
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/400px-Opel-mausoleum-2010-ruesselsheim-090.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/800px-Opel-mausoleum-2010-ruesselsheim-090.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/1200px-Opel-mausoleum-2010-ruesselsheim-090.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/1920px-Opel-mausoleum-2010-ruesselsheim-090.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/1920px-Opel-mausoleum-2010-ruesselsheim-090.jpg---
 
 ## Overview
 

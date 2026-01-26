@@ -4,13 +4,13 @@ site_name: "Synagogue in Potsdam"
 date: 2026-01-26
 draft: false
 description: "demolished synagogue in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q436319"
 latitude: 52.3981
 longitude: 13.0603
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/400px-Potsdam-Synagoge-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/800px-Potsdam-Synagoge-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/1200px-Potsdam-Synagoge-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/1920px-Potsdam-Synagoge-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/1920px-Potsdam-Synagoge-1.jpg---
 
 ## Overview
 

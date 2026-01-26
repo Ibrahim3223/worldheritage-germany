@@ -4,13 +4,13 @@ site_name: "Reichenhain war memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Röderland, Germany"
-region: "Röderland"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Röderland"
+  - "Brandenburg"
 wikidata_id: "Q1788654"
 latitude: 51.4585
 longitude: 13.4264
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reichenhain_Gedenkstein_3.jpg/400px-Reichenhain_Gedenkstein_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reichenhain_Gedenkstein_3.jpg/800px-Reichenhain_Gedenkstein_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reichenhain_Gedenkstein_3.jpg/1200px-Reichenhain_Gedenkstein_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reichenhain_Gedenkstein_3.jpg/1920px-Reichenhain_Gedenkstein_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reichenhain_Gedenkstein_3.jpg/1920px-Reichenhain_Gedenkstein_3.jpg---
 
 ## Overview
 

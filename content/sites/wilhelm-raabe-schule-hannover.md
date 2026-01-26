@@ -4,13 +4,13 @@ site_name: "Wilhelm-Raabe-Schule (Hannover)"
 date: 2026-01-26
 draft: false
 description: "school in Hannover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q1506527"
 latitude: 52.3644
 longitude: 9.74278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2021-01-30_Wilhelm-Raabe-Schule_04.JPG/400px-2021-01-30_Wilhelm-Raabe-Schule_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2021-01-30_Wilhelm-Raabe-Schule_04.JPG/800px-2021-01-30_Wilhelm-Raabe-Schule_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2021-01-30_Wilhelm-Raabe-Schule_04.JPG/1200px-2021-01-30_Wilhelm-Raabe-Schule_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2021-01-30_Wilhelm-Raabe-Schule_04.JPG/1920px-2021-01-30_Wilhelm-Raabe-Schule_04.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2021-01-30_Wilhelm-Raabe-Schule_04.JPG/1920px-2021-01-30_Wilhelm-Raabe-Schule_04.JPG---
 
 ## Overview
 

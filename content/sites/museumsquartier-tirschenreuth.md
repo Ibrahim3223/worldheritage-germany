@@ -4,13 +4,13 @@ site_name: "Museumsquartier Tirschenreuth"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Tirschenreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tirschenreuth"
+  - "Bavaria"
 wikidata_id: "Q1470221"
 latitude: 49.8791
 longitude: 12.3381
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/400px-Stadtmuseum_Tirschenreuth.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/800px-Stadtmuseum_Tirschenreuth.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/1200px-Stadtmuseum_Tirschenreuth.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/1920px-Stadtmuseum_Tirschenreuth.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/1920px-Stadtmuseum_Tirschenreuth.jpeg---
 
 ## Overview
 

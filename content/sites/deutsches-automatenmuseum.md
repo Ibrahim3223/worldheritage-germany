@@ -4,13 +4,13 @@ site_name: "Deutsches Automatenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Espelkamp"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Espelkamp"
+  - "Lower Saxony"
 wikidata_id: "Q15633625"
 latitude: 52.34472222
 longitude: 8.575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/400px-Deutsches_Automatenmuseum_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/800px-Deutsches_Automatenmuseum_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/1200px-Deutsches_Automatenmuseum_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/1920px-Deutsches_Automatenmuseum_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/1920px-Deutsches_Automatenmuseum_Eingang.jpg---
 
 ## Overview
 

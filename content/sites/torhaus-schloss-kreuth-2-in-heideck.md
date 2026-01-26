@@ -4,19 +4,18 @@ site_name: "Torhaus Schloß Kreuth 2 in Heideck"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-76-126-66 (2) in Heideck, Bavaria"
-region: "Heideck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Heideck"
+  - "Bavaria"
 wikidata_id: "Q98627688"
 latitude: 49.138876967
 longitude: 11.11825496
 images:
-  []
----
+  []---
 
 ## Overview
 

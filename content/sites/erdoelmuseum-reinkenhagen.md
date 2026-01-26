@@ -4,13 +4,13 @@ site_name: "Erdölmuseum Reinkenhagen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Sundhagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sundhagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15110394"
 latitude: 54.191216
 longitude: 13.177071
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/400px-Reinkenhagen_Erdölmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/800px-Reinkenhagen_Erdölmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/1200px-Reinkenhagen_Erdölmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/1920px-Reinkenhagen_Erdölmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/1920px-Reinkenhagen_Erdölmuseum.JPG---
 
 ## Overview
 

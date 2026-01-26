@@ -4,13 +4,13 @@ site_name: "Zeche Carl Friedrich Erbstollen"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169707"
 latitude: 51.439
 longitude: 7.21214
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg/400px-Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg/800px-Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg/1200px-Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg/1920px-Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg/1920px-Zeche_Carl_Friedrich_Erbstollen_in_Bochum-Weitmar.jpg---
 
 ## Overview
 

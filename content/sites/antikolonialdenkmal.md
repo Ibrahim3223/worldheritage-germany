@@ -4,13 +4,13 @@ site_name: "Antikolonialdenkmal"
 date: 2026-01-26
 draft: false
 description: "memorial in Bremen, Germany"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q576291"
 latitude: 53.0841
 longitude: 8.81751
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/400px-Antikolonialdenkmal_HB_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/800px-Antikolonialdenkmal_HB_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/1200px-Antikolonialdenkmal_HB_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/1920px-Antikolonialdenkmal_HB_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/1920px-Antikolonialdenkmal_HB_2013.jpg---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kriminaltheater_berlin.jpg/400px-Kriminaltheater_berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kriminaltheater_berlin.jpg/800px-Kriminaltheater_berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kriminaltheater_berlin.jpg/1200px-Kriminaltheater_berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kriminaltheater_berlin.jpg/1920px-Kriminaltheater_berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kriminaltheater_berlin.jpg/1920px-Kriminaltheater_berlin.jpg---
 
 ## Overview
 

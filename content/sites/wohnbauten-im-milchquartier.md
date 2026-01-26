@@ -4,13 +4,13 @@ site_name: "Wohnbauten im Milchquartier"
 date: 2026-01-26
 draft: false
 description: "Gebäude-Ensemble in Bremen-Mitte"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q18335057"
 latitude: 53.071186
 longitude: 8.81742
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/400px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/800px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/1200px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/1920px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/1920px-Bremen_mozartstr_11-12_20140928_bg_1.jpg---
 
 ## Overview
 

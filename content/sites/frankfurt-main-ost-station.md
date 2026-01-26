@@ -4,13 +4,13 @@ site_name: "Frankfurt (Main) Ost station"
 date: 2026-01-26
 draft: false
 description: "railway halt in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q198282"
 latitude: 50.112459
 longitude: 8.708381
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/400px-Ostbahnhof_frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/800px-Ostbahnhof_frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1200px-Ostbahnhof_frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1920px-Ostbahnhof_frankfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1920px-Ostbahnhof_frankfurt.jpg---
 
 ## Overview
 

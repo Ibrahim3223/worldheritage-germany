@@ -4,13 +4,13 @@ site_name: "Burg Altmannstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Q442666"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Q442666"
+  - "Bavaria"
 wikidata_id: "Q1010773"
 latitude: 48.896114658
 longitude: 11.65259872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/400px-Burg_Altmannstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/800px-Burg_Altmannstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/1200px-Burg_Altmannstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/1920px-Burg_Altmannstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/1920px-Burg_Altmannstein.jpg---
 
 ## Overview
 

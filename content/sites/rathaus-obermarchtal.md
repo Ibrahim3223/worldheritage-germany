@@ -4,13 +4,13 @@ site_name: "Rathaus Obermarchtal"
 date: 2026-01-26
 draft: false
 description: "Rathaus der Gemeinde Obermarchtal im Alb-Donau-Kreis"
-region: "Obermarchtal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Obermarchtal"
+  - "Baden-Württemberg"
 wikidata_id: "Q128302239"
 latitude: 48.233836111
 longitude: 9.571547222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/400px-Rathaus_Obermarchtal_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/800px-Rathaus_Obermarchtal_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/1200px-Rathaus_Obermarchtal_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/1920px-Rathaus_Obermarchtal_I.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/1920px-Rathaus_Obermarchtal_I.jpg---
 
 ## Overview
 

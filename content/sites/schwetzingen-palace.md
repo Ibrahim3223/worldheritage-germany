@@ -4,13 +4,13 @@ site_name: "Schwetzingen Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Schwetzingen, Germany, formerly the summer residence of the Electors Palatine"
-region: "Schwetzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwetzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q702551"
 latitude: 49.383526939
 longitude: 8.565925958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/400px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/800px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/1200px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/1920px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/1920px-Schwetzingen_BW_2014-07-22_16-43-37.jpg---
 
 ## Overview
 

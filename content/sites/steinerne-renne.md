@@ -4,13 +4,13 @@ site_name: "Steinerne Renne"
 date: 2026-01-26
 draft: false
 description: "ravine in Hasserode, Germany"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q2340555"
 latitude: 51.810833333
 longitude: 10.707083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/400px-Steinerne_Renne_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/800px-Steinerne_Renne_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/1200px-Steinerne_Renne_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/1920px-Steinerne_Renne_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/1920px-Steinerne_Renne_2014.jpg---
 
 ## Overview
 

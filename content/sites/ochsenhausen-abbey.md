@@ -4,13 +4,13 @@ site_name: "Ochsenhausen Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Ochsenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ochsenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q561312"
 latitude: 48.0642
 longitude: 9.95139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/400px-OchsenhausenKloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/800px-OchsenhausenKloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/1200px-OchsenhausenKloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/1920px-OchsenhausenKloster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/1920px-OchsenhausenKloster.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Daimler and Benz Foundation"
 date: 2026-01-26
 draft: false
 description: "other organization in Ladenburg, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1539767"
 latitude: 49.481518
 longitude: 8.595587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Db_villabenz_jes6191.jpg/400px-Db_villabenz_jes6191.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Db_villabenz_jes6191.jpg/800px-Db_villabenz_jes6191.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Db_villabenz_jes6191.jpg/1200px-Db_villabenz_jes6191.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Db_villabenz_jes6191.jpg/1920px-Db_villabenz_jes6191.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Db_villabenz_jes6191.jpg/1920px-Db_villabenz_jes6191.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Straße des Friedens 17 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schönbach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schönbach"
+  - "Saxony"
 wikidata_id: "Q49429982"
 latitude: 51.0633647
 longitude: 14.5665265
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Grabbe-Gesellschaft"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q1540723"
 latitude: 51.935692
 longitude: 8.876215
 images:
-  []
----
+  []---
 
 ## Overview
 

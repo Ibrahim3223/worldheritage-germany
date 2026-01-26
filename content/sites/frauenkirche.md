@@ -4,13 +4,13 @@ site_name: "Frauenkirche"
 date: 2026-01-26
 draft: false
 description: "parish church in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q695069"
 latitude: 49.454034655
 longitude: 11.078186957
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/400px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/800px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/1200px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/1920px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/1920px-Nürnberger_Frauenkirche_Front_von_WSW.jpg---
 
 ## Overview
 

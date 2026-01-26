@@ -4,13 +4,13 @@ site_name: "Donaueschingen railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Donaueschingen, Germany"
-region: "Donaueschingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Donaueschingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q213233"
 latitude: 47.947786
 longitude: 8.498919
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Donaueschingen.jpg/400px-Bahnhof_Donaueschingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Donaueschingen.jpg/800px-Bahnhof_Donaueschingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Donaueschingen.jpg/1200px-Bahnhof_Donaueschingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Donaueschingen.jpg/1920px-Bahnhof_Donaueschingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Donaueschingen.jpg/1920px-Bahnhof_Donaueschingen.jpg---
 
 ## Overview
 

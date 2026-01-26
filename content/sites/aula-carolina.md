@@ -4,13 +4,13 @@ site_name: "Aula Carolina"
 date: 2026-01-26
 draft: false
 description: "school building"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q771477"
 latitude: 50.777
 longitude: 6.08297
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/400px-Aula_Carolina,_Pontstraße,_aachen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/800px-Aula_Carolina,_Pontstraße,_aachen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/1200px-Aula_Carolina,_Pontstraße,_aachen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/1920px-Aula_Carolina,_Pontstraße,_aachen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/1920px-Aula_Carolina,_Pontstraße,_aachen.JPG---
 
 ## Overview
 

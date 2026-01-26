@@ -4,13 +4,13 @@ site_name: "Eberstadt Stalactite Cave"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Buchen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Buchen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1279791"
 latitude: 49.4811
 longitude: 9.34833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/400px-Eberstadt262006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/800px-Eberstadt262006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1200px-Eberstadt262006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1920px-Eberstadt262006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1920px-Eberstadt262006.jpg---
 
 ## Overview
 

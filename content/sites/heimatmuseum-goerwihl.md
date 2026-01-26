@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Görwihl"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Görwihl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Görwihl"
+  - "Baden-Württemberg"
 wikidata_id: "Q19963067"
 latitude: 47.6410658
 longitude: 8.0775828
 images:
-  []
----
+  []---
 
 ## Overview
 

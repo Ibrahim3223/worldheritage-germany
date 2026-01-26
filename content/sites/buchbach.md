@@ -4,13 +4,13 @@ site_name: "Buchbach"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Neukirch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Neukirch"
+  - "Baden-Württemberg"
 wikidata_id: "Q997930"
 latitude: 47.64972
 longitude: 9.66083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/D-BW-Tettnang_-_Buchbach.JPG/400px-D-BW-Tettnang_-_Buchbach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/D-BW-Tettnang_-_Buchbach.JPG/800px-D-BW-Tettnang_-_Buchbach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/D-BW-Tettnang_-_Buchbach.JPG/1200px-D-BW-Tettnang_-_Buchbach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/D-BW-Tettnang_-_Buchbach.JPG/1920px-D-BW-Tettnang_-_Buchbach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/D-BW-Tettnang_-_Buchbach.JPG/1920px-D-BW-Tettnang_-_Buchbach.JPG---
 
 ## Overview
 

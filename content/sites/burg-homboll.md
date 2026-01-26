@@ -4,19 +4,18 @@ site_name: "Burg Homboll"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hilzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hilzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012480"
 latitude: 47.7841
 longitude: 8.7641
 images:
-  []
----
+  []---
 
 ## Overview
 

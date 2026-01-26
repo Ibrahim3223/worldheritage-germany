@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Hüsli"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Grafenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grafenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1516413"
 latitude: 47.79407229
 longitude: 8.24779272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/400px-Hüsli_1080523_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/800px-Hüsli_1080523_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/1200px-Hüsli_1080523_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/1920px-Hüsli_1080523_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/1920px-Hüsli_1080523_(cropped).jpg---
 
 ## Overview
 

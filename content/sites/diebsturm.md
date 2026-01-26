@@ -4,13 +4,13 @@ site_name: "Diebsturm"
 date: 2026-01-26
 draft: false
 description: "Turm in Deutschland"
-region: "Bad Säckingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bad Säckingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1220107"
 latitude: 47.5501
 longitude: 7.94961
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/400px-Bad_Saeckingen_Diebsturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/800px-Bad_Saeckingen_Diebsturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/1200px-Bad_Saeckingen_Diebsturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/1920px-Bad_Saeckingen_Diebsturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/1920px-Bad_Saeckingen_Diebsturm.jpg---
 
 ## Overview
 

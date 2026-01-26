@@ -4,13 +4,13 @@ site_name: "Erinnerungs- und Gedenkstätte Wewelsburg 1933-1945"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Büren"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Büren"
+  - "Hesse"
 wikidata_id: "Q1354653"
 latitude: 51.6066
 longitude: 8.65254
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Erinnerungsstätte_Wewelsburg_1933–1945.jpg/400px-Erinnerungsstätte_Wewelsburg_1933–1945.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Erinnerungsstätte_Wewelsburg_1933–1945.jpg/800px-Erinnerungsstätte_Wewelsburg_1933–1945.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Erinnerungsstätte_Wewelsburg_1933–1945.jpg/1200px-Erinnerungsstätte_Wewelsburg_1933–1945.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Erinnerungsstätte_Wewelsburg_1933–1945.jpg/1920px-Erinnerungsstätte_Wewelsburg_1933–1945.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Erinnerungsstätte_Wewelsburg_1933–1945.jpg/1920px-Erinnerungsstätte_Wewelsburg_1933–1945.jpg---
 
 ## Overview
 

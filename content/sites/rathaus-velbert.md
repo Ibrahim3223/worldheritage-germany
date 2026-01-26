@@ -4,13 +4,13 @@ site_name: "Rathaus Velbert"
 date: 2026-01-26
 draft: false
 description: "Verwaltungsbau in der Stadt Velbert im Kreis Mettmann (Nordrhein-Westfalen)"
-region: "Velbert"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Velbert"
+  - "Lower Saxony"
 wikidata_id: "Q136997942"
 latitude: 51.34079
 longitude: 7.04192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/400px-Rathaus_Velbert.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/800px-Rathaus_Velbert.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/1200px-Rathaus_Velbert.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/1920px-Rathaus_Velbert.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/1920px-Rathaus_Velbert.JPG---
 
 ## Overview
 

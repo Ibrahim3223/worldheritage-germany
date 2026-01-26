@@ -4,13 +4,13 @@ site_name: "AEG’s Turbine factory"
 date: 2026-01-26
 draft: false
 description: "factory in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q291123"
 latitude: 52.530019975
 longitude: 13.322750361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/400px-AEG_Turbinenhalle_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/800px-AEG_Turbinenhalle_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1200px-AEG_Turbinenhalle_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1920px-AEG_Turbinenhalle_Fassade.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1920px-AEG_Turbinenhalle_Fassade.jpg---
 
 ## Overview
 

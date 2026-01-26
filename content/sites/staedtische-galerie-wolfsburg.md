@@ -4,19 +4,18 @@ site_name: "Städtische Galerie Wolfsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wolfsburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolfsburg"
+  - "Lower Saxony"
 wikidata_id: "Q2359946"
 latitude: 52.4392
 longitude: 10.7994
 images:
-  []
----
+  []---
 
 ## Overview
 

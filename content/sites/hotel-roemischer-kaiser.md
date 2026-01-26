@@ -4,13 +4,13 @@ site_name: "Hotel Römischer Kaiser"
 date: 2026-01-26
 draft: false
 description: "building in Ellingen, Middle Franconia, Germany"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q15123874"
 latitude: 49.05985
 longitude: 10.96787
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/400px-Ellingen_Weißenburger_Straße_15.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/800px-Ellingen_Weißenburger_Straße_15.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/1200px-Ellingen_Weißenburger_Straße_15.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/1920px-Ellingen_Weißenburger_Straße_15.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/1920px-Ellingen_Weißenburger_Straße_15.JPG---
 
 ## Overview
 

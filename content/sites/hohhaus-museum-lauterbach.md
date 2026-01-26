@@ -4,19 +4,18 @@ site_name: "Hohhaus-Museum Lauterbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634001"
 latitude: 50.635932
 longitude: 9.395684
 images:
-  []
----
+  []---
 
 ## Overview
 

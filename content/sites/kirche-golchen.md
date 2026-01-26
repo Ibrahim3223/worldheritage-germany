@@ -4,13 +4,13 @@ site_name: "Kirche Golchen"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Golchen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Golchen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742541"
 latitude: 53.7917
 longitude: 13.2794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/400px-Golchen_Kirche_Nord.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/800px-Golchen_Kirche_Nord.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/1200px-Golchen_Kirche_Nord.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/1920px-Golchen_Kirche_Nord.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/1920px-Golchen_Kirche_Nord.jpg---
 
 ## Overview
 

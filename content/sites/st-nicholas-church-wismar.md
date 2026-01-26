@@ -4,13 +4,13 @@ site_name: "St Nicholas Church Wismar"
 date: 2026-01-26
 draft: false
 description: "church in Wismar"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q877183"
 latitude: 53.8956
 longitude: 11.4655
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/400px-Wismar_StNikolai.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/800px-Wismar_StNikolai.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/1200px-Wismar_StNikolai.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/1920px-Wismar_StNikolai.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/1920px-Wismar_StNikolai.jpg---
 
 ## Overview
 

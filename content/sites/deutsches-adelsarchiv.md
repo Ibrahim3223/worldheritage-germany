@@ -4,19 +4,18 @@ site_name: "Deutsches Adelsarchiv"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Marburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Marburg"
+  - "Hesse"
 wikidata_id: "Q1205523"
 latitude: 50.80284
 longitude: 8.7588901
 images:
-  []
----
+  []---
 
 ## Overview
 

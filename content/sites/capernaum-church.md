@@ -4,13 +4,13 @@ site_name: "Capernaum Church"
 date: 2026-01-26
 draft: false
 description: "church building in Mitte, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2265681"
 latitude: 52.548444
 longitude: 13.349483
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/400px-Kapernaumkirche_(Berlin).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/800px-Kapernaumkirche_(Berlin).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1200px-Kapernaumkirche_(Berlin).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1920px-Kapernaumkirche_(Berlin).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1920px-Kapernaumkirche_(Berlin).jpg---
 
 ## Overview
 

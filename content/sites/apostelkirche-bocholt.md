@@ -4,13 +4,13 @@ site_name: "Apostelkirche (Bocholt)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bocholt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bocholt"
+  - "Lower Saxony"
 wikidata_id: "Q619877"
 latitude: 51.8243
 longitude: 6.61706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/400px-Apostelkirche_(Bocholt)_autostitch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/800px-Apostelkirche_(Bocholt)_autostitch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1200px-Apostelkirche_(Bocholt)_autostitch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1920px-Apostelkirche_(Bocholt)_autostitch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1920px-Apostelkirche_(Bocholt)_autostitch.jpg---
 
 ## Overview
 

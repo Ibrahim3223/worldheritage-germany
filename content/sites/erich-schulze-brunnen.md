@@ -4,13 +4,13 @@ site_name: "Erich-Schulze-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Au-Haidhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Au-Haidhausen"
+  - "Bavaria"
 wikidata_id: "Q786898"
 latitude: 48.1308
 longitude: 11.5922
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/400px-Erich-Schulze-Brunnen_Muenchen_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/800px-Erich-Schulze-Brunnen_Muenchen_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1920px-Erich-Schulze-Brunnen_Muenchen_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1920px-Erich-Schulze-Brunnen_Muenchen_1.JPG---
 
 ## Overview
 

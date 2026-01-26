@@ -4,13 +4,13 @@ site_name: "Matthäuskirche Frankfurt am Main"
 date: 2026-01-26
 draft: false
 description: "church building in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1910579"
 latitude: 50.1106
 longitude: 8.6575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Matthaeuskirche_vor_Hochhaeusern.jpg/400px-Matthaeuskirche_vor_Hochhaeusern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Matthaeuskirche_vor_Hochhaeusern.jpg/800px-Matthaeuskirche_vor_Hochhaeusern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Matthaeuskirche_vor_Hochhaeusern.jpg/1200px-Matthaeuskirche_vor_Hochhaeusern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Matthaeuskirche_vor_Hochhaeusern.jpg/1920px-Matthaeuskirche_vor_Hochhaeusern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Matthaeuskirche_vor_Hochhaeusern.jpg/1920px-Matthaeuskirche_vor_Hochhaeusern.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church of the Savior"
 date: 2026-01-26
 draft: false
 description: "Protestant Church in Berlin-Moabit, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1594750"
 latitude: 52.526133
 longitude: 13.339986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/400px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/800px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/1200px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/1920px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/1920px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg---
 
 ## Overview
 

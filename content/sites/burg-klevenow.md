@@ -4,13 +4,13 @@ site_name: "Burg Klevenow"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Süderholz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Süderholz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1012681"
 latitude: 54.0831
 longitude: 13.0876
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_Klevenow_Westseite.jpg/400px-Schloss_Klevenow_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_Klevenow_Westseite.jpg/800px-Schloss_Klevenow_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_Klevenow_Westseite.jpg/1200px-Schloss_Klevenow_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_Klevenow_Westseite.jpg/1920px-Schloss_Klevenow_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_Klevenow_Westseite.jpg/1920px-Schloss_Klevenow_Westseite.jpg---
 
 ## Overview
 

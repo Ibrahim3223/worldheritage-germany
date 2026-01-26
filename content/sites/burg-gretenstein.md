@@ -4,19 +4,18 @@ site_name: "Burg Gretenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Villmar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Villmar"
+  - "Hesse"
 wikidata_id: "Q1012043"
 latitude: 50.3942
 longitude: 8.17625
 images:
-  []
----
+  []---
 
 ## Overview
 

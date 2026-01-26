@@ -4,13 +4,13 @@ site_name: "Stadthalle"
 date: 2026-01-26
 draft: false
 description: "former multi-purpose hall in Bonn, Germany"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15620890"
 latitude: 50.717999
 longitude: 7.132399
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/400px-Bonn_Stadthalle_Gronau_1915.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/800px-Bonn_Stadthalle_Gronau_1915.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/1200px-Bonn_Stadthalle_Gronau_1915.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/1920px-Bonn_Stadthalle_Gronau_1915.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/1920px-Bonn_Stadthalle_Gronau_1915.jpg---
 
 ## Overview
 

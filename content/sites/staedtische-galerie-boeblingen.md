@@ -4,13 +4,13 @@ site_name: "Städtische Galerie Böblingen"
 date: 2026-01-26
 draft: false
 description: "museum in Böblingen (Germany)"
-region: "Böblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Böblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2359928"
 latitude: 48.6849
 longitude: 9.01057
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/400px-Zehntscheuer_Boeblingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/800px-Zehntscheuer_Boeblingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/1200px-Zehntscheuer_Boeblingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/1920px-Zehntscheuer_Boeblingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/1920px-Zehntscheuer_Boeblingen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Regionalmuseum Bad Lobenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Lobenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Lobenstein"
+  - "Bavaria"
 wikidata_id: "Q20479675"
 latitude: 50.446583333
 longitude: 11.640111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/400px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/800px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/1200px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/1920px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/1920px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg---
 
 ## Overview
 

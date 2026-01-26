@@ -4,19 +4,18 @@ site_name: "Burg Hohlenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Herrlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Herrlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012458"
 latitude: 48.4224
 longitude: 9.90374
 images:
-  []
----
+  []---
 
 ## Overview
 

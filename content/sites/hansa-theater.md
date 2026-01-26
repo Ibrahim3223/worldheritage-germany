@@ -4,13 +4,13 @@ site_name: "Hansa-Theater"
 date: 2026-01-26
 draft: false
 description: "variety theatre in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q264222"
 latitude: 53.553411
 longitude: 10.011746
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/400px-Hamburg_-_Hansa-Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/800px-Hamburg_-_Hansa-Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/1200px-Hamburg_-_Hansa-Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/1920px-Hamburg_-_Hansa-Theater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/1920px-Hamburg_-_Hansa-Theater.jpg---
 
 ## Overview
 

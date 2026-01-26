@@ -4,13 +4,13 @@ site_name: "Fondation Ernst Barlach"
 date: 2026-01-26
 draft: false
 description: "German foundation in Güstrow"
-region: "Güstrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Güstrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1357028"
 latitude: 53.77471
 longitude: 12.21059
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/400px-Ernst-Barlach-Stiftung_Güstrow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/800px-Ernst-Barlach-Stiftung_Güstrow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1200px-Ernst-Barlach-Stiftung_Güstrow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1920px-Ernst-Barlach-Stiftung_Güstrow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1920px-Ernst-Barlach-Stiftung_Güstrow.jpg---
 
 ## Overview
 

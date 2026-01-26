@@ -4,13 +4,13 @@ site_name: "Halloren Schokoladenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q23788242"
 latitude: 51.478083
 longitude: 12.008444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg/400px-Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg/800px-Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg/1200px-Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg/1920px-Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg/1920px-Halle(Saale)_Halloren_Schokoladenmuseum_asv2024-04_img1.jpg---
 
 ## Overview
 

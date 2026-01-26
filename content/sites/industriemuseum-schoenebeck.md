@@ -4,19 +4,18 @@ site_name: "Industriemuseum Schönebeck"
 date: 2026-01-26
 draft: false
 description: "museum in Schönebeck, Germany"
-region: "Schönebeck"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schönebeck"
+  - "Brandenburg"
 wikidata_id: "Q28859941"
 latitude: 52.015871
 longitude: 11.740511
 images:
-  []
----
+  []---
 
 ## Overview
 

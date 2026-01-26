@@ -4,13 +4,13 @@ site_name: "Museum Koenig"
 date: 2026-01-26
 draft: false
 description: "museum in Bonn"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q510343"
 latitude: 50.7221615
 longitude: 7.113381
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/400px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/800px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/1200px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/1920px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/1920px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg---
 
 ## Overview
 

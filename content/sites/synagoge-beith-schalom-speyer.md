@@ -4,13 +4,13 @@ site_name: "Synagoge Beith-Schalom (Speyer)"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1026351"
 latitude: 49.3219
 longitude: 8.43194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/170716-Speyer-02.jpg/400px-170716-Speyer-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/170716-Speyer-02.jpg/800px-170716-Speyer-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/170716-Speyer-02.jpg/1200px-170716-Speyer-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/170716-Speyer-02.jpg/1920px-170716-Speyer-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/170716-Speyer-02.jpg/1920px-170716-Speyer-02.jpg---
 
 ## Overview
 

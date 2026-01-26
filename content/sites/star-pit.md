@@ -4,13 +4,13 @@ site_name: "Star Pit"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q18517276"
 latitude: 50.947944
 longitude: 6.944367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/400px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/800px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/1200px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/1920px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/1920px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg---
 
 ## Overview
 

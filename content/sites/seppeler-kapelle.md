@@ -4,13 +4,13 @@ site_name: "Seppeler-Kapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Verl"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Verl"
+  - "Lower Saxony"
 wikidata_id: "Q1481558"
 latitude: 51.8613
 longitude: 8.48645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Verl-seppelerkapelle01.jpg/400px-Verl-seppelerkapelle01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Verl-seppelerkapelle01.jpg/800px-Verl-seppelerkapelle01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Verl-seppelerkapelle01.jpg/1200px-Verl-seppelerkapelle01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Verl-seppelerkapelle01.jpg/1920px-Verl-seppelerkapelle01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Verl-seppelerkapelle01.jpg/1920px-Verl-seppelerkapelle01.jpg---
 
 ## Overview
 

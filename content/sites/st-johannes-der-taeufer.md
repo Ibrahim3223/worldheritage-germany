@@ -4,13 +4,13 @@ site_name: "St. Johannes der Täufer"
 date: 2026-01-26
 draft: false
 description: "church building in Warendorf, Germany"
-region: "Warendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Warendorf"
+  - "Lower Saxony"
 wikidata_id: "Q1659157"
 latitude: 51.947
 longitude: 8.01861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/400px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/800px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/1200px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/1920px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/1920px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg---
 
 ## Overview
 

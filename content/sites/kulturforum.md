@@ -4,13 +4,13 @@ site_name: "Kulturforum"
 date: 2026-01-26
 draft: false
 description: "collection of cultural buildings in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q386482"
 latitude: 52.5083
 longitude: 13.3678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg/400px-19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg/800px-19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg/1200px-19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg/1920px-19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg/1920px-19-11-01-Kulturforum-Berlin-RalfR_DSF3889.jpg---
 
 ## Overview
 

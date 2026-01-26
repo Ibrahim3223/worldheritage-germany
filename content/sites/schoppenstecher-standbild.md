@@ -4,13 +4,13 @@ site_name: "Schoppenstecher-Standbild"
 date: 2026-01-26
 draft: false
 description: "statue in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1542126"
 latitude: 49.99927
 longitude: 8.26592
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/400px-Mainz_Schoppenstecher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/800px-Mainz_Schoppenstecher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/1200px-Mainz_Schoppenstecher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/1920px-Mainz_Schoppenstecher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/1920px-Mainz_Schoppenstecher.jpg---
 
 ## Overview
 

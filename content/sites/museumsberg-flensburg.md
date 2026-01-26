@@ -4,13 +4,13 @@ site_name: "Museumsberg Flensburg"
 date: 2026-01-26
 draft: false
 description: "artmuseum in Flensburg, Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1954806"
 latitude: 54.7857
 longitude: 9.43158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/400px-Flensburg,_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/800px-Flensburg,_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/1200px-Flensburg,_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/1920px-Flensburg,_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/1920px-Flensburg,_Museum.jpg---
 
 ## Overview
 

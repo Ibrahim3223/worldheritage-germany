@@ -4,19 +4,18 @@ site_name: "Burg Neidenfels (Satteldorf)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Satteldorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Satteldorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013214"
 latitude: 49.1773
 longitude: 10.0625
 images:
-  []
----
+  []---
 
 ## Overview
 

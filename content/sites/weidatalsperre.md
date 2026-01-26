@@ -4,13 +4,13 @@ site_name: "Weidatalsperre"
 date: 2026-01-26
 draft: false
 description: "reservoir in Germany"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q1694816"
 latitude: 50.7056
 longitude: 11.9933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Weida-Talsperre-Staumauer2007.jpg/400px-Weida-Talsperre-Staumauer2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Weida-Talsperre-Staumauer2007.jpg/800px-Weida-Talsperre-Staumauer2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Weida-Talsperre-Staumauer2007.jpg/1200px-Weida-Talsperre-Staumauer2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Weida-Talsperre-Staumauer2007.jpg/1920px-Weida-Talsperre-Staumauer2007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Weida-Talsperre-Staumauer2007.jpg/1920px-Weida-Talsperre-Staumauer2007.jpg---
 
 ## Overview
 

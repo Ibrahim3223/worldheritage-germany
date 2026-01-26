@@ -4,13 +4,13 @@ site_name: "Schauwerk Sindelfingen"
 date: 2026-01-26
 draft: false
 description: "Museum in Germany"
-region: "Sindelfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sindelfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1728952"
 latitude: 48.7019
 longitude: 9.02602
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/400px-Schauwerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/800px-Schauwerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/1200px-Schauwerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/1920px-Schauwerk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/1920px-Schauwerk.jpg---
 
 ## Overview
 

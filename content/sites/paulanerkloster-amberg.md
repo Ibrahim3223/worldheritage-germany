@@ -4,13 +4,13 @@ site_name: "Paulanerkloster Amberg"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Amberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Amberg"
+  - "Bavaria"
 wikidata_id: "Q2063624"
 latitude: 49.444444444
 longitude: 11.860277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paulanerkirche_Amberg.jpg/400px-Paulanerkirche_Amberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paulanerkirche_Amberg.jpg/800px-Paulanerkirche_Amberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paulanerkirche_Amberg.jpg/1200px-Paulanerkirche_Amberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paulanerkirche_Amberg.jpg/1920px-Paulanerkirche_Amberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paulanerkirche_Amberg.jpg/1920px-Paulanerkirche_Amberg.jpg---
 
 ## Overview
 

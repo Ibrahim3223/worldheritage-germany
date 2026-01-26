@@ -4,13 +4,13 @@ site_name: "Vogthaus"
 date: 2026-01-26
 draft: false
 description: "timber-framed house in Ravensburg, Germany, formerly a museum"
-region: "Ravensburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ravensburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q34368908"
 latitude: 47.784065
 longitude: 9.61106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/400px-Ravensburg_Vogthaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/800px-Ravensburg_Vogthaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/1200px-Ravensburg_Vogthaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/1920px-Ravensburg_Vogthaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/1920px-Ravensburg_Vogthaus.jpg---
 
 ## Overview
 

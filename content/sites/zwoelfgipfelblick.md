@@ -4,19 +4,18 @@ site_name: "Zwölfgipfelblick"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q245226"
 latitude: 50.0874
 longitude: 11.974
 images:
-  []
----
+  []---
 
 ## Overview
 

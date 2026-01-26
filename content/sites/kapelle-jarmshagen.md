@@ -4,13 +4,13 @@ site_name: "Kapelle Jarmshagen"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Wackerow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Wackerow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1728394"
 latitude: 54.1135
 longitude: 13.2526
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/400px-Kapelle_Jarmshagen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/800px-Kapelle_Jarmshagen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/1200px-Kapelle_Jarmshagen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/1920px-Kapelle_Jarmshagen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/1920px-Kapelle_Jarmshagen.JPG---
 
 ## Overview
 

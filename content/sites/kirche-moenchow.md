@@ -4,13 +4,13 @@ site_name: "Kirche Mönchow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Germany"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244543"
 latitude: 53.84372778
 longitude: 13.87148333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mönchow_Kościół.jpg/400px-Mönchow_Kościół.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mönchow_Kościół.jpg/800px-Mönchow_Kościół.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mönchow_Kościół.jpg/1200px-Mönchow_Kościół.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mönchow_Kościół.jpg/1920px-Mönchow_Kościół.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mönchow_Kościół.jpg/1920px-Mönchow_Kościół.jpg---
 
 ## Overview
 

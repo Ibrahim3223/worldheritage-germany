@@ -4,19 +4,18 @@ site_name: "Museum Curt Herrmann"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629132"
 latitude: 49.756958
 longitude: 11.172789
 images:
-  []
----
+  []---
 
 ## Overview
 

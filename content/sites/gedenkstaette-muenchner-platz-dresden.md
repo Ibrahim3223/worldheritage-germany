@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Münchner Platz Dresden"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1497544"
 latitude: 51.0292
 longitude: 13.7225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gedenkstaette_Muenchner_Platz_Dresden_3.jpg/400px-Gedenkstaette_Muenchner_Platz_Dresden_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gedenkstaette_Muenchner_Platz_Dresden_3.jpg/800px-Gedenkstaette_Muenchner_Platz_Dresden_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gedenkstaette_Muenchner_Platz_Dresden_3.jpg/1200px-Gedenkstaette_Muenchner_Platz_Dresden_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gedenkstaette_Muenchner_Platz_Dresden_3.jpg/1920px-Gedenkstaette_Muenchner_Platz_Dresden_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gedenkstaette_Muenchner_Platz_Dresden_3.jpg/1920px-Gedenkstaette_Muenchner_Platz_Dresden_3.jpg---
 
 ## Overview
 

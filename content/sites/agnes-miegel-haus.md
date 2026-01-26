@@ -4,13 +4,13 @@ site_name: "Agnes-Miegel-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Bad Nenndort, Germany"
-region: "Bad Nenndorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Nenndorf"
+  - "Lower Saxony"
 wikidata_id: "Q394429"
 latitude: 52.332
 longitude: 9.37401
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/400px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/800px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/1200px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/1920px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/1920px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg---
 
 ## Overview
 

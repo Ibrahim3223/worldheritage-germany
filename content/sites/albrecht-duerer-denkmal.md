@@ -4,13 +4,13 @@ site_name: "Albrecht-Dürer-Denkmal"
 date: 2026-01-26
 draft: false
 description: "Standbild auf dem Albrecht-Dürer-Platz in Nürnberg"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1541045"
 latitude: 49.4563
 longitude: 11.0759
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/400px-Nuernberg-duererstadtbild-v-sso.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/800px-Nuernberg-duererstadtbild-v-sso.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1200px-Nuernberg-duererstadtbild-v-sso.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1920px-Nuernberg-duererstadtbild-v-sso.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1920px-Nuernberg-duererstadtbild-v-sso.jpg---
 
 ## Overview
 

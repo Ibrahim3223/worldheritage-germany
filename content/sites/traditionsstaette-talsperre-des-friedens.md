@@ -4,13 +4,13 @@ site_name: "Traditionsstätte Talsperre des Friedens"
 date: 2026-01-26
 draft: false
 description: "Museum im heutigen Ortsteil Sosa der Stadt Eibenstock im Erzgebirgskreis"
-region: "Eibenstock"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eibenstock"
+  - "Bavaria"
 wikidata_id: "Q15851333"
 latitude: 50.491326
 longitude: 12.648293
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg/400px-Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg/800px-Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg/1200px-Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg/1920px-Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg/1920px-Bundesarchiv_Bild_183-1984-0523-304,_Sosa,_Jugendstunde_im_Museum_der_Talsperre.jpg---
 
 ## Overview
 

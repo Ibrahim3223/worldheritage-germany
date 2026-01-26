@@ -4,13 +4,13 @@ site_name: "Bundesdenkmal des Bundes Deutscher Radfahrer"
 date: 2026-01-26
 draft: false
 description: "monument in Germany"
-region: "Bad Schmiedeberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Schmiedeberg"
+  - "Brandenburg"
 wikidata_id: "Q1005877"
 latitude: 51.6824
 longitude: 12.7296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg/400px-Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg/800px-Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg/1200px-Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg/1920px-Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg/1920px-Bad_Schmiedeberg,_Bundesradfahrerdenkmal.jpg---
 
 ## Overview
 

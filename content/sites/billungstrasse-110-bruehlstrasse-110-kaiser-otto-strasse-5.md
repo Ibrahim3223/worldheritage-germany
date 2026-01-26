@@ -4,13 +4,13 @@ site_name: "Billungstraße 1–10, Brühlstraße 1–10, Kaiser-Otto-Straße 5"
 date: 2026-01-26
 draft: false
 description: "group uf buildings in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15107661"
 latitude: 51.78344
 longitude: 11.13812
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Billungstraße_(Quedlinburg).JPG/400px-Billungstraße_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Billungstraße_(Quedlinburg).JPG/800px-Billungstraße_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Billungstraße_(Quedlinburg).JPG/1200px-Billungstraße_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Billungstraße_(Quedlinburg).JPG/1920px-Billungstraße_(Quedlinburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Billungstraße_(Quedlinburg).JPG/1920px-Billungstraße_(Quedlinburg).JPG---
 
 ## Overview
 

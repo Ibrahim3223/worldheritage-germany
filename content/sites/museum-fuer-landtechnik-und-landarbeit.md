@@ -4,13 +4,13 @@ site_name: "Museum für Landtechnik und Landarbeit"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Börry"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Börry"
+  - "Lower Saxony"
 wikidata_id: "Q57635321"
 latitude: 52.02903
 longitude: 9.45706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/400px-Börry_Landarbeitsmuseum_Überblick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/800px-Börry_Landarbeitsmuseum_Überblick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/1200px-Börry_Landarbeitsmuseum_Überblick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/1920px-Börry_Landarbeitsmuseum_Überblick.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/1920px-Börry_Landarbeitsmuseum_Überblick.jpg---
 
 ## Overview
 

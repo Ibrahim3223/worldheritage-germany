@@ -4,19 +4,18 @@ site_name: "Schleswig-Holsteinisches Landwirtschaftsmuseum Meldorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Meldorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meldorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q50808649"
 latitude: 54.09169
 longitude: 9.06795
 images:
-  []
----
+  []---
 
 ## Overview
 

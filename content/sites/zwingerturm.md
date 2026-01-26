@@ -4,19 +4,18 @@ site_name: "Zwingerturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q244829"
 latitude: 47.9866
 longitude: 10.1778
 images:
-  []
----
+  []---
 
 ## Overview
 

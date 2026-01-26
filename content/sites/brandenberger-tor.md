@@ -4,19 +4,18 @@ site_name: "Brandenberger Tor"
 date: 2026-01-26
 draft: false
 description: "historisches Stadttor in Nideggen, heute Nordrhein-Westfalen, Deutschland"
-region: "Nideggen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Nideggen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q897869"
 latitude: 50.6914
 longitude: 6.48063
 images:
-  []
----
+  []---
 
 ## Overview 
 

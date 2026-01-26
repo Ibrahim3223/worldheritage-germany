@@ -4,19 +4,18 @@ site_name: "Fazit-Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1399167"
 latitude: 50.104771
 longitude: 8.64738
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stiftung Flucht, Vertreibung, Versöhnung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q2281397"
 latitude: 52.505067
 longitude: 13.381989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/400px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/800px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/1200px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/1920px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/1920px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg---
 
 ## Overview
 

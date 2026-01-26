@@ -4,19 +4,18 @@ site_name: "Heimat- und Industriemuseum Wackersdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629682"
 latitude: 49.300569
 longitude: 12.174447
 images:
-  []
----
+  []---
 
 ## Overview
 

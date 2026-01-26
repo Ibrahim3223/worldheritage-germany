@@ -4,13 +4,13 @@ site_name: "Cathedral of St Peter, Bautzen"
 date: 2026-01-26
 draft: false
 description: "simultaneum"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q317346"
 latitude: 51.1824
 longitude: 14.4237
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/400px-St_Petri_church_Bautzen_101.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/800px-St_Petri_church_Bautzen_101.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/1200px-St_Petri_church_Bautzen_101.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/1920px-St_Petri_church_Bautzen_101.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/1920px-St_Petri_church_Bautzen_101.JPG---
 
 ## Overview
 

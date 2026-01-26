@@ -4,19 +4,18 @@ site_name: "Besucherzentrum Hans Eisenmann Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628807"
 latitude: 48.891118
 longitude: 13.490244
 images:
-  []
----
+  []---
 
 ## Overview
 

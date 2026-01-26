@@ -4,13 +4,13 @@ site_name: "Nathanaelkirche (Köln)"
 date: 2026-01-26
 draft: false
 description: "church building in Bilderstöckchen, Germany"
-region: "Bilderstöckchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bilderstöckchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1966696"
 latitude: 50.964579
 longitude: 6.934589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg/400px-Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg/800px-Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg/1200px-Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg/1920px-Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg/1920px-Nathanaelkirche,_Köln-Bilderstöckchen-9987.jpg---
 
 ## Overview
 

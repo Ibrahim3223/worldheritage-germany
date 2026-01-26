@@ -4,13 +4,13 @@ site_name: "Museumsdorf Volksdorf"
 date: 2026-01-26
 draft: false
 description: "open-air museum of historic houses"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1954810"
 latitude: 53.64972222
 longitude: 10.16833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pincerno_-_Volksdorf_6.jpg/400px-Pincerno_-_Volksdorf_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pincerno_-_Volksdorf_6.jpg/800px-Pincerno_-_Volksdorf_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pincerno_-_Volksdorf_6.jpg/1200px-Pincerno_-_Volksdorf_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pincerno_-_Volksdorf_6.jpg/1920px-Pincerno_-_Volksdorf_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pincerno_-_Volksdorf_6.jpg/1920px-Pincerno_-_Volksdorf_6.jpg---
 
 ## Overview
 

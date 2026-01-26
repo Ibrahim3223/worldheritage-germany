@@ -4,13 +4,13 @@ site_name: "Georg Breusing"
 date: 2026-01-26
 draft: false
 description: "museum shipin Emden, Germany, former rescue cruiser"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1503802"
 latitude: 53.3664
 longitude: 7.20626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/400px-Sk_georg_breusing.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/800px-Sk_georg_breusing.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1200px-Sk_georg_breusing.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1920px-Sk_georg_breusing.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1920px-Sk_georg_breusing.jpg---
 
 ## Overview
 

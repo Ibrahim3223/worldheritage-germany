@@ -4,13 +4,13 @@ site_name: "Hüttenhohl"
 date: 2026-01-26
 draft: false
 description: "gap in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q15056818"
 latitude: 49.31803439
 longitude: 8.06549907
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/400px-2013_Pfälzerwald_032_Hüttenhohl.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/800px-2013_Pfälzerwald_032_Hüttenhohl.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/1200px-2013_Pfälzerwald_032_Hüttenhohl.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/1920px-2013_Pfälzerwald_032_Hüttenhohl.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/1920px-2013_Pfälzerwald_032_Hüttenhohl.JPG---
 
 ## Overview
 

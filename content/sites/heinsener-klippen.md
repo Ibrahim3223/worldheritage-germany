@@ -4,13 +4,13 @@ site_name: "Heinsener Klippen"
 date: 2026-01-26
 draft: false
 description: "former nature reserve in Lower Saxony, Germany"
-region: "Bevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bevern"
+  - "Lower Saxony"
 wikidata_id: "Q197547"
 latitude: 51.88947
 longitude: 9.45488
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/400px-Heinsener_Klippen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/800px-Heinsener_Klippen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1200px-Heinsener_Klippen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1920px-Heinsener_Klippen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1920px-Heinsener_Klippen.jpg---
 
 ## Overview
 

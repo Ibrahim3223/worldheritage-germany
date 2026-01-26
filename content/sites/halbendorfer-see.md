@@ -4,13 +4,13 @@ site_name: "Halbendorfer See"
 date: 2026-01-26
 draft: false
 description: "lake"
-region: "Schleife"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schleife"
+  - "Brandenburg"
 wikidata_id: "Q160380"
 latitude: 51.54
 longitude: 14.570833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/400px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/800px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/1200px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/1920px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/1920px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg---
 
 ## Overview
 

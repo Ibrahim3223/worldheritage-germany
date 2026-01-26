@@ -4,13 +4,13 @@ site_name: "Library of the Eberswalde University for Sustainable Development"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Eberswalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Eberswalde"
+  - "Brandenburg"
 wikidata_id: "Q856489"
 latitude: 52.8333
 longitude: 13.8169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/400px-Fh-bibo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/800px-Fh-bibo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/1200px-Fh-bibo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/1920px-Fh-bibo.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/1920px-Fh-bibo.jpg---
 
 ## Overview
 

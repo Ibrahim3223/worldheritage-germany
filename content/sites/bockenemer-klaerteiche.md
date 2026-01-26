@@ -4,13 +4,13 @@ site_name: "Bockenemer Klärteiche"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bockenem"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bockenem"
+  - "Lower Saxony"
 wikidata_id: "Q889163"
 latitude: 52.0103
 longitude: 10.1181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/400px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/800px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/1200px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/1920px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/1920px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg---
 
 ## Overview
 

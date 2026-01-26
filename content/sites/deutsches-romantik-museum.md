@@ -4,19 +4,18 @@ site_name: "Deutsches Romantik-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q17321191"
 latitude: 50.110932
 longitude: 8.677505
 images:
-  []
----
+  []---
 
 ## Overview
 

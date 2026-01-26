@@ -4,13 +4,13 @@ site_name: "Ehsaan Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Mannheim, Baden-Württemberg, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q28136707"
 latitude: 49.448911
 longitude: 8.505697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/400px-Ehsaan-Moschee_(Mannheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/800px-Ehsaan-Moschee_(Mannheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1200px-Ehsaan-Moschee_(Mannheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1920px-Ehsaan-Moschee_(Mannheim).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1920px-Ehsaan-Moschee_(Mannheim).jpg---
 
 ## Overview
 

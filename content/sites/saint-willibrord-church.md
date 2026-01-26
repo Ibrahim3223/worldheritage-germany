@@ -4,13 +4,13 @@ site_name: "Saint Willibrord Church"
 date: 2026-01-26
 draft: false
 description: "church building in Neetze, Lower Saxony, Germany"
-region: "Neetze"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neetze"
+  - "Lower Saxony"
 wikidata_id: "Q2323747"
 latitude: 53.2658
 longitude: 10.6215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/400px-St.-Willibrord-Kirche_(Neetze).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/800px-St.-Willibrord-Kirche_(Neetze).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/1200px-St.-Willibrord-Kirche_(Neetze).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/1920px-St.-Willibrord-Kirche_(Neetze).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/1920px-St.-Willibrord-Kirche_(Neetze).jpg---
 
 ## Overview
 

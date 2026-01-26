@@ -4,13 +4,13 @@ site_name: "Bucerius Kunst Forum"
 date: 2026-01-26
 draft: false
 description: "art museum in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q877566"
 latitude: 53.5507
 longitude: 9.99104
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/400px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/800px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/1200px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/1920px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/1920px-Bucerius_Kunst_Forum,_Alter_Wall.jpg---
 
 ## Overview
 

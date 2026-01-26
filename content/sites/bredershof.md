@@ -4,13 +4,13 @@ site_name: "Bredershof"
 date: 2026-01-26
 draft: false
 description: "building in Königswinter, Germany"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q904817"
 latitude: 50.6931
 longitude: 7.17963
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/400px-Bredershof_Niederdollendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/800px-Bredershof_Niederdollendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/1200px-Bredershof_Niederdollendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/1920px-Bredershof_Niederdollendorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/1920px-Bredershof_Niederdollendorf.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Elmstein Valley"
 date: 2026-01-26
 draft: false
 description: "valley"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1333088"
 latitude: 49.3467
 longitude: 7.94778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elmstein_mit_burg.jpg/400px-Elmstein_mit_burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elmstein_mit_burg.jpg/800px-Elmstein_mit_burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elmstein_mit_burg.jpg/1200px-Elmstein_mit_burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elmstein_mit_burg.jpg/1920px-Elmstein_mit_burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elmstein_mit_burg.jpg/1920px-Elmstein_mit_burg.jpg---
 
 ## Overview
 

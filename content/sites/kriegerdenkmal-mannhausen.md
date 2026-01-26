@@ -4,13 +4,13 @@ site_name: "Kriegerdenkmal Mannhausen"
 date: 2026-01-26
 draft: false
 description: "monument in Calvörde, Germany"
-region: "Calvörde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Calvörde"
+  - "Lower Saxony"
 wikidata_id: "Q1788649"
 latitude: 52.4165
 longitude: 11.2238
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/400px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/800px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/1200px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/1920px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/1920px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG---
 
 ## Overview
 

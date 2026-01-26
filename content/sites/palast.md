@@ -4,13 +4,13 @@ site_name: "Palast"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-141-63 (0) in Kitzingen, Bavaria"
-region: "Kitzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Kitzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q41351842"
 latitude: 49.73618
 longitude: 10.16208
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/400px-Kitzingen,_Kapuzinergasse_19,_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/800px-Kitzingen,_Kapuzinergasse_19,_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/1200px-Kitzingen,_Kapuzinergasse_19,_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/1920px-Kitzingen,_Kapuzinergasse_19,_004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/1920px-Kitzingen,_Kapuzinergasse_19,_004.jpg---
 
 ## Overview
 

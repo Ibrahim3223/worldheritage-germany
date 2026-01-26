@@ -4,13 +4,13 @@ site_name: "Bunkermuseum Emden"
 date: 2026-01-26
 draft: false
 description: "museum in East Frisia, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q15108171"
 latitude: 53.366101
 longitude: 7.203775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/400px-HGG-Bunkermuseum-Emden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/800px-HGG-Bunkermuseum-Emden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/1200px-HGG-Bunkermuseum-Emden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/1920px-HGG-Bunkermuseum-Emden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/1920px-HGG-Bunkermuseum-Emden.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Arp Museum Bahnhof Rolandseck"
 date: 2026-01-26
 draft: false
 description: "art museum in Rolandseck, Germany"
-region: "Remagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Remagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q698582"
 latitude: 50.6314
 longitude: 7.20694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/400px-Museum_Arp2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/800px-Museum_Arp2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/1200px-Museum_Arp2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/1920px-Museum_Arp2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/1920px-Museum_Arp2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kriegerdenkmal im Stadtpark Bochum"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1235999"
 latitude: 51.4878
 longitude: 7.2225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg/400px-Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg/800px-Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg/1200px-Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg/1920px-Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg/1920px-Bochum_-_Stadtpark_-_Kriegerdenkmal_01_ies.jpg---
 
 ## Overview
 

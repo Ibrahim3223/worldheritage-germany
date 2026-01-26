@@ -4,13 +4,13 @@ site_name: "Jörgenberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mittenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mittenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012584"
 latitude: 48.2267
 longitude: 9.541
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/400px-Jörgenberg-Wall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/800px-Jörgenberg-Wall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/1200px-Jörgenberg-Wall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/1920px-Jörgenberg-Wall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/1920px-Jörgenberg-Wall.jpg---
 
 ## Overview
 

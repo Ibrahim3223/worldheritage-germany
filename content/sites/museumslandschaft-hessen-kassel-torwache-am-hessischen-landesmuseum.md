@@ -4,19 +4,18 @@ site_name: "museumslandschaft hessen kassel - Torwache am Hessischen Landesmuseu
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q76633941"
 latitude: 51.311185
 longitude: 9.489634
 images:
-  []
----
+  []---
 
 ## Overview
 

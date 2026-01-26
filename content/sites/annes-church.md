@@ -4,13 +4,13 @@ site_name: "Anne’s Church"
 date: 2026-01-26
 draft: false
 description: "church building in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q566436"
 latitude: 51.048888888
 longitude: 13.7275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/400px-Dresden-Annenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/800px-Dresden-Annenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1200px-Dresden-Annenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1920px-Dresden-Annenkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1920px-Dresden-Annenkirche.jpg---
 
 ## Overview
 

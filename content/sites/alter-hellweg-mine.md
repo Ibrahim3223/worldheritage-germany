@@ -4,13 +4,13 @@ site_name: "Alter Hellweg mine"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Unna"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Unna"
+  - "Lower Saxony"
 wikidata_id: "Q169646"
 latitude: 51.5394
 longitude: 7.68
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/400px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/800px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/1200px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/1920px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/1920px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg---
 
 ## Overview
 

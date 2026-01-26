@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/400px-DesignPanoptikumBerlin-W-2871.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/800px-DesignPanoptikumBerlin-W-2871.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/1200px-DesignPanoptikumBerlin-W-2871.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/1920px-DesignPanoptikumBerlin-W-2871.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/1920px-DesignPanoptikumBerlin-W-2871.jpg---
 
 ## Overview
 

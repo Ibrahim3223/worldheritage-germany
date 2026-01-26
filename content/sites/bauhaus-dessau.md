@@ -4,13 +4,13 @@ site_name: "Bauhaus Dessau"
 date: 2026-01-26
 draft: false
 description: "building complex in Dessau, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q516770"
 latitude: 51.8392
 longitude: 12.2267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/400px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/800px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/1200px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/1920px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/1920px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg---
 
 ## Overview
 

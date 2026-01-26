@@ -4,13 +4,13 @@ site_name: "Chamissoplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q449337"
 latitude: 52.4883
 longitude: 13.3908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/400px-Chamissoplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/800px-Chamissoplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1200px-Chamissoplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1920px-Chamissoplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1920px-Chamissoplatz.jpg---
 
 ## Overview
 

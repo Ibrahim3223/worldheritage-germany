@@ -4,13 +4,13 @@ site_name: "Elfrather Mühle"
 date: 2026-01-26
 draft: false
 description: "tower mill in Traar"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1328568"
 latitude: 51.3781
 longitude: 6.61167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg/400px-Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg/800px-Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg/1200px-Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg/1920px-Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg/1920px-Krefeld,_Elfrather_Mühle,_2011-08_CN-04.jpg---
 
 ## Overview
 

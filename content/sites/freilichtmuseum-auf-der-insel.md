@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum auf der Insel"
 date: 2026-01-26
 draft: false
 description: "open air museum in Stade, Germany"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q1454535"
 latitude: 53.5989
 longitude: 9.47111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/400px-ItDozent_Inselhaus_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/800px-ItDozent_Inselhaus_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1200px-ItDozent_Inselhaus_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1920px-ItDozent_Inselhaus_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1920px-ItDozent_Inselhaus_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Local history museum of the city of Greußen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Greußen"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Greußen"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20479693"
 latitude: 51.228573
 longitude: 10.948035
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/400px-Sommerpalais_Greiz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/800px-Sommerpalais_Greiz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/1200px-Sommerpalais_Greiz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/1920px-Sommerpalais_Greiz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/1920px-Sommerpalais_Greiz.JPG---
 
 ## Overview
 

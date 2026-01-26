@@ -4,13 +4,13 @@ site_name: "Tietzowsee"
 date: 2026-01-26
 draft: false
 description: "lake"
-region: "Germany"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Germany"
+  - "Brandenburg"
 wikidata_id: "Q202514"
 latitude: 53.167916666
 longitude: 12.876269444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/400px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/800px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/1200px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/1920px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/1920px-2014-03-21_Tietzowsee_Campingplatz_320.jpg---
 
 ## Overview
 

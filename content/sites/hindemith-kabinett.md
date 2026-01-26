@@ -4,13 +4,13 @@ site_name: "Hindemith Kabinett"
 date: 2026-01-26
 draft: false
 description: "museum in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q56648963"
 latitude: 50.106688
 longitude: 8.689727
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frankfurt_am_Main_Hindemith_Kabinett_2.jpg/400px-Frankfurt_am_Main_Hindemith_Kabinett_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frankfurt_am_Main_Hindemith_Kabinett_2.jpg/800px-Frankfurt_am_Main_Hindemith_Kabinett_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frankfurt_am_Main_Hindemith_Kabinett_2.jpg/1200px-Frankfurt_am_Main_Hindemith_Kabinett_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frankfurt_am_Main_Hindemith_Kabinett_2.jpg/1920px-Frankfurt_am_Main_Hindemith_Kabinett_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frankfurt_am_Main_Hindemith_Kabinett_2.jpg/1920px-Frankfurt_am_Main_Hindemith_Kabinett_2.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Deutsches Künstlertheater"
 date: 2026-01-26
 draft: false
 description: "former theater in Berlin, Germany"
-region: "Tiergarten"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Tiergarten"
+  - "Berlin"
 wikidata_id: "Q1205797"
 latitude: 52.50538
 longitude: 13.34181
 images:
-  []
----
+  []---
 
 ## Overview
 

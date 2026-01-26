@@ -4,19 +4,18 @@ site_name: "Museum Stammheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stammheim (Kolitzheim)"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stammheim (Kolitzheim)"
+  - "Bavaria"
 wikidata_id: "Q14378634"
 latitude: 49.91299
 longitude: 10.19153
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Staatliche Kunstsammlungen Dresden"
 date: 2026-01-26
 draft: false
 description: "complex of 15 world famous Museums in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q653002"
 latitude: 51.0528
 longitude: 13.7369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/400px-Residenzschloss_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/800px-Residenzschloss_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/1200px-Residenzschloss_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/1920px-Residenzschloss_Dresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/1920px-Residenzschloss_Dresden.jpg---
 
 ## Overview
 

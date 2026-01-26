@@ -4,13 +4,13 @@ site_name: "Saint Adalbero Church"
 date: 2026-01-26
 draft: false
 description: "parish church in Sanderau, Würzburg, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q347216"
 latitude: 49.784166666
 longitude: 9.936111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/400px-Würzburg_Adalberokerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/800px-Würzburg_Adalberokerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/1200px-Würzburg_Adalberokerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/1920px-Würzburg_Adalberokerk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/1920px-Würzburg_Adalberokerk.jpg---
 
 ## Overview
 

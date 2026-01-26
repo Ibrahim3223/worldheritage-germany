@@ -4,13 +4,13 @@ site_name: "Holzheim Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Langerwehe, Germany"
-region: "Langerwehe"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Langerwehe"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012469"
 latitude: 50.7983
 longitude: 6.32861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/400px-Burg_Holzheim_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/800px-Burg_Holzheim_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/1200px-Burg_Holzheim_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/1920px-Burg_Holzheim_(3).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/1920px-Burg_Holzheim_(3).JPG---
 
 ## Overview
 

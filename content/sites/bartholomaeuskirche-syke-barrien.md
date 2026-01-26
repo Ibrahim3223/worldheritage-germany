@@ -4,13 +4,13 @@ site_name: "Bartholomäuskirche Syke-Barrien"
 date: 2026-01-26
 draft: false
 description: "church building in Barrien, Germany"
-region: "Syke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Syke"
+  - "Lower Saxony"
 wikidata_id: "Q2317494"
 latitude: 52.9396
 longitude: 8.82417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/400px-Syke_Barrien_014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/800px-Syke_Barrien_014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/1200px-Syke_Barrien_014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/1920px-Syke_Barrien_014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/1920px-Syke_Barrien_014.jpg---
 
 ## Overview
 

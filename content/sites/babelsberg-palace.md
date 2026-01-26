@@ -4,13 +4,13 @@ site_name: "Babelsberg Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Potsdam, Germany"
-region: "Babelsberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Château"
 categories:
   - "Château"
 regions:
-  - "Babelsberg"
+  - "Brandenburg"
 wikidata_id: "Q702477"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/400px-Babelsberg,_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/800px-Babelsberg,_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/1200px-Babelsberg,_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/1920px-Babelsberg,_Schloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/1920px-Babelsberg,_Schloss.JPG---
 
 ## Overview
 

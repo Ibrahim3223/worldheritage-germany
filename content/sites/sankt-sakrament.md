@@ -4,13 +4,13 @@ site_name: "Sankt Sakrament"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Heerdt, Germany"
-region: "Heerdt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heerdt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q918999"
 latitude: 51.22916667
 longitude: 6.7
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/400px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/800px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/1200px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/1920px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/1920px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg---
 
 ## Overview
 

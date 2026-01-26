@@ -4,13 +4,13 @@ site_name: "Hackescher Markt"
 date: 2026-01-26
 draft: false
 description: "public square in Berlin-Mitte, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q648165"
 latitude: 52.52333
 longitude: 13.40278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/400px-Niegelssohn_Hackescher_Markt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/800px-Niegelssohn_Hackescher_Markt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1200px-Niegelssohn_Hackescher_Markt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1920px-Niegelssohn_Hackescher_Markt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1920px-Niegelssohn_Hackescher_Markt.jpg---
 
 ## Overview
 

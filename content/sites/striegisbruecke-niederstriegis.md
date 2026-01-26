@@ -4,19 +4,18 @@ site_name: "Striegisbrücke Niederstriegis"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Roßwein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Roßwein"
+  - "Saxony"
 wikidata_id: "Q49449553"
 latitude: 51.077145146
 longitude: 13.147749802
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rochuskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Bingen am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bingen am Rhein"
+  - "Hesse"
 wikidata_id: "Q464061"
 latitude: 49.9665
 longitude: 7.9262
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/400px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/800px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/1200px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/1920px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/1920px-Bingen_Rhein_Rochuskapelle_2009_4.jpg---
 
 ## Overview
 

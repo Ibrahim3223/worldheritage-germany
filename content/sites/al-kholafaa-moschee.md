@@ -4,19 +4,18 @@ site_name: "Al-Kholafa´a Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee in Weimar"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q116276982"
 latitude: 50.99326
 longitude: 11.327
 images:
-  []
----
+  []---
 
 ## Overview
 

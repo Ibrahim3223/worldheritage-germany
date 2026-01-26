@@ -4,13 +4,13 @@ site_name: "Kaiserstein"
 date: 2026-01-26
 draft: false
 description: "Stone tablet emperor Wilhelm I visited Hemmingen castle in 1885"
-region: "Hemmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hemmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1721746"
 latitude: 48.8583
 longitude: 9.03611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/400px-Kaiserstein_Hemmingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/800px-Kaiserstein_Hemmingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/1200px-Kaiserstein_Hemmingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/1920px-Kaiserstein_Hemmingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/1920px-Kaiserstein_Hemmingen.jpg---
 
 ## Overview
 

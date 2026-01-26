@@ -4,19 +4,18 @@ site_name: "Hermann und Lilly Schilling-Stiftung"
 date: 2026-01-26
 draft: false
 description: "organization in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q36875311"
 latitude: 51.37486
 longitude: 7.015099
 images:
-  []
----
+  []---
 
 ## Overview
 

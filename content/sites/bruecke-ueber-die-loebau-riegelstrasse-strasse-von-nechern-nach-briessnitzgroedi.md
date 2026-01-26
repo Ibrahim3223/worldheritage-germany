@@ -4,19 +4,18 @@ site_name: "Brücke über die Löbau Riegelstraße (Straße von Nechern nach Bri
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Weißenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Weißenberg"
+  - "Saxony"
 wikidata_id: "Q49405829"
 latitude: 51.199408
 longitude: 14.601961
 images:
-  []
----
+  []---
 
 ## Overview
 

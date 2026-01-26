@@ -4,19 +4,18 @@ site_name: "Der Höst"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Nordhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Nordhorn"
+  - "Lower Saxony"
 wikidata_id: "Q1194521"
 latitude: 52.4828
 longitude: 7.01889
 images:
-  []
----
+  []---
 
 ## Overview
 

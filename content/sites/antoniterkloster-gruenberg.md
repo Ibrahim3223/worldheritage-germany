@@ -4,13 +4,13 @@ site_name: "Antoniterkloster Grünberg"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Grünberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Grünberg"
+  - "Bavaria"
 wikidata_id: "Q606497"
 latitude: 50.5925
 longitude: 8.96
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/400px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/800px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/1200px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/1920px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/1920px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg---
 
 ## Overview
 

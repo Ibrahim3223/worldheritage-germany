@@ -4,13 +4,13 @@ site_name: "Donatusstatue"
 date: 2026-01-26
 draft: false
 description: "statue in Ostbevern, Germany"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q1240764"
 latitude: 52.0401
 longitude: 7.8446
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Rengering9.JPG/400px-Kloster_Rengering9.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Rengering9.JPG/800px-Kloster_Rengering9.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Rengering9.JPG/1200px-Kloster_Rengering9.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Rengering9.JPG/1920px-Kloster_Rengering9.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Rengering9.JPG/1920px-Kloster_Rengering9.JPG---
 
 ## Overview
 

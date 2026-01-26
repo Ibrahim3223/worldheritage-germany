@@ -4,13 +4,13 @@ site_name: "Amtsgericht"
 date: 2026-01-26
 draft: false
 description: "cultural monument in the municipality of Fürth in the Bergstrasse district, Hesse, Germany"
-region: "Fürth"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Fürth"
+  - "Baden-Württemberg"
 wikidata_id: "Q116511675"
 latitude: 49.649663404
 longitude: 8.779494085
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/400px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/800px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/1200px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/1920px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/1920px-FuerthOdenwald-Amtsgericht1-Bubo.JPG---
 
 ## Overview
 

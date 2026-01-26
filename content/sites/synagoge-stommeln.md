@@ -4,13 +4,13 @@ site_name: "Synagoge Stommeln"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Pulheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Pulheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1557939"
 latitude: 51.0198
 longitude: 6.75887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/400px-Synagoge-Stommeln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/800px-Synagoge-Stommeln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/1200px-Synagoge-Stommeln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/1920px-Synagoge-Stommeln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/1920px-Synagoge-Stommeln.jpg---
 
 ## Overview
 

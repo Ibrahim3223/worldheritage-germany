@@ -4,19 +4,18 @@ site_name: "Joseph Haydn-Institut"
 date: 2026-01-26
 draft: false
 description: "archive organization in Cologne, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q30261263"
 latitude: 50.955486
 longitude: 6.96034
 images:
-  []
----
+  []---
 
 ## Overview
 

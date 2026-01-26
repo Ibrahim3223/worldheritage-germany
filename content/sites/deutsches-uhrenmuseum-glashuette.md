@@ -4,13 +4,13 @@ site_name: "Deutsches Uhrenmuseum Glashütte"
 date: 2026-01-26
 draft: false
 description: "museum about clocks in Glasshütte, Saxony, Germany"
-region: "Glashütte"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Glashütte"
+  - "Saxony"
 wikidata_id: "Q1206080"
 latitude: 50.85191
 longitude: 13.77937
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/400px-Deutsches_Uhrenmuseum_Glashütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/800px-Deutsches_Uhrenmuseum_Glashütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/1200px-Deutsches_Uhrenmuseum_Glashütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/1920px-Deutsches_Uhrenmuseum_Glashütte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/1920px-Deutsches_Uhrenmuseum_Glashütte.jpg---
 
 ## Overview
 

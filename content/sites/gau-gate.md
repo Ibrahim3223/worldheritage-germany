@@ -4,13 +4,13 @@ site_name: "Gau Gate"
 date: 2026-01-26
 draft: false
 description: "city gate in Mainz"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1357980"
 latitude: 49.9945
 longitude: 8.26743
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Das_Gautor_in_Mainz.jpg/400px-Das_Gautor_in_Mainz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Das_Gautor_in_Mainz.jpg/800px-Das_Gautor_in_Mainz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Das_Gautor_in_Mainz.jpg/1200px-Das_Gautor_in_Mainz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Das_Gautor_in_Mainz.jpg/1920px-Das_Gautor_in_Mainz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Das_Gautor_in_Mainz.jpg/1920px-Das_Gautor_in_Mainz.jpg---
 
 ## Overview
 

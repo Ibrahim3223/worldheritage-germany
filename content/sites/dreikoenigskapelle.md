@@ -4,13 +4,13 @@ site_name: "Dreikönigskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Memmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Memmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1257928"
 latitude: 47.9867
 longitude: 10.1842
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/400px-Kalchstraße_29_Memmingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/800px-Kalchstraße_29_Memmingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/1200px-Kalchstraße_29_Memmingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/1920px-Kalchstraße_29_Memmingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/1920px-Kalchstraße_29_Memmingen.JPG---
 
 ## Overview
 

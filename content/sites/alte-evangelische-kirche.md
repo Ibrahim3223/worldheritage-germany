@@ -4,13 +4,13 @@ site_name: "Alte Evangelische Kirche"
 date: 2026-01-26
 draft: false
 description: "former church and former cinema in Steinsfurt, Sinsheim, Baden-Württemberg, Germany"
-region: "Sinsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Sinsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q436407"
 latitude: 49.2382
 longitude: 8.91115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/400px-Steinsfurt_Lichtspielhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/800px-Steinsfurt_Lichtspielhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/1200px-Steinsfurt_Lichtspielhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/1920px-Steinsfurt_Lichtspielhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/1920px-Steinsfurt_Lichtspielhaus.jpg---
 
 ## Overview
 

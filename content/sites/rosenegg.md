@@ -4,13 +4,13 @@ site_name: "Rosenegg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Rielasingen-Worblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Rielasingen-Worblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q174579"
 latitude: 47.7355
 longitude: 8.8181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rosenegg_01.jpg/400px-Rosenegg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rosenegg_01.jpg/800px-Rosenegg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rosenegg_01.jpg/1200px-Rosenegg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rosenegg_01.jpg/1920px-Rosenegg_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rosenegg_01.jpg/1920px-Rosenegg_01.jpg---
 
 ## Overview
 

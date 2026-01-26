@@ -4,13 +4,13 @@ site_name: "Rathaus Mühlberg/Elbe"
 date: 2026-01-26
 draft: false
 description: "Bauwerk  in Mühlberg/Elbe im Landkreis Elbe-Elster in Brandenburg"
-region: "Mühlberg/Elbe"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Mühlberg/Elbe"
+  - "Brandenburg"
 wikidata_id: "Q117211967"
 latitude: 51.432291
 longitude: 13.21453
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mühlberg_BrB_Elbe_Rathaus1.jpg/400px-Mühlberg_BrB_Elbe_Rathaus1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mühlberg_BrB_Elbe_Rathaus1.jpg/800px-Mühlberg_BrB_Elbe_Rathaus1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mühlberg_BrB_Elbe_Rathaus1.jpg/1200px-Mühlberg_BrB_Elbe_Rathaus1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mühlberg_BrB_Elbe_Rathaus1.jpg/1920px-Mühlberg_BrB_Elbe_Rathaus1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mühlberg_BrB_Elbe_Rathaus1.jpg/1920px-Mühlberg_BrB_Elbe_Rathaus1.jpg---
 
 ## Overview
 

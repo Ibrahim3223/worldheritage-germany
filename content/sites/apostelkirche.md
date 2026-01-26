@@ -4,13 +4,13 @@ site_name: "Apostelkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Leipzig. Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q619909"
 latitude: 51.3004
 longitude: 12.3286
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/400px-Apostelkirche_leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/800px-Apostelkirche_leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/1200px-Apostelkirche_leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/1920px-Apostelkirche_leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/1920px-Apostelkirche_leipzig.jpg---
 
 ## Overview
 

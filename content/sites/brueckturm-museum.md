@@ -4,19 +4,18 @@ site_name: "Brückturm-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629199"
 latitude: 49.021182
 longitude: 12.096819
 images:
-  []
----
+  []---
 
 ## Overview
 

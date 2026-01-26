@@ -4,13 +4,13 @@ site_name: "Tierpark Berlin"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q702771"
 latitude: 52.500278
 longitude: 13.5325
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/400px-Tierpark_Berlin_-_Main_entry.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/800px-Tierpark_Berlin_-_Main_entry.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/1200px-Tierpark_Berlin_-_Main_entry.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/1920px-Tierpark_Berlin_-_Main_entry.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/1920px-Tierpark_Berlin_-_Main_entry.jpg---
 
 ## Overview
 

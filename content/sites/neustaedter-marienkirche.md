@@ -4,13 +4,13 @@ site_name: "Neustädter Marienkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bielefeld, Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1981786"
 latitude: 52.0171
 longitude: 8.52989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/400px-Marienkirche_Bi.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/800px-Marienkirche_Bi.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/1200px-Marienkirche_Bi.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/1920px-Marienkirche_Bi.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/1920px-Marienkirche_Bi.JPG---
 
 ## Overview
 

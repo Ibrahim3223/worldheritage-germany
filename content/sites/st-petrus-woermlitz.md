@@ -4,13 +4,13 @@ site_name: "St. Petrus (Wörmlitz)"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2322863"
 latitude: 51.4528
 longitude: 11.9403
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WörmlitzPetrus3.JPG/400px-WörmlitzPetrus3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WörmlitzPetrus3.JPG/800px-WörmlitzPetrus3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WörmlitzPetrus3.JPG/1200px-WörmlitzPetrus3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WörmlitzPetrus3.JPG/1920px-WörmlitzPetrus3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WörmlitzPetrus3.JPG/1920px-WörmlitzPetrus3.JPG---
 
 ## Overview
 

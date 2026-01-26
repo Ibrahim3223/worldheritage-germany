@@ -4,13 +4,13 @@ site_name: "Totholzgarten"
 date: 2026-01-26
 draft: false
 description: "Garden with accumulation of deadwood between JCRG Hof and Bismarck Tower Hof, Germany"
-region: "Hof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Hof"
+  - "Bavaria"
 wikidata_id: "Q92313364"
 latitude: 50.306308
 longitude: 11.897257
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schild_Totholzgarten_Hof_20200428_142404.jpg/400px-Schild_Totholzgarten_Hof_20200428_142404.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schild_Totholzgarten_Hof_20200428_142404.jpg/800px-Schild_Totholzgarten_Hof_20200428_142404.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schild_Totholzgarten_Hof_20200428_142404.jpg/1200px-Schild_Totholzgarten_Hof_20200428_142404.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schild_Totholzgarten_Hof_20200428_142404.jpg/1920px-Schild_Totholzgarten_Hof_20200428_142404.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schild_Totholzgarten_Hof_20200428_142404.jpg/1920px-Schild_Totholzgarten_Hof_20200428_142404.jpg---
 
 ## Overview
 

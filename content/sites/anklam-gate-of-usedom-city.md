@@ -4,13 +4,13 @@ site_name: "Anklam Gate of Usedom City"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Usedom"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Usedom"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q557351"
 latitude: 53.8725
 longitude: 13.9178
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/400px-Stadt_Usedom_Anklamer_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/800px-Stadt_Usedom_Anklamer_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/1200px-Stadt_Usedom_Anklamer_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/1920px-Stadt_Usedom_Anklamer_Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/1920px-Stadt_Usedom_Anklamer_Tor.jpg---
 
 ## Overview
 

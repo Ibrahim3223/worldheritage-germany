@@ -4,13 +4,13 @@ site_name: "St. Kilian (Iserlohn)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1630484"
 latitude: 51.3654
 longitude: 7.60833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iserlohn_st_kilian_p1010066.jpg/400px-Iserlohn_st_kilian_p1010066.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iserlohn_st_kilian_p1010066.jpg/800px-Iserlohn_st_kilian_p1010066.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iserlohn_st_kilian_p1010066.jpg/1200px-Iserlohn_st_kilian_p1010066.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iserlohn_st_kilian_p1010066.jpg/1920px-Iserlohn_st_kilian_p1010066.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iserlohn_st_kilian_p1010066.jpg/1920px-Iserlohn_st_kilian_p1010066.jpg---
 
 ## Overview
 

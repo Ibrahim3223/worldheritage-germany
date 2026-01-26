@@ -4,13 +4,13 @@ site_name: "DITIB-Merkez-Moschee"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "North Rhine-Westphalia"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "North Rhine-Westphalia"
+  - "Lower Saxony"
 wikidata_id: "Q782627"
 latitude: 51.5094
 longitude: 6.75389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/400px-DITIB-Merkez-Mosque_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/800px-DITIB-Merkez-Mosque_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/1200px-DITIB-Merkez-Mosque_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/1920px-DITIB-Merkez-Mosque_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/1920px-DITIB-Merkez-Mosque_Front.jpg---
 
 ## Overview
 

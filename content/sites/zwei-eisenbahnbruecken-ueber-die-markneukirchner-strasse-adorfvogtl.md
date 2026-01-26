@@ -4,19 +4,18 @@ site_name: "Zwei Eisenbahnbrücken über die Markneukirchner Straße Adorf Vogtl
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Adorf Vogtl"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Adorf Vogtl"
+  - "Bavaria"
 wikidata_id: "Q49439303"
 latitude: 50.320449
 longitude: 12.260847
 images:
-  []
----
+  []---
 
 ## Overview
 

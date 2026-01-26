@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kapelle (Menden)"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Menden (Sauerland)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Menden (Sauerland)"
+  - "Hesse"
 wikidata_id: "Q1594915"
 latitude: 51.4365
 longitude: 7.8045
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Menden-Antoniuskapelle-Pepe007.jpg/400px-Menden-Antoniuskapelle-Pepe007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Menden-Antoniuskapelle-Pepe007.jpg/800px-Menden-Antoniuskapelle-Pepe007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Menden-Antoniuskapelle-Pepe007.jpg/1200px-Menden-Antoniuskapelle-Pepe007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Menden-Antoniuskapelle-Pepe007.jpg/1920px-Menden-Antoniuskapelle-Pepe007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Menden-Antoniuskapelle-Pepe007.jpg/1920px-Menden-Antoniuskapelle-Pepe007.jpg---
 
 ## Overview
 

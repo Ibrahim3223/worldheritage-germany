@@ -4,13 +4,13 @@ site_name: "Cultural History Museum (Mühlhausen/Thuringia)"
 date: 2026-01-26
 draft: false
 description: "museum in Mühlhausen/Thuringia, district capital of the Unstrut Hainich District in Thuringia, Germany"
-region: "Mühlhausen/Thuringia"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mühlhausen/Thuringia"
+  - "Thuringia"
 wikidata_id: "Q20481914"
 latitude: 51.206345008
 longitude: 10.457477505
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/400px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/800px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1200px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1920px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1920px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg---
 
 ## Overview
 

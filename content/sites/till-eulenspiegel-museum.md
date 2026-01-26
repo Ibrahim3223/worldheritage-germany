@@ -4,13 +4,13 @@ site_name: "Till-Eulenspiegel-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schöppenstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schöppenstedt"
+  - "Lower Saxony"
 wikidata_id: "Q2433358"
 latitude: 52.1468
 longitude: 10.7745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/400px-Till-Eulenspiegel-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/800px-Till-Eulenspiegel-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/1200px-Till-Eulenspiegel-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/1920px-Till-Eulenspiegel-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/1920px-Till-Eulenspiegel-Museum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Synagoge Pforzheim"
 date: 2026-01-26
 draft: false
 description: "demolished synagogue building in Pforzheim, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Pforzheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Pforzheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q436313"
 latitude: 48.8907
 longitude: 8.69572
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/400px-Synagogue_Pforzheim_-_exterior.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/800px-Synagogue_Pforzheim_-_exterior.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/1200px-Synagogue_Pforzheim_-_exterior.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/1920px-Synagogue_Pforzheim_-_exterior.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/1920px-Synagogue_Pforzheim_-_exterior.jpg---
 
 ## Overview
 

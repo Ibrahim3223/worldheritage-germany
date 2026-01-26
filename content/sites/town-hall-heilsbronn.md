@@ -4,13 +4,13 @@ site_name: "Town Hall Heilsbronn"
 date: 2026-01-26
 draft: false
 description: "former guest house of the Heilsbronn Abbey, later district court and currently town hall in Heilsbronn, Middle Franconia, Germany"
-region: "Heilsbronn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Heilsbronn"
+  - "Bavaria"
 wikidata_id: "Q41366332"
 latitude: 49.3377
 longitude: 10.78902
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/400px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/800px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/1200px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/1920px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/1920px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg---
 
 ## Overview
 

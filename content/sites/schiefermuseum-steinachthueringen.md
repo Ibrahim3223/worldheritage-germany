@@ -4,13 +4,13 @@ site_name: "Schiefermuseum Steinach/Thüringen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Steinach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steinach"
+  - "Bavaria"
 wikidata_id: "Q20479717"
 latitude: 50.434468
 longitude: 11.15557
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/400px-Steinach-Dr.-Max-Volk-Str21.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/800px-Steinach-Dr.-Max-Volk-Str21.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/1200px-Steinach-Dr.-Max-Volk-Str21.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/1920px-Steinach-Dr.-Max-Volk-Str21.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/1920px-Steinach-Dr.-Max-Volk-Str21.jpg---
 
 ## Overview
 

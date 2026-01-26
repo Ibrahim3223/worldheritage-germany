@@ -4,13 +4,13 @@ site_name: "Art Collections Chemnitz"
 date: 2026-01-26
 draft: false
 description: "museums in Chemnitz, Germany"
-region: "Zentrum"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Zentrum"
+  - "Saxony"
 wikidata_id: "Q1792616"
 latitude: 50.8377
 longitude: 12.9246
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/400px-Koenig_Albert_Museum_in_Chemnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/800px-Koenig_Albert_Museum_in_Chemnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/1200px-Koenig_Albert_Museum_in_Chemnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/1920px-Koenig_Albert_Museum_in_Chemnitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/1920px-Koenig_Albert_Museum_in_Chemnitz.jpg---
 
 ## Overview
 

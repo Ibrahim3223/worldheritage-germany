@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke über das Schwarzwasser mit drei Begleitsteinen A
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schmölln-Putzkau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schmölln-Putzkau"
+  - "Saxony"
 wikidata_id: "Q49411205"
 latitude: 51.122307
 longitude: 14.232863
 images:
-  []
----
+  []---
 
 ## Overview
 

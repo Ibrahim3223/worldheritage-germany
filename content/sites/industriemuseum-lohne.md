@@ -4,19 +4,18 @@ site_name: "Industriemuseum Lohne"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lohne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lohne"
+  - "Lower Saxony"
 wikidata_id: "Q1662097"
 latitude: 52.6657
 longitude: 8.23025
 images:
-  []
----
+  []---
 
 ## Overview
 

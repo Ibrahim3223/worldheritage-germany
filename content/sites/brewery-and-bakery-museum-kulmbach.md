@@ -4,13 +4,13 @@ site_name: "Brewery and Bakery Museum Kulmbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kulmbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kulmbach"
+  - "Bavaria"
 wikidata_id: "Q812397"
 latitude: 50.114671
 longitude: 11.468327
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/400px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/800px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/1200px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/1920px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/1920px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG---
 
 ## Overview
 

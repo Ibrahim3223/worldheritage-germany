@@ -4,13 +4,13 @@ site_name: "Brand (Landkreis Celle)"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Uetze"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Uetze"
+  - "Lower Saxony"
 wikidata_id: "Q897721"
 latitude: 52.5269
 longitude: 10.1086
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Naturschutzgebiet_Brand_(NSG-HA105).JPG/400px-Naturschutzgebiet_Brand_(NSG-HA105).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Naturschutzgebiet_Brand_(NSG-HA105).JPG/800px-Naturschutzgebiet_Brand_(NSG-HA105).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Naturschutzgebiet_Brand_(NSG-HA105).JPG/1200px-Naturschutzgebiet_Brand_(NSG-HA105).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Naturschutzgebiet_Brand_(NSG-HA105).JPG/1920px-Naturschutzgebiet_Brand_(NSG-HA105).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Naturschutzgebiet_Brand_(NSG-HA105).JPG/1920px-Naturschutzgebiet_Brand_(NSG-HA105).JPG---
 
 ## Overview
 

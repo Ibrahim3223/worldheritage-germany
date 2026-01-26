@@ -4,13 +4,13 @@ site_name: "Burgtor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q538276"
 latitude: 53.874
 longitude: 10.6911
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/400px-Burgtor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/800px-Burgtor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/1200px-Burgtor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/1920px-Burgtor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/1920px-Burgtor.jpg---
 
 ## Overview
 

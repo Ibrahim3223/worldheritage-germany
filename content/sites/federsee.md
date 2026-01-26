@@ -4,13 +4,13 @@ site_name: "Federsee"
 date: 2026-01-26
 draft: false
 description: "lake in Baden-Württemberg, Germany"
-region: "Biberach district"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Biberach district"
+  - "Baden-Württemberg"
 wikidata_id: "Q248234"
 latitude: 48.083333333
 longitude: 9.633333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/400px-Federsee-2012-08.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/800px-Federsee-2012-08.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1200px-Federsee-2012-08.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1920px-Federsee-2012-08.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1920px-Federsee-2012-08.jpeg---
 
 ## Overview
 

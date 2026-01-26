@@ -4,13 +4,13 @@ site_name: "Petersberg"
 date: 2026-01-26
 draft: false
 description: "mountain in the Siebengebirge mountain range near Bonn, Germany"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q152933"
 latitude: 50.686111
 longitude: 7.2075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bonn_Petersberg_2009_06_01_cropped.JPG/400px-Bonn_Petersberg_2009_06_01_cropped.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bonn_Petersberg_2009_06_01_cropped.JPG/800px-Bonn_Petersberg_2009_06_01_cropped.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bonn_Petersberg_2009_06_01_cropped.JPG/1200px-Bonn_Petersberg_2009_06_01_cropped.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bonn_Petersberg_2009_06_01_cropped.JPG/1920px-Bonn_Petersberg_2009_06_01_cropped.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bonn_Petersberg_2009_06_01_cropped.JPG/1920px-Bonn_Petersberg_2009_06_01_cropped.JPG---
 
 ## Overview
 

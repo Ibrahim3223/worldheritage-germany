@@ -4,19 +4,18 @@ site_name: "Windmühle Winkeldorf"
 date: 2026-01-26
 draft: false
 description: "building in Horstedt, Germany"
-region: "Horstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Horstedt"
+  - "Lower Saxony"
 wikidata_id: "Q135450919"
 latitude: 53.199455
 longitude: 9.21404
 images:
-  []
----
+  []---
 
 ## Overview
 

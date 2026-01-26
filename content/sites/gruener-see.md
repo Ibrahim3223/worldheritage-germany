@@ -4,13 +4,13 @@ site_name: "Grüner See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Melle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Melle"
+  - "Lower Saxony"
 wikidata_id: "Q1552126"
 latitude: 52.2633
 longitude: 8.45444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/400px-Panorama_Grüner_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/800px-Panorama_Grüner_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/1200px-Panorama_Grüner_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/1920px-Panorama_Grüner_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/1920px-Panorama_Grüner_See.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Hohenrangendingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rangendingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rangendingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012431"
 latitude: 48.3882
 longitude: 8.89564
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohenrangendingen_01.jpg/400px-Burg_Hohenrangendingen_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohenrangendingen_01.jpg/800px-Burg_Hohenrangendingen_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohenrangendingen_01.jpg/1200px-Burg_Hohenrangendingen_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohenrangendingen_01.jpg/1920px-Burg_Hohenrangendingen_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohenrangendingen_01.jpg/1920px-Burg_Hohenrangendingen_01.jpg---
 
 ## Overview
 

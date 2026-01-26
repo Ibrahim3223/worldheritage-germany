@@ -4,13 +4,13 @@ site_name: "Church in Jarmen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Jarmen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jarmen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1421157"
 latitude: 53.9253
 longitude: 13.3435
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/400px-Jarmen_DM_Kirche_Nordseite_unten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/800px-Jarmen_DM_Kirche_Nordseite_unten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1200px-Jarmen_DM_Kirche_Nordseite_unten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1920px-Jarmen_DM_Kirche_Nordseite_unten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1920px-Jarmen_DM_Kirche_Nordseite_unten.jpg---
 
 ## Overview
 

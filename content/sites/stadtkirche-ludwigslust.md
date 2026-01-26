@@ -4,13 +4,13 @@ site_name: "Stadtkirche Ludwigslust"
 date: 2026-01-26
 draft: false
 description: "church building in Ludwigslust, Germany"
-region: "Ludwigslust"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ludwigslust"
+  - "Brandenburg"
 wikidata_id: "Q2327402"
 latitude: 53.3201
 longitude: 11.4902
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/400px-Ludwigslust_Stadtkirche-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/800px-Ludwigslust_Stadtkirche-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/1200px-Ludwigslust_Stadtkirche-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/1920px-Ludwigslust_Stadtkirche-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/1920px-Ludwigslust_Stadtkirche-2.jpg---
 
 ## Overview
 

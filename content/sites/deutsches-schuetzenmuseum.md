@@ -4,19 +4,18 @@ site_name: "Deutsches Schützenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q1205971"
 latitude: 50.277888888
 longitude: 10.922597222
 images:
-  []
----
+  []---
 
 ## Overview
 

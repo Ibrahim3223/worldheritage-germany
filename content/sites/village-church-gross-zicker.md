@@ -4,13 +4,13 @@ site_name: "Village Church Groß Zicker"
 date: 2026-01-26
 draft: false
 description: "Protestant church on the island of Rügen, Mecklenburg-Vorpommern, Germany"
-region: "Mönchgut"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mönchgut"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244333"
 latitude: 54.29574075
 longitude: 13.68997336
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/400px-Groß_Zicker,_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/800px-Groß_Zicker,_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/1200px-Groß_Zicker,_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/1920px-Groß_Zicker,_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/1920px-Groß_Zicker,_Dorfkirche.jpg---
 
 ## Overview
 

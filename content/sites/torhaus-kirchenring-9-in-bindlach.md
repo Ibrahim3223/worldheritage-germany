@@ -4,13 +4,13 @@ site_name: "Torhaus Kirchenring 9 in Bindlach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-72-119-16 (2) in Bindlach, Bavaria"
-region: "Bindlach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Bindlach"
+  - "Bavaria"
 wikidata_id: "Q98587126"
 latitude: 50.012733178
 longitude: 11.623552244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/400px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/800px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/1200px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/1920px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/1920px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg---
 
 ## Overview
 

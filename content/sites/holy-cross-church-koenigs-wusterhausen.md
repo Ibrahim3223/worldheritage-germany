@@ -4,13 +4,13 @@ site_name: "Holy-Cross church Königs Wusterhausen"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Königs Wusterhausen"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Königs Wusterhausen"
+  - "Berlin"
 wikidata_id: "Q1788346"
 latitude: 52.3
 longitude: 13.6261
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kreuzkirche_KW.jpg/400px-Kreuzkirche_KW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kreuzkirche_KW.jpg/800px-Kreuzkirche_KW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kreuzkirche_KW.jpg/1200px-Kreuzkirche_KW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kreuzkirche_KW.jpg/1920px-Kreuzkirche_KW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kreuzkirche_KW.jpg/1920px-Kreuzkirche_KW.jpg---
 
 ## Overview
 

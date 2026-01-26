@@ -4,13 +4,13 @@ site_name: "Knauf-Museum Iphofen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Iphofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Iphofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q47482339"
 latitude: 49.703888888
 longitude: 10.260277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/KnaufMuseumNeubau.jpg/400px-KnaufMuseumNeubau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/KnaufMuseumNeubau.jpg/800px-KnaufMuseumNeubau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/KnaufMuseumNeubau.jpg/1200px-KnaufMuseumNeubau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/KnaufMuseumNeubau.jpg/1920px-KnaufMuseumNeubau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/KnaufMuseumNeubau.jpg/1920px-KnaufMuseumNeubau.jpg---
 
 ## Overview
 

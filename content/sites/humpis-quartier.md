@@ -4,13 +4,13 @@ site_name: "Humpis-Quartier"
 date: 2026-01-26
 draft: false
 description: "museum in Ravensburg, Germany, housed in a medieval complex of houses"
-region: "Ravensburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ravensburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1637298"
 latitude: 47.7805
 longitude: 9.6159
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Humpisquartier_Marktstraße_1.jpg/400px-Humpisquartier_Marktstraße_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Humpisquartier_Marktstraße_1.jpg/800px-Humpisquartier_Marktstraße_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Humpisquartier_Marktstraße_1.jpg/1200px-Humpisquartier_Marktstraße_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Humpisquartier_Marktstraße_1.jpg/1920px-Humpisquartier_Marktstraße_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Humpisquartier_Marktstraße_1.jpg/1920px-Humpisquartier_Marktstraße_1.jpg---
 
 ## Overview
 

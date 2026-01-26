@@ -4,13 +4,13 @@ site_name: "Museum für Ur- und Frühgeschichte Thüringens"
 date: 2026-01-26
 draft: false
 description: "museum in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1607050"
 latitude: 50.975494444
 longitude: 11.326041666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg/400px-Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg/800px-Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg/1200px-Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg/1920px-Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg/1920px-Museum_für_Ur-_und_Frühgeschichte_Thüringens_(Westansicht).jpg---
 
 ## Overview
 

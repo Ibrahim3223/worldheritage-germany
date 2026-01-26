@@ -4,13 +4,13 @@ site_name: "Postweiher"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q1270523"
 latitude: 50.5668
 longitude: 7.82175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/400px-Postweiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/800px-Postweiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/1200px-Postweiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/1920px-Postweiher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/1920px-Postweiher.jpg---
 
 ## Overview 
 

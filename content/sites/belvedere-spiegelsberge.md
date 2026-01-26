@@ -4,13 +4,13 @@ site_name: "Belvedere (Spiegelsberge)"
 date: 2026-01-26
 draft: false
 description: "observation tower in Halberstadt, Germany"
-region: "Halberstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Halberstadt"
+  - "Lower Saxony"
 wikidata_id: "Q816254"
 latitude: 51.8738
 longitude: 11.0417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/400px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/800px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/1200px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/1920px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/1920px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Varel windmill"
 date: 2026-01-26
 draft: false
 description: "windmill in Varel, Germany"
-region: "Varel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Varel"
+  - "Lower Saxony"
 wikidata_id: "Q1548731"
 latitude: 53.4006
 longitude: 8.14306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varler_windmuehle_01.jpg/400px-Varler_windmuehle_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varler_windmuehle_01.jpg/800px-Varler_windmuehle_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varler_windmuehle_01.jpg/1200px-Varler_windmuehle_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varler_windmuehle_01.jpg/1920px-Varler_windmuehle_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varler_windmuehle_01.jpg/1920px-Varler_windmuehle_01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Waldenserkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Nordhausen, Nordheim, Heilbronn district, Germany"
-region: "Nordheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nordheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2541460"
 latitude: 49.1024
 longitude: 9.10598
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/400px-Nordhausen-kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/800px-Nordhausen-kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/1200px-Nordhausen-kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/1920px-Nordhausen-kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/1920px-Nordhausen-kirche.jpg---
 
 ## Overview
 

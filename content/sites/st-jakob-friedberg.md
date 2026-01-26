@@ -4,13 +4,13 @@ site_name: "St. Jakob (Friedberg)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Friedberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedberg"
+  - "Bavaria"
 wikidata_id: "Q2318882"
 latitude: 48.3553
 longitude: 10.98
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/400px-St._Jakob_Friedberg_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/800px-St._Jakob_Friedberg_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/1200px-St._Jakob_Friedberg_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/1920px-St._Jakob_Friedberg_Turm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/1920px-St._Jakob_Friedberg_Turm.JPG---
 
 ## Overview
 

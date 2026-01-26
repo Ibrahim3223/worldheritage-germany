@@ -4,19 +4,18 @@ site_name: "Beethovenplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Hanau, Germany"
-region: "Hanau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Hanau"
+  - "Hesse"
 wikidata_id: "Q814138"
 latitude: 50.1431
 longitude: 8.89412
 images:
-  []
----
+  []---
 
 ## Overview
 

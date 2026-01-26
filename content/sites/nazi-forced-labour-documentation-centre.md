@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg/400px-Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg/800px-Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg/1200px-Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg/1920px-Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg/1920px-Dokumentationszentrum_NS-Zwangsarbeit_-_Baracke_13_Flur.jpg---
 
 ## Overview
 

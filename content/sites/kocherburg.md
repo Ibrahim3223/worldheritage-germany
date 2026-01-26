@@ -4,13 +4,13 @@ site_name: "Kocherburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Unterkochen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Unterkochen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012692"
 latitude: 48.8159
 longitude: 10.1484
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg/400px-Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg/800px-Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg/1200px-Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg/1920px-Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg/1920px-Kocherburg_Durchgang_zwischen_Keller_und_Küche_im_Norden.jpg---
 
 ## Overview
 

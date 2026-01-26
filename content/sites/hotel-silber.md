@@ -4,13 +4,13 @@ site_name: "Hotel Silber"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q60059499"
 latitude: 48.775587
 longitude: 9.181657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/400px-Hotel_Silber_Stuttgart1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/800px-Hotel_Silber_Stuttgart1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/1200px-Hotel_Silber_Stuttgart1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/1920px-Hotel_Silber_Stuttgart1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/1920px-Hotel_Silber_Stuttgart1.jpg---
 
 ## Overview
 

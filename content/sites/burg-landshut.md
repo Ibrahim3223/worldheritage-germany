@@ -4,13 +4,13 @@ site_name: "Burg Landshut"
 date: 2026-01-26
 draft: false
 description: "castle in Rhineland-Palatinate, Germany"
-region: "Bernkastel-Kues"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bernkastel-Kues"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1012833"
 latitude: 49.9112
 longitude: 7.07464
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/400px-Burg_Landshut,_Bernkastel-Kues.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/800px-Burg_Landshut,_Bernkastel-Kues.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/1200px-Burg_Landshut,_Bernkastel-Kues.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/1920px-Burg_Landshut,_Bernkastel-Kues.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/1920px-Burg_Landshut,_Bernkastel-Kues.jpg---
 
 ## Overview
 

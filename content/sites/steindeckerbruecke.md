@@ -4,13 +4,13 @@ site_name: "Steindeckerbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403762"
 latitude: 51.252916
 longitude: 13.987044
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg/400px-Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg/800px-Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg/1200px-Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg/1920px-Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg/1920px-Steindeckerbrücke_VI_Haselbach_2020-05-16_4.jpg---
 
 ## Overview
 

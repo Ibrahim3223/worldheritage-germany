@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Gehrden"
 date: 2026-01-26
 draft: false
 description: "museum in Gehrden near Hannover, Germany"
-region: "Gehrden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gehrden"
+  - "Lower Saxony"
 wikidata_id: "Q51557465"
 latitude: 52.311388888
 longitude: 9.600555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gehrden_Stadtmuseum.jpg/400px-Gehrden_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gehrden_Stadtmuseum.jpg/800px-Gehrden_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gehrden_Stadtmuseum.jpg/1200px-Gehrden_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gehrden_Stadtmuseum.jpg/1920px-Gehrden_Stadtmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gehrden_Stadtmuseum.jpg/1920px-Gehrden_Stadtmuseum.jpg---
 
 ## Overview
 

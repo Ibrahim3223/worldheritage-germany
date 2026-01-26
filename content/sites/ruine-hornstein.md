@@ -4,13 +4,13 @@ site_name: "Ruine Hornstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012498"
 latitude: 48.1108
 longitude: 9.26
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ruine_Hornstein_2.jpg/400px-Ruine_Hornstein_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ruine_Hornstein_2.jpg/800px-Ruine_Hornstein_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ruine_Hornstein_2.jpg/1200px-Ruine_Hornstein_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ruine_Hornstein_2.jpg/1920px-Ruine_Hornstein_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ruine_Hornstein_2.jpg/1920px-Ruine_Hornstein_2.jpg---
 
 ## Overview
 

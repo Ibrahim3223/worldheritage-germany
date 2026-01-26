@@ -4,13 +4,13 @@ site_name: "Spreewaldmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lübbenau/Spreewald"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübbenau/Spreewald"
+  - "Brandenburg"
 wikidata_id: "Q2313493"
 latitude: 51.8694
 longitude: 13.9654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/400px-Spreewaldmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/800px-Spreewaldmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/1200px-Spreewaldmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/1920px-Spreewaldmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/1920px-Spreewaldmuseum.JPG---
 
 ## Overview
 

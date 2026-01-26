@@ -4,13 +4,13 @@ site_name: "Karl Volkmar Stoy School"
 date: 2026-01-26
 draft: false
 description: "vocational school in Jena, Germany"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1454685"
 latitude: 50.9261
 longitude: 11.5899
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/400px-Stoy-Schule_Jena_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/800px-Stoy-Schule_Jena_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/1200px-Stoy-Schule_Jena_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/1920px-Stoy-Schule_Jena_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/1920px-Stoy-Schule_Jena_2013.jpg---
 
 ## Overview
 

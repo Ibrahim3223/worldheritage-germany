@@ -4,13 +4,13 @@ site_name: "Fette Henne"
 date: 2026-01-26
 draft: false
 description: "water well in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q1409204"
 latitude: 52.4283
 longitude: 13.4341
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/400px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/800px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/1200px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/1920px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/1920px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg---
 
 ## Overview
 

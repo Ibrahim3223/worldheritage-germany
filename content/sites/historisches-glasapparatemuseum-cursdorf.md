@@ -4,13 +4,13 @@ site_name: "Historisches Glasapparatemuseum Cursdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Cursdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cursdorf"
+  - "Bavaria"
 wikidata_id: "Q20480271"
 latitude: 50.5716572
 longitude: 11.1275224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/400px-Cursdorf-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/800px-Cursdorf-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/1200px-Cursdorf-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/1920px-Cursdorf-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/1920px-Cursdorf-02.jpg---
 
 ## Overview
 

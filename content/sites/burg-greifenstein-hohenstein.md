@@ -4,13 +4,13 @@ site_name: "Burg Greifenstein (Hohenstein)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Burg-Hohenstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Burg-Hohenstein"
+  - "Hesse"
 wikidata_id: "Q1012035"
 latitude: 50.1947
 longitude: 8.05688
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/400px-Greifenstein_014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/800px-Greifenstein_014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/1200px-Greifenstein_014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/1920px-Greifenstein_014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/1920px-Greifenstein_014.JPG---
 
 ## Overview
 

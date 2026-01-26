@@ -4,13 +4,13 @@ site_name: "Luisendenkmal (Gransee)"
 date: 2026-01-26
 draft: false
 description: "monument in Gransee, Germany"
-region: "Gransee"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Gransee"
+  - "Brandenburg"
 wikidata_id: "Q1690505"
 latitude: 53.00748
 longitude: 13.15559
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/400px-Gransee_Luisendenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/800px-Gransee_Luisendenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/1200px-Gransee_Luisendenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/1920px-Gransee_Luisendenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/1920px-Gransee_Luisendenkmal.jpg---
 
 ## Overview
 

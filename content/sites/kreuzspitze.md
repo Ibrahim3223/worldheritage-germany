@@ -4,13 +4,13 @@ site_name: "Kreuzspitze"
 date: 2026-01-26
 draft: false
 description: "mountain in the Ammergau Alps in Bavaria"
-region: "District of Garmisch-Partenkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "District of Garmisch-Partenkirchen"
+  - "Bavaria"
 wikidata_id: "Q279725"
 latitude: 47.5264
 longitude: 10.9185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kreuzspitze_von_S_HQ.jpg/400px-Kreuzspitze_von_S_HQ.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kreuzspitze_von_S_HQ.jpg/800px-Kreuzspitze_von_S_HQ.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kreuzspitze_von_S_HQ.jpg/1200px-Kreuzspitze_von_S_HQ.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kreuzspitze_von_S_HQ.jpg/1920px-Kreuzspitze_von_S_HQ.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kreuzspitze_von_S_HQ.jpg/1920px-Kreuzspitze_von_S_HQ.jpg---
 
 ## Overview
 

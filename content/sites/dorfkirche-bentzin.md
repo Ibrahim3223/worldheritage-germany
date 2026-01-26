@@ -4,13 +4,13 @@ site_name: "Dorfkirche Bentzin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bentzin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bentzin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244131"
 latitude: 53.9493
 longitude: 13.274
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/400px-Bentzin_Kirche_Südseite_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/800px-Bentzin_Kirche_Südseite_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1200px-Bentzin_Kirche_Südseite_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1920px-Bentzin_Kirche_Südseite_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1920px-Bentzin_Kirche_Südseite_01.jpg---
 
 ## Overview
 

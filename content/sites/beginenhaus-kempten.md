@@ -4,13 +4,13 @@ site_name: "Beginenhaus Kempten"
 date: 2026-01-26
 draft: false
 description: "ensemble of buildings"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q814324"
 latitude: 47.7244
 longitude: 10.322
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/400px-Beginenhaus_Burgstraße,_Kempten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/800px-Beginenhaus_Burgstraße,_Kempten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/1200px-Beginenhaus_Burgstraße,_Kempten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/1920px-Beginenhaus_Burgstraße,_Kempten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/1920px-Beginenhaus_Burgstraße,_Kempten.jpg---
 
 ## Overview
 

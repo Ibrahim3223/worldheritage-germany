@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität: Kunstgesch. Seminar und Kunstsammlung der
 date: 2026-01-26
 draft: false
 description: "museum in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636057"
 latitude: 51.539097
 longitude: 9.93714
 images:
-  []
----
+  []---
 
 ## Overview
 

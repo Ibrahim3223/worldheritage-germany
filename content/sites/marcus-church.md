@@ -4,13 +4,13 @@ site_name: "Marcus Church"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Lower Saxony, Germany"
-region: "Vahrenwald-List"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vahrenwald-List"
+  - "Lower Saxony"
 wikidata_id: "Q1597429"
 latitude: 52.3883
 longitude: 9.75227
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/400px-Markuskirche_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/800px-Markuskirche_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/1200px-Markuskirche_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/1920px-Markuskirche_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Markuskirche_Hannover.jpg/1920px-Markuskirche_Hannover.jpg---
 
 ## Overview
 

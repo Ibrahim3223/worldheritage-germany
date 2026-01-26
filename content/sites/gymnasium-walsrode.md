@@ -4,13 +4,13 @@ site_name: "Gymnasium Walsrode"
 date: 2026-01-26
 draft: false
 description: "gymnasium in Wlasrode, Lower Saxony"
-region: "Walsrode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Walsrode"
+  - "Lower Saxony"
 wikidata_id: "Q1558260"
 latitude: 52.8659
 longitude: 9.59243
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/400px-Gymnasium_Walsrode_HHH_25.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/800px-Gymnasium_Walsrode_HHH_25.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/1200px-Gymnasium_Walsrode_HHH_25.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/1920px-Gymnasium_Walsrode_HHH_25.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/1920px-Gymnasium_Walsrode_HHH_25.jpg---
 
 ## Overview
 

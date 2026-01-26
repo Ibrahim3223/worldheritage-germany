@@ -4,13 +4,13 @@ site_name: "Cross Gate"
 date: 2026-01-26
 draft: false
 description: "was built in 1385, is the guard tower with seven small turrets and was the western gate of Ingolstadt Fortress"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q322840"
 latitude: 48.7642
 longitude: 11.4179
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ingolstadt_Kreuztor_423.jpg/400px-Ingolstadt_Kreuztor_423.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ingolstadt_Kreuztor_423.jpg/800px-Ingolstadt_Kreuztor_423.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ingolstadt_Kreuztor_423.jpg/1200px-Ingolstadt_Kreuztor_423.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ingolstadt_Kreuztor_423.jpg/1920px-Ingolstadt_Kreuztor_423.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ingolstadt_Kreuztor_423.jpg/1920px-Ingolstadt_Kreuztor_423.jpg---
 
 ## Overview
 

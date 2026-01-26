@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Dorfstraße 158 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Königshain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Königshain"
+  - "Saxony"
 wikidata_id: "Q49425615"
 latitude: 51.1862775
 longitude: 14.8489653
 images:
-  []
----
+  []---
 
 ## Overview
 

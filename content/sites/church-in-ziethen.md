@@ -4,13 +4,13 @@ site_name: "Church in Ziethen"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Ziethen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ziethen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1690404"
 latitude: 53.8861
 longitude: 13.676
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/400px-Kirche_Ziethen_Vorpommern_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/800px-Kirche_Ziethen_Vorpommern_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1200px-Kirche_Ziethen_Vorpommern_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1920px-Kirche_Ziethen_Vorpommern_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1920px-Kirche_Ziethen_Vorpommern_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brahms-Museum"
 date: 2026-01-26
 draft: false
 description: "museum on Johannes Brahms in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q28745374"
 latitude: 53.55123
 longitude: 9.976573
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/400px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/800px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/1200px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/1920px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/1920px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg---
 
 ## Overview
 

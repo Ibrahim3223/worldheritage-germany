@@ -4,19 +4,18 @@ site_name: "Fürstliches Mausoleum"
 date: 2026-01-26
 draft: false
 description: "Mausoleum in Deutschland"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q18222938"
 latitude: 49.252202
 longitude: 9.859162
 images:
-  []
----
+  []---
 
 ## Overview
 

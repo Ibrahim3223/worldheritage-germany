@@ -4,13 +4,13 @@ site_name: "Loki-Schmidt-Garten"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q613250"
 latitude: 53.56222222
 longitude: 9.86111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bauerngarten-Hamburg-Botanischer-Garten.jpg/400px-Bauerngarten-Hamburg-Botanischer-Garten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bauerngarten-Hamburg-Botanischer-Garten.jpg/800px-Bauerngarten-Hamburg-Botanischer-Garten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bauerngarten-Hamburg-Botanischer-Garten.jpg/1200px-Bauerngarten-Hamburg-Botanischer-Garten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bauerngarten-Hamburg-Botanischer-Garten.jpg/1920px-Bauerngarten-Hamburg-Botanischer-Garten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bauerngarten-Hamburg-Botanischer-Garten.jpg/1920px-Bauerngarten-Hamburg-Botanischer-Garten.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Casino Travemünde"
 date: 2026-01-26
 draft: false
 description: "architectural structure in Germany"
-region: "Travemünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Travemünde"
+  - "Lower Saxony"
 wikidata_id: "Q1047608"
 latitude: 53.9649
 longitude: 10.8795
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/400px-Travemünde.Columbia-Hotel.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/800px-Travemünde.Columbia-Hotel.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/1200px-Travemünde.Columbia-Hotel.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/1920px-Travemünde.Columbia-Hotel.wmt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/1920px-Travemünde.Columbia-Hotel.wmt.jpg---
 
 ## Overview
 

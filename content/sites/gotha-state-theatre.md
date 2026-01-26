@@ -4,13 +4,13 @@ site_name: "Gotha State Theatre"
 date: 2026-01-26
 draft: false
 description: "former theatre in Gotha, Germany"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1538759"
 latitude: 50.94872
 longitude: 10.70868
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/400px-Gotha_Stadttheater_Modell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/800px-Gotha_Stadttheater_Modell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/1200px-Gotha_Stadttheater_Modell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/1920px-Gotha_Stadttheater_Modell.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/1920px-Gotha_Stadttheater_Modell.JPG---
 
 ## Overview
 

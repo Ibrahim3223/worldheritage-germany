@@ -4,13 +4,13 @@ site_name: "Church in Krien"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Krien"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krien"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1522664"
 latitude: 53.8311
 longitude: 13.4475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/400px-Krien_Kirche_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/800px-Krien_Kirche_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1200px-Krien_Kirche_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1920px-Krien_Kirche_Südseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1920px-Krien_Kirche_Südseite.jpg---
 
 ## Overview
 

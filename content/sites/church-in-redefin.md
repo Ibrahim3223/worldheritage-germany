@@ -4,13 +4,13 @@ site_name: "Church in Redefin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Redefin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Redefin"
+  - "Lower Saxony"
 wikidata_id: "Q1244640"
 latitude: 53.3483
 longitude: 11.2008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/400px-Redefin_church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/800px-Redefin_church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1200px-Redefin_church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1920px-Redefin_church.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1920px-Redefin_church.jpg---
 
 ## Overview
 

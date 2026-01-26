@@ -4,13 +4,13 @@ site_name: "Drachenfelsstraße 39"
 date: 2026-01-26
 draft: false
 description: "court building in Königswinter, Germany"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q113376047"
 latitude: 50.674527
 longitude: 7.195664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/400px-Drachenfelsstrasse_39_Bild_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/800px-Drachenfelsstrasse_39_Bild_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/1200px-Drachenfelsstrasse_39_Bild_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/1920px-Drachenfelsstrasse_39_Bild_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/1920px-Drachenfelsstrasse_39_Bild_3.jpg---
 
 ## Overview
 

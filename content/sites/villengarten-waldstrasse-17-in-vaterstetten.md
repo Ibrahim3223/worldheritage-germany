@@ -4,13 +4,13 @@ site_name: "Villengarten Waldstraße 17 in Vaterstetten"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-75-132-11 (3) in Vaterstetten, Bavaria"
-region: "Vaterstetten"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Vaterstetten"
+  - "Bavaria"
 wikidata_id: "Q98742712"
 latitude: 48.096520539
 longitude: 11.781245278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BaldhamWaldstr17_Vaterstetten-01.JPG/400px-BaldhamWaldstr17_Vaterstetten-01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BaldhamWaldstr17_Vaterstetten-01.JPG/800px-BaldhamWaldstr17_Vaterstetten-01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BaldhamWaldstr17_Vaterstetten-01.JPG/1200px-BaldhamWaldstr17_Vaterstetten-01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BaldhamWaldstr17_Vaterstetten-01.JPG/1920px-BaldhamWaldstr17_Vaterstetten-01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BaldhamWaldstr17_Vaterstetten-01.JPG/1920px-BaldhamWaldstr17_Vaterstetten-01.JPG---
 
 ## Overview
 

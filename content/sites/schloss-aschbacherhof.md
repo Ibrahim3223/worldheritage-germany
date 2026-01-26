@@ -4,13 +4,13 @@ site_name: "Schloss Aschbacherhof"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Trippstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Trippstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q722189"
 latitude: 49.3936
 longitude: 7.75667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/400px-Aschacherhof2.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/800px-Aschacherhof2.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/1200px-Aschacherhof2.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/1920px-Aschacherhof2.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/1920px-Aschacherhof2.png---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mausoleum Rutenberg"
 date: 2026-01-26
 draft: false
 description: "Mausoleum in Bremen-Schwachhausen"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q45909995"
 latitude: 53.096392
 longitude: 8.856042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/400px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/800px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/1200px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg---
 
 ## Overview
 

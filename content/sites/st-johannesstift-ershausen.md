@@ -4,13 +4,13 @@ site_name: "St. Johannesstift (Ershausen)"
 date: 2026-01-26
 draft: false
 description: "Stiftung in Ershausen, Thüringen"
-region: "Ershausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Ershausen"
+  - "Hesse"
 wikidata_id: "Q48754883"
 latitude: 51.254771
 longitude: 10.160827
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/400px-Toreinfahrt_Johannesstift.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/800px-Toreinfahrt_Johannesstift.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/1200px-Toreinfahrt_Johannesstift.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/1920px-Toreinfahrt_Johannesstift.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/1920px-Toreinfahrt_Johannesstift.JPG---
 
 ## Overview
 

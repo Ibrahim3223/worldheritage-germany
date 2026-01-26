@@ -4,13 +4,13 @@ site_name: "Zeche Admiral"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169610"
 latitude: 51.4683
 longitude: 7.50028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ZecheAdmiral01.JPG/400px-ZecheAdmiral01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ZecheAdmiral01.JPG/800px-ZecheAdmiral01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ZecheAdmiral01.JPG/1200px-ZecheAdmiral01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ZecheAdmiral01.JPG/1920px-ZecheAdmiral01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ZecheAdmiral01.JPG/1920px-ZecheAdmiral01.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zwickauer Mulde Roc
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Lunzenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Lunzenau"
+  - "Saxony"
 wikidata_id: "Q49448552"
 latitude: 50.947771164
 longitude: 12.766528179
 images:
-  []
----
+  []---
 
 ## Overview
 

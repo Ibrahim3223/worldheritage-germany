@@ -4,13 +4,13 @@ site_name: "Einzeldenkmale der Sachgesamtheit Rittergut Oberrengersdorf: Neues S
 date: 2026-01-26
 draft: false
 description: "bridge in Kodersdorf, Germany"
-region: "Kodersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Kodersdorf"
+  - "Saxony"
 wikidata_id: "Q49425027"
 latitude: 51.213808
 longitude: 14.893733
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rengersdorf_Mausoleum_1.jpg/400px-Rengersdorf_Mausoleum_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rengersdorf_Mausoleum_1.jpg/800px-Rengersdorf_Mausoleum_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rengersdorf_Mausoleum_1.jpg/1200px-Rengersdorf_Mausoleum_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rengersdorf_Mausoleum_1.jpg/1920px-Rengersdorf_Mausoleum_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rengersdorf_Mausoleum_1.jpg/1920px-Rengersdorf_Mausoleum_1.jpg---
 
 ## Overview
 

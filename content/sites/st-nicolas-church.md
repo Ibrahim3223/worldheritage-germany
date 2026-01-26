@@ -4,13 +4,13 @@ site_name: "St. Nicolas Church"
 date: 2026-01-26
 draft: false
 description: "Lutheran church building in Stendal, Saxony-Anhalt, Germany"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q1687843"
 latitude: 52.6004
 longitude: 11.8604
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/400px-Stendal_Dom_2011-09-16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/800px-Stendal_Dom_2011-09-16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/1200px-Stendal_Dom_2011-09-16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/1920px-Stendal_Dom_2011-09-16.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/1920px-Stendal_Dom_2011-09-16.jpg---
 
 ## Overview
 

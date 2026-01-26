@@ -4,13 +4,13 @@ site_name: "Harmlos"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschützte Statue in München"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1585597"
 latitude: 48.1436
 longitude: 11.5823
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/400px-Jünglingsfigur_Harmlos.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/800px-Jünglingsfigur_Harmlos.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/1200px-Jünglingsfigur_Harmlos.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/1920px-Jünglingsfigur_Harmlos.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/1920px-Jünglingsfigur_Harmlos.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "August Kestner Museum"
 date: 2026-01-26
 draft: false
 description: "art and archaeological museum in Hanover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q457671"
 latitude: 52.368099436
 longitude: 9.736264865
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/400px-Museum_August_Kestner_-_Joy_of_Museums.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/800px-Museum_August_Kestner_-_Joy_of_Museums.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/1200px-Museum_August_Kestner_-_Joy_of_Museums.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/1920px-Museum_August_Kestner_-_Joy_of_Museums.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/1920px-Museum_August_Kestner_-_Joy_of_Museums.jpg---
 
 ## Overview
 

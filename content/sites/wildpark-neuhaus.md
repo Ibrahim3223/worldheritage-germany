@@ -4,13 +4,13 @@ site_name: "Wildpark Neuhaus"
 date: 2026-01-26
 draft: false
 description: "Wildpark in Deutschland"
-region: "Holzminden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Holzminden"
+  - "Lower Saxony"
 wikidata_id: "Q2570821"
 latitude: 51.7474
 longitude: 9.522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/400px-Wildpark_Haus_Solling_Besucherzentrum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/800px-Wildpark_Haus_Solling_Besucherzentrum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/1200px-Wildpark_Haus_Solling_Besucherzentrum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/1920px-Wildpark_Haus_Solling_Besucherzentrum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/1920px-Wildpark_Haus_Solling_Besucherzentrum.JPG---
 
 ## Overview
 

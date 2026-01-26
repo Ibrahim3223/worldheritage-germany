@@ -4,13 +4,13 @@ site_name: "Heimat- und Palitzschmuseum Prohlis"
 date: 2026-01-26
 draft: false
 description: "museum in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1595524"
 latitude: 51.0074
 longitude: 13.7935
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Palitzsch-museum_dresden.JPG/400px-Palitzsch-museum_dresden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Palitzsch-museum_dresden.JPG/800px-Palitzsch-museum_dresden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Palitzsch-museum_dresden.JPG/1200px-Palitzsch-museum_dresden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Palitzsch-museum_dresden.JPG/1920px-Palitzsch-museum_dresden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Palitzsch-museum_dresden.JPG/1920px-Palitzsch-museum_dresden.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Woostener See"
 date: 2026-01-26
 draft: false
 description: "lake in Goldberg, Mecklenburg-Vorpommern, Germany"
-region: "Goldberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Goldberg"
+  - "Brandenburg"
 wikidata_id: "Q1279185"
 latitude: 53.5692
 longitude: 12.105
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2012_Woostener_See.JPG/400px-2012_Woostener_See.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2012_Woostener_See.JPG/800px-2012_Woostener_See.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2012_Woostener_See.JPG/1200px-2012_Woostener_See.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2012_Woostener_See.JPG/1920px-2012_Woostener_See.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2012_Woostener_See.JPG/1920px-2012_Woostener_See.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Synagoge Sulzburg"
 date: 2026-01-26
 draft: false
 description: "building in Sulzburg, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Sulzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sulzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q15731453"
 latitude: 47.841397
 longitude: 7.708409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/400px-Sulzburg_Synagoge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/800px-Sulzburg_Synagoge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/1200px-Sulzburg_Synagoge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/1920px-Sulzburg_Synagoge.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/1920px-Sulzburg_Synagoge.JPG---
 
 ## Overview
 

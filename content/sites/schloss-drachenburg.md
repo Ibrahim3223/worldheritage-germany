@@ -4,13 +4,13 @@ site_name: "Schloss Drachenburg"
 date: 2026-01-26
 draft: false
 description: "19th century villa in Königswinter, Germany"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q315089"
 latitude: 50.6686729
 longitude: 7.2063442
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg/400px-Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg/800px-Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Schloss_Drachenburg_(view_from_the_northeast).jpg---
 
 ## Overview
 

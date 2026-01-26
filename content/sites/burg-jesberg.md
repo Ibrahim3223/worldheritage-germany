@@ -4,13 +4,13 @@ site_name: "Burg Jesberg"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Jesberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Jesberg"
+  - "Hesse"
 wikidata_id: "Q1012575"
 latitude: 50.9958
 longitude: 9.15083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Jesberg1.jpg/400px-Burg_Jesberg1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Jesberg1.jpg/800px-Burg_Jesberg1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Jesberg1.jpg/1200px-Burg_Jesberg1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Jesberg1.jpg/1920px-Burg_Jesberg1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Jesberg1.jpg/1920px-Burg_Jesberg1.jpg---
 
 ## Overview
 

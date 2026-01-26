@@ -4,13 +4,13 @@ site_name: "Kloster Ettenheimmünster"
 date: 2026-01-26
 draft: false
 description: "church building in Baden-Württemberg, Germany"
-region: "Ettenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ettenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1775206"
 latitude: 48.2422
 longitude: 7.8755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/400px-Ettenheimmünster17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/800px-Ettenheimmünster17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/1200px-Ettenheimmünster17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/1920px-Ettenheimmünster17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/1920px-Ettenheimmünster17.jpg---
 
 ## Overview
 

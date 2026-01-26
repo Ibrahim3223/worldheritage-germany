@@ -4,13 +4,13 @@ site_name: "Hl. Dreifaltigkeit (Fraulautern)"
 date: 2026-01-26
 draft: false
 description: "church building in Saarlouis, Germany"
-region: "Saarlouis"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Saarlouis"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q11722184"
 latitude: 49.3258
 longitude: 6.76702
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/400px-InnenFraulauternerKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/800px-InnenFraulauternerKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/1200px-InnenFraulauternerKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/1920px-InnenFraulauternerKirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/1920px-InnenFraulauternerKirche.JPG---
 
 ## Overview
 

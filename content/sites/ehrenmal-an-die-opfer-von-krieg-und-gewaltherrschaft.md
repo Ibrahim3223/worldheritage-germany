@@ -4,13 +4,13 @@ site_name: "Ehrenmal an die Opfer von Krieg und Gewaltherrschaft"
 date: 2026-01-26
 draft: false
 description: "monument in Freital, Germany"
-region: "Freital"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Freital"
+  - "Saxony"
 wikidata_id: "Q1300193"
 latitude: 51.0261
 longitude: 13.6161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/400px-Freital_Wurgwitz_Ehrenmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/800px-Freital_Wurgwitz_Ehrenmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/1200px-Freital_Wurgwitz_Ehrenmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/1920px-Freital_Wurgwitz_Ehrenmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/1920px-Freital_Wurgwitz_Ehrenmal.JPG---
 
 ## Overview
 

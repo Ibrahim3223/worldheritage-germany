@@ -4,13 +4,13 @@ site_name: "Turkish Chamber"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q574088"
 latitude: 51.05289
 longitude: 13.73635
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Türckische_Cammer.jpg/400px-Türckische_Cammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Türckische_Cammer.jpg/800px-Türckische_Cammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Türckische_Cammer.jpg/1200px-Türckische_Cammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Türckische_Cammer.jpg/1920px-Türckische_Cammer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Türckische_Cammer.jpg/1920px-Türckische_Cammer.jpg---
 
 ## Overview
 

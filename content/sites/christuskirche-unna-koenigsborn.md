@@ -4,13 +4,13 @@ site_name: "Christuskirche Unna-Königsborn"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Unna"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Unna"
+  - "Lower Saxony"
 wikidata_id: "Q1380148"
 latitude: 51.5503
 longitude: 7.6832
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/400px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/800px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1200px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1920px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1920px-Unna-Koenigsborn-Christuskirche1-Asio.JPG---
 
 ## Overview
 

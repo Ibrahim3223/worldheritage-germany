@@ -4,13 +4,13 @@ site_name: "Frillen-See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Inzell"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Inzell"
+  - "Bavaria"
 wikidata_id: "Q187221"
 latitude: 47.765833333
 longitude: 12.817222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/400px-Frillensee,_Inzell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/800px-Frillensee,_Inzell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/1200px-Frillensee,_Inzell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/1920px-Frillensee,_Inzell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/1920px-Frillensee,_Inzell.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Slevogthof"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus aus dem 19. Jahrhundert"
-region: "Leinsweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Leinsweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q2294119"
 latitude: 49.1868
 longitude: 8.0178
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LeinsweilerSlevogthof.jpg/400px-LeinsweilerSlevogthof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LeinsweilerSlevogthof.jpg/800px-LeinsweilerSlevogthof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LeinsweilerSlevogthof.jpg/1200px-LeinsweilerSlevogthof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LeinsweilerSlevogthof.jpg/1920px-LeinsweilerSlevogthof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LeinsweilerSlevogthof.jpg/1920px-LeinsweilerSlevogthof.jpg---
 
 ## Overview
 

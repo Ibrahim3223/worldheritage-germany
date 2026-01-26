@@ -4,13 +4,13 @@ site_name: "Wenzelsbrunnen"
 date: 2026-01-26
 draft: false
 description: "Brunnen mit Statue in Naumburg (Saale)"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2559830"
 latitude: 51.1524
 longitude: 11.8103
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Naumburg_Wenzelsbrunnen.jpg/400px-Naumburg_Wenzelsbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Naumburg_Wenzelsbrunnen.jpg/800px-Naumburg_Wenzelsbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Naumburg_Wenzelsbrunnen.jpg/1200px-Naumburg_Wenzelsbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Naumburg_Wenzelsbrunnen.jpg/1920px-Naumburg_Wenzelsbrunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Naumburg_Wenzelsbrunnen.jpg/1920px-Naumburg_Wenzelsbrunnen.jpg---
 
 ## Overview
 

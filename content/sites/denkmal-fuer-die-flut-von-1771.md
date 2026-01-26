@@ -4,19 +4,18 @@ site_name: "Denkmal für die Flut von 1771"
 date: 2026-01-26
 draft: false
 description: "former monument in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1188025"
 latitude: 53.54635
 longitude: 10.007847
 images:
-  []
----
+  []---
 
 ## Overview
 

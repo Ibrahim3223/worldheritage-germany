@@ -4,13 +4,13 @@ site_name: "Stauffenberg-Erinnerungsstätte"
 date: 2026-01-26
 draft: false
 description: "memorial in Stuttgart"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q2334538"
 latitude: 48.7772
 longitude: 9.17917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/400px-Stuttgart_Old_Castle_Stauffenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/800px-Stuttgart_Old_Castle_Stauffenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/1200px-Stuttgart_Old_Castle_Stauffenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/1920px-Stuttgart_Old_Castle_Stauffenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/1920px-Stuttgart_Old_Castle_Stauffenberg.jpg---
 
 ## Overview
 

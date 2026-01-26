@@ -4,13 +4,13 @@ site_name: "Speyer Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral in Speyer, Germany"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Catholic Cathedral"
 categories:
   - "Catholic Cathedral"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22720"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg/400px-Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg/800px-Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg/1200px-Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg/1920px-Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg/1920px-Aerial_image_of_the_Speyer_Cathedral_(view_from_the_southwest)_(cropped).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Geomuseum at Münster University"
 date: 2026-01-26
 draft: false
 description: "geological museum of the University of Münster"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1503291"
 latitude: 51.9614
 longitude: 7.62364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Münster,_Geologisches_Museum_--_2020_--_7952.jpg/400px-Münster,_Geologisches_Museum_--_2020_--_7952.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Münster,_Geologisches_Museum_--_2020_--_7952.jpg/800px-Münster,_Geologisches_Museum_--_2020_--_7952.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Münster,_Geologisches_Museum_--_2020_--_7952.jpg/1200px-Münster,_Geologisches_Museum_--_2020_--_7952.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Münster,_Geologisches_Museum_--_2020_--_7952.jpg/1920px-Münster,_Geologisches_Museum_--_2020_--_7952.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Münster,_Geologisches_Museum_--_2020_--_7952.jpg/1920px-Münster,_Geologisches_Museum_--_2020_--_7952.jpg---
 
 ## Overview
 

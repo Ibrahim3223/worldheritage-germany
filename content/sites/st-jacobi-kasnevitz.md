@@ -4,13 +4,13 @@ site_name: "St. Jacobi (Kasnevitz)"
 date: 2026-01-26
 draft: false
 description: "protestant church in Kasnevitz"
-region: "Putbus"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Putbus"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1671407"
 latitude: 54.3397
 longitude: 13.4164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/400px-Kasnevitz_St_Jacobi_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/800px-Kasnevitz_St_Jacobi_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/1200px-Kasnevitz_St_Jacobi_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/1920px-Kasnevitz_St_Jacobi_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/1920px-Kasnevitz_St_Jacobi_07.jpg---
 
 ## Overview
 

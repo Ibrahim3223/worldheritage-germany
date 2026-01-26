@@ -4,13 +4,13 @@ site_name: "Synagogue Lippstadt"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Lippstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Lippstadt"
+  - "Hesse"
 wikidata_id: "Q1462063"
 latitude: 51.6756
 longitude: 8.34123
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2012-05_Lippstadt_Synagoge_03.jpg/400px-2012-05_Lippstadt_Synagoge_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2012-05_Lippstadt_Synagoge_03.jpg/800px-2012-05_Lippstadt_Synagoge_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2012-05_Lippstadt_Synagoge_03.jpg/1200px-2012-05_Lippstadt_Synagoge_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2012-05_Lippstadt_Synagoge_03.jpg/1920px-2012-05_Lippstadt_Synagoge_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2012-05_Lippstadt_Synagoge_03.jpg/1920px-2012-05_Lippstadt_Synagoge_03.jpg---
 
 ## Overview
 

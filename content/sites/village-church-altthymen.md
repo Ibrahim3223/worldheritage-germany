@@ -4,13 +4,13 @@ site_name: "Village church Altthymen"
 date: 2026-01-26
 draft: false
 description: "church building in Oberhavel district, Brandenburg state, Germany"
-region: "Fürstenberg/Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Fürstenberg/Havel"
+  - "Brandenburg"
 wikidata_id: "Q1244039"
 latitude: 53.2385
 longitude: 13.163333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/400px-Church_in_Altthymen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/800px-Church_in_Altthymen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/1200px-Church_in_Altthymen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/1920px-Church_in_Altthymen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/1920px-Church_in_Altthymen1.JPG---
 
 ## Overview
 

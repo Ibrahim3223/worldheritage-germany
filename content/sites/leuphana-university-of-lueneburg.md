@@ -4,13 +4,13 @@ site_name: "Leuphana University of Lüneburg"
 date: 2026-01-26
 draft: false
 description: "public university in Lüneburg, Lower Saxony, Germany"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q505170"
 latitude: 53.2289
 longitude: 10.4011
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/400px-Leuphana_Building.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/800px-Leuphana_Building.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/1200px-Leuphana_Building.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/1920px-Leuphana_Building.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/1920px-Leuphana_Building.jpg---
 
 ## Overview
 

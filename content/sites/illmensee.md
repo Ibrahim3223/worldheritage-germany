@@ -4,13 +4,13 @@ site_name: "Illmensee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Illmensee"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Illmensee"
+  - "Baden-Württemberg"
 wikidata_id: "Q1259117"
 latitude: 47.854722222
 longitude: 9.380555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/400px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/800px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/1200px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/1920px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/1920px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Forstbotanischer Garten Tharandt"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Tharandt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Tharandt"
+  - "Saxony"
 wikidata_id: "Q827406"
 latitude: 50.984363
 longitude: 13.57819
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/400px-Arboretumtharandt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/800px-Arboretumtharandt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1200px-Arboretumtharandt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1920px-Arboretumtharandt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1920px-Arboretumtharandt.jpg---
 
 ## Overview
 

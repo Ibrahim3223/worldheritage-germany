@@ -4,19 +4,18 @@ site_name: "Museum of Natural History Magdeburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1954666"
 latitude: 52.1256
 longitude: 11.6295
 images:
-  []
----
+  []---
 
 ## Overview
 

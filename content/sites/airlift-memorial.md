@@ -4,13 +4,13 @@ site_name: "Airlift Memorial"
 date: 2026-01-26
 draft: false
 description: "series of monuments based on the plans of architect Eduard Ludwig in Germany"
-region: "Celle"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Celle"
+  - "Berlin"
 wikidata_id: "Q878229"
 latitude: 52.484111111
 longitude: 13.387388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/400px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/800px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/1200px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/1920px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/1920px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG---
 
 ## Overview
 

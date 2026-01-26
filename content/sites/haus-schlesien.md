@@ -4,13 +4,13 @@ site_name: "Haus Schlesien"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1590503"
 latitude: 50.6964
 longitude: 7.23083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/400px-Heisterbacherrott_Haus_Schlesien_(01).png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/800px-Heisterbacherrott_Haus_Schlesien_(01).png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1200px-Heisterbacherrott_Haus_Schlesien_(01).png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1920px-Heisterbacherrott_Haus_Schlesien_(01).png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1920px-Heisterbacherrott_Haus_Schlesien_(01).png---
 
 ## Overview
 

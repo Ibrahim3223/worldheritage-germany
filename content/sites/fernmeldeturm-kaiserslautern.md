@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Kaiserslautern"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1407075"
 latitude: 49.4126
 longitude: 7.74064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/400px-Fernmeldeturm_Dansenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/800px-Fernmeldeturm_Dansenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/1200px-Fernmeldeturm_Dansenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/1920px-Fernmeldeturm_Dansenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/1920px-Fernmeldeturm_Dansenberg.jpg---
 
 ## Overview
 

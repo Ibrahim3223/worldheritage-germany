@@ -4,13 +4,13 @@ site_name: "former Gerhard-Uhlhorn-Church"
 date: 2026-01-26
 draft: false
 description: "secularized church building in Hannover, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q1511209"
 latitude: 52.3781
 longitude: 9.70832
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/400px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/800px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/1200px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/1920px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/1920px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg---
 
 ## Overview
 

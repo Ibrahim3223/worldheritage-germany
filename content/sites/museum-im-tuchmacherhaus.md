@@ -4,19 +4,18 @@ site_name: "Museum im Tuchmacherhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629564"
 latitude: 48.274912
 longitude: 10.474876
 images:
-  []
----
+  []---
 
 ## Overview
 

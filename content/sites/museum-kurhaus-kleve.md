@@ -4,13 +4,13 @@ site_name: "Museum Kurhaus Kleve"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kleve"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Kleve"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1954460"
 latitude: 51.7956
 longitude: 6.12583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_Kurhaus_KLeve-4-DSC00789.jpg/400px-Museum_Kurhaus_KLeve-4-DSC00789.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_Kurhaus_KLeve-4-DSC00789.jpg/800px-Museum_Kurhaus_KLeve-4-DSC00789.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_Kurhaus_KLeve-4-DSC00789.jpg/1200px-Museum_Kurhaus_KLeve-4-DSC00789.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_Kurhaus_KLeve-4-DSC00789.jpg/1920px-Museum_Kurhaus_KLeve-4-DSC00789.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_Kurhaus_KLeve-4-DSC00789.jpg/1920px-Museum_Kurhaus_KLeve-4-DSC00789.jpg---
 
 ## Overview
 

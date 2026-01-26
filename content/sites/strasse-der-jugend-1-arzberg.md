@@ -4,13 +4,13 @@ site_name: "Straße der Jugend 1 Arzberg"
 date: 2026-01-26
 draft: false
 description: "former school building in Arzberg (Saxony)"
-region: "Arzberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Arzberg"
+  - "Brandenburg"
 wikidata_id: "Q49564874"
 latitude: 51.527281408
 longitude: 13.127662927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/400px-Arzberg_Schule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/800px-Arzberg_Schule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/1200px-Arzberg_Schule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/1920px-Arzberg_Schule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/1920px-Arzberg_Schule.jpg---
 
 ## Overview
 

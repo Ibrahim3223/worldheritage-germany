@@ -4,13 +4,13 @@ site_name: "Quadrat Bottrop"
 date: 2026-01-26
 draft: false
 description: "museum in Bottrop, Germany"
-region: "Bottrop"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bottrop"
+  - "Lower Saxony"
 wikidata_id: "Q896624"
 latitude: 51.5313
 longitude: 6.91792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/400px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/800px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/1200px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/1920px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/1920px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg---
 
 ## Overview
 

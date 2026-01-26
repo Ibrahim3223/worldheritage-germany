@@ -4,13 +4,13 @@ site_name: "Schloss Mühltroff"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Pausa-Mühltroff"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Pausa-Mühltroff"
+  - "Bavaria"
 wikidata_id: "Q1013177"
 latitude: 50.540481
 longitude: 11.930053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mühltroff_Vogtland_179.JPG/400px-Mühltroff_Vogtland_179.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mühltroff_Vogtland_179.JPG/800px-Mühltroff_Vogtland_179.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mühltroff_Vogtland_179.JPG/1200px-Mühltroff_Vogtland_179.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mühltroff_Vogtland_179.JPG/1920px-Mühltroff_Vogtland_179.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mühltroff_Vogtland_179.JPG/1920px-Mühltroff_Vogtland_179.JPG---
 
 ## Overview
 

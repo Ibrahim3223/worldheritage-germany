@@ -4,13 +4,13 @@ site_name: "Yara Brunsbüttel"
 date: 2026-01-26
 draft: false
 description: "chemical factory in Brunsbüttel, Germany"
-region: "Brunsbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Brunsbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q2599600"
 latitude: 53.910833333
 longitude: 9.208888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/400px-Yarawerk_Brunsbuettel_25112012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/800px-Yarawerk_Brunsbuettel_25112012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/1200px-Yarawerk_Brunsbuettel_25112012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/1920px-Yarawerk_Brunsbuettel_25112012.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/1920px-Yarawerk_Brunsbuettel_25112012.JPG---
 
 ## Overview
 

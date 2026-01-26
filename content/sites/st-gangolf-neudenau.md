@@ -4,13 +4,13 @@ site_name: "St. Gangolf Neudenau"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Neudenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neudenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1493522"
 latitude: 49.2898
 longitude: 9.2848
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neudenau-gangolfskapelle.JPG/400px-Neudenau-gangolfskapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neudenau-gangolfskapelle.JPG/800px-Neudenau-gangolfskapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neudenau-gangolfskapelle.JPG/1200px-Neudenau-gangolfskapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neudenau-gangolfskapelle.JPG/1920px-Neudenau-gangolfskapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neudenau-gangolfskapelle.JPG/1920px-Neudenau-gangolfskapelle.JPG---
 
 ## Overview
 

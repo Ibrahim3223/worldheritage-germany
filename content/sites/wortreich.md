@@ -4,13 +4,13 @@ site_name: "Wortreich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Hersfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Hersfeld"
+  - "Hesse"
 wikidata_id: "Q33123478"
 latitude: 50.870763078
 longitude: 9.709317468
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/400px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/800px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/1200px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/1920px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/1920px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Waggonfabrik Fuchs"
 date: 2026-01-26
 draft: false
 description: "German coach & wagon builders"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q254483"
 latitude: 49.38194444
 longitude: 8.67694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/400px-OEG_Halbzug_100_4092.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/800px-OEG_Halbzug_100_4092.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/1200px-OEG_Halbzug_100_4092.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/1920px-OEG_Halbzug_100_4092.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/1920px-OEG_Halbzug_100_4092.jpg---
 
 ## Overview
 

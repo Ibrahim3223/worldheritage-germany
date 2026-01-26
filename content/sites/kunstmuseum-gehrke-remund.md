@@ -4,19 +4,18 @@ site_name: "Kunstmuseum Gehrke-Remund"
 date: 2026-01-26
 draft: false
 description: "Kunstmuseum in Baden-Baden"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q125747214"
 latitude: 48.7866
 longitude: 8.1876
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bielefelder Pass"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q857332"
 latitude: 52.0083
 longitude: 8.51111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bi_DrOetker_Werksgelaende_pano.jpg/400px-Bi_DrOetker_Werksgelaende_pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bi_DrOetker_Werksgelaende_pano.jpg/800px-Bi_DrOetker_Werksgelaende_pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bi_DrOetker_Werksgelaende_pano.jpg/1200px-Bi_DrOetker_Werksgelaende_pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bi_DrOetker_Werksgelaende_pano.jpg/1920px-Bi_DrOetker_Werksgelaende_pano.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bi_DrOetker_Werksgelaende_pano.jpg/1920px-Bi_DrOetker_Werksgelaende_pano.jpg---
 
 ## Overview
 

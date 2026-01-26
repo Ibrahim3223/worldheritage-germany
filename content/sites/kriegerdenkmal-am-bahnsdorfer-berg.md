@@ -4,13 +4,13 @@ site_name: "Kriegerdenkmal am Bahnsdorfer Berg"
 date: 2026-01-26
 draft: false
 description: "monument in Uebigau-Wahrenbrück, Germany"
-region: "Uebigau-Wahrenbrück"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Uebigau-Wahrenbrück"
+  - "Brandenburg"
 wikidata_id: "Q1785636"
 latitude: 51.6472
 longitude: 13.297
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/400px-Kriegerdenkmal_Bahnsdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/800px-Kriegerdenkmal_Bahnsdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/1200px-Kriegerdenkmal_Bahnsdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/1920px-Kriegerdenkmal_Bahnsdorf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/1920px-Kriegerdenkmal_Bahnsdorf.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Büchereck"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "Ortenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Ortenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1020342"
 latitude: 48.2379
 longitude: 8.17643
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/400px-Buechereck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/800px-Buechereck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/1200px-Buechereck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/1920px-Buechereck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/1920px-Buechereck.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Besucherzentrum Welterbe Grube Messel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Messel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Messel"
+  - "Hesse"
 wikidata_id: "Q76634069"
 latitude: 49.91401
 longitude: 8.75459
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/400px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/800px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/1200px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/1920px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/1920px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg---
 
 ## Overview
 

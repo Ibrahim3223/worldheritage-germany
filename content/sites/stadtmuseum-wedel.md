@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Wedel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wedel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wedel"
+  - "Lower Saxony"
 wikidata_id: "Q15130131"
 latitude: 53.584872
 longitude: 9.697355
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/400px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/800px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/1200px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/1920px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/1920px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg---
 
 ## Overview
 

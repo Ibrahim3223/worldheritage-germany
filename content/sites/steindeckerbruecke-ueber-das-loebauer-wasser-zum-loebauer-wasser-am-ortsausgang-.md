@@ -4,13 +4,13 @@ site_name: "Steindeckerbrücke über das Löbauer Wasser Zum Löbauer Wasser (am
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Malschwitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Malschwitz"
+  - "Saxony"
 wikidata_id: "Q49409087"
 latitude: 51.216335
 longitude: 14.579015
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/400px-Rakojdy_–_móst_přez_Lubatu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/800px-Rakojdy_–_móst_přez_Lubatu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/1200px-Rakojdy_–_móst_přez_Lubatu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/1920px-Rakojdy_–_móst_přez_Lubatu.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/1920px-Rakojdy_–_móst_přez_Lubatu.jpg---
 
 ## Overview
 

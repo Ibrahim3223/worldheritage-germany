@@ -4,13 +4,13 @@ site_name: "Schloss Otterndorf"
 date: 2026-01-26
 draft: false
 description: "building in Otterndorf, Germany"
-region: "Otterndorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Otterndorf"
+  - "Lower Saxony"
 wikidata_id: "Q107882351"
 latitude: 53.8089
 longitude: 8.89772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/400px-Amtsgericht_Otterndorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/800px-Amtsgericht_Otterndorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/1200px-Amtsgericht_Otterndorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/1920px-Amtsgericht_Otterndorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/1920px-Amtsgericht_Otterndorf.jpg---
 
 ## Overview
 

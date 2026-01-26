@@ -4,19 +4,18 @@ site_name: "Heimat- und Bergbaumuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634103"
 latitude: 51.010069
 longitude: 9.935631
 images:
-  []
----
+  []---
 
 ## Overview
 

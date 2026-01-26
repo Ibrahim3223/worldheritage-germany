@@ -4,13 +4,13 @@ site_name: "Gedenkstätte am Nordbahnhof"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1497131"
 latitude: 48.7971
 longitude: 9.18936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/400px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/800px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1200px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1920px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1920px-Stuttgart-gedenkstaette-nordbahnhof1.jpg---
 
 ## Overview
 

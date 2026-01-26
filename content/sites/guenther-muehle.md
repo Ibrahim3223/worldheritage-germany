@@ -4,13 +4,13 @@ site_name: "Günther-Mühle"
 date: 2026-01-26
 draft: false
 description: "Bockwindmühle in Neundorf auf dem Eigen in der Oberlausitz"
-region: "Herrnhut"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Herrnhut"
+  - "Saxony"
 wikidata_id: "Q1561287"
 latitude: 51.0062
 longitude: 14.8273
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/400px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/800px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/1200px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/1920px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/1920px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg---
 
 ## Overview
 

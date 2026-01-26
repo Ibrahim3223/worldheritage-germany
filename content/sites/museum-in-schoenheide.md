@@ -4,13 +4,13 @@ site_name: "Museum in Schönheide"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schönheide"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schönheide"
+  - "Bavaria"
 wikidata_id: "Q24052468"
 latitude: 50.50339
 longitude: 12.53435
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/400px-Schönheide_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/800px-Schönheide_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/1200px-Schönheide_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/1920px-Schönheide_003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/1920px-Schönheide_003.jpg---
 
 ## Overview
 

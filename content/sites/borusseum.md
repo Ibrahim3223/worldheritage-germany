@@ -4,13 +4,13 @@ site_name: "Borusseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q894269"
 latitude: 51.4937395
 longitude: 7.4529653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/400px-Borusseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/800px-Borusseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1200px-Borusseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1920px-Borusseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1920px-Borusseum.jpg---
 
 ## Overview
 

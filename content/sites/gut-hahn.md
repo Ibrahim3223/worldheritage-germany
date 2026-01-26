@@ -4,13 +4,13 @@ site_name: "Gut Hahn"
 date: 2026-01-26
 draft: false
 description: "manor house in Oldenburg, Lower Saxony"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1556938"
 latitude: 53.2994
 longitude: 8.16778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gut_Hahn.jpg/400px-Gut_Hahn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gut_Hahn.jpg/800px-Gut_Hahn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gut_Hahn.jpg/1200px-Gut_Hahn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gut_Hahn.jpg/1920px-Gut_Hahn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gut_Hahn.jpg/1920px-Gut_Hahn.jpg---
 
 ## Overview
 

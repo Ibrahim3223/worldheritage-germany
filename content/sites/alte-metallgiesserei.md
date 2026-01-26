@@ -4,13 +4,13 @@ site_name: "Alte Metallgiesserei"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1662095"
 latitude: 54.3306
 longitude: 10.1775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/400px-AlteMetallgiessereiKiel-01a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/800px-AlteMetallgiessereiKiel-01a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1200px-AlteMetallgiessereiKiel-01a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1920px-AlteMetallgiessereiKiel-01a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1920px-AlteMetallgiessereiKiel-01a.jpg---
 
 ## Overview
 

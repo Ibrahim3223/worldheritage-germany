@@ -4,13 +4,13 @@ site_name: "Pötnitzer Kirche (Dessau-Mildensee)"
 date: 2026-01-26
 draft: false
 description: "church building in Dessau-Roßlau, Saxony-Anhalt, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1489049"
 latitude: 51.8218
 longitude: 12.2838
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/400px-Kirche-Poetnitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/800px-Kirche-Poetnitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/1200px-Kirche-Poetnitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/1920px-Kirche-Poetnitz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/1920px-Kirche-Poetnitz.JPG---
 
 ## Overview
 

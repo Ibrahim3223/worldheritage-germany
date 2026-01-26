@@ -4,13 +4,13 @@ site_name: "Saints Peter and Paul Church"
 date: 2026-01-26
 draft: false
 description: "church building in Dittenheim, Middle Franconia, Germany"
-region: "Dittenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dittenheim"
+  - "Bavaria"
 wikidata_id: "Q1773329"
 latitude: 49.056547222
 longitude: 10.791558333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/400px-Dittenheim_2011-05-11_(11).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/800px-Dittenheim_2011-05-11_(11).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/1200px-Dittenheim_2011-05-11_(11).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/1920px-Dittenheim_2011-05-11_(11).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/1920px-Dittenheim_2011-05-11_(11).JPG---
 
 ## Overview
 

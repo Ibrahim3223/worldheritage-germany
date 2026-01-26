@@ -4,13 +4,13 @@ site_name: "Museum am Löwentor"
 date: 2026-01-26
 draft: false
 description: "paleontology and geology museum in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954521"
 latitude: 48.8053
 longitude: 9.19028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/400px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/800px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/1200px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/1920px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/1920px-Stuttgart-Museum_am_Löwentor-Eingang.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Deutschlandhalle"
 date: 2026-01-26
 draft: false
 description: "former sports and multi-purpose hall in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q685725"
 latitude: 52.500277777
 longitude: 13.269722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/400px-Deutschlandhalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/800px-Deutschlandhalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1200px-Deutschlandhalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1920px-Deutschlandhalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1920px-Deutschlandhalle.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St.-Paulus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Filsum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Filsum"
+  - "Lower Saxony"
 wikidata_id: "Q1150322"
 latitude: 53.2449
 longitude: 7.6248
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/400px-ChurchFilsum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/800px-ChurchFilsum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/1200px-ChurchFilsum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/1920px-ChurchFilsum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/1920px-ChurchFilsum.JPG---
 
 ## Overview
 

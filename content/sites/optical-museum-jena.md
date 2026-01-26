@@ -4,13 +4,13 @@ site_name: "Optical Museum Jena"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q884584"
 latitude: 50.927811111
 longitude: 11.579275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/400px-Optisches_Museum_Jena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/800px-Optisches_Museum_Jena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/1200px-Optisches_Museum_Jena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/1920px-Optisches_Museum_Jena.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/1920px-Optisches_Museum_Jena.jpg---
 
 ## Overview
 

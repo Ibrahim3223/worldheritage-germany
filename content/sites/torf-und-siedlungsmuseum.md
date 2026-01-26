@@ -4,13 +4,13 @@ site_name: "Torf- und Siedlungsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wiesmoor"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wiesmoor"
+  - "Lower Saxony"
 wikidata_id: "Q2443934"
 latitude: 53.4181
 longitude: 7.72519
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torf_und_Siedlungsmuseum_msu9.jpg/400px-Torf_und_Siedlungsmuseum_msu9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torf_und_Siedlungsmuseum_msu9.jpg/800px-Torf_und_Siedlungsmuseum_msu9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torf_und_Siedlungsmuseum_msu9.jpg/1200px-Torf_und_Siedlungsmuseum_msu9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torf_und_Siedlungsmuseum_msu9.jpg/1920px-Torf_und_Siedlungsmuseum_msu9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torf_und_Siedlungsmuseum_msu9.jpg/1920px-Torf_und_Siedlungsmuseum_msu9.jpg---
 
 ## Overview
 

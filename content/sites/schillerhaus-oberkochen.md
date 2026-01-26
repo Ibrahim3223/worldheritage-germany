@@ -4,13 +4,13 @@ site_name: "Schillerhaus (Oberkochen)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oberkochen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberkochen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2235725"
 latitude: 48.7851
 longitude: 10.107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/400px-Oberkochen_Schillerhaus.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/800px-Oberkochen_Schillerhaus.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/1200px-Oberkochen_Schillerhaus.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/1920px-Oberkochen_Schillerhaus.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/1920px-Oberkochen_Schillerhaus.png---
 
 ## Overview
 

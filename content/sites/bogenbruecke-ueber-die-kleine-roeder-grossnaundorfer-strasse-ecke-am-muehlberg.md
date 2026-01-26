@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über die Kleine Röder Großnaundorfer Straße (Ecke A
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wachau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wachau"
+  - "Saxony"
 wikidata_id: "Q49406205"
 latitude: 51.195864
 longitude: 13.896426
 images:
-  []
----
+  []---
 
 ## Overview
 

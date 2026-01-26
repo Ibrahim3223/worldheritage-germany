@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Egerlandstraße 24; Marienbader Straße 23 in Erlangen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-62-000-1020 (1) in Erlangen, Bavaria"
-region: "Erlangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Erlangen"
+  - "Bavaria"
 wikidata_id: "Q98623054"
 latitude: 49.574028005
 longitude: 11.023891787
 images:
-  []
----
+  []---
 
 ## Overview
 

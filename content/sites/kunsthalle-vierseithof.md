@@ -4,13 +4,13 @@ site_name: "Kunsthalle Vierseithof"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Brandenburg"
 wikidata_id: "Q14906156"
 latitude: 52.0895365
 longitude: 13.1695901
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/400px-KunsthalleLUK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/800px-KunsthalleLUK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/1200px-KunsthalleLUK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/1920px-KunsthalleLUK.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/1920px-KunsthalleLUK.jpg---
 
 ## Overview
 

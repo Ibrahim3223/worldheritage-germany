@@ -4,13 +4,13 @@ site_name: "Fahnenmonument in Halle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1392190"
 latitude: 51.4835
 longitude: 11.9748
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg/400px-Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg/800px-Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg/1200px-Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg/1920px-Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg/1920px-Red_flag_monument_-_geo-en.hlipp.de_-_13269.jpg---
 
 ## Overview
 

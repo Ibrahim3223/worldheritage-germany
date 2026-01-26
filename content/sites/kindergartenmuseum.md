@@ -4,19 +4,18 @@ site_name: "Kindergartenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bruchsal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bruchsal"
+  - "Baden-Württemberg"
 wikidata_id: "Q15823518"
 latitude: 49.120501
 longitude: 8.600302
 images:
-  []
----
+  []---
 
 ## Overview
 

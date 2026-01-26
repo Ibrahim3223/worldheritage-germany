@@ -4,19 +4,18 @@ site_name: "Revierwasserlaufanstalt (Sachgesamtheit) Cämmerswalde"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Neuhausen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Neuhausen"
+  - "Saxony"
 wikidata_id: "Q49448718"
 latitude: 50.796489462
 longitude: 13.317031739
 images:
-  []
----
+  []---
 
 ## Overview
 

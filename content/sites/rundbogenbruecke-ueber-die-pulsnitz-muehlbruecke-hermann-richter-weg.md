@@ -4,19 +4,18 @@ site_name: "Rundbogenbrücke über die Pulsnitz (Mühlbrücke) Hermann-Richter-W
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403719"
 latitude: 51.254201
 longitude: 13.962821
 images:
-  []
----
+  []---
 
 ## Overview
 

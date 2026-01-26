@@ -4,13 +4,13 @@ site_name: "Kolumbarium Hl. Herz Jesu"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Germany"
-region: "Misburg-Anderten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Misburg-Anderten"
+  - "Lower Saxony"
 wikidata_id: "Q1779695"
 latitude: 52.3723
 longitude: 9.8605
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/400px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/800px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/1200px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/1920px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg/1920px-Misburg_-_Kolumbarium_Hl._Herz_Jesu_-_1.jpg---
 
 ## Overview
 

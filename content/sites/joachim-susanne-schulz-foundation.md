@@ -4,19 +4,18 @@ site_name: "Joachim & Susanne Schulz foundation"
 date: 2026-01-26
 draft: false
 description: "Anerkannte rechtsfähige öffentliche Stiftung des bürgerlichen Rechts in Amorbach (Unterfranken), welche gemäß Satzung ausschließlich gemeinnützige und"
-region: "Amorbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Amorbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q106286352"
 latitude: 49.647913028
 longitude: 9.224033198
 images:
-  []
----
+  []---
 
 ## Overview
 

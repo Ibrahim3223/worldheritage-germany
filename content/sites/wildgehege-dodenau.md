@@ -4,19 +4,18 @@ site_name: "Wildgehege Dodenau"
 date: 2026-01-26
 draft: false
 description: "etwa 10 ha großer Wildpark bei Dodenau"
-region: "Battenberg (Eder)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Battenberg (Eder)"
+  - "Hesse"
 wikidata_id: "Q2570709"
 latitude: 51.0313104
 longitude: 8.5749614
 images:
-  []
----
+  []---
 
 ## Overview
 

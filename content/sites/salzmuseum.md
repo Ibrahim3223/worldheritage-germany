@@ -4,19 +4,18 @@ site_name: "Salzmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Sooden-Allendorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Sooden-Allendorf"
+  - "Hesse"
 wikidata_id: "Q2216180"
 latitude: 51.269
 longitude: 9.96523
 images:
-  []
----
+  []---
 
 ## Overview
 

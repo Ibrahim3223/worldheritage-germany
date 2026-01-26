@@ -4,13 +4,13 @@ site_name: "Burg Hohenkressberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kreßberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kreßberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012427"
 latitude: 49.141
 longitude: 10.2331
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/400px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/800px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/1200px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/1920px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/1920px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg---
 
 ## Overview
 

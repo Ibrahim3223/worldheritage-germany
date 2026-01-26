@@ -4,13 +4,13 @@ site_name: "Autobahnkirche RUHR"
 date: 2026-01-26
 draft: false
 description: "church building in Bochum, North Rhine-Westphalia, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1347190"
 latitude: 51.4963
 longitude: 7.18854
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/400px-Epiphaniaskirche_Bochum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/800px-Epiphaniaskirche_Bochum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/1200px-Epiphaniaskirche_Bochum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/1920px-Epiphaniaskirche_Bochum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/1920px-Epiphaniaskirche_Bochum.jpg---
 
 ## Overview
 

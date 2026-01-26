@@ -4,13 +4,13 @@ site_name: "Schwind-Pavillon, Rüdigsdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frohburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frohburg"
+  - "Saxony"
 wikidata_id: "Q1670888"
 latitude: 51.011
 longitude: 12.6008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rüdigsdorf_Schwind-Pavillon.jpg/400px-Rüdigsdorf_Schwind-Pavillon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rüdigsdorf_Schwind-Pavillon.jpg/800px-Rüdigsdorf_Schwind-Pavillon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rüdigsdorf_Schwind-Pavillon.jpg/1200px-Rüdigsdorf_Schwind-Pavillon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rüdigsdorf_Schwind-Pavillon.jpg/1920px-Rüdigsdorf_Schwind-Pavillon.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rüdigsdorf_Schwind-Pavillon.jpg/1920px-Rüdigsdorf_Schwind-Pavillon.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mobile Welt des Ostens"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Calau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Calau"
+  - "Brandenburg"
 wikidata_id: "Q17353845"
 latitude: 51.752835
 longitude: 13.944912
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/400px-Calau_Mobile_Welt_des_Ostens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/800px-Calau_Mobile_Welt_des_Ostens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/1200px-Calau_Mobile_Welt_des_Ostens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/1920px-Calau_Mobile_Welt_des_Ostens.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/1920px-Calau_Mobile_Welt_des_Ostens.jpg---
 
 ## Overview
 

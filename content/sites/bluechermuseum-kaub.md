@@ -4,13 +4,13 @@ site_name: "Blüchermuseum Kaub"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kaub"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kaub"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q15638835"
 latitude: 50.08722
 longitude: 7.76373
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/400px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/800px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/1200px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/1920px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/1920px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg---
 
 ## Overview
 

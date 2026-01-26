@@ -4,13 +4,13 @@ site_name: "Canisianum"
 date: 2026-01-26
 draft: false
 description: "church in Saarlouis, Germany"
-region: "Saarlouis"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Saarlouis"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1033323"
 latitude: 49.3156
 longitude: 6.75397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG/400px-Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG/800px-Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG/1200px-Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG/1920px-Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG/1920px-Saarlouis,_the_church_of_the_Peter_brotherhood_society.JPG---
 
 ## Overview
 

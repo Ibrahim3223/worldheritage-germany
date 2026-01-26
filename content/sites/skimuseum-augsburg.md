@@ -4,13 +4,13 @@ site_name: "Skimuseum Augsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Augsburg"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1521945"
 latitude: 48.3638
 longitude: 10.9268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/400px-Skimuseum_Augsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/800px-Skimuseum_Augsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/1200px-Skimuseum_Augsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/1920px-Skimuseum_Augsburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/1920px-Skimuseum_Augsburg.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sebastian-Kneipp-Denkmal"
 date: 2026-01-26
 draft: false
 description: "statue in Bad Wörishofen, Germany"
-region: "Bad Wörishofen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bad Wörishofen"
+  - "Bavaria"
 wikidata_id: "Q19288083"
 latitude: 48.004842
 longitude: 10.59222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2000-07_Kneippdenkmal_Bad_Woerishofen.jpg/400px-2000-07_Kneippdenkmal_Bad_Woerishofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2000-07_Kneippdenkmal_Bad_Woerishofen.jpg/800px-2000-07_Kneippdenkmal_Bad_Woerishofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2000-07_Kneippdenkmal_Bad_Woerishofen.jpg/1200px-2000-07_Kneippdenkmal_Bad_Woerishofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2000-07_Kneippdenkmal_Bad_Woerishofen.jpg/1920px-2000-07_Kneippdenkmal_Bad_Woerishofen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2000-07_Kneippdenkmal_Bad_Woerishofen.jpg/1920px-2000-07_Kneippdenkmal_Bad_Woerishofen.jpg---
 
 ## Overview
 

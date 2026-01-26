@@ -4,13 +4,13 @@ site_name: "Goldbeck Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Brandenburg, Germany"
-region: "Wittstock/Dosse"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wittstock/Dosse"
+  - "Brandenburg"
 wikidata_id: "Q1011993"
 latitude: 53.1311
 longitude: 12.5139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/400px-Wittstock_07-13_img02_Goldbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/800px-Wittstock_07-13_img02_Goldbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/1200px-Wittstock_07-13_img02_Goldbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/1920px-Wittstock_07-13_img02_Goldbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/1920px-Wittstock_07-13_img02_Goldbeck.jpg---
 
 ## Overview
 

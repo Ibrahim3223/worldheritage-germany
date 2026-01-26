@@ -4,13 +4,13 @@ site_name: "Augustinerkloster Schwäbisch Gmünd"
 date: 2026-01-26
 draft: false
 description: "building and former monastery in Schwäbisch Gmünd, Stuttgart Government Region, Baden-Württemberg, Germany"
-region: "Schwäbisch Gmünd"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Schwäbisch Gmünd"
+  - "Baden-Württemberg"
 wikidata_id: "Q768504"
 latitude: 48.7988
 longitude: 9.79518
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St._Augustinus-GD-Ost.JPG/400px-St._Augustinus-GD-Ost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St._Augustinus-GD-Ost.JPG/800px-St._Augustinus-GD-Ost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St._Augustinus-GD-Ost.JPG/1200px-St._Augustinus-GD-Ost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St._Augustinus-GD-Ost.JPG/1920px-St._Augustinus-GD-Ost.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St._Augustinus-GD-Ost.JPG/1920px-St._Augustinus-GD-Ost.JPG---
 
 ## Overview
 

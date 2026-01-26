@@ -4,13 +4,13 @@ site_name: "All Saints Abbey"
 date: 2026-01-26
 draft: false
 description: "former abbey in Speyer"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22585"
 latitude: 49.3139
 longitude: 8.43789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Speyer_Allerheiligenstift_1730.jpg/400px-Speyer_Allerheiligenstift_1730.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Speyer_Allerheiligenstift_1730.jpg/800px-Speyer_Allerheiligenstift_1730.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Speyer_Allerheiligenstift_1730.jpg/1200px-Speyer_Allerheiligenstift_1730.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Speyer_Allerheiligenstift_1730.jpg/1920px-Speyer_Allerheiligenstift_1730.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Speyer_Allerheiligenstift_1730.jpg/1920px-Speyer_Allerheiligenstift_1730.jpg---
 
 ## Overview
 

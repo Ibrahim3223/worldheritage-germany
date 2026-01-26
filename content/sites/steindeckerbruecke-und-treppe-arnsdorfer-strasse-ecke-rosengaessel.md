@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke und Treppe Arnsdorfer Straße (Ecke Rosengässel)
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Waldhufen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Waldhufen"
+  - "Saxony"
 wikidata_id: "Q49424625"
 latitude: 51.204776196
 longitude: 14.773348396
 images:
-  []
----
+  []---
 
 ## Overview
 

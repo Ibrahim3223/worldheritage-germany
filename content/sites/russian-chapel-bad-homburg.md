@@ -4,13 +4,13 @@ site_name: "Russian Chapel, Bad Homburg"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Bad Homburg, Hessen"
-region: "Bad Homburg vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Homburg vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q317447"
 latitude: 50.2258
 longitude: 8.62528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/202020912_Bad-Homburg-3.tif.jpg/400px-202020912_Bad-Homburg-3.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/202020912_Bad-Homburg-3.tif.jpg/800px-202020912_Bad-Homburg-3.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/202020912_Bad-Homburg-3.tif.jpg/1200px-202020912_Bad-Homburg-3.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/202020912_Bad-Homburg-3.tif.jpg/1920px-202020912_Bad-Homburg-3.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/202020912_Bad-Homburg-3.tif.jpg/1920px-202020912_Bad-Homburg-3.tif.jpg---
 
 ## Overview
 

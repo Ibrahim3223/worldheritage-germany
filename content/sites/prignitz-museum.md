@@ -4,13 +4,13 @@ site_name: "Prignitz-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Havelberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Havelberg"
+  - "Brandenburg"
 wikidata_id: "Q1548656"
 latitude: 52.8267
 longitude: 12.0778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/400px-Havelberg-PrignitzMuseum1-Asio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/800px-Havelberg-PrignitzMuseum1-Asio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/1200px-Havelberg-PrignitzMuseum1-Asio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/1920px-Havelberg-PrignitzMuseum1-Asio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/1920px-Havelberg-PrignitzMuseum1-Asio.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Haus der Kunst"
 date: 2026-01-26
 draft: false
 description: "art museum in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q697782"
 latitude: 48.144114618
 longitude: 11.585938562
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/400px-Haus_der_Kunst_-_Munich_-_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/800px-Haus_der_Kunst_-_Munich_-_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1200px-Haus_der_Kunst_-_Munich_-_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1920px-Haus_der_Kunst_-_Munich_-_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1920px-Haus_der_Kunst_-_Munich_-_2013.jpg---
 
 ## Overview 
 

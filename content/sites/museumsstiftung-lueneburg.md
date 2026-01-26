@@ -4,19 +4,18 @@ site_name: "Museumsstiftung Lüneburg"
 date: 2026-01-26
 draft: false
 description: "archive organization in Lüneburg, Germany"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q30261505"
 latitude: 53.245164
 longitude: 10.417572
 images:
-  []
----
+  []---
 
 ## Overview
 

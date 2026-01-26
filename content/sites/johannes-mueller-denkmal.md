@@ -4,13 +4,13 @@ site_name: "Johannes-Müller-Denkmal"
 date: 2026-01-26
 draft: false
 description: "memorial in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q14546746"
 latitude: 50.3605
 longitude: 7.59841
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg/400px-Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg/800px-Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg/1200px-Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Johannes-Müller-Denkmal.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gebrüder-Lachner-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Rain (Lech), Bavaria, Germany"
-region: "Rain"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rain"
+  - "Bavaria"
 wikidata_id: "Q29430808"
 latitude: 48.690702777
 longitude: 10.916505555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/400px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/800px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/1200px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/1920px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/1920px-Rain_am_Lech,_Kirchplatz_7,_001.jpg---
 
 ## Overview
 

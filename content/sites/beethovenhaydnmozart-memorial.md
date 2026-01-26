@@ -4,13 +4,13 @@ site_name: "Beethoven–Haydn–Mozart Memorial"
 date: 2026-01-26
 draft: false
 description: "memorial in the Großer Tiergarten in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q814127"
 latitude: 52.5137
 longitude: 13.3703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/400px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/800px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/1200px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/1920px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/1920px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burgruine Ettling"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Q505785"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Q505785"
+  - "Bavaria"
 wikidata_id: "Q1015279"
 latitude: 48.819
 longitude: 11.6597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/400px-Die_Burgruine_Ettling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/800px-Die_Burgruine_Ettling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/1200px-Die_Burgruine_Ettling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/1920px-Die_Burgruine_Ettling.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/1920px-Die_Burgruine_Ettling.jpg---
 
 ## Overview
 

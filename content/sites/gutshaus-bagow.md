@@ -4,13 +4,13 @@ site_name: "Gutshaus Bagow"
 date: 2026-01-26
 draft: false
 description: "Herrensitz im Ortsteil Bagow der Gemeinde Päwesin (Brandenburg)"
-region: "Päwesin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Päwesin"
+  - "Brandenburg"
 wikidata_id: "Q17379252"
 latitude: 52.51257
 longitude: 12.7001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Guthausbagow.JPG/400px-Guthausbagow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Guthausbagow.JPG/800px-Guthausbagow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Guthausbagow.JPG/1200px-Guthausbagow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Guthausbagow.JPG/1920px-Guthausbagow.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Guthausbagow.JPG/1920px-Guthausbagow.JPG---
 
 ## Overview
 

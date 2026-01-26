@@ -4,13 +4,13 @@ site_name: "Purrmann house"
 date: 2026-01-26
 draft: false
 description: "house in Speyer"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22838"
 latitude: 49.3185
 longitude: 8.43482
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/400px-Kleine_Greifengasse_14_Speyer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/800px-Kleine_Greifengasse_14_Speyer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/1200px-Kleine_Greifengasse_14_Speyer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/1920px-Kleine_Greifengasse_14_Speyer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/1920px-Kleine_Greifengasse_14_Speyer.jpg---
 
 ## Overview
 

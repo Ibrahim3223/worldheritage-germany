@@ -4,13 +4,13 @@ site_name: "Südfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Kiel, Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1288001"
 latitude: 54.3121
 longitude: 10.1151
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/400px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/800px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/1200px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/1920px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/1920px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg---
 
 ## Overview
 

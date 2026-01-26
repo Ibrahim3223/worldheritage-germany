@@ -4,13 +4,13 @@ site_name: "Bethlehem-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q831313"
 latitude: 53.576895
 longitude: 9.963027
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/400px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/800px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/1200px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/1920px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/1920px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg---
 
 ## Overview
 

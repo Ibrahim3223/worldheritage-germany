@@ -4,13 +4,13 @@ site_name: "Schiller Monument (Berlin)"
 date: 2026-01-26
 draft: false
 description: "sculpture in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1295061"
 latitude: 52.5136
 longitude: 13.3927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg/400px-Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg/800px-Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg/1200px-Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg/1920px-Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg/1920px-Schillerdenkmal_Berlin_Gendarmenmarkt_Begas_1.jpg---
 
 ## Overview
 

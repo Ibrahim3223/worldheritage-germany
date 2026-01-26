@@ -4,13 +4,13 @@ site_name: "Weikersheim Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Weikersheim, Baden-Württemberg. Germany"
-region: "Weikersheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weikersheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q504517"
 latitude: 49.4806
 longitude: 9.89583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/400px-Schloss_und_Park_Weikersheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/800px-Schloss_und_Park_Weikersheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/1200px-Schloss_und_Park_Weikersheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/1920px-Schloss_und_Park_Weikersheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/1920px-Schloss_und_Park_Weikersheim.jpg---
 
 ## Overview
 

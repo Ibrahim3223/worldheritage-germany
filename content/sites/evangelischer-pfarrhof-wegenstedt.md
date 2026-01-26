@@ -4,13 +4,13 @@ site_name: "Evangelischer Pfarrhof Wegenstedt"
 date: 2026-01-26
 draft: false
 description: "timber framed house"
-region: "Calvörde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Calvörde"
+  - "Lower Saxony"
 wikidata_id: "Q1288255"
 latitude: 52.3869
 longitude: 11.1988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG/400px-Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG/800px-Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG/1200px-Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG/1920px-Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG/1920px-Calvörde-Wegenstedt,_Dorfkirche_mit_Westturm.JPG---
 
 ## Overview
 

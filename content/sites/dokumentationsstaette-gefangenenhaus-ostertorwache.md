@@ -4,19 +4,18 @@ site_name: "Dokumentationsstätte Gefangenenhaus Ostertorwache"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1235186"
 latitude: 53.0732
 longitude: 8.81505
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -15,8 +15,7 @@ wikidata_id: "Q30272021"
 latitude: 52.460069
 longitude: 13.287185
 images:
-  []
----
+  []---
 
 # Friede Springer Stiftung: A Foundation with a Purpose
 

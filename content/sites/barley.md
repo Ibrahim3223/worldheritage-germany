@@ -4,13 +4,13 @@ site_name: "Barley"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Liebenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Liebenburg"
+  - "Lower Saxony"
 wikidata_id: "Q808323"
 latitude: 51.9839
 longitude: 10.4303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/400px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/800px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/1200px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/1920px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/1920px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg---
 
 ## Overview
 

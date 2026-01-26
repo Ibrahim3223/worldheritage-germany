@@ -4,13 +4,13 @@ site_name: "Theresienkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2419733"
 latitude: 50.778061111
 longitude: 6.081869444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/400px-Aachen,_Theresienkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/800px-Aachen,_Theresienkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/1200px-Aachen,_Theresienkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/1920px-Aachen,_Theresienkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/1920px-Aachen,_Theresienkirche.jpg---
 
 ## Overview
 

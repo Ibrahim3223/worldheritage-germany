@@ -4,19 +4,18 @@ site_name: "Sowjetische Kriegsgräberstätte Herleshausen"
 date: 2026-01-26
 draft: false
 description: "cemetery in Herleshausen, Germany"
-region: "Herleshausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Herleshausen"
+  - "Hesse"
 wikidata_id: "Q2305014"
 latitude: 51.0132
 longitude: 10.1642
 images:
-  []
----
+  []---
 
 ## Overview
 

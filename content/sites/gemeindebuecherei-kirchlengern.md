@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Kirchlengern"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Kirchlengern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Kirchlengern"
+  - "Lower Saxony"
 wikidata_id: "Q28729530"
 latitude: 52.19783
 longitude: 8.64335
 images:
-  []
----
+  []---
 
 ## Overview
 

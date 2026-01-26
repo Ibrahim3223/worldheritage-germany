@@ -4,13 +4,13 @@ site_name: "Border museum Lübeck-Schlutup"
 date: 2026-01-26
 draft: false
 description: "museum in Germany at the former GDR-FRG border near Lübeck"
-region: "Lübeck-Schlutup"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck-Schlutup"
+  - "Lower Saxony"
 wikidata_id: "Q1545709"
 latitude: 53.8842
 longitude: 10.8053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/400px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/800px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/1200px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/1920px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/1920px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg---
 
 ## Overview
 

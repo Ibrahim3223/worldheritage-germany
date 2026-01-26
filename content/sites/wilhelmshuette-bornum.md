@@ -4,19 +4,18 @@ site_name: "Wilhelmshütte (Bornum)"
 date: 2026-01-26
 draft: false
 description: "ehemalige Eisenhütte, Gießerei sowie Herd- und Ofenfabrik im Ambergau am Harz nahe Bockenem"
-region: "Bockenem"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Bockenem"
+  - "Lower Saxony"
 wikidata_id: "Q2576276"
 latitude: 51.974334
 longitude: 10.134389
 images:
-  []
----
+  []---
 
 ## Overview
 

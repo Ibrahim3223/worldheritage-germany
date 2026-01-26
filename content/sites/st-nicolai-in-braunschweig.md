@@ -4,13 +4,13 @@ site_name: "St. Nicolai in Braunschweig"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Braunschweig"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1554345"
 latitude: 52.264275
 longitude: 10.530164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/400px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/800px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/1200px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/1920px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/1920px-Braunschweig_Brunswick_Nicolai-Kirche.jpg---
 
 ## Overview
 

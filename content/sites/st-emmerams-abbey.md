@@ -4,13 +4,13 @@ site_name: "St. Emmeram's Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey in Regensburg, Bavaria"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q260633"
 latitude: 49.015277777
 longitude: 12.092777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/400px-Регенсбург_-_panoramio_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/800px-Регенсбург_-_panoramio_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/1200px-Регенсбург_-_panoramio_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/1920px-Регенсбург_-_panoramio_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/1920px-Регенсбург_-_panoramio_(1).jpg---
 
 ## Overview
 

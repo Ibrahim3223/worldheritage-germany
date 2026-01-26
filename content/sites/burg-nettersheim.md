@@ -4,19 +4,18 @@ site_name: "Burg Nettersheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nettersheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nettersheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013223"
 latitude: 50.4935
 longitude: 6.63056
 images:
-  []
----
+  []---
 
 ## Overview
 

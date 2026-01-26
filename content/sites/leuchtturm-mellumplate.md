@@ -4,13 +4,13 @@ site_name: "Leuchtturm Mellumplate"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Lower Saxony, Germany"
-region: "Friesland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Friesland"
+  - "Lower Saxony"
 wikidata_id: "Q1885120"
 latitude: 53.771667
 longitude: 8.0925
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mellumplate_0966.jpg/400px-Mellumplate_0966.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mellumplate_0966.jpg/800px-Mellumplate_0966.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mellumplate_0966.jpg/1200px-Mellumplate_0966.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mellumplate_0966.jpg/1920px-Mellumplate_0966.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mellumplate_0966.jpg/1920px-Mellumplate_0966.jpg---
 
 ## Overview
 

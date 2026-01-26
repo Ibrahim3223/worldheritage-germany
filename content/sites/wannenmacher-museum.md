@@ -4,13 +4,13 @@ site_name: "Wannenmacher-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Emsdetten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Emsdetten"
+  - "Lower Saxony"
 wikidata_id: "Q2548467"
 latitude: 52.1728
 longitude: 7.53074
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wannenmacher_Museum.jpg/400px-Wannenmacher_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wannenmacher_Museum.jpg/800px-Wannenmacher_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wannenmacher_Museum.jpg/1200px-Wannenmacher_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wannenmacher_Museum.jpg/1920px-Wannenmacher_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wannenmacher_Museum.jpg/1920px-Wannenmacher_Museum.jpg---
 
 ## Overview
 

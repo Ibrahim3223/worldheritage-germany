@@ -4,13 +4,13 @@ site_name: "Palais Pettenkofer"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q2047137"
 latitude: 48.5349
 longitude: 12.1522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/400px-Schirmgasse_264.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/800px-Schirmgasse_264.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/1200px-Schirmgasse_264.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/1920px-Schirmgasse_264.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/1920px-Schirmgasse_264.JPG---
 
 ## Overview
 

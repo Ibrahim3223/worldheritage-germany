@@ -4,13 +4,13 @@ site_name: "War memorial beside Saint Maria (Luebeck)"
 date: 2026-01-26
 draft: false
 description: "monument in Lübeck, Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1300208"
 latitude: 53.867584
 longitude: 10.684871
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/400px-HL_HJHP_–_Marienkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/800px-HL_HJHP_–_Marienkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/1200px-HL_HJHP_–_Marienkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/1920px-HL_HJHP_–_Marienkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/1920px-HL_HJHP_–_Marienkirche.jpg---
 
 ## Overview
 

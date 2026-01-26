@@ -4,13 +4,13 @@ site_name: "Goldberger See"
 date: 2026-01-26
 draft: false
 description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
-region: "Ludwigslust-Parchim District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ludwigslust-Parchim District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q316044"
 latitude: 53.611111111
 longitude: 12.125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/400px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/800px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1200px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1920px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1920px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG---
 
 ## Overview
 

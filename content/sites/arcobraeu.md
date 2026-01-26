@@ -4,13 +4,13 @@ site_name: "Arcobräu"
 date: 2026-01-26
 draft: false
 description: "brewery in Moos, Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q637645"
 latitude: 48.746388888
 longitude: 12.96
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/400px-Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/800px-Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/1200px-Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/1920px-Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/1920px-Cap_of_Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg---
 
 ## Overview
 

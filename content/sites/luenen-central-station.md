@@ -4,13 +4,13 @@ site_name: "Lünen Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Lünen, Germany"
-region: "Lünen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Lünen"
+  - "Lower Saxony"
 wikidata_id: "Q323004"
 latitude: 51.6172
 longitude: 7.52928
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Luenen_hbf01.jpg/400px-Luenen_hbf01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Luenen_hbf01.jpg/800px-Luenen_hbf01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Luenen_hbf01.jpg/1200px-Luenen_hbf01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Luenen_hbf01.jpg/1920px-Luenen_hbf01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Luenen_hbf01.jpg/1920px-Luenen_hbf01.jpg---
 
 ## Overview
 

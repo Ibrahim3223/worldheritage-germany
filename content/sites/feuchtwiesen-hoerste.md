@@ -4,13 +4,13 @@ site_name: "Feuchtwiesen Hörste"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Halle, North Rhine-Westphalia, Germany"
-region: "Halle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Halle"
+  - "Lower Saxony"
 wikidata_id: "Q972870"
 latitude: 52.0369
 longitude: 8.29107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/400px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/800px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/1200px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/1920px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/1920px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg---
 
 ## Overview
 

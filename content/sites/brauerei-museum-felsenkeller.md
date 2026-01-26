@@ -4,13 +4,13 @@ site_name: "Brauerei-Museum Felsenkeller"
 date: 2026-01-26
 draft: false
 description: "former museum in Germany"
-region: "Monschau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Monschau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q19835722"
 latitude: 50.55293
 longitude: 6.23431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/400px-St._Vither_Straße_6-8,_Monschau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/800px-St._Vither_Straße_6-8,_Monschau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/1200px-St._Vither_Straße_6-8,_Monschau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/1920px-St._Vither_Straße_6-8,_Monschau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/1920px-St._Vither_Straße_6-8,_Monschau.jpg---
 
 ## Overview
 

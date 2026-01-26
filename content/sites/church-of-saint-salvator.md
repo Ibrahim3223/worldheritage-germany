@@ -4,13 +4,13 @@ site_name: "Church of Saint Salvator"
 date: 2026-01-26
 draft: false
 description: "church in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q328188"
 latitude: 48.141641214
 longitude: 11.574839981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/400px-Salvatorkirche_Munich_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/800px-Salvatorkirche_Munich_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/1200px-Salvatorkirche_Munich_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/1920px-Salvatorkirche_Munich_I.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/1920px-Salvatorkirche_Munich_I.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Braunfels District Court Building"
 date: 2026-01-26
 draft: false
 description: "large-volume building with few accents such as the risalits with stepped gables and a stair tower next to the gabled sandstone portal enliven the bric"
-region: "Braunfels"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Braunfels"
+  - "Hesse"
 wikidata_id: "Q116921185"
 latitude: 50.517252
 longitude: 8.391181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/400px-Braunfels,_ehemaliges_Amtsgericht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/800px-Braunfels,_ehemaliges_Amtsgericht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/1200px-Braunfels,_ehemaliges_Amtsgericht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/1920px-Braunfels,_ehemaliges_Amtsgericht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/1920px-Braunfels,_ehemaliges_Amtsgericht.jpg---
 
 ## Overview
 

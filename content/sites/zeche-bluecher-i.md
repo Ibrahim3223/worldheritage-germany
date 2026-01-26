@@ -4,19 +4,18 @@ site_name: "Zeche Blücher I"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q169681"
 latitude: 51.5278
 longitude: 7.03112
 images:
-  []
----
+  []---
 
 ## Overview
 

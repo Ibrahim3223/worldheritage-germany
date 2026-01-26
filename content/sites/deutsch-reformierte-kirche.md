@@ -4,13 +4,13 @@ site_name: "Deutsch Reformierte Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1201918"
 latitude: 50.1109
 longitude: 8.67939
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg/400px-Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg/800px-Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg/1200px-Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg/1920px-Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg/1920px-Frankfurt_Am_Main-Deutsch-Reformierte_Kirche.jpg---
 
 ## Overview
 

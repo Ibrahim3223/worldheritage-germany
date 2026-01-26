@@ -4,13 +4,13 @@ site_name: "Siebener-Denkmal"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1432337"
 latitude: 48.7737
 longitude: 9.16909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/400px-Denkmal_Inf_Kaiser_Friedrich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/800px-Denkmal_Inf_Kaiser_Friedrich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/1200px-Denkmal_Inf_Kaiser_Friedrich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/1920px-Denkmal_Inf_Kaiser_Friedrich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/1920px-Denkmal_Inf_Kaiser_Friedrich.jpg---
 
 ## Overview
 

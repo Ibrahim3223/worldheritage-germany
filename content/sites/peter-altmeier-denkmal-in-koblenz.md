@@ -4,13 +4,13 @@ site_name: "Peter-Altmeier-Denkmal in Koblenz"
 date: 2026-01-26
 draft: false
 description: "monument in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2073372"
 latitude: 50.363
 longitude: 7.60156
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/400px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/800px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/1200px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/1920px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/1920px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg---
 
 ## Overview
 

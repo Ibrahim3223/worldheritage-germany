@@ -4,13 +4,13 @@ site_name: "St.Mary's church Bernau"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Bernau bei Berlin"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bernau bei Berlin"
+  - "Berlin"
 wikidata_id: "Q1751141"
 latitude: 52.6797
 longitude: 13.5872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bernau,_St._Marien_(74).jpg/400px-Bernau,_St._Marien_(74).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bernau,_St._Marien_(74).jpg/800px-Bernau,_St._Marien_(74).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bernau,_St._Marien_(74).jpg/1200px-Bernau,_St._Marien_(74).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bernau,_St._Marien_(74).jpg/1920px-Bernau,_St._Marien_(74).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bernau,_St._Marien_(74).jpg/1920px-Bernau,_St._Marien_(74).jpg---
 
 ## Overview
 

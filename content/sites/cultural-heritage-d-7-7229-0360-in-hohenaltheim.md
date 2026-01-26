@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7229-0360 in Hohenaltheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Hohenaltheim, Donau-Ries, Swabia, Bavaria, Germany"
-region: "Hohenaltheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hohenaltheim"
+  - "Bavaria"
 wikidata_id: "Q98290060"
 latitude: 48.775084282
 longitude: 10.541812363
 images:
-  []
----
+  []---
 
 ## Overview
 

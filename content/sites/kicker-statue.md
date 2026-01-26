@@ -4,13 +4,13 @@ site_name: "Kicker Statue"
 date: 2026-01-26
 draft: false
 description: "created by sculptor Josef Tabachnyk"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q17124049"
 latitude: 49.44909
 longitude: 11.087033
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/400px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/800px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/1200px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/1920px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/1920px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG---
 
 ## Overview
 

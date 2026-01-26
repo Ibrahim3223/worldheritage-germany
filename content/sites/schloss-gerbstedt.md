@@ -4,13 +4,13 @@ site_name: "Schloss Gerbstedt"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Gerbstedt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Gerbstedt"
+  - "Brandenburg"
 wikidata_id: "Q2155132"
 latitude: 51.635
 longitude: 11.625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/400px-GerbstedtSchloß2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/800px-GerbstedtSchloß2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/1200px-GerbstedtSchloß2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/1920px-GerbstedtSchloß2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/1920px-GerbstedtSchloß2.JPG---
 
 ## Overview
 

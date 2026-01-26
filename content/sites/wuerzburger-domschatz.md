@@ -4,13 +4,13 @@ site_name: "Würzburger Domschatz"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q17354308"
 latitude: 49.792207
 longitude: 9.931844
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Domschatz_Würzburg_-_Schild.JPG/400px-Domschatz_Würzburg_-_Schild.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Domschatz_Würzburg_-_Schild.JPG/800px-Domschatz_Würzburg_-_Schild.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Domschatz_Würzburg_-_Schild.JPG/1200px-Domschatz_Würzburg_-_Schild.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Domschatz_Würzburg_-_Schild.JPG/1920px-Domschatz_Würzburg_-_Schild.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Domschatz_Würzburg_-_Schild.JPG/1920px-Domschatz_Würzburg_-_Schild.JPG---
 
 ## Overview
 

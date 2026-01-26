@@ -4,13 +4,13 @@ site_name: "Küsterlandkapelle"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Assinghausen, Olsberg"
-region: "Olsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Olsberg"
+  - "Hesse"
 wikidata_id: "Q1797398"
 latitude: 51.3025
 longitude: 8.50521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg/400px-Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg/800px-Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg/1200px-Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg/1920px-Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg/1920px-Olsberg,_Assinghausen,_Küsterlandkapelle,_2013-04_CN-08.jpg---
 
 ## Overview
 

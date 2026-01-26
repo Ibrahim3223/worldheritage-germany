@@ -4,19 +4,18 @@ site_name: "Solabasilika und Propstei"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629496"
 latitude: 48.891974
 longitude: 10.992365
 images:
-  []
----
+  []---
 
 ## Overview
 

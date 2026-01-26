@@ -4,13 +4,13 @@ site_name: "Fastnachtsbrunnen"
 date: 2026-01-26
 draft: false
 description: "water well in Mainz, Germany, Symbol of Carnival (Fastnacht)"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1397799"
 latitude: 49.998
 longitude: 8.26806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/400px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/800px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1200px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1920px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1920px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg---
 
 ## Overview
 

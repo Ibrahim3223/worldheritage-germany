@@ -4,13 +4,13 @@ site_name: "Wolfsschlucht"
 date: 2026-01-26
 draft: false
 description: "mountain pass near Baden-Baden, Germany"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1233883"
 latitude: 48.7765
 longitude: 8.27883
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/400px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/800px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/1200px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/1920px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/1920px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg---
 
 ## Overview
 

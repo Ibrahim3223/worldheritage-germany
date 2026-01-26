@@ -4,13 +4,13 @@ site_name: "Beaches of Norderney"
 date: 2026-01-26
 draft: false
 description: "Strände der Nordseeinsel Norderney"
-region: "Norderney"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Norderney"
+  - "Lower Saxony"
 wikidata_id: "Q136005700"
 latitude: 53.720185
 longitude: 7.178749
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/400px-Norderney,_Nordstrand_--_2016_--_4784.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/800px-Norderney,_Nordstrand_--_2016_--_4784.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/1200px-Norderney,_Nordstrand_--_2016_--_4784.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/1920px-Norderney,_Nordstrand_--_2016_--_4784.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/1920px-Norderney,_Nordstrand_--_2016_--_4784.jpg---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/400px-AlteNationalgalerie_1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/800px-AlteNationalgalerie_1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1200px-AlteNationalgalerie_1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1920px-AlteNationalgalerie_1a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1920px-AlteNationalgalerie_1a.jpg---
 
 ## Overview
 

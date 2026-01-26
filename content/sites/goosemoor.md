@@ -4,19 +4,18 @@ site_name: "Goosemoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Winsen an der Aller"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Winsen an der Aller"
+  - "Lower Saxony"
 wikidata_id: "Q1168102"
 latitude: 52.7161
 longitude: 9.90722
 images:
-  []
----
+  []---
 
 ## Overview
 

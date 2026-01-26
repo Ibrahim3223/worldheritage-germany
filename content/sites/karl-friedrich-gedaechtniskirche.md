@@ -4,13 +4,13 @@ site_name: "Karl-Friedrich-Gedächtniskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1480566"
 latitude: 49.0136
 longitude: 8.35966
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/400px-Karlsruhe_KircheKarlFriedrich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/800px-Karlsruhe_KircheKarlFriedrich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/1200px-Karlsruhe_KircheKarlFriedrich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/1920px-Karlsruhe_KircheKarlFriedrich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/1920px-Karlsruhe_KircheKarlFriedrich.jpg---
 
 ## Overview
 

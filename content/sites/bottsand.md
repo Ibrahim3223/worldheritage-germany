@@ -4,13 +4,13 @@ site_name: "Bottsand"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Wendtorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wendtorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q894917"
 latitude: 54.42472
 longitude: 10.28423
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/400px-Bottsand_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/800px-Bottsand_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1200px-Bottsand_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1920px-Bottsand_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1920px-Bottsand_03.JPG---
 
 ## Overview
 

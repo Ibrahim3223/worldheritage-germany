@@ -4,13 +4,13 @@ site_name: "Reutiner Bucht"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Lindau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Lindau"
+  - "Baden-Württemberg"
 wikidata_id: "Q997597"
 latitude: 47.5497
 longitude: 9.70639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/400px-D-Lindau-NSG_Reutiner_Bucht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/800px-D-Lindau-NSG_Reutiner_Bucht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/1200px-D-Lindau-NSG_Reutiner_Bucht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/1920px-D-Lindau-NSG_Reutiner_Bucht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/1920px-D-Lindau-NSG_Reutiner_Bucht.JPG---
 
 ## Overview
 

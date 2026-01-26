@@ -4,13 +4,13 @@ site_name: "Nendorp Church (Jemgum)"
 date: 2026-01-26
 draft: false
 description: "church building in Nendorp, Germany"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q1977303"
 latitude: 53.3097
 longitude: 7.31443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/400px-ChurchNendorp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/800px-ChurchNendorp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1200px-ChurchNendorp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1920px-ChurchNendorp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1920px-ChurchNendorp.jpg---
 
 ## Overview
 

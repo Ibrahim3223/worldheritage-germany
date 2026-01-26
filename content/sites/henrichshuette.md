@@ -4,13 +4,13 @@ site_name: "Henrichshütte"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hattingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hattingen"
+  - "Lower Saxony"
 wikidata_id: "Q1606092"
 latitude: 51.4075
 longitude: 7.188333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/400px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/800px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1200px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1920px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1920px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg---
 
 ## Overview
 

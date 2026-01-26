@@ -4,19 +4,18 @@ site_name: "Westerwald-Museum Motorrad & Technik"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Steinebach/Sieg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steinebach/Sieg"
+  - "Hesse"
 wikidata_id: "Q2565054"
 latitude: 50.735391
 longitude: 7.827448
 images:
-  []
----
+  []---
 
 ## Overview
 

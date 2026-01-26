@@ -4,19 +4,18 @@ site_name: "Museum Brandmannshof Unterpleichfeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629630"
 latitude: 49.871407
 longitude: 10.028776
 images:
-  []
----
+  []---
 
 ## Overview
 

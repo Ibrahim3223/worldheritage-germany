@@ -4,13 +4,13 @@ site_name: "Town hall Belgern"
 date: 2026-01-26
 draft: false
 description: "City hall in Belgern (Saxony)"
-region: "Belgern-Schildau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Belgern-Schildau"
+  - "Brandenburg"
 wikidata_id: "Q49468539"
 latitude: 51.48253
 longitude: 13.12509
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Belgern_Rathaus-01.jpg/400px-Belgern_Rathaus-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Belgern_Rathaus-01.jpg/800px-Belgern_Rathaus-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Belgern_Rathaus-01.jpg/1200px-Belgern_Rathaus-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Belgern_Rathaus-01.jpg/1920px-Belgern_Rathaus-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Belgern_Rathaus-01.jpg/1920px-Belgern_Rathaus-01.jpg---
 
 ## Overview
 

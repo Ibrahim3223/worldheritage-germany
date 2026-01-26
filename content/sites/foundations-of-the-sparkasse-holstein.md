@@ -4,19 +4,18 @@ site_name: "Foundations of the Sparkasse Holstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q76638647"
 latitude: 53.809802
 longitude: 10.371729
 images:
-  []
----
+  []---
 
 ## Overview
 

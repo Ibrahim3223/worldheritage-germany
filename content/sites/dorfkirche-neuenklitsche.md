@@ -4,13 +4,13 @@ site_name: "Dorfkirche Neuenklitsche"
 date: 2026-01-26
 draft: false
 description: "church building in Jerichow, Saxony-Anhalt, Germany"
-region: "Jerichow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jerichow"
+  - "Brandenburg"
 wikidata_id: "Q1244563"
 latitude: 52.4798
 longitude: 12.2343
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/400px-Kirche_Neuenklitsche_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/800px-Kirche_Neuenklitsche_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/1200px-Kirche_Neuenklitsche_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/1920px-Kirche_Neuenklitsche_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/1920px-Kirche_Neuenklitsche_02.JPG---
 
 ## Overview
 

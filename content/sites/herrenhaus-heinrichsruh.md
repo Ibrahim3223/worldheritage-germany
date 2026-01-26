@@ -4,13 +4,13 @@ site_name: "Herrenhaus Heinrichsruh"
 date: 2026-01-26
 draft: false
 description: "German manor house"
-region: "Torgelow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Torgelow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1614067"
 latitude: 53.6429
 longitude: 13.9204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HerrenhausHeinrichsruh.jpg/400px-HerrenhausHeinrichsruh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HerrenhausHeinrichsruh.jpg/800px-HerrenhausHeinrichsruh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HerrenhausHeinrichsruh.jpg/1200px-HerrenhausHeinrichsruh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HerrenhausHeinrichsruh.jpg/1920px-HerrenhausHeinrichsruh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HerrenhausHeinrichsruh.jpg/1920px-HerrenhausHeinrichsruh.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Ursula"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Grafenberg, Germany"
-region: "Grafenberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Grafenberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1232421"
 latitude: 51.2395
 longitude: 6.82617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/400px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/800px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/1200px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/1920px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/1920px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Köln-Holweide station"
 date: 2026-01-26
 draft: false
 description: "railway station in Holweide, Germany"
-region: "Holweide"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Holweide"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q320722"
 latitude: 50.9763
 longitude: 7.041
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/400px-Holweidebahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/800px-Holweidebahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/1200px-Holweidebahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/1920px-Holweidebahnhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/1920px-Holweidebahnhof.jpg---
 
 ## Overview
 

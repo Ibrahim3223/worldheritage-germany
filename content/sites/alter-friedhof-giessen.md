@@ -4,19 +4,18 @@ site_name: "Alter Friedhof Gießen"
 date: 2026-01-26
 draft: false
 description: "cemetery in Giessen, Germany"
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q437889"
 latitude: 50.5831
 longitude: 8.68538
 images:
-  []
----
+  []---
 
 ## Overview
 

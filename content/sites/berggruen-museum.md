@@ -4,13 +4,13 @@ site_name: "Berggruen Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q641630"
 latitude: 52.5192
 longitude: 13.2953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/400px-Berlin2008-MuseumBerggruen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/800px-Berlin2008-MuseumBerggruen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1200px-Berlin2008-MuseumBerggruen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1920px-Berlin2008-MuseumBerggruen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1920px-Berlin2008-MuseumBerggruen1.JPG---
 
 ## Overview
 

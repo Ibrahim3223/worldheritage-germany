@@ -4,19 +4,18 @@ site_name: "Uranium Mining Landscape"
 date: 2026-01-26
 draft: false
 description: "part of a World Heritage site in Germany"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q64824447"
 latitude: 50.6334
 longitude: 12.6857
 images:
-  []
----
+  []---
 
 ## Overview
 

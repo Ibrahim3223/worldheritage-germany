@@ -4,13 +4,13 @@ site_name: "Herrenchiemsee"
 date: 2026-01-26
 draft: false
 description: "complex of royal buildings on Herreninsel, an island in the Chiemsee, Bavaria's largest lake, 60 km south east of Munich"
-region: "Chiemsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Chiemsee"
+  - "Bavaria"
 wikidata_id: "Q118618"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/400px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/800px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/1200px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/1920px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/1920px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg---
 
 ## Overview
 

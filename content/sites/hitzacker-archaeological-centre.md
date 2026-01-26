@@ -4,13 +4,13 @@ site_name: "Hitzacker Archaeological Centre"
 date: 2026-01-26
 draft: false
 description: "Archaeological open-air museum"
-region: "Hitzacker"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hitzacker"
+  - "Lower Saxony"
 wikidata_id: "Q637250"
 latitude: 53.1469
 longitude: 11.0472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/400px-Langhaus_1_Hitzacker.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/800px-Langhaus_1_Hitzacker.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1200px-Langhaus_1_Hitzacker.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1920px-Langhaus_1_Hitzacker.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1920px-Langhaus_1_Hitzacker.JPG---
 
 ## Overview
 

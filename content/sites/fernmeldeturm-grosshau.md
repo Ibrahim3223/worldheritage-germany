@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Großhau"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Hürtgenwald"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Hürtgenwald"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1407048"
 latitude: 50.7372
 longitude: 6.40347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/400px-Grosshaufmt1p.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/800px-Grosshaufmt1p.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/1200px-Grosshaufmt1p.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/1920px-Grosshaufmt1p.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/1920px-Grosshaufmt1p.jpg---
 
 ## Overview
 

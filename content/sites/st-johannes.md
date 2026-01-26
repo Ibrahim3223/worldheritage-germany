@@ -4,13 +4,13 @@ site_name: "St. Johannes"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2319191"
 latitude: 51.4706
 longitude: 11.9775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/400px-Johanneskirche_web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/800px-Johanneskirche_web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/1200px-Johanneskirche_web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/1920px-Johanneskirche_web.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/1920px-Johanneskirche_web.jpg---
 
 ## Overview
 

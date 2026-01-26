@@ -4,13 +4,13 @@ site_name: "Synagogue Kippenheim"
 date: 2026-01-26
 draft: false
 description: "synagogue in Kippenheim, Germany"
-region: "Kippenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kippenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1456757"
 latitude: 48.2936
 longitude: 7.82515
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/400px-Ehemalige_Synagoge_Kippenheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/800px-Ehemalige_Synagoge_Kippenheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/1200px-Ehemalige_Synagoge_Kippenheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/1920px-Ehemalige_Synagoge_Kippenheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/1920px-Ehemalige_Synagoge_Kippenheim.jpg---
 
 ## Overview
 

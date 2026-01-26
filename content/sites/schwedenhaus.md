@@ -4,13 +4,13 @@ site_name: "Schwedenhaus"
 date: 2026-01-26
 draft: false
 description: "building in Dessau-Roßlau, Saxony-Anhalt, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Building"
 categories:
   - "Building"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q15708461"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/400px-Goldig-3a.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/800px-Goldig-3a.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/1200px-Goldig-3a.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/1920px-Goldig-3a.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/1920px-Goldig-3a.JPG---
 
 ## Overview
 

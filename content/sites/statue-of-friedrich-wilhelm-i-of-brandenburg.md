@@ -4,13 +4,13 @@ site_name: "Statue of Friedrich Wilhelm I of Brandenburg"
 date: 2026-01-26
 draft: false
 description: "Statue zu Ehren des Kurfürsten Friedrich Wilhelm (1620–1688) auf der Sparrenburg in der ostwestfälischen Stadt Bielefeld"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q19904447"
 latitude: 52.01489
 longitude: 8.52709
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/400px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/800px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/1200px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/1920px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/1920px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG---
 
 ## Overview
 

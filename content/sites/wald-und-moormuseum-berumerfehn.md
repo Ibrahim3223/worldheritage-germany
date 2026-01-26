@@ -4,19 +4,18 @@ site_name: "Wald- und Moormuseum Berumerfehn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Großheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großheide"
+  - "Lower Saxony"
 wikidata_id: "Q76636116"
 latitude: 53.559661
 longitude: 7.347394
 images:
-  []
----
+  []---
 
 ## Overview
 

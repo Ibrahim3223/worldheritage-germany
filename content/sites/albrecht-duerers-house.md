@@ -4,13 +4,13 @@ site_name: "Albrecht Dürer's House"
 date: 2026-01-26
 draft: false
 description: "preserved artist's house and art museum"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q523148"
 latitude: 49.4572
 longitude: 11.0739
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/400px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/800px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1200px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1920px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1920px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg---
 
 ## Overview
 

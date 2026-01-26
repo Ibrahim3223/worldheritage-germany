@@ -4,13 +4,13 @@ site_name: "St Ludwig's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Celle, Germany"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q2320396"
 latitude: 52.62
 longitude: 10.0787
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/400px-MKr14222_Ludwigs-Kirche_(Celle).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/800px-MKr14222_Ludwigs-Kirche_(Celle).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/1200px-MKr14222_Ludwigs-Kirche_(Celle).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/1920px-MKr14222_Ludwigs-Kirche_(Celle).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/1920px-MKr14222_Ludwigs-Kirche_(Celle).jpg---
 
 ## Overview
 

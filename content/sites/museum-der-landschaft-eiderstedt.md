@@ -4,13 +4,13 @@ site_name: "Museum der Landschaft Eiderstedt"
 date: 2026-01-26
 draft: false
 description: "museum in Sankt Peter-Ording, Germany"
-region: "Sankt Peter-Ording"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sankt Peter-Ording"
+  - "Schleswig-Holstein"
 wikidata_id: "Q19965407"
 latitude: 54.30500031
 longitude: 8.63799953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Sankt_Peter-Ording.jpg/400px-Museum_Sankt_Peter-Ording.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Sankt_Peter-Ording.jpg/800px-Museum_Sankt_Peter-Ording.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Sankt_Peter-Ording.jpg/1200px-Museum_Sankt_Peter-Ording.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Sankt_Peter-Ording.jpg/1920px-Museum_Sankt_Peter-Ording.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Sankt_Peter-Ording.jpg/1920px-Museum_Sankt_Peter-Ording.jpg---
 
 ## Overview
 

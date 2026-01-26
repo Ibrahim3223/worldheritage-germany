@@ -4,13 +4,13 @@ site_name: "Naumburg Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral in Saxony-Anhalt, Germany"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q5938"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/400px-Naumburger_Dom.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/800px-Naumburger_Dom.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1200px-Naumburger_Dom.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1920px-Naumburger_Dom.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1920px-Naumburger_Dom.JPG---
 
 ## Overview
 

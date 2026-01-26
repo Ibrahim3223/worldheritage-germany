@@ -4,13 +4,13 @@ site_name: "Hadamar Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Hesse, Germany"
-region: "Hadamar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Hadamar"
+  - "Hesse"
 wikidata_id: "Q682968"
 latitude: 50.4473
 longitude: 8.045
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/400px-Hadamar_-_Fohlenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/800px-Hadamar_-_Fohlenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1200px-Hadamar_-_Fohlenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1920px-Hadamar_-_Fohlenhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1920px-Hadamar_-_Fohlenhof.jpg---
 
 ## Overview
 

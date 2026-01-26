@@ -4,13 +4,13 @@ site_name: "Haus Kallenberg"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Ende"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Ende"
+  - "Lower Saxony"
 wikidata_id: "Q1279098"
 latitude: 51.415416666
 longitude: 7.424322222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Haus-Kallenberg-W.jpg/400px-Haus-Kallenberg-W.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Haus-Kallenberg-W.jpg/800px-Haus-Kallenberg-W.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Haus-Kallenberg-W.jpg/1200px-Haus-Kallenberg-W.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Haus-Kallenberg-W.jpg/1920px-Haus-Kallenberg-W.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Haus-Kallenberg-W.jpg/1920px-Haus-Kallenberg-W.jpg---
 
 ## Overview
 

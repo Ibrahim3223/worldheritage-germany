@@ -4,13 +4,13 @@ site_name: "Nordertor"
 date: 2026-01-26
 draft: false
 description: "Town gate in Flensburg, Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q301998"
 latitude: 54.79553
 longitude: 9.43017
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/400px-Nordertor_Südseite_2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/800px-Nordertor_Südseite_2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/1200px-Nordertor_Südseite_2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/1920px-Nordertor_Südseite_2011.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/1920px-Nordertor_Südseite_2011.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ehemaliges Rathaus und Schule"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Niederroßbach (Haiger), Hesse, Germany"
-region: "Haiger"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Haiger"
+  - "Hesse"
 wikidata_id: "Q47532075"
 latitude: 50.790108206
 longitude: 8.22828233
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/400px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/800px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/1200px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/1920px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/1920px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg---
 
 ## Overview
 

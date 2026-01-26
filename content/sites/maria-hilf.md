@@ -4,13 +4,13 @@ site_name: "Maria-Hilf"
 date: 2026-01-26
 draft: false
 description: "church building in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1895950"
 latitude: 50.1028
 longitude: 8.62708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/400px-Maria-Hilf-Frankfurt-Outside.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/800px-Maria-Hilf-Frankfurt-Outside.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/1200px-Maria-Hilf-Frankfurt-Outside.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/1920px-Maria-Hilf-Frankfurt-Outside.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/1920px-Maria-Hilf-Frankfurt-Outside.jpg---
 
 ## Overview
 

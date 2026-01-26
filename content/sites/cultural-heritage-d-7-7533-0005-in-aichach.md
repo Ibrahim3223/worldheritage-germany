@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7533-0005 in Aichach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Aichach, Aichach-Friedberg, Swabia, Bavaria, Germany"
-region: "Aichach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Aichach"
+  - "Bavaria"
 wikidata_id: "Q98283743"
 latitude: 48.471037721
 longitude: 11.16758145
 images:
-  []
----
+  []---
 
 ## Overview 
 

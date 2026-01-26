@@ -4,13 +4,13 @@ site_name: "Kellinghusen town hall"
 date: 2026-01-26
 draft: false
 description: "building in Kellinghusen, Germany"
-region: "Kellinghusen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kellinghusen"
+  - "Lower Saxony"
 wikidata_id: "Q58399626"
 latitude: 53.949254
 longitude: 9.718146
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/400px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/800px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/1200px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/1920px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/1920px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Marktplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Heidelberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q786016"
 latitude: 49.4122
 longitude: 8.71028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/400px-HeidelbergMarktplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/800px-HeidelbergMarktplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/1200px-HeidelbergMarktplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/1920px-HeidelbergMarktplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/1920px-HeidelbergMarktplatz.jpg---
 
 ## Overview
 

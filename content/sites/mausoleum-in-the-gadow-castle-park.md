@@ -4,13 +4,13 @@ site_name: "Mausoleum in the Gadow Castle Park"
 date: 2026-01-26
 draft: false
 description: "Mausoleum in Lanz, Prignitz district, Brandenburg"
-region: "Lanz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Lanz"
+  - "Brandenburg"
 wikidata_id: "Q122436885"
 latitude: 53.076249
 longitude: 11.61431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Erbbegräbnis_Möllendorff.jpg/400px-Erbbegräbnis_Möllendorff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Erbbegräbnis_Möllendorff.jpg/800px-Erbbegräbnis_Möllendorff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Erbbegräbnis_Möllendorff.jpg/1200px-Erbbegräbnis_Möllendorff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Erbbegräbnis_Möllendorff.jpg/1920px-Erbbegräbnis_Möllendorff.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Erbbegräbnis_Möllendorff.jpg/1920px-Erbbegräbnis_Möllendorff.jpg---
 
 ## Overview
 

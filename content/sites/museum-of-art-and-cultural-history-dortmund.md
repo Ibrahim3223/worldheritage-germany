@@ -4,13 +4,13 @@ site_name: "Museum of Art and Cultural History (Dortmund)"
 date: 2026-01-26
 draft: false
 description: "municipal museum in Dortmund, North Rhine-Westphalia, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q164887"
 latitude: 51.5166
 longitude: 7.463
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/400px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/800px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/1200px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/1920px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/1920px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg---
 
 ## Overview
 

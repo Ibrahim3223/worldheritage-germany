@@ -4,13 +4,13 @@ site_name: "Willibrordi Cathedral"
 date: 2026-01-26
 draft: false
 description: "Protestant church building in Wesel, Germany"
-region: "Wesel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wesel"
+  - "Lower Saxony"
 wikidata_id: "Q113308"
 latitude: 51.65685
 longitude: 6.610139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/400px-Wesel_willibrordi_dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/800px-Wesel_willibrordi_dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/1200px-Wesel_willibrordi_dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/1920px-Wesel_willibrordi_dom.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/1920px-Wesel_willibrordi_dom.jpg---
 
 ## Overview
 

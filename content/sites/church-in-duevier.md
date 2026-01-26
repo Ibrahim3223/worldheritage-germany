@@ -4,13 +4,13 @@ site_name: "Church in Düvier"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Düvier, einem Ortsteil der Stadt Loitz im Landkreis Vorpommern-Greifswald"
-region: "Loitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Loitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1728382"
 latitude: 54.014
 longitude: 13.0678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/400px-Düvier_Kapelle_Süd.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/800px-Düvier_Kapelle_Süd.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/1200px-Düvier_Kapelle_Süd.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/1920px-Düvier_Kapelle_Süd.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/1920px-Düvier_Kapelle_Süd.JPG---
 
 ## Overview
 

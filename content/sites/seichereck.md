@@ -4,13 +4,13 @@ site_name: "Seichereck"
 date: 2026-01-26
 draft: false
 description: "mountain shoulder and mountain pass in the Allgäu Alps in Bavaria, Germany"
-region: "Oberstdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Oberstdorf"
+  - "Bavaria"
 wikidata_id: "Q1238428"
 latitude: 47.3518385
 longitude: 10.3611496
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/400px-Aelpelesattel_vom_Kegelkopf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/800px-Aelpelesattel_vom_Kegelkopf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1200px-Aelpelesattel_vom_Kegelkopf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1920px-Aelpelesattel_vom_Kegelkopf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1920px-Aelpelesattel_vom_Kegelkopf.jpg---
 
 ## Overview
 

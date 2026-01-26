@@ -4,13 +4,13 @@ site_name: "Planetarium Jena"
 date: 2026-01-26
 draft: false
 description: "planetarium in Jena, Thuringia, Germany"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q320440"
 latitude: 50.931805555
 longitude: 11.586888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/400px-Planetarium_Jena_(40040).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/800px-Planetarium_Jena_(40040).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/1200px-Planetarium_Jena_(40040).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/1920px-Planetarium_Jena_(40040).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/1920px-Planetarium_Jena_(40040).jpg---
 
 ## Overview
 

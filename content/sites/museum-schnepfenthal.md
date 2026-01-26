@@ -4,13 +4,13 @@ site_name: "Museum Schnepfenthal"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Waltershausen"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Waltershausen"
+  - "Thuringia"
 wikidata_id: "Q1954556"
 latitude: 50.8841
 longitude: 10.5738
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/400px-GTH_SCHNEPF_MUSEUM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/800px-GTH_SCHNEPF_MUSEUM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/1200px-GTH_SCHNEPF_MUSEUM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/1920px-GTH_SCHNEPF_MUSEUM.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/1920px-GTH_SCHNEPF_MUSEUM.jpg---
 
 ## Overview
 

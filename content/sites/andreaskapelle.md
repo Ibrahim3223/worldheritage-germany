@@ -4,13 +4,13 @@ site_name: "Andreaskapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q501521"
 latitude: 48.5744
 longitude: 13.4658
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Andreaskapelle_Passau.JPG/400px-Andreaskapelle_Passau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Andreaskapelle_Passau.JPG/800px-Andreaskapelle_Passau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Andreaskapelle_Passau.JPG/1200px-Andreaskapelle_Passau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Andreaskapelle_Passau.JPG/1920px-Andreaskapelle_Passau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Andreaskapelle_Passau.JPG/1920px-Andreaskapelle_Passau.JPG---
 
 ## Overview
 

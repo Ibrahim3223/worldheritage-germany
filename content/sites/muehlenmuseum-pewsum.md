@@ -4,13 +4,13 @@ site_name: "Mühlenmuseum Pewsum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pewsum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Pewsum"
+  - "Lower Saxony"
 wikidata_id: "Q1958491"
 latitude: 53.4351
 longitude: 7.08936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/400px-PewsumerMühle-05072009.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/800px-PewsumerMühle-05072009.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/1200px-PewsumerMühle-05072009.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/1920px-PewsumerMühle-05072009.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/1920px-PewsumerMühle-05072009.JPG---
 
 ## Overview 
 

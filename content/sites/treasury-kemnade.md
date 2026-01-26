@@ -4,19 +4,18 @@ site_name: "Treasury Kemnade"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hattingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hattingen"
+  - "Lower Saxony"
 wikidata_id: "Q1392980"
 latitude: 51.407777777
 longitude: 7.249444444
 images:
-  []
----
+  []---
 
 ## Overview
 

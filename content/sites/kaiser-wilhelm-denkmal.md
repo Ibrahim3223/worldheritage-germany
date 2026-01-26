@@ -4,13 +4,13 @@ site_name: "Kaiser-Wilhelm-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1318506"
 latitude: 51.2241
 longitude: 6.7818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/400px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/800px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/1200px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/1920px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/1920px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stadthalle Offenbach"
 date: 2026-01-26
 draft: false
 description: "multifunctional convention and event center in Offenbach am Main, Germany"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q2327258"
 latitude: 50.0829
 longitude: 8.7767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/400px-Stadthalle_Offenbach_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/800px-Stadthalle_Offenbach_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/1200px-Stadthalle_Offenbach_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/1920px-Stadthalle_Offenbach_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/1920px-Stadthalle_Offenbach_02.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Barrelpäule"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Halle, North Rhine-Westphalia, Germany"
-region: "Halle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Halle"
+  - "Lower Saxony"
 wikidata_id: "Q808854"
 latitude: 52.0142
 longitude: 8.25278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/400px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/800px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/1200px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/1920px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/1920px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg---
 
 ## Overview
 

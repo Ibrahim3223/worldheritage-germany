@@ -4,13 +4,13 @@ site_name: "Dreimühlen waterfall"
 date: 2026-01-26
 draft: false
 description: "waterfall in Üxheim, Germany"
-region: "Üxheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Üxheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1258002"
 latitude: 50.325
 longitude: 6.769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/400px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/800px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/1200px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/1920px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/1920px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg---
 
 ## Overview
 

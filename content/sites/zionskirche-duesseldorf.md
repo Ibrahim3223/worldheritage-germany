@@ -4,13 +4,13 @@ site_name: "Zionskirche (Düsseldorf)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q205402"
 latitude: 51.248
 longitude: 6.78295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/400px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/800px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/1200px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/1920px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/1920px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg---
 
 ## Overview
 

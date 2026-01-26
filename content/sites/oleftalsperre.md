@@ -4,13 +4,13 @@ site_name: "Oleftalsperre"
 date: 2026-01-26
 draft: false
 description: "reservoir in Germany"
-region: "Hellenthal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Hellenthal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2019122"
 latitude: 50.495
 longitude: 6.42167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/400px-Oleftalsperre_(13).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/800px-Oleftalsperre_(13).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/1200px-Oleftalsperre_(13).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/1920px-Oleftalsperre_(13).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/1920px-Oleftalsperre_(13).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zoo Aschersleben"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Aschersleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Aschersleben"
+  - "Brandenburg"
 wikidata_id: "Q219996"
 latitude: 51.7522
 longitude: 11.4392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/400px-Aschersleben_Zoo_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/800px-Aschersleben_Zoo_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/1200px-Aschersleben_Zoo_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/1920px-Aschersleben_Zoo_Eingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/1920px-Aschersleben_Zoo_Eingang.JPG---
 
 ## Overview
 

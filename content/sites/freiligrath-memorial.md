@@ -4,13 +4,13 @@ site_name: "Freiligrath memorial"
 date: 2026-01-26
 draft: false
 description: "memorial in Rolandswerth, Germany"
-region: "Remagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Remagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1454545"
 latitude: 50.63922222
 longitude: 7.20330556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/400px-Freiligrath-Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/800px-Freiligrath-Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/1200px-Freiligrath-Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/1920px-Freiligrath-Denkmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/1920px-Freiligrath-Denkmal.JPG---
 
 ## Overview
 

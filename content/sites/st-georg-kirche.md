@@ -4,13 +4,13 @@ site_name: "St.-Georg-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wittmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wittmund"
+  - "Lower Saxony"
 wikidata_id: "Q1440383"
 latitude: 53.5807
 longitude: 7.76057
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ChurchEggelingen.jpg/400px-ChurchEggelingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ChurchEggelingen.jpg/800px-ChurchEggelingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ChurchEggelingen.jpg/1200px-ChurchEggelingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ChurchEggelingen.jpg/1920px-ChurchEggelingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ChurchEggelingen.jpg/1920px-ChurchEggelingen.jpg---
 
 ## Overview
 

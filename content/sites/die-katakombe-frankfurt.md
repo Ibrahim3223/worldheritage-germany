@@ -4,13 +4,13 @@ site_name: "Die Katakombe Frankfurt"
 date: 2026-01-26
 draft: false
 description: "Theater in der Innenstadt von Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1213769"
 latitude: 50.1157
 longitude: 8.69599
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/400px-Die_Katakombe_Frankfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/800px-Die_Katakombe_Frankfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/1200px-Die_Katakombe_Frankfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/1920px-Die_Katakombe_Frankfurt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/1920px-Die_Katakombe_Frankfurt.JPG---
 
 ## Overview
 

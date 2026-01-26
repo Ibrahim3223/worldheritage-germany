@@ -4,13 +4,13 @@ site_name: "Regional State Library for Regensburg"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q2324325"
 latitude: 49.01833333
 longitude: 12.09055556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/400px-Gesandtenstraße_13_Regensburg_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/800px-Gesandtenstraße_13_Regensburg_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/1200px-Gesandtenstraße_13_Regensburg_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/1920px-Gesandtenstraße_13_Regensburg_2013.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/1920px-Gesandtenstraße_13_Regensburg_2013.JPG---
 
 ## Overview
 

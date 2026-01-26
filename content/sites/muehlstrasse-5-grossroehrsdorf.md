@@ -4,13 +4,13 @@ site_name: "Mühlstraße 5, Großröhrsdorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument, museums building in Großröhrsdorf, Saxony, Germany"
-region: "Großröhrsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großröhrsdorf"
+  - "Saxony"
 wikidata_id: "Q49396766"
 latitude: 51.14608
 longitude: 14.02453
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/400px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/800px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/1200px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/1920px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/1920px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG---
 
 ## Overview 
 

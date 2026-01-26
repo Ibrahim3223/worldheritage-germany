@@ -4,13 +4,13 @@ site_name: "German Allotment Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1205770"
 latitude: 51.3394
 longitude: 12.3569
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg/400px-Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg/800px-Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg/1200px-Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg/1920px-Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg/1920px-Deutsches_Kleingärtnermuseum_Leipzig_2011.jpg---
 
 ## Overview
 

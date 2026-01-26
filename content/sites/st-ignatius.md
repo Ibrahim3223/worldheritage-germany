@@ -4,13 +4,13 @@ site_name: "St. Ignatius"
 date: 2026-01-26
 draft: false
 description: "church building in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1657371"
 latitude: 50.1189
 longitude: 8.67167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ignatiuskirche_Frankfurt_2009.jpg/400px-Ignatiuskirche_Frankfurt_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ignatiuskirche_Frankfurt_2009.jpg/800px-Ignatiuskirche_Frankfurt_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ignatiuskirche_Frankfurt_2009.jpg/1200px-Ignatiuskirche_Frankfurt_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ignatiuskirche_Frankfurt_2009.jpg/1920px-Ignatiuskirche_Frankfurt_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ignatiuskirche_Frankfurt_2009.jpg/1920px-Ignatiuskirche_Frankfurt_2009.jpg---
 
 ## Overview
 

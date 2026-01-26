@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Palais_Hardenberg.jpeg/400px-Palais_Hardenberg.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Palais_Hardenberg.jpeg/800px-Palais_Hardenberg.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Palais_Hardenberg.jpeg/1200px-Palais_Hardenberg.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Palais_Hardenberg.jpeg/1920px-Palais_Hardenberg.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Palais_Hardenberg.jpeg/1920px-Palais_Hardenberg.jpeg---
 
 ## Overview
 

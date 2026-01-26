@@ -4,19 +4,18 @@ site_name: "Neschen Coating GmbH"
 date: 2026-01-26
 draft: false
 description: "a German manufacturer of coated self-adhesive and digital print media and their processing machines"
-region: "Bückeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Bückeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1978171"
 latitude: 52.263611111
 longitude: 9.072222222
 images:
-  []
----
+  []---
 
 ## Overview
 

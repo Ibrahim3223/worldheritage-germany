@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ernst_Thaelmann_Denkmal_Stralsund.jpg/400px-Ernst_Thaelmann_Denkmal_Stralsund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ernst_Thaelmann_Denkmal_Stralsund.jpg/800px-Ernst_Thaelmann_Denkmal_Stralsund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ernst_Thaelmann_Denkmal_Stralsund.jpg/1200px-Ernst_Thaelmann_Denkmal_Stralsund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ernst_Thaelmann_Denkmal_Stralsund.jpg/1920px-Ernst_Thaelmann_Denkmal_Stralsund.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ernst_Thaelmann_Denkmal_Stralsund.jpg/1920px-Ernst_Thaelmann_Denkmal_Stralsund.jpg---
 
 ## Overview
 

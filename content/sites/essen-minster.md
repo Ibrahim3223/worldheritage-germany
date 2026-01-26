@@ -4,13 +4,13 @@ site_name: "Essen Minster"
 date: 2026-01-26
 draft: false
 description: "cathedral"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q135737"
 latitude: 51.456
 longitude: 7.014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/400px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/800px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1200px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1920px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1920px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg---
 
 ## Overview
 

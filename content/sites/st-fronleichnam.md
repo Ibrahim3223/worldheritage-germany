@@ -4,13 +4,13 @@ site_name: "St. Fronleichnam"
 date: 2026-01-26
 draft: false
 description: "church building in Homburg, Germany"
-region: "Homburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Homburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2318275"
 latitude: 49.3117
 longitude: 7.3415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Homburg_St._Fronleichnam_03.JPG/400px-Homburg_St._Fronleichnam_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Homburg_St._Fronleichnam_03.JPG/800px-Homburg_St._Fronleichnam_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Homburg_St._Fronleichnam_03.JPG/1200px-Homburg_St._Fronleichnam_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Homburg_St._Fronleichnam_03.JPG/1920px-Homburg_St._Fronleichnam_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Homburg_St._Fronleichnam_03.JPG/1920px-Homburg_St._Fronleichnam_03.JPG---
 
 ## Overview
 

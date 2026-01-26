@@ -4,13 +4,13 @@ site_name: "Das Kartoffelmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q832438"
 latitude: 48.12555556
 longitude: 11.60580556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kartoffelmuseum_Muenchen-1.jpg/400px-Kartoffelmuseum_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kartoffelmuseum_Muenchen-1.jpg/800px-Kartoffelmuseum_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kartoffelmuseum_Muenchen-1.jpg/1200px-Kartoffelmuseum_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kartoffelmuseum_Muenchen-1.jpg/1920px-Kartoffelmuseum_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kartoffelmuseum_Muenchen-1.jpg/1920px-Kartoffelmuseum_Muenchen-1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Itzehoe"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Itzehoe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Itzehoe"
+  - "Lower Saxony"
 wikidata_id: "Q1012570"
 latitude: 53.9212
 longitude: 9.51525
 images:
-  []
----
+  []---
 
 ## Overview
 

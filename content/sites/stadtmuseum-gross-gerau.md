@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Gross-Gerau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Groß-Gerau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Groß-Gerau"
+  - "Hesse"
 wikidata_id: "Q18169598"
 latitude: 49.91873
 longitude: 8.4843
 images:
-  []
----
+  []---
 
 ## Overview
 

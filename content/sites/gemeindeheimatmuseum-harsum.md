@@ -4,19 +4,18 @@ site_name: "Gemeindeheimatmuseum Harsum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Harsum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Harsum"
+  - "Lower Saxony"
 wikidata_id: "Q76636177"
 latitude: 52.206999
 longitude: 10.011529
 images:
-  []
----
+  []---
 
 ## Overview
 

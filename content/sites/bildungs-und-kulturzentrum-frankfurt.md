@@ -4,13 +4,13 @@ site_name: "Bildungs- und Kulturzentrum Frankfurt"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q861325"
 latitude: 50.1045
 longitude: 8.54259
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/400px-Bikuz_Dezember_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/800px-Bikuz_Dezember_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/1200px-Bikuz_Dezember_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/1920px-Bikuz_Dezember_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/1920px-Bikuz_Dezember_2009.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Staatliches Museum Schwerin"
 date: 2026-01-26
 draft: false
 description: "art gallery and museum in Schwerin, Mecklenburg-Vorpommern, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q2324618"
 latitude: 53.6264
 longitude: 11.4183
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Museum_Schwerin2.jpg/400px-Museum_Schwerin2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Museum_Schwerin2.jpg/800px-Museum_Schwerin2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Museum_Schwerin2.jpg/1200px-Museum_Schwerin2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Museum_Schwerin2.jpg/1920px-Museum_Schwerin2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Museum_Schwerin2.jpg/1920px-Museum_Schwerin2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Festung Peitz"
 date: 2026-01-26
 draft: false
 description: "fortress"
-region: "Peitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Peitz"
+  - "Brandenburg"
 wikidata_id: "Q375841"
 latitude: 51.8574
 longitude: 14.4094
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/400px-Burg_Peitz_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/800px-Burg_Peitz_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/1200px-Burg_Peitz_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/1920px-Burg_Peitz_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/1920px-Burg_Peitz_2013.jpg---
 
 ## Overview
 

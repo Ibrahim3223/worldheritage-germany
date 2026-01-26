@@ -4,13 +4,13 @@ site_name: "Trinity Church"
 date: 2026-01-26
 draft: false
 description: "church in Iserlohn"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1621388"
 latitude: 51.376
 longitude: 7.71997
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/400px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/800px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/1200px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/1920px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/1920px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG---
 
 ## Overview
 

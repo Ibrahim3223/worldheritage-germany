@@ -4,19 +4,18 @@ site_name: "Drömlingsee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Stolpe"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Stolpe"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1261710"
 latitude: 54.1486
 longitude: 10.2545
 images:
-  []
----
+  []---
 
 ## Overview
 

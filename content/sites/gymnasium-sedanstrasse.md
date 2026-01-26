@@ -4,13 +4,13 @@ site_name: "Gymnasium Sedanstraße"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1558227"
 latitude: 51.272
 longitude: 7.19626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/400px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/800px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/1200px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/1920px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/1920px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg---
 
 ## Overview
 

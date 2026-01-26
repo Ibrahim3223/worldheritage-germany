@@ -4,13 +4,13 @@ site_name: "Großes Militärwaisenhaus"
 date: 2026-01-26
 draft: false
 description: "building group in Potsdam, Germany, former a large military orphanage"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1549185"
 latitude: 52.396325
 longitude: 13.051589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/400px-Potsdam_Großes_Militärwaisenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/800px-Potsdam_Großes_Militärwaisenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1200px-Potsdam_Großes_Militärwaisenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1920px-Potsdam_Großes_Militärwaisenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1920px-Potsdam_Großes_Militärwaisenhaus.jpg---
 
 # Großes Militärwaisenhaus: A Historical Architectural Ensemble in Potsdam
 

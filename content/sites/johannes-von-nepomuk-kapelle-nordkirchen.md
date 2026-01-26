@@ -4,13 +4,13 @@ site_name: "Johannes-von-Nepomuk-Kapelle, Nordkirchen"
 date: 2026-01-26
 draft: false
 description: "church building in Nordkirchen, Germany"
-region: "Nordkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nordkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q1697139"
 latitude: 51.7369
 longitude: 7.52805
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/400px-Nordkirchen-Kapelle-0003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/800px-Nordkirchen-Kapelle-0003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1200px-Nordkirchen-Kapelle-0003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1920px-Nordkirchen-Kapelle-0003.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1920px-Nordkirchen-Kapelle-0003.JPG---
 
 ## Overview
 

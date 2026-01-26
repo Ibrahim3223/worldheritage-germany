@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über die Eisenbahn Lärchenbergweg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Dürrhennersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Dürrhennersdorf"
+  - "Saxony"
 wikidata_id: "Q49428757"
 latitude: 51.046605898
 longitude: 14.605536526
 images:
-  []
----
+  []---
 
 ## Overview
 

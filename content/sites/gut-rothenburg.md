@@ -4,19 +4,18 @@ site_name: "Gut Rothenburg"
 date: 2026-01-26
 draft: false
 description: "manor house in Warburg, Germany"
-region: "Warburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Warburg"
+  - "Hesse"
 wikidata_id: "Q15111970"
 latitude: 51.498449
 longitude: 9.221025
 images:
-  []
----
+  []---
 
 ## Overview
 

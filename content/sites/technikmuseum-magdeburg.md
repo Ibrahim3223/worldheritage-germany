@@ -4,13 +4,13 @@ site_name: "Technikmuseum Magdeburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1356357"
 latitude: 52.1041
 longitude: 11.626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Technikmuseum_Magdeburg_2015.jpg/400px-Technikmuseum_Magdeburg_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Technikmuseum_Magdeburg_2015.jpg/800px-Technikmuseum_Magdeburg_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Technikmuseum_Magdeburg_2015.jpg/1200px-Technikmuseum_Magdeburg_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Technikmuseum_Magdeburg_2015.jpg/1920px-Technikmuseum_Magdeburg_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Technikmuseum_Magdeburg_2015.jpg/1920px-Technikmuseum_Magdeburg_2015.jpg---
 
 ## Overview
 

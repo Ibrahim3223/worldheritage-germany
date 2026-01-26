@@ -4,13 +4,13 @@ site_name: "Beethoven-Denkmal Rheinaue"
 date: 2026-01-26
 draft: false
 description: "monument in Bad Godesberg, Germany"
-region: "Bad Godesberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Godesberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q814122"
 latitude: 50.7111
 longitude: 7.14082
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg/400px-2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg/800px-2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg/1200px-2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg/1920px-2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg/1920px-2013-09-02_Beethoven-Denkmal_nördlich_des_Restaurants_Rheinaue,_Ludwig-Erhard-Allee_20,_Bonn-Hochkreuz_IMG_0878.jpg---
 
 ## Overview
 

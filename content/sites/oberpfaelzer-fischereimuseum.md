@@ -4,19 +4,18 @@ site_name: "Oberpfälzer Fischereimuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tirschenreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tirschenreuth"
+  - "Bavaria"
 wikidata_id: "Q2010605"
 latitude: 49.8792
 longitude: 12.3387
 images:
-  []
----
+  []---
 
 ## Overview
 

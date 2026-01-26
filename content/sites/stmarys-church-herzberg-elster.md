@@ -4,13 +4,13 @@ site_name: "St.Mary's church Herzberg (Elster)"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Herzberg (Elster)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Herzberg (Elster)"
+  - "Brandenburg"
 wikidata_id: "Q1492884"
 latitude: 51.691722222
 longitude: 13.235472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/400px-Herzberg_Elster.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/800px-Herzberg_Elster.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/1200px-Herzberg_Elster.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/1920px-Herzberg_Elster.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/1920px-Herzberg_Elster.JPG---
 
 ## Overview
 

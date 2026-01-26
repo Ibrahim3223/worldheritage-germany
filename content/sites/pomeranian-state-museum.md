@@ -4,13 +4,13 @@ site_name: "Pomeranian State Museum"
 date: 2026-01-26
 draft: false
 description: "public museum primarily dedicated to Pomeranian history and arts"
-region: "Greifswald"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Greifswald"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1639759"
 latitude: 54.0947
 longitude: 13.3825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pommersches_Landesmuseum.jpg/400px-Pommersches_Landesmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pommersches_Landesmuseum.jpg/800px-Pommersches_Landesmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pommersches_Landesmuseum.jpg/1200px-Pommersches_Landesmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pommersches_Landesmuseum.jpg/1920px-Pommersches_Landesmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pommersches_Landesmuseum.jpg/1920px-Pommersches_Landesmuseum.jpg---
 
 ## Overview 
 

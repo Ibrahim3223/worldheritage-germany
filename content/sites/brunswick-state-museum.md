@@ -4,13 +4,13 @@ site_name: "Brunswick State Museum"
 date: 2026-01-26
 draft: false
 description: "history museum in Braunschweig, Germany focused on regional history"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q902065"
 latitude: 52.2647
 longitude: 10.5231
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/400px-Braunschweig,_Landesmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/800px-Braunschweig,_Landesmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/1200px-Braunschweig,_Landesmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/1920px-Braunschweig,_Landesmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/1920px-Braunschweig,_Landesmuseum.jpg---
 
 ## Overview
 

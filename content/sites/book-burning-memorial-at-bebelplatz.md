@@ -4,13 +4,13 @@ site_name: "book burning memorial at Bebelplatz"
 date: 2026-01-26
 draft: false
 description: "memorial at the Bebelplatz in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q18191705"
 latitude: 52.5165158
 longitude: 13.3939369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/400px-Denkmal_der_Buecherverbrennung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/800px-Denkmal_der_Buecherverbrennung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/1200px-Denkmal_der_Buecherverbrennung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/1920px-Denkmal_der_Buecherverbrennung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/1920px-Denkmal_der_Buecherverbrennung.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St.-Katharinenkirche"
 date: 2026-01-26
 draft: false
 description: "church in Trent, Isle of Rügen"
-region: "Trent"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Trent"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1537943"
 latitude: 54.5209
 longitude: 13.2573
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Katharinen_Kirche_Trent_außen_2.JPG/400px-St._Katharinen_Kirche_Trent_außen_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Katharinen_Kirche_Trent_außen_2.JPG/800px-St._Katharinen_Kirche_Trent_außen_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Katharinen_Kirche_Trent_außen_2.JPG/1200px-St._Katharinen_Kirche_Trent_außen_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Katharinen_Kirche_Trent_außen_2.JPG/1920px-St._Katharinen_Kirche_Trent_außen_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Katharinen_Kirche_Trent_außen_2.JPG/1920px-St._Katharinen_Kirche_Trent_außen_2.JPG---
 
 ## Overview
 

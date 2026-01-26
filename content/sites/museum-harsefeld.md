@@ -4,19 +4,18 @@ site_name: "Museum Harsefeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Harsefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Harsefeld"
+  - "Lower Saxony"
 wikidata_id: "Q76636175"
 latitude: 53.453589
 longitude: 9.500156
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schiller memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q2235714"
 latitude: 50.0831
 longitude: 8.24593
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/400px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/800px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/1200px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/1920px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/1920px-Schillerdenkmal_in_Wiesbaden_20080406.jpg---
 
 ## Overview
 

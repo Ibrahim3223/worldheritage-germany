@@ -4,13 +4,13 @@ site_name: "Merklinghauser Kapelle"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Hallenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Hallenberg"
+  - "Hesse"
 wikidata_id: "Q1921821"
 latitude: 51.1067
 longitude: 8.60833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/400px-Hallenberg-Unterkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/800px-Hallenberg-Unterkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/1200px-Hallenberg-Unterkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/1920px-Hallenberg-Unterkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/1920px-Hallenberg-Unterkirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Frankfurt am Main"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q319334"
 latitude: 50.1272
 longitude: 8.65833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/400px-Botanischer-garten-ffm004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/800px-Botanischer-garten-ffm004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/1200px-Botanischer-garten-ffm004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/1920px-Botanischer-garten-ffm004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/1920px-Botanischer-garten-ffm004.jpg---
 
 ## Overview
 

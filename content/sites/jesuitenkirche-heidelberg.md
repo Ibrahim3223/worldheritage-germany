@@ -4,13 +4,13 @@ site_name: "Jesuitenkirche (Heidelberg)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q884093"
 latitude: 49.4111
 longitude: 8.70778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/400px-Jesuitenkirche_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/800px-Jesuitenkirche_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1200px-Jesuitenkirche_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1920px-Jesuitenkirche_Heidelberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1920px-Jesuitenkirche_Heidelberg.jpg---
 
 ## Overview
 

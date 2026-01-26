@@ -4,13 +4,13 @@ site_name: "Rathaus Münchingen"
 date: 2026-01-26
 draft: false
 description: "Rathaus Münchingen (Korntal-Münchingen)"
-region: "Korntal-Münchingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Korntal-Münchingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q124341668"
 latitude: 48.85349
 longitude: 9.08971
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Münchingen_Rathaus_Eingang.jpg/400px-Münchingen_Rathaus_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Münchingen_Rathaus_Eingang.jpg/800px-Münchingen_Rathaus_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Münchingen_Rathaus_Eingang.jpg/1200px-Münchingen_Rathaus_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Münchingen_Rathaus_Eingang.jpg/1920px-Münchingen_Rathaus_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Münchingen_Rathaus_Eingang.jpg/1920px-Münchingen_Rathaus_Eingang.jpg---
 
 ## Overview
 

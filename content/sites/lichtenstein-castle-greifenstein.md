@@ -4,13 +4,13 @@ site_name: "Lichtenstein Castle (Greifenstein)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Holzhausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Holzhausen"
+  - "Hesse"
 wikidata_id: "Q1012939"
 latitude: 50.6096
 longitude: 8.27438
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Holzhausen_-_Lichtenstein.jpg/400px-Holzhausen_-_Lichtenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Holzhausen_-_Lichtenstein.jpg/800px-Holzhausen_-_Lichtenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Holzhausen_-_Lichtenstein.jpg/1200px-Holzhausen_-_Lichtenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Holzhausen_-_Lichtenstein.jpg/1920px-Holzhausen_-_Lichtenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Holzhausen_-_Lichtenstein.jpg/1920px-Holzhausen_-_Lichtenstein.jpg---
 
 ## Overview
 

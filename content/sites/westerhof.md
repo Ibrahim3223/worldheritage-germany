@@ -4,13 +4,13 @@ site_name: "Westerhof"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Landgerichtgebäude in Schleswig-Holstein"
-region: "Itzehoe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Itzehoe"
+  - "Lower Saxony"
 wikidata_id: "Q111366905"
 latitude: 53.9227
 longitude: 9.51365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Itzehoe_Westerhof_April-2009_SL270958.JPG/400px-Itzehoe_Westerhof_April-2009_SL270958.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Itzehoe_Westerhof_April-2009_SL270958.JPG/800px-Itzehoe_Westerhof_April-2009_SL270958.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Itzehoe_Westerhof_April-2009_SL270958.JPG/1200px-Itzehoe_Westerhof_April-2009_SL270958.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Itzehoe_Westerhof_April-2009_SL270958.JPG/1920px-Itzehoe_Westerhof_April-2009_SL270958.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Itzehoe_Westerhof_April-2009_SL270958.JPG/1920px-Itzehoe_Westerhof_April-2009_SL270958.JPG---
 
 ## Overview
 

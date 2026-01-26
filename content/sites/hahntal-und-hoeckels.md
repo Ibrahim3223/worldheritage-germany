@@ -4,13 +4,13 @@ site_name: "Hahntal und Höckels"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Jerxheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Jerxheim"
+  - "Lower Saxony"
 wikidata_id: "Q999254"
 latitude: 52.0931
 longitude: 10.8383
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/400px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/800px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/1200px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/1920px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/1920px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg---
 
 ## Overview
 

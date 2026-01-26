@@ -4,19 +4,18 @@ site_name: "Kunsthalle Gevelsberg"
 date: 2026-01-26
 draft: false
 description: "Kunstmuseum in Gevelsberg"
-region: "Gevelsberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Gevelsberg"
+  - "Lower Saxony"
 wikidata_id: "Q110764135"
 latitude: 51.319795626
 longitude: 7.335320369
 images:
-  []
----
+  []---
 
 ## Overview
 

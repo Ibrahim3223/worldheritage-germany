@@ -4,13 +4,13 @@ site_name: "Fürstenried Palace"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q567568"
 latitude: 48.094361111
 longitude: 11.485666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/400px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/800px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/1920px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/1920px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg---
 
 ## Overview
 

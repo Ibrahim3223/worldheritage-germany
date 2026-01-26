@@ -4,19 +4,18 @@ site_name: "Niederebersdorfer Heimat- und Archivstuben"
 date: 2026-01-26
 draft: false
 description: "former museum in Tutzing, Bavaria, Germany"
-region: "Tutzing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tutzing"
+  - "Bavaria"
 wikidata_id: "Q76629616"
 latitude: 47.911919444
 longitude: 11.280058333
 images:
-  []
----
+  []---
 
 ## Overview
 

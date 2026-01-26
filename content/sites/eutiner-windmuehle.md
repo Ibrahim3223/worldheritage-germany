@@ -4,13 +4,13 @@ site_name: "Eutiner Windmühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in erhöhten Lage in Eutin, eines der charakteristischen Gebäude in Eutin, fünfstöckige Galerieholländermühle mit einem aus Backstein erricht"
-region: "Eutin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Eutin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1378933"
 latitude: 54.1364
 longitude: 10.6102
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eutin_-_Eutiner-Windmuehle.JPG/400px-Eutin_-_Eutiner-Windmuehle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eutin_-_Eutiner-Windmuehle.JPG/800px-Eutin_-_Eutiner-Windmuehle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eutin_-_Eutiner-Windmuehle.JPG/1200px-Eutin_-_Eutiner-Windmuehle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eutin_-_Eutiner-Windmuehle.JPG/1920px-Eutin_-_Eutiner-Windmuehle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eutin_-_Eutiner-Windmuehle.JPG/1920px-Eutin_-_Eutiner-Windmuehle.JPG---
 
 ## Overview
 

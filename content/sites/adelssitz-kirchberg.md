@@ -4,13 +4,13 @@ site_name: "Adelssitz Kirchberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kirchberg an der Iller"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kirchberg an der Iller"
+  - "Baden-Württemberg"
 wikidata_id: "Q355543"
 latitude: 48.1322
 longitude: 10.0806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/400px-St._Martin_(Kirchberg_an_der_Iller).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/800px-St._Martin_(Kirchberg_an_der_Iller).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1200px-St._Martin_(Kirchberg_an_der_Iller).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1920px-St._Martin_(Kirchberg_an_der_Iller).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1920px-St._Martin_(Kirchberg_an_der_Iller).JPG---
 
 ## Overview
 

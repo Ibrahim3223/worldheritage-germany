@@ -4,13 +4,13 @@ site_name: "Statue of Friedrich Wilhelm von Seydlitz"
 date: 2026-01-26
 draft: false
 description: "Statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976982"
 latitude: 52.5117489
 longitude: 13.3846272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin,_Germany_(April_2016)_-_107.JPG/400px-Berlin,_Germany_(April_2016)_-_107.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin,_Germany_(April_2016)_-_107.JPG/800px-Berlin,_Germany_(April_2016)_-_107.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin,_Germany_(April_2016)_-_107.JPG/1200px-Berlin,_Germany_(April_2016)_-_107.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin,_Germany_(April_2016)_-_107.JPG/1920px-Berlin,_Germany_(April_2016)_-_107.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin,_Germany_(April_2016)_-_107.JPG/1920px-Berlin,_Germany_(April_2016)_-_107.JPG---
 
 ## Overview
 

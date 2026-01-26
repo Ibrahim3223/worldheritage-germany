@@ -4,13 +4,13 @@ site_name: "Bücherei des Judentums"
 date: 2026-01-26
 draft: false
 description: "Special library about judaism"
-region: "Buchen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Buchen"
+  - "Baden-Württemberg"
 wikidata_id: "Q104529195"
 latitude: 49.5224037
 longitude: 9.32456
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beginenkloesterle_Buchen_Odenwald-1.jpg/400px-Beginenkloesterle_Buchen_Odenwald-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beginenkloesterle_Buchen_Odenwald-1.jpg/800px-Beginenkloesterle_Buchen_Odenwald-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beginenkloesterle_Buchen_Odenwald-1.jpg/1200px-Beginenkloesterle_Buchen_Odenwald-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beginenkloesterle_Buchen_Odenwald-1.jpg/1920px-Beginenkloesterle_Buchen_Odenwald-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beginenkloesterle_Buchen_Odenwald-1.jpg/1920px-Beginenkloesterle_Buchen_Odenwald-1.jpg---
 
 ## Overview
 

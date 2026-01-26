@@ -4,13 +4,13 @@ site_name: "Lauenburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Thale"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Thale"
+  - "Lower Saxony"
 wikidata_id: "Q601954"
 latitude: 51.7271
 longitude: 11.0811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/400px-Lauenburg_(kleine)_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/800px-Lauenburg_(kleine)_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/1200px-Lauenburg_(kleine)_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/1920px-Lauenburg_(kleine)_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/1920px-Lauenburg_(kleine)_02.jpg---
 
 ## Overview
 

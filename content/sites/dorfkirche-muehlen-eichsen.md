@@ -4,13 +4,13 @@ site_name: "Dorfkirche Mühlen Eichsen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mühlen Eichsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mühlen Eichsen"
+  - "Lower Saxony"
 wikidata_id: "Q1244549"
 latitude: 53.7584
 longitude: 11.2521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/400px-Kirche_in_Mühlen_Eichsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/800px-Kirche_in_Mühlen_Eichsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1200px-Kirche_in_Mühlen_Eichsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1920px-Kirche_in_Mühlen_Eichsen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1920px-Kirche_in_Mühlen_Eichsen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ernst Schering Foundation"
 date: 2026-01-26
 draft: false
 description: "nonprofit organization in Berlin, Germany"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q2233684"
 latitude: 52.517699
 longitude: 13.387486
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/400px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/800px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/1200px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg---
 
 ## Overview
 

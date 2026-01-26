@@ -4,13 +4,13 @@ site_name: "Sequoiafarm Kaldenkirchen"
 date: 2026-01-26
 draft: false
 description: "garden in Germany"
-region: "Nettetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nettetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2271909"
 latitude: 51.309
 longitude: 6.17226
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sequoiafarm_Sequoia_sempervirens.jpg/400px-Sequoiafarm_Sequoia_sempervirens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sequoiafarm_Sequoia_sempervirens.jpg/800px-Sequoiafarm_Sequoia_sempervirens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sequoiafarm_Sequoia_sempervirens.jpg/1200px-Sequoiafarm_Sequoia_sempervirens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sequoiafarm_Sequoia_sempervirens.jpg/1920px-Sequoiafarm_Sequoia_sempervirens.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sequoiafarm_Sequoia_sempervirens.jpg/1920px-Sequoiafarm_Sequoia_sempervirens.jpg---
 
 ## Overview
 

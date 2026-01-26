@@ -4,13 +4,13 @@ site_name: "Brickyard Lage"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lage"
+  - "Lower Saxony"
 wikidata_id: "Q198593"
 latitude: 52.025
 longitude: 8.77861111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/400px-Ziegelei_Lage_Ansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/800px-Ziegelei_Lage_Ansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1200px-Ziegelei_Lage_Ansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1920px-Ziegelei_Lage_Ansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1920px-Ziegelei_Lage_Ansicht.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "old castle Hainewalde"
 date: 2026-01-26
 draft: false
 description: "old castle in Hainewalde"
-region: "Hainewalde"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Hainewalde"
+  - "Saxony"
 wikidata_id: "Q91240662"
 latitude: 50.91544
 longitude: 14.70917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/400px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/800px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/1200px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/1920px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/1920px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg---
 
 ## Overview
 

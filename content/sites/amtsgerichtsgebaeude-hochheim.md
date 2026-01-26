@@ -4,13 +4,13 @@ site_name: "Amtsgerichtsgebäude Hochheim"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Hochheim am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Hochheim am Main"
+  - "Hesse"
 wikidata_id: "Q116921214"
 latitude: 50.00919
 longitude: 8.351082
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hochheim,_Kirchstraße_19.jpg/400px-Hochheim,_Kirchstraße_19.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hochheim,_Kirchstraße_19.jpg/800px-Hochheim,_Kirchstraße_19.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hochheim,_Kirchstraße_19.jpg/1200px-Hochheim,_Kirchstraße_19.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hochheim,_Kirchstraße_19.jpg/1920px-Hochheim,_Kirchstraße_19.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hochheim,_Kirchstraße_19.jpg/1920px-Hochheim,_Kirchstraße_19.jpg---
 
 ## Overview
 

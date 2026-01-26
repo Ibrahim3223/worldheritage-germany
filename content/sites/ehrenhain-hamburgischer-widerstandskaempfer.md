@@ -4,13 +4,13 @@ site_name: "Ehrenhain Hamburgischer Widerstandskämpfer"
 date: 2026-01-26
 draft: false
 description: "Gräber- und Gedenkstätte auf dem Hamburger Friedhof Ohlsdorf"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q19278901"
 latitude: 53.618598
 longitude: 10.0357
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ehrenhain-widerstandskämpfer.JPG/400px-Ehrenhain-widerstandskämpfer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ehrenhain-widerstandskämpfer.JPG/800px-Ehrenhain-widerstandskämpfer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ehrenhain-widerstandskämpfer.JPG/1200px-Ehrenhain-widerstandskämpfer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ehrenhain-widerstandskämpfer.JPG/1920px-Ehrenhain-widerstandskämpfer.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ehrenhain-widerstandskämpfer.JPG/1920px-Ehrenhain-widerstandskämpfer.JPG---
 
 ## Overview
 

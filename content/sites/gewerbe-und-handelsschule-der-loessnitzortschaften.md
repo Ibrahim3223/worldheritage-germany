@@ -4,19 +4,18 @@ site_name: "Gewerbe- und Handelsschule der Lößnitzortschaften"
 date: 2026-01-26
 draft: false
 description: "school building in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1520413"
 latitude: 51.1047
 longitude: 13.6622
 images:
-  []
----
+  []---
 
 ## Overview
 

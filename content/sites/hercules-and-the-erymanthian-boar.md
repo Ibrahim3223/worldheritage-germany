@@ -4,13 +4,13 @@ site_name: "Hercules and the Erymanthian Boar"
 date: 2026-01-26
 draft: false
 description: "sculpture by Louis Tuaillon"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976704"
 latitude: 52.50446
 longitude: 13.3525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/400px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/800px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1200px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1920px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1920px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg---
 
 ## Overview
 

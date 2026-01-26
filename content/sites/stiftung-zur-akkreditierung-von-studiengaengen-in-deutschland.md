@@ -4,19 +4,18 @@ site_name: "Stiftung zur Akkreditierung von Studiengängen in Deutschland"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1521523"
 latitude: 50.7288719
 longitude: 7.1068875
 images:
-  []
----
+  []---
 
 ## Overview
 

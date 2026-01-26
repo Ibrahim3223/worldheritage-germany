@@ -4,13 +4,13 @@ site_name: "Sorbian Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q2303149"
 latitude: 51.1834
 longitude: 14.4193
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg/400px-Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg/800px-Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg/1200px-Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg/1920px-Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg/1920px-Bautzen_-_Ortenburg_-_Sorbisches_Museum_01_ies.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stiftskirche St. Servatius"
 date: 2026-01-26
 draft: false
 description: "church in Quedlinburg"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q882413"
 latitude: 51.7858
 longitude: 11.1368
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/400px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/800px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/1200px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/1920px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/1920px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg---
 
 ## Overview
 

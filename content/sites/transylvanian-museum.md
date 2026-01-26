@@ -4,13 +4,13 @@ site_name: "Transylvanian Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Gundelsheim"
-region: "Gundelsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gundelsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2282304"
 latitude: 49.2867
 longitude: 9.15645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/400px-Gundelsheim-schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/800px-Gundelsheim-schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/1200px-Gundelsheim-schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/1920px-Gundelsheim-schloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/1920px-Gundelsheim-schloss.JPG---
 
 ## Overview
 

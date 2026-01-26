@@ -4,13 +4,13 @@ site_name: "Presbyterkirche"
 date: 2026-01-26
 draft: false
 description: "demolished church building in Kalk, Germany"
-region: "Kalk"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kalk"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2108786"
 latitude: 50.9407
 longitude: 6.99988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Presbyterkirche1.jpg/400px-Presbyterkirche1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Presbyterkirche1.jpg/800px-Presbyterkirche1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Presbyterkirche1.jpg/1200px-Presbyterkirche1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Presbyterkirche1.jpg/1920px-Presbyterkirche1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Presbyterkirche1.jpg/1920px-Presbyterkirche1.jpg---
 
 ## Overview
 

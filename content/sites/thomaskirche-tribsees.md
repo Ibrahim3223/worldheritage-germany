@@ -4,13 +4,13 @@ site_name: "Thomaskirche Tribsees"
 date: 2026-01-26
 draft: false
 description: "church building in Tribsees, Germany"
-region: "Tribsees"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tribsees"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316770"
 latitude: 54.0954
 longitude: 12.7571
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/400px-Tribsees-Kirche-02-07-2008-223.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/800px-Tribsees-Kirche-02-07-2008-223.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/1200px-Tribsees-Kirche-02-07-2008-223.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/1920px-Tribsees-Kirche-02-07-2008-223.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/1920px-Tribsees-Kirche-02-07-2008-223.jpg---
 
 ## Overview
 

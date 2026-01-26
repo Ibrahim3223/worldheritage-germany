@@ -4,13 +4,13 @@ site_name: "Herrenhausen Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Hanover, Germany"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q48966707"
 latitude: 52.391388888
 longitude: 9.697222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/400px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/800px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1200px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1920px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1920px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg---
 
 ## Overview
 

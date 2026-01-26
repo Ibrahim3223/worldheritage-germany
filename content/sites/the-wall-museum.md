@@ -4,19 +4,18 @@ site_name: "The Wall Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q54453799"
 latitude: 52.5027
 longitude: 13.443133
 images:
-  []
----
+  []---
 
 ## Overview
 

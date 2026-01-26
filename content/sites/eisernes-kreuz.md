@@ -4,13 +4,13 @@ site_name: "Eisernes Kreuz"
 date: 2026-01-26
 draft: false
 description: "war memorial in Klötze, Germany"
-region: "Klötze"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Klötze"
+  - "Lower Saxony"
 wikidata_id: "Q1313579"
 latitude: 52.6196
 longitude: 11.2264
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/400px-Eisernes_Kreuz_Klötze.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/800px-Eisernes_Kreuz_Klötze.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/1200px-Eisernes_Kreuz_Klötze.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/1920px-Eisernes_Kreuz_Klötze.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/1920px-Eisernes_Kreuz_Klötze.JPG---
 
 ## Overview
 

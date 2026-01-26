@@ -4,13 +4,13 @@ site_name: "St. Katharina"
 date: 2026-01-26
 draft: false
 description: "church building in Eschwege, Hesse, Germany"
-region: "Eschwege"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eschwege"
+  - "Hesse"
 wikidata_id: "Q1981773"
 latitude: 51.1841
 longitude: 10.0587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/400px-Neustaedter_Kirche_Eschwege.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/800px-Neustaedter_Kirche_Eschwege.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/1200px-Neustaedter_Kirche_Eschwege.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/1920px-Neustaedter_Kirche_Eschwege.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/1920px-Neustaedter_Kirche_Eschwege.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Zaunburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Alten-Buseck"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Alten-Buseck"
+  - "Hesse"
 wikidata_id: "Q148575"
 latitude: 50.6222
 longitude: 8.75127
 images:
-  []
----
+  []---
 
 ## Overview
 

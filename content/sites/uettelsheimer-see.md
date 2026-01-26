@@ -4,13 +4,13 @@ site_name: "Uettelsheimer See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q1270587"
 latitude: 51.4636
 longitude: 6.68073
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg/400px-Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg/800px-Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg/1200px-Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg/1920px-Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg/1920px-Uettelsheimer_See_in_Duisburg,_Sommer_2000.jpg---
 
 ## Overview
 

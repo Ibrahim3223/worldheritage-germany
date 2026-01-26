@@ -4,19 +4,18 @@ site_name: "Durchlass-Bogenbrücke (Straße zwischen Rodewitz und Lauske)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hochkirch"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hochkirch"
+  - "Saxony"
 wikidata_id: "Q49408539"
 latitude: 51.171067
 longitude: 14.598431
 images:
-  []
----
+  []---
 
 ## Overview
 

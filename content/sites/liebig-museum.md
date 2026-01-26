@@ -4,13 +4,13 @@ site_name: "Liebig Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q1823963"
 latitude: 50.580839
 longitude: 8.666196
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/400px-Liebigmuseum.01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/800px-Liebigmuseum.01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/1200px-Liebigmuseum.01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/1920px-Liebigmuseum.01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/1920px-Liebigmuseum.01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Roman aqueduct Vussem"
 date: 2026-01-26
 draft: false
 description: "bridge"
-region: "Mechernich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Mechernich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q623426"
 latitude: 50.5648
 longitude: 6.6685
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/400px-Mechernich-Vussem_Aquäduktbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/800px-Mechernich-Vussem_Aquäduktbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/1200px-Mechernich-Vussem_Aquäduktbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/1920px-Mechernich-Vussem_Aquäduktbrücke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/1920px-Mechernich-Vussem_Aquäduktbrücke.jpg---
 
 ## Overview
 

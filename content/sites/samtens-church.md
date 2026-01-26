@@ -4,13 +4,13 @@ site_name: "Samtens Church"
 date: 2026-01-26
 draft: false
 description: "church building in Samtens, Germany"
-region: "Samtens"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Samtens"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742674"
 latitude: 54.3565
 longitude: 13.2954
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/400px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/800px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/1200px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/1920px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/1920px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg---
 
 ## Overview
 

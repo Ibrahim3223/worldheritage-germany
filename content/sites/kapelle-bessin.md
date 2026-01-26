@@ -4,13 +4,13 @@ site_name: "Kapelle Bessin"
 date: 2026-01-26
 draft: false
 description: "chapel in Rambin, Germany"
-region: "Rambin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Rambin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1728376"
 latitude: 54.3639
 longitude: 13.1483
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG/400px-Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG/800px-Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG/1200px-Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG/1920px-Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG/1920px-Bessin_(2013-07-13),_by_Klugschnacker_in_Wikipedia_(1).JPG---
 
 ## Overview
 

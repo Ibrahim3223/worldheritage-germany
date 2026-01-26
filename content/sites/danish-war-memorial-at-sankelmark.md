@@ -4,13 +4,13 @@ site_name: "Danish war memorial at Sankelmark"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Oeversee, Schleswig-Holstein"
-region: "Oeversee"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Oeversee"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58484525"
 latitude: 54.71448
 longitude: 9.4413
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/400px-20170429_130530_Oeversee_Sankelmark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/800px-20170429_130530_Oeversee_Sankelmark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/1200px-20170429_130530_Oeversee_Sankelmark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/1920px-20170429_130530_Oeversee_Sankelmark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/1920px-20170429_130530_Oeversee_Sankelmark.jpg---
 
 ## Overview
 

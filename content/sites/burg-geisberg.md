@@ -4,13 +4,13 @@ site_name: "Burg Geisberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Burrweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Burrweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011922"
 latitude: 49.2541
 longitude: 8.07476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/400px-Geisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/800px-Geisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/1200px-Geisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/1920px-Geisburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/1920px-Geisburg.jpg---
 
 ## Overview
 

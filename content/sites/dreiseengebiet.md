@@ -4,19 +4,18 @@ site_name: "Dreiseengebiet"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "District of Traunstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "District of Traunstein"
+  - "Bavaria"
 wikidata_id: "Q1258095"
 latitude: 47.6883
 longitude: 12.5769
 images:
-  []
----
+  []---
 
 ## Overview
 

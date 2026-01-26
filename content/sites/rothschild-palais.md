@@ -4,13 +4,13 @@ site_name: "Rothschild-Palais"
 date: 2026-01-26
 draft: false
 description: "building in Frankfurt am Main, Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q66018237"
 latitude: 50.107186111
 longitude: 8.674576944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg/400px-Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg/800px-Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg/1200px-Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg/1920px-Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg/1920px-Frankfurt_Am_Main-Untermainkai_14_von_Suedosten-20120315.jpg---
 
 ## Overview
 

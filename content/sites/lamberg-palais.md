@@ -4,19 +4,18 @@ site_name: "Lamberg-Palais"
 date: 2026-01-26
 draft: false
 description: "building in Passau, Lower Bavaria, Germany"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q1801343"
 latitude: 48.5745
 longitude: 13.463
 images:
-  []
----
+  []---
 
 ## Overview
 

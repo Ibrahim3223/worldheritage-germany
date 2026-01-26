@@ -4,13 +4,13 @@ site_name: "St. Peter's Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral of the Roman Catholic Diocese of Osnabrück"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q471633"
 latitude: 52.277569
 longitude: 8.044722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/400px-Osnabrück_Dom_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/800px-Osnabrück_Dom_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/1200px-Osnabrück_Dom_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/1920px-Osnabrück_Dom_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/1920px-Osnabrück_Dom_Westseite.jpg---
 
 ## Overview
 

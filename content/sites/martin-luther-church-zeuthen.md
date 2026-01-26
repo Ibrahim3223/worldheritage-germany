@@ -4,13 +4,13 @@ site_name: "Martin-Luther-Church Zeuthen"
 date: 2026-01-26
 draft: false
 description: "church building in Zeuthen, Germany"
-region: "Zeuthen"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zeuthen"
+  - "Berlin"
 wikidata_id: "Q1903240"
 latitude: 52.3526
 longitude: 13.6308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeuthen_Martin_Luther_Kirche.jpg/400px-Zeuthen_Martin_Luther_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeuthen_Martin_Luther_Kirche.jpg/800px-Zeuthen_Martin_Luther_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeuthen_Martin_Luther_Kirche.jpg/1200px-Zeuthen_Martin_Luther_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeuthen_Martin_Luther_Kirche.jpg/1920px-Zeuthen_Martin_Luther_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zeuthen_Martin_Luther_Kirche.jpg/1920px-Zeuthen_Martin_Luther_Kirche.jpg---
 
 ## Overview
 

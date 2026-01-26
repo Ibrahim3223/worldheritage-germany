@@ -4,13 +4,13 @@ site_name: "Pomertstein"
 date: 2026-01-26
 draft: false
 description: "monument in Lüdersdorf, Germany"
-region: "Lüdersdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Lüdersdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1587850"
 latitude: 53.8258
 longitude: 10.7782
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/400px-Pomertstein01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/800px-Pomertstein01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/1200px-Pomertstein01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/1920px-Pomertstein01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/1920px-Pomertstein01.JPG---
 
 ## Overview
 

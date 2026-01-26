@@ -4,13 +4,13 @@ site_name: "Brenner Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Bad Oldesloe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bad Oldesloe"
+  - "Lower Saxony"
 wikidata_id: "Q909271"
 latitude: 53.8181
 longitude: 10.3528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/400px-Moor_Trave_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/800px-Moor_Trave_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/1200px-Moor_Trave_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/1920px-Moor_Trave_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/1920px-Moor_Trave_1.jpg---
 
 ## Overview
 

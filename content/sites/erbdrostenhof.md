@@ -4,13 +4,13 @@ site_name: "Erbdrostenhof"
 date: 2026-01-26
 draft: false
 description: "palace"
-region: "Münster-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Münster-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1348242"
 latitude: 51.9609
 longitude: 7.63222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/400px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/800px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1200px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1920px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1920px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg---
 
 ## Overview
 

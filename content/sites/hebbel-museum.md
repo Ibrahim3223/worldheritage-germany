@@ -4,13 +4,13 @@ site_name: "Hebbel-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wesselburen"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wesselburen"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1592679"
 latitude: 54.2128
 longitude: 8.9239
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/400px-Hebbelmuseum_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/800px-Hebbelmuseum_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/1200px-Hebbelmuseum_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/1920px-Hebbelmuseum_Eingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/1920px-Hebbelmuseum_Eingang.JPG---
 
 ## Overview
 

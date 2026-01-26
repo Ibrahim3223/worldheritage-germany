@@ -4,19 +4,18 @@ site_name: "Burg Nieder-Waroldern"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nieder-Waroldern"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nieder-Waroldern"
+  - "Hesse"
 wikidata_id: "Q1013314"
 latitude: 51.3069
 longitude: 9.00795
 images:
-  []
----
+  []---
 
 ## Overview
 

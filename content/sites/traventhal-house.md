@@ -4,13 +4,13 @@ site_name: "Traventhal House"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Traventhal"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Traventhal"
+  - "Lower Saxony"
 wikidata_id: "Q831037"
 latitude: 53.8919
 longitude: 10.3175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/400px-Herrenhaus_auf_Traventhal_ArM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/800px-Herrenhaus_auf_Traventhal_ArM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/1200px-Herrenhaus_auf_Traventhal_ArM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/1920px-Herrenhaus_auf_Traventhal_ArM.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/1920px-Herrenhaus_auf_Traventhal_ArM.jpg---
 
 ## Overview
 

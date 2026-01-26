@@ -4,13 +4,13 @@ site_name: "St.-Matthias-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Sondershausen, Germany"
-region: "Sondershausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sondershausen"
+  - "Lower Saxony"
 wikidata_id: "Q1744873"
 latitude: 51.37810556
 longitude: 10.85143056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/400px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/800px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/1200px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/1920px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/1920px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ortskapelle Deutldorf"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Deutldorf"
-region: "Hohenkammer"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Hohenkammer"
+  - "Bavaria"
 wikidata_id: "Q1728363"
 latitude: 48.433
 longitude: 11.5471
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/400px-Ortskapelle_Deutldorf_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/800px-Ortskapelle_Deutldorf_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/1200px-Ortskapelle_Deutldorf_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/1920px-Ortskapelle_Deutldorf_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/1920px-Ortskapelle_Deutldorf_02.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brandenburger Tor (Altentreptow)"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Altentreptow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Altentreptow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q897906"
 latitude: 53.6904
 longitude: 13.2505
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Altentreptow_Neubrandenburger_Tor.jpg/400px-Altentreptow_Neubrandenburger_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Altentreptow_Neubrandenburger_Tor.jpg/800px-Altentreptow_Neubrandenburger_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Altentreptow_Neubrandenburger_Tor.jpg/1200px-Altentreptow_Neubrandenburger_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Altentreptow_Neubrandenburger_Tor.jpg/1920px-Altentreptow_Neubrandenburger_Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Altentreptow_Neubrandenburger_Tor.jpg/1920px-Altentreptow_Neubrandenburger_Tor.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gut Schede"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Herdecke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Herdecke"
+  - "Lower Saxony"
 wikidata_id: "Q1557031"
 latitude: 51.394794444
 longitude: 7.3833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Haus_Schede.jpg/400px-Haus_Schede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Haus_Schede.jpg/800px-Haus_Schede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Haus_Schede.jpg/1200px-Haus_Schede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Haus_Schede.jpg/1920px-Haus_Schede.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Haus_Schede.jpg/1920px-Haus_Schede.jpg---
 
 ## Overview
 

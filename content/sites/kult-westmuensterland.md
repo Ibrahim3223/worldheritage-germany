@@ -4,13 +4,13 @@ site_name: "Kult Westmünsterland"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Vreden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Vreden"
+  - "Lower Saxony"
 wikidata_id: "Q63110083"
 latitude: 52.034891
 longitude: 6.821588
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg/400px-20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg/800px-20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg/1200px-20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg/1920px-20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg/1920px-20171112_Kulturhistorisches_Zentrum_Westmünsterland,_Vreden_(01694).jpg---
 
 ## Overview
 

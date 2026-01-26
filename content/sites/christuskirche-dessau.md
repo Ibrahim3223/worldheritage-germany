@@ -4,13 +4,13 @@ site_name: "Christuskirche (Dessau)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1087291"
 latitude: 51.8485
 longitude: 12.2224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/400px-Christuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/800px-Christuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/1200px-Christuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/1920px-Christuskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/1920px-Christuskirche.jpg---
 
 ## Overview
 

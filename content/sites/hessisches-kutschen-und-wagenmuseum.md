@@ -4,19 +4,18 @@ site_name: "Hessisches Kutschen- und Wagenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lohfelden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lohfelden"
+  - "Hesse"
 wikidata_id: "Q76634030"
 latitude: 51.27497
 longitude: 9.544728
 images:
-  []
----
+  []---
 
 ## Overview 
 

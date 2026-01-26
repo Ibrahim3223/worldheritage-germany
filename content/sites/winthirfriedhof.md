@@ -4,13 +4,13 @@ site_name: "Winthirfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Neuhausen-Nymphenburg, Germany"
-region: "Neuhausen-Nymphenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Neuhausen-Nymphenburg"
+  - "Bavaria"
 wikidata_id: "Q1296166"
 latitude: 48.155
 longitude: 11.53
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/400px-Weg_im_Winthirfriedhof_(Totale).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/800px-Weg_im_Winthirfriedhof_(Totale).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/1200px-Weg_im_Winthirfriedhof_(Totale).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/1920px-Weg_im_Winthirfriedhof_(Totale).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/1920px-Weg_im_Winthirfriedhof_(Totale).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Hofmühle Immenstadt"
 date: 2026-01-26
 draft: false
 description: "museum in Immenstadt, Bavaria, Germany"
-region: "Immenstadt im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Immenstadt im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954444"
 latitude: 47.561810498
 longitude: 10.22144931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hofmühle,_Immenstadt_iA.jpg/400px-Hofmühle,_Immenstadt_iA.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hofmühle,_Immenstadt_iA.jpg/800px-Hofmühle,_Immenstadt_iA.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hofmühle,_Immenstadt_iA.jpg/1200px-Hofmühle,_Immenstadt_iA.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hofmühle,_Immenstadt_iA.jpg/1920px-Hofmühle,_Immenstadt_iA.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hofmühle,_Immenstadt_iA.jpg/1920px-Hofmühle,_Immenstadt_iA.jpg---
 
 ## Overview
 

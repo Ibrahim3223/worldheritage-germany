@@ -4,13 +4,13 @@ site_name: "Church of Our Saviour"
 date: 2026-01-26
 draft: false
 description: "church in Duisburg, Germany"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q316118"
 latitude: 51.435842
 longitude: 6.761117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/400px-Salvatorkirche_in_Duisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/800px-Salvatorkirche_in_Duisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/1200px-Salvatorkirche_in_Duisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/1920px-Salvatorkirche_in_Duisburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/1920px-Salvatorkirche_in_Duisburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Geierswalder See"
 date: 2026-01-26
 draft: false
 description: "lake in Senftenberg, Brandenburg, Germany"
-region: "Senftenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Senftenberg"
+  - "Brandenburg"
 wikidata_id: "Q145455"
 latitude: 51.5
 longitude: 14.1
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/400px-Geierswaldersee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/800px-Geierswaldersee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1200px-Geierswaldersee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1920px-Geierswaldersee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1920px-Geierswaldersee.JPG---
 
 ## Overview
 

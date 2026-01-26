@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DomMuseum-01-1.jpg/400px-DomMuseum-01-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DomMuseum-01-1.jpg/800px-DomMuseum-01-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DomMuseum-01-1.jpg/1200px-DomMuseum-01-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DomMuseum-01-1.jpg/1920px-DomMuseum-01-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DomMuseum-01-1.jpg/1920px-DomMuseum-01-1.jpg---
 
 ## Overview
 

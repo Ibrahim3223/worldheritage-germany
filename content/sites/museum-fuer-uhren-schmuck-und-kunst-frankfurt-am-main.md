@@ -4,13 +4,13 @@ site_name: "Museum für Uhren, Schmuck und Kunst Frankfurt am Main"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1555947"
 latitude: 50.1022
 longitude: 8.54762
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Glockenspielhaus_am_Dalbergplatz.jpg/400px-Glockenspielhaus_am_Dalbergplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Glockenspielhaus_am_Dalbergplatz.jpg/800px-Glockenspielhaus_am_Dalbergplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Glockenspielhaus_am_Dalbergplatz.jpg/1200px-Glockenspielhaus_am_Dalbergplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Glockenspielhaus_am_Dalbergplatz.jpg/1920px-Glockenspielhaus_am_Dalbergplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Glockenspielhaus_am_Dalbergplatz.jpg/1920px-Glockenspielhaus_am_Dalbergplatz.jpg---
 
 ## Overview
 

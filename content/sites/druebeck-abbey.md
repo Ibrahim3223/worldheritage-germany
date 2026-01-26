@@ -4,13 +4,13 @@ site_name: "Drübeck Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Ilsenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ilsenburg"
+  - "Lower Saxony"
 wikidata_id: "Q880025"
 latitude: 51.855833333
 longitude: 10.714722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/400px-Kloster_Drübeck_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/800px-Kloster_Drübeck_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/1200px-Kloster_Drübeck_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/1920px-Kloster_Drübeck_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/1920px-Kloster_Drübeck_2009.jpg---
 
 ## Overview
 

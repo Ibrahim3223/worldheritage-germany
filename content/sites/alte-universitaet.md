@@ -4,13 +4,13 @@ site_name: "Alte Universität"
 date: 2026-01-26
 draft: false
 description: "timber framed house"
-region: "Eppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q436342"
 latitude: 49.1374
 longitude: 8.91157
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eppingen-alteuni2009.jpg/400px-Eppingen-alteuni2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eppingen-alteuni2009.jpg/800px-Eppingen-alteuni2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eppingen-alteuni2009.jpg/1200px-Eppingen-alteuni2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eppingen-alteuni2009.jpg/1920px-Eppingen-alteuni2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eppingen-alteuni2009.jpg/1920px-Eppingen-alteuni2009.jpg---
 
 ## Overview
 

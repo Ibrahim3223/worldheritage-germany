@@ -4,13 +4,13 @@ site_name: "St. Mathilde"
 date: 2026-01-26
 draft: false
 description: "church building in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q2321405"
 latitude: 51.7917
 longitude: 11.1404
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/400px-Quedlinburg_Kirche_Mathilde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/800px-Quedlinburg_Kirche_Mathilde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/1200px-Quedlinburg_Kirche_Mathilde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/1920px-Quedlinburg_Kirche_Mathilde.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/1920px-Quedlinburg_Kirche_Mathilde.JPG---
 
 ## Overview
 

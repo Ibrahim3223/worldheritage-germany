@@ -4,19 +4,18 @@ site_name: "Theater der Altmark"
 date: 2026-01-26
 draft: false
 description: "theater in Stendal, Germany"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q1632054"
 latitude: 52.602749
 longitude: 11.861588
 images:
-  []
----
+  []---
 
 ## Overview
 

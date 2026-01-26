@@ -4,13 +4,13 @@ site_name: "Protestant Church"
 date: 2026-01-26
 draft: false
 description: "church in Bexbach, Germany"
-region: "Bexbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bexbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2113522"
 latitude: 49.349
 longitude: 7.26163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Protestantische_Kirche_Bexbach_2011.jpg/400px-Protestantische_Kirche_Bexbach_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Protestantische_Kirche_Bexbach_2011.jpg/800px-Protestantische_Kirche_Bexbach_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Protestantische_Kirche_Bexbach_2011.jpg/1200px-Protestantische_Kirche_Bexbach_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Protestantische_Kirche_Bexbach_2011.jpg/1920px-Protestantische_Kirche_Bexbach_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Protestantische_Kirche_Bexbach_2011.jpg/1920px-Protestantische_Kirche_Bexbach_2011.jpg---
 
 ## Overview
 

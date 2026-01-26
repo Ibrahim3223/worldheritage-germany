@@ -4,13 +4,13 @@ site_name: "Germania statue"
 date: 2026-01-26
 draft: false
 description: "Monument in Essen-Borbeck"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1514090"
 latitude: 51.4747
 longitude: 6.95209
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/400px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/800px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/1200px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/1920px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/1920px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Gödersheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nideggen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nideggen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012134"
 latitude: 50.6727
 longitude: 6.54725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/400px-Burg_Gödersheim_005-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/800px-Burg_Gödersheim_005-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/1200px-Burg_Gödersheim_005-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/1920px-Burg_Gödersheim_005-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/1920px-Burg_Gödersheim_005-.jpg---
 
 ## Overview
 

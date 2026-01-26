@@ -4,19 +4,18 @@ site_name: "Zeche Alstaden"
 date: 2026-01-26
 draft: false
 description: "former coal mine in Oberhausen, Germany"
-region: "Oberhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Oberhausen"
+  - "Lower Saxony"
 wikidata_id: "Q169624"
 latitude: 51.4569
 longitude: 6.82583
 images:
-  []
----
+  []---
 
 ## Overview
 

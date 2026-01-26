@@ -4,19 +4,18 @@ site_name: "Müglitztalbahn (Sachgesamtheit); Brücke Bärenhecke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Glashütte"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Glashütte"
+  - "Saxony"
 wikidata_id: "Q49441913"
 latitude: 50.857731728
 longitude: 13.797903409
 images:
-  []
----
+  []---
 
 ## Overview
 

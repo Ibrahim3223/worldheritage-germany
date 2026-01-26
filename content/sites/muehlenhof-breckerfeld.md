@@ -4,13 +4,13 @@ site_name: "Mühlenhof Breckerfeld"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Breckerfeld"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Breckerfeld"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q989755"
 latitude: 51.270877777
 longitude: 7.453622222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/400px-Mühle_Breckerfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/800px-Mühle_Breckerfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/1200px-Mühle_Breckerfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/1920px-Mühle_Breckerfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/1920px-Mühle_Breckerfeld.jpg---
 
 ## Overview
 

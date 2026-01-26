@@ -4,13 +4,13 @@ site_name: "St. Johanneskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Neubrandenburg, Germany"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q2319479"
 latitude: 53.5596
 longitude: 13.2606
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/400px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/800px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/1200px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/1920px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/1920px-NB-St.-Johanneskirche-02-06-2008-057b.jpg---
 
 ## Overview
 

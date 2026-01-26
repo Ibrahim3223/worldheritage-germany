@@ -4,13 +4,13 @@ site_name: "Ehemalige Flakbatterie bei Fischbach"
 date: 2026-01-26
 draft: false
 description: "former Flakstation in Germany"
-region: "Forsthof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Forsthof"
+  - "Bavaria"
 wikidata_id: "Q54391736"
 latitude: 49.419788888
 longitude: 11.1755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flakbetterie_Fischbach_06.jpg/400px-Flakbetterie_Fischbach_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flakbetterie_Fischbach_06.jpg/800px-Flakbetterie_Fischbach_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flakbetterie_Fischbach_06.jpg/1200px-Flakbetterie_Fischbach_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flakbetterie_Fischbach_06.jpg/1920px-Flakbetterie_Fischbach_06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flakbetterie_Fischbach_06.jpg/1920px-Flakbetterie_Fischbach_06.jpg---
 
 ## Overview
 

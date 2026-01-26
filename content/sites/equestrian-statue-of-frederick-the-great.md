@@ -4,13 +4,13 @@ site_name: "equestrian statue of Frederick the Great"
 date: 2026-01-26
 draft: false
 description: "monument in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q881611"
 latitude: 52.51722222
 longitude: 13.39277778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/400px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/800px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/1200px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/1920px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/1920px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg---
 
 ## Overview
 

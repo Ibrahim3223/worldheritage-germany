@@ -4,13 +4,13 @@ site_name: "Altes Komödienhaus (Aachen)"
 date: 2026-01-26
 draft: false
 description: "school building"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q439242"
 latitude: 50.7754
 longitude: 6.08389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altes_Komödienhaus_(Aachen).jpg/400px-Altes_Komödienhaus_(Aachen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altes_Komödienhaus_(Aachen).jpg/800px-Altes_Komödienhaus_(Aachen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altes_Komödienhaus_(Aachen).jpg/1200px-Altes_Komödienhaus_(Aachen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altes_Komödienhaus_(Aachen).jpg/1920px-Altes_Komödienhaus_(Aachen).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altes_Komödienhaus_(Aachen).jpg/1920px-Altes_Komödienhaus_(Aachen).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Münster Zoo"
 date: 2026-01-26
 draft: false
 description: "zoo in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q880487"
 latitude: 51.9464
 longitude: 7.59167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Allwetterzoo_--_2014_--_8243.jpg/400px-Münster,_Allwetterzoo_--_2014_--_8243.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Allwetterzoo_--_2014_--_8243.jpg/800px-Münster,_Allwetterzoo_--_2014_--_8243.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Allwetterzoo_--_2014_--_8243.jpg/1200px-Münster,_Allwetterzoo_--_2014_--_8243.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Allwetterzoo_--_2014_--_8243.jpg/1920px-Münster,_Allwetterzoo_--_2014_--_8243.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Allwetterzoo_--_2014_--_8243.jpg/1920px-Münster,_Allwetterzoo_--_2014_--_8243.jpg---
 
 ## Overview
 

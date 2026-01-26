@@ -4,13 +4,13 @@ site_name: "Römergrab Köln-Weiden"
 date: 2026-01-26
 draft: false
 description: "unterirdische Grabkammer in Köln"
-region: "Weiden"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weiden"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1611898"
 latitude: 50.9386
 longitude: 6.82448
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Römergrab_Köln-Weiden_-_sarcophagus_01.jpg/400px-Römergrab_Köln-Weiden_-_sarcophagus_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Römergrab_Köln-Weiden_-_sarcophagus_01.jpg/800px-Römergrab_Köln-Weiden_-_sarcophagus_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Römergrab_Köln-Weiden_-_sarcophagus_01.jpg/1200px-Römergrab_Köln-Weiden_-_sarcophagus_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Römergrab_Köln-Weiden_-_sarcophagus_01.jpg/1920px-Römergrab_Köln-Weiden_-_sarcophagus_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Römergrab_Köln-Weiden_-_sarcophagus_01.jpg/1920px-Römergrab_Köln-Weiden_-_sarcophagus_01.jpg---
 
 ## Overview
 

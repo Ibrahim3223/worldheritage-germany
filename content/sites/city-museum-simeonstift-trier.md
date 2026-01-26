@@ -4,13 +4,13 @@ site_name: "City Museum Simeonstift, Trier"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2327696"
 latitude: 49.7597
 longitude: 6.64333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/400px-Trier_BW_2013-09-30_11-19-47.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/800px-Trier_BW_2013-09-30_11-19-47.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/1200px-Trier_BW_2013-09-30_11-19-47.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/1920px-Trier_BW_2013-09-30_11-19-47.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/1920px-Trier_BW_2013-09-30_11-19-47.JPG---
 
 ## Overview
 

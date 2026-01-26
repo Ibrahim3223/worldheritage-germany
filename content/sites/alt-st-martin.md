@@ -4,13 +4,13 @@ site_name: "Alt St. Martin"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Bilk, Germany"
-region: "Bilk"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bilk"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q433292"
 latitude: 51.2074
 longitude: 6.76525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/400px-Düsseldorf_Alt_St_Martin2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/800px-Düsseldorf_Alt_St_Martin2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/1200px-Düsseldorf_Alt_St_Martin2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/1920px-Düsseldorf_Alt_St_Martin2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/1920px-Düsseldorf_Alt_St_Martin2.JPG---
 
 ## Overview
 

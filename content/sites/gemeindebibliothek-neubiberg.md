@@ -4,19 +4,18 @@ site_name: "Gemeindebibliothek Neubiberg"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Neubiberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Neubiberg"
+  - "Bavaria"
 wikidata_id: "Q28729485"
 latitude: 48.07711
 longitude: 11.66257
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mineralogisches Museum Würzburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1636615"
 latitude: 49.7824
 longitude: 9.9702
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/400px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/800px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/1200px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/1920px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/1920px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG---
 
 ## Overview
 

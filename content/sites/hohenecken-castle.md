@@ -4,13 +4,13 @@ site_name: "Hohenecken Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hohenecken"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hohenecken"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012400"
 latitude: 49.4147
 longitude: 7.70111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/400px-Hohenecken2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/800px-Hohenecken2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1200px-Hohenecken2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1920px-Hohenecken2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1920px-Hohenecken2011.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lotharinger Chorfrauenkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1871062"
 latitude: 51.9653
 longitude: 7.63271
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/400px-MuensterLotharingerChorfrauenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/800px-MuensterLotharingerChorfrauenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1200px-MuensterLotharingerChorfrauenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1920px-MuensterLotharingerChorfrauenkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1920px-MuensterLotharingerChorfrauenkirche.jpg---
 
 ## Overview
 

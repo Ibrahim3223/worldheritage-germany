@@ -4,19 +4,18 @@ site_name: "Dietersbachtal"
 date: 2026-01-26
 draft: false
 description: "valley south-east of Oberstdorf in the Allgäu Alps in Bavaria, Germany"
-region: "Oberstdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Oberstdorf"
+  - "Bavaria"
 wikidata_id: "Q1223107"
 latitude: 47.3667
 longitude: 10.3208
 images:
-  []
----
+  []---
 
 ## Overview
 

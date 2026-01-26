@@ -4,13 +4,13 @@ site_name: "Güstrow Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Güstrow, Germany"
-region: "Güstrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Güstrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2241369"
 latitude: 53.79084
 longitude: 12.17706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/400px-GüstrowSchloss&Park.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/800px-GüstrowSchloss&Park.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/1200px-GüstrowSchloss&Park.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/1920px-GüstrowSchloss&Park.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/1920px-GüstrowSchloss&Park.JPG---
 
 ## Overview
 

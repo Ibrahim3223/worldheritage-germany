@@ -4,13 +4,13 @@ site_name: "Herrgottskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Holzheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Holzheim"
+  - "Bavaria"
 wikidata_id: "Q1614187"
 latitude: 48.5124
 longitude: 10.5076
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/400px-Weisingen_Herrgottskapelle_1700.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/800px-Weisingen_Herrgottskapelle_1700.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/1200px-Weisingen_Herrgottskapelle_1700.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/1920px-Weisingen_Herrgottskapelle_1700.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/1920px-Weisingen_Herrgottskapelle_1700.JPG---
 
 ## Overview
 

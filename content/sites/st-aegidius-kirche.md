@@ -4,13 +4,13 @@ site_name: "St.-Ägidius-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Höpfingen, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Höpfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Höpfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2316804"
 latitude: 49.6016
 longitude: 9.43016
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hoepfingen-St-Aegidius-Kirche-02.jpg/400px-Hoepfingen-St-Aegidius-Kirche-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hoepfingen-St-Aegidius-Kirche-02.jpg/800px-Hoepfingen-St-Aegidius-Kirche-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hoepfingen-St-Aegidius-Kirche-02.jpg/1200px-Hoepfingen-St-Aegidius-Kirche-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hoepfingen-St-Aegidius-Kirche-02.jpg/1920px-Hoepfingen-St-Aegidius-Kirche-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hoepfingen-St-Aegidius-Kirche-02.jpg/1920px-Hoepfingen-St-Aegidius-Kirche-02.jpg---
 
 ## Overview 
 

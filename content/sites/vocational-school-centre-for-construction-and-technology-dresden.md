@@ -4,13 +4,13 @@ site_name: "Vocational School Centre for Construction and Technology Dresden"
 date: 2026-01-26
 draft: false
 description: "vocational school in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q828757"
 latitude: 51.047869
 longitude: 13.755387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BSZEingang.jpg/400px-BSZEingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BSZEingang.jpg/800px-BSZEingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BSZEingang.jpg/1200px-BSZEingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BSZEingang.jpg/1920px-BSZEingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BSZEingang.jpg/1920px-BSZEingang.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Celtis Gymnasium"
 date: 2026-01-26
 draft: false
 description: "secondary school in Schweinfurt, Germany"
-region: "Schweinfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Schweinfurt"
+  - "Bavaria"
 wikidata_id: "Q1053227"
 latitude: 50.0472
 longitude: 10.2277
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schweinfurt,_Celtis_Gymnasium-001.jpg/400px-Schweinfurt,_Celtis_Gymnasium-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schweinfurt,_Celtis_Gymnasium-001.jpg/800px-Schweinfurt,_Celtis_Gymnasium-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schweinfurt,_Celtis_Gymnasium-001.jpg/1200px-Schweinfurt,_Celtis_Gymnasium-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schweinfurt,_Celtis_Gymnasium-001.jpg/1920px-Schweinfurt,_Celtis_Gymnasium-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schweinfurt,_Celtis_Gymnasium-001.jpg/1920px-Schweinfurt,_Celtis_Gymnasium-001.jpg---
 
 ## Overview
 

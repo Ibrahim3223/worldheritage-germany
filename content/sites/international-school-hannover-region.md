@@ -4,13 +4,13 @@ site_name: "International School Hannover Region"
 date: 2026-01-26
 draft: false
 description: "International School in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1666868"
 latitude: 52.3636
 longitude: 9.7325
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/400px-International_School_Hannover_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/800px-International_School_Hannover_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1200px-International_School_Hannover_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1920px-International_School_Hannover_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1920px-International_School_Hannover_Front.jpg---
 
 ## Overview
 

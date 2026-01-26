@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum Scherzenmühle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Weidenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weidenberg"
+  - "Bavaria"
 wikidata_id: "Q54554761"
 latitude: 49.93779
 longitude: 11.72521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/400px-Weidenberg_Scherzenmühle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/800px-Weidenberg_Scherzenmühle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/1200px-Weidenberg_Scherzenmühle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/1920px-Weidenberg_Scherzenmühle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/1920px-Weidenberg_Scherzenmühle.JPG---
 
 ## Overview
 

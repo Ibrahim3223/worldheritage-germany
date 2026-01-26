@@ -4,19 +4,18 @@ site_name: "Museum Niesky"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Niesky"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Niesky"
+  - "Saxony"
 wikidata_id: "Q58876658"
 latitude: 51.29299
 longitude: 14.82353
 images:
-  []
----
+  []---
 
 ## Overview
 

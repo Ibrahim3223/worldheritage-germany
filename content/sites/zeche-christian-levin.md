@@ -4,19 +4,18 @@ site_name: "Zeche Christian Levin"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169726"
 latitude: 51.496
 longitude: 6.94321
 images:
-  []
----
+  []---
 
 ## Overview
 

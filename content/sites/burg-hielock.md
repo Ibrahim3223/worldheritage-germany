@@ -4,13 +4,13 @@ site_name: "Burg Hielock"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Trochtelfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Trochtelfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012334"
 latitude: 48.2867
 longitude: 9.23168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hielock.jpg/400px-Hielock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hielock.jpg/800px-Hielock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hielock.jpg/1200px-Hielock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hielock.jpg/1920px-Hielock.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hielock.jpg/1920px-Hielock.jpg---
 
 ## Overview
 

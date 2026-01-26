@@ -4,13 +4,13 @@ site_name: "Ensemble Fehrbelliner Straße 47–49"
 date: 2026-01-26
 draft: false
 description: "Gebäude-Ensemble im Berliner Ortsteil Mitte"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q15110361"
 latitude: 52.534123
 longitude: 13.400152
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg/400px-Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg/800px-Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg/1200px-Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg/1920px-Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg/1920px-Berlin,_Mitte,_Fehrbelliner_Strasse_49,_Mietshaus.jpg---
 
 ## Overview
 

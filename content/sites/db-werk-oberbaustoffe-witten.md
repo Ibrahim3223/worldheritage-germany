@@ -4,13 +4,13 @@ site_name: "DB Werk Oberbaustoffe Witten"
 date: 2026-01-26
 draft: false
 description: "factory in Witten, Germany"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q2554868"
 latitude: 51.4441
 longitude: 7.3269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Weichenwerk_Witten_IMGP0610_wp.jpg/400px-Weichenwerk_Witten_IMGP0610_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Weichenwerk_Witten_IMGP0610_wp.jpg/800px-Weichenwerk_Witten_IMGP0610_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Weichenwerk_Witten_IMGP0610_wp.jpg/1200px-Weichenwerk_Witten_IMGP0610_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Weichenwerk_Witten_IMGP0610_wp.jpg/1920px-Weichenwerk_Witten_IMGP0610_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Weichenwerk_Witten_IMGP0610_wp.jpg/1920px-Weichenwerk_Witten_IMGP0610_wp.jpg---
 
 ## Overview
 

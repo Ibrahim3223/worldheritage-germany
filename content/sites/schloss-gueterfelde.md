@@ -4,13 +4,13 @@ site_name: "Schloss Güterfelde"
 date: 2026-01-26
 draft: false
 description: "Schloss in Stahnsdorf, Landkreis Potsdam-Mittelmark, Brandenburg"
-region: "Stahnsdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Stahnsdorf"
+  - "Berlin"
 wikidata_id: "Q22921295"
 latitude: 52.36388889
 longitude: 13.195
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/400px-Schloss_Gueterfelde_Suedseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/800px-Schloss_Gueterfelde_Suedseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/1200px-Schloss_Gueterfelde_Suedseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/1920px-Schloss_Gueterfelde_Suedseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/1920px-Schloss_Gueterfelde_Suedseite.jpg---
 
 ## Overview
 

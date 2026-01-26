@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-3-6643-0001 in Eschlkam"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Eschlkam, Cham, Upper Palatinate, Bavaria, Germany"
-region: "Eschlkam"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Eschlkam"
+  - "Bavaria"
 wikidata_id: "Q98280108"
 latitude: 49.300124518
 longitude: 12.916428876
 images:
-  []
----
+  []---
 
 ## Overview
 

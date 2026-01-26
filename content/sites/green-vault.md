@@ -4,13 +4,13 @@ site_name: "Green Vault"
 date: 2026-01-26
 draft: false
 description: "museum in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q707407"
 latitude: 51.0528
 longitude: 13.7364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/400px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/800px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1200px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1920px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1920px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg---
 
 ## Overview
 

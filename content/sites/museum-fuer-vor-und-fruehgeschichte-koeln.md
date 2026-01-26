@@ -4,19 +4,18 @@ site_name: "Museum für Vor- und Frühgeschichte (Köln)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1954689"
 latitude: 50.9237
 longitude: 6.96698
 images:
-  []
----
+  []---
 
 ## Overview
 

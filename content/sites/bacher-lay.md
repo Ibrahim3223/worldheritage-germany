@@ -4,13 +4,13 @@ site_name: "Bacher Lay"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Rheinland-Pfalz, Germany"
-region: "Nisterau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Nisterau"
+  - "Hesse"
 wikidata_id: "Q798148"
 latitude: 50.6538
 longitude: 7.97653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/400px-Michelbachgrossneffe_064.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/800px-Michelbachgrossneffe_064.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1200px-Michelbachgrossneffe_064.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1920px-Michelbachgrossneffe_064.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1920px-Michelbachgrossneffe_064.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stadttor"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-79-124-47 (0) in Eibelstadt, Bavaria"
-region: "Eibelstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Eibelstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1401579"
 latitude: 49.722697898
 longitude: 9.999337215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/400px-Maintor_Eibelstadt_20210228_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/800px-Maintor_Eibelstadt_20210228_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/1200px-Maintor_Eibelstadt_20210228_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/1920px-Maintor_Eibelstadt_20210228_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/1920px-Maintor_Eibelstadt_20210228_001.jpg---
 
 ## Overview
 

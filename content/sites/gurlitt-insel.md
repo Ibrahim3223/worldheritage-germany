@@ -4,19 +4,18 @@ site_name: "Gurlitt-Insel"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1555231"
 latitude: 53.55927778
 longitude: 10.008
 images:
-  []
----
+  []---
 
 ## Overview
 

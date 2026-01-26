@@ -4,19 +4,18 @@ site_name: "Eisenbahnbrücke über die Müglitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Heidenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Heidenau"
+  - "Saxony"
 wikidata_id: "Q49442241"
 latitude: 50.976309
 longitude: 13.878356
 images:
-  []
----
+  []---
 
 ## Overview
 

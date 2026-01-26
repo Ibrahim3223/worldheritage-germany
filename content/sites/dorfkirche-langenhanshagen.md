@@ -4,13 +4,13 @@ site_name: "Dorfkirche Langenhanshagen"
 date: 2026-01-26
 draft: false
 description: "church building in Trinwillershagen, Germany"
-region: "Trinwillershagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Trinwillershagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742601"
 latitude: 54.2719
 longitude: 12.6742
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/400px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/800px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/1200px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/1920px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/1920px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG---
 
 ## Overview
 

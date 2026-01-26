@@ -4,13 +4,13 @@ site_name: "Weinheim Museum"
 date: 2026-01-26
 draft: false
 description: "Museum in Weinheim, Baden-Württemberg, Germany"
-region: "Weinheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weinheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q42282081"
 latitude: 49.546879
 longitude: 8.672441
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/400px-Weinheim,_Amtsgasse_2_20170601_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/800px-Weinheim,_Amtsgasse_2_20170601_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/1200px-Weinheim,_Amtsgasse_2_20170601_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/1920px-Weinheim,_Amtsgasse_2_20170601_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/1920px-Weinheim,_Amtsgasse_2_20170601_001.jpg---
 
 ## Overview 
 

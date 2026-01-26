@@ -4,13 +4,13 @@ site_name: "Wrangelbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Berlin-Kreuzberg, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q2594374"
 latitude: 52.4921
 longitude: 13.4131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/400px-Wrangelbrunnen-Mutter_Erde_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/800px-Wrangelbrunnen-Mutter_Erde_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/1200px-Wrangelbrunnen-Mutter_Erde_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/1920px-Wrangelbrunnen-Mutter_Erde_fec.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/1920px-Wrangelbrunnen-Mutter_Erde_fec.jpg---
 
 ## Overview
 

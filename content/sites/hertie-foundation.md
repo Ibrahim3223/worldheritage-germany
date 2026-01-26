@@ -4,13 +4,13 @@ site_name: "Hertie Foundation"
 date: 2026-01-26
 draft: false
 description: "nonprofit organization in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1614725"
 latitude: 50.12344
 longitude: 8.663628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/400px-Hertie-Stiftung.svg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/800px-Hertie-Stiftung.svg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/1200px-Hertie-Stiftung.svg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/1920px-Hertie-Stiftung.svg.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/1920px-Hertie-Stiftung.svg.png---
 
 ## Overview
 

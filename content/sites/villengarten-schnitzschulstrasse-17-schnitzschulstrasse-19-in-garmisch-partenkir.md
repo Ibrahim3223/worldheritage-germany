@@ -4,19 +4,18 @@ site_name: "Villengarten Schnitzschulstraße 17; Schnitzschulstraße 19 in Garmi
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-80-117-229 (1) in Garmisch-Partenkirchen, Bavaria"
-region: "Garmisch-Partenkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Garmisch-Partenkirchen"
+  - "Bavaria"
 wikidata_id: "Q98744147"
 latitude: 47.49301004
 longitude: 11.107443869
 images:
-  []
----
+  []---
 
 ## Overview
 

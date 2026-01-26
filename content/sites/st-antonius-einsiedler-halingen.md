@@ -4,13 +4,13 @@ site_name: "St. Antonius Einsiedler (Halingen)"
 date: 2026-01-26
 draft: false
 description: "church building in Menden (Sauerland), Germany"
-region: "Menden (Sauerland)"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Menden (Sauerland)"
+  - "Lower Saxony"
 wikidata_id: "Q2317320"
 latitude: 51.4609
 longitude: 7.72939
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/400px-Menden-Halingen-Kirche1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/800px-Menden-Halingen-Kirche1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/1200px-Menden-Halingen-Kirche1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/1920px-Menden-Halingen-Kirche1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/1920px-Menden-Halingen-Kirche1-Bubo.JPG---
 
 ## Overview
 

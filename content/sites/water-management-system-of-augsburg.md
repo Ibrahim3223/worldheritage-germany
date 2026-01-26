@@ -4,13 +4,13 @@ site_name: "Water Management System of Augsburg"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"
 categories:
   - "Group Of Structures Or Buildings"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q55249696"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg/400px-GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg/800px-GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg/1200px-GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg/1920px-GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg/1920px-GER_—_BY_—_Schwaben_—_Augsburg_—_Rathausplatz_1_(engl._Hinweistafel_zum_UNESCO-Status_Augsburger_Wassermanagement-System)_Mattes_2022-11-05.jpg---
 
 ## Overview
 

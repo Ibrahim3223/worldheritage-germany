@@ -4,13 +4,13 @@ site_name: "Beatlemania Hamburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q813225"
 latitude: 53.55005556
 longitude: 9.95686111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Beatlemania_Hamburg_Frontansicht_2009.jpg/400px-Beatlemania_Hamburg_Frontansicht_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Beatlemania_Hamburg_Frontansicht_2009.jpg/800px-Beatlemania_Hamburg_Frontansicht_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Beatlemania_Hamburg_Frontansicht_2009.jpg/1200px-Beatlemania_Hamburg_Frontansicht_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Beatlemania_Hamburg_Frontansicht_2009.jpg/1920px-Beatlemania_Hamburg_Frontansicht_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Beatlemania_Hamburg_Frontansicht_2009.jpg/1920px-Beatlemania_Hamburg_Frontansicht_2009.jpg---
 
 ## Overview
 

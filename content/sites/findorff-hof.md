@@ -4,19 +4,18 @@ site_name: "Findorff Hof"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Grasberg"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grasberg"
+  - "Bremen"
 wikidata_id: "Q76636103"
 latitude: 53.176294
 longitude: 8.986454
 images:
-  []
----
+  []---
 
 ## Overview
 

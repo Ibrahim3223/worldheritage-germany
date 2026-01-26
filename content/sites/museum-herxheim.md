@@ -4,13 +4,13 @@ site_name: "Museum Herxheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Herxheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Herxheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q28730375"
 latitude: 49.1463082
 longitude: 8.2170482
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/400px-Museum_Herxheim_Haupteingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/800px-Museum_Herxheim_Haupteingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/1200px-Museum_Herxheim_Haupteingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/1920px-Museum_Herxheim_Haupteingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/1920px-Museum_Herxheim_Haupteingang.jpg---
 
 ## Overview
 

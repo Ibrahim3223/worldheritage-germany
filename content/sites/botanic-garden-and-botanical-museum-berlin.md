@@ -4,13 +4,13 @@ site_name: "Botanic Garden and Botanical Museum Berlin"
 date: 2026-01-26
 draft: false
 description: "Botanical garden and museum located in Berlin"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q163255"
 latitude: 52.455
 longitude: 13.3036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/400px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/800px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1920px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1920px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg---
 
 ## Overview
 

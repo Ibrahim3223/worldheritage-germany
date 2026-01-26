@@ -4,13 +4,13 @@ site_name: "Theodor-Storm-Haus"
 date: 2026-01-26
 draft: false
 description: "literary museum in Husum, Schleswig-Holstein, Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1457173"
 latitude: 54.4757
 longitude: 9.04766
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg/400px-Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg/800px-Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg/1200px-Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg/1920px-Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg/1920px-Husum-Theodor-Storm-Haus-msu-2020-9-8437.jpg---
 
 ## Overview
 

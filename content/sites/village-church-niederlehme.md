@@ -4,13 +4,13 @@ site_name: "Village church Niederlehme"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Königs Wusterhausen"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Königs Wusterhausen"
+  - "Berlin"
 wikidata_id: "Q1752047"
 latitude: 52.3175
 longitude: 13.6507
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/400px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/800px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1200px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1920px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1920px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg---
 
 ## Overview
 

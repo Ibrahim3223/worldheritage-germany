@@ -4,13 +4,13 @@ site_name: "King Ludwig II Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Chiemsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Chiemsee"
+  - "Bavaria"
 wikidata_id: "Q76629147"
 latitude: 47.860163888
 longitude: 12.401833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/400px-Herrenchiemsee_NeuesSchloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/800px-Herrenchiemsee_NeuesSchloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/1200px-Herrenchiemsee_NeuesSchloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/1920px-Herrenchiemsee_NeuesSchloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/1920px-Herrenchiemsee_NeuesSchloss.JPG---
 
 ## Overview
 

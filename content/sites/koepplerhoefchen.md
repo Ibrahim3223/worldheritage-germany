@@ -4,19 +4,18 @@ site_name: "Köpplerhöfchen"
 date: 2026-01-26
 draft: false
 description: "ehemalige Hofanlage in der Frankfurter Altstadt"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q15824821"
 latitude: 50.11146
 longitude: 8.685228
 images:
-  []
----
+  []---
 
 ## Overview
 

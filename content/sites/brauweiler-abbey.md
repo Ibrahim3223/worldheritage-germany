@@ -4,13 +4,13 @@ site_name: "Brauweiler Abbey"
 date: 2026-01-26
 draft: false
 description: "former Benedictine monastery"
-region: "Pulheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Pulheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q333840"
 latitude: 50.961111
 longitude: 6.782778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/400px-Abtei_Brauweiler_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/800px-Abtei_Brauweiler_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1200px-Abtei_Brauweiler_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1920px-Abtei_Brauweiler_Aussenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1920px-Abtei_Brauweiler_Aussenansicht.jpg---
 
 ## Overview
 

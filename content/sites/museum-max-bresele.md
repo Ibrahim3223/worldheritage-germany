@@ -4,19 +4,18 @@ site_name: "museum Max Bresele"
 date: 2026-01-26
 draft: false
 description: "modern art museum in Bavaria"
-region: "Weiden in der Oberpfalz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weiden in der Oberpfalz"
+  - "Bavaria"
 wikidata_id: "Q46541533"
 latitude: 49.678
 longitude: 12.16625
 images:
-  []
----
+  []---
 
 ## Overview
 

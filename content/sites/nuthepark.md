@@ -4,13 +4,13 @@ site_name: "Nuthepark"
 date: 2026-01-26
 draft: false
 description: "garden in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q61968432"
 latitude: 52.39422
 longitude: 13.071562
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/400px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/800px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/1200px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/1920px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/1920px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg---
 
 ## Overview
 

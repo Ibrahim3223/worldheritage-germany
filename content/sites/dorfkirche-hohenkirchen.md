@@ -4,13 +4,13 @@ site_name: "Dorfkirche Hohenkirchen"
 date: 2026-01-26
 draft: false
 description: "Evangelical Lutheran Church in Hohenkirchen"
-region: "Hohenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hohenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q16454"
 latitude: 53.9191
 longitude: 11.3046
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/400px-Hohenkirchen_Kirche_132.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/800px-Hohenkirchen_Kirche_132.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/1200px-Hohenkirchen_Kirche_132.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/1920px-Hohenkirchen_Kirche_132.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/1920px-Hohenkirchen_Kirche_132.JPG---
 
 ## Overview
 

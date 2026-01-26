@@ -4,13 +4,13 @@ site_name: "Beach in Mönkebude"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Mönkebude"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Mönkebude"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q136759623"
 latitude: 53.7721653
 longitude: 13.9724969
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg/400px-Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg/800px-Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg/1200px-Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg/1920px-Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg/1920px-Pláž,_Mönkebude,_spolek_obcí_Am_Stettiner_Haff,_Zemský_okres_Přední_Pomořansko-Greifswald.jpg---
 
 ## Overview
 

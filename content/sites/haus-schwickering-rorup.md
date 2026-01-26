@@ -4,13 +4,13 @@ site_name: "Haus Schwickering (Rorup)"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q15638491"
 latitude: 51.9018
 longitude: 7.2472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rorup,_Haus_Schwickering_--_2014_--_9162.jpg/400px-Rorup,_Haus_Schwickering_--_2014_--_9162.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rorup,_Haus_Schwickering_--_2014_--_9162.jpg/800px-Rorup,_Haus_Schwickering_--_2014_--_9162.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rorup,_Haus_Schwickering_--_2014_--_9162.jpg/1200px-Rorup,_Haus_Schwickering_--_2014_--_9162.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rorup,_Haus_Schwickering_--_2014_--_9162.jpg/1920px-Rorup,_Haus_Schwickering_--_2014_--_9162.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rorup,_Haus_Schwickering_--_2014_--_9162.jpg/1920px-Rorup,_Haus_Schwickering_--_2014_--_9162.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gatersleben Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Seeland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Seeland"
+  - "Lower Saxony"
 wikidata_id: "Q1011914"
 latitude: 51.8261
 longitude: 11.2898
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg/400px-Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg/800px-Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg/1200px-Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg/1920px-Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg/1920px-Schmiedestraße_1_Burghof_(Gatersleben)_04.jpg---
 
 ## Overview
 

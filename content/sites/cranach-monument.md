@@ -4,13 +4,13 @@ site_name: "Cranach Monument"
 date: 2026-01-26
 draft: false
 description: "monument in Eisenach"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1138811"
 latitude: 50.9644
 longitude: 10.3083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cranach_Denkmal_Eisenach.jpg/400px-Cranach_Denkmal_Eisenach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cranach_Denkmal_Eisenach.jpg/800px-Cranach_Denkmal_Eisenach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cranach_Denkmal_Eisenach.jpg/1200px-Cranach_Denkmal_Eisenach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cranach_Denkmal_Eisenach.jpg/1920px-Cranach_Denkmal_Eisenach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cranach_Denkmal_Eisenach.jpg/1920px-Cranach_Denkmal_Eisenach.jpg---
 
 ## Overview
 

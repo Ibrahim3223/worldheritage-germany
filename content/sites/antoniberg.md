@@ -4,19 +4,18 @@ site_name: "Antoniberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q598654"
 latitude: 48.412
 longitude: 10.6015
 images:
-  []
----
+  []---
 
 ## Overview
 

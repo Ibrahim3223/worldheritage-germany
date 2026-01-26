@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sender-hühnerberg.jpg/400px-Sender-hühnerberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sender-hühnerberg.jpg/800px-Sender-hühnerberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sender-hühnerberg.jpg/1200px-Sender-hühnerberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sender-hühnerberg.jpg/1920px-Sender-hühnerberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sender-hühnerberg.jpg/1920px-Sender-hühnerberg.jpg---
 
 ## Overview
 

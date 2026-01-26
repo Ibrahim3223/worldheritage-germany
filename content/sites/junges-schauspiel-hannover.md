@@ -4,19 +4,18 @@ site_name: "Junges Schauspiel Hannover"
 date: 2026-01-26
 draft: false
 description: "theatre building in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1624250"
 latitude: 52.37251
 longitude: 9.73253
 images:
-  []
----
+  []---
 
 ## Overview
 

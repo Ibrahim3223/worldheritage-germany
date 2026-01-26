@@ -4,13 +4,13 @@ site_name: "Kurschattenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Bad Wildungen, Germany"
-region: "Bad Wildungen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Bad Wildungen"
+  - "Hesse"
 wikidata_id: "Q1395621"
 latitude: 51.1179
 longitude: 9.11887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kurschattenbrunnen_02.jpg/400px-Kurschattenbrunnen_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kurschattenbrunnen_02.jpg/800px-Kurschattenbrunnen_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kurschattenbrunnen_02.jpg/1200px-Kurschattenbrunnen_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kurschattenbrunnen_02.jpg/1920px-Kurschattenbrunnen_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kurschattenbrunnen_02.jpg/1920px-Kurschattenbrunnen_02.jpg---
 
 ## Overview
 

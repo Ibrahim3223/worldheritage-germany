@@ -4,13 +4,13 @@ site_name: "Pietàkapelle"
 date: 2026-01-26
 draft: false
 description: "neogotische Backsteinkapelle in der Bauerschaft Lehmbrock von Ostbevern"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q1425504"
 latitude: 52.0358
 longitude: 7.82463
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/400px-Pietakapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/800px-Pietakapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/1200px-Pietakapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/1920px-Pietakapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/1920px-Pietakapelle.JPG---
 
 ## Overview
 

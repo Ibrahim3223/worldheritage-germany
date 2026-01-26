@@ -4,13 +4,13 @@ site_name: "Mahnmal Schlachthoframpe"
 date: 2026-01-26
 draft: false
 description: "monument in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q1191637"
 latitude: 50.0654
 longitude: 8.24796
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/400px-Wiesbaden_029.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/800px-Wiesbaden_029.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/1200px-Wiesbaden_029.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/1920px-Wiesbaden_029.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/1920px-Wiesbaden_029.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Synagogue of Vallendar"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1482481"
 latitude: 50.4013
 longitude: 7.61687
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vallendar_Synagogue_13.JPG/400px-Vallendar_Synagogue_13.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vallendar_Synagogue_13.JPG/800px-Vallendar_Synagogue_13.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vallendar_Synagogue_13.JPG/1200px-Vallendar_Synagogue_13.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vallendar_Synagogue_13.JPG/1920px-Vallendar_Synagogue_13.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vallendar_Synagogue_13.JPG/1920px-Vallendar_Synagogue_13.JPG---
 
 ## Overview
 

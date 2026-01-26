@@ -4,19 +4,18 @@ site_name: "library of the Friedrich-Ebert-Stiftung"
 date: 2026-01-26
 draft: false
 description: "Research and trade union library in Bonn (Germany)"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q856483"
 latitude: 50.702294444
 longitude: 7.134686111
 images:
-  []
----
+  []---
 
 ## Overview
 

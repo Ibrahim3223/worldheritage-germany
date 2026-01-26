@@ -4,13 +4,13 @@ site_name: "Ettal Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Ettal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ettal"
+  - "Bavaria"
 wikidata_id: "Q253359"
 latitude: 47.569577059
 longitude: 11.094658627
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/400px-Ettal_-_Klosterkirche_Ettal2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/800px-Ettal_-_Klosterkirche_Ettal2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/1200px-Ettal_-_Klosterkirche_Ettal2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/1920px-Ettal_-_Klosterkirche_Ettal2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/1920px-Ettal_-_Klosterkirche_Ettal2.jpg---
 
 ## Overview
 

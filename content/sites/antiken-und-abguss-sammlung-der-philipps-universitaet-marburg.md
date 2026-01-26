@@ -4,19 +4,18 @@ site_name: "Antiken- und Abguss-Sammlung der Philipps-Universität Marburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634049"
 latitude: 50.809693
 longitude: 8.774323
 images:
-  []
----
+  []---
 
 ## Overview
 

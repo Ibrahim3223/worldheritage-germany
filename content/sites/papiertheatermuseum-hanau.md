@@ -4,13 +4,13 @@ site_name: "Papiertheatermuseum Hanau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hanau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanau"
+  - "Hesse"
 wikidata_id: "Q76633891"
 latitude: 50.127388888
 longitude: 8.892388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg/400px-Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg/800px-Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg/1200px-Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg/1920px-Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg/1920px-Papiertheater_Invisius_@_Papiertheatermuseum_Hanau,_Juni_2015.jpg---
 
 ## Overview
 

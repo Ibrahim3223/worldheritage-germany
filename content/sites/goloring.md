@@ -4,13 +4,13 @@ site_name: "Goloring"
 date: 2026-01-26
 draft: false
 description: "Neolithic henge monument"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q315323"
 latitude: 50.3392
 longitude: 7.43972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/400px-Goloring.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/800px-Goloring.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/1200px-Goloring.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/1920px-Goloring.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/1920px-Goloring.jpg---
 
 ## Overview
 

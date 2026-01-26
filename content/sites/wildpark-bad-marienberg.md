@@ -4,19 +4,18 @@ site_name: "Wildpark Bad Marienberg"
 date: 2026-01-26
 draft: false
 description: "ein Wildpark"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q2570784"
 latitude: 50.651
 longitude: 7.93486
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bakelite museum Kierspe"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Kierspe"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kierspe"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q804288"
 latitude: 51.1383
 longitude: 7.5864
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/400px-Kierspe_-_Amtshaus_05_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/800px-Kierspe_-_Amtshaus_05_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/1200px-Kierspe_-_Amtshaus_05_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/1920px-Kierspe_-_Amtshaus_05_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/1920px-Kierspe_-_Amtshaus_05_ies.jpg---
 
 ## Overview
 

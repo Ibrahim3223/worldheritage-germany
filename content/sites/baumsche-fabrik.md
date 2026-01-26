@@ -4,13 +4,13 @@ site_name: "Baumsche Fabrik"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q811607"
 latitude: 51.2568
 longitude: 7.15377
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg/400px-Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg/800px-Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg/1200px-Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg/1920px-Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg/1920px-Wuppertal_-_Brücke_Bundesallee_1_02_ies.jpg---
 
 ## Overview
 

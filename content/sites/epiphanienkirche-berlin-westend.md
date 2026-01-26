@@ -4,13 +4,13 @@ site_name: "Epiphanienkirche (Berlin-Westend)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Charlottenburg borough"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg borough"
+  - "Berlin"
 wikidata_id: "Q1347204"
 latitude: 52.513
 longitude: 13.2848
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/400px-Epiphanien-Kirche_(Berlin).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/800px-Epiphanien-Kirche_(Berlin).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1200px-Epiphanien-Kirche_(Berlin).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1920px-Epiphanien-Kirche_(Berlin).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1920px-Epiphanien-Kirche_(Berlin).jpg---
 
 ## Overview
 

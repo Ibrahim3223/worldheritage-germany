@@ -4,13 +4,13 @@ site_name: "Town hall in Zeitz"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Saxony-Anhalt: town hall in Zeitz, Germany"
-region: "Zeitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Zeitz"
+  - "Saxony"
 wikidata_id: "Q27995195"
 latitude: 51.04884
 longitude: 12.1347546
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altmarkt_1_Zeitz_20180816_001.jpg/400px-Altmarkt_1_Zeitz_20180816_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altmarkt_1_Zeitz_20180816_001.jpg/800px-Altmarkt_1_Zeitz_20180816_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altmarkt_1_Zeitz_20180816_001.jpg/1200px-Altmarkt_1_Zeitz_20180816_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altmarkt_1_Zeitz_20180816_001.jpg/1920px-Altmarkt_1_Zeitz_20180816_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altmarkt_1_Zeitz_20180816_001.jpg/1920px-Altmarkt_1_Zeitz_20180816_001.jpg---
 
 ## Overview
 

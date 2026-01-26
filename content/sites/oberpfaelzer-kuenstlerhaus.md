@@ -4,13 +4,13 @@ site_name: "Oberpfälzer Künstlerhaus"
 date: 2026-01-26
 draft: false
 description: "art museum in Schwandorf, Germany"
-region: "Schwandorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Schwandorf"
+  - "Bavaria"
 wikidata_id: "Q22693337"
 latitude: 49.340966666
 longitude: 12.123819444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/400px-FronbergKebbelvilla.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/800px-FronbergKebbelvilla.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/1200px-FronbergKebbelvilla.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/1920px-FronbergKebbelvilla.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/1920px-FronbergKebbelvilla.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zollbahnhof Homburg (Saar) West"
 date: 2026-01-26
 draft: false
 description: "railway station in Saarland, Germany"
-region: "Saarland"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Saarland"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q218577"
 latitude: 49.3183
 longitude: 7.30167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/400px-Zollbahnhof_Altstadt.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/800px-Zollbahnhof_Altstadt.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/1200px-Zollbahnhof_Altstadt.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/1920px-Zollbahnhof_Altstadt.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/1920px-Zollbahnhof_Altstadt.png---
 
 ## Overview
 

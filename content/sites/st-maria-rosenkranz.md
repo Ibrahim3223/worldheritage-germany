@@ -4,13 +4,13 @@ site_name: "St. Maria Rosenkranz"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Wersten, Germany"
-region: "Wersten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wersten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2320695"
 latitude: 51.1891
 longitude: 6.82253
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/400px-Liebfrauenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/800px-Liebfrauenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/1200px-Liebfrauenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/1920px-Liebfrauenkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/1920px-Liebfrauenkirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Resurrection Church"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf"
-region: "Oberkassel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oberkassel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q759634"
 latitude: 51.2336
 longitude: 6.74971
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/400px-Auferstehungskirche_Duesseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/800px-Auferstehungskirche_Duesseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/1200px-Auferstehungskirche_Duesseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/1920px-Auferstehungskirche_Duesseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/1920px-Auferstehungskirche_Duesseldorf.jpg---
 
 ## Overview
 

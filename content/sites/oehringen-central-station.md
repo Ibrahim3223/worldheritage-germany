@@ -4,13 +4,13 @@ site_name: "Öhringen Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Öhringen, Germany"
-region: "Öhringen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Öhringen"
+  - "Baden-Württemberg"
 wikidata_id: "Q294737"
 latitude: 49.2032
 longitude: 9.5027
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oehringen_Bahnhof_20070825.JPG/400px-Oehringen_Bahnhof_20070825.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oehringen_Bahnhof_20070825.JPG/800px-Oehringen_Bahnhof_20070825.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oehringen_Bahnhof_20070825.JPG/1200px-Oehringen_Bahnhof_20070825.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oehringen_Bahnhof_20070825.JPG/1920px-Oehringen_Bahnhof_20070825.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oehringen_Bahnhof_20070825.JPG/1920px-Oehringen_Bahnhof_20070825.JPG---
 
 ## Overview
 

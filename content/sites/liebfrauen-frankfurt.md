@@ -4,13 +4,13 @@ site_name: "Liebfrauen, Frankfurt"
 date: 2026-01-26
 draft: false
 description: "roman-catholic church in Frankfurt am Main, Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q1423050"
 latitude: 50.1131
 longitude: 8.68139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/400px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/800px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/1200px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/1920px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg/1920px-Frankfurt_Am_Main-Liebfrauenkirche_von_Suedwesten-20140501.jpg---
 
 ## Overview
 

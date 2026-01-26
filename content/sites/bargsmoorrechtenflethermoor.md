@@ -4,13 +4,13 @@ site_name: "Bargsmoor/Rechtenflethermoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hagen im Bremischen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hagen im Bremischen"
+  - "Bremen"
 wikidata_id: "Q808164"
 latitude: 53.3689
 longitude: 8.58393
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bargsmoor-Rechtenflethermoor_-_2.jpg/400px-Bargsmoor-Rechtenflethermoor_-_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bargsmoor-Rechtenflethermoor_-_2.jpg/800px-Bargsmoor-Rechtenflethermoor_-_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bargsmoor-Rechtenflethermoor_-_2.jpg/1200px-Bargsmoor-Rechtenflethermoor_-_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bargsmoor-Rechtenflethermoor_-_2.jpg/1920px-Bargsmoor-Rechtenflethermoor_-_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bargsmoor-Rechtenflethermoor_-_2.jpg/1920px-Bargsmoor-Rechtenflethermoor_-_2.jpg---
 
 ## Overview
 

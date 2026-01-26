@@ -4,13 +4,13 @@ site_name: "St.-Johannis-Kirche (Hannover-Misburg)"
 date: 2026-01-26
 draft: false
 description: "Listed church building in Hanover, Germany"
-region: "Misburg-Anderten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Misburg-Anderten"
+  - "Lower Saxony"
 wikidata_id: "Q2316240"
 latitude: 52.3864
 longitude: 9.85874
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/400px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/800px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/1200px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/1920px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/1920px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg---
 
 ## Overview
 

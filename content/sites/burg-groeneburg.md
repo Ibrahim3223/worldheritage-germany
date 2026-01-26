@@ -4,13 +4,13 @@ site_name: "Burg Gröneburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Melle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Melle"
+  - "Lower Saxony"
 wikidata_id: "Q1012092"
 latitude: 52.2052
 longitude: 8.32785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/400px-Burg_Gröneberg_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/800px-Burg_Gröneberg_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/1200px-Burg_Gröneberg_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/1920px-Burg_Gröneberg_von_Nordwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/1920px-Burg_Gröneberg_von_Nordwesten.jpg---
 
 ## Overview
 

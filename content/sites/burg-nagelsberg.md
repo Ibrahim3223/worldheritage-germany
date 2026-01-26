@@ -4,13 +4,13 @@ site_name: "Burg Nagelsberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nagelsberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nagelsberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013184"
 latitude: 49.2926
 longitude: 9.67558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/400px-Burg_Nagelsberg_Zufahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/800px-Burg_Nagelsberg_Zufahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/1200px-Burg_Nagelsberg_Zufahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/1920px-Burg_Nagelsberg_Zufahrt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/1920px-Burg_Nagelsberg_Zufahrt.jpg---
 
 ## Overview
 

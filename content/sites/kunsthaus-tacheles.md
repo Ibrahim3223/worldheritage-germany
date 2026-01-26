@@ -4,13 +4,13 @@ site_name: "Kunsthaus Tacheles"
 date: 2026-01-26
 draft: false
 description: "former arts center in Mitte, Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q571421"
 latitude: 52.525555555
 longitude: 13.388611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/400px-Kunsthaus_tacheles.berlin.II.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/800px-Kunsthaus_tacheles.berlin.II.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/1200px-Kunsthaus_tacheles.berlin.II.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/1920px-Kunsthaus_tacheles.berlin.II.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/1920px-Kunsthaus_tacheles.berlin.II.JPG---
 
 ## Overview
 

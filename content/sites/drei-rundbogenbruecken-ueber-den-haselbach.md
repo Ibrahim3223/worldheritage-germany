@@ -4,13 +4,13 @@ site_name: "Drei Rundbogenbrücken über den Haselbach"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403593"
 latitude: 51.239655
 longitude: 14.03518
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg/400px-Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg/800px-Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg/1200px-Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg/1920px-Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg/1920px-Haselbachtal_Bischheim_Rundbogenbrücke_Hauptstrasse_62_Bild4.jpg---
 
 ## Overview
 

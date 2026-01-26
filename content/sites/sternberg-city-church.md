@@ -4,13 +4,13 @@ site_name: "Sternberg City Church"
 date: 2026-01-26
 draft: false
 description: "church building in Sternberg, Mecklenburg-Vorpommern, Germany"
-region: "Sternberg"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sternberg"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2327473"
 latitude: 53.7119
 longitude: 11.8303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sternberg_Kirche_2009-04-16_038.jpg/400px-Sternberg_Kirche_2009-04-16_038.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sternberg_Kirche_2009-04-16_038.jpg/800px-Sternberg_Kirche_2009-04-16_038.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sternberg_Kirche_2009-04-16_038.jpg/1200px-Sternberg_Kirche_2009-04-16_038.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sternberg_Kirche_2009-04-16_038.jpg/1920px-Sternberg_Kirche_2009-04-16_038.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sternberg_Kirche_2009-04-16_038.jpg/1920px-Sternberg_Kirche_2009-04-16_038.jpg---
 
 ## Overview
 

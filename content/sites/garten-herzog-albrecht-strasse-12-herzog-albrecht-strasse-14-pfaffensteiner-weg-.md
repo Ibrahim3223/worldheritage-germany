@@ -4,19 +4,18 @@ site_name: "Garten Herzog-Albrecht-Straße 12; Herzog-Albrecht-Straße 14; Pfaff
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-3-62-000-1525 (2) in Regensburg, Bavaria"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q98682562"
 latitude: 49.025045856
 longitude: 12.09317403
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Zeche Brautkammer"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169695"
 latitude: 51.4924
 longitude: 7.46948
 images:
-  []
----
+  []---
 
 ## Overview
 

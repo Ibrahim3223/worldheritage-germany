@@ -4,13 +4,13 @@ site_name: "Rocholz manor"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Gevelsberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Gevelsberg"
+  - "Lower Saxony"
 wikidata_id: "Q1366832"
 latitude: 51.3325
 longitude: 7.366944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg/400px-Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg/800px-Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg/1200px-Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg/1920px-Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg/1920px-Gevelsberg_-_Rocholzallee_-_Gut_Rocholz_03_ies.jpg---
 
 ## Overview
 

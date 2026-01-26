@@ -4,13 +4,13 @@ site_name: "Electoral Palace Koblenz"
 date: 2026-01-26
 draft: false
 description: "palace in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q461127"
 latitude: 50.3556
 longitude: 7.60222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/400px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/800px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1200px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1920px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1920px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg---
 
 ## Overview
 

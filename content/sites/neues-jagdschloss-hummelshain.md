@@ -4,13 +4,13 @@ site_name: "Neues Jagdschloss Hummelshain"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1688561"
 latitude: 50.7701
 longitude: 11.6278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jagdschloss_Hummelshain1.JPG/400px-Jagdschloss_Hummelshain1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jagdschloss_Hummelshain1.JPG/800px-Jagdschloss_Hummelshain1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jagdschloss_Hummelshain1.JPG/1200px-Jagdschloss_Hummelshain1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jagdschloss_Hummelshain1.JPG/1920px-Jagdschloss_Hummelshain1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jagdschloss_Hummelshain1.JPG/1920px-Jagdschloss_Hummelshain1.JPG---
 
 ## Overview
 

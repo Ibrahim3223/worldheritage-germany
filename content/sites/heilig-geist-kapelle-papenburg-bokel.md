@@ -4,19 +4,18 @@ site_name: "Heilig-Geist-Kapelle (Papenburg-Bokel)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Papenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Papenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1594844"
 latitude: 53.0835
 longitude: 7.36117
 images:
-  []
----
+  []---
 
 ## Overview
 

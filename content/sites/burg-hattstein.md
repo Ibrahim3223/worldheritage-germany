@@ -4,13 +4,13 @@ site_name: "Burg Hattstein"
 date: 2026-01-26
 draft: false
 description: "Burgruine in Deutschland"
-region: "Oberreifenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Oberreifenberg"
+  - "Hesse"
 wikidata_id: "Q1012211"
 latitude: 50.2606
 longitude: 8.43611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg/400px-Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg/800px-Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg/1200px-Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg/1920px-Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg/1920px-Burgruine-Hattstein-JR-E-3720-2020-04-02.jpg---
 
 ## Overview
 

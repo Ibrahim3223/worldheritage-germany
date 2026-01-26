@@ -4,13 +4,13 @@ site_name: "Zeltnerweiher"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q189255"
 latitude: 49.4472
 longitude: 11.1093
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Нюрнберг.Замок_на_воде.jpg/400px-Нюрнберг.Замок_на_воде.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Нюрнберг.Замок_на_воде.jpg/800px-Нюрнберг.Замок_на_воде.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Нюрнберг.Замок_на_воде.jpg/1200px-Нюрнберг.Замок_на_воде.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Нюрнберг.Замок_на_воде.jpg/1920px-Нюрнберг.Замок_на_воде.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Нюрнберг.Замок_на_воде.jpg/1920px-Нюрнберг.Замок_на_воде.jpg---
 
 ## Overview
 

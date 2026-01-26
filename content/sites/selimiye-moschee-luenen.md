@@ -4,13 +4,13 @@ site_name: "Selimiye-Moschee Lünen"
 date: 2026-01-26
 draft: false
 description: "Moschee in Deutschland"
-region: "Lünen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Lünen"
+  - "Lower Saxony"
 wikidata_id: "Q2268335"
 latitude: 51.6086
 longitude: 7.51361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/400px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/800px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/1200px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/1920px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/1920px-Selimiye-Moschee-Lünen-4-2009-0010.JPG---
 
 ## Overview
 

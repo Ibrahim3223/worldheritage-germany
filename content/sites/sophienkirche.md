@@ -4,13 +4,13 @@ site_name: "Sophienkirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q470667"
 latitude: 52.525558
 longitude: 13.39985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Berlin_view_from_Park_Inn_05.jpg/400px-Berlin_view_from_Park_Inn_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Berlin_view_from_Park_Inn_05.jpg/800px-Berlin_view_from_Park_Inn_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Berlin_view_from_Park_Inn_05.jpg/1200px-Berlin_view_from_Park_Inn_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Berlin_view_from_Park_Inn_05.jpg/1920px-Berlin_view_from_Park_Inn_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Berlin_view_from_Park_Inn_05.jpg/1920px-Berlin_view_from_Park_Inn_05.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung in Vorra"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.556383/E11.483456"
-region: "Vorra"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Vorra"
+  - "Bavaria"
 wikidata_id: "Q58340095"
 latitude: 49.556383
 longitude: 11.483456
 images:
-  []
----
+  []---
 
 ## Overview
 

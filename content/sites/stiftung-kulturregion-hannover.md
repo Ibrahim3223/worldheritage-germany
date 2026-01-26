@@ -4,19 +4,18 @@ site_name: "Stiftung Kulturregion Hannover"
 date: 2026-01-26
 draft: false
 description: "Stiftung zur Förderung von kulturellen Projekten in der Region Hannover"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q2349049"
 latitude: 52.3715
 longitude: 9.73849
 images:
-  []
----
+  []---
 
 ## Overview
 

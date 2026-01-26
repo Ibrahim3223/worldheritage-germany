@@ -4,19 +4,18 @@ site_name: "Alma Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q169623"
 latitude: 51.5067
 longitude: 7.11667
 images:
-  []
----
+  []---
 
 ## Overview
 

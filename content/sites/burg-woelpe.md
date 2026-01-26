@@ -4,13 +4,13 @@ site_name: "Burg Wölpe"
 date: 2026-01-26
 draft: false
 description: "former castle in Lower Saxony"
-region: "Nienburg/Weser"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Nienburg/Weser"
+  - "Lower Saxony"
 wikidata_id: "Q1014664"
 latitude: 52.6622
 longitude: 9.25314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/400px-Wölpe_Burghügel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/800px-Wölpe_Burghügel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/1200px-Wölpe_Burghügel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/1920px-Wölpe_Burghügel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/1920px-Wölpe_Burghügel.jpg---
 
 ## Overview
 

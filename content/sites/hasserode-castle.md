@@ -4,13 +4,13 @@ site_name: "Hasserode Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q1012212"
 latitude: 51.8208
 longitude: 10.745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/400px-BurgHasserode.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/800px-BurgHasserode.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/1200px-BurgHasserode.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/1920px-BurgHasserode.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/1920px-BurgHasserode.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Alerds-Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q2640997"
 latitude: 52.2461
 longitude: 10.4896
 images:
-  []
----
+  []---
 
 ## Overview
 

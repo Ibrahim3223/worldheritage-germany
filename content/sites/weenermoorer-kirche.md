@@ -4,13 +4,13 @@ site_name: "Weenermoorer Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Weener, Germany"
-region: "Weener"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weener"
+  - "Lower Saxony"
 wikidata_id: "Q2554061"
 latitude: 53.1952
 longitude: 7.32227
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchWeenermoor.jpg/400px-ChurchWeenermoor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchWeenermoor.jpg/800px-ChurchWeenermoor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchWeenermoor.jpg/1200px-ChurchWeenermoor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchWeenermoor.jpg/1920px-ChurchWeenermoor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchWeenermoor.jpg/1920px-ChurchWeenermoor.jpg---
 
 ## Overview
 

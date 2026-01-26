@@ -4,13 +4,13 @@ site_name: "St. Aloysius"
 date: 2026-01-26
 draft: false
 description: "church in Iserlohn"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q2316940"
 latitude: 51.3723
 longitude: 7.70371
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/400px-Iserlohn-Aloysiuskirche3-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/800px-Iserlohn-Aloysiuskirche3-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/1200px-Iserlohn-Aloysiuskirche3-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/1920px-Iserlohn-Aloysiuskirche3-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/1920px-Iserlohn-Aloysiuskirche3-Asio.JPG---
 
 ## Overview
 

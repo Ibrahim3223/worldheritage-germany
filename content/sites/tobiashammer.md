@@ -4,13 +4,13 @@ site_name: "Tobiashammer"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ohrdruf"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ohrdruf"
+  - "Thuringia"
 wikidata_id: "Q1590619"
 latitude: 50.8019
 longitude: 10.7318
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tobiashammer.jpg/400px-Tobiashammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tobiashammer.jpg/800px-Tobiashammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tobiashammer.jpg/1200px-Tobiashammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tobiashammer.jpg/1920px-Tobiashammer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tobiashammer.jpg/1920px-Tobiashammer.jpg---
 
 ## Overview
 

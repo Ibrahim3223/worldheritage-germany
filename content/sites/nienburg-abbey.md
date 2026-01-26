@@ -4,13 +4,13 @@ site_name: "Nienburg Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Nienburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Nienburg"
+  - "Brandenburg"
 wikidata_id: "Q317443"
 latitude: 51.836511111
 longitude: 11.771758333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/400px-Klosterkirche_Nienburg-Saale.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/800px-Klosterkirche_Nienburg-Saale.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/1200px-Klosterkirche_Nienburg-Saale.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/1920px-Klosterkirche_Nienburg-Saale.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/1920px-Klosterkirche_Nienburg-Saale.JPG---
 
 ## Overview
 

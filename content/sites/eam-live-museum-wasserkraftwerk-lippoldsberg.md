@@ -4,19 +4,18 @@ site_name: "EAM-live-Museum Wasserkraftwerk Lippoldsberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wesertal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wesertal"
+  - "Hesse"
 wikidata_id: "Q76634022"
 latitude: 51.6258
 longitude: 9.55608
 images:
-  []
----
+  []---
 
 ## Overview
 

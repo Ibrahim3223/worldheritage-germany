@@ -4,13 +4,13 @@ site_name: "Ferberturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Gera"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Gera"
+  - "Saxony"
 wikidata_id: "Q1271322"
 latitude: 50.8725
 longitude: 12.0985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/400px-Gera_-_Ferberturm_04-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/800px-Gera_-_Ferberturm_04-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/1200px-Gera_-_Ferberturm_04-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/1920px-Gera_-_Ferberturm_04-09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/1920px-Gera_-_Ferberturm_04-09.jpg---
 
 ## Overview
 

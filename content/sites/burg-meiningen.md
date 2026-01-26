@@ -4,13 +4,13 @@ site_name: "Burg Meiningen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Meiningen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Meiningen"
+  - "Bavaria"
 wikidata_id: "Q1013101"
 latitude: 50.5703
 longitude: 10.4128
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/400px-Meiningen-Schloss01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/800px-Meiningen-Schloss01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/1200px-Meiningen-Schloss01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/1920px-Meiningen-Schloss01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/1920px-Meiningen-Schloss01.jpg---
 
 ## Overview
 

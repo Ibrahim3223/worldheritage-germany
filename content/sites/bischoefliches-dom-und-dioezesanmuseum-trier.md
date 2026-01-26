@@ -4,13 +4,13 @@ site_name: "Bischöfliches Dom- und Diözesanmuseum Trier"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1954513"
 latitude: 49.7566
 longitude: 6.64491
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Trier_Museum_am_Dom_Eingang.jpg/400px-Trier_Museum_am_Dom_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Trier_Museum_am_Dom_Eingang.jpg/800px-Trier_Museum_am_Dom_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Trier_Museum_am_Dom_Eingang.jpg/1200px-Trier_Museum_am_Dom_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Trier_Museum_am_Dom_Eingang.jpg/1920px-Trier_Museum_am_Dom_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Trier_Museum_am_Dom_Eingang.jpg/1920px-Trier_Museum_am_Dom_Eingang.jpg---
 
 ## Overview
 

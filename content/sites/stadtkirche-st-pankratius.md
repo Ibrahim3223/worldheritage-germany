@@ -4,13 +4,13 @@ site_name: "Stadtkirche St. Pankratius"
 date: 2026-01-26
 draft: false
 description: "church building in Warstein, North Rhine-Westphalia, Germany"
-region: "Warstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Warstein"
+  - "Hesse"
 wikidata_id: "Q2327454"
 latitude: 51.443
 longitude: 8.35269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/400px-St._Pankratius-Warstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/800px-St._Pankratius-Warstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/1200px-St._Pankratius-Warstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/1920px-St._Pankratius-Warstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/1920px-St._Pankratius-Warstein.jpg---
 
 ## Overview
 

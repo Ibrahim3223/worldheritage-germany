@@ -4,13 +4,13 @@ site_name: "Ölbergkapelle Niederrieden"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Niederrieden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Niederrieden"
+  - "Baden-Württemberg"
 wikidata_id: "Q296838"
 latitude: 48.0582
 longitude: 10.1844
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/St._Georg_(Niederrieden)_62.JPG/400px-St._Georg_(Niederrieden)_62.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/St._Georg_(Niederrieden)_62.JPG/800px-St._Georg_(Niederrieden)_62.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/St._Georg_(Niederrieden)_62.JPG/1200px-St._Georg_(Niederrieden)_62.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/St._Georg_(Niederrieden)_62.JPG/1920px-St._Georg_(Niederrieden)_62.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/St._Georg_(Niederrieden)_62.JPG/1920px-St._Georg_(Niederrieden)_62.JPG---
 
 ## Overview
 

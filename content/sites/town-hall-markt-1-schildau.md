@@ -4,13 +4,13 @@ site_name: "Town hall Markt 1 Schildau"
 date: 2026-01-26
 draft: false
 description: "Old town hall in Schildau (Saxony)"
-region: "Belgern-Schildau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Belgern-Schildau"
+  - "Brandenburg"
 wikidata_id: "Q49469031"
 latitude: 51.4559215
 longitude: 12.9293177
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schildau_Rathaus2.jpg/400px-Schildau_Rathaus2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schildau_Rathaus2.jpg/800px-Schildau_Rathaus2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schildau_Rathaus2.jpg/1200px-Schildau_Rathaus2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schildau_Rathaus2.jpg/1920px-Schildau_Rathaus2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schildau_Rathaus2.jpg/1920px-Schildau_Rathaus2.jpg---
 
 ## Overview
 

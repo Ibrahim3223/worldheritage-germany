@@ -4,13 +4,13 @@ site_name: "Papenburger Zeitspeicher"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Papenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Papenburg"
+  - "Lower Saxony"
 wikidata_id: "Q2050608"
 latitude: 53.0869
 longitude: 7.38388
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/400px-Papenburger_Zeitspeicher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/800px-Papenburger_Zeitspeicher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/1200px-Papenburger_Zeitspeicher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/1920px-Papenburger_Zeitspeicher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/1920px-Papenburger_Zeitspeicher.jpg---
 
 ## Overview
 

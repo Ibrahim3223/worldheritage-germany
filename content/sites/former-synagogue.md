@@ -4,13 +4,13 @@ site_name: "Former synagogue"
 date: 2026-01-26
 draft: false
 description: "hall building made of ashlar masonry in Ahrweiler, Rhineland-Palatinate"
-region: "Bad Neuenahr-Ahrweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bad Neuenahr-Ahrweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1435538"
 latitude: 50.5414
 longitude: 7.09288
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg/400px-Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg/800px-Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg/1200px-Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg/1920px-Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg/1920px-Ahrweiler,_ehemalige_Synagoge_--_2020_--_8586.jpg---
 
 ## Overview
 

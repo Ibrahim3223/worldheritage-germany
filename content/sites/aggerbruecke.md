@@ -4,13 +4,13 @@ site_name: "Aggerbrücke"
 date: 2026-01-26
 draft: false
 description: "Brücke in Engelskirchen-Loope"
-region: "Loope"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Loope"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q19258524"
 latitude: 50.976004
 longitude: 7.368492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/400px-Aggerbrücke_Loope_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/800px-Aggerbrücke_Loope_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/1200px-Aggerbrücke_Loope_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/1920px-Aggerbrücke_Loope_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/1920px-Aggerbrücke_Loope_2.JPG---
 
 ## Overview
 

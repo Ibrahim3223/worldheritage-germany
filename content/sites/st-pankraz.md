@@ -4,13 +4,13 @@ site_name: "St. Pankraz"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Bad Reichenhall"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Reichenhall"
+  - "Bavaria"
 wikidata_id: "Q2322295"
 latitude: 47.7194
 longitude: 12.8429
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/REI_Pankrazkirche_01.jpg/400px-REI_Pankrazkirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/REI_Pankrazkirche_01.jpg/800px-REI_Pankrazkirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/REI_Pankrazkirche_01.jpg/1200px-REI_Pankrazkirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/REI_Pankrazkirche_01.jpg/1920px-REI_Pankrazkirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/REI_Pankrazkirche_01.jpg/1920px-REI_Pankrazkirche_01.jpg---
 
 ## Overview
 

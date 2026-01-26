@@ -4,13 +4,13 @@ site_name: "Schloss Varchentin"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Varchentin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Varchentin"
+  - "Brandenburg"
 wikidata_id: "Q1291994"
 latitude: 53.5823
 longitude: 12.8592
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varchentin-schloss.jpg/400px-Varchentin-schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varchentin-schloss.jpg/800px-Varchentin-schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varchentin-schloss.jpg/1200px-Varchentin-schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varchentin-schloss.jpg/1920px-Varchentin-schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Varchentin-schloss.jpg/1920px-Varchentin-schloss.jpg---
 
 ## Overview
 

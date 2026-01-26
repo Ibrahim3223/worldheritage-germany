@@ -4,13 +4,13 @@ site_name: "Soviet War Memorial Schönholzer Heide"
 date: 2026-01-26
 draft: false
 description: "monument in Berlin-Niederschönhausen, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q49745"
 latitude: 52.581666666
 longitude: 13.3725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/400px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/800px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/1200px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/1920px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/1920px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG---
 
 ## Overview
 

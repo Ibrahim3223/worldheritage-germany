@@ -4,19 +4,18 @@ site_name: "Papiertechnische Stiftung (Germany)"
 date: 2026-01-26
 draft: false
 description: "nonprofit organization in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2050753"
 latitude: 48.157916
 longitude: 11.553572
 images:
-  []
----
+  []---
 
 ## Overview
 

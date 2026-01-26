@@ -4,19 +4,18 @@ site_name: "Kreismuseum Bogenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bogen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bogen"
+  - "Bavaria"
 wikidata_id: "Q17322897"
 latitude: 48.902134
 longitude: 12.697216
 images:
-  []
----
+  []---
 
 ## Overview
 

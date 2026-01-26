@@ -4,13 +4,13 @@ site_name: "St. Norbert"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Garath, Germany"
-region: "Garath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Garath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1276576"
 latitude: 51.146
 longitude: 6.88914
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/400px-Saint-Norbert_D-Garath.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/800px-Saint-Norbert_D-Garath.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/1200px-Saint-Norbert_D-Garath.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/1920px-Saint-Norbert_D-Garath.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/1920px-Saint-Norbert_D-Garath.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hausgarten des Wohnhauses Dürerstraße 28A"
 date: 2026-01-26
 draft: false
 description: "garden in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q32319220"
 latitude: 52.437382
 longitude: 13.306345
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg/400px-Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg/800px-Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg/1200px-Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg/1920px-Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg/1920px-Dürerstraße_28A_Berlin-Lichterfelde_2024-11-30_04.jpg---
 
 ## Overview
 

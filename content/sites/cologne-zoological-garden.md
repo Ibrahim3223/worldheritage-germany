@@ -4,13 +4,13 @@ site_name: "Cologne Zoological Garden"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Riehl"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Riehl"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q529586"
 latitude: 50.958333
 longitude: 6.973333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/400px-Ming_Jung_CNG_cut.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/800px-Ming_Jung_CNG_cut.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/1200px-Ming_Jung_CNG_cut.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/1920px-Ming_Jung_CNG_cut.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/1920px-Ming_Jung_CNG_cut.jpg---
 
 ## Overview
 

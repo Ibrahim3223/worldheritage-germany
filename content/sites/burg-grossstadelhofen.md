@@ -4,19 +4,18 @@ site_name: "Burg Großstadelhofen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Großstadelhofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Großstadelhofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012075"
 latitude: 48.8838
 longitude: 9.26018
 images:
-  []
----
+  []---
 
 ## Overview
 

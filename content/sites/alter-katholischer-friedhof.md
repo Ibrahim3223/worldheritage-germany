@@ -4,13 +4,13 @@ site_name: "Alter Katholischer Friedhof"
 date: 2026-01-26
 draft: false
 description: "heritage cemetery in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q317663"
 latitude: 51.0603
 longitude: 13.7193
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/400px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/800px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1200px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1920px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1920px-Kapelle_1_Alter_Katholischer_Friedhof.JPG---
 
 ## Overview
 

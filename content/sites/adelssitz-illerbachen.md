@@ -4,19 +4,18 @@ site_name: "Adelssitz Illerbachen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Berkheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Berkheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q355539"
 latitude: 48.0464
 longitude: 10.053
 images:
-  []
----
+  []---
 
 ## Overview
 

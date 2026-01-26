@@ -4,13 +4,13 @@ site_name: "Museum Judengasse"
 date: 2026-01-26
 draft: false
 description: "museum in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q21251780"
 latitude: 50.1123357
 longitude: 8.6885584
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Museum-judengasse-ffm002.jpg/400px-Museum-judengasse-ffm002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Museum-judengasse-ffm002.jpg/800px-Museum-judengasse-ffm002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Museum-judengasse-ffm002.jpg/1200px-Museum-judengasse-ffm002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Museum-judengasse-ffm002.jpg/1920px-Museum-judengasse-ffm002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Museum-judengasse-ffm002.jpg/1920px-Museum-judengasse-ffm002.jpg---
 
 ## Overview
 

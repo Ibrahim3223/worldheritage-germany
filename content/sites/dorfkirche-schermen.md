@@ -4,13 +4,13 @@ site_name: "Dorfkirche Schermen"
 date: 2026-01-26
 draft: false
 description: "church in Schermen, Germany"
-region: "Möser"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Möser"
+  - "Brandenburg"
 wikidata_id: "Q1244699"
 latitude: 52.2317
 longitude: 11.8176
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/400px-Kirche_Schermen_bei_Möser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/800px-Kirche_Schermen_bei_Möser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1200px-Kirche_Schermen_bei_Möser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1920px-Kirche_Schermen_bei_Möser.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1920px-Kirche_Schermen_bei_Möser.jpg---
 
 ## Overview
 

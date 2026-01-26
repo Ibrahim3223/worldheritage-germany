@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Leonberg mit Schelling-Gedenkraum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leonberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leonberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631414"
 latitude: 48.801789
 longitude: 9.013628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg/400px-Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg/800px-Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg/1200px-Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg/1920px-Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg/1920px-Landappbw_339117_1819_Stadtmuseum_Leonberg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Textil- und Rennsportmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Hohenstein-Ernstthal, Germany"
-region: "Hohenstein-Ernstthal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hohenstein-Ernstthal"
+  - "Saxony"
 wikidata_id: "Q30074362"
 latitude: 50.798577032
 longitude: 12.710562498
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/400px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/800px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/1200px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/1920px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/1920px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG---
 
 ## Overview
 

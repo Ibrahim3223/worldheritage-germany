@@ -4,13 +4,13 @@ site_name: "Luther Church"
 date: 2026-01-26
 draft: false
 description: "Protestant church in Wiesbaden"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q877452"
 latitude: 50.070653
 longitude: 8.237561
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lutherkirche_wiesbaden_1.jpg/400px-Lutherkirche_wiesbaden_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lutherkirche_wiesbaden_1.jpg/800px-Lutherkirche_wiesbaden_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lutherkirche_wiesbaden_1.jpg/1200px-Lutherkirche_wiesbaden_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lutherkirche_wiesbaden_1.jpg/1920px-Lutherkirche_wiesbaden_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lutherkirche_wiesbaden_1.jpg/1920px-Lutherkirche_wiesbaden_1.jpg---
 
 ## Overview
 

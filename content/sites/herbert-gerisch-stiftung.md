@@ -4,19 +4,18 @@ site_name: "Herbert-Gerisch-Stiftung"
 date: 2026-01-26
 draft: false
 description: "sculpture garden"
-region: "Neumünster"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neumünster"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1608325"
 latitude: 54.07531357
 longitude: 9.99905014
 images:
-  []
----
+  []---
 
 ## Overview
 

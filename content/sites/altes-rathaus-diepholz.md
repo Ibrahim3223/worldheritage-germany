@@ -4,13 +4,13 @@ site_name: "Altes Rathaus Diepholz"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Diepholz, Veranstaltungs- und Bildungseinrichtung, Gaststätte"
-region: "Diepholz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Diepholz"
+  - "Lower Saxony"
 wikidata_id: "Q121210600"
 latitude: 52.607442
 longitude: 8.370434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diepholz_Altes_Rathaus.JPG/400px-Diepholz_Altes_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diepholz_Altes_Rathaus.JPG/800px-Diepholz_Altes_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diepholz_Altes_Rathaus.JPG/1200px-Diepholz_Altes_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diepholz_Altes_Rathaus.JPG/1920px-Diepholz_Altes_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diepholz_Altes_Rathaus.JPG/1920px-Diepholz_Altes_Rathaus.JPG---
 
 ## Overview
 

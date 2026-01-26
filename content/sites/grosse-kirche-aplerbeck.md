@@ -4,13 +4,13 @@ site_name: "Große Kirche Aplerbeck"
 date: 2026-01-26
 draft: false
 description: "Protestant church in Gothic Revival style"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1548234"
 latitude: 51.4954
 longitude: 7.55844
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/400px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/800px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/1200px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/1920px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/1920px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg---
 
 ## Overview
 

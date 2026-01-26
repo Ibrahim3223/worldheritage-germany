@@ -4,19 +4,18 @@ site_name: "Museum Veste Otzberg - sehen, hören, schmecken"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76634142"
 latitude: 49.820213
 longitude: 8.911874
 images:
-  []
----
+  []---
 
 ## Overview
 

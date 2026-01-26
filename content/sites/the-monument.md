@@ -4,13 +4,13 @@ site_name: "The Monument"
 date: 2026-01-26
 draft: false
 description: "sculpture by Atelier Van Lieshout"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q25352156"
 latitude: 52.520681
 longitude: 13.399087
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/400px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/800px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/1200px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg---
 
 ## Overview
 

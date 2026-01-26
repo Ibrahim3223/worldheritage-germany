@@ -4,13 +4,13 @@ site_name: "Roman Baths"
 date: 2026-01-26
 draft: false
 description: "North-east of Charlottenhof Palace in Sanssouci Park, Potsdam"
-region: "Brandenburger Vorstadt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Brandenburger Vorstadt"
+  - "Brandenburg"
 wikidata_id: "Q314898"
 latitude: 52.397778
 longitude: 13.028333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/PotsdamRoemBad.jpg/400px-PotsdamRoemBad.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/PotsdamRoemBad.jpg/800px-PotsdamRoemBad.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/PotsdamRoemBad.jpg/1200px-PotsdamRoemBad.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/PotsdamRoemBad.jpg/1920px-PotsdamRoemBad.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/PotsdamRoemBad.jpg/1920px-PotsdamRoemBad.jpg---
 
 ## Overview
 

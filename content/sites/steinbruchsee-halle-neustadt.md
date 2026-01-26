@@ -4,13 +4,13 @@ site_name: "Steinbruchsee Halle-Neustadt"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Halle-Neustadt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Halle-Neustadt"
+  - "Brandenburg"
 wikidata_id: "Q1286922"
 latitude: 51.4742
 longitude: 11.8917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HalleSteinbruchsee3.JPG/400px-HalleSteinbruchsee3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HalleSteinbruchsee3.JPG/800px-HalleSteinbruchsee3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HalleSteinbruchsee3.JPG/1200px-HalleSteinbruchsee3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HalleSteinbruchsee3.JPG/1920px-HalleSteinbruchsee3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HalleSteinbruchsee3.JPG/1920px-HalleSteinbruchsee3.JPG---
 
 ## Overview
 

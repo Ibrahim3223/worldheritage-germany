@@ -4,13 +4,13 @@ site_name: "Leuchtturm Norderney"
 date: 2026-01-26
 draft: false
 description: "lighthouse on the island Norderney, Lower Saxony, Germany"
-region: "Norderney"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Norderney"
+  - "Lower Saxony"
 wikidata_id: "Q1821446"
 latitude: 53.7093
 longitude: 7.2296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Norderney_Leuchtturm_2015.jpg/400px-Norderney_Leuchtturm_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Norderney_Leuchtturm_2015.jpg/800px-Norderney_Leuchtturm_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Norderney_Leuchtturm_2015.jpg/1200px-Norderney_Leuchtturm_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Norderney_Leuchtturm_2015.jpg/1920px-Norderney_Leuchtturm_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Norderney_Leuchtturm_2015.jpg/1920px-Norderney_Leuchtturm_2015.jpg---
 
 ## Overview
 

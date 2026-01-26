@@ -4,13 +4,13 @@ site_name: "Leuchtturm List West"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "List auf Sylt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "List auf Sylt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q979088"
 latitude: 55.0529
 longitude: 8.40145
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/400px-Sylt@Leuchtturm_List_West.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/800px-Sylt@Leuchtturm_List_West.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/1200px-Sylt@Leuchtturm_List_West.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/1920px-Sylt@Leuchtturm_List_West.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/1920px-Sylt@Leuchtturm_List_West.jpg---
 
 ## Overview
 

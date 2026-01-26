@@ -4,13 +4,13 @@ site_name: "Senfmühle Monschau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Monschau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Monschau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q16856836"
 latitude: 50.562538888
 longitude: 6.238330555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/400px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/800px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/1200px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/1920px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/1920px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg---
 
 ## Overview
 

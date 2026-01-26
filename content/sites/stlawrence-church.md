@@ -4,13 +4,13 @@ site_name: "St.Lawrence church"
 date: 2026-01-26
 draft: false
 description: "church building in Lübeck, Schleswig-Holstein state, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q2320314"
 latitude: 53.8686
 longitude: 10.6696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/400px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/800px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/1200px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/1920px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/1920px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg---
 
 ## Overview
 

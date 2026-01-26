@@ -4,13 +4,13 @@ site_name: "Makroscope"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q45786601"
 latitude: 51.42853
 longitude: 6.8793
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/400px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/800px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/1200px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/1920px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/1920px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg---
 
 ## Overview
 

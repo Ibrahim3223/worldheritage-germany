@@ -4,13 +4,13 @@ site_name: "Denkmal der Arbeiterklasse in Eisenach"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Deutschland"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1188065"
 latitude: 50.9684
 longitude: 10.3229
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ESA_DKM_KDK_Bild5.jpg/400px-ESA_DKM_KDK_Bild5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ESA_DKM_KDK_Bild5.jpg/800px-ESA_DKM_KDK_Bild5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ESA_DKM_KDK_Bild5.jpg/1200px-ESA_DKM_KDK_Bild5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ESA_DKM_KDK_Bild5.jpg/1920px-ESA_DKM_KDK_Bild5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ESA_DKM_KDK_Bild5.jpg/1920px-ESA_DKM_KDK_Bild5.jpg---
 
 ## Overview
 

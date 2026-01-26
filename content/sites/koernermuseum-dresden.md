@@ -4,13 +4,13 @@ site_name: "Körnermuseum Dresden"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1260001"
 latitude: 51.059
 longitude: 13.7386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Körnermuseumsstandort.jpg/400px-Körnermuseumsstandort.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Körnermuseumsstandort.jpg/800px-Körnermuseumsstandort.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Körnermuseumsstandort.jpg/1200px-Körnermuseumsstandort.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Körnermuseumsstandort.jpg/1920px-Körnermuseumsstandort.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Körnermuseumsstandort.jpg/1920px-Körnermuseumsstandort.jpg---
 
 ## Overview
 

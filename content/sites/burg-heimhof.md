@@ -4,13 +4,13 @@ site_name: "Burg Heimhof"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Ursensollen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ursensollen"
+  - "Bavaria"
 wikidata_id: "Q1012267"
 latitude: 49.34575
 longitude: 11.761527777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg-heimhof.jpg/400px-Burg-heimhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg-heimhof.jpg/800px-Burg-heimhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg-heimhof.jpg/1200px-Burg-heimhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg-heimhof.jpg/1920px-Burg-heimhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg-heimhof.jpg/1920px-Burg-heimhof.jpg---
 
 ## Overview
 

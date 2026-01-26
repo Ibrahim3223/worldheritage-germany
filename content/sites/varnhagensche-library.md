@@ -4,13 +4,13 @@ site_name: "Varnhagensche library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q2510884"
 latitude: 51.3736
 longitude: 7.69717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Iserlohn-AmBilstein16-1-Bubo.JPG/400px-Iserlohn-AmBilstein16-1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Iserlohn-AmBilstein16-1-Bubo.JPG/800px-Iserlohn-AmBilstein16-1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Iserlohn-AmBilstein16-1-Bubo.JPG/1200px-Iserlohn-AmBilstein16-1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Iserlohn-AmBilstein16-1-Bubo.JPG/1920px-Iserlohn-AmBilstein16-1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Iserlohn-AmBilstein16-1-Bubo.JPG/1920px-Iserlohn-AmBilstein16-1-Bubo.JPG---
 
 ## Overview
 

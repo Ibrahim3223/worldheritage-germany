@@ -4,13 +4,13 @@ site_name: "August-Gottschalk-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Esens"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Esens"
+  - "Lower Saxony"
 wikidata_id: "Q15054173"
 latitude: 53.64607
 longitude: 7.61376
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/400px-Former_Jewish_school_in_Esens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/800px-Former_Jewish_school_in_Esens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/1200px-Former_Jewish_school_in_Esens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/1920px-Former_Jewish_school_in_Esens.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/1920px-Former_Jewish_school_in_Esens.jpg---
 
 ## Overview
 

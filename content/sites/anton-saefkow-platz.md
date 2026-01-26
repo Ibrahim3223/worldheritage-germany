@@ -4,13 +4,13 @@ site_name: "Anton-Saefkow-Platz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q587773"
 latitude: 52.5294
 longitude: 13.4718
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/400px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/800px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/1200px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/1920px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/1920px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG---
 
 ## Overview
 

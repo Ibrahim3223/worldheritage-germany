@@ -4,13 +4,13 @@ site_name: "Stephanuskirche (Wolfsburg)"
 date: 2026-01-26
 draft: false
 description: "church in Wolfsburg, Germany"
-region: "Wolfsburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wolfsburg"
+  - "Lower Saxony"
 wikidata_id: "Q11722211"
 latitude: 52.3943
 longitude: 10.7542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wolfsburg_Stephanus.JPG/400px-Wolfsburg_Stephanus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wolfsburg_Stephanus.JPG/800px-Wolfsburg_Stephanus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wolfsburg_Stephanus.JPG/1200px-Wolfsburg_Stephanus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wolfsburg_Stephanus.JPG/1920px-Wolfsburg_Stephanus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wolfsburg_Stephanus.JPG/1920px-Wolfsburg_Stephanus.JPG---
 
 ## Overview
 

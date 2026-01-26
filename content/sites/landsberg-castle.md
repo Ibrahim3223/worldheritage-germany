@@ -4,13 +4,13 @@ site_name: "Landsberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Obermoschel"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Obermoschel"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012826"
 latitude: 49.7253
 longitude: 7.7808
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/400px-Landsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/800px-Landsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/1200px-Landsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/1920px-Landsburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/1920px-Landsburg.JPG---
 
 ## Overview
 

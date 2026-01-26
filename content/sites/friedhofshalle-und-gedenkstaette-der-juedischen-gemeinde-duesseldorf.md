@@ -4,19 +4,18 @@ site_name: "Friedhofshalle und Gedenkstätte der jüdischen Gemeinde, Düsseldor
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1270868"
 latitude: 51.26
 longitude: 6.7747
 images:
-  []
----
+  []---
 
 ## Overview
 

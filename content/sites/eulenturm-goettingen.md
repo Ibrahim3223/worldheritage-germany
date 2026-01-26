@@ -4,13 +4,13 @@ site_name: "Eulenturm (Göttingen)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q1373817"
 latitude: 51.5337
 longitude: 9.96285
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Goettingen_Eulenturm.jpg/400px-Goettingen_Eulenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Goettingen_Eulenturm.jpg/800px-Goettingen_Eulenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Goettingen_Eulenturm.jpg/1200px-Goettingen_Eulenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Goettingen_Eulenturm.jpg/1920px-Goettingen_Eulenturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Goettingen_Eulenturm.jpg/1920px-Goettingen_Eulenturm.jpg---
 
 ## Overview
 

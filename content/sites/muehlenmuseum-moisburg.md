@@ -4,13 +4,13 @@ site_name: "Mühlenmuseum Moisburg"
 date: 2026-01-26
 draft: false
 description: "museum and water mill in Moisburg, Lower Saxony, Germany"
-region: "Moisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Moisburg"
+  - "Lower Saxony"
 wikidata_id: "Q1552095"
 latitude: 53.4051
 longitude: 9.69492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/400px-Mühlenmuseum_Moisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/800px-Mühlenmuseum_Moisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/1200px-Mühlenmuseum_Moisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/1920px-Mühlenmuseum_Moisburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/1920px-Mühlenmuseum_Moisburg.jpg---
 
 ## Overview
 

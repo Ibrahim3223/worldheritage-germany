@@ -4,13 +4,13 @@ site_name: "Catholic Holy Cross Church, Münster"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q1594971"
 latitude: 51.970136
 longitude: 7.623972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/400px-Muenster-Kreuzkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/800px-Muenster-Kreuzkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/1200px-Muenster-Kreuzkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/1920px-Muenster-Kreuzkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/1920px-Muenster-Kreuzkirche.jpg---
 
 ## Overview
 

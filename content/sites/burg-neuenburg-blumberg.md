@@ -4,19 +4,18 @@ site_name: "Burg Neuenburg (Blumberg)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Blumberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Blumberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013263"
 latitude: 47.8472
 longitude: 8.29608
 images:
-  []
----
+  []---
 
 ## Overview
 

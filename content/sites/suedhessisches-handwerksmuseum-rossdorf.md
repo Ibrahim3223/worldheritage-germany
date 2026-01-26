@@ -4,19 +4,18 @@ site_name: "Südhessisches Handwerksmuseum Roßdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Roßdorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Roßdorf"
+  - "Hesse"
 wikidata_id: "Q76634170"
 latitude: 49.86369
 longitude: 8.758363
 images:
-  []
----
+  []---
 
 ## Overview
 

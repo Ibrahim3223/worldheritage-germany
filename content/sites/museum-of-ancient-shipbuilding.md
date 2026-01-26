@@ -4,13 +4,13 @@ site_name: "Museum of Ancient Shipbuilding"
 date: 2026-01-26
 draft: false
 description: "maritime museum in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1954606"
 latitude: 49.9941
 longitude: 8.28042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mainz_SchifffahrtsmusemII.jpg/400px-Mainz_SchifffahrtsmusemII.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mainz_SchifffahrtsmusemII.jpg/800px-Mainz_SchifffahrtsmusemII.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mainz_SchifffahrtsmusemII.jpg/1200px-Mainz_SchifffahrtsmusemII.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mainz_SchifffahrtsmusemII.jpg/1920px-Mainz_SchifffahrtsmusemII.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mainz_SchifffahrtsmusemII.jpg/1920px-Mainz_SchifffahrtsmusemII.jpg---
 
 ## Overview
 

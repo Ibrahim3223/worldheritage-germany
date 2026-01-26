@@ -4,13 +4,13 @@ site_name: "Town hall of Tübingen"
 date: 2026-01-26
 draft: false
 description: "building in Tübingen, Germany"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q25480425"
 latitude: 48.5203
 longitude: 9.05324
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg/400px-Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg/800px-Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg/1200px-Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg/1920px-Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg/1920px-Tübingen_-_Altstadt_-_Marktplatz_-_Ansicht_nach_NW_-_Rathaus_und_Umgebung_in_blauer_Stunde.jpg---
 
 ## Overview
 

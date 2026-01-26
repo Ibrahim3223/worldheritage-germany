@@ -4,13 +4,13 @@ site_name: "Usedom"
 date: 2026-01-26
 draft: false
 description: "Baltic Sea island"
-region: "Western Pomerania"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Western Pomerania"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q3255"
 latitude: 53.933333333
 longitude: 14.083333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StrandDüne.JPG/400px-StrandDüne.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StrandDüne.JPG/800px-StrandDüne.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StrandDüne.JPG/1200px-StrandDüne.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StrandDüne.JPG/1920px-StrandDüne.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StrandDüne.JPG/1920px-StrandDüne.JPG---
 
 ## Overview
 

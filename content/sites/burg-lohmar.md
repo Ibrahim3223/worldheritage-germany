@@ -4,13 +4,13 @@ site_name: "Burg Lohmar"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lohmar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lohmar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013010"
 latitude: 50.8411
 longitude: 7.20278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg/400px-Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg/800px-Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg/1200px-Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg/1920px-Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg/1920px-Burg_Lohmar_Herrenhaus_Südwestgiebel.jpg---
 
 ## Overview 
 

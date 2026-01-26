@@ -4,13 +4,13 @@ site_name: "Beuron Archabbey"
 date: 2026-01-26
 draft: false
 description: "abbey in Baden-Württemberg, Germany"
-region: "Beuron"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Beuron"
+  - "Baden-Württemberg"
 wikidata_id: "Q450038"
 latitude: 48.050722222
 longitude: 8.969333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg---
 
 ## Overview
 

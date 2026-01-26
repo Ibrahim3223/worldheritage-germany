@@ -4,13 +4,13 @@ site_name: "Großer Bischofsweiher"
 date: 2026-01-26
 draft: false
 description: "lake in Franconia, Bavaria, Germany"
-region: "Erlangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Erlangen"
+  - "Bavaria"
 wikidata_id: "Q1181824"
 latitude: 49.6305
 longitude: 10.9508
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/400px-Optimisten_dechsendorfer_weiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/800px-Optimisten_dechsendorfer_weiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/1200px-Optimisten_dechsendorfer_weiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/1920px-Optimisten_dechsendorfer_weiher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/1920px-Optimisten_dechsendorfer_weiher.jpg---
 
 ## Overview
 

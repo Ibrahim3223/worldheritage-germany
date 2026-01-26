@@ -4,13 +4,13 @@ site_name: "Kleiner Hermann"
 date: 2026-01-26
 draft: false
 description: "statue in Paderborn, Germany"
-region: "Paderborn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Paderborn"
+  - "Lower Saxony"
 wikidata_id: "Q29015532"
 latitude: 51.726
 longitude: 8.760694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/400px-Kleiner_Hermann_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/800px-Kleiner_Hermann_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/1200px-Kleiner_Hermann_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/1920px-Kleiner_Hermann_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/1920px-Kleiner_Hermann_(cropped).jpg---
 
 ## Overview
 

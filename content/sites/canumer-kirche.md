@@ -4,13 +4,13 @@ site_name: "Canumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q210039"
 latitude: 53.4259
 longitude: 7.11347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/400px-ChurchCanum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/800px-ChurchCanum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1200px-ChurchCanum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1920px-ChurchCanum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1920px-ChurchCanum.jpg---
 
 ## Overview
 

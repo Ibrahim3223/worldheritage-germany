@@ -4,13 +4,13 @@ site_name: "Naxburg"
 date: 2026-01-26
 draft: false
 description: "mountain in Hesse, Germany"
-region: "Freiensteinau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Freiensteinau"
+  - "Bavaria"
 wikidata_id: "Q372955"
 latitude: 50.45
 longitude: 9.39194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/400px-Auf_der_Naxburg_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/800px-Auf_der_Naxburg_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/1200px-Auf_der_Naxburg_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/1920px-Auf_der_Naxburg_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/1920px-Auf_der_Naxburg_1.JPG---
 
 ## Overview
 

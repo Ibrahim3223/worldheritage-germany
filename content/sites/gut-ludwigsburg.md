@@ -4,13 +4,13 @@ site_name: "Gut Ludwigsburg"
 date: 2026-01-26
 draft: false
 description: "manor house in Waabs, Germany"
-region: "Waabs"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Waabs"
+  - "Schleswig-Holstein"
 wikidata_id: "Q634471"
 latitude: 54.5132
 longitude: 9.93158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/400px-Herrenhaus_Gut_Ludwigsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/800px-Herrenhaus_Gut_Ludwigsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1200px-Herrenhaus_Gut_Ludwigsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1920px-Herrenhaus_Gut_Ludwigsburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1920px-Herrenhaus_Gut_Ludwigsburg.JPG---
 
 ## Overview
 

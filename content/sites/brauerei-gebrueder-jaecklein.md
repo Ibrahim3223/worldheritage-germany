@@ -4,13 +4,13 @@ site_name: "Brauerei Gebrüder Jäcklein"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q900202"
 latitude: 50.694167
 longitude: 10.923333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jaecklein-Brauerei_Ilmenau.jpg/400px-Jaecklein-Brauerei_Ilmenau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jaecklein-Brauerei_Ilmenau.jpg/800px-Jaecklein-Brauerei_Ilmenau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jaecklein-Brauerei_Ilmenau.jpg/1200px-Jaecklein-Brauerei_Ilmenau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jaecklein-Brauerei_Ilmenau.jpg/1920px-Jaecklein-Brauerei_Ilmenau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jaecklein-Brauerei_Ilmenau.jpg/1920px-Jaecklein-Brauerei_Ilmenau.jpg---
 
 ## Overview
 

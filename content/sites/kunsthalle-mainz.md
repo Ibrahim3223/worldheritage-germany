@@ -4,13 +4,13 @@ site_name: "Kunsthalle Mainz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neustadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neustadt"
+  - "Hesse"
 wikidata_id: "Q1236023"
 latitude: 50.0122
 longitude: 8.2626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/400px-Kunsthalle-Mainz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/800px-Kunsthalle-Mainz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/1200px-Kunsthalle-Mainz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/1920px-Kunsthalle-Mainz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/1920px-Kunsthalle-Mainz.jpg---
 
 ## Overview
 

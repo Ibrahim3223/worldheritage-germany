@@ -4,13 +4,13 @@ site_name: "Borkener Paradies"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Meppen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Meppen"
+  - "Lower Saxony"
 wikidata_id: "Q893842"
 latitude: 52.7214
 longitude: 7.24028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/400px-Meppen_-_Borkener_Paradies_14_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/800px-Meppen_-_Borkener_Paradies_14_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1200px-Meppen_-_Borkener_Paradies_14_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1920px-Meppen_-_Borkener_Paradies_14_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1920px-Meppen_-_Borkener_Paradies_14_ies.jpg---
 
 ## Overview
 

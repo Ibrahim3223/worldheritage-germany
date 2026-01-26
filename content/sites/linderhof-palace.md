@@ -4,13 +4,13 @@ site_name: "Linderhof Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Bavaria, Germany"
-region: "Ettal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Ettal"
+  - "Bavaria"
 wikidata_id: "Q162052"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/400px-Linderhof-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/800px-Linderhof-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/1200px-Linderhof-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/1920px-Linderhof-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/1920px-Linderhof-1.jpg---
 
 ## Overview
 

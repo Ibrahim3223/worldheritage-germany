@@ -4,13 +4,13 @@ site_name: "Unikatum children's museum"
 date: 2026-01-26
 draft: false
 description: "museum in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2494394"
 latitude: 51.3314
 longitude: 12.338
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/400px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/800px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/1200px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/1920px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/1920px-Museum_in_Zschochersche_Straße,_Leipzig.jpg---
 
 ## Overview 
 

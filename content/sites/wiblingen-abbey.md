@@ -4,13 +4,13 @@ site_name: "Wiblingen Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Wiblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Wiblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q181304"
 latitude: 48.3617
 longitude: 9.992
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/400px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/800px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/1200px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/1920px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/1920px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg---
 
 ## Overview
 

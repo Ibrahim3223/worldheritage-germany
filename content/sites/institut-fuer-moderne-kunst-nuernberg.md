@@ -4,19 +4,18 @@ site_name: "Institut für moderne Kunst Nürnberg"
 date: 2026-01-26
 draft: false
 description: "The Institute for Modern Art Nuremberg (founded in 1967) is an information and documentation center for contemporary art, which is supported by the Fr"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1386399"
 latitude: 49.448195062
 longitude: 11.079778539
 images:
-  []
----
+  []---
 
 ## Overview
 

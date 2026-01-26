@@ -4,13 +4,13 @@ site_name: "St. Michael (Leer)"
 date: 2026-01-26
 draft: false
 description: "church building in Leer, Germany"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q2316553"
 latitude: 53.228
 longitude: 7.44769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/400px-ChurchLeerCath.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/800px-ChurchLeerCath.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/1200px-ChurchLeerCath.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/1920px-ChurchLeerCath.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/1920px-ChurchLeerCath.JPG---
 
 ## Overview
 

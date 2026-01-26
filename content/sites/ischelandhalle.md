@@ -4,13 +4,13 @@ site_name: "Ischelandhalle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Hagen, Germany"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q17459343"
 latitude: 51.370833333
 longitude: 7.477222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/400px-Krollmann_Arena_Hagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/800px-Krollmann_Arena_Hagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/1200px-Krollmann_Arena_Hagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/1920px-Krollmann_Arena_Hagen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/1920px-Krollmann_Arena_Hagen.jpg---
 
 ## Overview
 

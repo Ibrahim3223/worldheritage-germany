@@ -4,19 +4,18 @@ site_name: "Müglitztalbahn (Sachgesamtheit) Cunnersdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Glashütte"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Glashütte"
+  - "Saxony"
 wikidata_id: "Q49441935"
 latitude: 50.872249629
 longitude: 13.814578611
 images:
-  []
----
+  []---
 
 ## Overview
 

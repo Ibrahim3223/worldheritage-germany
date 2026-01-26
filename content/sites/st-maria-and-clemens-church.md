@@ -4,13 +4,13 @@ site_name: "St Maria and Clemens Church"
 date: 2026-01-26
 draft: false
 description: "church in Bonn"
-region: "Beuel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Beuel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q322935"
 latitude: 50.750669
 longitude: 7.114978
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bonn_schwarzrheindorf_doppelkirche_aussen.jpg/400px-Bonn_schwarzrheindorf_doppelkirche_aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bonn_schwarzrheindorf_doppelkirche_aussen.jpg/800px-Bonn_schwarzrheindorf_doppelkirche_aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bonn_schwarzrheindorf_doppelkirche_aussen.jpg/1200px-Bonn_schwarzrheindorf_doppelkirche_aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bonn_schwarzrheindorf_doppelkirche_aussen.jpg/1920px-Bonn_schwarzrheindorf_doppelkirche_aussen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bonn_schwarzrheindorf_doppelkirche_aussen.jpg/1920px-Bonn_schwarzrheindorf_doppelkirche_aussen.jpg---
 
 ## Overview
 

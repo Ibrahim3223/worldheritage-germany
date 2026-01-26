@@ -4,13 +4,13 @@ site_name: "Schloss Prantseck"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Bad Aibling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bad Aibling"
+  - "Bavaria"
 wikidata_id: "Q1670092"
 latitude: 47.867682421
 longitude: 12.010626814
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/400px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/800px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/1200px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/1920px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/1920px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg---
 
 ## Overview
 

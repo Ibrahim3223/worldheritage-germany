@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Hausham"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Hausham"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Hausham"
+  - "Bavaria"
 wikidata_id: "Q28729499"
 latitude: 47.74719
 longitude: 11.84159
 images:
-  []
----
+  []---
 
 ## Overview
 

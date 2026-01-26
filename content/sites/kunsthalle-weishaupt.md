@@ -4,13 +4,13 @@ site_name: "Kunsthalle Weishaupt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q1792420"
 latitude: 48.3976
 longitude: 9.99492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/400px-Kunsthalle_Weishaupt_Frontseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/800px-Kunsthalle_Weishaupt_Frontseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/1200px-Kunsthalle_Weishaupt_Frontseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/1920px-Kunsthalle_Weishaupt_Frontseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/1920px-Kunsthalle_Weishaupt_Frontseite.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Villa Stahmer"
 date: 2026-01-26
 draft: false
 description: "museum in Georgsmarienhütte, Lower Saxony, Germany"
-region: "Georgsmarienhütte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Georgsmarienhütte"
+  - "Lower Saxony"
 wikidata_id: "Q1760885"
 latitude: 52.2036
 longitude: 8.05361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/400px-GeorgsmarienhütteMuseumVillaStahmer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/800px-GeorgsmarienhütteMuseumVillaStahmer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/1200px-GeorgsmarienhütteMuseumVillaStahmer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/1920px-GeorgsmarienhütteMuseumVillaStahmer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/1920px-GeorgsmarienhütteMuseumVillaStahmer.jpg---
 
 ## Overview
 

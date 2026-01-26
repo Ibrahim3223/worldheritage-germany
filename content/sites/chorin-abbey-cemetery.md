@@ -4,19 +4,18 @@ site_name: "Chorin Abbey Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Chorin, Germany"
-region: "Chorin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Chorin"
+  - "Brandenburg"
 wikidata_id: "Q1291028"
 latitude: 52.8934
 longitude: 13.8834
 images:
-  []
----
+  []---
 
 ## Overview
 

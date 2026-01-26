@@ -4,13 +4,13 @@ site_name: "Eschweiler Talbahnhof"
 date: 2026-01-26
 draft: false
 description: "railway station in Eschweiler, Germany"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q129311"
 latitude: 50.8148
 longitude: 6.26389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eschweiler_Talbahnhof_Busbahnhof.jpg/400px-Eschweiler_Talbahnhof_Busbahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eschweiler_Talbahnhof_Busbahnhof.jpg/800px-Eschweiler_Talbahnhof_Busbahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eschweiler_Talbahnhof_Busbahnhof.jpg/1200px-Eschweiler_Talbahnhof_Busbahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eschweiler_Talbahnhof_Busbahnhof.jpg/1920px-Eschweiler_Talbahnhof_Busbahnhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eschweiler_Talbahnhof_Busbahnhof.jpg/1920px-Eschweiler_Talbahnhof_Busbahnhof.jpg---
 
 ## Overview 
 

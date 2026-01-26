@@ -4,13 +4,13 @@ site_name: "Ponikauhaus"
 date: 2026-01-26
 draft: false
 description: "building in Kempten, Swabia, Germany"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1751199"
 latitude: 47.7265
 longitude: 10.3182
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg/400px-Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg/800px-Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg/1200px-Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg/1920px-Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg/1920px-Ponikauhaus_Kempten_07062015_(Foto_Hilarmont).jpg---
 
 ## Overview
 

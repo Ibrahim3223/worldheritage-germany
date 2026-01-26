@@ -4,13 +4,13 @@ site_name: "Rokokoschloss Dornburg"
 date: 2026-01-26
 draft: false
 description: "palace in Dornburg, Thuringia, Germany"
-region: "Dornburg-Camburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dornburg-Camburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q79024909"
 latitude: 51.005981
 longitude: 11.668042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/400px-Dornburg_-_Rokokoschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/800px-Dornburg_-_Rokokoschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/1200px-Dornburg_-_Rokokoschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/1920px-Dornburg_-_Rokokoschloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/1920px-Dornburg_-_Rokokoschloss.jpg---
 
 ## Overview
 

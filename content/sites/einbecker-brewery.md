@@ -4,13 +4,13 @@ site_name: "Einbecker Brewery"
 date: 2026-01-26
 draft: false
 description: "public company"
-region: "Einbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Einbeck"
+  - "Lower Saxony"
 wikidata_id: "Q323095"
 latitude: 51.815833333
 longitude: 9.863333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/400px-Einbecker_Brauhaus_Hoffest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/800px-Einbecker_Brauhaus_Hoffest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1200px-Einbecker_Brauhaus_Hoffest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1920px-Einbecker_Brauhaus_Hoffest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1920px-Einbecker_Brauhaus_Hoffest.jpg---
 
 ## Overview
 

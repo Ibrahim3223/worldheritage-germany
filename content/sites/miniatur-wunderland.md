@@ -4,13 +4,13 @@ site_name: "Miniatur Wunderland"
 date: 2026-01-26
 draft: false
 description: "Model railway and miniature airport attraction in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q685524"
 latitude: 53.5438229
 longitude: 9.9889448
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/400px-DungeonMiwula.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/800px-DungeonMiwula.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/1200px-DungeonMiwula.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/1920px-DungeonMiwula.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/1920px-DungeonMiwula.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zwölf-Apostel-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Schöneberg"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q245150"
 latitude: 52.5005
 longitude: 13.3579
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/12Apostles_Church_B-Schoeneberg_01.jpg/400px-12Apostles_Church_B-Schoeneberg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/12Apostles_Church_B-Schoeneberg_01.jpg/800px-12Apostles_Church_B-Schoeneberg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/12Apostles_Church_B-Schoeneberg_01.jpg/1200px-12Apostles_Church_B-Schoeneberg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/12Apostles_Church_B-Schoeneberg_01.jpg/1920px-12Apostles_Church_B-Schoeneberg_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/12Apostles_Church_B-Schoeneberg_01.jpg/1920px-12Apostles_Church_B-Schoeneberg_01.jpg---
 
 ## Overview
 

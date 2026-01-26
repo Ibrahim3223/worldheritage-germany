@@ -4,13 +4,13 @@ site_name: "Giebichenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Halle, Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q885088"
 latitude: 51.5033
 longitude: 11.9539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/400px-Giebichenstein4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/800px-Giebichenstein4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/1200px-Giebichenstein4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/1920px-Giebichenstein4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/1920px-Giebichenstein4.jpg---
 
 ## Overview
 

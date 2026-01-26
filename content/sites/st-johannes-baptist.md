@@ -4,13 +4,13 @@ site_name: "St. Johannes Baptist"
 date: 2026-01-26
 draft: false
 description: "church building in Rheda, Germany"
-region: "Rheda-Wiedenbrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rheda-Wiedenbrück"
+  - "Lower Saxony"
 wikidata_id: "Q2319309"
 latitude: 51.8491
 longitude: 8.27776
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg/400px-Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg/800px-Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg/1200px-Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg/1920px-Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg/1920px-Rheda-Wiedenbrück_-_St._Johannes_Baptist.jpg---
 
 ## Overview
 

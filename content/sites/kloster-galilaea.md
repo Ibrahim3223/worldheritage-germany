@@ -4,13 +4,13 @@ site_name: "Kloster Galiläa"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Kloster in Meschede"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1775250"
 latitude: 51.3583
 longitude: 8.26333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/400px-Kloster_Galiläa.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/800px-Kloster_Galiläa.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/1200px-Kloster_Galiläa.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/1920px-Kloster_Galiläa.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/1920px-Kloster_Galiläa.jpg---
 
 ## Overview
 

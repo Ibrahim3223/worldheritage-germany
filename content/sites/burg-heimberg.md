@@ -4,19 +4,18 @@ site_name: "Burg Heimberg"
 date: 2026-01-26
 draft: false
 description: "castle in Unterheimbach"
-region: "Unterheimbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Unterheimbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012259"
 latitude: 49.1395
 longitude: 9.45619
 images:
-  []
----
+  []---
 
 ## Overview
 

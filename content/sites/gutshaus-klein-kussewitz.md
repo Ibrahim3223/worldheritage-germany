@@ -4,13 +4,13 @@ site_name: "Gutshaus Klein Kussewitz"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Klein Kussewitz, Gemeinde Bentwisch im Landkreis Rostock"
-region: "Bentwisch"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bentwisch"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1253513"
 latitude: 54.1338
 longitude: 12.2409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/400px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/800px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/1200px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/1920px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/1920px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG---
 
 ## Overview
 

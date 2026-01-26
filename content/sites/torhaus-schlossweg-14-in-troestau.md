@@ -4,19 +4,18 @@ site_name: "Torhaus Schloßweg 14 in Tröstau"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-79-161-17 (1) in Tröstau, Bavaria"
-region: "Tröstau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Tröstau"
+  - "Bavaria"
 wikidata_id: "Q98587104"
 latitude: 50.027411439
 longitude: 11.93371007
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fangelturm"
 date: 2026-01-26
 draft: false
 description: "tower in Barth, Germany"
-region: "Barth"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Barth"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1395594"
 latitude: 54.3668
 longitude: 12.7278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/400px-Barth_Fangelturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/800px-Barth_Fangelturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/1200px-Barth_Fangelturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/1920px-Barth_Fangelturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/1920px-Barth_Fangelturm.jpg---
 
 ## Overview
 

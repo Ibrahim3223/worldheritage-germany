@@ -4,13 +4,13 @@ site_name: "Zeche Carl"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169709"
 latitude: 51.4953
 longitude: 7.01194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/400px-Zeche_Carl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/800px-Zeche_Carl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/1200px-Zeche_Carl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/1920px-Zeche_Carl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/1920px-Zeche_Carl.jpg---
 
 ## Overview
 

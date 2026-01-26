@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kirche (Kemnitz)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kemnitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kemnitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1594957"
 latitude: 54.0743
 longitude: 13.529
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/400px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/800px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1200px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1920px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1920px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lenbachhaus"
 date: 2026-01-26
 draft: false
 description: "art museum in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q262234"
 latitude: 48.146944444
 longitude: 11.563611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lenbachhaus,_2023.jpg/400px-Lenbachhaus,_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lenbachhaus,_2023.jpg/800px-Lenbachhaus,_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lenbachhaus,_2023.jpg/1200px-Lenbachhaus,_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lenbachhaus,_2023.jpg/1920px-Lenbachhaus,_2023.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lenbachhaus,_2023.jpg/1920px-Lenbachhaus,_2023.jpg---
 
 ## Overview
 

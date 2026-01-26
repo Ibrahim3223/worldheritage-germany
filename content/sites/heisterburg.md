@@ -4,13 +4,13 @@ site_name: "Heisterburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rodenberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Rodenberg"
+  - "Lower Saxony"
 wikidata_id: "Q1601358"
 latitude: 52.296333
 longitude: 9.405417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/400px-Heisterburg_Tor_heute.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/800px-Heisterburg_Tor_heute.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/1200px-Heisterburg_Tor_heute.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/1920px-Heisterburg_Tor_heute.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/1920px-Heisterburg_Tor_heute.jpg---
 
 ## Overview
 

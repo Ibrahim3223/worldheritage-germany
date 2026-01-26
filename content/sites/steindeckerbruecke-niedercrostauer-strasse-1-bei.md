@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Niedercrostauer Straße 1 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schirgiswalde-Kirschau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schirgiswalde-Kirschau"
+  - "Saxony"
 wikidata_id: "Q49406726"
 latitude: 51.088188
 longitude: 14.452607
 images:
-  []
----
+  []---
 
 ## Overview
 

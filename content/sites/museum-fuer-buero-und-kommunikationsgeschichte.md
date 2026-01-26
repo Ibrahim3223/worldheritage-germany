@@ -4,19 +4,18 @@ site_name: "Museum für Büro- und Kommunikationsgeschichte"
 date: 2026-01-26
 draft: false
 description: "communication technics museum in Bamberg, Germany"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q1249029"
 latitude: 49.893056
 longitude: 10.886667
 images:
-  []
----
+  []---
 
 ## Overview
 

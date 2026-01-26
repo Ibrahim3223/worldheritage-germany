@@ -4,13 +4,13 @@ site_name: "Evangeliumskirche"
 date: 2026-01-26
 draft: false
 description: "Lutheran church in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1381449"
 latitude: 48.2172
 longitude: 11.5539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/400px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/800px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/1200px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/1920px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/1920px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg---
 
 ## Overview
 

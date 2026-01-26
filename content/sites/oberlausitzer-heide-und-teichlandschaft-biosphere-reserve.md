@@ -4,13 +4,13 @@ site_name: "Oberlausitzer Heide - und Teichlandschaft Biosphere Reserve"
 date: 2026-01-26
 draft: false
 description: "biosphere reserve in Saxony, Germany"
-region: "Boxberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Biosphere Reserve"
 categories:
   - "Biosphere Reserve"
 regions:
-  - "Boxberg"
+  - "Saxony"
 wikidata_id: "Q160949"
 latitude: 51.18
 longitude: 14.32
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/400px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/800px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/1200px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/1920px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/1920px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG---
 
 ## Overview
 

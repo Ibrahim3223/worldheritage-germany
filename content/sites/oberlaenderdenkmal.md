@@ -4,13 +4,13 @@ site_name: "Oberländerdenkmal"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Waakirchen, Bayern"
-region: "Waakirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Waakirchen"
+  - "Bavaria"
 wikidata_id: "Q1543550"
 latitude: 47.770576034
 longitude: 11.674861485
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oberländerdenkmal_06_2010.jpg/400px-Oberländerdenkmal_06_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oberländerdenkmal_06_2010.jpg/800px-Oberländerdenkmal_06_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oberländerdenkmal_06_2010.jpg/1200px-Oberländerdenkmal_06_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oberländerdenkmal_06_2010.jpg/1920px-Oberländerdenkmal_06_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oberländerdenkmal_06_2010.jpg/1920px-Oberländerdenkmal_06_2010.jpg---
 
 ## Overview
 

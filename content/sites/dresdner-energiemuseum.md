@@ -4,13 +4,13 @@ site_name: "Dresdner Energiemuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1360068"
 latitude: 51.05338
 longitude: 13.72207
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Energiemuseum_Dresden.jpg/400px-Energiemuseum_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Energiemuseum_Dresden.jpg/800px-Energiemuseum_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Energiemuseum_Dresden.jpg/1200px-Energiemuseum_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Energiemuseum_Dresden.jpg/1920px-Energiemuseum_Dresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Energiemuseum_Dresden.jpg/1920px-Energiemuseum_Dresden.jpg---
 
 ## Overview
 

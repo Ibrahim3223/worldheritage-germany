@@ -4,13 +4,13 @@ site_name: "Herrenhaus Vogelsang"
 date: 2026-01-26
 draft: false
 description: "building in Vogelsang, Germany"
-region: "Krakow am See"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Krakow am See"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15114710"
 latitude: 53.747139
 longitude: 12.408338
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutshaus_Vogelsang_Lalendorf_1.jpg/400px-Gutshaus_Vogelsang_Lalendorf_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutshaus_Vogelsang_Lalendorf_1.jpg/800px-Gutshaus_Vogelsang_Lalendorf_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutshaus_Vogelsang_Lalendorf_1.jpg/1200px-Gutshaus_Vogelsang_Lalendorf_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutshaus_Vogelsang_Lalendorf_1.jpg/1920px-Gutshaus_Vogelsang_Lalendorf_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutshaus_Vogelsang_Lalendorf_1.jpg/1920px-Gutshaus_Vogelsang_Lalendorf_1.jpg---
 
 ## Overview
 

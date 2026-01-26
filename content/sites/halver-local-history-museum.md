@@ -4,13 +4,13 @@ site_name: "Halver Local History Museum"
 date: 2026-01-26
 draft: false
 description: "Local museum in Germany"
-region: "Halver"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halver"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1595626"
 latitude: 51.1883
 longitude: 7.50139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Halver_-_Heimatmuseum_02_ies.jpg/400px-Halver_-_Heimatmuseum_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Halver_-_Heimatmuseum_02_ies.jpg/800px-Halver_-_Heimatmuseum_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Halver_-_Heimatmuseum_02_ies.jpg/1200px-Halver_-_Heimatmuseum_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Halver_-_Heimatmuseum_02_ies.jpg/1920px-Halver_-_Heimatmuseum_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Halver_-_Heimatmuseum_02_ies.jpg/1920px-Halver_-_Heimatmuseum_02_ies.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Icon museum of Frankfurt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q16831924"
 latitude: 50.106764
 longitude: 8.688015
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/400px-Deutschordenskirche-ffm001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/800px-Deutschordenskirche-ffm001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/1200px-Deutschordenskirche-ffm001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/1920px-Deutschordenskirche-ffm001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/1920px-Deutschordenskirche-ffm001.jpg---
 
 ## Overview
 

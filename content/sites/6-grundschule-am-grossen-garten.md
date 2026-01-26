@@ -4,13 +4,13 @@ site_name: "6. Grundschule „Am Großen Garten“"
 date: 2026-01-26
 draft: false
 description: "school building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q246029"
 latitude: 51.0427
 longitude: 13.7686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/400px-Fotothek_df_ps_0003569_Schulen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/800px-Fotothek_df_ps_0003569_Schulen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/1200px-Fotothek_df_ps_0003569_Schulen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/1920px-Fotothek_df_ps_0003569_Schulen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/1920px-Fotothek_df_ps_0003569_Schulen.jpg---
 
 ## Overview
 

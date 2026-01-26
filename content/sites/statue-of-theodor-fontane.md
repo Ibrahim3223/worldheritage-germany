@@ -4,13 +4,13 @@ site_name: "Statue of Theodor Fontane"
 date: 2026-01-26
 draft: false
 description: "copy of the statue by Max Klein in Berlin-Tiergarten, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976712"
 latitude: 52.50984
 longitude: 13.34829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/400px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/800px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/1200px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/1920px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/1920px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG---
 
 ## Overview
 

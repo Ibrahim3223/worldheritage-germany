@@ -4,13 +4,13 @@ site_name: "Pfaumoos, Niggelmoos und Bei der Schleife"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Bodnegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bodnegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q971170"
 latitude: 47.73472222
 longitude: 9.71833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/400px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/800px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/1200px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/1920px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/1920px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg---
 
 ## Overview
 

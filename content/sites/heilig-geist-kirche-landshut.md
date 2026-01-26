@@ -4,13 +4,13 @@ site_name: "Heilig-Geist-Kirche (Landshut)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q1594876"
 latitude: 48.538665303
 longitude: 12.152588808
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/400px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/800px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1200px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1920px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1920px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG---
 
 ## Overview
 

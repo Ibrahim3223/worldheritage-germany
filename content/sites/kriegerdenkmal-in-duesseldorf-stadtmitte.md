@@ -4,13 +4,13 @@ site_name: "Kriegerdenkmal in Düsseldorf-Stadtmitte"
 date: 2026-01-26
 draft: false
 description: "monument in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1788661"
 latitude: 51.2276
 longitude: 6.77982
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/400px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/800px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/1200px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/1920px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/1920px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Erinnerungsstätte für die Freiheitsbewegungen in der deutschen Ges
 date: 2026-01-26
 draft: false
 description: "museum for the German Revolution of 1848/1849 and the GDR Revolution"
-region: "Rastatt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rastatt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1354762"
 latitude: 48.8586
 longitude: 8.20444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/400px-2014-11_Erinnerungsstätte_a05.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/800px-2014-11_Erinnerungsstätte_a05.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/1200px-2014-11_Erinnerungsstätte_a05.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/1920px-2014-11_Erinnerungsstätte_a05.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/1920px-2014-11_Erinnerungsstätte_a05.JPG---
 
 ## Overview
 

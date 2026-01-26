@@ -4,13 +4,13 @@ site_name: "Kinder- und Jugendmuseum München"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ludwigsvorstadt-Isarvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ludwigsvorstadt-Isarvorstadt"
+  - "Bavaria"
 wikidata_id: "Q1741730"
 latitude: 48.1415
 longitude: 11.5581
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/400px-Kindermuseum_Mch_Aussen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/800px-Kindermuseum_Mch_Aussen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/1200px-Kindermuseum_Mch_Aussen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/1920px-Kindermuseum_Mch_Aussen_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/1920px-Kindermuseum_Mch_Aussen_2.jpg---
 
 ## Overview
 

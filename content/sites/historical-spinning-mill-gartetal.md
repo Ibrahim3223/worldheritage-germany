@@ -4,13 +4,13 @@ site_name: "Historical spinning mill Gartetal"
 date: 2026-01-26
 draft: false
 description: "museum in Germany, district Göttingen, Germany"
-region: "Gleichen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gleichen"
+  - "Hesse"
 wikidata_id: "Q76636010"
 latitude: 51.492583333
 longitude: 10.018472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/400px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/800px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/1200px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/1920px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/1920px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg---
 
 ## Overview
 

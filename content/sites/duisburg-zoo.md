@@ -4,13 +4,13 @@ site_name: "Duisburg Zoo"
 date: 2026-01-26
 draft: false
 description: "zoo in Duisburg, North Rhine-Westphalia, Germany"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q220029"
 latitude: 51.4353
 longitude: 6.80528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/400px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/800px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1200px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1920px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1920px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg---
 
 ## Overview
 

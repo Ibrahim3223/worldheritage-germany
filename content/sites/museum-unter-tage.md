@@ -4,13 +4,13 @@ site_name: "Museum unter Tage"
 date: 2026-01-26
 draft: false
 description: "museum in Bochum, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q128135004"
 latitude: 51.447610306
 longitude: 7.189802461
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/400px-Museum_unter_Tage.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/800px-Museum_unter_Tage.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/1200px-Museum_unter_Tage.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/1920px-Museum_unter_Tage.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/1920px-Museum_unter_Tage.jpg---
 
 ## Overview
 

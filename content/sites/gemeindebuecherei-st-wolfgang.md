@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei St. Wolfgang"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Sankt Wolfgang"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Sankt Wolfgang"
+  - "Bavaria"
 wikidata_id: "Q28729535"
 latitude: 48.21956
 longitude: 12.13271
 images:
-  []
----
+  []---
 
 ## Overview
 

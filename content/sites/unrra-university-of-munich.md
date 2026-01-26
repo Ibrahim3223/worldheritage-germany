@@ -4,19 +4,18 @@ site_name: "UNRRA University of Munich"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q65093904"
 latitude: 48.13
 longitude: 11.583333333
 images:
-  []
----
+  []---
 
 ## Overview
 

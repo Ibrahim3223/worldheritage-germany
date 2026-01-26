@@ -4,13 +4,13 @@ site_name: "Württembergische Landesbühne Esslingen"
 date: 2026-01-26
 draft: false
 description: "building in Esslingen am Neckar, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Esslingen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Esslingen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1239169"
 latitude: 48.7407
 longitude: 9.30906
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WLB_Esslingen.jpg/400px-WLB_Esslingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WLB_Esslingen.jpg/800px-WLB_Esslingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WLB_Esslingen.jpg/1200px-WLB_Esslingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WLB_Esslingen.jpg/1920px-WLB_Esslingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WLB_Esslingen.jpg/1920px-WLB_Esslingen.jpg---
 
 ## Overview
 

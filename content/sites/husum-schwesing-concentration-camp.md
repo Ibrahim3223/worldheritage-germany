@@ -4,13 +4,13 @@ site_name: "Husum-Schwesing concentration camp"
 date: 2026-01-26
 draft: false
 description: "former satellite camp of the Neuengamme concentration camp in Schwesig, Schleswig-Holstein (1944)"
-region: "Schwesing"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Schwesing"
+  - "Schleswig-Holstein"
 wikidata_id: "Q155459"
 latitude: 54.51003
 longitude: 9.11779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/400px-KZ_Husum-Schwesingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/800px-KZ_Husum-Schwesingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/1200px-KZ_Husum-Schwesingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/1920px-KZ_Husum-Schwesingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/1920px-KZ_Husum-Schwesingen.jpg---
 
 ## Overview
 

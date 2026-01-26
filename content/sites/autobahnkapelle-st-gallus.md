@@ -4,13 +4,13 @@ site_name: "Autobahnkapelle St. Gallus"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Leutkirch im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Leutkirch im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q1492615"
 latitude: 47.80305556
 longitude: 9.97916667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/400px-Autobahnkapelle_Leutkirch_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/800px-Autobahnkapelle_Leutkirch_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/1200px-Autobahnkapelle_Leutkirch_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/1920px-Autobahnkapelle_Leutkirch_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/1920px-Autobahnkapelle_Leutkirch_03.jpg---
 
 ## Overview
 

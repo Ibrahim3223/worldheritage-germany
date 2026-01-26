@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/400px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/800px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/1200px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/1920px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/1920px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg---
 
 ## Overview
 

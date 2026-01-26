@@ -4,13 +4,13 @@ site_name: "Luisenthaler Wasserfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1424872"
 latitude: 50.8407
 longitude: 10.3435
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/400px-Schweina_Luisentaler_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/800px-Schweina_Luisentaler_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/1200px-Schweina_Luisentaler_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/1920px-Schweina_Luisentaler_Wasserfall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/1920px-Schweina_Luisentaler_Wasserfall.jpg---
 
 ## Overview
 

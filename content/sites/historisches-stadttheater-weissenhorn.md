@@ -4,13 +4,13 @@ site_name: "Historisches Stadttheater Weißenhorn"
 date: 2026-01-26
 draft: false
 description: "theatre in Weißenhorn, Bavaria, Germany"
-region: "Weißenhorn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Weißenhorn"
+  - "Baden-Württemberg"
 wikidata_id: "Q124849"
 latitude: 48.3052
 longitude: 10.1565
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/400px-Historisches_Stadttheater_Weißenhorn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/800px-Historisches_Stadttheater_Weißenhorn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1200px-Historisches_Stadttheater_Weißenhorn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1920px-Historisches_Stadttheater_Weißenhorn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1920px-Historisches_Stadttheater_Weißenhorn.jpg---
 
 ## Overview
 

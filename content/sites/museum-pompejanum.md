@@ -4,13 +4,13 @@ site_name: "museum Pompejanum"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-61-000-232 (0) in Aschaffenburg, Bavaria"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q2103446"
 latitude: 49.9775
 longitude: 9.13639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschaffenburg_-_Pompejanum_-_5396.jpg/400px-Aschaffenburg_-_Pompejanum_-_5396.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschaffenburg_-_Pompejanum_-_5396.jpg/800px-Aschaffenburg_-_Pompejanum_-_5396.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschaffenburg_-_Pompejanum_-_5396.jpg/1200px-Aschaffenburg_-_Pompejanum_-_5396.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschaffenburg_-_Pompejanum_-_5396.jpg/1920px-Aschaffenburg_-_Pompejanum_-_5396.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschaffenburg_-_Pompejanum_-_5396.jpg/1920px-Aschaffenburg_-_Pompejanum_-_5396.jpg---
 
 ## Overview
 

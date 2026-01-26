@@ -4,13 +4,13 @@ site_name: "Mengerskirchen Castle"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Mengerskirchen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mengerskirchen"
+  - "Hesse"
 wikidata_id: "Q1013110"
 latitude: 50.5648
 longitude: 8.1558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/400px-Mengerskirchen_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/800px-Mengerskirchen_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/1200px-Mengerskirchen_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/1920px-Mengerskirchen_Schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/1920px-Mengerskirchen_Schloss.jpg---
 
 ## Overview
 

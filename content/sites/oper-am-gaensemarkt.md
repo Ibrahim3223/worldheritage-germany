@@ -4,13 +4,13 @@ site_name: "Oper am Gänsemarkt"
 date: 2026-01-26
 draft: false
 description: "former theatre in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q317455"
 latitude: 53.555
 longitude: 9.98833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/400px-Gansemarkt1726.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/800px-Gansemarkt1726.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/1200px-Gansemarkt1726.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/1920px-Gansemarkt1726.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/1920px-Gansemarkt1726.jpg---
 
 ## Overview
 

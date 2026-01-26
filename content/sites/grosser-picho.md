@@ -4,13 +4,13 @@ site_name: "Großer Picho"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Bautzen District"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Bautzen District"
+  - "Saxony"
 wikidata_id: "Q160370"
 latitude: 51.108888888
 longitude: 14.353055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wulki_Pichow_02.jpg/400px-Wulki_Pichow_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wulki_Pichow_02.jpg/800px-Wulki_Pichow_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wulki_Pichow_02.jpg/1200px-Wulki_Pichow_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wulki_Pichow_02.jpg/1920px-Wulki_Pichow_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wulki_Pichow_02.jpg/1920px-Wulki_Pichow_02.jpg---
 
 ## Overview
 

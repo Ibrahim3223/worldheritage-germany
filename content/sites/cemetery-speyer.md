@@ -4,19 +4,18 @@ site_name: "Cemetery Speyer"
 date: 2026-01-26
 draft: false
 description: "cemetery in Speyer"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22835"
 latitude: 49.3353
 longitude: 8.42667
 images:
-  []
----
+  []---
 
 ## Overview
 

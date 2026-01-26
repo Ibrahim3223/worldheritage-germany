@@ -4,13 +4,13 @@ site_name: "synagogue of Öhringen"
 date: 2026-01-26
 draft: false
 description: "synagogue in Öhringen, Germany"
-region: "Öhringen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Öhringen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1431731"
 latitude: 49.2012
 longitude: 9.49949
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/400px-Öhringen_Synagoge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/800px-Öhringen_Synagoge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/1200px-Öhringen_Synagoge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/1920px-Öhringen_Synagoge.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/1920px-Öhringen_Synagoge.JPG---
 
 ## Overview
 

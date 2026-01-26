@@ -4,13 +4,13 @@ site_name: "Buddenbrookhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q315187"
 latitude: 53.8683
 longitude: 10.6858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/400px-Lübeck_Buddenbrookhaus_070311.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/800px-Lübeck_Buddenbrookhaus_070311.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1200px-Lübeck_Buddenbrookhaus_070311.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1920px-Lübeck_Buddenbrookhaus_070311.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1920px-Lübeck_Buddenbrookhaus_070311.jpg---
 
 ## Overview
 

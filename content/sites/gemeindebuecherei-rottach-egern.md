@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Rottach-Egern"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Rottach-Egern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Rottach-Egern"
+  - "Bavaria"
 wikidata_id: "Q28729478"
 latitude: 47.69513
 longitude: 11.75985
 images:
-  []
----
+  []---
 
 ## Overview
 

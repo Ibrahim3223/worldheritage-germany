@@ -4,13 +4,13 @@ site_name: "St.Christopher's church"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin-Siemensstadt"
-region: "Spandau"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Spandau"
+  - "Berlin"
 wikidata_id: "Q1087113"
 latitude: 52.5415
 longitude: 13.267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/400px-Christophorus-Kirche_Siemensstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/800px-Christophorus-Kirche_Siemensstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/1200px-Christophorus-Kirche_Siemensstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/1920px-Christophorus-Kirche_Siemensstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/1920px-Christophorus-Kirche_Siemensstadt.jpg---
 
 ## Overview
 

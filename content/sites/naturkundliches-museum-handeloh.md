@@ -4,13 +4,13 @@ site_name: "Naturkundliches Museum Handeloh"
 date: 2026-01-26
 draft: false
 description: "museum in Handeloh, Germany"
-region: "Handeloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Handeloh"
+  - "Lower Saxony"
 wikidata_id: "Q76636135"
 latitude: 53.243402
 longitude: 9.843641
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/400px-Naturkundliches_Museum_Handeloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/800px-Naturkundliches_Museum_Handeloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/1200px-Naturkundliches_Museum_Handeloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/1920px-Naturkundliches_Museum_Handeloh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/1920px-Naturkundliches_Museum_Handeloh.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Staatliche Kunsthalle Karlsruhe"
 date: 2026-01-26
 draft: false
 description: "museum in Karlsruhe, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q658725"
 latitude: 49.0119
 longitude: 8.4
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/400px-KarlsruherKunsthalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/800px-KarlsruherKunsthalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/1200px-KarlsruherKunsthalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/1920px-KarlsruherKunsthalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/1920px-KarlsruherKunsthalle.jpg---
 
 ## Overview
 

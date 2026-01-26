@@ -4,13 +4,13 @@ site_name: "Johanneskirche (Bad Tölz)"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1698819"
 latitude: 47.7575
 longitude: 11.5487
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/400px-Johanneskirche_Bad_Tölz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/800px-Johanneskirche_Bad_Tölz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/1200px-Johanneskirche_Bad_Tölz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/1920px-Johanneskirche_Bad_Tölz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/1920px-Johanneskirche_Bad_Tölz.jpg---
 
 ## Overview
 

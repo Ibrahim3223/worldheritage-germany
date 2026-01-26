@@ -4,13 +4,13 @@ site_name: "Karl-Foerster-Garten"
 date: 2026-01-26
 draft: false
 description: "garden in Potsdam, Germany"
-region: "Nord"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Nord"
+  - "Brandenburg"
 wikidata_id: "Q1729752"
 latitude: 52.4207
 longitude: 13.0203
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/400px-Bornim,_Senkgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/800px-Bornim,_Senkgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/1200px-Bornim,_Senkgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/1920px-Bornim,_Senkgarten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/1920px-Bornim,_Senkgarten.jpg---
 
 ## Overview
 

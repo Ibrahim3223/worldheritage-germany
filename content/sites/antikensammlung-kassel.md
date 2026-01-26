@@ -4,13 +4,13 @@ site_name: "Antikensammlung Kassel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q27831279"
 latitude: 51.315
 longitude: 9.416111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schloss_Wilhelmshöhe_001.jpg/400px-Schloss_Wilhelmshöhe_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schloss_Wilhelmshöhe_001.jpg/800px-Schloss_Wilhelmshöhe_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schloss_Wilhelmshöhe_001.jpg/1200px-Schloss_Wilhelmshöhe_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schloss_Wilhelmshöhe_001.jpg/1920px-Schloss_Wilhelmshöhe_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schloss_Wilhelmshöhe_001.jpg/1920px-Schloss_Wilhelmshöhe_001.jpg---
 
 ## Overview
 

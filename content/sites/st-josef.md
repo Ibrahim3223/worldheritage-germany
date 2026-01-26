@@ -4,13 +4,13 @@ site_name: "St. Josef"
 date: 2026-01-26
 draft: false
 description: "church building in Einbeck, Germany"
-region: "Einbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Einbeck"
+  - "Lower Saxony"
 wikidata_id: "Q1671642"
 latitude: 51.8204
 longitude: 9.87072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Einbeck_Kirche_Josef_2011.JPG/400px-Einbeck_Kirche_Josef_2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Einbeck_Kirche_Josef_2011.JPG/800px-Einbeck_Kirche_Josef_2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Einbeck_Kirche_Josef_2011.JPG/1200px-Einbeck_Kirche_Josef_2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Einbeck_Kirche_Josef_2011.JPG/1920px-Einbeck_Kirche_Josef_2011.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Einbeck_Kirche_Josef_2011.JPG/1920px-Einbeck_Kirche_Josef_2011.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Riesending cave"
 date: 2026-01-26
 draft: false
 description: "pit cave"
-region: "Bischofswiesen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Bischofswiesen"
+  - "Bavaria"
 wikidata_id: "Q1274976"
 latitude: 47.6994
 longitude: 12.9831
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Riesending-arbeiten2.jpg/400px-Riesending-arbeiten2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Riesending-arbeiten2.jpg/800px-Riesending-arbeiten2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Riesending-arbeiten2.jpg/1200px-Riesending-arbeiten2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Riesending-arbeiten2.jpg/1920px-Riesending-arbeiten2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Riesending-arbeiten2.jpg/1920px-Riesending-arbeiten2.jpg---
 
 ## Overview
 

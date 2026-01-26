@@ -4,13 +4,13 @@ site_name: "Stiftskirche Bassum"
 date: 2026-01-26
 draft: false
 description: "church building in Bassum, Germany"
-region: "Bassum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bassum"
+  - "Lower Saxony"
 wikidata_id: "Q1768334"
 latitude: 52.8448
 longitude: 8.72367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/400px-Bassum_20090501_105.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/800px-Bassum_20090501_105.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/1200px-Bassum_20090501_105.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/1920px-Bassum_20090501_105.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/1920px-Bassum_20090501_105.JPG---
 
 ## Overview
 

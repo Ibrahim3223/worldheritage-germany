@@ -4,13 +4,13 @@ site_name: "Dünenfriedhof Langeoog"
 date: 2026-01-26
 draft: false
 description: "cemetery in Langeoog, Germany"
-region: "Langeoog"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Langeoog"
+  - "Lower Saxony"
 wikidata_id: "Q1271754"
 latitude: 53.7533
 longitude: 7.48944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/400px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/800px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/1200px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/1920px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/1920px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg---
 
 ## Overview
 

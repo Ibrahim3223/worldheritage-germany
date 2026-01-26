@@ -4,13 +4,13 @@ site_name: "Heringsfängermuseum Heimsen"
 date: 2026-01-26
 draft: false
 description: "museum in Petershagen, Germany"
-region: "Petershagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Petershagen"
+  - "Lower Saxony"
 wikidata_id: "Q1609990"
 latitude: 52.465
 longitude: 9.06056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Heringsfängermuseum1.jpg/400px-Heringsfängermuseum1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Heringsfängermuseum1.jpg/800px-Heringsfängermuseum1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Heringsfängermuseum1.jpg/1200px-Heringsfängermuseum1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Heringsfängermuseum1.jpg/1920px-Heringsfängermuseum1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Heringsfängermuseum1.jpg/1920px-Heringsfängermuseum1.jpg---
 
 ## Overview
 

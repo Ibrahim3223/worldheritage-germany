@@ -4,13 +4,13 @@ site_name: "Reformationskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1249628"
 latitude: 52.1838
 longitude: 11.6626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reformationskirche1.jpg/400px-Reformationskirche1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reformationskirche1.jpg/800px-Reformationskirche1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reformationskirche1.jpg/1200px-Reformationskirche1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reformationskirche1.jpg/1920px-Reformationskirche1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reformationskirche1.jpg/1920px-Reformationskirche1.jpg---
 
 ## Overview
 

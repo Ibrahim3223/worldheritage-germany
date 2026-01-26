@@ -4,19 +4,18 @@ site_name: "Raemmelken bridge"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rheda-Wiedenbrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rheda-Wiedenbrück"
+  - "Lower Saxony"
 wikidata_id: "Q1565712"
 latitude: 51.8379
 longitude: 8.23589
 images:
-  []
----
+  []---
 
 ## Overview
 

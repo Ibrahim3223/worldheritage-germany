@@ -4,13 +4,13 @@ site_name: "Burg Lobenhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lobenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lobenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013001"
 latitude: 49.1865
 longitude: 10.0073
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/400px-Lobenhausen_110508.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/800px-Lobenhausen_110508.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/1200px-Lobenhausen_110508.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/1920px-Lobenhausen_110508.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/1920px-Lobenhausen_110508.jpg---
 
 ## Overview
 

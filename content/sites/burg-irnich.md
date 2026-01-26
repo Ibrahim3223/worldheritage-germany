@@ -4,13 +4,13 @@ site_name: "Burg Irnich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Zülpich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Zülpich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012566"
 latitude: 50.6439
 longitude: 6.63671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Irnich.jpg/400px-Burg_Irnich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Irnich.jpg/800px-Burg_Irnich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Irnich.jpg/1200px-Burg_Irnich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Irnich.jpg/1920px-Burg_Irnich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Irnich.jpg/1920px-Burg_Irnich.jpg---
 
 ## Overview
 

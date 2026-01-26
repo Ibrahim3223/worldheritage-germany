@@ -4,19 +4,18 @@ site_name: "Staatsgalerie Neuburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuburg an der Donau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Neuburg an der Donau"
+  - "Bavaria"
 wikidata_id: "Q2324941"
 latitude: 48.736941666
 longitude: 11.180463888
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ernst-Abbe-Denkmal"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1356974"
 latitude: 50.9279
 longitude: 11.5801
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/400px-Jena_Ernst-Abbe-Denkmal_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/800px-Jena_Ernst-Abbe-Denkmal_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/1200px-Jena_Ernst-Abbe-Denkmal_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/1920px-Jena_Ernst-Abbe-Denkmal_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/1920px-Jena_Ernst-Abbe-Denkmal_2.jpg---
 
 ## Overview
 

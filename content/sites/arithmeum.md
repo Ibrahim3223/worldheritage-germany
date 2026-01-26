@@ -4,13 +4,13 @@ site_name: "Arithmeum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Science Museum"
 categories:
   - "Science Museum"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q669212"
 latitude: 50.7306
 longitude: 7.10492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/400px-Arithmeum_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/800px-Arithmeum_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/1200px-Arithmeum_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/1920px-Arithmeum_von_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/1920px-Arithmeum_von_Norden.jpg---
 
 ## Overview
 

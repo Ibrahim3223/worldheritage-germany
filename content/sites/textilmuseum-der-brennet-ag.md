@@ -4,19 +4,18 @@ site_name: "Textilmuseum der Brennet AG"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wehr"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wehr"
+  - "Baden-Württemberg"
 wikidata_id: "Q2407936"
 latitude: 47.6297
 longitude: 7.9055
 images:
-  []
----
+  []---
 
 ## Overview
 

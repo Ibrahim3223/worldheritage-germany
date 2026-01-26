@@ -4,19 +4,18 @@ site_name: "Garten Richard-Wagner-Straße 12 in Kulmbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-77-128-195 (2) in Kulmbach, Bavaria"
-region: "Kulmbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Kulmbach"
+  - "Bavaria"
 wikidata_id: "Q98589402"
 latitude: 50.101095124
 longitude: 11.448233752
 images:
-  []
----
+  []---
 
 ## Overview
 

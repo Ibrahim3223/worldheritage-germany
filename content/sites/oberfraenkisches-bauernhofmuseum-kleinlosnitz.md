@@ -4,19 +4,18 @@ site_name: "Oberfränkisches Bauernhofmuseum Kleinlosnitz"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Zell im Fichtelgebirge"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zell im Fichtelgebirge"
+  - "Bavaria"
 wikidata_id: "Q2009653"
 latitude: 50.1558
 longitude: 11.7903
 images:
-  []
----
+  []---
 
 ## Overview
 

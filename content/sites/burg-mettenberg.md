@@ -4,19 +4,18 @@ site_name: "Burg Mettenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rot an der Rot"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rot an der Rot"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013116"
 latitude: 48.028
 longitude: 10.0297
 images:
-  []
----
+  []---
 
 ## Overview
 

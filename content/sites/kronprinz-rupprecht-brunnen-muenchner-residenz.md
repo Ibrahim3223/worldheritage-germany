@@ -4,13 +4,13 @@ site_name: "Kronprinz-Rupprecht-Brunnen (Münchner Residenz)"
 date: 2026-01-26
 draft: false
 description: "water well in Munich"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q1278674"
 latitude: 48.141
 longitude: 11.5806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg/400px-Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg/800px-Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg/1200px-Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg/1920px-Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg/1920px-Kronprinz-Rupprecht-Brunnen_Muenchen-1.jpg---
 
 ## Overview
 

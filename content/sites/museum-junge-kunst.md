@@ -4,13 +4,13 @@ site_name: "Museum Junge Kunst"
 date: 2026-01-26
 draft: false
 description: "Museum Junge Kunst in Frankfurt (Oder)"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q11780290"
 latitude: 52.345
 longitude: 14.5547
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/400px-Packhof_Frankfurt_Oder_20141213_004.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/800px-Packhof_Frankfurt_Oder_20141213_004.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/1200px-Packhof_Frankfurt_Oder_20141213_004.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/1920px-Packhof_Frankfurt_Oder_20141213_004.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/1920px-Packhof_Frankfurt_Oder_20141213_004.JPG---
 
 ## Overview
 

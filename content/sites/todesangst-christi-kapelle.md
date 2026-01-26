@@ -4,13 +4,13 @@ site_name: "Todesangst-Christi-Kapelle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1300735"
 latitude: 48.2719
 longitude: 11.4678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KZ_Dachau_Todesangst-Christi-Kapelle.jpg/400px-KZ_Dachau_Todesangst-Christi-Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KZ_Dachau_Todesangst-Christi-Kapelle.jpg/800px-KZ_Dachau_Todesangst-Christi-Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KZ_Dachau_Todesangst-Christi-Kapelle.jpg/1200px-KZ_Dachau_Todesangst-Christi-Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KZ_Dachau_Todesangst-Christi-Kapelle.jpg/1920px-KZ_Dachau_Todesangst-Christi-Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KZ_Dachau_Todesangst-Christi-Kapelle.jpg/1920px-KZ_Dachau_Todesangst-Christi-Kapelle.jpg---
 
 ## Overview
 

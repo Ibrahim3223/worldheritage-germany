@@ -4,13 +4,13 @@ site_name: "School of the Cross"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1563163"
 latitude: 51.0461
 longitude: 13.7422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg/400px-Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg/800px-Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg/1200px-Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg/1920px-Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg/1920px-Dresden_Kreuzschule_-_1869,_Helas_Bildnr._148.jpg---
 
 ## Overview
 

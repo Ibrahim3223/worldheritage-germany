@@ -4,13 +4,13 @@ site_name: "Wilhelm-Hack-Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Ludwigshafen, Germany"
-region: "Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q499901"
 latitude: 49.4801
 longitude: 8.44407
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/400px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/800px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/1200px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/1920px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/1920px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg---
 
 ## Overview
 

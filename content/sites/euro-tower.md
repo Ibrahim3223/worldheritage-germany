@@ -4,13 +4,13 @@ site_name: "Euro-Tower"
 date: 2026-01-26
 draft: false
 description: "tower in Europa-Park Rust, Germany"
-region: "Rust"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rust"
+  - "Baden-Württemberg"
 wikidata_id: "Q1374494"
 latitude: 48.267
 longitude: 7.72198
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/400px-Euro-Tower.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/800px-Euro-Tower.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/1200px-Euro-Tower.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/1920px-Euro-Tower.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/1920px-Euro-Tower.jpg---
 
 ## Overview
 

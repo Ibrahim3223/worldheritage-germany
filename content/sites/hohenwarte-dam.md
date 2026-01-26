@@ -4,13 +4,13 @@ site_name: "Hohenwarte Dam"
 date: 2026-01-26
 draft: false
 description: "dam on the Saale in Germany"
-region: "Hohenwarte"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Hohenwarte"
+  - "Thuringia"
 wikidata_id: "Q1111818"
 latitude: 50.61424
 longitude: 11.49204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/400px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/800px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/1200px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/1920px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/1920px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg---
 
 ## Overview
 

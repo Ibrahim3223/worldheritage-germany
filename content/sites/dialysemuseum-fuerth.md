@@ -4,13 +4,13 @@ site_name: "Dialysemuseum Fürth"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fürth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fürth"
+  - "Bavaria"
 wikidata_id: "Q40825027"
 latitude: 49.48561
 longitude: 10.97793
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dialysemuseum.jpg/400px-Dialysemuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dialysemuseum.jpg/800px-Dialysemuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dialysemuseum.jpg/1200px-Dialysemuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dialysemuseum.jpg/1920px-Dialysemuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dialysemuseum.jpg/1920px-Dialysemuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Plettenberg"
 date: 2026-01-26
 draft: false
 description: "mountain of the Swabian Jura in Baden-Württemberg, Germany"
-region: "Dotternhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Dotternhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q167378"
 latitude: 48.2133922
 longitude: 8.8072396
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/400px-Ortenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/800px-Ortenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/1200px-Ortenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/1920px-Ortenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/1920px-Ortenberg.jpg---
 
 ## Overview
 

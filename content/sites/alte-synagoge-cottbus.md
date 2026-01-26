@@ -4,19 +4,18 @@ site_name: "Alte Synagoge (Cottbus)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q436270"
 latitude: 51.7574
 longitude: 14.3286
 images:
-  []
----
+  []---
 
 ## Overview
 

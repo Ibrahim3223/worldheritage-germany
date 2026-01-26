@@ -4,19 +4,18 @@ site_name: "Öffentliche Evangelische Gemeindebücherei Solingen Dorp"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Solingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Solingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q28729523"
 latitude: 51.16038
 longitude: 7.10337
 images:
-  []
----
+  []---
 
 ## Overview
 

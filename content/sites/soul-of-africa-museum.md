@@ -4,13 +4,13 @@ site_name: "Soul of Africa Museum"
 date: 2026-01-26
 draft: false
 description: "private museum in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1802454"
 latitude: 51.4408
 longitude: 7.00616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/400px-Soul_of_Africa_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/800px-Soul_of_Africa_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/1200px-Soul_of_Africa_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/1920px-Soul_of_Africa_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/1920px-Soul_of_Africa_Museum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum gegenstandsfreier Kunst"
 date: 2026-01-26
 draft: false
 description: "Otterndorf, Germany"
-region: "Otterndorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Otterndorf"
+  - "Lower Saxony"
 wikidata_id: "Q15122170"
 latitude: 53.807745
 longitude: 8.902077
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/400px-Fahne_vor_dem_MgK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/800px-Fahne_vor_dem_MgK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/1200px-Fahne_vor_dem_MgK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/1920px-Fahne_vor_dem_MgK.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/1920px-Fahne_vor_dem_MgK.jpg---
 
 ## Overview
 

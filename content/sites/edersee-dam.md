@@ -4,13 +4,13 @@ site_name: "Edersee Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Waldeck"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Waldeck"
+  - "Hesse"
 wikidata_id: "Q3239281"
 latitude: 51.183333333
 longitude: 9.058888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/400px-Edersee,_Staumauer,_2011-08_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/800px-Edersee,_Staumauer,_2011-08_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/1200px-Edersee,_Staumauer,_2011-08_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/1920px-Edersee,_Staumauer,_2011-08_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/1920px-Edersee,_Staumauer,_2011-08_CN-01.jpg---
 
 ## Overview
 

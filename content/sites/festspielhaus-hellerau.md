@@ -4,13 +4,13 @@ site_name: "Festspielhaus Hellerau"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q825047"
 latitude: 51.1137
 longitude: 13.7531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/400px-Festspielhaus_Hellerau_1913.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/800px-Festspielhaus_Hellerau_1913.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1200px-Festspielhaus_Hellerau_1913.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1920px-Festspielhaus_Hellerau_1913.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1920px-Festspielhaus_Hellerau_1913.png---
 
 ## Overview
 

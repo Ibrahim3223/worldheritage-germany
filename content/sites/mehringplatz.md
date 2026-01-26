@@ -4,13 +4,13 @@ site_name: "Mehringplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q470930"
 latitude: 52.49889
 longitude: 13.39167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/400px-Mehringplatz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/800px-Mehringplatz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/1200px-Mehringplatz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/1920px-Mehringplatz1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/1920px-Mehringplatz1.jpg---
 
 ## Overview
 

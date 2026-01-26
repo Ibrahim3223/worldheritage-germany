@@ -4,13 +4,13 @@ site_name: "Konradhaus Koblenz"
 date: 2026-01-26
 draft: false
 description: "theater"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1001319"
 latitude: 50.3583
 longitude: 7.61083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/400px-Konradhaus_Koblenz_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/800px-Konradhaus_Koblenz_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/1200px-Konradhaus_Koblenz_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/1920px-Konradhaus_Koblenz_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/1920px-Konradhaus_Koblenz_2014.jpg---
 
 ## Overview
 

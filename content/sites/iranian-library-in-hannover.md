@@ -4,19 +4,18 @@ site_name: "Iranian Library in Hannover"
 date: 2026-01-26
 draft: false
 description: "sociocultural institution and library in Hannover (Lower Saxony, Germany)"
-region: "Nord"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Nord"
+  - "Lower Saxony"
 wikidata_id: "Q1672378"
 latitude: 52.3894
 longitude: 9.7225
 images:
-  []
----
+  []---
 
 ## Overview
 

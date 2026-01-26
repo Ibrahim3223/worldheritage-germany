@@ -4,13 +4,13 @@ site_name: "Amtsgerichtsgebäude"
 date: 2026-01-26
 draft: false
 description: "courthouse in Neuruppin, Germany"
-region: "Neuruppin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Neuruppin"
+  - "Brandenburg"
 wikidata_id: "Q106617404"
 latitude: 52.927
 longitude: 12.8075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neuruppin_Amtsgericht_asv2023-09.jpg/400px-Neuruppin_Amtsgericht_asv2023-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neuruppin_Amtsgericht_asv2023-09.jpg/800px-Neuruppin_Amtsgericht_asv2023-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neuruppin_Amtsgericht_asv2023-09.jpg/1200px-Neuruppin_Amtsgericht_asv2023-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neuruppin_Amtsgericht_asv2023-09.jpg/1920px-Neuruppin_Amtsgericht_asv2023-09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neuruppin_Amtsgericht_asv2023-09.jpg/1920px-Neuruppin_Amtsgericht_asv2023-09.jpg---
 
 ## Overview
 

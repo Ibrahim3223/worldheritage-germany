@@ -4,13 +4,13 @@ site_name: "Brühlsbacher Warte"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Wetzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Wetzlar"
+  - "Hesse"
 wikidata_id: "Q996949"
 latitude: 50.5441
 longitude: 8.52385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brühlsbacher_Warte-01.jpg/400px-Brühlsbacher_Warte-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brühlsbacher_Warte-01.jpg/800px-Brühlsbacher_Warte-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brühlsbacher_Warte-01.jpg/1200px-Brühlsbacher_Warte-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brühlsbacher_Warte-01.jpg/1920px-Brühlsbacher_Warte-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brühlsbacher_Warte-01.jpg/1920px-Brühlsbacher_Warte-01.jpg---
 
 ## Overview
 

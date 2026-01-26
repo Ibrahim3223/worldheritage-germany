@@ -4,19 +4,18 @@ site_name: "Hoepfner Brewery"
 date: 2026-01-26
 draft: false
 description: "brewery"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q879355"
 latitude: 49.01227
 longitude: 8.42765
 images:
-  []
----
+  []---
 
 ## Overview
 

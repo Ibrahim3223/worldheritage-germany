@@ -4,13 +4,13 @@ site_name: "Fledermaus-Museum Julianenhof"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Märkische Höhe"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Märkische Höhe"
+  - "Brandenburg"
 wikidata_id: "Q1250530"
 latitude: 52.5877
 longitude: 14.1187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/400px-Fledermaus-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/800px-Fledermaus-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/1200px-Fledermaus-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/1920px-Fledermaus-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/1920px-Fledermaus-Museum.jpg---
 
 ## Overview
 

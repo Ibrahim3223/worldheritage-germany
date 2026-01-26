@@ -4,13 +4,13 @@ site_name: "Archäologische Befunde in Altdorf bei Nürnberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.3863/E11.35613"
-region: "Altdorf bei Nürnberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Altdorf bei Nürnberg"
+  - "Bavaria"
 wikidata_id: "Q58323933"
 latitude: 49.3863
 longitude: 11.35613
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2021_Altdorf_Stadtmauer_01.jpg/400px-2021_Altdorf_Stadtmauer_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2021_Altdorf_Stadtmauer_01.jpg/800px-2021_Altdorf_Stadtmauer_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2021_Altdorf_Stadtmauer_01.jpg/1200px-2021_Altdorf_Stadtmauer_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2021_Altdorf_Stadtmauer_01.jpg/1920px-2021_Altdorf_Stadtmauer_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2021_Altdorf_Stadtmauer_01.jpg/1920px-2021_Altdorf_Stadtmauer_01.jpg---
 
 ## Overview
 

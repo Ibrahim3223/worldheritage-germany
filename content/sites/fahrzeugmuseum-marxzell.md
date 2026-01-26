@@ -4,13 +4,13 @@ site_name: "Fahrzeugmuseum Marxzell"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Marxzell"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Marxzell"
+  - "Baden-Württemberg"
 wikidata_id: "Q1392855"
 latitude: 48.8608
 longitude: 8.44787
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/400px-140907-Marxzell-Museum-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/800px-140907-Marxzell-Museum-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/1200px-140907-Marxzell-Museum-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/1920px-140907-Marxzell-Museum-04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/1920px-140907-Marxzell-Museum-04.jpg---
 
 ## Overview
 

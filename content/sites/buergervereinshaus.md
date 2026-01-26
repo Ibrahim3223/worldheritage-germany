@@ -4,19 +4,18 @@ site_name: "Bürgervereinshaus"
 date: 2026-01-26
 draft: false
 description: "former clubhouse and multi-purpose event venue in Bonn, Germany (1909-1969), interim home to the municipal opera and theatre companies from 1949 to 19"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q16318674"
 latitude: 50.73013
 longitude: 7.099787
 images:
-  []
----
+  []---
 
 ## Overview
 

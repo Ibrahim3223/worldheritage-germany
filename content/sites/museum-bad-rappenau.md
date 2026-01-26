@@ -4,13 +4,13 @@ site_name: "Museum Bad Rappenau"
 date: 2026-01-26
 draft: false
 description: "museum in Bad Rappenau"
-region: "Bad Rappenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Rappenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q19963127"
 latitude: 49.24035
 longitude: 9.10476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rappenau-kulturhaus-web1.jpg/400px-Rappenau-kulturhaus-web1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rappenau-kulturhaus-web1.jpg/800px-Rappenau-kulturhaus-web1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rappenau-kulturhaus-web1.jpg/1200px-Rappenau-kulturhaus-web1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rappenau-kulturhaus-web1.jpg/1920px-Rappenau-kulturhaus-web1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rappenau-kulturhaus-web1.jpg/1920px-Rappenau-kulturhaus-web1.jpg---
 
 ## Overview
 

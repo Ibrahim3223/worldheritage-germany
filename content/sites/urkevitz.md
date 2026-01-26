@@ -4,19 +4,18 @@ site_name: "Urkevitz"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Ummanz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Ummanz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q880809"
 latitude: 54.465555555
 longitude: 13.219722222
 images:
-  []
----
+  []---
 
 ## Overview
 

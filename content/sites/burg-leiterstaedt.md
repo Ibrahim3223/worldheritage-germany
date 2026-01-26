@@ -4,19 +4,18 @@ site_name: "Burg Leiterstädt"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Langenstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Langenstein"
+  - "Hesse"
 wikidata_id: "Q1012902"
 latitude: 50.8322
 longitude: 8.97167
 images:
-  []
----
+  []---
 
 ## Overview
 

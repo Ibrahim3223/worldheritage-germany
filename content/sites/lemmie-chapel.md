@@ -4,13 +4,13 @@ site_name: "Lemmie chapel"
 date: 2026-01-26
 draft: false
 description: "chapel in Lemmie, Region Hannover, Germany"
-region: "Gehrden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Gehrden"
+  - "Lower Saxony"
 wikidata_id: "Q1728367"
 latitude: 52.2892
 longitude: 9.6072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/400px-Lemmier_Kapelle-Rückseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/800px-Lemmier_Kapelle-Rückseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/1200px-Lemmier_Kapelle-Rückseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/1920px-Lemmier_Kapelle-Rückseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/1920px-Lemmier_Kapelle-Rückseite.jpg---
 
 ## Overview
 

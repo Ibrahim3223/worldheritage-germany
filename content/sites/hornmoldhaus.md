@@ -4,13 +4,13 @@ site_name: "Hornmoldhaus"
 date: 2026-01-26
 draft: false
 description: "building and museum in Bietigheim-Bissingen, Germany"
-region: "Bietigheim-Bissingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bietigheim-Bissingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1628537"
 latitude: 48.9594
 longitude: 9.12532
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/400px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/800px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/1200px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/1920px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/1920px-Bietigheim-Giebel_des_Hornmoldhauses.jpg---
 
 ## Overview
 

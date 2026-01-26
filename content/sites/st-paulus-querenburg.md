@@ -4,13 +4,13 @@ site_name: "St. Paulus (Querenburg)"
 date: 2026-01-26
 draft: false
 description: "church building in Bochum, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q2322397"
 latitude: 51.4574
 longitude: 7.27158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/400px-St_Paulus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/800px-St_Paulus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/1200px-St_Paulus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/1920px-St_Paulus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/1920px-St_Paulus.JPG---
 
 ## Overview
 

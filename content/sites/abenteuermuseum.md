@@ -4,19 +4,18 @@ site_name: "Abenteuermuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Germany"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q176941"
 latitude: 49.2450332
 longitude: 6.9889859
 images:
-  []
----
+  []---
 
 ## Overview
 

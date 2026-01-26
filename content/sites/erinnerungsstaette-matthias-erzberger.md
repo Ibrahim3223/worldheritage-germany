@@ -4,13 +4,13 @@ site_name: "Erinnerungsstätte Matthias Erzberger"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Münsingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münsingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1354757"
 latitude: 48.3593
 longitude: 9.47764
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/400px-Matthias_Erzberger_Gedenkstaette.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/800px-Matthias_Erzberger_Gedenkstaette.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/1200px-Matthias_Erzberger_Gedenkstaette.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/1920px-Matthias_Erzberger_Gedenkstaette.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/1920px-Matthias_Erzberger_Gedenkstaette.jpg---
 
 ## Overview
 

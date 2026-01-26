@@ -4,13 +4,13 @@ site_name: "St. Martin Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Marzahn-Hellersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marzahn-Hellersdorf"
+  - "Berlin"
 wikidata_id: "Q1517566"
 latitude: 52.5149
 longitude: 13.6036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/400px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/800px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/1200px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/1920px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/1920px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG---
 
 ## Overview
 

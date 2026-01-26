@@ -4,19 +4,18 @@ site_name: "Alamannen-Museum Vörstetten"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Vörstetten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Vörstetten"
+  - "Baden-Württemberg"
 wikidata_id: "Q2636543"
 latitude: 48.0664
 longitude: 7.85305
 images:
-  []
----
+  []---
 
 ## Overview 
 

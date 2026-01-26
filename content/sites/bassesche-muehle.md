@@ -4,13 +4,13 @@ site_name: "Bassesche Mühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Holtensen, Wennigsen"
-region: "Wennigsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Wennigsen"
+  - "Lower Saxony"
 wikidata_id: "Q137667164"
 latitude: 52.261814302
 longitude: 9.62836097
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Holtensen-Basse_Mühle.JPG/400px-Holtensen-Basse_Mühle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Holtensen-Basse_Mühle.JPG/800px-Holtensen-Basse_Mühle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Holtensen-Basse_Mühle.JPG/1200px-Holtensen-Basse_Mühle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Holtensen-Basse_Mühle.JPG/1920px-Holtensen-Basse_Mühle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Holtensen-Basse_Mühle.JPG/1920px-Holtensen-Basse_Mühle.JPG---
 
 ## Overview
 

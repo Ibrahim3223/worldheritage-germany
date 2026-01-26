@@ -4,19 +4,18 @@ site_name: "Kunstsammlung Jena"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q994151"
 latitude: 50.928520036
 longitude: 11.588324813
 images:
-  []
----
+  []---
 
 ## Overview
 

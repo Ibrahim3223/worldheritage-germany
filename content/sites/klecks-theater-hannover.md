@@ -4,19 +4,18 @@ site_name: "Klecks Theater Hannover"
 date: 2026-01-26
 draft: false
 description: "theatre building in Hannover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q1258203"
 latitude: 52.3714
 longitude: 9.75583
 images:
-  []
----
+  []---
 
 ## Overview
 

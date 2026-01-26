@@ -4,13 +4,13 @@ site_name: "Straßenindustriemuseum Ennepetal"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ennepetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ennepetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2354848"
 latitude: 51.298555555
 longitude: 7.352922222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/400px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/800px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/1200px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/1920px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/1920px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg---
 
 ## Overview
 

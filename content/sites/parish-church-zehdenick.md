@@ -4,13 +4,13 @@ site_name: "Parish church Zehdenick"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Zehdenick"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zehdenick"
+  - "Brandenburg"
 wikidata_id: "Q2327491"
 latitude: 52.978472222
 longitude: 13.333361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/400px-Stadtkirche_Zeh2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/800px-Stadtkirche_Zeh2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/1200px-Stadtkirche_Zeh2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/1920px-Stadtkirche_Zeh2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/1920px-Stadtkirche_Zeh2.JPG---
 
 ## Overview
 

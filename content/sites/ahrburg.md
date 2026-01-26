@@ -4,13 +4,13 @@ site_name: "Ahrburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Merzenich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Merzenich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q402663"
 latitude: 50.8392
 longitude: 6.58497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Golzheim_Ahrburg.jpg/400px-Golzheim_Ahrburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Golzheim_Ahrburg.jpg/800px-Golzheim_Ahrburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Golzheim_Ahrburg.jpg/1200px-Golzheim_Ahrburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Golzheim_Ahrburg.jpg/1920px-Golzheim_Ahrburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Golzheim_Ahrburg.jpg/1920px-Golzheim_Ahrburg.jpg---
 
 ## Overview
 

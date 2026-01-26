@@ -4,13 +4,13 @@ site_name: "lepra museum Kinderhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1656111"
 latitude: 51.999947
 longitude: 7.611369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/400px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/800px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/1200px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/1920px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/1920px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg---
 
 ## Overview
 

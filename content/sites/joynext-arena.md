@@ -4,13 +4,13 @@ site_name: "Joynext Arena"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in the Dresden district of Friedrichstadt"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q832639"
 latitude: 51.0625
 longitude: 13.722194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/400px-EnergieVerbund_Arena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/800px-EnergieVerbund_Arena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1200px-EnergieVerbund_Arena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1920px-EnergieVerbund_Arena.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1920px-EnergieVerbund_Arena.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Notzentor"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Stadttor der oberschwäbischen Stadt Memmingen"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q1532288"
 latitude: 47.9871
 longitude: 10.1805
 images:
-  []
----
+  []---
 
 ## Overview
 

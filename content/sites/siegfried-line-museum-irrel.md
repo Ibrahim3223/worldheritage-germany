@@ -4,19 +4,18 @@ site_name: "Siegfried Line Museum, Irrel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Irrel"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Irrel"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2565712"
 latitude: 49.8516
 longitude: 6.45355
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mönchehaus-Museum für Moderne Kunst"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q1171246"
 latitude: 51.9071
 longitude: 10.4243
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Goslar_Jakobistraße_(2).jpg/400px-Goslar_Jakobistraße_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Goslar_Jakobistraße_(2).jpg/800px-Goslar_Jakobistraße_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Goslar_Jakobistraße_(2).jpg/1200px-Goslar_Jakobistraße_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Goslar_Jakobistraße_(2).jpg/1920px-Goslar_Jakobistraße_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Goslar_Jakobistraße_(2).jpg/1920px-Goslar_Jakobistraße_(2).jpg---
 
 ## Overview
 

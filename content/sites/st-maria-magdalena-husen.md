@@ -4,13 +4,13 @@ site_name: "St. Maria Magdalena (Husen)"
 date: 2026-01-26
 draft: false
 description: "church building in Lichtenau, Germany"
-region: "Lichtenau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lichtenau"
+  - "Hesse"
 wikidata_id: "Q2320673"
 latitude: 51.5898
 longitude: 8.82891
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/400px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/800px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/1200px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/1920px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/1920px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Town Hall"
 date: 2026-01-26
 draft: false
 description: "town hall of Rothenburg ob der Tauber"
-region: "Rothenburg ob der Tauber"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Rothenburg ob der Tauber"
+  - "Baden-Württemberg"
 wikidata_id: "Q41424928"
 latitude: 49.37722
 longitude: 10.1785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/400px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/800px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/1200px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/1920px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/1920px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg---
 
 ## Overview
 

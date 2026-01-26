@@ -4,13 +4,13 @@ site_name: "Gotisches Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oranienbaum-Wörlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Building"
 categories:
   - "Building"
 regions:
-  - "Oranienbaum-Wörlitz"
+  - "Brandenburg"
 wikidata_id: "Q76638499"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/400px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/800px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/1200px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/1920px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/1920px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG---
 
 ## Overview
 

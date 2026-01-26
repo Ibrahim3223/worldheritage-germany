@@ -4,13 +4,13 @@ site_name: "Nachtwächterbrunnen, Stuttgart"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q1552332"
 latitude: 48.7734
 longitude: 9.18127
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/400px-Nachtwaechterbrunnen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/800px-Nachtwaechterbrunnen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/1200px-Nachtwaechterbrunnen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/1920px-Nachtwaechterbrunnen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/1920px-Nachtwaechterbrunnen1.JPG---
 
 ## Overview
 

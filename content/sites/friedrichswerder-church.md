@@ -4,13 +4,13 @@ site_name: "Friedrichswerder Church"
 date: 2026-01-26
 draft: false
 description: "Neo-Gothic church in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q833817"
 latitude: 52.515833
 longitude: 13.397222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/400px-Berlin_friedrichswerdersche_kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/800px-Berlin_friedrichswerdersche_kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1200px-Berlin_friedrichswerdersche_kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1920px-Berlin_friedrichswerdersche_kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1920px-Berlin_friedrichswerdersche_kirche.jpg---
 
 ## Overview
 

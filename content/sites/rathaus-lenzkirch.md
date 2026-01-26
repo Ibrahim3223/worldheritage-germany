@@ -4,13 +4,13 @@ site_name: "Rathaus Lenzkirch"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Lenzkirch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Lenzkirch"
+  - "Baden-Württemberg"
 wikidata_id: "Q135195297"
 latitude: 47.868543
 longitude: 8.202416
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/400px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/800px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/1200px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/1920px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/1920px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg---
 
 ## Overview
 

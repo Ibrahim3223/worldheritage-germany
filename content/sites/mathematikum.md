@@ -4,13 +4,13 @@ site_name: "Mathematikum"
 date: 2026-01-26
 draft: false
 description: "museum in Giessen, Germany"
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q896268"
 latitude: 50.581193
 longitude: 8.665756
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/400px-2005-08_Gießen_-_Mathematikum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/800px-2005-08_Gießen_-_Mathematikum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/1200px-2005-08_Gießen_-_Mathematikum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/1920px-2005-08_Gießen_-_Mathematikum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/1920px-2005-08_Gießen_-_Mathematikum.jpg---
 
 ## Overview
 

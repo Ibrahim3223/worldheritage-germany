@@ -4,13 +4,13 @@ site_name: "Luther Memorials in Eisleben and Wittenberg"
 date: 2026-01-26
 draft: false
 description: "group of buildings"
-region: "Lutherstadt Wittenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"
 categories:
   - "Group Of Structures Or Buildings"
 regions:
-  - "Lutherstadt Wittenberg"
+  - "Brandenburg"
 wikidata_id: "Q2250035"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/400px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/800px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/1200px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/1920px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/1920px-Lutherstadt_Wittenberg_09-2016_photo06.jpg---
 
 ## Overview
 

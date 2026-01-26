@@ -4,13 +4,13 @@ site_name: "Windmühle (Weimar)"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Weimar"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q134983184"
 latitude: 50.971871
 longitude: 11.314684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/400px-HausSauckel2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/800px-HausSauckel2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/1200px-HausSauckel2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/1920px-HausSauckel2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/1920px-HausSauckel2.jpg---
 
 ## Overview
 

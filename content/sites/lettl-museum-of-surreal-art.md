@@ -4,19 +4,18 @@ site_name: "Lettl Museum of Surreal Art"
 date: 2026-01-26
 draft: false
 description: "museum in Augsburg, Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q71686186"
 latitude: 48.3658855
 longitude: 10.8960065
 images:
-  []
----
+  []---
 
 ## Overview
 

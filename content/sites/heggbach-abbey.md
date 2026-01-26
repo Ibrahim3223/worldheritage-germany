@@ -4,13 +4,13 @@ site_name: "Heggbach Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Maselheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Maselheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q473836"
 latitude: 48.1497
 longitude: 9.89583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/400px-Heggbach_Abbey_main_gate_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/800px-Heggbach_Abbey_main_gate_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/1200px-Heggbach_Abbey_main_gate_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/1920px-Heggbach_Abbey_main_gate_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/1920px-Heggbach_Abbey_main_gate_02.JPG---
 
 ## Overview
 

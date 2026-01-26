@@ -4,13 +4,13 @@ site_name: "Park an der Ilm"
 date: 2026-01-26
 draft: false
 description: "Park in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "English Garden"
 categories:
   - "English Garden"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2052596"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/400px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/800px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/1200px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/1920px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/1920px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg---
 
 ## Overview 
 

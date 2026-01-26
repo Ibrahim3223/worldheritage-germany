@@ -4,19 +4,18 @@ site_name: "Weiße Grube Imsbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Imsbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Imsbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q2556864"
 latitude: 49.5917
 longitude: 7.8997
 images:
-  []
----
+  []---
 
 ## Overview
 

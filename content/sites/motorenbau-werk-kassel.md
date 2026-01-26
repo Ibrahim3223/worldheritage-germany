@@ -4,19 +4,18 @@ site_name: "Motorenbau Werk Kassel"
 date: 2026-01-26
 draft: false
 description: "branch factory of the Junkers Flugzeug- und Motorenwerke AG Dessau during World War II"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1423850"
 latitude: 51.2971
 longitude: 9.52315
 images:
-  []
----
+  []---
 
 ## Overview
 

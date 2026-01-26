@@ -4,13 +4,13 @@ site_name: "Berthold-Auerbach-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Horb am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Horb am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q827832"
 latitude: 48.4371
 longitude: 8.70363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/400px-Auerbach_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/800px-Auerbach_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1200px-Auerbach_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1920px-Auerbach_Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1920px-Auerbach_Museum.JPG---
 
 ## Overview
 

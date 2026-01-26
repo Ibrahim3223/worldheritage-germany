@@ -4,13 +4,13 @@ site_name: "Stadioner Hof"
 date: 2026-01-26
 draft: false
 description: "Adelspalais in Mainz"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q2326181"
 latitude: 50.0009
 longitude: 8.2648
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stadioner_Hof.jpg/400px-Stadioner_Hof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stadioner_Hof.jpg/800px-Stadioner_Hof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stadioner_Hof.jpg/1200px-Stadioner_Hof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stadioner_Hof.jpg/1920px-Stadioner_Hof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stadioner_Hof.jpg/1920px-Stadioner_Hof.jpg---
 
 ## Overview
 

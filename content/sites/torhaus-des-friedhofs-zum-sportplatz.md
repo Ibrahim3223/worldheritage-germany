@@ -4,13 +4,13 @@ site_name: "Torhaus des Friedhofs Zum Sportplatz"
 date: 2026-01-26
 draft: false
 description: "Im Rundbogenstil des ausgehenden 19. Jahrhunderts errichtet, baugeschichtlich und straßenbildprägend von Bedeutung"
-region: "Hochkirch"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Hochkirch"
+  - "Saxony"
 wikidata_id: "Q49408228"
 latitude: 51.148111
 longitude: 14.573421
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bukecy_Nowy_kěrchow_01.jpg/400px-Bukecy_Nowy_kěrchow_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bukecy_Nowy_kěrchow_01.jpg/800px-Bukecy_Nowy_kěrchow_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bukecy_Nowy_kěrchow_01.jpg/1200px-Bukecy_Nowy_kěrchow_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bukecy_Nowy_kěrchow_01.jpg/1920px-Bukecy_Nowy_kěrchow_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bukecy_Nowy_kěrchow_01.jpg/1920px-Bukecy_Nowy_kěrchow_01.jpg---
 
 ## Overview
 

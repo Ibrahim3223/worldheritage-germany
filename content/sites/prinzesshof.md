@@ -4,13 +4,13 @@ site_name: "Prinzesshof"
 date: 2026-01-26
 draft: false
 description: "building in Itzehoe, Germany"
-region: "Itzehoe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Itzehoe"
+  - "Lower Saxony"
 wikidata_id: "Q2110749"
 latitude: 53.9237
 longitude: 9.516
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/400px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/800px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/1200px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/1920px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/1920px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg---
 
 ## Overview
 

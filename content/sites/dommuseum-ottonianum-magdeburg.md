@@ -4,13 +4,13 @@ site_name: "Dommuseum Ottonianum Magdeburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q41575967"
 latitude: 52.12495
 longitude: 11.63268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Magdeburg_asv2022-08_img19_Dommuseum.jpg/400px-Magdeburg_asv2022-08_img19_Dommuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Magdeburg_asv2022-08_img19_Dommuseum.jpg/800px-Magdeburg_asv2022-08_img19_Dommuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Magdeburg_asv2022-08_img19_Dommuseum.jpg/1200px-Magdeburg_asv2022-08_img19_Dommuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Magdeburg_asv2022-08_img19_Dommuseum.jpg/1920px-Magdeburg_asv2022-08_img19_Dommuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Magdeburg_asv2022-08_img19_Dommuseum.jpg/1920px-Magdeburg_asv2022-08_img19_Dommuseum.jpg---
 
 ## Overview
 

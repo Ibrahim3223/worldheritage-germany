@@ -4,13 +4,13 @@ site_name: "Christuskirche (Berchtesgaden)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1087280"
 latitude: 47.6302
 longitude: 12.9989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Christuskirche_in_Berchtesgaden,_2014.jpg/400px-Christuskirche_in_Berchtesgaden,_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Christuskirche_in_Berchtesgaden,_2014.jpg/800px-Christuskirche_in_Berchtesgaden,_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Christuskirche_in_Berchtesgaden,_2014.jpg/1200px-Christuskirche_in_Berchtesgaden,_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Christuskirche_in_Berchtesgaden,_2014.jpg/1920px-Christuskirche_in_Berchtesgaden,_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Christuskirche_in_Berchtesgaden,_2014.jpg/1920px-Christuskirche_in_Berchtesgaden,_2014.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zentral"
 date: 2026-01-26
 draft: false
 description: "theatre and former cinema in Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q189927"
 latitude: 53.8678
 longitude: 10.6894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WP_Zentral.jpg/400px-WP_Zentral.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WP_Zentral.jpg/800px-WP_Zentral.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WP_Zentral.jpg/1200px-WP_Zentral.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WP_Zentral.jpg/1920px-WP_Zentral.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/WP_Zentral.jpg/1920px-WP_Zentral.jpg---
 
 ## Overview
 

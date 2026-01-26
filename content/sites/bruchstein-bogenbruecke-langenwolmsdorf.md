@@ -4,19 +4,18 @@ site_name: "Bruchstein-Bogenbrücke Langenwolmsdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Stolpen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Stolpen"
+  - "Saxony"
 wikidata_id: "Q49443947"
 latitude: 51.042558269
 longitude: 14.114312249
 images:
-  []
----
+  []---
 
 ## Overview
 

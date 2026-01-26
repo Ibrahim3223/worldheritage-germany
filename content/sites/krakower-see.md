@@ -4,13 +4,13 @@ site_name: "Krakower See"
 date: 2026-01-26
 draft: false
 description: "lake in the Rostock district in Mecklenburg-Vorpommern, Germany"
-region: "Rostock District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Rostock District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q316363"
 latitude: 53.631111111
 longitude: 12.2975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/400px-KrakowerSeePanorama_ArM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/800px-KrakowerSeePanorama_ArM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/1200px-KrakowerSeePanorama_ArM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/1920px-KrakowerSeePanorama_ArM.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/1920px-KrakowerSeePanorama_ArM.jpg---
 
 ## Overview
 

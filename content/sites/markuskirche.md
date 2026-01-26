@@ -4,19 +4,18 @@ site_name: "Markuskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1338372"
 latitude: 51.3388
 longitude: 12.4037
 images:
-  []
----
+  []---
 
 ## Overview
 

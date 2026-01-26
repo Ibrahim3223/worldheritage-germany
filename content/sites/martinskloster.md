@@ -4,13 +4,13 @@ site_name: "Martinskloster"
 date: 2026-01-26
 draft: false
 description: "Monastery in Trier"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q334299"
 latitude: 49.7625
 longitude: 6.63333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/400px-Trier_Martinskloster_BW_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/800px-Trier_Martinskloster_BW_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/1200px-Trier_Martinskloster_BW_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/1920px-Trier_Martinskloster_BW_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/1920px-Trier_Martinskloster_BW_1.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Schulstraße 6 in Geltendorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-81-122-31 (1) in Geltendorf, Bavaria"
-region: "Geltendorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Geltendorf"
+  - "Bavaria"
 wikidata_id: "Q98744487"
 latitude: 48.115228007
 longitude: 11.034742498
 images:
-  []
----
+  []---
 
 ## Overview
 

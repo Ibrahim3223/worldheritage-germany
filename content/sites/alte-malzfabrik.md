@@ -4,13 +4,13 @@ site_name: "Alte Malzfabrik"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q435889"
 latitude: 51.4317
 longitude: 6.89506
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alte_malzfabrik1.jpg/400px-Alte_malzfabrik1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alte_malzfabrik1.jpg/800px-Alte_malzfabrik1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alte_malzfabrik1.jpg/1200px-Alte_malzfabrik1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alte_malzfabrik1.jpg/1920px-Alte_malzfabrik1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alte_malzfabrik1.jpg/1920px-Alte_malzfabrik1.jpg---
 
 ## Overview
 

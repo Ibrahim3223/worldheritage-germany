@@ -4,13 +4,13 @@ site_name: "Burg Falkenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Falkenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Falkenberg"
+  - "Bavaria"
 wikidata_id: "Q314737"
 latitude: 49.8593
 longitude: 12.2249
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/400px-Falkenberg-Burg-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/800px-Falkenberg-Burg-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/1200px-Falkenberg-Burg-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/1920px-Falkenberg-Burg-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/1920px-Falkenberg-Burg-2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gebäude und Gelände des KZ Neuengamme"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q1250742"
 latitude: 53.43055556
 longitude: 10.23361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/400px-Arrestzellen_Neuengamme.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/800px-Arrestzellen_Neuengamme.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/1200px-Arrestzellen_Neuengamme.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/1920px-Arrestzellen_Neuengamme.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/1920px-Arrestzellen_Neuengamme.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Sturmius"
 date: 2026-01-26
 draft: false
 description: "church building in Rinteln, Germany"
-region: "Rinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rinteln"
+  - "Lower Saxony"
 wikidata_id: "Q2323317"
 latitude: 52.1889
 longitude: 9.08458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/400px-Rinteln_St._Sturmius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/800px-Rinteln_St._Sturmius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/1200px-Rinteln_St._Sturmius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/1920px-Rinteln_St._Sturmius.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/1920px-Rinteln_St._Sturmius.jpg---
 
 ## Overview
 

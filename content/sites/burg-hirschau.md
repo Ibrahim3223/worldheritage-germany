@@ -4,19 +4,18 @@ site_name: "Burg Hirschau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012348"
 latitude: 48.5
 longitude: 8.99433
 images:
-  []
----
+  []---
 
 ## Overview
 

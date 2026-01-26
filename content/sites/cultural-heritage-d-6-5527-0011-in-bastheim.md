@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5527-0011 in Bastheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Ostheim vor der Rhön, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Ostheim vor der Rhön"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Ostheim vor der Rhön"
+  - "Bavaria"
 wikidata_id: "Q98167393"
 latitude: 50.426415429
 longitude: 10.215722231
 images:
-  []
----
+  []---
 
 ## Overview
 

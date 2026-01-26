@@ -4,13 +4,13 @@ site_name: "Siegburg/Bonn station"
 date: 2026-01-26
 draft: false
 description: "railway station in Siegburg, Germany"
-region: "Siegburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Siegburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q316905"
 latitude: 50.7938
 longitude: 7.2025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/400px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/800px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/1200px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/1920px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/1920px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg---
 
 ## Overview
 

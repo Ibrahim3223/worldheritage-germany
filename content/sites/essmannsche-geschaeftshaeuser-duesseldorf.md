@@ -4,13 +4,13 @@ site_name: "Essmannsche Geschäftshäuser, Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "Wohn- und Geschäftshäuser in Düsseldorf"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1541347"
 latitude: 51.2187
 longitude: 6.77972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg/400px-Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg/800px-Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg/1200px-Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg/1920px-Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg/1920px-Haus_Graf-Adolf-Strasse_15_in_Duesseldorf-Friedrichstadt,_von_Norden.jpg---
 
 ## Overview
 

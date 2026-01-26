@@ -4,19 +4,18 @@ site_name: "Deutsche Stiftung Kranke Neugeborene"
 date: 2026-01-26
 draft: false
 description: "German foundation for the promotion of projects to improve the medical care and nursing of sick newborns and their families"
-region: "Dresden-Neustadt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Dresden-Neustadt"
+  - "Saxony"
 wikidata_id: "Q110635888"
 latitude: 51.06492
 longitude: 13.75715
 images:
-  []
----
+  []---
 
 ## Overview
 

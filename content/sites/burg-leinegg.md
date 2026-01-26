@@ -4,19 +4,18 @@ site_name: "Burg Leinegg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Höchenschwand"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Höchenschwand"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012896"
 latitude: 47.704931
 longitude: 8.218216
 images:
-  []
----
+  []---
 
 ## Overview
 

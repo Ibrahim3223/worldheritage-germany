@@ -4,13 +4,13 @@ site_name: "Jakobuskirche (Tübingen)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1423771"
 latitude: 48.5214
 longitude: 9.05111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/400px-Jakobuskirche-tuebingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/800px-Jakobuskirche-tuebingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1200px-Jakobuskirche-tuebingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1920px-Jakobuskirche-tuebingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1920px-Jakobuskirche-tuebingen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alte Schule Salbke"
 date: 2026-01-26
 draft: false
 description: "school building in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q436226"
 latitude: 52.0768
 longitude: 11.6689
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/400px-Alte_Schule_Salbke_Straßenseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/800px-Alte_Schule_Salbke_Straßenseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/1200px-Alte_Schule_Salbke_Straßenseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/1920px-Alte_Schule_Salbke_Straßenseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/1920px-Alte_Schule_Salbke_Straßenseite.JPG---
 
 ## Overview
 

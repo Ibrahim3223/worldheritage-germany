@@ -4,13 +4,13 @@ site_name: "Village church Kleßen"
 date: 2026-01-26
 draft: false
 description: "listed hall church in Kleßen in Brandenburg state of Germany"
-region: "Kleßen-Görne"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kleßen-Görne"
+  - "Brandenburg"
 wikidata_id: "Q1244422"
 latitude: 52.7404104
 longitude: 12.4943976
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/400px-Kleßen_Dorfkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/800px-Kleßen_Dorfkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/1200px-Kleßen_Dorfkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/1920px-Kleßen_Dorfkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/1920px-Kleßen_Dorfkirche.JPG---
 
 ## Overview
 

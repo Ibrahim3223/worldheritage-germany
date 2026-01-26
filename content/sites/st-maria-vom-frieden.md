@@ -4,13 +4,13 @@ site_name: "St. Maria vom Frieden"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt-Süd, Cologne, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2320759"
 latitude: 50.9269
 longitude: 6.95278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/400px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/800px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/1200px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/1920px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/1920px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG---
 
 ## Overview
 

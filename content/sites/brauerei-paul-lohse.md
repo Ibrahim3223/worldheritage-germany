@@ -4,19 +4,18 @@ site_name: "Brauerei Paul Lohse"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Geising"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Geising"
+  - "Saxony"
 wikidata_id: "Q900331"
 latitude: 50.7581
 longitude: 13.7911
 images:
-  []
----
+  []---
 
 ## Overview
 

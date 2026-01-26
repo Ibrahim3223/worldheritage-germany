@@ -4,19 +4,18 @@ site_name: "Burg Grünburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Unadingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Unadingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012100"
 latitude: 47.875015
 longitude: 8.438592
 images:
-  []
----
+  []---
 
 ## Overview
 

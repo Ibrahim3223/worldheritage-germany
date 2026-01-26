@@ -4,13 +4,13 @@ site_name: "Horst Janssen Museum"
 date: 2026-01-26
 draft: false
 description: "artist museum in Oldenburg, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1629070"
 latitude: 53.1444
 longitude: 8.21472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/400px-JanssenMuseumOldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/800px-JanssenMuseumOldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1200px-JanssenMuseumOldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1920px-JanssenMuseumOldenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1920px-JanssenMuseumOldenburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zahrener See"
 date: 2026-01-26
 draft: false
 description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
-region: "Ludwigslust-Parchim District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ludwigslust-Parchim District"
+  - "Brandenburg"
 wikidata_id: "Q144203"
 latitude: 53.5236
 longitude: 12.1214
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2012_Zahrener_See.JPG/400px-2012_Zahrener_See.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2012_Zahrener_See.JPG/800px-2012_Zahrener_See.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2012_Zahrener_See.JPG/1200px-2012_Zahrener_See.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2012_Zahrener_See.JPG/1920px-2012_Zahrener_See.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2012_Zahrener_See.JPG/1920px-2012_Zahrener_See.JPG---
 
 ## Overview
 

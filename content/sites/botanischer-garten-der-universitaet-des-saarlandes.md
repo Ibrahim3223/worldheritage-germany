@@ -4,13 +4,13 @@ site_name: "Botanischer Garten der Universität des Saarlandes"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q824180"
 latitude: 49.2545
 longitude: 7.0378
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uni_Saarland_Campus_Geb._A1.7.jpg/400px-Uni_Saarland_Campus_Geb._A1.7.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uni_Saarland_Campus_Geb._A1.7.jpg/800px-Uni_Saarland_Campus_Geb._A1.7.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uni_Saarland_Campus_Geb._A1.7.jpg/1200px-Uni_Saarland_Campus_Geb._A1.7.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uni_Saarland_Campus_Geb._A1.7.jpg/1920px-Uni_Saarland_Campus_Geb._A1.7.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uni_Saarland_Campus_Geb._A1.7.jpg/1920px-Uni_Saarland_Campus_Geb._A1.7.jpg---
 
 ## Overview 
 

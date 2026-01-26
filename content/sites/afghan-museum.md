@@ -4,19 +4,18 @@ site_name: "Afghan Museum"
 date: 2026-01-26
 draft: false
 description: "private museum of culture and cultural history of Afghanistan"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q315050"
 latitude: 53.54333333
 longitude: 9.98944444
 images:
-  []
----
+  []---
 
 ## Overview
 

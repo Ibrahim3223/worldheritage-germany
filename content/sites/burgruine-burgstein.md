@@ -4,19 +4,18 @@ site_name: "Burgruine Burgstein"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Thierstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Thierstein"
+  - "Bavaria"
 wikidata_id: "Q1015258"
 latitude: 50.1374
 longitude: 12.0911
 images:
-  []
----
+  []---
 
 ## Overview
 

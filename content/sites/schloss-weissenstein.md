@@ -4,13 +4,13 @@ site_name: "Schloss Weißenstein"
 date: 2026-01-26
 draft: false
 description: "castle in Pommersfelden, Bavaria; cultural heritage monument D-4-71-172-31 (0)"
-region: "Bamberg Rural District"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bamberg Rural District"
+  - "Bavaria"
 wikidata_id: "Q179062"
 latitude: 49.76274
 longitude: 10.82049
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aerial_image_of_the_Schloss_Weißenstein.jpg/400px-Aerial_image_of_the_Schloss_Weißenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aerial_image_of_the_Schloss_Weißenstein.jpg/800px-Aerial_image_of_the_Schloss_Weißenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aerial_image_of_the_Schloss_Weißenstein.jpg/1200px-Aerial_image_of_the_Schloss_Weißenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aerial_image_of_the_Schloss_Weißenstein.jpg/1920px-Aerial_image_of_the_Schloss_Weißenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aerial_image_of_the_Schloss_Weißenstein.jpg/1920px-Aerial_image_of_the_Schloss_Weißenstein.jpg---
 
 ## Overview
 

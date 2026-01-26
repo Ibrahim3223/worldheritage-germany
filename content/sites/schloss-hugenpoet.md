@@ -4,13 +4,13 @@ site_name: "Schloss Hugenpoet"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q182146"
 latitude: 51.361805555
 longitude: 6.917222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenpoet03.jpg/400px-Hugenpoet03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenpoet03.jpg/800px-Hugenpoet03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenpoet03.jpg/1200px-Hugenpoet03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenpoet03.jpg/1920px-Hugenpoet03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenpoet03.jpg/1920px-Hugenpoet03.jpg---
 
 ## Overview
 

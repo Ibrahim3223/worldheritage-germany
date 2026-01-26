@@ -4,13 +4,13 @@ site_name: "Schloss Neuburg (Bayern)"
 date: 2026-01-26
 draft: false
 description: "castle in Neuburg an der Donau, Germany"
-region: "Neuburg an der Donau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neuburg an der Donau"
+  - "Bavaria"
 wikidata_id: "Q317987"
 latitude: 48.737038888
 longitude: 11.180861111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/400px-Schloss_Neuburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/800px-Schloss_Neuburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/1200px-Schloss_Neuburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/1920px-Schloss_Neuburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/1920px-Schloss_Neuburg.jpg---
 
 ## Overview
 

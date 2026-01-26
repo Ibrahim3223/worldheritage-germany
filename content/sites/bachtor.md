@@ -4,19 +4,18 @@ site_name: "Bachtor"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltenes Stadttor, später Windmühle, in Köln"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q798260"
 latitude: 50.9278
 longitude: 6.94569
 images:
-  []
----
+  []---
 
 ## Overview
 

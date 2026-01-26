@@ -4,13 +4,13 @@ site_name: "Karlskirche (Kassel)"
 date: 2026-01-26
 draft: false
 description: "church building in Kassel, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1733941"
 latitude: 51.3117
 longitude: 9.49472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/400px-Kassel_Karlskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/800px-Kassel_Karlskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/1200px-Kassel_Karlskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/1920px-Kassel_Karlskirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/1920px-Kassel_Karlskirche.JPG---
 
 ## Overview
 

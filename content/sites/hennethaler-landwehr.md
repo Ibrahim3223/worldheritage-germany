@@ -4,13 +4,13 @@ site_name: "Hennethaler Landwehr"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Rheingau-Taunus-Kreis"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Rheingau-Taunus-Kreis"
+  - "Hesse"
 wikidata_id: "Q1605410"
 latitude: 50.2433
 longitude: 8.09694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG/400px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG/800px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG/1200px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG/1920px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG/1920px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_118.JPG---
 
 ## Overview
 

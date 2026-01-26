@@ -4,13 +4,13 @@ site_name: "Berlinische Galerie"
 date: 2026-01-26
 draft: false
 description: "museum of modern art, photography and architecture in Berlin's Kreuzberg district"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q700222"
 latitude: 52.5039
 longitude: 13.3981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/400px-Berlinische_Galerie_aussen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/800px-Berlinische_Galerie_aussen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1200px-Berlinische_Galerie_aussen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1920px-Berlinische_Galerie_aussen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1920px-Berlinische_Galerie_aussen.JPG---
 
 ## Overview
 

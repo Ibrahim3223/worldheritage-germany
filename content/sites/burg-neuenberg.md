@@ -4,13 +4,13 @@ site_name: "Burg Neuenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lindlar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lindlar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013264"
 latitude: 51.0568
 longitude: 7.44533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Neuenberg-1.jpg/400px-Neuenberg-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Neuenberg-1.jpg/800px-Neuenberg-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Neuenberg-1.jpg/1200px-Neuenberg-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Neuenberg-1.jpg/1920px-Neuenberg-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Neuenberg-1.jpg/1920px-Neuenberg-1.jpg---
 
 ## Overview
 

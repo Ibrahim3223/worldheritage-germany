@@ -4,13 +4,13 @@ site_name: "Altes Palais"
 date: 2026-01-26
 draft: false
 description: "Fachwerkbau am Alten Garten in Schwerin"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q439303"
 latitude: 53.6265
 longitude: 11.4161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/400px-Altes_Palais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/800px-Altes_Palais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/1200px-Altes_Palais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/1920px-Altes_Palais.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/1920px-Altes_Palais.jpg---
 
 ## Overview
 

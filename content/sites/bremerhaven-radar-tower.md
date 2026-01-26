@@ -4,13 +4,13 @@ site_name: "Bremerhaven Radar Tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q895744"
 latitude: 53.5384
 longitude: 8.58026
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/400px-Radarfunkturm2-Bremerhaven.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/800px-Radarfunkturm2-Bremerhaven.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1200px-Radarfunkturm2-Bremerhaven.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1920px-Radarfunkturm2-Bremerhaven.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1920px-Radarfunkturm2-Bremerhaven.JPG---
 
 ## Overview
 

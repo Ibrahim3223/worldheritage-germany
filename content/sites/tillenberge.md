@@ -4,13 +4,13 @@ site_name: "Tillenberge"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Nordhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Nordhorn"
+  - "Lower Saxony"
 wikidata_id: "Q898052"
 latitude: 52.4022
 longitude: 7.12278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/400px-Tillenberge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/800px-Tillenberge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/1200px-Tillenberge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/1920px-Tillenberge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/1920px-Tillenberge.jpg---
 
 ## Overview
 

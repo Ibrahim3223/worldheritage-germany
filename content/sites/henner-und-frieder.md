@@ -4,13 +4,13 @@ site_name: "Henner und Frieder"
 date: 2026-01-26
 draft: false
 description: "group of two statues by Friedrich Reusch in Siegen, Germany"
-region: "Siegen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Siegen"
+  - "Hesse"
 wikidata_id: "Q1383587"
 latitude: 50.8745965
 longitude: 8.01938
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/400px-Henner_Frieder_Siegen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/800px-Henner_Frieder_Siegen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/1200px-Henner_Frieder_Siegen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/1920px-Henner_Frieder_Siegen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/1920px-Henner_Frieder_Siegen.jpg---
 
 ## Overview
 

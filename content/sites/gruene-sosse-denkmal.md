@@ -4,13 +4,13 @@ site_name: "Grüne-Soße-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1551892"
 latitude: 50.1009
 longitude: 8.71802
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/400px-Gruene-Sauce-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/800px-Gruene-Sauce-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/1200px-Gruene-Sauce-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/1920px-Gruene-Sauce-Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/1920px-Gruene-Sauce-Denkmal.jpg---
 
 ## Overview
 

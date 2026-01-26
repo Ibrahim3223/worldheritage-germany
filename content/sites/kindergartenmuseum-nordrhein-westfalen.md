@@ -4,13 +4,13 @@ site_name: "Kindergartenmuseum Nordrhein-Westfalen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bergisch Gladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bergisch Gladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15823519"
 latitude: 50.99093
 longitude: 7.134443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/400px-Kindergartenmuseum.2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/800px-Kindergartenmuseum.2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/1200px-Kindergartenmuseum.2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/1920px-Kindergartenmuseum.2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/1920px-Kindergartenmuseum.2.jpg---
 
 ## Overview
 

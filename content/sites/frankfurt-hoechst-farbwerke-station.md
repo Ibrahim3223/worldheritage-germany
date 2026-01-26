@@ -4,13 +4,13 @@ site_name: "Frankfurt Höchst Farbwerke station"
 date: 2026-01-26
 draft: false
 description: "railway station in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q800767"
 latitude: 50.0984
 longitude: 8.52818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Farbwerke_Hoechst_Gleise_2.jpg/400px-Farbwerke_Hoechst_Gleise_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Farbwerke_Hoechst_Gleise_2.jpg/800px-Farbwerke_Hoechst_Gleise_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Farbwerke_Hoechst_Gleise_2.jpg/1200px-Farbwerke_Hoechst_Gleise_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Farbwerke_Hoechst_Gleise_2.jpg/1920px-Farbwerke_Hoechst_Gleise_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Farbwerke_Hoechst_Gleise_2.jpg/1920px-Farbwerke_Hoechst_Gleise_2.jpg---
 
 ## Overview
 

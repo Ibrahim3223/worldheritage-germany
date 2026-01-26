@@ -4,13 +4,13 @@ site_name: "Strausberger Platz"
 date: 2026-01-26
 draft: false
 description: "urban square in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q16820"
 latitude: 52.518527777
 longitude: 13.428305555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20181003_Berlin-35.tif.jpg/400px-20181003_Berlin-35.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20181003_Berlin-35.tif.jpg/800px-20181003_Berlin-35.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20181003_Berlin-35.tif.jpg/1200px-20181003_Berlin-35.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20181003_Berlin-35.tif.jpg/1920px-20181003_Berlin-35.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20181003_Berlin-35.tif.jpg/1920px-20181003_Berlin-35.tif.jpg---
 
 ## Overview
 

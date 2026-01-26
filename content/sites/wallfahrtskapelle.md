@@ -4,13 +4,13 @@ site_name: "Wallfahrtskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Malsch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Malsch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1533403"
 latitude: 49.2513
 longitude: 8.67766
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Malsch-letzenbergkapelle2011.jpg/400px-Malsch-letzenbergkapelle2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Malsch-letzenbergkapelle2011.jpg/800px-Malsch-letzenbergkapelle2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Malsch-letzenbergkapelle2011.jpg/1200px-Malsch-letzenbergkapelle2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Malsch-letzenbergkapelle2011.jpg/1920px-Malsch-letzenbergkapelle2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Malsch-letzenbergkapelle2011.jpg/1920px-Malsch-letzenbergkapelle2011.jpg---
 
 ## Overview
 

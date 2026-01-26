@@ -4,19 +4,18 @@ site_name: "Torhaus Am Schloßberg 6 in Küps"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-76-146-71 (1) in Küps, Bavaria"
-region: "Küps"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Küps"
+  - "Bavaria"
 wikidata_id: "Q98587111"
 latitude: 50.215677829
 longitude: 11.280140171
 images:
-  []
----
+  []---
 
 ## Overview
 

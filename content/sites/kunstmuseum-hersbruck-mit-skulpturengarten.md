@@ -4,19 +4,18 @@ site_name: "Kunstmuseum Hersbruck mit Skulpturengarten"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hersbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hersbruck"
+  - "Bavaria"
 wikidata_id: "Q76627891"
 latitude: 49.513089
 longitude: 11.443681
 images:
-  []
----
+  []---
 
 ## Overview
 

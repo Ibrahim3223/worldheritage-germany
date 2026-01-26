@@ -4,13 +4,13 @@ site_name: "Östliche Malse"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Beverstedt"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Beverstedt"
+  - "Bremen"
 wikidata_id: "Q306934"
 latitude: 53.46833333
 longitude: 8.96805556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Malse_Ost_001.jpg/400px-Malse_Ost_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Malse_Ost_001.jpg/800px-Malse_Ost_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Malse_Ost_001.jpg/1200px-Malse_Ost_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Malse_Ost_001.jpg/1920px-Malse_Ost_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Malse_Ost_001.jpg/1920px-Malse_Ost_001.jpg---
 
 ## Overview
 

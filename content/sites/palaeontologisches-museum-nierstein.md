@@ -4,13 +4,13 @@ site_name: "Paläontologisches Museum Nierstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nierstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nierstein"
+  - "Hesse"
 wikidata_id: "Q2048525"
 latitude: 49.8749
 longitude: 8.33665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Nierstein_2012_2.jpg/400px-Museum_Nierstein_2012_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Nierstein_2012_2.jpg/800px-Museum_Nierstein_2012_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Nierstein_2012_2.jpg/1200px-Museum_Nierstein_2012_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Nierstein_2012_2.jpg/1920px-Museum_Nierstein_2012_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Nierstein_2012_2.jpg/1920px-Museum_Nierstein_2012_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Magdeburger Roland"
 date: 2026-01-26
 draft: false
 description: "statue in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1532196"
 latitude: 52.1316
 longitude: 11.6397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/400px-Magdeburg_asv2022-08_img31_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/800px-Magdeburg_asv2022-08_img31_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/1200px-Magdeburg_asv2022-08_img31_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/1920px-Magdeburg_asv2022-08_img31_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/1920px-Magdeburg_asv2022-08_img31_Rathaus.jpg---
 
 ## Overview
 

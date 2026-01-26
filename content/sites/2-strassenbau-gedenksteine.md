@@ -4,13 +4,13 @@ site_name: "2 Straßenbau- Gedenksteine"
 date: 2026-01-26
 draft: false
 description: "Die Makadam-Straße bei Pfingstberg war die erste im Herzogtum Holstein gebaute Kunststraße/Chaussee. Die Straße wurde 1825/1826 nach dem Makadam-Verfa"
-region: "Bösdorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bösdorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58400333"
 latitude: 54.1255
 longitude: 10.474
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/400px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/800px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/1200px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/1920px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/1920px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG---
 
 ## Overview
 

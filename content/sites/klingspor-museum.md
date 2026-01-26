@@ -4,13 +4,13 @@ site_name: "Klingspor Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q315894"
 latitude: 50.1078
 longitude: 8.76111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Klingspor-Museum.jpg/400px-Klingspor-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Klingspor-Museum.jpg/800px-Klingspor-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Klingspor-Museum.jpg/1200px-Klingspor-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Klingspor-Museum.jpg/1920px-Klingspor-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Klingspor-Museum.jpg/1920px-Klingspor-Museum.jpg---
 
 ## Overview
 

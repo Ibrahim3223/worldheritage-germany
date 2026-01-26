@@ -4,13 +4,13 @@ site_name: "Geologischer Garten Bochum"
 date: 2026-01-26
 draft: false
 description: "natural monument"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q679531"
 latitude: 51.469444444
 longitude: 7.233888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/400px-Geologischer_Garten_Bochum01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/800px-Geologischer_Garten_Bochum01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/1200px-Geologischer_Garten_Bochum01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/1920px-Geologischer_Garten_Bochum01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/1920px-Geologischer_Garten_Bochum01.jpg---
 
 ## Overview
 

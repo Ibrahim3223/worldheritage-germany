@@ -4,13 +4,13 @@ site_name: "Dobergmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bünde"
+  - "Lower Saxony"
 wikidata_id: "Q1233191"
 latitude: 52.1952
 longitude: 8.58193
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/400px-Panorama_Dobergmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/800px-Panorama_Dobergmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/1200px-Panorama_Dobergmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/1920px-Panorama_Dobergmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/1920px-Panorama_Dobergmuseum.jpg---
 
 ## Overview
 

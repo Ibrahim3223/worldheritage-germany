@@ -4,13 +4,13 @@ site_name: "Deutschordenskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Sachsenhausen, Germany"
-region: "Frankfurt-Süd"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Süd"
+  - "Hesse"
 wikidata_id: "Q1206439"
 latitude: 50.1064
 longitude: 8.68833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/400px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/800px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1200px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1920px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1920px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg---
 
 ## Overview
 

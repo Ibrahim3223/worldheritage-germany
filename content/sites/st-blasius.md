@@ -4,13 +4,13 @@ site_name: "St. Blasius"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Hamm, Germany"
-region: "Hamm"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamm"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1283049"
 latitude: 51.2083
 longitude: 6.73984
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/400px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/800px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/1200px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/1920px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/1920px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg---
 
 ## Overview
 

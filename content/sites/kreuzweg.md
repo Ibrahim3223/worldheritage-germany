@@ -4,13 +4,13 @@ site_name: "Kreuzweg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-114-218 (0) in Bad Kissingen, Bavaria"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q1329122"
 latitude: 50.230292336
 longitude: 9.982585669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg/400px-Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg/800px-Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg/1200px-Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg/1920px-Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg/1920px-Poppenroth_(Bavaria,_Germany)_–_12th_Station_–_C456.jpg---
 
 ## Overview
 

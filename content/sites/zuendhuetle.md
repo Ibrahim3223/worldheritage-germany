@@ -4,13 +4,13 @@ site_name: "Zündhütle"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q248223"
 latitude: 48.9814
 longitude: 8.46222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Karlsruhe_Zündhütle.jpg/400px-Karlsruhe_Zündhütle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Karlsruhe_Zündhütle.jpg/800px-Karlsruhe_Zündhütle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Karlsruhe_Zündhütle.jpg/1200px-Karlsruhe_Zündhütle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Karlsruhe_Zündhütle.jpg/1920px-Karlsruhe_Zündhütle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Karlsruhe_Zündhütle.jpg/1920px-Karlsruhe_Zündhütle.jpg---
 
 ## Overview
 

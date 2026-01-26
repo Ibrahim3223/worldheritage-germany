@@ -4,13 +4,13 @@ site_name: "Haus Samson"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q26934891"
 latitude: 53.227222222
 longitude: 7.451111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG/400px-Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG/800px-Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG/1200px-Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG/1920px-Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG/1920px-Buildings_in_de_old_town_of_Leer_(Ost_Friesland)_08.JPG---
 
 ## Overview
 

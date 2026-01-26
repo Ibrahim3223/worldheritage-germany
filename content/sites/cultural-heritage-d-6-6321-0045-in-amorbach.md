@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6321-0045 in Amorbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Amorbach, Miltenberg, Lower Franconia, Bavaria, Germany"
-region: "Amorbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Amorbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q98160632"
 latitude: 49.64478319
 longitude: 9.220333305
 images:
-  []
----
+  []---
 
 ## Overview
 

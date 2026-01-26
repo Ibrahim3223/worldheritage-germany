@@ -4,19 +4,18 @@ site_name: "Ludwig Erhard Center"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fürth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fürth"
+  - "Bavaria"
 wikidata_id: "Q18288271"
 latitude: 49.47714
 longitude: 10.98849
 images:
-  []
----
+  []---
 
 ## Overview
 

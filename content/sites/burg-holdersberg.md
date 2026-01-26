@@ -4,13 +4,13 @@ site_name: "Burg Holdersberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Idstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Idstein"
+  - "Hesse"
 wikidata_id: "Q1012463"
 latitude: 50.2215
 longitude: 8.235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Holdersberg_009.JPG/400px-Burg_Holdersberg_009.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Holdersberg_009.JPG/800px-Burg_Holdersberg_009.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Holdersberg_009.JPG/1200px-Burg_Holdersberg_009.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Holdersberg_009.JPG/1920px-Burg_Holdersberg_009.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Holdersberg_009.JPG/1920px-Burg_Holdersberg_009.JPG---
 
 ## Overview 
 

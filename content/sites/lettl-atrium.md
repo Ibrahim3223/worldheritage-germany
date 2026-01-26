@@ -4,19 +4,18 @@ site_name: "Lettl-Atrium"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1417263"
 latitude: 48.3597
 longitude: 10.896
 images:
-  []
----
+  []---
 
 ## Overview
 

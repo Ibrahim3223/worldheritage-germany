@@ -4,13 +4,13 @@ site_name: "Cathedral of the Resurrection"
 date: 2026-01-26
 draft: false
 description: "Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q833695"
 latitude: 52.4881
 longitude: 13.3078
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/400px-B-Wilmersdorf_Okt12_RussKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/800px-B-Wilmersdorf_Okt12_RussKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/1200px-B-Wilmersdorf_Okt12_RussKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/1920px-B-Wilmersdorf_Okt12_RussKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/1920px-B-Wilmersdorf_Okt12_RussKirche.jpg---
 
 ## Overview
 

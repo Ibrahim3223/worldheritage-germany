@@ -4,13 +4,13 @@ site_name: "Schulzentrum am Kothen"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1558278"
 latitude: 51.258
 longitude: 7.18081
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/400px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/800px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/1200px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/1920px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/1920px-Gymnasium_Am_Kothen_Wuppertal_04.jpg---
 
 ## Overview
 

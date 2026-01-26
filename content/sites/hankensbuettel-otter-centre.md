@@ -4,13 +4,13 @@ site_name: "Hankensbüttel Otter Centre"
 date: 2026-01-26
 draft: false
 description: "zoo in Gifhorn, Germany"
-region: "Hankensbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Hankensbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q1688481"
 latitude: 52.7314
 longitude: 10.62
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/400px-Otterzentrum_Hauptgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/800px-Otterzentrum_Hauptgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1200px-Otterzentrum_Hauptgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1920px-Otterzentrum_Hauptgebäude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1920px-Otterzentrum_Hauptgebäude.jpg---
 
 ## Overview
 

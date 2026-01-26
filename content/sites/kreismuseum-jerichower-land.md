@@ -4,13 +4,13 @@ site_name: "Kreismuseum Jerichower Land"
 date: 2026-01-26
 draft: false
 description: "museum in Genthin, Germany"
-region: "Genthin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Genthin"
+  - "Brandenburg"
 wikidata_id: "Q17748268"
 latitude: 52.40359
 longitude: 12.16262
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museumgenthin.JPG/400px-Museumgenthin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museumgenthin.JPG/800px-Museumgenthin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museumgenthin.JPG/1200px-Museumgenthin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museumgenthin.JPG/1920px-Museumgenthin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Museumgenthin.JPG/1920px-Museumgenthin.JPG---
 
 ## Overview
 

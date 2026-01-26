@@ -4,19 +4,18 @@ site_name: "Erich Kästner library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Oberschwarzach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Oberschwarzach"
+  - "Bavaria"
 wikidata_id: "Q1352669"
 latitude: 49.85962
 longitude: 10.40469
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Martini (Halberstadt)"
 date: 2026-01-26
 draft: false
 description: "church building in Halberstadt, Saxony-Anhalt, Germany"
-region: "Halberstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halberstadt"
+  - "Lower Saxony"
 wikidata_id: "Q2321283"
 latitude: 51.895397
 longitude: 11.051042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/400px-Hbs_martinikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/800px-Hbs_martinikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/1200px-Hbs_martinikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/1920px-Hbs_martinikirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/1920px-Hbs_martinikirche.jpg---
 
 ## Overview
 

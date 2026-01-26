@@ -4,19 +4,18 @@ site_name: "The Culture- and Military Museum Grafenwoehr"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Grafenwöhr"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grafenwöhr"
+  - "Bavaria"
 wikidata_id: "Q163291"
 latitude: 49.720486
 longitude: 11.904113
 images:
-  []
----
+  []---
 
 ## Overview
 

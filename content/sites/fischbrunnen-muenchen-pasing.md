@@ -4,13 +4,13 @@ site_name: "Fischbrunnen (München-Pasing)"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1308392"
 latitude: 48.1474
 longitude: 11.4619
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/400px-München_-_Fischbrunnen_Pasing.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/800px-München_-_Fischbrunnen_Pasing.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/1200px-München_-_Fischbrunnen_Pasing.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/1920px-München_-_Fischbrunnen_Pasing.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/1920px-München_-_Fischbrunnen_Pasing.JPG---
 
 ## Overview
 

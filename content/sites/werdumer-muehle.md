@@ -4,13 +4,13 @@ site_name: "Werdumer Mühle"
 date: 2026-01-26
 draft: false
 description: "deutsche Windmühle in Ostfriesland"
-region: "Werdum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Werdum"
+  - "Lower Saxony"
 wikidata_id: "Q1604961"
 latitude: 53.6604
 longitude: 7.71936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/400px-Erdholländer_in_Werdum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/800px-Erdholländer_in_Werdum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/1200px-Erdholländer_in_Werdum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/1920px-Erdholländer_in_Werdum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/1920px-Erdholländer_in_Werdum.JPG---
 
 ## Overview
 

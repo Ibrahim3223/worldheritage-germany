@@ -4,13 +4,13 @@ site_name: "Kaiser-Friedrich-Gedächtniskirche"
 date: 2026-01-26
 draft: false
 description: "German Protestant church in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q658985"
 latitude: 52.51532
 longitude: 13.34258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/400px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/800px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1200px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1920px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1920px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg---
 
 ## Overview
 

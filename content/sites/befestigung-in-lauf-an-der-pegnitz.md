@@ -4,19 +4,18 @@ site_name: "Befestigung in Lauf an der Pegnitz"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.52503/E11.29821"
-region: "Lauf an der Pegnitz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Lauf an der Pegnitz"
+  - "Bavaria"
 wikidata_id: "Q58331559"
 latitude: 49.52503
 longitude: 11.29821
 images:
-  []
----
+  []---
 
 ## Overview
 

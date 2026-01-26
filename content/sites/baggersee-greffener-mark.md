@@ -4,13 +4,13 @@ site_name: "Baggersee Greffener Mark"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Harsewinkel, North Rhine-Westphalia, Germany"
-region: "Harsewinkel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Harsewinkel"
+  - "Lower Saxony"
 wikidata_id: "Q799891"
 latitude: 51.9976
 longitude: 8.11975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greffen_Baggersee_Greffener_Mark.jpg/400px-Greffen_Baggersee_Greffener_Mark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greffen_Baggersee_Greffener_Mark.jpg/800px-Greffen_Baggersee_Greffener_Mark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greffen_Baggersee_Greffener_Mark.jpg/1200px-Greffen_Baggersee_Greffener_Mark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greffen_Baggersee_Greffener_Mark.jpg/1920px-Greffen_Baggersee_Greffener_Mark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Greffen_Baggersee_Greffener_Mark.jpg/1920px-Greffen_Baggersee_Greffener_Mark.jpg---
 
 ## Overview
 

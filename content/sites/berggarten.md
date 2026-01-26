@@ -4,13 +4,13 @@ site_name: "Berggarten"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Hannover, Germany"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q819663"
 latitude: 52.3941
 longitude: 9.69876
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/400px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/800px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg---
 
 ## Overview
 

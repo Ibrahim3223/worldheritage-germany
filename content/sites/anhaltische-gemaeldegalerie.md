@@ -4,13 +4,13 @@ site_name: "Anhaltische Gemäldegalerie"
 date: 2026-01-26
 draft: false
 description: "art gallery in Georgium, Dessau"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q76638284"
 latitude: 51.842667
 longitude: 12.230915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Schloss_Georgium.JPG/400px-Schloss_Georgium.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Schloss_Georgium.JPG/800px-Schloss_Georgium.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Schloss_Georgium.JPG/1200px-Schloss_Georgium.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Schloss_Georgium.JPG/1920px-Schloss_Georgium.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Schloss_Georgium.JPG/1920px-Schloss_Georgium.JPG---
 
 ## Overview
 

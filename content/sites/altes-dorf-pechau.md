@@ -4,19 +4,18 @@ site_name: "Altes Dorf (Pechau)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q439187"
 latitude: 52.0869
 longitude: 11.7203
 images:
-  []
----
+  []---
 
 ## Overview
 

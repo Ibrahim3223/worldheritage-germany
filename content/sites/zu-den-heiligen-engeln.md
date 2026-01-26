@@ -4,13 +4,13 @@ site_name: "Zu den heiligen Engeln"
 date: 2026-01-26
 draft: false
 description: "Catholic parish church"
-region: "Kirchrode-Bemerode-Wülferode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kirchrode-Bemerode-Wülferode"
+  - "Lower Saxony"
 wikidata_id: "Q1742988"
 latitude: 52.3542
 longitude: 9.82229
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/400px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/800px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/1200px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/1920px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/1920px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg---
 
 ## Overview
 

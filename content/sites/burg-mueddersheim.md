@@ -4,13 +4,13 @@ site_name: "Burg Müddersheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Vettweiß"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Vettweiß"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013166"
 latitude: 50.7494
 longitude: 6.66222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burgmuededersheim02.JPG/400px-Burgmuededersheim02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burgmuededersheim02.JPG/800px-Burgmuededersheim02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burgmuededersheim02.JPG/1200px-Burgmuededersheim02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burgmuededersheim02.JPG/1920px-Burgmuededersheim02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burgmuededersheim02.JPG/1920px-Burgmuededersheim02.JPG---
 
 ## Overview
 

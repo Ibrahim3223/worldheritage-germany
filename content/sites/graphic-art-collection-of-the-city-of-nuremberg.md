@@ -4,13 +4,13 @@ site_name: "Graphic Art Collection of the City of Nuremberg"
 date: 2026-01-26
 draft: false
 description: "Graphische Sammlung Teil der Kunstsammlungen der Stadt Nürnberg"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1543340"
 latitude: 49.4613
 longitude: 11.1115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/400px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/800px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/1200px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/1920px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/1920px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg---
 
 ## Overview
 

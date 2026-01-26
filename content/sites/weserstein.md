@@ -4,13 +4,13 @@ site_name: "Weserstein"
 date: 2026-01-26
 draft: false
 description: "monument in Hann. Münden, Germany"
-region: "Hann. Münden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hann. Münden"
+  - "Hesse"
 wikidata_id: "Q1538713"
 latitude: 51.421
 longitude: 9.64834
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Weserstein_2.jpg/400px-Weserstein_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Weserstein_2.jpg/800px-Weserstein_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Weserstein_2.jpg/1200px-Weserstein_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Weserstein_2.jpg/1920px-Weserstein_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Weserstein_2.jpg/1920px-Weserstein_2.jpg---
 
 ## Overview
 

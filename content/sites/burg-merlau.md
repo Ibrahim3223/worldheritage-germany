@@ -4,13 +4,13 @@ site_name: "Burg Merlau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Merlau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Merlau"
+  - "Hesse"
 wikidata_id: "Q1013113"
 latitude: 50.625
 longitude: 9.18115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/400px-Merla_(Merian).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/800px-Merla_(Merian).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/1200px-Merla_(Merian).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/1920px-Merla_(Merian).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/1920px-Merla_(Merian).jpg---
 
 ## Overview
 

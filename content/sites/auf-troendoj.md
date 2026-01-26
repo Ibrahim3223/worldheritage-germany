@@ -4,19 +4,18 @@ site_name: "Auf Troendoj"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Haselünne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Haselünne"
+  - "Lower Saxony"
 wikidata_id: "Q759334"
 latitude: 52.735
 longitude: 7.48889
 images:
-  []
----
+  []---
 
 ## Overview
 

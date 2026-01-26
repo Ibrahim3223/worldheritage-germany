@@ -4,13 +4,13 @@ site_name: "Hochmeisterkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1319889"
 latitude: 52.4947
 longitude: 13.3001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/400px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/800px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1200px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1920px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1920px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg---
 
 ## Overview
 

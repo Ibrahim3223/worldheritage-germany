@@ -4,13 +4,13 @@ site_name: "Kapelle St. Joseph (Hard)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Hard"
-region: "Wellheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Wellheim"
+  - "Bavaria"
 wikidata_id: "Q1728428"
 latitude: 48.8209
 longitude: 11.1234
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/400px-Hard_Josephskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/800px-Hard_Josephskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/1200px-Hard_Josephskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/1920px-Hard_Josephskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/1920px-Hard_Josephskapelle.jpg---
 
 ## Overview
 

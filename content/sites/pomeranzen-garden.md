@@ -4,13 +4,13 @@ site_name: "Pomeranzen garden"
 date: 2026-01-26
 draft: false
 description: "park of the Leonberg castle"
-region: "Leonberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Leonberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1669522"
 latitude: 48.801
 longitude: 9.01223
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/400px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/800px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/1200px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/1920px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/1920px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg---
 
 ## Overview
 

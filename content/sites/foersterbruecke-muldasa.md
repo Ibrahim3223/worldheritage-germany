@@ -4,19 +4,18 @@ site_name: "Försterbrücke Mulda/Sa."
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Mulda"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Mulda"
+  - "Saxony"
 wikidata_id: "Q49448648"
 latitude: 50.799777213
 longitude: 13.443734096
 images:
-  []
----
+  []---
 
 ## Overview
 

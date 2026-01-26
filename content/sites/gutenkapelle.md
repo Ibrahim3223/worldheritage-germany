@@ -4,13 +4,13 @@ site_name: "Gutenkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel in Schönwald im Schwarzwald, Germany"
-region: "Schönwald im Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Schönwald im Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q1557181"
 latitude: 48.101
 longitude: 8.2352
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/400px-Gutenkapelle_aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/800px-Gutenkapelle_aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/1200px-Gutenkapelle_aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/1920px-Gutenkapelle_aussen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/1920px-Gutenkapelle_aussen.jpg---
 
 ## Overview
 

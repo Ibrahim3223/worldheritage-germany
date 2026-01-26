@@ -4,13 +4,13 @@ site_name: "Synagogue Westerburg"
 date: 2026-01-26
 draft: false
 description: "synagogue in Westerburg, Germnay"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q1610380"
 latitude: 50.5642
 longitude: 7.97492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WesterburgSynagoge10.jpg/400px-WesterburgSynagoge10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WesterburgSynagoge10.jpg/800px-WesterburgSynagoge10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WesterburgSynagoge10.jpg/1200px-WesterburgSynagoge10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WesterburgSynagoge10.jpg/1920px-WesterburgSynagoge10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WesterburgSynagoge10.jpg/1920px-WesterburgSynagoge10.jpg---
 
 ## Overview
 

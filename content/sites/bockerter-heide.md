@@ -4,13 +4,13 @@ site_name: "Bockerter Heide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Viersen, North Rhine-Westphalia, Germany"
-region: "Viersen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Viersen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q889191"
 latitude: 51.2204
 longitude: 6.37352
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Viersen-BockerterHeide(Rotbuchenwäldchen).jpg/400px-Viersen-BockerterHeide(Rotbuchenwäldchen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Viersen-BockerterHeide(Rotbuchenwäldchen).jpg/800px-Viersen-BockerterHeide(Rotbuchenwäldchen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Viersen-BockerterHeide(Rotbuchenwäldchen).jpg/1200px-Viersen-BockerterHeide(Rotbuchenwäldchen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Viersen-BockerterHeide(Rotbuchenwäldchen).jpg/1920px-Viersen-BockerterHeide(Rotbuchenwäldchen).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Viersen-BockerterHeide(Rotbuchenwäldchen).jpg/1920px-Viersen-BockerterHeide(Rotbuchenwäldchen).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Steindeckerbrücke (VIII) über den Haselbach Gemarkung Reichenbach,
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403758"
 latitude: 51.250951
 longitude: 13.991687
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/400px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/800px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/1200px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/1920px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/1920px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg---
 
 ## Overview
 

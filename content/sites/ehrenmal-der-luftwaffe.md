@@ -4,19 +4,18 @@ site_name: "Ehrenmal der Luftwaffe"
 date: 2026-01-26
 draft: false
 description: "monument in Fürstenfeldbruck, Germany"
-region: "Fürstenfeldbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Fürstenfeldbruck"
+  - "Bavaria"
 wikidata_id: "Q1300199"
 latitude: 48.1917
 longitude: 11.2605
 images:
-  []
----
+  []---
 
 ## Overview
 

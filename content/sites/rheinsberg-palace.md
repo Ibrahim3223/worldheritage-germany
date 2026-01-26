@@ -4,13 +4,13 @@ site_name: "Rheinsberg Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Rheinsberg, Brandenburg, Germany"
-region: "Rheinsberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Rheinsberg"
+  - "Brandenburg"
 wikidata_id: "Q317840"
 latitude: 53.0986
 longitude: 12.8894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg/400px-Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg/800px-Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg/1200px-Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg/1920px-Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg/1920px-Rheinsberg_Schloss_und_Park_asv2024-03_img04.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "DIPF | Leibniz Institute for Research and Information in Education"
 date: 2026-01-26
 draft: false
 description: "institute in the field of educational research, digital infrastructure and knowledge transfer"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q1205728"
 latitude: 50.1304051
 longitude: 8.6681454
 images:
-  []
----
+  []---
 
 ## Overview
 

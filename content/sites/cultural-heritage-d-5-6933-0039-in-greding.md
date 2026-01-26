@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-5-6933-0039 in Greding"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Greding"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Greding"
+  - "Bavaria"
 wikidata_id: "Q98123417"
 latitude: 49.058485155
 longitude: 11.316048681
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Flohburg"
 date: 2026-01-26
 draft: false
 description: "museum in Nordhausen, Germany"
-region: "Nordhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nordhausen"
+  - "Lower Saxony"
 wikidata_id: "Q21035622"
 latitude: 51.50466156
 longitude: 10.79213905
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/400px-NDH-Flohburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/800px-NDH-Flohburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1200px-NDH-Flohburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1920px-NDH-Flohburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1920px-NDH-Flohburg.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit); Brücke mit Gleisen und Bahndamm Bie
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Seelitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Seelitz"
+  - "Saxony"
 wikidata_id: "Q49449709"
 latitude: 51.032997096
 longitude: 12.792387867
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Am roten Steine"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q451598"
 latitude: 52.1208
 longitude: 9.97611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/400px-Am_roten_Steine_-_Innerste_22.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/800px-Am_roten_Steine_-_Innerste_22.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/1200px-Am_roten_Steine_-_Innerste_22.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/1920px-Am_roten_Steine_-_Innerste_22.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/1920px-Am_roten_Steine_-_Innerste_22.JPG---
 
 ## Overview
 

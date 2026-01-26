@@ -4,13 +4,13 @@ site_name: "St. Albani (Göttingen)"
 date: 2026-01-26
 draft: false
 description: "church building in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q1698041"
 latitude: 51.5337
 longitude: 9.94114
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/400px-StAlbani_Goettingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/800px-StAlbani_Goettingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/1200px-StAlbani_Goettingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/1920px-StAlbani_Goettingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/1920px-StAlbani_Goettingen.jpg---
 
 ## Overview
 

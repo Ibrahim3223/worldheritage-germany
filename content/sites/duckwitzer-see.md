@@ -4,13 +4,13 @@ site_name: "Duckwitzer See"
 date: 2026-01-26
 draft: false
 description: "lake in Rostock District, Mecklenburg-Vorpommern, Germany"
-region: "Rostock District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Rostock District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1263540"
 latitude: 53.99415
 longitude: 12.5824
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/400px-Duckwitzer_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/800px-Duckwitzer_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/1200px-Duckwitzer_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/1920px-Duckwitzer_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/1920px-Duckwitzer_See.jpg---
 
 ## Overview
 

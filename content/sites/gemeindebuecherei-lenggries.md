@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Lenggries"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Lenggries"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Lenggries"
+  - "Bavaria"
 wikidata_id: "Q28729528"
 latitude: 47.68021
 longitude: 11.57447
 images:
-  []
----
+  []---
 
 ## Overview
 

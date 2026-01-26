@@ -4,19 +4,18 @@ site_name: "Glasmacherhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Delligsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Delligsen"
+  - "Lower Saxony"
 wikidata_id: "Q76636118"
 latitude: 51.956188
 longitude: 9.742158
 images:
-  []
----
+  []---
 
 ## Overview
 

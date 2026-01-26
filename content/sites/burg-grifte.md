@@ -4,19 +4,18 @@ site_name: "Burg Grifte"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grifte"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grifte"
+  - "Hesse"
 wikidata_id: "Q1012046"
 latitude: 51.2112
 longitude: 9.4435
 images:
-  []
----
+  []---
 
 ## Overview
 

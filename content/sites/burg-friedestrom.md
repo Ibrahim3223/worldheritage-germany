@@ -4,13 +4,13 @@ site_name: "Burg Friedestrom"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dormagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dormagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011860"
 latitude: 51.1199
 longitude: 6.85113
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Friedestrom_Kernburg_Westseite.jpg/400px-Burg_Friedestrom_Kernburg_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Friedestrom_Kernburg_Westseite.jpg/800px-Burg_Friedestrom_Kernburg_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Friedestrom_Kernburg_Westseite.jpg/1200px-Burg_Friedestrom_Kernburg_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Friedestrom_Kernburg_Westseite.jpg/1920px-Burg_Friedestrom_Kernburg_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Friedestrom_Kernburg_Westseite.jpg/1920px-Burg_Friedestrom_Kernburg_Westseite.jpg---
 
 ## Overview
 

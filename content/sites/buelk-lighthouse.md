@@ -4,13 +4,13 @@ site_name: "Bülk Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Rendsburg-Eckernförde"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Rendsburg-Eckernförde"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1821413"
 latitude: 54.45526111
 longitude: 10.1973
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/400px-Leuchtturm-Buelk-msu-2021-3616.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/800px-Leuchtturm-Buelk-msu-2021-3616.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/1200px-Leuchtturm-Buelk-msu-2021-3616.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/1920px-Leuchtturm-Buelk-msu-2021-3616.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/1920px-Leuchtturm-Buelk-msu-2021-3616.jpg---
 
 ## Overview
 

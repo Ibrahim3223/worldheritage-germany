@@ -4,13 +4,13 @@ site_name: "Kirche der Entschlafung der Mutter Gottes"
 date: 2026-01-26
 draft: false
 description: "church building in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q1742786"
 latitude: 52.1589
 longitude: 9.90967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hildesheim_Himmelthür_Orthodox_church-2.jpg/400px-Hildesheim_Himmelthür_Orthodox_church-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hildesheim_Himmelthür_Orthodox_church-2.jpg/800px-Hildesheim_Himmelthür_Orthodox_church-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hildesheim_Himmelthür_Orthodox_church-2.jpg/1200px-Hildesheim_Himmelthür_Orthodox_church-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hildesheim_Himmelthür_Orthodox_church-2.jpg/1920px-Hildesheim_Himmelthür_Orthodox_church-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hildesheim_Himmelthür_Orthodox_church-2.jpg/1920px-Hildesheim_Himmelthür_Orthodox_church-2.jpg---
 
 ## Overview
 

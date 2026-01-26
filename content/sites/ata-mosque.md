@@ -4,13 +4,13 @@ site_name: "Ata Mosque"
 date: 2026-01-26
 draft: false
 description: "Mosque in Florsheim am Main, Germany"
-region: "Flörsheim am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Flörsheim am Main"
+  - "Hesse"
 wikidata_id: "Q117378230"
 latitude: 50.016075098
 longitude: 8.430264069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/400px-Ata-Moschee_(Flörsheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/800px-Ata-Moschee_(Flörsheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/1200px-Ata-Moschee_(Flörsheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/1920px-Ata-Moschee_(Flörsheim).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/1920px-Ata-Moschee_(Flörsheim).jpg---
 
 ## Overview
 

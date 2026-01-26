@@ -4,13 +4,13 @@ site_name: "Haus Lützinghausen"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Gummersbach, Nordrhein-Westfalen, Deutschland"
-region: "Gummersbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Gummersbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013061"
 latitude: 51.0281
 longitude: 7.49933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/400px-Lützinghausen_Burg_Winter_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/800px-Lützinghausen_Burg_Winter_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/1200px-Lützinghausen_Burg_Winter_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/1920px-Lützinghausen_Burg_Winter_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/1920px-Lützinghausen_Burg_Winter_2.jpg---
 
 ## Overview
 

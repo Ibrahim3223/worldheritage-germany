@@ -4,19 +4,18 @@ site_name: "Münzsammlung an der Professur für Alte Geschichte, Universität Pa
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629054"
 latitude: 48.5703451
 longitude: 13.4495562
 images:
-  []
----
+  []---
 
 ## Overview
 

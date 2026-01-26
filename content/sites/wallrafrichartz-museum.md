@@ -4,13 +4,13 @@ site_name: "Wallraf–Richartz Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q700959"
 latitude: 50.9375
 longitude: 6.958611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/400px-Koeln_wallraff_richartz_mus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/800px-Koeln_wallraff_richartz_mus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/1200px-Koeln_wallraff_richartz_mus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/1920px-Koeln_wallraff_richartz_mus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/1920px-Koeln_wallraff_richartz_mus.jpg---
 
 ## Overview
 

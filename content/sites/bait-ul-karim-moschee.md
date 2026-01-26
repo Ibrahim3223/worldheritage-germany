@@ -4,13 +4,13 @@ site_name: "Bait-ul-Karim-Moschee"
 date: 2026-01-26
 draft: false
 description: "mosque in Stade, Germany"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q20614541"
 latitude: 53.6036152
 longitude: 9.489865
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/400px-Moschee_in_Stood.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/800px-Moschee_in_Stood.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/1200px-Moschee_in_Stood.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/1920px-Moschee_in_Stood.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/1920px-Moschee_in_Stood.jpg---
 
 ## Overview
 

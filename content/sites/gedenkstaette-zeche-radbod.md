@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Zeche Radbod"
 date: 2026-01-26
 draft: false
 description: "memorial in Hamm, Germany"
-region: "Hamm"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Hamm"
+  - "Lower Saxony"
 wikidata_id: "Q1497549"
 latitude: 51.7029
 longitude: 7.76275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gedenkstätte_Radbod_Bockum-Hövel01.jpg/400px-Gedenkstätte_Radbod_Bockum-Hövel01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gedenkstätte_Radbod_Bockum-Hövel01.jpg/800px-Gedenkstätte_Radbod_Bockum-Hövel01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gedenkstätte_Radbod_Bockum-Hövel01.jpg/1200px-Gedenkstätte_Radbod_Bockum-Hövel01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gedenkstätte_Radbod_Bockum-Hövel01.jpg/1920px-Gedenkstätte_Radbod_Bockum-Hövel01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gedenkstätte_Radbod_Bockum-Hövel01.jpg/1920px-Gedenkstätte_Radbod_Bockum-Hövel01.jpg---
 
 ## Overview
 

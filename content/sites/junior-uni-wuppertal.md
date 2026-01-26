@@ -4,13 +4,13 @@ site_name: "Junior-Uni Wuppertal"
 date: 2026-01-26
 draft: false
 description: "Schule in Deutschland"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1713534"
 latitude: 51.2665
 longitude: 7.18703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/400px-GER_Wuppertal_Junioruni_018.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/800px-GER_Wuppertal_Junioruni_018.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/1200px-GER_Wuppertal_Junioruni_018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/1920px-GER_Wuppertal_Junioruni_018.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/1920px-GER_Wuppertal_Junioruni_018.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "German Foundation for Peace Research"
 date: 2026-01-26
 draft: false
 description: "other organization in Osnabrück, Germany"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1168962"
 latitude: 52.272431
 longitude: 8.045187
 images:
-  []
----
+  []---
 
 ## Overview
 

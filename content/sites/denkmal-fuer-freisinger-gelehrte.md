@@ -4,13 +4,13 @@ site_name: "Denkmal für Freisinger Gelehrte"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q1187996"
 latitude: 48.3991
 longitude: 11.7447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/400px-Freising_gelehrtendenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/800px-Freising_gelehrtendenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/1200px-Freising_gelehrtendenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/1920px-Freising_gelehrtendenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/1920px-Freising_gelehrtendenkmal.jpg---
 
 ## Overview
 

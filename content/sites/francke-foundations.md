@@ -4,13 +4,13 @@ site_name: "Francke Foundations"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q276846"
 latitude: 51.4781
 longitude: 11.9719
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_"Franckeschen_Stiftungen"_-_panoramio.jpg/400px-Die_"Franckeschen_Stiftungen%22_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_%22Franckeschen_Stiftungen"_-_panoramio.jpg/800px-Die_"Franckeschen_Stiftungen"_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_"Franckeschen_Stiftungen"_-_panoramio.jpg/1200px-Die_"Franckeschen_Stiftungen%22_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_%22Franckeschen_Stiftungen"_-_panoramio.jpg/1920px-Die_"Franckeschen_Stiftungen"_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_%22Franckeschen_Stiftungen"_-_panoramio.jpg/1920px-Die_"Franckeschen_Stiftungen"_-_panoramio.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Jena"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Jena, Germany"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q317714"
 latitude: 50.9311
 longitude: 11.5861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/400px-Jena_-_botanical_garden_02_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/800px-Jena_-_botanical_garden_02_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1200px-Jena_-_botanical_garden_02_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1920px-Jena_-_botanical_garden_02_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1920px-Jena_-_botanical_garden_02_(aka).jpg---
 
 ## Overview
 

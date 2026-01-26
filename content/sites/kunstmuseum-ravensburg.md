@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Ravensburg"
 date: 2026-01-26
 draft: false
 description: "Art museum in Ravensburg, Germany"
-region: "Ravensburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Ravensburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1792548"
 latitude: 47.780107
 longitude: 9.614802
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kunstmuseum_Ravensburg_2013-03-10_01.jpg/400px-Kunstmuseum_Ravensburg_2013-03-10_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kunstmuseum_Ravensburg_2013-03-10_01.jpg/800px-Kunstmuseum_Ravensburg_2013-03-10_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kunstmuseum_Ravensburg_2013-03-10_01.jpg/1200px-Kunstmuseum_Ravensburg_2013-03-10_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kunstmuseum_Ravensburg_2013-03-10_01.jpg/1920px-Kunstmuseum_Ravensburg_2013-03-10_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kunstmuseum_Ravensburg_2013-03-10_01.jpg/1920px-Kunstmuseum_Ravensburg_2013-03-10_01.jpg---
 
 ## Overview
 

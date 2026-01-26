@@ -4,13 +4,13 @@ site_name: "Schillerdenkmal"
 date: 2026-01-26
 draft: false
 description: "Monument in Stuttgart"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1276756"
 latitude: 48.78
 longitude: 9.18417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Adolf_von_Donndorf,_004.jpg/400px-Adolf_von_Donndorf,_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Adolf_von_Donndorf,_004.jpg/800px-Adolf_von_Donndorf,_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Adolf_von_Donndorf,_004.jpg/1200px-Adolf_von_Donndorf,_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Adolf_von_Donndorf,_004.jpg/1920px-Adolf_von_Donndorf,_004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Adolf_von_Donndorf,_004.jpg/1920px-Adolf_von_Donndorf,_004.jpg---
 
 ## Overview
 

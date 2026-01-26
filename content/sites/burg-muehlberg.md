@@ -4,13 +4,13 @@ site_name: "Burg Mühlberg"
 date: 2026-01-26
 draft: false
 description: "castle in Pfalz"
-region: "Imsweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Imsweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013169"
 latitude: 49.601
 longitude: 7.81773
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/400px-Burgstelle_Muehlberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/800px-Burgstelle_Muehlberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/1200px-Burgstelle_Muehlberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/1920px-Burgstelle_Muehlberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/1920px-Burgstelle_Muehlberg.JPG---
 
 ## Overview
 

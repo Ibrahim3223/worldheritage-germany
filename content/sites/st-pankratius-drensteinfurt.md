@@ -4,13 +4,13 @@ site_name: "St. Pankratius, Drensteinfurt"
 date: 2026-01-26
 draft: false
 description: "church building in Drensteinfurt, Germany"
-region: "Drensteinfurt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Drensteinfurt"
+  - "Lower Saxony"
 wikidata_id: "Q2322273"
 latitude: 51.8464
 longitude: 7.6849
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/400px-Drensteinfurt_St_Pankratius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/800px-Drensteinfurt_St_Pankratius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/1200px-Drensteinfurt_St_Pankratius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/1920px-Drensteinfurt_St_Pankratius.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/1920px-Drensteinfurt_St_Pankratius.jpg---
 
 ## Overview
 

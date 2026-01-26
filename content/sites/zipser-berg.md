@@ -4,19 +4,18 @@ site_name: "Zipser Berg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Pegnitz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Pegnitz"
+  - "Bavaria"
 wikidata_id: "Q205539"
 latitude: 49.7642
 longitude: 11.5794
 images:
-  []
----
+  []---
 
 ## Overview
 

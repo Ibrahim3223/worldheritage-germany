@@ -4,13 +4,13 @@ site_name: "Töpfereimuseum Langerwehe"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Langerwehe"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Langerwehe"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2464072"
 latitude: 50.8159
 longitude: 6.35539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/400px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/800px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/1200px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/1920px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/1920px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg---
 
 ## Overview
 

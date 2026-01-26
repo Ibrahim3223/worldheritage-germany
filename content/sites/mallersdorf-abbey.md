@@ -4,13 +4,13 @@ site_name: "Mallersdorf Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Mallersdorf-Pfaffenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Mallersdorf-Pfaffenberg"
+  - "Bavaria"
 wikidata_id: "Q881136"
 latitude: 48.777601741
 longitude: 12.253666916
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kloster_Mallersdorf.JPG/400px-Kloster_Mallersdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kloster_Mallersdorf.JPG/800px-Kloster_Mallersdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kloster_Mallersdorf.JPG/1200px-Kloster_Mallersdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kloster_Mallersdorf.JPG/1920px-Kloster_Mallersdorf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kloster_Mallersdorf.JPG/1920px-Kloster_Mallersdorf.JPG---
 
 ## Overview
 

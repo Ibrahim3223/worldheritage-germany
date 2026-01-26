@@ -4,13 +4,13 @@ site_name: "Barkenhoff"
 date: 2026-01-26
 draft: false
 description: "art museum in Worpswede"
-region: "Worpswede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Worpswede"
+  - "Bremen"
 wikidata_id: "Q63725756"
 latitude: 53.215666
 longitude: 8.931745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/400px-Worpswede_Barkenhoff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/800px-Worpswede_Barkenhoff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/1200px-Worpswede_Barkenhoff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/1920px-Worpswede_Barkenhoff.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/1920px-Worpswede_Barkenhoff.jpg---
 
 ## Overview
 

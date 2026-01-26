@@ -4,13 +4,13 @@ site_name: "Jheringsfehner Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Moormerland, Germany"
-region: "Moormerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Moormerland"
+  - "Lower Saxony"
 wikidata_id: "Q1688828"
 latitude: 53.3285
 longitude: 7.52231
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/400px-ChurchJheringsfehn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/800px-ChurchJheringsfehn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1200px-ChurchJheringsfehn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1920px-ChurchJheringsfehn.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1920px-ChurchJheringsfehn.JPG---
 
 ## Overview
 

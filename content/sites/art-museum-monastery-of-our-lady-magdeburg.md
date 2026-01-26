@@ -4,19 +4,18 @@ site_name: "Art museum Monastery of Our Lady Magdeburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q20182117"
 latitude: 52.12777
 longitude: 11.63702
 images:
-  []
----
+  []---
 
 ## Overview
 

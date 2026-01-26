@@ -4,13 +4,13 @@ site_name: "Sieben Steinhäuser"
 date: 2026-01-26
 draft: false
 description: "group of five dolmens on the Lüneburg Heath, Germany"
-region: "Osterheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Osterheide"
+  - "Lower Saxony"
 wikidata_id: "Q240198"
 latitude: 52.800555555
 longitude: 9.7975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Siebensteinhaeuser_grab_d-2.jpg/400px-Siebensteinhaeuser_grab_d-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Siebensteinhaeuser_grab_d-2.jpg/800px-Siebensteinhaeuser_grab_d-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Siebensteinhaeuser_grab_d-2.jpg/1200px-Siebensteinhaeuser_grab_d-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Siebensteinhaeuser_grab_d-2.jpg/1920px-Siebensteinhaeuser_grab_d-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Siebensteinhaeuser_grab_d-2.jpg/1920px-Siebensteinhaeuser_grab_d-2.jpg---
 
 ## Overview
 

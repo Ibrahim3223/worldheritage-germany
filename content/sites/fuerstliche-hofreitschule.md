@@ -4,13 +4,13 @@ site_name: "Fürstliche Hofreitschule"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bückeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bückeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1483635"
 latitude: 52.259846
 longitude: 9.046372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/400px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/800px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1200px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1920px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1920px-Fürstliche_Hofreitschule_-_door_to_museum.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "WeltKunstMuseum Altrandsberg"
 date: 2026-01-26
 draft: false
 description: "art museum of museum replicas in Altrandsberg Castle in Miltach, Bavaria, Germany"
-region: "Miltach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Miltach"
+  - "Bavaria"
 wikidata_id: "Q111974862"
 latitude: 49.1201671
 longitude: 12.754888
 images:
-  []
----
+  []---
 
 ## Overview
 

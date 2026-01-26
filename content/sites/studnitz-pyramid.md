@@ -4,13 +4,13 @@ site_name: "Studnitz Pyramid"
 date: 2026-01-26
 draft: false
 description: "a pyramid-shaped tomb erected in 1770"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2358810"
 latitude: 50.945122
 longitude: 10.701075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/400px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/800px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/1200px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/1920px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/1920px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/400px-Olympia_Glockenturm_B-Westend_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/800px-Olympia_Glockenturm_B-Westend_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1200px-Olympia_Glockenturm_B-Westend_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1920px-Olympia_Glockenturm_B-Westend_07-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1920px-Olympia_Glockenturm_B-Westend_07-2017.jpg---
 
 ## Overview
 

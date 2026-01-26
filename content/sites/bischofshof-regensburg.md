@@ -4,19 +4,18 @@ site_name: "Bischofshof Regensburg"
 date: 2026-01-26
 draft: false
 description: "brewery in Regensburg, Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q866161"
 latitude: 49.020113181
 longitude: 12.097903016
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Lauske 26 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Weißenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Weißenberg"
+  - "Saxony"
 wikidata_id: "Q49405739"
 latitude: 51.172512
 longitude: 14.618797
 images:
-  []
----
+  []---
 
 ## Overview
 

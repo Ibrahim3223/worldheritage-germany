@@ -4,13 +4,13 @@ site_name: "Töpfer"
 date: 2026-01-26
 draft: false
 description: "hill in Saxony, Germany"
-region: "Oybin"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Oybin"
+  - "Saxony"
 wikidata_id: "Q2353"
 latitude: 50.8483
 longitude: 14.7622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/400px-TöpferFelsen6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/800px-TöpferFelsen6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/1200px-TöpferFelsen6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/1920px-TöpferFelsen6.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/1920px-TöpferFelsen6.JPG---
 
 ## Overview
 

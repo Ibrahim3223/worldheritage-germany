@@ -4,13 +4,13 @@ site_name: "Glockenpalast"
 date: 2026-01-26
 draft: false
 description: "Gebäudekomplex in Gifhorn in Niedersachsen im altrussischen Baustil, und dortiges Kulturinstitut \"Die Brücke\""
-region: "Gifhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Gifhorn"
+  - "Lower Saxony"
 wikidata_id: "Q1211768"
 latitude: 52.4934
 longitude: 10.5559
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/400px-Gifhorn,_Glockenpalast,_2.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/800px-Gifhorn,_Glockenpalast,_2.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/1200px-Gifhorn,_Glockenpalast,_2.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/1920px-Gifhorn,_Glockenpalast,_2.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/1920px-Gifhorn,_Glockenpalast,_2.jpeg---
 
 ## Overview
 

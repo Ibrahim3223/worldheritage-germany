@@ -4,19 +4,18 @@ site_name: "Mersmühle"
 date: 2026-01-26
 draft: false
 description: "Kappenwindmühle in Haren (Ems)"
-region: "Haren"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Haren"
+  - "Lower Saxony"
 wikidata_id: "Q1922098"
 latitude: 52.8027
 longitude: 7.22818
 images:
-  []
----
+  []---
 
 ## Overview
 

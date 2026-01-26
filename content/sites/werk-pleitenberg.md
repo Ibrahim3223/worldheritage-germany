@@ -4,19 +4,18 @@ site_name: "Werk Pleitenberg"
 date: 2026-01-26
 draft: false
 description: "Teil der preußischen Festung Koblenz"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1229850"
 latitude: 50.3709
 longitude: 7.62119
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Wallerfangen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wallerfangen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wallerfangen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q28600338"
 latitude: 49.326937
 longitude: 6.719574
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/400px-Wallerfangen_Louisenstraße_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/800px-Wallerfangen_Louisenstraße_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/1200px-Wallerfangen_Louisenstraße_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/1920px-Wallerfangen_Louisenstraße_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/1920px-Wallerfangen_Louisenstraße_3.jpg---
 
 ## Overview
 

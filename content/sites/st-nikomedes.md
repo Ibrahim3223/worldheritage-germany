@@ -4,13 +4,13 @@ site_name: "St. Nikomedes"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Steinfurt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steinfurt"
+  - "Lower Saxony"
 wikidata_id: "Q1501827"
 latitude: 52.1265
 longitude: 7.39806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/400px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/800px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/1200px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/1920px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/1920px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg---
 
 ## Overview
 

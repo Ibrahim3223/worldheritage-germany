@@ -4,19 +4,18 @@ site_name: "Lapmaster Wolters GmbH"
 date: 2026-01-26
 draft: false
 description: "German company"
-region: "Rendsburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Rendsburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2079112"
 latitude: 54.3189
 longitude: 9.61915
 images:
-  []
----
+  []---
 
 ## Overview
 

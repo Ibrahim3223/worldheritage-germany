@@ -4,19 +4,18 @@ site_name: "Sender Visselhövede"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Visselhövede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Visselhövede"
+  - "Lower Saxony"
 wikidata_id: "Q1386497"
 latitude: 52.9773
 longitude: 9.60673
 images:
-  []
----
+  []---
 
 ## Overview
 

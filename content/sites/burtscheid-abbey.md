@@ -4,13 +4,13 @@ site_name: "Burtscheid Abbey"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q325202"
 latitude: 50.7631
 longitude: 6.09333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/400px-St_Johann-Baptist_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/800px-St_Johann-Baptist_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/1200px-St_Johann-Baptist_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/1920px-St_Johann-Baptist_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/1920px-St_Johann-Baptist_2.jpg---
 
 ## Overview
 

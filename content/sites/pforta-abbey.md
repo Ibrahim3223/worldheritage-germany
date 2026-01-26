@@ -4,13 +4,13 @@ site_name: "Pforta abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q206083"
 latitude: 51.1422
 longitude: 11.7527
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pforta_Klosterkirche.jpg/400px-Pforta_Klosterkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pforta_Klosterkirche.jpg/800px-Pforta_Klosterkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pforta_Klosterkirche.jpg/1200px-Pforta_Klosterkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pforta_Klosterkirche.jpg/1920px-Pforta_Klosterkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pforta_Klosterkirche.jpg/1920px-Pforta_Klosterkirche.jpg---
 
 ## Overview
 

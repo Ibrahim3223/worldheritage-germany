@@ -4,13 +4,13 @@ site_name: "St. Johannis"
 date: 2026-01-26
 draft: false
 description: "church on the German island of Föhr"
-region: "Nieblum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nieblum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1672040"
 latitude: 54.6934
 longitude: 8.49113
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/400px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/800px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/1200px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/1920px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/1920px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg---
 
 ## Overview
 

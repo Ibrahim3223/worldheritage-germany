@@ -4,13 +4,13 @@ site_name: "Schalom-Haus"
 date: 2026-01-26
 draft: false
 description: "church building in Schönebeck, Germany"
-region: "Schönebeck"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Schönebeck"
+  - "Brandenburg"
 wikidata_id: "Q1647691"
 latitude: 52.018
 longitude: 11.7396
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/400px-SCHALOM-Haus_haus1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/800px-SCHALOM-Haus_haus1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/1200px-SCHALOM-Haus_haus1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/1920px-SCHALOM-Haus_haus1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/1920px-SCHALOM-Haus_haus1.jpg---
 
 ## Overview
 

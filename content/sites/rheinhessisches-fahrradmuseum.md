@@ -4,13 +4,13 @@ site_name: "Rheinhessisches Fahrradmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Gau-Algesheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gau-Algesheim"
+  - "Hesse"
 wikidata_id: "Q1459154"
 latitude: 49.9545
 longitude: 8.01671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gau-algesheim-3-begradigt.jpg/400px-Gau-algesheim-3-begradigt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gau-algesheim-3-begradigt.jpg/800px-Gau-algesheim-3-begradigt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gau-algesheim-3-begradigt.jpg/1200px-Gau-algesheim-3-begradigt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gau-algesheim-3-begradigt.jpg/1920px-Gau-algesheim-3-begradigt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gau-algesheim-3-begradigt.jpg/1920px-Gau-algesheim-3-begradigt.jpg---
 
 ## Overview
 

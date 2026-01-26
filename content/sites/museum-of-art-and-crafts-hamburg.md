@@ -4,13 +4,13 @@ site_name: "Museum of Art and Crafts Hamburg"
 date: 2026-01-26
 draft: false
 description: "museum of fine, applied and decorative arts in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q896052"
 latitude: 53.551111
 longitude: 10.009444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg/400px-Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg/800px-Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg/1200px-Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg/1920px-Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg/1920px-Museum_für_Kunst_und_Gewerbe_Hamburg,_Ostfassade_mit_Hauptportal.jpg---
 
 ## Overview
 

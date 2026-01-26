@@ -4,19 +4,18 @@ site_name: "Hortensienstraße 19-21C gardens"
 date: 2026-01-26
 draft: false
 description: "garden in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q32319343"
 latitude: 52.447014
 longitude: 13.302791
 images:
-  []
----
+  []---
 
 ## Overview
 

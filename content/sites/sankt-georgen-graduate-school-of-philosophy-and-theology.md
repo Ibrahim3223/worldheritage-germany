@@ -4,13 +4,13 @@ site_name: "Sankt Georgen Graduate School of Philosophy and Theology"
 date: 2026-01-26
 draft: false
 description: "Jesuit college of higher education in Frankfurt am Main, Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q895645"
 latitude: 50.09848
 longitude: 8.712
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/400px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/800px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/1200px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/1920px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/1920px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Memorial Wolffenbüttel Prison"
 date: 2026-01-26
 draft: false
 description: "memorial in Wolfenbüttel, Germany"
-region: "Wolfenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Wolfenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q1497534"
 latitude: 52.1642
 longitude: 10.5415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/400px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/800px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/1200px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/1920px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/1920px-Fassadenansicht,_GWF-Sarah_Kunte.jpg---
 
 ## Overview
 

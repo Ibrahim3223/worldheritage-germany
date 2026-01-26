@@ -4,13 +4,13 @@ site_name: "Sibyllentürmchen"
 date: 2026-01-26
 draft: false
 description: "monument in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2281062"
 latitude: 50.9704
 longitude: 11.01
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg/400px-Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg/800px-Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg/1200px-Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg/1920px-Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg/1920px-Cyriakstraße,_Sybillentürmchen_Erfurt_20250411_0004.jpg---
 
 ## Overview
 

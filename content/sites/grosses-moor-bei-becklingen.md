@@ -4,13 +4,13 @@ site_name: "Großes Moor bei Becklingen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wietzendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wietzendorf"
+  - "Lower Saxony"
 wikidata_id: "Q99854"
 latitude: 52.86833333
 longitude: 9.95555556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/400px-BecklgMoorFläche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/800px-BecklgMoorFläche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1200px-BecklgMoorFläche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1920px-BecklgMoorFläche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1920px-BecklgMoorFläche.jpg---
 
 # Großes Moor bei Becklingen: A Comprehensive Guide to a Natural Sanctuary
 

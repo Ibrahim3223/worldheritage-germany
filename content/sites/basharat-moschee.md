@@ -4,19 +4,18 @@ site_name: "Basharat-Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee der Ahmadiyya in Osnabrück"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q116983800"
 latitude: 52.300616858
 longitude: 8.005098355
 images:
-  []
----
+  []---
 
 ## Overview
 

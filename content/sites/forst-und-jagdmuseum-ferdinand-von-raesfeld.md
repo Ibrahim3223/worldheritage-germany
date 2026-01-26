@@ -4,13 +4,13 @@ site_name: "Forst- und Jagdmuseum Ferdinand von Raesfeld"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Born auf dem Darß"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Born auf dem Darß"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1438203"
 latitude: 54.3860837
 longitude: 12.5321798
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Forstmuseum_born.jpg/400px-Forstmuseum_born.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Forstmuseum_born.jpg/800px-Forstmuseum_born.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Forstmuseum_born.jpg/1200px-Forstmuseum_born.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Forstmuseum_born.jpg/1920px-Forstmuseum_born.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Forstmuseum_born.jpg/1920px-Forstmuseum_born.jpg---
 
 ## Overview
 

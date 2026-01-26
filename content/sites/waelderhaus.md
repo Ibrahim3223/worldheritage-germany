@@ -4,13 +4,13 @@ site_name: "Wälderhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q24287607"
 latitude: 53.496124
 longitude: 10.003101
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/400px-WÄLDERHAUS_HAMBURG.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/800px-WÄLDERHAUS_HAMBURG.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/1200px-WÄLDERHAUS_HAMBURG.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/1920px-WÄLDERHAUS_HAMBURG.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/1920px-WÄLDERHAUS_HAMBURG.jpg---
 
 ## Overview
 

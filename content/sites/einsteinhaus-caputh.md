@@ -4,13 +4,13 @@ site_name: "Einsteinhaus Caputh"
 date: 2026-01-26
 draft: false
 description: "from 1929 to 1932 house of Albert Einstein"
-region: "Schwielowsee"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Schwielowsee"
+  - "Brandenburg"
 wikidata_id: "Q1309294"
 latitude: 52.35
 longitude: 13.0141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/400px-Albert_Einstein_home_Berlin_100.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/800px-Albert_Einstein_home_Berlin_100.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1200px-Albert_Einstein_home_Berlin_100.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1920px-Albert_Einstein_home_Berlin_100.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1920px-Albert_Einstein_home_Berlin_100.JPG---
 
 ## Overview
 

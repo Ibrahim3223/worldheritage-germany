@@ -4,19 +4,18 @@ site_name: "Straßenbrücke Colmnitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Klingenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Klingenberg"
+  - "Saxony"
 wikidata_id: "Q49442623"
 latitude: 50.91388
 longitude: 13.48092
 images:
-  []
----
+  []---
 
 ## Overview
 

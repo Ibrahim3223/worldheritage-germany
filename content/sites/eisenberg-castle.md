@@ -4,13 +4,13 @@ site_name: "Eisenberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eisenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Eisenberg"
+  - "Bavaria"
 wikidata_id: "Q1011579"
 latitude: 47.612777777
 longitude: 10.590277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/400px-Burg_Eisenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/800px-Burg_Eisenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/1200px-Burg_Eisenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/1920px-Burg_Eisenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/1920px-Burg_Eisenberg.jpg---
 
 ## Overview
 

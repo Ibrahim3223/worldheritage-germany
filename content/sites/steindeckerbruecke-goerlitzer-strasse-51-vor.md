@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Görlitzer Straße 51 (vor)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Horka"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Horka"
+  - "Saxony"
 wikidata_id: "Q49421790"
 latitude: 51.284622
 longitude: 14.8922027
 images:
-  []
----
+  []---
 
 ## Overview
 

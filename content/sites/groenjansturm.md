@@ -4,13 +4,13 @@ site_name: "Grönjansturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1372560"
 latitude: 50.7991
 longitude: 6.48179
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/400px-Dueren_Stadtturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/800px-Dueren_Stadtturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/1200px-Dueren_Stadtturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/1920px-Dueren_Stadtturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/1920px-Dueren_Stadtturm.jpg---
 
 ## Overview
 

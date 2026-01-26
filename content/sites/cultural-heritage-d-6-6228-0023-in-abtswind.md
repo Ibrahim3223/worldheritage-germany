@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6228-0023 in Abtswind"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Abtswind, Kitzingen, Lower Franconia, Bavaria, Germany"
-region: "Abtswind"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Abtswind"
+  - "Baden-Württemberg"
 wikidata_id: "Q98149477"
 latitude: 49.770753347
 longitude: 10.372789942
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Peter (Krempe)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Krempe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krempe"
+  - "Lower Saxony"
 wikidata_id: "Q1365555"
 latitude: 53.836
 longitude: 9.49133
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/400px-Kremper_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/800px-Kremper_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/1200px-Kremper_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/1920px-Kremper_Kirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/1920px-Kremper_Kirche.JPG---
 
 ## Overview
 

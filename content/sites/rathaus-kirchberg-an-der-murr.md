@@ -4,13 +4,13 @@ site_name: "Rathaus Kirchberg an der Murr"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Kirchberg an der Murr im Rems-Murr-Kreis in Baden-Württemberg"
-region: "Kirchberg an der Murr"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kirchberg an der Murr"
+  - "Baden-Württemberg"
 wikidata_id: "Q123015015"
 latitude: 48.94303
 longitude: 9.34089
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/400px-KirchbergMurrRathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/800px-KirchbergMurrRathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/1200px-KirchbergMurrRathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/1920px-KirchbergMurrRathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/1920px-KirchbergMurrRathaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Langwedel town hall"
 date: 2026-01-26
 draft: false
 description: "town hall of Langwedel, Lower Saxony, Germany"
-region: "Langwedel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Langwedel"
+  - "Lower Saxony"
 wikidata_id: "Q129900458"
 latitude: 52.977208
 longitude: 9.184163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus_Langwedel_(Verden)_2.jpg/400px-Rathaus_Langwedel_(Verden)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus_Langwedel_(Verden)_2.jpg/800px-Rathaus_Langwedel_(Verden)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus_Langwedel_(Verden)_2.jpg/1200px-Rathaus_Langwedel_(Verden)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus_Langwedel_(Verden)_2.jpg/1920px-Rathaus_Langwedel_(Verden)_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus_Langwedel_(Verden)_2.jpg/1920px-Rathaus_Langwedel_(Verden)_2.jpg---
 
 ## Overview
 

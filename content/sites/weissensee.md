@@ -4,13 +4,13 @@ site_name: "Weißensee"
 date: 2026-01-26
 draft: false
 description: "lake in the foothills of the Allgäu Alps in the municipality of Füssen, Bavaria, Germany"
-region: "Füssen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Füssen"
+  - "Bavaria"
 wikidata_id: "Q260849"
 latitude: 47.5707931
 longitude: 10.639143
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Weißensee_(view_from_the_southeast).jpg---
 
 ## Overview
 

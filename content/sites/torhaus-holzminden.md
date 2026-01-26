@@ -4,13 +4,13 @@ site_name: "Torhaus (Holzminden)"
 date: 2026-01-26
 draft: false
 description: "gatehouse in Holzminden"
-region: "Holzminden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Holzminden"
+  - "Lower Saxony"
 wikidata_id: "Q47136212"
 latitude: 51.828611111
 longitude: 9.449166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/400px-Holzminden_Torhaus_Oberbachstr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/800px-Holzminden_Torhaus_Oberbachstr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/1200px-Holzminden_Torhaus_Oberbachstr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/1920px-Holzminden_Torhaus_Oberbachstr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/1920px-Holzminden_Torhaus_Oberbachstr.jpg---
 
 ## Overview
 

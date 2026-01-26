@@ -4,13 +4,13 @@ site_name: "Schloss Lüssow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Westen der Ortschaft Lüssow (Gützkow), auch als Schloss Lüssow bezeichnet"
-region: "Gützkow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Gützkow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q21704944"
 latitude: 53.91494444
 longitude: 13.49327778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lüssow-Schloss-151205-077.JPG/400px-Lüssow-Schloss-151205-077.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lüssow-Schloss-151205-077.JPG/800px-Lüssow-Schloss-151205-077.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lüssow-Schloss-151205-077.JPG/1200px-Lüssow-Schloss-151205-077.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lüssow-Schloss-151205-077.JPG/1920px-Lüssow-Schloss-151205-077.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lüssow-Schloss-151205-077.JPG/1920px-Lüssow-Schloss-151205-077.JPG---
 
 ## Overview
 

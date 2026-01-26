@@ -4,13 +4,13 @@ site_name: "Gut Wahlstorf"
 date: 2026-01-26
 draft: false
 description: "building in Wahlstorf (Germany)"
-region: "Wahlstorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wahlstorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q186313"
 latitude: 54.1964
 longitude: 10.3067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/400px-Wahlstorf,_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/800px-Wahlstorf,_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1200px-Wahlstorf,_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1920px-Wahlstorf,_Herrenhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1920px-Wahlstorf,_Herrenhaus.JPG---
 
 ## Overview
 

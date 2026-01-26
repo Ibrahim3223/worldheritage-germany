@@ -4,13 +4,13 @@ site_name: "Zwochauer See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Wiedemar"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Wiedemar"
+  - "Brandenburg"
 wikidata_id: "Q245116"
 latitude: 51.4697
 longitude: 12.2825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ZwochauerSee.jpg/400px-ZwochauerSee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ZwochauerSee.jpg/800px-ZwochauerSee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ZwochauerSee.jpg/1200px-ZwochauerSee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ZwochauerSee.jpg/1920px-ZwochauerSee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ZwochauerSee.jpg/1920px-ZwochauerSee.jpg---
 
 ## Overview
 

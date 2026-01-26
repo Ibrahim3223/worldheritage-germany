@@ -4,13 +4,13 @@ site_name: "Wallhöfener Mühle"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Vollersode"
-region: "Vollersode"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Vollersode"
+  - "Bremen"
 wikidata_id: "Q134497853"
 latitude: 53.316546
 longitude: 8.894909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/400px-Vollersode.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/800px-Vollersode.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/1200px-Vollersode.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/1920px-Vollersode.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/1920px-Vollersode.jpg---
 
 ## Overview
 

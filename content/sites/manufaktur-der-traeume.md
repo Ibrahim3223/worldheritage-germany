@@ -4,13 +4,13 @@ site_name: "Manufaktur der Träume"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Annaberg-Buchholz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Annaberg-Buchholz"
+  - "Bavaria"
 wikidata_id: "Q1891851"
 latitude: 50.5792
 longitude: 13.0019
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2010-11-20_-_MdT_001.JPG/400px-2010-11-20_-_MdT_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2010-11-20_-_MdT_001.JPG/800px-2010-11-20_-_MdT_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2010-11-20_-_MdT_001.JPG/1200px-2010-11-20_-_MdT_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2010-11-20_-_MdT_001.JPG/1920px-2010-11-20_-_MdT_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2010-11-20_-_MdT_001.JPG/1920px-2010-11-20_-_MdT_001.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Vitus (Döllnitz)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Schkopau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schkopau"
+  - "Brandenburg"
 wikidata_id: "Q1244255"
 latitude: 51.4067
 longitude: 12.0279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/400px-DöllnitzKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/800px-DöllnitzKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/1200px-DöllnitzKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/1920px-DöllnitzKirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/1920px-DöllnitzKirche.JPG---
 
 ## Overview
 

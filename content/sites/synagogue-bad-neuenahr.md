@@ -4,19 +4,18 @@ site_name: "Synagogue (Bad Neuenahr)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bad Neuenahr-Ahrweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bad Neuenahr-Ahrweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q995291"
 latitude: 50.5448
 longitude: 7.13925
 images:
-  []
----
+  []---
 
 ## Overview
 

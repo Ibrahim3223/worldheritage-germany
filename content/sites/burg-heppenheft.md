@@ -4,19 +4,18 @@ site_name: "Burg Heppenheft"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Niederwallmenach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Niederwallmenach"
+  - "Hesse"
 wikidata_id: "Q1012306"
 latitude: 50.1397
 longitude: 7.8118
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Herne station"
 date: 2026-01-26
 draft: false
 description: "railway station in Herne, Germany"
-region: "Herne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Herne"
+  - "Lower Saxony"
 wikidata_id: "Q319534"
 latitude: 51.543611111
 longitude: 7.217777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/400px-Herne_trainstation_e&n.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/800px-Herne_trainstation_e&n.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/1200px-Herne_trainstation_e&n.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/1920px-Herne_trainstation_e&n.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/1920px-Herne_trainstation_e&n.jpg---
 
 ## Overview
 

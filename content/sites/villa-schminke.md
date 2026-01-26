@@ -4,13 +4,13 @@ site_name: "Villa Schminke"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Löbau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Löbau"
+  - "Saxony"
 wikidata_id: "Q160385"
 latitude: 51.1004
 longitude: 14.6594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/400px-Haus_Schminke_Löbau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/800px-Haus_Schminke_Löbau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/1200px-Haus_Schminke_Löbau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/1920px-Haus_Schminke_Löbau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/1920px-Haus_Schminke_Löbau.JPG---
 
 ## Overview
 

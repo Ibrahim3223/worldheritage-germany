@@ -4,19 +4,18 @@ site_name: "Bruchstein-Bogenbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Dorfhain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Dorfhain"
+  - "Saxony"
 wikidata_id: "Q49441550"
 latitude: 50.94569
 longitude: 13.54371
 images:
-  []
----
+  []---
 
 ## Overview 
 

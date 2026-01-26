@@ -4,13 +4,13 @@ site_name: "St.-Johannes Chapel"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Germany"
-region: "Ahlem-Badenstedt-Davenstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ahlem-Badenstedt-Davenstedt"
+  - "Lower Saxony"
 wikidata_id: "Q1638277"
 latitude: 52.3662
 longitude: 9.67088
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg/400px-St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg/800px-St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg/1200px-St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg/1920px-St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg/1920px-St.-Johannes-Kapelle_in_Hannover-Davenstedt_mit_der_Stadttafel.jpg---
 
 ## Overview
 

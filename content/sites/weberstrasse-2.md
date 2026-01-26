@@ -4,13 +4,13 @@ site_name: "Weberstraße 2"
 date: 2026-01-26
 draft: false
 description: "Upper Lusatian house in Spitzkunnersdorf"
-region: "Leutersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Leutersdorf"
+  - "Saxony"
 wikidata_id: "Q49412598"
 latitude: 50.939025
 longitude: 14.688383
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Weberstraße_2.jpg/400px-Weberstraße_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Weberstraße_2.jpg/800px-Weberstraße_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Weberstraße_2.jpg/1200px-Weberstraße_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Weberstraße_2.jpg/1920px-Weberstraße_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Weberstraße_2.jpg/1920px-Weberstraße_2.jpg---
 
 ## Overview
 

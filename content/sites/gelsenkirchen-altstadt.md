@@ -4,19 +4,18 @@ site_name: "Gelsenkirchen-Altstadt"
 date: 2026-01-26
 draft: false
 description: "quarter of Gelsenkirchen, Germany"
-region: "Gelsenkirchen-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Gelsenkirchen-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1499800"
 latitude: 51.5084
 longitude: 7.09771
 images:
-  []
----
+  []---
 
 ## Overview
 

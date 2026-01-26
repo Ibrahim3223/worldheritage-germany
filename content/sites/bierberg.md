@@ -4,13 +4,13 @@ site_name: "Bierberg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lügde, North Rhine-Westphalia, Germany"
-region: "Lügde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Lügde"
+  - "Lower Saxony"
 wikidata_id: "Q857754"
 latitude: 51.9399
 longitude: 9.23982
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg/400px-Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg/800px-Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg/1200px-Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg/1920px-Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg/1920px-Lügde_-_2015-05-12_-_LIP-048_Bierberg_(41).jpg---
 
 ## Overview
 

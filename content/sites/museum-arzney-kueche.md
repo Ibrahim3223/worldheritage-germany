@@ -4,19 +4,18 @@ site_name: "Museum Arzney-Küche"
 date: 2026-01-26
 draft: false
 description: "pharmacy Museum in Bönnigheim, Ludwigsburg district, Baden-Württemberg, Germany"
-region: "Bönnigheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bönnigheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q28859951"
 latitude: 49.041456
 longitude: 9.0936958
 images:
-  []
----
+  []---
 
 ## Overview
 

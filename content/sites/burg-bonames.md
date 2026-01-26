@@ -4,13 +4,13 @@ site_name: "Burg Bonames"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Frankfurt-Nord-Ost"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Frankfurt-Nord-Ost"
+  - "Hesse"
 wikidata_id: "Q1011117"
 latitude: 50.1803
 longitude: 8.66241
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg_Bonames_2009.jpg/400px-Burg_Bonames_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg_Bonames_2009.jpg/800px-Burg_Bonames_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg_Bonames_2009.jpg/1200px-Burg_Bonames_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg_Bonames_2009.jpg/1920px-Burg_Bonames_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg_Bonames_2009.jpg/1920px-Burg_Bonames_2009.jpg---
 
 ## Overview
 

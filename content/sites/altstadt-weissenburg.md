@@ -4,19 +4,18 @@ site_name: "Altstadt (Weißenburg)"
 date: 2026-01-26
 draft: false
 description: "old town quarter of weißenburg, Germany"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q445547"
 latitude: 49.0309
 longitude: 10.9732
 images:
-  []
----
+  []---
 
 ## Overview
 

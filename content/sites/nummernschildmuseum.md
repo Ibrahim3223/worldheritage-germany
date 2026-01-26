@@ -4,19 +4,18 @@ site_name: "Nummernschildmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Großolbersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großolbersdorf"
+  - "Saxony"
 wikidata_id: "Q15837123"
 latitude: 50.690968
 longitude: 13.0886652
 images:
-  []
----
+  []---
 
 ## Overview
 

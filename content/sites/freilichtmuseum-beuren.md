@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum Beuren"
 date: 2026-01-26
 draft: false
 description: "museum in Beuren, Germany"
-region: "Beuren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Beuren"
+  - "Baden-Württemberg"
 wikidata_id: "Q1454516"
 latitude: 48.5758
 longitude: 9.41417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Beuren-freilichtmuseum-99-neckardorfH1a.jpg/400px-Beuren-freilichtmuseum-99-neckardorfH1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Beuren-freilichtmuseum-99-neckardorfH1a.jpg/800px-Beuren-freilichtmuseum-99-neckardorfH1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Beuren-freilichtmuseum-99-neckardorfH1a.jpg/1200px-Beuren-freilichtmuseum-99-neckardorfH1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Beuren-freilichtmuseum-99-neckardorfH1a.jpg/1920px-Beuren-freilichtmuseum-99-neckardorfH1a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Beuren-freilichtmuseum-99-neckardorfH1a.jpg/1920px-Beuren-freilichtmuseum-99-neckardorfH1a.jpg---
 
 ## Overview
 

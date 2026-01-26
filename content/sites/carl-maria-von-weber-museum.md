@@ -4,13 +4,13 @@ site_name: "Carl-Maria-von-Weber-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1036560"
 latitude: 51.0168
 longitude: 13.8645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/400px-Carlmariavonwebermuseum_dresden2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/800px-Carlmariavonwebermuseum_dresden2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/1200px-Carlmariavonwebermuseum_dresden2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/1920px-Carlmariavonwebermuseum_dresden2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/1920px-Carlmariavonwebermuseum_dresden2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "SAP Arena"
 date: 2026-01-26
 draft: false
 description: "multi-function venue in the German city of Mannheim"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q125432"
 latitude: 49.464115
 longitude: 8.517956
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/400px-SAParenaPanoN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/800px-SAParenaPanoN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/1200px-SAParenaPanoN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/1920px-SAParenaPanoN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/1920px-SAParenaPanoN.jpg---
 
 ## Overview
 

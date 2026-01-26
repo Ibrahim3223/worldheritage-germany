@@ -4,13 +4,13 @@ site_name: "Burg Dreieichenhain"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dreieich"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dreieich"
+  - "Hesse"
 wikidata_id: "Q1012242"
 latitude: 50.0014
 longitude: 8.71639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/400px-Dreieich_Dreieichenhain_Burg_20070823.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/800px-Dreieich_Dreieichenhain_Burg_20070823.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1200px-Dreieich_Dreieichenhain_Burg_20070823.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1920px-Dreieich_Dreieichenhain_Burg_20070823.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1920px-Dreieich_Dreieichenhain_Burg_20070823.JPG---
 
 ## Overview
 

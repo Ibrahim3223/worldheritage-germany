@@ -4,19 +4,18 @@ site_name: "Augustinerkloster Mindelheim"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q768529"
 latitude: 48.0458
 longitude: 10.4856
 images:
-  []
----
+  []---
 
 ## Overview
 

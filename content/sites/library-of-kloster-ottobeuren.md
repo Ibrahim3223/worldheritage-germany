@@ -4,13 +4,13 @@ site_name: "Library of Kloster Ottobeuren"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Ottobeuren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Ottobeuren"
+  - "Baden-Württemberg"
 wikidata_id: "Q435387"
 latitude: 47.9414
 longitude: 10.2981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/400px-Bibliothek_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/800px-Bibliothek_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/1200px-Bibliothek_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/1920px-Bibliothek_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/1920px-Bibliothek_-_panoramio.jpg---
 
 ## Overview
 

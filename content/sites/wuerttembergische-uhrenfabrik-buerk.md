@@ -4,19 +4,18 @@ site_name: "Württembergische Uhrenfabrik Bürk"
 date: 2026-01-26
 draft: false
 description: "Uhrenhersteller"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q2596891"
 latitude: 48.064587
 longitude: 8.530605
 images:
-  []
----
+  []---
 
 ## Overview
 

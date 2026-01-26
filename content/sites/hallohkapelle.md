@@ -4,13 +4,13 @@ site_name: "Hallohkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1571823"
 latitude: 51.337
 longitude: 8.19269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/400px-Hallohkapelle_Nordwest.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/800px-Hallohkapelle_Nordwest.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/1200px-Hallohkapelle_Nordwest.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/1920px-Hallohkapelle_Nordwest.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/1920px-Hallohkapelle_Nordwest.JPG---
 
 ## Overview
 

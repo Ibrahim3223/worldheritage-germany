@@ -4,13 +4,13 @@ site_name: "Anbetungskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q488834"
 latitude: 51.1752
 longitude: 6.87054
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/400px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/800px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/1200px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/1920px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/1920px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg---
 
 ## Overview
 

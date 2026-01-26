@@ -4,19 +4,18 @@ site_name: "Düster See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Grambow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Grambow"
+  - "Brandenburg"
 wikidata_id: "Q1272415"
 latitude: 53.3675
 longitude: 14.358
 images:
-  []
----
+  []---
 
 ## Overview
 

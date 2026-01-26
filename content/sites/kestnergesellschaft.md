@@ -4,13 +4,13 @@ site_name: "Kestnergesellschaft"
 date: 2026-01-26
 draft: false
 description: "art museum and art organization in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q565375"
 latitude: 52.3775
 longitude: 9.73167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/400px-Kestner_Gesellschaft.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/800px-Kestner_Gesellschaft.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/1200px-Kestner_Gesellschaft.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/1920px-Kestner_Gesellschaft.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/1920px-Kestner_Gesellschaft.jpeg---
 
 ## Overview
 

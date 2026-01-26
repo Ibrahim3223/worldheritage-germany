@@ -4,13 +4,13 @@ site_name: "Synagogue of Kaiserslautern"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1372217"
 latitude: 49.4444
 longitude: 7.77448
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/400px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/800px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/1200px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/1920px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/1920px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg---
 
 ## Overview
 

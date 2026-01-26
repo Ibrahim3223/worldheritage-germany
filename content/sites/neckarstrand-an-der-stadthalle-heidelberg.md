@@ -4,13 +4,13 @@ site_name: "Neckarstrand an der Stadthalle Heidelberg"
 date: 2026-01-26
 draft: false
 description: "Strand und Strandbar im Bereich der Altstadt von Heidelberg, Deutschland"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q131415121"
 latitude: 49.412527
 longitude: 8.699071
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/400px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/800px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/1200px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/1920px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/1920px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg---
 
 ## Overview
 

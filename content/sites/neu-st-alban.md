@@ -4,13 +4,13 @@ site_name: "Neu St. Alban"
 date: 2026-01-26
 draft: false
 description: "church in Cologne-Neustadt-Nord, Germany"
-region: "Neustadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1979182"
 latitude: 50.9458
 longitude: 6.9371
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/400px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/800px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/1200px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/1920px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/1920px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg---
 
 ## Overview
 

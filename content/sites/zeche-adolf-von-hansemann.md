@@ -4,13 +4,13 @@ site_name: "Zeche Adolf von Hansemann"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169611"
 latitude: 51.5656
 longitude: 7.3775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/400px-Zeche_Hansemann_Dortmund-Mengede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/800px-Zeche_Hansemann_Dortmund-Mengede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/1200px-Zeche_Hansemann_Dortmund-Mengede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/1920px-Zeche_Hansemann_Dortmund-Mengede.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/1920px-Zeche_Hansemann_Dortmund-Mengede.jpg---
 
 ## Overview
 

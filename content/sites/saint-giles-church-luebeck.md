@@ -4,13 +4,13 @@ site_name: "Saint Giles church (Lübeck)"
 date: 2026-01-26
 draft: false
 description: "church in Lübeck (Schleswig-Holstein, Germany)"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q316973"
 latitude: 53.8639
 longitude: 10.6898
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg/400px-Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg/800px-Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg/1200px-Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg/1920px-Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg/1920px-Aerial_image_of_St.-Aegidien-Kirche,_Lübeck_(view_from_the_southwest).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dachau concentration camp memorial"
 date: 2026-01-26
 draft: false
 description: "heritage institution"
-region: "Dachau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dachau"
+  - "Bavaria"
 wikidata_id: "Q1532094"
 latitude: 48.2703
 longitude: 11.4681
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/400px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/800px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1200px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1920px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1920px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg---
 
 ## Overview
 

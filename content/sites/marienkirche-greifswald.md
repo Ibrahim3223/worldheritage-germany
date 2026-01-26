@@ -4,13 +4,13 @@ site_name: "Marienkirche, Greifswald"
 date: 2026-01-26
 draft: false
 description: "Greifswald"
-region: "Greifswald"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Greifswald"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1238725"
 latitude: 54.0969
 longitude: 13.3839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marienkirche_Greifswald.jpg/400px-Marienkirche_Greifswald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marienkirche_Greifswald.jpg/800px-Marienkirche_Greifswald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marienkirche_Greifswald.jpg/1200px-Marienkirche_Greifswald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marienkirche_Greifswald.jpg/1920px-Marienkirche_Greifswald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marienkirche_Greifswald.jpg/1920px-Marienkirche_Greifswald.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum für Moderne Kunst"
 date: 2026-01-26
 draft: false
 description: "art museum in Frankfurt, Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q456994"
 latitude: 50.1121
 longitude: 8.685
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/400px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/800px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/1200px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/1920px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/1920px-Museum_fuer_Moderne_Kunst_Portalseite.jpg---
 
 ## Overview
 

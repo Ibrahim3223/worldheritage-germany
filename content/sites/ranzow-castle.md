@@ -4,13 +4,13 @@ site_name: "Ranzow Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Kleve"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kleve"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013582"
 latitude: 51.775
 longitude: 6.10958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_ranzow_kleve.jpg/400px-Burg_ranzow_kleve.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_ranzow_kleve.jpg/800px-Burg_ranzow_kleve.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_ranzow_kleve.jpg/1200px-Burg_ranzow_kleve.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_ranzow_kleve.jpg/1920px-Burg_ranzow_kleve.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_ranzow_kleve.jpg/1920px-Burg_ranzow_kleve.jpg---
 
 ## Overview
 

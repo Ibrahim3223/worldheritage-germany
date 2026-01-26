@@ -4,13 +4,13 @@ site_name: "Leibniz-Institute for Food Systems Biology at the Technical Universi
 date: 2026-01-26
 draft: false
 description: "facility in Freising, Germany"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q1202543"
 latitude: 48.398
 longitude: 11.7111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/400px-DFA_(Freising)_p01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/800px-DFA_(Freising)_p01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/1200px-DFA_(Freising)_p01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/1920px-DFA_(Freising)_p01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/1920px-DFA_(Freising)_p01.jpg---
 
 ## Overview
 

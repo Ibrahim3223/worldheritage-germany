@@ -4,13 +4,13 @@ site_name: "Grunewald Tower"
 date: 2026-01-26
 draft: false
 description: "observation tower in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q833787"
 latitude: 52.478333333
 longitude: 13.196666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/400px-Berlin_Grunewaldturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/800px-Berlin_Grunewaldturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1200px-Berlin_Grunewaldturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1920px-Berlin_Grunewaldturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1920px-Berlin_Grunewaldturm.JPG---
 
 ## Overview
 

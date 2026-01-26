@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Werinherstraße 50 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-7413 (1) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98740842"
 latitude: 48.114866447
 longitude: 11.589867267
 images:
-  []
----
+  []---
 
 ## Overview
 

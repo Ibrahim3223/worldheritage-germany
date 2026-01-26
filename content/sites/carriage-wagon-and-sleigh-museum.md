@@ -4,19 +4,18 @@ site_name: "Carriage, wagon and sleigh museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629386"
 latitude: 47.683944
 longitude: 11.782703
 images:
-  []
----
+  []---
 
 ## Overview
 

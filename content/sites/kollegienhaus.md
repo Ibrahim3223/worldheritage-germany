@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg/400px-Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg/800px-Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg/1200px-Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg/1920px-Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg/1920px-Berlin,_Kreuzberg,_Lindenstrasse_14,_Juedisches_Museum,_Kollegienhaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Denkmal für den unbekannten Wehrmachtsdeserteur"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1200600"
 latitude: 50.9783
 longitude: 11.0206
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/400px-Monument_deserter_Erfurt-above.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/800px-Monument_deserter_Erfurt-above.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/1200px-Monument_deserter_Erfurt-above.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/1920px-Monument_deserter_Erfurt-above.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/1920px-Monument_deserter_Erfurt-above.jpg---
 
 ## Overview
 

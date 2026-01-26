@@ -4,19 +4,18 @@ site_name: "Deutsches Spielkarten-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leinfelden-Echterdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leinfelden-Echterdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205993"
 latitude: 48.6902
 longitude: 9.13848
 images:
-  []
----
+  []---
 
 ## Overview
 

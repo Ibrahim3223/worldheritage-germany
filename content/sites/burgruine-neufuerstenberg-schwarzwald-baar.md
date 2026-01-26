@@ -4,13 +4,13 @@ site_name: "Burgruine Neufürstenberg, Schwarzwald-Baar"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Vöhrenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Vöhrenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013240"
 latitude: 47.9981
 longitude: 8.3261
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/400px-Burgruine_Neu-Fürstenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/800px-Burgruine_Neu-Fürstenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/1200px-Burgruine_Neu-Fürstenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/1920px-Burgruine_Neu-Fürstenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/1920px-Burgruine_Neu-Fürstenberg.jpg---
 
 ## Overview
 

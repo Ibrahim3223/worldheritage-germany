@@ -4,13 +4,13 @@ site_name: "Aalto Theatre"
 date: 2026-01-26
 draft: false
 description: "opera house in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q300975"
 latitude: 51.446944444
 longitude: 7.012777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/400px-Aalto-Theater-Abends-02-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/800px-Aalto-Theater-Abends-02-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1200px-Aalto-Theater-Abends-02-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1920px-Aalto-Theater-Abends-02-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1920px-Aalto-Theater-Abends-02-2014.jpg---
 
 ## Overview
 

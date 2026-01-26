@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-5-6631-0009 in Rohr"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Rohr"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Rohr"
+  - "Bavaria"
 wikidata_id: "Q98124622"
 latitude: 49.344101086
 longitude: 10.956310223
 images:
-  []
----
+  []---
 
 ## Overview
 

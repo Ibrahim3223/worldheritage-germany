@@ -4,13 +4,13 @@ site_name: "Leonhard-Gymnasium Aachen"
 date: 2026-01-26
 draft: false
 description: "school in Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q92939387"
 latitude: 50.77308
 longitude: 6.08303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/400px-AC_BD_Jesuitenstraße_9–11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/800px-AC_BD_Jesuitenstraße_9–11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/1200px-AC_BD_Jesuitenstraße_9–11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/1920px-AC_BD_Jesuitenstraße_9–11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/1920px-AC_BD_Jesuitenstraße_9–11.jpg---
 
 ## Overview
 

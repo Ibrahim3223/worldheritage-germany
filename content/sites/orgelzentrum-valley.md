@@ -4,13 +4,13 @@ site_name: "Orgelzentrum Valley"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Valley"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Valley"
+  - "Bavaria"
 wikidata_id: "Q21563314"
 latitude: 47.89317
 longitude: 11.77991
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Orgelzentrum_Valley.jpg/400px-Orgelzentrum_Valley.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Orgelzentrum_Valley.jpg/800px-Orgelzentrum_Valley.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Orgelzentrum_Valley.jpg/1200px-Orgelzentrum_Valley.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Orgelzentrum_Valley.jpg/1920px-Orgelzentrum_Valley.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Orgelzentrum_Valley.jpg/1920px-Orgelzentrum_Valley.jpg---
 
 ## Overview
 

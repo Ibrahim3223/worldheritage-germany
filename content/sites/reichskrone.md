@@ -4,13 +4,13 @@ site_name: "Reichskrone"
 date: 2026-01-26
 draft: false
 description: "former hotel and cinema in Naumburg (Saale), Germany"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1322998"
 latitude: 51.1522
 longitude: 11.8149
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Naumburg_Altes_Theater.jpg/400px-Naumburg_Altes_Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Naumburg_Altes_Theater.jpg/800px-Naumburg_Altes_Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Naumburg_Altes_Theater.jpg/1200px-Naumburg_Altes_Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Naumburg_Altes_Theater.jpg/1920px-Naumburg_Altes_Theater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Naumburg_Altes_Theater.jpg/1920px-Naumburg_Altes_Theater.jpg---
 
 ## Overview
 

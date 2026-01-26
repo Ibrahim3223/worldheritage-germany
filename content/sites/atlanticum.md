@@ -4,13 +4,13 @@ site_name: "Atlanticum"
 date: 2026-01-26
 draft: false
 description: "former museum in Bremerhaven, Germany"
-region: "Fischereihafen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fischereihafen"
+  - "Bremen"
 wikidata_id: "Q756487"
 latitude: 53.5219
 longitude: 8.58717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlanticum.jpg/400px-Atlanticum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlanticum.jpg/800px-Atlanticum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlanticum.jpg/1200px-Atlanticum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlanticum.jpg/1920px-Atlanticum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlanticum.jpg/1920px-Atlanticum.jpg---
 
 ## Overview
 

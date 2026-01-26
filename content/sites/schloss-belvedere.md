@@ -4,13 +4,13 @@ site_name: "Schloss Belvedere"
 date: 2026-01-26
 draft: false
 description: "palace and garden ensemble in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q314123"
 latitude: 50.9486
 longitude: 11.3486
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Belvedere_Weimar_Panorama.jpg/400px-Schloss_Belvedere_Weimar_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Belvedere_Weimar_Panorama.jpg/800px-Schloss_Belvedere_Weimar_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Belvedere_Weimar_Panorama.jpg/1200px-Schloss_Belvedere_Weimar_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Belvedere_Weimar_Panorama.jpg/1920px-Schloss_Belvedere_Weimar_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Belvedere_Weimar_Panorama.jpg/1920px-Schloss_Belvedere_Weimar_Panorama.jpg---
 
 ## Overview
 

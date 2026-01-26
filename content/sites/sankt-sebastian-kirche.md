@@ -4,13 +4,13 @@ site_name: "Sankt-Sebastian-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Magdeburg, Saxony-Anhalt, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q880442"
 latitude: 52.126469
 longitude: 11.631875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/400px-Sankt_Sebastian_Magdeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/800px-Sankt_Sebastian_Magdeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/1200px-Sankt_Sebastian_Magdeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/1920px-Sankt_Sebastian_Magdeburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/1920px-Sankt_Sebastian_Magdeburg.jpg---
 
 ## Overview
 

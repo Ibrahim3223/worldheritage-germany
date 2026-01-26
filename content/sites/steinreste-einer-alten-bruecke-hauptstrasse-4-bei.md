@@ -4,19 +4,18 @@ site_name: "Steinreste einer alten Brücke Hauptstraße 4 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hochkirch"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hochkirch"
+  - "Saxony"
 wikidata_id: "Q49408255"
 latitude: 51.138594
 longitude: 14.630053
 images:
-  []
----
+  []---
 
 ## Overview
 

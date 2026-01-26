@@ -4,13 +4,13 @@ site_name: "Museum für Papier- und Buchkunst"
 date: 2026-01-26
 draft: false
 description: "Museum of Paper Art and Book Art"
-region: "Esslingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Esslingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631402"
 latitude: 48.550342
 longitude: 9.469494
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oberlenningen-schloss.jpg/400px-Oberlenningen-schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oberlenningen-schloss.jpg/800px-Oberlenningen-schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oberlenningen-schloss.jpg/1200px-Oberlenningen-schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oberlenningen-schloss.jpg/1920px-Oberlenningen-schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Oberlenningen-schloss.jpg/1920px-Oberlenningen-schloss.jpg---
 
 ## Overview
 

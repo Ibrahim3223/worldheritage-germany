@@ -4,13 +4,13 @@ site_name: "Ehrenfriedhof Heidelberg"
 date: 2026-01-26
 draft: false
 description: "cemetery in Heidelberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1300095"
 latitude: 49.393611111
 longitude: 8.6975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/400px-Ehrenfriefhof_HD.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/800px-Ehrenfriefhof_HD.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/1200px-Ehrenfriefhof_HD.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/1920px-Ehrenfriefhof_HD.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/1920px-Ehrenfriefhof_HD.jpg---
 
 ## Overview
 

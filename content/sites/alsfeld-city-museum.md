@@ -4,13 +4,13 @@ site_name: "Alsfeld City Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Alsfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Alsfeld"
+  - "Hesse"
 wikidata_id: "Q2138414"
 latitude: 50.7507
 longitude: 9.27008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alsfeld_Minnigerode-Haus_2371.JPG/400px-Alsfeld_Minnigerode-Haus_2371.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alsfeld_Minnigerode-Haus_2371.JPG/800px-Alsfeld_Minnigerode-Haus_2371.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alsfeld_Minnigerode-Haus_2371.JPG/1200px-Alsfeld_Minnigerode-Haus_2371.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alsfeld_Minnigerode-Haus_2371.JPG/1920px-Alsfeld_Minnigerode-Haus_2371.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alsfeld_Minnigerode-Haus_2371.JPG/1920px-Alsfeld_Minnigerode-Haus_2371.JPG---
 
 ## Overview
 

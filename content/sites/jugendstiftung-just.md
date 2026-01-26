@@ -4,19 +4,18 @@ site_name: "Jugendstiftung just"
 date: 2026-01-26
 draft: false
 description: "gemeinnützige Stiftung der Diözese Rottenburg-Stuttgart"
-region: "Wernau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Wernau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1711409"
 latitude: 48.6986512
 longitude: 9.41309452
 images:
-  []
----
+  []---
 
 ## Overview
 

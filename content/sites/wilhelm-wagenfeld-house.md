@@ -4,13 +4,13 @@ site_name: "Wilhelm Wagenfeld House"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q2571567"
 latitude: 53.073
 longitude: 8.81485
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/400px-Bremen_Wilhelm_Wagenfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/800px-Bremen_Wilhelm_Wagenfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/1200px-Bremen_Wilhelm_Wagenfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/1920px-Bremen_Wilhelm_Wagenfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/1920px-Bremen_Wilhelm_Wagenfeld.jpg---
 
 ## Overview
 

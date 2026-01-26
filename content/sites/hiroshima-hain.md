@@ -4,13 +4,13 @@ site_name: "Hiroshima-Hain"
 date: 2026-01-26
 draft: false
 description: "park and memorial in Hannover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q14540545"
 latitude: 52.3594
 longitude: 9.77534
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG/400px-2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG/800px-2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG/1200px-2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG/1920px-2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG/1920px-2021-04-27_Hiroshima-Gedenkhain_Hannover_02.JPG---
 
 ## Overview
 

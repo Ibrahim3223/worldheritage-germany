@@ -4,13 +4,13 @@ site_name: "Burg Neuenahr"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Neuenahr"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Neuenahr"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013262"
 latitude: 50.5311
 longitude: 7.13806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Neuenahr_Burg_Aussichtsturm.jpg/400px-Burg_Neuenahr_Burg_Aussichtsturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Neuenahr_Burg_Aussichtsturm.jpg/800px-Burg_Neuenahr_Burg_Aussichtsturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Neuenahr_Burg_Aussichtsturm.jpg/1200px-Burg_Neuenahr_Burg_Aussichtsturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Neuenahr_Burg_Aussichtsturm.jpg/1920px-Burg_Neuenahr_Burg_Aussichtsturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Neuenahr_Burg_Aussichtsturm.jpg/1920px-Burg_Neuenahr_Burg_Aussichtsturm.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ernst-August-Palais"
 date: 2026-01-26
 draft: false
 description: "demolished palace in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q16831244"
 latitude: 52.368499
 longitude: 9.726873
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/400px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/800px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/1200px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/1920px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/1920px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg---
 
 ## Overview
 

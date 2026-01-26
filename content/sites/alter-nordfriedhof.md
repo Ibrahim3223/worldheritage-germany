@@ -4,13 +4,13 @@ site_name: "Alter Nordfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q438119"
 latitude: 48.1537
 longitude: 11.5702
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/400px-München_Alter_Nordfriedhof_Arkaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/800px-München_Alter_Nordfriedhof_Arkaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1200px-München_Alter_Nordfriedhof_Arkaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1920px-München_Alter_Nordfriedhof_Arkaden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1920px-München_Alter_Nordfriedhof_Arkaden.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mannheim Observatory"
 date: 2026-01-26
 draft: false
 description: "former observatory in Mannheim, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q315240"
 latitude: 49.4865
 longitude: 8.4597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/400px-Mannheim_Sternwarte_20100809.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/800px-Mannheim_Sternwarte_20100809.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/1200px-Mannheim_Sternwarte_20100809.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/1920px-Mannheim_Sternwarte_20100809.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/1920px-Mannheim_Sternwarte_20100809.jpg---
 
 ## Overview
 

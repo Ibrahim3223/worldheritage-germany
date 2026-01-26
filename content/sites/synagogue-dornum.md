@@ -4,13 +4,13 @@ site_name: "Synagogue Dornum"
 date: 2026-01-26
 draft: false
 description: "ehemalige deutsche Synagoge"
-region: "Dornum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dornum"
+  - "Lower Saxony"
 wikidata_id: "Q14549465"
 latitude: 53.6477
 longitude: 7.42872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostfriesland_msu-0349.jpg/400px-Ostfriesland_msu-0349.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostfriesland_msu-0349.jpg/800px-Ostfriesland_msu-0349.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostfriesland_msu-0349.jpg/1200px-Ostfriesland_msu-0349.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostfriesland_msu-0349.jpg/1920px-Ostfriesland_msu-0349.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostfriesland_msu-0349.jpg/1920px-Ostfriesland_msu-0349.jpg---
 
 ## Overview
 

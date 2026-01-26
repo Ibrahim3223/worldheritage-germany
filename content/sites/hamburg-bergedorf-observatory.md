@@ -4,13 +4,13 @@ site_name: "Hamburg-Bergedorf Observatory"
 date: 2026-01-26
 draft: false
 description: "astronomical observatory"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q681942"
 latitude: 53.48043889
 longitude: 10.24101667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/400px-Bdstern_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/800px-Bdstern_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/1200px-Bdstern_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/1920px-Bdstern_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/1920px-Bdstern_1.jpg---
 
 ## Overview
 

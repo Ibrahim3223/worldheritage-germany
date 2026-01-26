@@ -4,13 +4,13 @@ site_name: "Hirschbach Falls"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Sankt Peter"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Sankt Peter"
+  - "Baden-Württemberg"
 wikidata_id: "Q1620360"
 latitude: 48.035
 longitude: 8.09254
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/400px-Hirschbachfälle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/800px-Hirschbachfälle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/1200px-Hirschbachfälle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/1920px-Hirschbachfälle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/1920px-Hirschbachfälle.jpg---
 
 # Guide to Hirschbach Falls
 

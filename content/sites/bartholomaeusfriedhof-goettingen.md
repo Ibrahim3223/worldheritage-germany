@@ -4,13 +4,13 @@ site_name: "Bartholomäusfriedhof, Göttingen"
 date: 2026-01-26
 draft: false
 description: "cemetery in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q809394"
 latitude: 51.541
 longitude: 9.93181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/400px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/800px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/1200px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/1920px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/1920px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Stephani"
 date: 2026-01-26
 draft: false
 description: "church building in Bremen-Mitte, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1750008"
 latitude: 53.080836
 longitude: 8.79365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StStephani-01.jpg/400px-StStephani-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StStephani-01.jpg/800px-StStephani-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StStephani-01.jpg/1200px-StStephani-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StStephani-01.jpg/1920px-StStephani-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StStephani-01.jpg/1920px-StStephani-01.jpg---
 
 ## Overview
 

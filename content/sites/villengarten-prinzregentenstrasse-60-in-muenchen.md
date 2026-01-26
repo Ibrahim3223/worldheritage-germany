@@ -4,19 +4,18 @@ site_name: "Villengarten Prinzregentenstraße 60 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-5588 (4) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98740400"
 latitude: 48.14040618
 longitude: 11.599360401
 images:
-  []
----
+  []---
 
 ## Overview
 

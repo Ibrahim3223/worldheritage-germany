@@ -4,13 +4,13 @@ site_name: "Brunswick Palace"
 date: 2026-01-26
 draft: false
 description: "Palace in Lower Saxony, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q882796"
 latitude: 52.2631
 longitude: 10.5272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/400px-Braunschweig_Residenzschloss_um_189711.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/800px-Braunschweig_Residenzschloss_um_189711.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/1200px-Braunschweig_Residenzschloss_um_189711.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/1920px-Braunschweig_Residenzschloss_um_189711.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/1920px-Braunschweig_Residenzschloss_um_189711.jpg---
 
 ## Overview
 

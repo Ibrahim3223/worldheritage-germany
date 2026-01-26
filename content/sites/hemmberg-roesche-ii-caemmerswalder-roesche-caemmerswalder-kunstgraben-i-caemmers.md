@@ -4,19 +4,18 @@ site_name: "Hemmberg Rösche; II. Cämmerswalder Rösche; Cämmerswalder Kunstgr
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Neuhausen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Neuhausen"
+  - "Saxony"
 wikidata_id: "Q49448713"
 latitude: 50.69735712
 longitude: 13.49113376
 images:
-  []
----
+  []---
 
 ## Overview
 

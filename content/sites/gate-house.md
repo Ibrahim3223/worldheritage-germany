@@ -4,13 +4,13 @@ site_name: "Gate house"
 date: 2026-01-26
 draft: false
 description: "gate house in Stubbe, Germany"
-region: "Rieseby"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Rieseby"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58405029"
 latitude: 54.57512
 longitude: 9.82081
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rieseby_Stubbe_5292.jpg/400px-Rieseby_Stubbe_5292.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rieseby_Stubbe_5292.jpg/800px-Rieseby_Stubbe_5292.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rieseby_Stubbe_5292.jpg/1200px-Rieseby_Stubbe_5292.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rieseby_Stubbe_5292.jpg/1920px-Rieseby_Stubbe_5292.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rieseby_Stubbe_5292.jpg/1920px-Rieseby_Stubbe_5292.jpg---
 
 ## Overview
 

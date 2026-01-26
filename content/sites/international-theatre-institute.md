@@ -4,13 +4,13 @@ site_name: "International Theatre Institute"
 date: 2026-01-26
 draft: false
 description: "World Organisation of the Performing Arts"
-region: "Paris"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Paris"
+  - "Berlin"
 wikidata_id: "Q1667837"
 latitude: 52.504025094
 longitude: 13.424149699
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/400px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/800px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1200px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1920px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1920px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG---
 
 ## Overview
 

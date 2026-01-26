@@ -4,13 +4,13 @@ site_name: "Burg Limburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Weilheim an der Teck"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Weilheim an der Teck"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012966"
 latitude: 48.6042
 longitude: 9.53639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/400px-Limburg_weilheim_teck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/800px-Limburg_weilheim_teck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/1200px-Limburg_weilheim_teck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/1920px-Limburg_weilheim_teck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/1920px-Limburg_weilheim_teck.jpg---
 
 ## Overview
 

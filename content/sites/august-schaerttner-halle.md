@@ -4,13 +4,13 @@ site_name: "August-Schärttner-Halle"
 date: 2026-01-26
 draft: false
 description: "building in Hanau, Germany"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q15792152"
 latitude: 50.149597222
 longitude: 8.920602777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/400px-AußenansichtAugust-Schärttner-Halle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/800px-AußenansichtAugust-Schärttner-Halle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/1200px-AußenansichtAugust-Schärttner-Halle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/1920px-AußenansichtAugust-Schärttner-Halle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/1920px-AußenansichtAugust-Schärttner-Halle.JPG---
 
 ## Overview
 

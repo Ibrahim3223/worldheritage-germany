@@ -4,19 +4,18 @@ site_name: "Römisches Freilichtmuseum Hechingen-Stein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hechingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hechingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1791151"
 latitude: 48.376
 longitude: 8.93505
 images:
-  []
----
+  []---
 
 ## Overview
 

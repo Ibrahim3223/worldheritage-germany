@@ -4,13 +4,13 @@ site_name: "Juist town hall"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Juist"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Juist"
+  - "Lower Saxony"
 wikidata_id: "Q130480073"
 latitude: 53.678443
 longitude: 6.995622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/400px-Juist,_Rathaus_--_2014_--_3584.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/800px-Juist,_Rathaus_--_2014_--_3584.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/1200px-Juist,_Rathaus_--_2014_--_3584.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/1920px-Juist,_Rathaus_--_2014_--_3584.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/1920px-Juist,_Rathaus_--_2014_--_3584.jpg---
 
 ## Overview
 

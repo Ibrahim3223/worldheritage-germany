@@ -4,13 +4,13 @@ site_name: "Ev. Kirche Dortmund-Dorstfeld"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1380664"
 latitude: 51.5104
 longitude: 7.42152
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/400px-Ev_Kirche_Dortmund_Dorstfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/800px-Ev_Kirche_Dortmund_Dorstfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1200px-Ev_Kirche_Dortmund_Dorstfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1920px-Ev_Kirche_Dortmund_Dorstfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1920px-Ev_Kirche_Dortmund_Dorstfeld.jpg---
 
 ## Overview
 

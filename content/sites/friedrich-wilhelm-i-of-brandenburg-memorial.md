@@ -4,13 +4,13 @@ site_name: "Friedrich Wilhelm I of Brandenburg memorial"
 date: 2026-01-26
 draft: false
 description: "monument and statue in Minden, Germany"
-region: "Minden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Minden"
+  - "Lower Saxony"
 wikidata_id: "Q1187983"
 latitude: 52.2895
 longitude: 8.92236
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/400px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/800px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/1200px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/1920px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/1920px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg---
 
 ## Overview
 

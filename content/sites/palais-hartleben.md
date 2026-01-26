@@ -4,13 +4,13 @@ site_name: "Palais Hartleben"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Braunfels"
-region: "Braunfels"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Braunfels"
+  - "Hesse"
 wikidata_id: "Q2047002"
 latitude: 50.5137
 longitude: 8.38946
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/400px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/800px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/1200px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/1920px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/1920px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum for local history and history Dietzenbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dietzenbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dietzenbach"
+  - "Hesse"
 wikidata_id: "Q19296789"
 latitude: 50.010009
 longitude: 8.776671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/400px-Historisches_Museum_Dietzenbach_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/800px-Historisches_Museum_Dietzenbach_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/1200px-Historisches_Museum_Dietzenbach_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/1920px-Historisches_Museum_Dietzenbach_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/1920px-Historisches_Museum_Dietzenbach_Eingang.jpg---
 
 ## Overview
 

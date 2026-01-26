@@ -4,13 +4,13 @@ site_name: "Wettin Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wettin-Löbejün"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wettin-Löbejün"
+  - "Brandenburg"
 wikidata_id: "Q451181"
 latitude: 51.5831
 longitude: 11.8106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/400px-Wettin_2019-12-07_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/800px-Wettin_2019-12-07_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/1200px-Wettin_2019-12-07_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/1920px-Wettin_2019-12-07_12.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/1920px-Wettin_2019-12-07_12.jpg---
 
 ## Overview
 

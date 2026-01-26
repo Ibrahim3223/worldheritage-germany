@@ -4,13 +4,13 @@ site_name: "Steintor"
 date: 2026-01-26
 draft: false
 description: "city gate in Tribsees, Landkreis Vorpommern-Rügen, Mecklenburg-Vorpommern, Germany"
-region: "Tribsees"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Tribsees"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1273871"
 latitude: 54.0939
 longitude: 12.7601
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/400px-Tribsees_Steintor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/800px-Tribsees_Steintor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/1200px-Tribsees_Steintor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/1920px-Tribsees_Steintor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/1920px-Tribsees_Steintor.JPG---
 
 ## Overview
 

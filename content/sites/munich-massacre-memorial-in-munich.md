@@ -4,13 +4,13 @@ site_name: "Munich massacre memorial in Munich"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Milbertshofen-Am Hart"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Milbertshofen-Am Hart"
+  - "Bavaria"
 wikidata_id: "Q1188042"
 latitude: 48.1767
 longitude: 11.5478
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/400px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/800px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/1200px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/1920px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/1920px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg---
 
 ## Overview
 

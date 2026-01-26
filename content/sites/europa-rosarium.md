@@ -4,13 +4,13 @@ site_name: "Europa-Rosarium"
 date: 2026-01-26
 draft: false
 description: "rose garden in Sangerhausen, Saxony-Anhalt, Germany"
-region: "Sangerhausen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Sangerhausen"
+  - "Brandenburg"
 wikidata_id: "Q446505"
 latitude: 51.4752
 longitude: 11.3148
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/400px-Sangerhausen_Rosarium.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/800px-Sangerhausen_Rosarium.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1200px-Sangerhausen_Rosarium.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1920px-Sangerhausen_Rosarium.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1920px-Sangerhausen_Rosarium.JPG---
 
 ## Overview
 

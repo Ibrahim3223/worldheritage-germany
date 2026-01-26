@@ -4,13 +4,13 @@ site_name: "St. Quirinus"
 date: 2026-01-26
 draft: false
 description: "church building in Mauenheim, Germany"
-region: "Mauenheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mauenheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q11722129"
 latitude: 50.9732
 longitude: 6.94301
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/400px-St._Quirinus_(Köln-Mauenheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/800px-St._Quirinus_(Köln-Mauenheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/1200px-St._Quirinus_(Köln-Mauenheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/1920px-St._Quirinus_(Köln-Mauenheim).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/1920px-St._Quirinus_(Köln-Mauenheim).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church in Dorf Mecklenburg"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dorf Mecklenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dorf Mecklenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1244235"
 latitude: 53.8416
 longitude: 11.4693
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/400px-Kirche_Dorf_Mecklenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/800px-Kirche_Dorf_Mecklenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1200px-Kirche_Dorf_Mecklenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1920px-Kirche_Dorf_Mecklenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1920px-Kirche_Dorf_Mecklenburg.jpg---
 
 ## Overview
 

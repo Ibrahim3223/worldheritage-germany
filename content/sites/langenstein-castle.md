@@ -4,13 +4,13 @@ site_name: "Langenstein Castle"
 date: 2026-01-26
 draft: false
 description: "building in Orsingen-Nenzingen, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Orsingen-Nenzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Orsingen-Nenzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2242046"
 latitude: 47.84277778
 longitude: 8.90277778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/400px-Langenstein_120306.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/800px-Langenstein_120306.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/1200px-Langenstein_120306.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/1920px-Langenstein_120306.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/1920px-Langenstein_120306.jpg---
 
 ## Overview
 

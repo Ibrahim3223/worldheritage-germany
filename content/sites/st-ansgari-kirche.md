@@ -4,13 +4,13 @@ site_name: "St.-Ansgari-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hage, Germany"
-region: "Hage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hage"
+  - "Lower Saxony"
 wikidata_id: "Q2315952"
 latitude: 53.6022
 longitude: 7.28396
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ansgarikirche_Hage.JPG/400px-Ansgarikirche_Hage.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ansgarikirche_Hage.JPG/800px-Ansgarikirche_Hage.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ansgarikirche_Hage.JPG/1200px-Ansgarikirche_Hage.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ansgarikirche_Hage.JPG/1920px-Ansgarikirche_Hage.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ansgarikirche_Hage.JPG/1920px-Ansgarikirche_Hage.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Bergneustadt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bergneustadt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bergneustadt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q41280065"
 latitude: 51.02139
 longitude: 7.64881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bergneustadt-Heimatmuseum1-Bubo.JPG/400px-Bergneustadt-Heimatmuseum1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bergneustadt-Heimatmuseum1-Bubo.JPG/800px-Bergneustadt-Heimatmuseum1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bergneustadt-Heimatmuseum1-Bubo.JPG/1200px-Bergneustadt-Heimatmuseum1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bergneustadt-Heimatmuseum1-Bubo.JPG/1920px-Bergneustadt-Heimatmuseum1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bergneustadt-Heimatmuseum1-Bubo.JPG/1920px-Bergneustadt-Heimatmuseum1-Bubo.JPG---
 
 ## Overview
 

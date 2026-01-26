@@ -4,13 +4,13 @@ site_name: "Old Bishop's Palace in Wittstock/Dosse"
 date: 2026-01-26
 draft: false
 description: "castle in Wittstock/Dosse, Brandenburg state, Germany"
-region: "Wittstock/Dosse"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wittstock/Dosse"
+  - "Brandenburg"
 wikidata_id: "Q435389"
 latitude: 53.1592
 longitude: 12.4859
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/400px-Wittstock_Bischofsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/800px-Wittstock_Bischofsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/1200px-Wittstock_Bischofsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/1920px-Wittstock_Bischofsburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/1920px-Wittstock_Bischofsburg.jpg---
 
 ## Overview
 

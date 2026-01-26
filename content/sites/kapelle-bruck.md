@@ -4,13 +4,13 @@ site_name: "Kapelle Bruck"
 date: 2026-01-26
 draft: false
 description: "catholic chapel in Bruck, Germany"
-region: "Neuburg an der Donau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Neuburg an der Donau"
+  - "Bavaria"
 wikidata_id: "Q992074"
 latitude: 48.71726
 longitude: 11.25777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/400px-Kapelle_Bruck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/800px-Kapelle_Bruck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/1200px-Kapelle_Bruck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/1920px-Kapelle_Bruck.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/1920px-Kapelle_Bruck.JPG---
 
 ## Overview
 

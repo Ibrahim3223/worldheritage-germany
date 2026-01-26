@@ -4,13 +4,13 @@ site_name: "Burg Nebra"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nebra"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nebra"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1013206"
 latitude: 51.2854
 longitude: 11.5759
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NebraBurgruine2.JPG/400px-NebraBurgruine2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NebraBurgruine2.JPG/800px-NebraBurgruine2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NebraBurgruine2.JPG/1200px-NebraBurgruine2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NebraBurgruine2.JPG/1920px-NebraBurgruine2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NebraBurgruine2.JPG/1920px-NebraBurgruine2.JPG---
 
 ## Overview
 

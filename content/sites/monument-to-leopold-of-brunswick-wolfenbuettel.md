@@ -4,13 +4,13 @@ site_name: "monument to Leopold of Brunswick-Wolfenbüttel"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt (Oder), Germany"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q11823316"
 latitude: 52.3503
 longitude: 14.5567
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/400px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/800px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/1200px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/1920px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/1920px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg---
 
 ## Overview 
 

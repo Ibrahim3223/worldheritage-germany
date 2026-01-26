@@ -4,13 +4,13 @@ site_name: "Little France"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Erlenbach bei Dahn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Erlenbach bei Dahn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012679"
 latitude: 49.105
 longitude: 7.86277778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/400px-Kleinfrankreich.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/800px-Kleinfrankreich.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/1200px-Kleinfrankreich.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/1920px-Kleinfrankreich.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/1920px-Kleinfrankreich.JPG---
 
 ## Overview
 

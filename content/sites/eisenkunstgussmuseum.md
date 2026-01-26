@@ -4,13 +4,13 @@ site_name: "Eisenkunstgussmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Büdesldorf, Germany"
-region: "Büdelsdorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Büdelsdorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1313064"
 latitude: 54.3134
 longitude: 9.66712
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg/400px-Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg/800px-Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg/1200px-Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg/1920px-Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg/1920px-Das_Eisenkunstgussmuseum_in_Büdelsdorf,_Juni_2016.jpg---
 
 ## Overview
 

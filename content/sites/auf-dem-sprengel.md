@@ -4,19 +4,18 @@ site_name: "Auf dem Sprengel"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Porta Westfalica, North Rhine-Westphalia, Germany"
-region: "Porta Westfalica"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Porta Westfalica"
+  - "Lower Saxony"
 wikidata_id: "Q759365"
 latitude: 52.2086
 longitude: 8.94324
 images:
-  []
----
+  []---
 
 ## Overview
 

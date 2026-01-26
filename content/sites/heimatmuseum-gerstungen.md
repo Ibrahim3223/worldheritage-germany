@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Gerstungen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Thuringia"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thuringia"
+  - "Hesse"
 wikidata_id: "Q2563325"
 latitude: 50.968
 longitude: 10.0783
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Klosterkirche Sankt Trinitatis"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Neuruppin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuruppin"
+  - "Brandenburg"
 wikidata_id: "Q1228469"
 latitude: 52.9226
 longitude: 12.81
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/400px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/800px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/1200px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/1920px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg/1920px-Neuruppin_Blick_vom_Schiff_asv2023-09_img4.jpg---
 
 ## Overview
 

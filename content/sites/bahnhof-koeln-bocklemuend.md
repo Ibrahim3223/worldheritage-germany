@@ -4,13 +4,13 @@ site_name: "Bahnhof Köln-Bocklemünd"
 date: 2026-01-26
 draft: false
 description: "railway station in Bocklemünd/Mengenich, Germany"
-region: "Bocklemünd/Mengenich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bocklemünd/Mengenich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2210"
 latitude: 50.9699
 longitude: 6.86517
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ehem-bf-bocklemuend.jpg/400px-Ehem-bf-bocklemuend.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ehem-bf-bocklemuend.jpg/800px-Ehem-bf-bocklemuend.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ehem-bf-bocklemuend.jpg/1200px-Ehem-bf-bocklemuend.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ehem-bf-bocklemuend.jpg/1920px-Ehem-bf-bocklemuend.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ehem-bf-bocklemuend.jpg/1920px-Ehem-bf-bocklemuend.jpg---
 
 ## Overview
 

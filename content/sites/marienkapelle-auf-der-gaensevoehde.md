@@ -4,13 +4,13 @@ site_name: "Marienkapelle auf der Gänsevöhde"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Werl"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Werl"
+  - "Hesse"
 wikidata_id: "Q1260034"
 latitude: 51.5569
 longitude: 7.91789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/400px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/800px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/1200px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/1920px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/1920px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG---
 
 ## Overview
 

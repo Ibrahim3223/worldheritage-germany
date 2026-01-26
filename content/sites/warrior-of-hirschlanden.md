@@ -4,13 +4,13 @@ site_name: "Warrior of Hirschlanden"
 date: 2026-01-26
 draft: false
 description: "ancient statue"
-region: "Hirschlanden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Hirschlanden"
+  - "Baden-Württemberg"
 wikidata_id: "Q571515"
 latitude: 48.833055555
 longitude: 9.011111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/400px-Krieger_von_Hirschlanden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/800px-Krieger_von_Hirschlanden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/1200px-Krieger_von_Hirschlanden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/1920px-Krieger_von_Hirschlanden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/1920px-Krieger_von_Hirschlanden.jpg---
 
 ## Overview
 

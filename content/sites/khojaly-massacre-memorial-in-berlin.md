@@ -4,13 +4,13 @@ site_name: "Khojaly Massacre Memorial in Berlin"
 date: 2026-01-26
 draft: false
 description: "monument in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q12469962"
 latitude: 52.4321
 longitude: 13.255
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg/400px-Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg/800px-Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg/1200px-Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg/1920px-Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg/1920px-Khojaly_Massacre_Memorial_(Berlin)_in_Reading_Garden.jpg---
 
 ## Overview
 

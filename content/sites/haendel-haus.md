@@ -4,13 +4,13 @@ site_name: "Händel-Haus"
 date: 2026-01-26
 draft: false
 description: "music museum in Halle (Saale), Germany, at the birthplace of George Frederic Handel"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1386963"
 latitude: 51.4842
 longitude: 11.9669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/400px-Händelhaus_-_ILN_1859-07-18.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/800px-Händelhaus_-_ILN_1859-07-18.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1200px-Händelhaus_-_ILN_1859-07-18.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1920px-Händelhaus_-_ILN_1859-07-18.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1920px-Händelhaus_-_ILN_1859-07-18.jpg---
 
 ## Overview
 

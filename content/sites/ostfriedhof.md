@@ -4,13 +4,13 @@ site_name: "Ostfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Cologne, Germany"
-region: "Dellbrück"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dellbrück"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q387544"
 latitude: 50.9643
 longitude: 7.07733
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ostfriedhof-Koeln01.jpg/400px-Ostfriedhof-Koeln01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ostfriedhof-Koeln01.jpg/800px-Ostfriedhof-Koeln01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ostfriedhof-Koeln01.jpg/1200px-Ostfriedhof-Koeln01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ostfriedhof-Koeln01.jpg/1920px-Ostfriedhof-Koeln01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ostfriedhof-Koeln01.jpg/1920px-Ostfriedhof-Koeln01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Oldendorper Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Oldendorp, Germany"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q2018758"
 latitude: 53.3084
 longitude: 7.29418
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/400px-ChurchOldendorp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/800px-ChurchOldendorp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/1200px-ChurchOldendorp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/1920px-ChurchOldendorp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchOldendorp.jpg/1920px-ChurchOldendorp.jpg---
 
 ## Overview
 

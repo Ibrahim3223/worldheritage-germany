@@ -4,13 +4,13 @@ site_name: "Heidelberg Zoo"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q220035"
 latitude: 49.4153
 longitude: 8.66083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/400px-Heidelberg_Tiergarten_Haupteingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/800px-Heidelberg_Tiergarten_Haupteingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/1200px-Heidelberg_Tiergarten_Haupteingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/1920px-Heidelberg_Tiergarten_Haupteingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/1920px-Heidelberg_Tiergarten_Haupteingang.JPG---
 
 ## Overview
 

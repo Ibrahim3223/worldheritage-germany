@@ -4,13 +4,13 @@ site_name: "Gottfried Wilhelm Leibniz Library"
 date: 2026-01-26
 draft: false
 description: "State Library of Lower Saxony (Germany), located in Hanover"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q1539517"
 latitude: 52.36525
 longitude: 9.73115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/400px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/800px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/1200px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/1920px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/1920px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg---
 
 ## Overview
 

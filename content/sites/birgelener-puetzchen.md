@@ -4,13 +4,13 @@ site_name: "Birgelener Pützchen"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Wassenberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Wassenberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q865150"
 latitude: 51.1094
 longitude: 6.16675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/400px-Birgeler_Pützchen_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/800px-Birgeler_Pützchen_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/1200px-Birgeler_Pützchen_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/1920px-Birgeler_Pützchen_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/1920px-Birgeler_Pützchen_1.jpg---
 
 ## Overview 
 

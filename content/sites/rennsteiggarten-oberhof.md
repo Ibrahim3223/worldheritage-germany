@@ -4,13 +4,13 @@ site_name: "Rennsteiggarten Oberhof"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Oberhof"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Oberhof"
+  - "Thuringia"
 wikidata_id: "Q870156"
 latitude: 50.6925
 longitude: 10.7194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rennsteiggarten.JPG/400px-Rennsteiggarten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rennsteiggarten.JPG/800px-Rennsteiggarten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rennsteiggarten.JPG/1200px-Rennsteiggarten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rennsteiggarten.JPG/1920px-Rennsteiggarten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rennsteiggarten.JPG/1920px-Rennsteiggarten.JPG---
 
 ## Overview
 

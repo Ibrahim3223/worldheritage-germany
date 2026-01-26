@@ -4,13 +4,13 @@ site_name: "Dinkelacker"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q879110"
 latitude: 48.768055555
 longitude: 9.170555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/400px-Dinkelackergespann.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/800px-Dinkelackergespann.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1200px-Dinkelackergespann.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1920px-Dinkelackergespann.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1920px-Dinkelackergespann.jpg---
 
 ## Overview
 

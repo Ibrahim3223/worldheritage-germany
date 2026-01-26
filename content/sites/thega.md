@@ -4,13 +4,13 @@ site_name: "Thega"
 date: 2026-01-26
 draft: false
 description: "cinema in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q2416472"
 latitude: 52.1527
 longitude: 9.95803
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/400px-Hildesheim_Thega_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/800px-Hildesheim_Thega_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/1200px-Hildesheim_Thega_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/1920px-Hildesheim_Thega_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/1920px-Hildesheim_Thega_(cropped).jpg---
 
 ## Overview
 

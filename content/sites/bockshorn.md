@@ -4,19 +4,18 @@ site_name: "Bockshorn"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Porta Westfalica, North Rhine-Westphalia, Germany"
-region: "Porta Westfalica"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Porta Westfalica"
+  - "Lower Saxony"
 wikidata_id: "Q889262"
 latitude: 52.1949
 longitude: 8.96411
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schwörstadt station"
 date: 2026-01-26
 draft: false
 description: "railway station in Schwörstadt, Germany"
-region: "Schwörstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Schwörstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q639804"
 latitude: 47.591019
 longitude: 7.870328
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/400px-Schwörstadt_station.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/800px-Schwörstadt_station.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/1200px-Schwörstadt_station.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/1920px-Schwörstadt_station.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/1920px-Schwörstadt_station.jpg---
 
 ## Overview
 

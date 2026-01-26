@@ -4,13 +4,13 @@ site_name: "Kaiserin-Augusta-Denkmal in Koblenz"
 date: 2026-01-26
 draft: false
 description: "monument in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1721649"
 latitude: 50.3462
 longitude: 7.59583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/400px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/800px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/1200px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/1920px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/1920px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg---
 
 ## Overview
 

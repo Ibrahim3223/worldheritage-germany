@@ -4,13 +4,13 @@ site_name: "Horst Wessel monument in Lower Saxony"
 date: 2026-01-26
 draft: false
 description: "monument in Hamelin, Germany"
-region: "Hamelin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hamelin"
+  - "Lower Saxony"
 wikidata_id: "Q1629090"
 latitude: 52.1626
 longitude: 9.39361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/400px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/800px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/1200px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/1920px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/1920px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg---
 
 ## Overview
 

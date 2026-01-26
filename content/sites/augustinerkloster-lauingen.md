@@ -4,19 +4,18 @@ site_name: "Augustinerkloster Lauingen"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Lauingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Lauingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q768524"
 latitude: 48.5718
 longitude: 10.4299
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Ehrendenkmal Auf der Hardt"
 date: 2026-01-26
 draft: false
 description: "Kriegerdenkmal in Ennepetal, Nordrhein-Westfalen, Deutschland"
-region: "Ennepetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Ennepetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1299989"
 latitude: 51.2954
 longitude: 7.34613
 images:
-  []
----
+  []---
 
 ## Overview
 

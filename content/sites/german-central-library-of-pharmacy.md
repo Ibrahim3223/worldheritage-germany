@@ -4,19 +4,18 @@ site_name: "German Central Library of Pharmacy"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1203665"
 latitude: 48.77734
 longitude: 9.18543
 images:
-  []
----
+  []---
 
 ## Overview
 

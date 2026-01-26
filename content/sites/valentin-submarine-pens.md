@@ -4,13 +4,13 @@ site_name: "Valentin submarine pens"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Blumenthal"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Blumenthal"
+  - "Bremen"
 wikidata_id: "Q466256"
 latitude: 53.216992002
 longitude: 8.506275399
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Luftbild_Bunker_Valentin.jpg/400px-Luftbild_Bunker_Valentin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Luftbild_Bunker_Valentin.jpg/800px-Luftbild_Bunker_Valentin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Luftbild_Bunker_Valentin.jpg/1200px-Luftbild_Bunker_Valentin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Luftbild_Bunker_Valentin.jpg/1920px-Luftbild_Bunker_Valentin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Luftbild_Bunker_Valentin.jpg/1920px-Luftbild_Bunker_Valentin.jpg---
 
 ## Overview
 

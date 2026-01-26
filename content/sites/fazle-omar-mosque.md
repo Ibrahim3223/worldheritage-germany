@@ -4,13 +4,13 @@ site_name: "Fazle Omar Mosque"
 date: 2026-01-26
 draft: false
 description: "a mosque in Hamburg"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q884982"
 latitude: 53.58361111
 longitude: 9.94333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/400px-FazleOmarMoschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/800px-FazleOmarMoschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1200px-FazleOmarMoschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1920px-FazleOmarMoschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1920px-FazleOmarMoschee.jpg---
 
 ## Overview
 

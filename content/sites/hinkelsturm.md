@@ -4,13 +4,13 @@ site_name: "Hinkelsturm"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q19259126"
 latitude: 49.872
 longitude: 8.65914
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/400px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/800px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/1200px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/1920px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/1920px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum der 50er Jahre"
 date: 2026-01-26
 draft: false
 description: "museum in Bremerhaven, Germany"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q1954527"
 latitude: 53.5907
 longitude: 8.54988
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mickeln House"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q724257"
 latitude: 51.1661
 longitude: 6.80708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Mickeln,_Düsseldorf.jpg/400px-Schloss_Mickeln,_Düsseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Mickeln,_Düsseldorf.jpg/800px-Schloss_Mickeln,_Düsseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Mickeln,_Düsseldorf.jpg/1200px-Schloss_Mickeln,_Düsseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Mickeln,_Düsseldorf.jpg/1920px-Schloss_Mickeln,_Düsseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Mickeln,_Düsseldorf.jpg/1920px-Schloss_Mickeln,_Düsseldorf.jpg---
 
 ## Overview
 

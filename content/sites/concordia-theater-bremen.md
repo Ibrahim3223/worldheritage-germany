@@ -4,13 +4,13 @@ site_name: "Concordia-Theater Bremen"
 date: 2026-01-26
 draft: false
 description: "theatre building in Bremen, Germany"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q1124090"
 latitude: 53.0793
 longitude: 8.82732
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/400px-Bremen_concordia-theater_20140811_bg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/800px-Bremen_concordia-theater_20140811_bg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/1200px-Bremen_concordia-theater_20140811_bg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/1920px-Bremen_concordia-theater_20140811_bg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/1920px-Bremen_concordia-theater_20140811_bg.jpg---
 
 ## Overview
 

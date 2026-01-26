@@ -4,13 +4,13 @@ site_name: "Höllpass"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "Wunsiedel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Wunsiedel"
+  - "Bavaria"
 wikidata_id: "Q1261994"
 latitude: 50.0961
 longitude: 11.8129
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/400px-Hoellpass.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/800px-Hoellpass.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/1200px-Hoellpass.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/1920px-Hoellpass.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/1920px-Hoellpass.JPG---
 
 ## Overview
 

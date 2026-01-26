@@ -4,13 +4,13 @@ site_name: "Thomaskirche"
 date: 2026-01-26
 draft: false
 description: "protestant church building in Cologne, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2428535"
 latitude: 50.9566
 longitude: 6.96332
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ev_Thomaskirche_Köln3.jpg/400px-Ev_Thomaskirche_Köln3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ev_Thomaskirche_Köln3.jpg/800px-Ev_Thomaskirche_Köln3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ev_Thomaskirche_Köln3.jpg/1200px-Ev_Thomaskirche_Köln3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ev_Thomaskirche_Köln3.jpg/1920px-Ev_Thomaskirche_Köln3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ev_Thomaskirche_Köln3.jpg/1920px-Ev_Thomaskirche_Köln3.jpg---
 
 ## Overview
 

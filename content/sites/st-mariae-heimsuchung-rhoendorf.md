@@ -4,13 +4,13 @@ site_name: "St. Mariä Heimsuchung (Rhöndorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Honnef, Germany"
-region: "Bad Honnef"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Honnef"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2320964"
 latitude: 50.6576
 longitude: 7.21488
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg/400px-St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg/800px-St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg/1200px-St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg/1920px-St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg/1920px-St_Mariä_Heimsuchung,_Rhöndorf-0960.jpg---
 
 ## Overview
 

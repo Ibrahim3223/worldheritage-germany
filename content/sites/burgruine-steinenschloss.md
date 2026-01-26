@@ -4,13 +4,13 @@ site_name: "Burgruine Steinenschloss"
 date: 2026-01-26
 draft: false
 description: "ruined castle in Rhineland-Palatinate, Germany"
-region: "Thaleischweiler-Fröschen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Thaleischweiler-Fröschen"
+  - "Baden-Württemberg"
 wikidata_id: "Q22577"
 latitude: 49.265608333
 longitude: 7.605416666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/400px-Steinenschloss_mauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/800px-Steinenschloss_mauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1200px-Steinenschloss_mauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1920px-Steinenschloss_mauer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1920px-Steinenschloss_mauer.jpg---
 
 ## Overview
 

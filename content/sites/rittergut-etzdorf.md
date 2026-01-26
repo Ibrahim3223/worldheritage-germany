@@ -4,13 +4,13 @@ site_name: "Rittergut Etzdorf"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Teutschenthal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Teutschenthal"
+  - "Brandenburg"
 wikidata_id: "Q2155128"
 latitude: 51.4323
 longitude: 11.7582
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/400px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/800px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/1200px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/1920px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/1920px-Etzdorf_(Teutschenthal),_the_manor_house.jpg---
 
 ## Overview
 

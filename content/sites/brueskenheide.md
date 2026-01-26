@@ -4,19 +4,18 @@ site_name: "Brüskenheide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Warendorf district, North Rhine-Westphalia, Germany"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q997134"
 latitude: 52.064
 longitude: 7.74013
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Grabmal Bohm"
 date: 2026-01-26
 draft: false
 description: "Baudenkmal des Landes Brandenburg"
-region: "Fredersdorf-Vogelsdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Fredersdorf-Vogelsdorf"
+  - "Berlin"
 wikidata_id: "Q15138392"
 latitude: 52.512888
 longitude: 13.748095
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/400px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/800px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/1200px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/1920px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/1920px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG---
 
 ## Overview 
 

@@ -4,13 +4,13 @@ site_name: "Stadtmitte"
 date: 2026-01-26
 draft: false
 description: "human settlement in Rostock, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1124159"
 latitude: 54.0889
 longitude: 12.1403
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kröpeliner_Straße.jpg/400px-Rostock_Kröpeliner_Straße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kröpeliner_Straße.jpg/800px-Rostock_Kröpeliner_Straße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kröpeliner_Straße.jpg/1200px-Rostock_Kröpeliner_Straße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kröpeliner_Straße.jpg/1920px-Rostock_Kröpeliner_Straße.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kröpeliner_Straße.jpg/1920px-Rostock_Kröpeliner_Straße.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dorfkirche Gübs"
 date: 2026-01-26
 draft: false
 description: "church building in Biederitz, Germany"
-region: "Biederitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Biederitz"
+  - "Brandenburg"
 wikidata_id: "Q2315864"
 latitude: 52.11
 longitude: 11.7367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/400px-Guebskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/800px-Guebskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/1200px-Guebskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/1920px-Guebskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/1920px-Guebskirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Leuchtturm Obereversand"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Lower Saxony, Germany"
-region: "Wurster Nordseeküste"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Wurster Nordseeküste"
+  - "Lower Saxony"
 wikidata_id: "Q1821448"
 latitude: 53.7423
 longitude: 8.5135
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorum_Leuchtturm.jpg/400px-Dorum_Leuchtturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorum_Leuchtturm.jpg/800px-Dorum_Leuchtturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorum_Leuchtturm.jpg/1200px-Dorum_Leuchtturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorum_Leuchtturm.jpg/1920px-Dorum_Leuchtturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorum_Leuchtturm.jpg/1920px-Dorum_Leuchtturm.jpg---
 
 ## Overview
 

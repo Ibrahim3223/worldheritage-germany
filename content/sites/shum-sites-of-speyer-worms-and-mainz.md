@@ -4,13 +4,13 @@ site_name: "ShUM Sites of Speyer, Worms and Mainz"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q109706388"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Heiliger_Sand_Worms_3.jpg/400px-Heiliger_Sand_Worms_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Heiliger_Sand_Worms_3.jpg/800px-Heiliger_Sand_Worms_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Heiliger_Sand_Worms_3.jpg/1200px-Heiliger_Sand_Worms_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Heiliger_Sand_Worms_3.jpg/1920px-Heiliger_Sand_Worms_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Heiliger_Sand_Worms_3.jpg/1920px-Heiliger_Sand_Worms_3.jpg---
 
 ## Overview
 

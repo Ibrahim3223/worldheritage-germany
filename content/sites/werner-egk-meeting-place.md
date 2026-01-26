@@ -4,19 +4,18 @@ site_name: "Werner Egk Meeting Place"
 date: 2026-01-26
 draft: false
 description: "museum in Donauwörth, Bavaria, Germany"
-region: "Donauwörth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Donauwörth"
+  - "Bavaria"
 wikidata_id: "Q29413570"
 latitude: 48.721302777
 longitude: 10.778319444
 images:
-  []
----
+  []---
 
 ## Overview
 

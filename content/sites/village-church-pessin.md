@@ -4,13 +4,13 @@ site_name: "Village church Pessin"
 date: 2026-01-26
 draft: false
 description: "listed church in Pessin, Brandenburg state of Germany"
-region: "Pessin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pessin"
+  - "Brandenburg"
 wikidata_id: "Q1244597"
 latitude: 52.6416863
 longitude: 12.6653051
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/400px-Dorfkirche_Pessin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/800px-Dorfkirche_Pessin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/1200px-Dorfkirche_Pessin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/1920px-Dorfkirche_Pessin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/1920px-Dorfkirche_Pessin.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dürer-Haus"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1272024"
 latitude: 51.2552
 longitude: 7.15257
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wuppertal_Doppersberg_0001.jpg/400px-Wuppertal_Doppersberg_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wuppertal_Doppersberg_0001.jpg/800px-Wuppertal_Doppersberg_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wuppertal_Doppersberg_0001.jpg/1200px-Wuppertal_Doppersberg_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wuppertal_Doppersberg_0001.jpg/1920px-Wuppertal_Doppersberg_0001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wuppertal_Doppersberg_0001.jpg/1920px-Wuppertal_Doppersberg_0001.jpg---
 
 ## Overview
 

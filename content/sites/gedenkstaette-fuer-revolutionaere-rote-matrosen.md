@@ -4,13 +4,13 @@ site_name: "Gedenkstätte für Revolutionäre Rote Matrosen"
 date: 2026-01-26
 draft: false
 description: "Memorial in Rostock, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q18333402"
 latitude: 54.094114
 longitude: 12.112734
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/400px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/800px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1920px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1920px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg---
 
 ## Overview
 

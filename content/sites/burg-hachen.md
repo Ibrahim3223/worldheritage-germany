@@ -4,13 +4,13 @@ site_name: "Burg Hachen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sundern"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sundern"
+  - "Hesse"
 wikidata_id: "Q1012151"
 latitude: 51.3797
 longitude: 7.98111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_tor.jpg/400px-Burg_tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_tor.jpg/800px-Burg_tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_tor.jpg/1200px-Burg_tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_tor.jpg/1920px-Burg_tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_tor.jpg/1920px-Burg_tor.jpg---
 
 ## Overview
 

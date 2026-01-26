@@ -4,19 +4,18 @@ site_name: "Psychiatrie-Museum Philippshospital"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q31920422"
 latitude: 49.81863
 longitude: 8.503912
 images:
-  []
----
+  []---
 
 ## Overview
 

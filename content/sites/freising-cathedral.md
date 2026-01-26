@@ -4,13 +4,13 @@ site_name: "Freising Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q262769"
 latitude: 48.39892653
 longitude: 11.746495305
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/400px-Dom_freising.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/800px-Dom_freising.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1200px-Dom_freising.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1920px-Dom_freising.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1920px-Dom_freising.jpg---
 
 ## Overview
 

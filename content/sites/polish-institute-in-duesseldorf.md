@@ -4,13 +4,13 @@ site_name: "Polish Institute in Düsseldorf"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q64597257"
 latitude: 51.223555555
 longitude: 6.770722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg/400px-Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg/800px-Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg/1200px-Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg/1920px-Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg/1920px-Polnisches_Institut_in_Duesseldorf-Carlstadt,_von_Suedosten.jpg---
 
 ## Overview
 

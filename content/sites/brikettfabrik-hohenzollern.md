@@ -4,13 +4,13 @@ site_name: "Brikettfabrik Hohenzollern"
 date: 2026-01-26
 draft: false
 description: "former factory building in Bad Liebenwerda, Germany"
-region: "Bad Liebenwerda"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Bad Liebenwerda"
+  - "Brandenburg"
 wikidata_id: "Q916996"
 latitude: 51.5159
 longitude: 13.412
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Zeche.JPG/400px-Zeche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Zeche.JPG/800px-Zeche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Zeche.JPG/1200px-Zeche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Zeche.JPG/1920px-Zeche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Zeche.JPG/1920px-Zeche.JPG---
 
 ## Overview
 

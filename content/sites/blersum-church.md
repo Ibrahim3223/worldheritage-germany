@@ -4,13 +4,13 @@ site_name: "Blersum Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wittmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wittmund"
+  - "Lower Saxony"
 wikidata_id: "Q883871"
 latitude: 53.5988
 longitude: 7.74164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/400px-ChurchBlersum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/800px-ChurchBlersum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/1200px-ChurchBlersum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/1920px-ChurchBlersum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/1920px-ChurchBlersum.jpg---
 
 ## Overview
 

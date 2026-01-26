@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Lahde"
 date: 2026-01-26
 draft: false
 description: "church in Lahde, Germany"
-region: "Petershagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Petershagen"
+  - "Lower Saxony"
 wikidata_id: "Q1380803"
 latitude: 52.3695
 longitude: 8.99157
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/400px-Lahde1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/800px-Lahde1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/1200px-Lahde1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/1920px-Lahde1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/1920px-Lahde1.jpg---
 
 ## Overview
 

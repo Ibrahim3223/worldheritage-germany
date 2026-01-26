@@ -4,13 +4,13 @@ site_name: "Dorotheenstadt Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q564922"
 latitude: 52.528411111
 longitude: 13.383702777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/400px-Grab-Brecht-Weigel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/800px-Grab-Brecht-Weigel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1200px-Grab-Brecht-Weigel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1920px-Grab-Brecht-Weigel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1920px-Grab-Brecht-Weigel.JPG---
 
 ## Overview
 

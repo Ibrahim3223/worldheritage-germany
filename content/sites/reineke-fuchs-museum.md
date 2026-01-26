@@ -4,19 +4,18 @@ site_name: "Reineke-Fuchs-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634017"
 latitude: 50.520832
 longitude: 8.675669
 images:
-  []
----
+  []---
 
 ## Overview
 

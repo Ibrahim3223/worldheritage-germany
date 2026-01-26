@@ -4,13 +4,13 @@ site_name: "Schabbellhaus"
 date: 2026-01-26
 draft: false
 description: "town museum Wismar, Germany"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q2327176"
 latitude: 53.8951
 longitude: 11.4665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/400px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/800px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/1200px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/1920px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/1920px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG---
 
 ## Overview
 

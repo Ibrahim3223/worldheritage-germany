@@ -4,13 +4,13 @@ site_name: "St. Gunthildis"
 date: 2026-01-26
 draft: false
 description: "new church building in Suffersheim near Weißenburg in Bayern, Germany"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q1756704"
 latitude: 48.9781
 longitude: 11.0013
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/400px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/800px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/1200px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/1920px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/1920px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Niederhaus"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ederheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ederheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013320"
 latitude: 48.790599962
 longitude: 10.495690653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Niederhaus_6.jpg/400px-Burg_Niederhaus_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Niederhaus_6.jpg/800px-Burg_Niederhaus_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Niederhaus_6.jpg/1200px-Burg_Niederhaus_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Niederhaus_6.jpg/1920px-Burg_Niederhaus_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Niederhaus_6.jpg/1920px-Burg_Niederhaus_6.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Westallgäuer Heimatmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629744"
 latitude: 47.582277
 longitude: 9.912003
 images:
-  []
----
+  []---
 
 ## Overview
 

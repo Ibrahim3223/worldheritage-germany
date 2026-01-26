@@ -4,13 +4,13 @@ site_name: "Staatsgalerie Altdeutsche Meister"
 date: 2026-01-26
 draft: false
 description: "museum in Augsburg"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2324938"
 latitude: 48.365
 longitude: 10.8992
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG/400px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG/800px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG/1200px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG/1920px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG/1920px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(19).JPG---
 
 ## Overview
 

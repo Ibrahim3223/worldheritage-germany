@@ -4,13 +4,13 @@ site_name: "Altes Rathaus Ober-Ingelheim"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Ingelheim am Rhein"
-region: "Ingelheim am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Ingelheim am Rhein"
+  - "Hesse"
 wikidata_id: "Q122232877"
 latitude: 49.96411
 longitude: 8.06028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230313_Altes_Rathaus_Ober-Ingelheim.jpg/400px-20230313_Altes_Rathaus_Ober-Ingelheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230313_Altes_Rathaus_Ober-Ingelheim.jpg/800px-20230313_Altes_Rathaus_Ober-Ingelheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230313_Altes_Rathaus_Ober-Ingelheim.jpg/1200px-20230313_Altes_Rathaus_Ober-Ingelheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230313_Altes_Rathaus_Ober-Ingelheim.jpg/1920px-20230313_Altes_Rathaus_Ober-Ingelheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230313_Altes_Rathaus_Ober-Ingelheim.jpg/1920px-20230313_Altes_Rathaus_Ober-Ingelheim.jpg---
 
 ## Overview
 

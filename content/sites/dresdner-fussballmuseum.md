@@ -4,13 +4,13 @@ site_name: "Dresdner Fußballmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1258512"
 latitude: 51.0592
 longitude: 13.7419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/400px-Fußballmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/800px-Fußballmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/1200px-Fußballmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/1920px-Fußballmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/1920px-Fußballmuseum.JPG---
 
 ## Overview
 

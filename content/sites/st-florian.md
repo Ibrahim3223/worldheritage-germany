@@ -4,13 +4,13 @@ site_name: "St. Florian"
 date: 2026-01-26
 draft: false
 description: "church building in Wittmund, Germany"
-region: "Wittmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wittmund"
+  - "Lower Saxony"
 wikidata_id: "Q2316062"
 latitude: 53.599427
 longitude: 7.707295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/400px-ChurchBurhafe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/800px-ChurchBurhafe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/1200px-ChurchBurhafe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/1920px-ChurchBurhafe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/1920px-ChurchBurhafe.jpg---
 
 ## Overview
 

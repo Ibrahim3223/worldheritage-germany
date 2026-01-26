@@ -4,13 +4,13 @@ site_name: "Aschendorfer Obermoor / Wildes Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Papenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Papenburg"
+  - "Lower Saxony"
 wikidata_id: "Q722404"
 latitude: 53.0283
 longitude: 7.43444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/400px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/800px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/1200px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/1920px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/1920px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG---
 
 ## Overview
 

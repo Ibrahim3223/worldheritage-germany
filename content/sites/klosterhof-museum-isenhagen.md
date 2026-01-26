@@ -4,19 +4,18 @@ site_name: "Klosterhof Museum Isenhagen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hankensbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hankensbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q76636138"
 latitude: 52.726012
 longitude: 10.619499
 images:
-  []
----
+  []---
 
 ## Overview
 

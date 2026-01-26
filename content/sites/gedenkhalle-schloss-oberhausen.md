@@ -4,19 +4,18 @@ site_name: "Gedenkhalle Schloss Oberhausen"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte in Oberhausen für die Opfer des Nationalsozialismus"
-region: "Oberhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Oberhausen"
+  - "Lower Saxony"
 wikidata_id: "Q27948874"
 latitude: 51.4919154
 longitude: 6.858514
 images:
-  []
----
+  []---
 
 ## Overview
 

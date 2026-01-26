@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Wörth"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Wörth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Wörth"
+  - "Bavaria"
 wikidata_id: "Q28729538"
 latitude: 48.24363
 longitude: 11.90235
 images:
-  []
----
+  []---
 
 ## Overview
 

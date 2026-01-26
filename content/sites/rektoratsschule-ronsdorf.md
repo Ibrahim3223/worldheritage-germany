@@ -4,13 +4,13 @@ site_name: "Rektoratsschule Ronsdorf"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1525837"
 latitude: 51.2297
 longitude: 7.19889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wuppertal_Scheidtstr_0016.jpg/400px-Wuppertal_Scheidtstr_0016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wuppertal_Scheidtstr_0016.jpg/800px-Wuppertal_Scheidtstr_0016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wuppertal_Scheidtstr_0016.jpg/1200px-Wuppertal_Scheidtstr_0016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wuppertal_Scheidtstr_0016.jpg/1920px-Wuppertal_Scheidtstr_0016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wuppertal_Scheidtstr_0016.jpg/1920px-Wuppertal_Scheidtstr_0016.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Edith-Haberland-Wagner Stiftung"
 date: 2026-01-26
 draft: false
 description: "von Edith Haberland-Wagner (1899–1996) ins Leben gerufene Stiftung"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q17321340"
 latitude: 48.13852778
 longitude: 11.56891667
 images:
-  []
----
+  []---
 
 ## Overview
 

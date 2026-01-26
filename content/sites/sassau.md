@@ -4,13 +4,13 @@ site_name: "Sassau"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Kochel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Kochel"
+  - "Bavaria"
 wikidata_id: "Q1563137"
 latitude: 47.591944444
 longitude: 11.367222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/400px-Walchensee_Insel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/800px-Walchensee_Insel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/1200px-Walchensee_Insel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/1920px-Walchensee_Insel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/1920px-Walchensee_Insel.jpg---
 
 ## Overview
 

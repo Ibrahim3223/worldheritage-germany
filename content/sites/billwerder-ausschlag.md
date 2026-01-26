@@ -4,13 +4,13 @@ site_name: "Billwerder Ausschlag"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q862967"
 latitude: 53.536765
 longitude: 10.062444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/400px-Varendorf(63)Bergedorf_Reinbek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/800px-Varendorf(63)Bergedorf_Reinbek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/1200px-Varendorf(63)Bergedorf_Reinbek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/1920px-Varendorf(63)Bergedorf_Reinbek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/1920px-Varendorf(63)Bergedorf_Reinbek.jpg---
 
 ## Overview
 

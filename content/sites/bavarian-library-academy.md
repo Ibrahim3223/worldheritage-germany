@@ -4,19 +4,18 @@ site_name: "Bavarian Library Academy"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q856587"
 latitude: 48.1468
 longitude: 11.5829
 images:
-  []
----
+  []---
 
 ## Overview
 

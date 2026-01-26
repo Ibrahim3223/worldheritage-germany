@@ -4,13 +4,13 @@ site_name: "Titania-Palast"
 date: 2026-01-26
 draft: false
 description: "former cinema and concert hall in Berlin, Germany, now shopping centre with a new cinema at another place in the building"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q2436848"
 latitude: 52.4639
 longitude: 13.3267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/400px-120929-Steglitz-Titania-Palast.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/800px-120929-Steglitz-Titania-Palast.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/1200px-120929-Steglitz-Titania-Palast.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/1920px-120929-Steglitz-Titania-Palast.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/1920px-120929-Steglitz-Titania-Palast.JPG---
 
 ## Overview
 

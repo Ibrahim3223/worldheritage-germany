@@ -4,13 +4,13 @@ site_name: "Krugmann-Häuser"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Meinerzhagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Meinerzhagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1299353"
 latitude: 51.1061
 longitude: 7.64395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/400px-Meinerzhagen-Krugmann1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/800px-Meinerzhagen-Krugmann1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/1200px-Meinerzhagen-Krugmann1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/1920px-Meinerzhagen-Krugmann1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/1920px-Meinerzhagen-Krugmann1-Asio.JPG---
 
 ## Overview
 

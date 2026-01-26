@@ -4,13 +4,13 @@ site_name: "Dietrich-Bonhoeffer-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Garath, Germany"
-region: "Garath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Garath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1223624"
 latitude: 51.1447
 longitude: 6.8901
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/400px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/800px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1200px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1920px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1920px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg---
 
 ## Overview
 

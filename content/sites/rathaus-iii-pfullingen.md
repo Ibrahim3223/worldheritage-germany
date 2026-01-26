@@ -4,13 +4,13 @@ site_name: "Rathaus III (Pfullingen)"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Pfullingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Pfullingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q124050852"
 latitude: 48.46548415
 longitude: 9.224830269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/400px-Pfullingen_Rathaus_III_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/800px-Pfullingen_Rathaus_III_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/1200px-Pfullingen_Rathaus_III_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/1920px-Pfullingen_Rathaus_III_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/1920px-Pfullingen_Rathaus_III_(1).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Synagogue"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1230440"
 latitude: 49.4078
 longitude: 8.18861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/400px-Synagoge_Deidesheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/800px-Synagoge_Deidesheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/1200px-Synagoge_Deidesheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/1920px-Synagoge_Deidesheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/1920px-Synagoge_Deidesheim.JPG---
 
 ## Overview
 

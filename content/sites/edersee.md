@@ -4,13 +4,13 @@ site_name: "Edersee"
 date: 2026-01-26
 draft: false
 description: "lake near Plötzky, Germany"
-region: "Schönebeck"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schönebeck"
+  - "Brandenburg"
 wikidata_id: "Q1283678"
 latitude: 52.0539
 longitude: 11.8172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/400px-Edersee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/800px-Edersee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/1200px-Edersee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/1920px-Edersee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/1920px-Edersee.JPG---
 
 ## Overview
 

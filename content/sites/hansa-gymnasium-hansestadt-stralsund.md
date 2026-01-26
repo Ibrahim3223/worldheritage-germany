@@ -4,13 +4,13 @@ site_name: "Hansa-Gymnasium Hansestadt Stralsund"
 date: 2026-01-26
 draft: false
 description: "school in Stralsund, Mecklenburg-Vorpommern, Germany"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1583594"
 latitude: 54.3183
 longitude: 13.09
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/400px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/800px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/1200px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg---
 
 ## Overview
 

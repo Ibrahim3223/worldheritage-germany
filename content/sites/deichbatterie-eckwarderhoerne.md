@@ -4,19 +4,18 @@ site_name: "Deichbatterie Eckwarderhörne"
 date: 2026-01-26
 draft: false
 description: "Küstenbatterie in Eckwarderhörne zum Schutz des Kriegshafens Wilhelmshaven"
-region: "Butjadingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Butjadingen"
+  - "Lower Saxony"
 wikidata_id: "Q73423456"
 latitude: 53.520876
 longitude: 8.232354
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität Göttingen. Central Custody"
 date: 2026-01-26
 draft: false
 description: "museum in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636091"
 latitude: 51.538032
 longitude: 9.934849
 images:
-  []
----
+  []---
 
 ## Overview
 

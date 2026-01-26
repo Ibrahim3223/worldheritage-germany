@@ -4,13 +4,13 @@ site_name: "Eggeratherhof"
 date: 2026-01-26
 draft: false
 description: "einer der drei Feldhöfe um Holzweiler, einem Ortsteil von Erkelenz"
-region: "Erkelenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Erkelenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1297553"
 latitude: 51.061
 longitude: 6.39369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eggerather_hof_erkelenz.jpg/400px-Eggerather_hof_erkelenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eggerather_hof_erkelenz.jpg/800px-Eggerather_hof_erkelenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eggerather_hof_erkelenz.jpg/1200px-Eggerather_hof_erkelenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eggerather_hof_erkelenz.jpg/1920px-Eggerather_hof_erkelenz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eggerather_hof_erkelenz.jpg/1920px-Eggerather_hof_erkelenz.jpg---
 
 ## Overview
 

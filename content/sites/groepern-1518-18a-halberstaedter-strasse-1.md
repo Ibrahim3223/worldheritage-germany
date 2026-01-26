@@ -4,13 +4,13 @@ site_name: "Gröpern 15–18, 18a, Halberstädter Straße 1"
 date: 2026-01-26
 draft: false
 description: "buildings in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15111918"
 latitude: 51.795661
 longitude: 11.147292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/400px-Gröpern_15-18a_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/800px-Gröpern_15-18a_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/1200px-Gröpern_15-18a_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/1920px-Gröpern_15-18a_(Quedlinburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/1920px-Gröpern_15-18a_(Quedlinburg).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heeressportschule Wünsdorf"
 date: 2026-01-26
 draft: false
 description: "Sports School of the German Army (1924-1945)"
-region: "Zossen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Zossen"
+  - "Brandenburg"
 wikidata_id: "Q15814588"
 latitude: 52.16409
 longitude: 13.48472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eingang_Turnanstalt_Wünstorf_Zossen.jpg/400px-Eingang_Turnanstalt_Wünstorf_Zossen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eingang_Turnanstalt_Wünstorf_Zossen.jpg/800px-Eingang_Turnanstalt_Wünstorf_Zossen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eingang_Turnanstalt_Wünstorf_Zossen.jpg/1200px-Eingang_Turnanstalt_Wünstorf_Zossen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eingang_Turnanstalt_Wünstorf_Zossen.jpg/1920px-Eingang_Turnanstalt_Wünstorf_Zossen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eingang_Turnanstalt_Wünstorf_Zossen.jpg/1920px-Eingang_Turnanstalt_Wünstorf_Zossen.jpg---
 
 ## Overview
 

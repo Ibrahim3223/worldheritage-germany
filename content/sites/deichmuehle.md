@@ -4,13 +4,13 @@ site_name: "Deichmühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Norden in Ostfriesland, Niedersachsen, Deutschland"
-region: "Norden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Norden"
+  - "Lower Saxony"
 wikidata_id: "Q1183137"
 latitude: 53.5899
 longitude: 7.21434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/400px-Windmuehlen_Norden-CN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/800px-Windmuehlen_Norden-CN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1200px-Windmuehlen_Norden-CN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1920px-Windmuehlen_Norden-CN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1920px-Windmuehlen_Norden-CN.jpg---
 
 ## Overview
 

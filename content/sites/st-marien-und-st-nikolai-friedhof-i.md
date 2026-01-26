@@ -4,13 +4,13 @@ site_name: "St. Marien- und St. Nikolai-Friedhof I"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q2316486"
 latitude: 52.527611111
 longitude: 13.417613888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/400px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/800px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/1200px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/1920px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/1920px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg---
 
 ## Overview
 

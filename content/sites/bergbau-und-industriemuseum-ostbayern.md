@@ -4,13 +4,13 @@ site_name: "Bergbau- und Industriemuseum Ostbayern"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kümmersbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kümmersbruck"
+  - "Bavaria"
 wikidata_id: "Q819398"
 latitude: 49.3865
 longitude: 11.9107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/400px-Theuern-Schachtanlage_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/800px-Theuern-Schachtanlage_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/1200px-Theuern-Schachtanlage_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/1920px-Theuern-Schachtanlage_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/1920px-Theuern-Schachtanlage_1.jpg---
 
 ## Overview
 

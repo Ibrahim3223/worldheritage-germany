@@ -4,13 +4,13 @@ site_name: "Holy Spirit Church"
 date: 2026-01-26
 draft: false
 description: "church building in Wacken, Schleswig-Holstein, Germany"
-region: "Wacken"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wacken"
+  - "Schleswig-Holstein"
 wikidata_id: "Q12379171"
 latitude: 54.02143
 longitude: 9.37429
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/400px-Wackenikirik2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/800px-Wackenikirik2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/1200px-Wackenikirik2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/1920px-Wackenikirik2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/1920px-Wackenikirik2.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "GröschlerHaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Jever"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jever"
+  - "Lower Saxony"
 wikidata_id: "Q22692096"
 latitude: 53.5730896
 longitude: 7.89751387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/400px-Ostfriesland_msu-0411.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/800px-Ostfriesland_msu-0411.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/1200px-Ostfriesland_msu-0411.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/1920px-Ostfriesland_msu-0411.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/1920px-Ostfriesland_msu-0411.jpg---
 
 ## Overview
 

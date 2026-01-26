@@ -4,13 +4,13 @@ site_name: "CongressPark Wolfsburg"
 date: 2026-01-26
 draft: false
 description: "events venue and congress centre in Wolfsburg, Lower Saxony, Germany"
-region: "Wolfsburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Wolfsburg"
+  - "Lower Saxony"
 wikidata_id: "Q15108889"
 latitude: 52.41730556
 longitude: 10.77955556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/400px-CongressPark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/800px-CongressPark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/1200px-CongressPark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/1920px-CongressPark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/1920px-CongressPark.jpg---
 
 ## Overview
 

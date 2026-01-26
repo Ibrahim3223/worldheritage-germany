@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Wennigsen"
 date: 2026-01-26
 draft: false
 description: "library in Wennigsen, Germany"
-region: "Wennigsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Wennigsen"
+  - "Lower Saxony"
 wikidata_id: "Q28729545"
 latitude: 52.27347
 longitude: 9.57289
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Hochhaus"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hohenaltheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hohenaltheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012366"
 latitude: 48.7872
 longitude: 10.487
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Hochhaus_Palas.jpg/400px-Burg_Hochhaus_Palas.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Hochhaus_Palas.jpg/800px-Burg_Hochhaus_Palas.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Hochhaus_Palas.jpg/1200px-Burg_Hochhaus_Palas.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Hochhaus_Palas.jpg/1920px-Burg_Hochhaus_Palas.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Hochhaus_Palas.jpg/1920px-Burg_Hochhaus_Palas.jpg---
 
 ## Overview
 

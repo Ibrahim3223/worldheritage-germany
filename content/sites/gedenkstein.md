@@ -4,13 +4,13 @@ site_name: "Gedenkstein"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-114-253 (0) in Bad Kissingen, Bavaria"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q218606"
 latitude: 50.20421
 longitude: 10.093368
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/400px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/800px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/1200px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/1920px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/1920px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg---
 
 ## Overview
 

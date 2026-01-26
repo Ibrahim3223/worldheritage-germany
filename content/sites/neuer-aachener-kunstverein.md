@@ -4,13 +4,13 @@ site_name: "Neuer Aachener Kunstverein"
 date: 2026-01-26
 draft: false
 description: "arts association in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1592850"
 latitude: 50.7817
 longitude: 6.0965
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/400px-Aachen,_Stadtgarten,_NAK-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/800px-Aachen,_Stadtgarten,_NAK-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/1200px-Aachen,_Stadtgarten,_NAK-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/1920px-Aachen,_Stadtgarten,_NAK-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/1920px-Aachen,_Stadtgarten,_NAK-001.jpg---
 
 ## Overview
 

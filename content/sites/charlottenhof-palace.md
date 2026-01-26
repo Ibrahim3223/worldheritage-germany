@@ -4,13 +4,13 @@ site_name: "Charlottenhof Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Sanssouci, Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q674963"
 latitude: 52.3955
 longitude: 13.0259
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/400px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/800px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1200px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1920px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1920px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum SchPIRA"
 date: 2026-01-26
 draft: false
 description: "museum in Speyer, Rhineland-Palatinate, Germany (2010-)"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22600"
 latitude: 49.316475
 longitude: 8.439654
 images:
-  []
----
+  []---
 
 ## Overview
 

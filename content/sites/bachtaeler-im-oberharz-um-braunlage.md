@@ -4,13 +4,13 @@ site_name: "Bachtäler im Oberharz um Braunlage"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Harz (Landkreis Goslar)"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Harz (Landkreis Goslar)"
+  - "Lower Saxony"
 wikidata_id: "Q798264"
 latitude: 51.6881
 longitude: 10.6025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BrunnenbachB27.jpg/400px-BrunnenbachB27.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BrunnenbachB27.jpg/800px-BrunnenbachB27.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BrunnenbachB27.jpg/1200px-BrunnenbachB27.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BrunnenbachB27.jpg/1920px-BrunnenbachB27.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BrunnenbachB27.jpg/1920px-BrunnenbachB27.jpg---
 
 ## Overview
 

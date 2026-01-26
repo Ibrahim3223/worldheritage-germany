@@ -4,13 +4,13 @@ site_name: "Klostermühle Lahde (Petershagen)"
 date: 2026-01-26
 draft: false
 description: "combined windmill and watermill in Petershagen"
-region: "Petershagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Petershagen"
+  - "Lower Saxony"
 wikidata_id: "Q1746682"
 latitude: 52.3689
 longitude: 8.99106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lahde3.jpg/400px-Lahde3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lahde3.jpg/800px-Lahde3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lahde3.jpg/1200px-Lahde3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lahde3.jpg/1920px-Lahde3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lahde3.jpg/1920px-Lahde3.jpg---
 
 ## Overview
 

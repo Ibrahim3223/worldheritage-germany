@@ -4,13 +4,13 @@ site_name: "Schloss Putzar"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Boldekow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Boldekow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2243012"
 latitude: 53.712
 longitude: 13.6536
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/400px-Putzar_Joachimsbau_Nord.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/800px-Putzar_Joachimsbau_Nord.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/1200px-Putzar_Joachimsbau_Nord.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/1920px-Putzar_Joachimsbau_Nord.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/1920px-Putzar_Joachimsbau_Nord.jpg---
 
 ## Overview
 

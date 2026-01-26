@@ -4,13 +4,13 @@ site_name: "Marienplatz"
 date: 2026-01-26
 draft: false
 description: "square in Munich, Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q252648"
 latitude: 48.137222222
 longitude: 11.575277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/400px-Marienplatz_und_Rathaus_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/800px-Marienplatz_und_Rathaus_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/1200px-Marienplatz_und_Rathaus_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/1920px-Marienplatz_und_Rathaus_München.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/1920px-Marienplatz_und_Rathaus_München.jpg---
 
 ## Overview
 

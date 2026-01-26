@@ -4,13 +4,13 @@ site_name: "Burg Lindau"
 date: 2026-01-26
 draft: false
 description: "castle in Zerbst/Anhalt, Saxony-Anhalt, Germany"
-region: "Zerbst"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Zerbst"
+  - "Brandenburg"
 wikidata_id: "Q1012976"
 latitude: 52.0377
 longitude: 12.0986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/400px-Nuthe_Castle_Lindau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/800px-Nuthe_Castle_Lindau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/1200px-Nuthe_Castle_Lindau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/1920px-Nuthe_Castle_Lindau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/1920px-Nuthe_Castle_Lindau.JPG---
 
 ## Overview
 

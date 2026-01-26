@@ -4,19 +4,18 @@ site_name: "Brückenpfeiler und Bahndamm der ehemaligen Schmalspurstrecke Mulda-
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Mulda"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Mulda"
+  - "Saxony"
 wikidata_id: "Q49448680"
 latitude: 50.808943997
 longitude: 13.41150546
 images:
-  []
----
+  []---
 
 ## Overview
 

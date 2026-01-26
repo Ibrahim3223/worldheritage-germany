@@ -4,13 +4,13 @@ site_name: "Endersbach station"
 date: 2026-01-26
 draft: false
 description: "railway station in Weinstadt, Germany"
-region: "Weinstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Weinstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q169493"
 latitude: 48.8131
 longitude: 9.37028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/400px-Bahnhof_Endersbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/800px-Bahnhof_Endersbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/1200px-Bahnhof_Endersbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/1920px-Bahnhof_Endersbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/1920px-Bahnhof_Endersbach.jpg---
 
 ## Overview
 

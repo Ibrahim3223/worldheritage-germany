@@ -4,13 +4,13 @@ site_name: "Burg Liebenstein"
 date: 2026-01-26
 draft: false
 description: "castle in Bayern"
-region: "Plößberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Plößberg"
+  - "Bavaria"
 wikidata_id: "Q1012952"
 latitude: 49.832777777
 longitude: 12.335277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/400px-Liebenstein-von-norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/800px-Liebenstein-von-norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/1200px-Liebenstein-von-norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/1920px-Liebenstein-von-norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/1920px-Liebenstein-von-norden.jpg---
 
 ## Overview
 

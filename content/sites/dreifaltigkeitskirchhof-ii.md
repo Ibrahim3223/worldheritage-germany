@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirchhof II"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin-Kreuzberg, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1257743"
 latitude: 52.4875
 longitude: 13.400166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/400px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/800px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1200px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1920px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1920px-Dreifaltigkeitskirchhof-Kreuzberg.jpg---
 
 ## Overview
 

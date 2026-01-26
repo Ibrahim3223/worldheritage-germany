@@ -4,19 +4,18 @@ site_name: "Arboretum Park Härle"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q630459"
 latitude: 50.7152
 longitude: 7.16911
 images:
-  []
----
+  []---
 
 ## Overview
 

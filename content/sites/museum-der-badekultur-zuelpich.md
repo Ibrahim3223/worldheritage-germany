@@ -4,13 +4,13 @@ site_name: "Museum der Badekultur, Zülpich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Zülpich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zülpich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1954533"
 latitude: 50.6904
 longitude: 6.6478
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/400px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/800px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/1200px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/1920px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/1920px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rathaus Zwickau"
 date: 2026-01-26
 draft: false
 description: "heritage building in Zwickau, Germany"
-region: "Zwickau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Zwickau"
+  - "Saxony"
 wikidata_id: "Q49547602"
 latitude: 50.717306001
 longitude: 12.497082177
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Zwickau_Rathaus.jpg/400px-Zwickau_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Zwickau_Rathaus.jpg/800px-Zwickau_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Zwickau_Rathaus.jpg/1200px-Zwickau_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Zwickau_Rathaus.jpg/1920px-Zwickau_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Zwickau_Rathaus.jpg/1920px-Zwickau_Rathaus.jpg---
 
 ## Overview
 

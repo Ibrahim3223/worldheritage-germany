@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Tübingen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q15130130"
 latitude: 48.521156
 longitude: 9.053415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stadtmuseum_Tübingen_05.JPG/400px-Stadtmuseum_Tübingen_05.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stadtmuseum_Tübingen_05.JPG/800px-Stadtmuseum_Tübingen_05.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stadtmuseum_Tübingen_05.JPG/1200px-Stadtmuseum_Tübingen_05.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stadtmuseum_Tübingen_05.JPG/1920px-Stadtmuseum_Tübingen_05.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stadtmuseum_Tübingen_05.JPG/1920px-Stadtmuseum_Tübingen_05.JPG---
 
 ## Overview
 

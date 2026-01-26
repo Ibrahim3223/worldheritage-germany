@@ -4,13 +4,13 @@ site_name: "Burg Hermannstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Waltershausen"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Waltershausen"
+  - "Thuringia"
 wikidata_id: "Q1012313"
 latitude: 50.8717
 longitude: 10.5814
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GTH_Schnepfenthal-Rödichen_07d.jpg/400px-GTH_Schnepfenthal-Rödichen_07d.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GTH_Schnepfenthal-Rödichen_07d.jpg/800px-GTH_Schnepfenthal-Rödichen_07d.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GTH_Schnepfenthal-Rödichen_07d.jpg/1200px-GTH_Schnepfenthal-Rödichen_07d.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GTH_Schnepfenthal-Rödichen_07d.jpg/1920px-GTH_Schnepfenthal-Rödichen_07d.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GTH_Schnepfenthal-Rödichen_07d.jpg/1920px-GTH_Schnepfenthal-Rödichen_07d.jpg---
 
 ## Overview
 

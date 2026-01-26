@@ -4,13 +4,13 @@ site_name: "Blauer Steinbruch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Ehingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Ehingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q882725"
 latitude: 48.2897
 longitude: 9.69129
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blauer_Steinbruch_03.jpg/400px-Blauer_Steinbruch_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blauer_Steinbruch_03.jpg/800px-Blauer_Steinbruch_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blauer_Steinbruch_03.jpg/1200px-Blauer_Steinbruch_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blauer_Steinbruch_03.jpg/1920px-Blauer_Steinbruch_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blauer_Steinbruch_03.jpg/1920px-Blauer_Steinbruch_03.jpg---
 
 ## Overview
 

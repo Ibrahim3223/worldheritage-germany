@@ -4,13 +4,13 @@ site_name: "Schuttern Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey in Germany"
-region: "Friesenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Friesenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q315198"
 latitude: 48.381944
 longitude: 7.8525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/400px-Schutterns_Kloster-_und_Pfarrkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/800px-Schutterns_Kloster-_und_Pfarrkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/1200px-Schutterns_Kloster-_und_Pfarrkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/1920px-Schutterns_Kloster-_und_Pfarrkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/1920px-Schutterns_Kloster-_und_Pfarrkirche.jpg---
 
 ## Overview
 

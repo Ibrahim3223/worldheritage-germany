@@ -4,13 +4,13 @@ site_name: "Dietkirchener Hof"
 date: 2026-01-26
 draft: false
 description: "building in Urfeld, Germany"
-region: "Wesseling"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wesseling"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1223277"
 latitude: 50.809
 longitude: 7.0267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/400px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/800px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/1200px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/1920px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/1920px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg---
 
 ## Overview
 

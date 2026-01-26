@@ -4,13 +4,13 @@ site_name: "Hl. Schutzengel"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1621411"
 latitude: 51.464
 longitude: 7.04857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/400px-Hl._Schutzengel_Essen-Frillendorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/800px-Hl._Schutzengel_Essen-Frillendorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/1200px-Hl._Schutzengel_Essen-Frillendorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/1920px-Hl._Schutzengel_Essen-Frillendorf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/1920px-Hl._Schutzengel_Essen-Frillendorf.JPG---
 
 ## Overview
 

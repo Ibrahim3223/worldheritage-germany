@@ -4,13 +4,13 @@ site_name: "Windmühlenturm an der Langen Wand"
 date: 2026-01-26
 draft: false
 description: "Windmill tower in Bad Nauheim"
-region: "Bad Nauheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bad Nauheim"
+  - "Hesse"
 wikidata_id: "Q1345948"
 latitude: 50.3583
 longitude: 8.75005
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg/400px-Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg/800px-Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg/1200px-Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg/1920px-Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg/1920px-Bad_Nauheim-Windmuehlenturm_an_der_Langen_Wand_von_Suedosten-20140320.jpg---
 
 ## Overview
 

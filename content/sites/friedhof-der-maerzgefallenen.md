@@ -4,13 +4,13 @@ site_name: "Friedhof der Märzgefallenen"
 date: 2026-01-26
 draft: false
 description: "cemetery in Friedrichshain-Kreuzberg, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1457472"
 latitude: 52.524444444
 longitude: 13.436388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/400px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/800px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1200px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1920px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1920px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg---
 
 ## Overview
 

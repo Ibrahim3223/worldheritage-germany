@@ -4,13 +4,13 @@ site_name: "Museum der Arbeit I Hagelturm"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76636139"
 latitude: 51.414804
 longitude: 9.649055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/400px-Fährenpfortenturm-03-Tafel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/800px-Fährenpfortenturm-03-Tafel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/1200px-Fährenpfortenturm-03-Tafel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/1920px-Fährenpfortenturm-03-Tafel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/1920px-Fährenpfortenturm-03-Tafel.jpg---
 
 ## Overview
 

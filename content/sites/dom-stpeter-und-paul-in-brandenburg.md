@@ -4,13 +4,13 @@ site_name: "Dom St.Peter und Paul in Brandenburg"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Brandenburg an der Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Catholic Cathedral"
 categories:
   - "Catholic Cathedral"
 regions:
-  - "Brandenburg an der Havel"
+  - "Brandenburg"
 wikidata_id: "Q1236555"
 latitude: 52.4152
 longitude: 12.5674
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg/400px-Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg/800px-Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg/1200px-Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg/1920px-Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg/1920px-Türmetag_Aussicht_von_StKatharinen_asv2024-09_img4.jpg---
 
 ## Overview
 

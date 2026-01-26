@@ -4,13 +4,13 @@ site_name: "Palace Brühl-Marcolini"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q119192"
 latitude: 51.059505
 longitude: 13.718198
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/400px-Hospital_Dresden_Friedrichstadt17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/800px-Hospital_Dresden_Friedrichstadt17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/1200px-Hospital_Dresden_Friedrichstadt17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/1920px-Hospital_Dresden_Friedrichstadt17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/1920px-Hospital_Dresden_Friedrichstadt17.jpg---
 
 ## Overview
 

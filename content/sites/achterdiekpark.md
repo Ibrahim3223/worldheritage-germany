@@ -4,13 +4,13 @@ site_name: "Achterdiekpark"
 date: 2026-01-26
 draft: false
 description: "park in Oberneuland, Germany"
-region: "Oberneuland"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Oberneuland"
+  - "Bremen"
 wikidata_id: "Q340928"
 latitude: 53.0885
 longitude: 8.91049
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/400px-AchterdiekparkBremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/800px-AchterdiekparkBremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/1200px-AchterdiekparkBremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/1920px-AchterdiekparkBremen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/1920px-AchterdiekparkBremen.jpg---
 
 ## Overview
 

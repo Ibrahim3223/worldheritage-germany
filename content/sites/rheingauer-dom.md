@@ -4,13 +4,13 @@ site_name: "Rheingauer Dom"
 date: 2026-01-26
 draft: false
 description: "Catholic parish church in Geisenheim, Germany"
-region: "Geisenheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Geisenheim"
+  - "Hesse"
 wikidata_id: "Q2147646"
 latitude: 49.98270833
 longitude: 7.96738889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/400px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/800px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/1200px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/1920px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/1920px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg---
 
 ## Overview
 

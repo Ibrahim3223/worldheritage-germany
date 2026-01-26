@@ -4,13 +4,13 @@ site_name: "Aher Kämpe"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Rinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rinteln"
+  - "Lower Saxony"
 wikidata_id: "Q400206"
 latitude: 52.19
 longitude: 9.12861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/400px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/800px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/1200px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/1920px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/1920px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg---
 
 ## Overview
 

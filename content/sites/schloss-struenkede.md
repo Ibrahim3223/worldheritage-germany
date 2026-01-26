@@ -4,13 +4,13 @@ site_name: "Schloss Strünkede"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Herne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Herne"
+  - "Lower Saxony"
 wikidata_id: "Q2243636"
 latitude: 51.5514
 longitude: 7.21111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Struenkede_west_wing.jpg/400px-Castle_Struenkede_west_wing.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Struenkede_west_wing.jpg/800px-Castle_Struenkede_west_wing.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Struenkede_west_wing.jpg/1200px-Castle_Struenkede_west_wing.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Struenkede_west_wing.jpg/1920px-Castle_Struenkede_west_wing.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Struenkede_west_wing.jpg/1920px-Castle_Struenkede_west_wing.jpg---
 
 ## Overview
 

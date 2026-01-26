@@ -4,13 +4,13 @@ site_name: "Burgruine Kirnstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Flintsbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Flintsbach"
+  - "Bavaria"
 wikidata_id: "Q1012670"
 latitude: 47.6914
 longitude: 12.1539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/400px-Burgruine_Kirnstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/800px-Burgruine_Kirnstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/1200px-Burgruine_Kirnstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/1920px-Burgruine_Kirnstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/1920px-Burgruine_Kirnstein.JPG---
 
 ## Overview
 

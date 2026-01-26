@@ -4,13 +4,13 @@ site_name: "Alter St.-Nikolai-Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery and park in Hannover-Mitte, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q438184"
 latitude: 52.3786
 longitude: 9.73222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/400px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/800px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/1200px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/1920px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/1920px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg---
 
 ## Overview
 

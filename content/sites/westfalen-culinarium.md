@@ -4,13 +4,13 @@ site_name: "Westfalen Culinarium"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nieheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nieheim"
+  - "Lower Saxony"
 wikidata_id: "Q2565108"
 latitude: 51.8041
 longitude: 9.11077
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/400px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/800px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/1200px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/1920px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/1920px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG---
 
 ## Overview
 

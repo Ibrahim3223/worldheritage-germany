@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Eilenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Eilenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eilenburg"
+  - "Brandenburg"
 wikidata_id: "Q19309461"
 latitude: 51.460538
 longitude: 12.634744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Eilenburg_Gasthof_Torgauer_Straße_40.jpg/400px-Eilenburg_Gasthof_Torgauer_Straße_40.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Eilenburg_Gasthof_Torgauer_Straße_40.jpg/800px-Eilenburg_Gasthof_Torgauer_Straße_40.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Eilenburg_Gasthof_Torgauer_Straße_40.jpg/1200px-Eilenburg_Gasthof_Torgauer_Straße_40.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Eilenburg_Gasthof_Torgauer_Straße_40.jpg/1920px-Eilenburg_Gasthof_Torgauer_Straße_40.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Eilenburg_Gasthof_Torgauer_Straße_40.jpg/1920px-Eilenburg_Gasthof_Torgauer_Straße_40.jpg---
 
 ## Overview
 

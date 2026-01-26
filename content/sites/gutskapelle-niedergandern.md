@@ -4,13 +4,13 @@ site_name: "Gutskapelle Niedergandern"
 date: 2026-01-26
 draft: false
 description: "chapel in Friedland, Germany"
-region: "Friedland"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Friedland"
+  - "Hesse"
 wikidata_id: "Q1502775"
 latitude: 51.3924
 longitude: 9.93682
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NG1_DSC0134.JPG/400px-NG1_DSC0134.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NG1_DSC0134.JPG/800px-NG1_DSC0134.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NG1_DSC0134.JPG/1200px-NG1_DSC0134.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NG1_DSC0134.JPG/1920px-NG1_DSC0134.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NG1_DSC0134.JPG/1920px-NG1_DSC0134.JPG---
 
 ## Overview
 

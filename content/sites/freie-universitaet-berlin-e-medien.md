@@ -4,19 +4,18 @@ site_name: "Freie Universität Berlin, E-Medien"
 date: 2026-01-26
 draft: false
 description: "University in Berlin"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q130548543"
 latitude: 52.44829
 longitude: 13.27714
 images:
-  []
----
+  []---
 
 ## Overview
 

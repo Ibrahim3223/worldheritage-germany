@@ -4,19 +4,18 @@ site_name: "Burg Fritzenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Warthausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Warthausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011872"
 latitude: 48.1381
 longitude: 9.7879
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hodenhagen Castle"
 date: 2026-01-26
 draft: false
 description: "former castle in Lower Saxony"
-region: "Hodenhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hodenhagen"
+  - "Lower Saxony"
 wikidata_id: "Q1012378"
 latitude: 52.7549
 longitude: 9.61864
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/400px-Feste_Hodenhagen_Fluss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/800px-Feste_Hodenhagen_Fluss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1200px-Feste_Hodenhagen_Fluss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1920px-Feste_Hodenhagen_Fluss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1920px-Feste_Hodenhagen_Fluss.jpg---
 
 ## Overview
 

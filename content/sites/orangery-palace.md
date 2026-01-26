@@ -4,13 +4,13 @@ site_name: "Orangery Palace"
 date: 2026-01-26
 draft: false
 description: "Palace in the Sanssouci Park of Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q677478"
 latitude: 52.405
 longitude: 13.0296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Orangerieschloss_November_2013_07.jpg/400px-Orangerieschloss_November_2013_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Orangerieschloss_November_2013_07.jpg/800px-Orangerieschloss_November_2013_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Orangerieschloss_November_2013_07.jpg/1200px-Orangerieschloss_November_2013_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Orangerieschloss_November_2013_07.jpg/1920px-Orangerieschloss_November_2013_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Orangerieschloss_November_2013_07.jpg/1920px-Orangerieschloss_November_2013_07.jpg---
 
 ## Overview
 

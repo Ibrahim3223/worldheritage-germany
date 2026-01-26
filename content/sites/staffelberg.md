@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staffelberg_NB.jpg/400px-Staffelberg_NB.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staffelberg_NB.jpg/800px-Staffelberg_NB.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staffelberg_NB.jpg/1200px-Staffelberg_NB.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staffelberg_NB.jpg/1920px-Staffelberg_NB.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staffelberg_NB.jpg/1920px-Staffelberg_NB.jpg---
 
 ## Overview
 

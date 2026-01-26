@@ -4,13 +4,13 @@ site_name: "State and University Library Bremen"
 date: 2026-01-26
 draft: false
 description: "library in Bremen"
-region: "Horn-Lehe"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Horn-Lehe"
+  - "Bremen"
 wikidata_id: "Q1680376"
 latitude: 53.10816
 longitude: 8.85387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/400px-Staats-_und_Universitätsbibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/800px-Staats-_und_Universitätsbibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/1200px-Staats-_und_Universitätsbibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/1920px-Staats-_und_Universitätsbibliothek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/1920px-Staats-_und_Universitätsbibliothek.jpg---
 
 ## Overview
 

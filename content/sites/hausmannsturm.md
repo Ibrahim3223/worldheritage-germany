@@ -4,13 +4,13 @@ site_name: "Hausmannsturm"
 date: 2026-01-26
 draft: false
 description: "tower in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1288508"
 latitude: 51.053002
 longitude: 13.737096
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/00_2777_Hausmannsturm,_Dresden.jpg/400px-00_2777_Hausmannsturm,_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/00_2777_Hausmannsturm,_Dresden.jpg/800px-00_2777_Hausmannsturm,_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/00_2777_Hausmannsturm,_Dresden.jpg/1200px-00_2777_Hausmannsturm,_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/00_2777_Hausmannsturm,_Dresden.jpg/1920px-00_2777_Hausmannsturm,_Dresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/00_2777_Hausmannsturm,_Dresden.jpg/1920px-00_2777_Hausmannsturm,_Dresden.jpg---
 
 ## Overview
 

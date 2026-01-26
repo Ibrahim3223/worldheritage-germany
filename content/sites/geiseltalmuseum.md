@@ -4,13 +4,13 @@ site_name: "Geiseltalmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1399618"
 latitude: 51.4844
 longitude: 11.9654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/400px-Geiseltalmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/800px-Geiseltalmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1200px-Geiseltalmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1920px-Geiseltalmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1920px-Geiseltalmuseum.JPG---
 
 ## Overview
 

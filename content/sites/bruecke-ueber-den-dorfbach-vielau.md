@@ -4,19 +4,18 @@ site_name: "Brücke über den Dorfbach Vielau"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Reinsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Reinsdorf"
+  - "Saxony"
 wikidata_id: "Q49438820"
 latitude: 50.684143535
 longitude: 12.551933208
 images:
-  []
----
+  []---
 
 ## Overview
 

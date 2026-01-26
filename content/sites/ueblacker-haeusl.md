@@ -4,13 +4,13 @@ site_name: "Üblacker-Häusl"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Haidhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Haidhausen"
+  - "Bavaria"
 wikidata_id: "Q334575"
 latitude: 48.1322
 longitude: 11.5998
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Üblacker-Häusl_eingegrünt_01.jpg/400px-Üblacker-Häusl_eingegrünt_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Üblacker-Häusl_eingegrünt_01.jpg/800px-Üblacker-Häusl_eingegrünt_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Üblacker-Häusl_eingegrünt_01.jpg/1200px-Üblacker-Häusl_eingegrünt_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Üblacker-Häusl_eingegrünt_01.jpg/1920px-Üblacker-Häusl_eingegrünt_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Üblacker-Häusl_eingegrünt_01.jpg/1920px-Üblacker-Häusl_eingegrünt_01.jpg---
 
 ## Overview
 

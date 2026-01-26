@@ -4,13 +4,13 @@ site_name: "Fischertor Augsburg"
 date: 2026-01-26
 draft: false
 description: "building in Augsburg, Swabia, Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1420163"
 latitude: 48.377264806
 longitude: 10.893933449
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/GER_Augsburg,_Fischertor_0001.jpg/400px-GER_Augsburg,_Fischertor_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/GER_Augsburg,_Fischertor_0001.jpg/800px-GER_Augsburg,_Fischertor_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/GER_Augsburg,_Fischertor_0001.jpg/1200px-GER_Augsburg,_Fischertor_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/GER_Augsburg,_Fischertor_0001.jpg/1920px-GER_Augsburg,_Fischertor_0001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/GER_Augsburg,_Fischertor_0001.jpg/1920px-GER_Augsburg,_Fischertor_0001.jpg---
 
 ## Overview
 

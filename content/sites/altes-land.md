@@ -4,13 +4,13 @@ site_name: "Altes Land"
 date: 2026-01-26
 draft: false
 description: "landscape in northern Germany"
-region: "Lühe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Lühe"
+  - "Lower Saxony"
 wikidata_id: "Q375953"
 latitude: 53.5333
 longitude: 9.66667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/400px-Altes_Land_Apfelblüte_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/800px-Altes_Land_Apfelblüte_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/1200px-Altes_Land_Apfelblüte_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/1920px-Altes_Land_Apfelblüte_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/1920px-Altes_Land_Apfelblüte_2011.jpg---
 
 ## Overview
 

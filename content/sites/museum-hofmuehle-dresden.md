@@ -4,13 +4,13 @@ site_name: "Museum Hofmühle Dresden"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1635322"
 latitude: 51.0301
 longitude: 13.7022
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DD-Bienertmühle-1.jpg/400px-DD-Bienertmühle-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DD-Bienertmühle-1.jpg/800px-DD-Bienertmühle-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DD-Bienertmühle-1.jpg/1200px-DD-Bienertmühle-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DD-Bienertmühle-1.jpg/1920px-DD-Bienertmühle-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DD-Bienertmühle-1.jpg/1920px-DD-Bienertmühle-1.jpg---
 
 ## Overview
 

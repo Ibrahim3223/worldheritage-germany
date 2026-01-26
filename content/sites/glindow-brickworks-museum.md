@@ -4,13 +4,13 @@ site_name: "Glindow Brickworks Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Werder (Havel)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Werder (Havel)"
+  - "Brandenburg"
 wikidata_id: "Q198603"
 latitude: 52.3544
 longitude: 12.9225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/400px-Ziegeleimuseum_Glindow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/800px-Ziegeleimuseum_Glindow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/1200px-Ziegeleimuseum_Glindow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/1920px-Ziegeleimuseum_Glindow.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/1920px-Ziegeleimuseum_Glindow.JPG---
 
 ## Overview
 

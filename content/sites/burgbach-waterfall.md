@@ -4,13 +4,13 @@ site_name: "Burgbach Waterfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Bad Rippoldsau-Schapbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Bad Rippoldsau-Schapbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1014791"
 latitude: 48.4097
 longitude: 8.33549
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/400px-Burgbachwasserfall_IMG_3048.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/800px-Burgbachwasserfall_IMG_3048.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1200px-Burgbachwasserfall_IMG_3048.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1920px-Burgbachwasserfall_IMG_3048.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1920px-Burgbachwasserfall_IMG_3048.jpg---
 
 ## Overview
 

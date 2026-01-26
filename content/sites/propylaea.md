@@ -4,13 +4,13 @@ site_name: "Propylaea"
 date: 2026-01-26
 draft: false
 description: "city gate in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q822301"
 latitude: 48.146111111
 longitude: 11.564166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Propyläen_München.jpg/400px-Propyläen_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Propyläen_München.jpg/800px-Propyläen_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Propyläen_München.jpg/1200px-Propyläen_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Propyläen_München.jpg/1920px-Propyläen_München.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Propyläen_München.jpg/1920px-Propyläen_München.jpg---
 
 ## Overview
 

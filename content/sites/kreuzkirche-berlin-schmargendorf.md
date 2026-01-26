@@ -4,13 +4,13 @@ site_name: "Kreuzkirche (Berlin-Schmargendorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1788327"
 latitude: 52.4822
 longitude: 13.2908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/400px-Kreuzkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/800px-Kreuzkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/1200px-Kreuzkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/1920px-Kreuzkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/1920px-Kreuzkirche.JPG---
 
 ## Overview
 

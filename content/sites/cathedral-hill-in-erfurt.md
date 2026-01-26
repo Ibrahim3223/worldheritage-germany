@@ -4,13 +4,13 @@ site_name: "Cathedral Hill in Erfurt"
 date: 2026-01-26
 draft: false
 description: "Cathedral Hill in Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1236904"
 latitude: 50.976071
 longitude: 11.023058
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/400px-Erfurter_Dom_von_Oben_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/800px-Erfurter_Dom_von_Oben_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1200px-Erfurter_Dom_von_Oben_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1920px-Erfurter_Dom_von_Oben_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1920px-Erfurter_Dom_von_Oben_05.jpg---
 
 ## Overview
 

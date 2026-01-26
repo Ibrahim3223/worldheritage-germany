@@ -4,19 +4,18 @@ site_name: "Schlossmuseum Hohenlohe-Schillingsfürst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629423"
 latitude: 49.289654
 longitude: 10.260206
 images:
-  []
----
+  []---
 
 ## Overview
 

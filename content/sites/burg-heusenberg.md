@@ -4,19 +4,18 @@ site_name: "Burg Heusenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Burgrieden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Burgrieden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012332"
 latitude: 48.2268
 longitude: 9.9677
 images:
-  []
----
+  []---
 
 ## Overview
 

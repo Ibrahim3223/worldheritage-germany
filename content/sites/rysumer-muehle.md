@@ -4,13 +4,13 @@ site_name: "Rysumer Mühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q2178296"
 latitude: 53.3788
 longitude: 7.03416
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rysumer_Mühle_2.jpg/400px-Rysumer_Mühle_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rysumer_Mühle_2.jpg/800px-Rysumer_Mühle_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rysumer_Mühle_2.jpg/1200px-Rysumer_Mühle_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rysumer_Mühle_2.jpg/1920px-Rysumer_Mühle_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rysumer_Mühle_2.jpg/1920px-Rysumer_Mühle_2.jpg---
 
 ## Overview
 

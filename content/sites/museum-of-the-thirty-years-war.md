@@ -4,13 +4,13 @@ site_name: "Museum of the Thirty Years War"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wittstock/Dosse"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wittstock/Dosse"
+  - "Brandenburg"
 wikidata_id: "Q1954579"
 latitude: 53.1593
 longitude: 12.4857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alte_Bischofsburg_-_panoramio_(5).jpg/400px-Alte_Bischofsburg_-_panoramio_(5).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alte_Bischofsburg_-_panoramio_(5).jpg/800px-Alte_Bischofsburg_-_panoramio_(5).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alte_Bischofsburg_-_panoramio_(5).jpg/1200px-Alte_Bischofsburg_-_panoramio_(5).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alte_Bischofsburg_-_panoramio_(5).jpg/1920px-Alte_Bischofsburg_-_panoramio_(5).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alte_Bischofsburg_-_panoramio_(5).jpg/1920px-Alte_Bischofsburg_-_panoramio_(5).jpg---
 
 ## Overview
 

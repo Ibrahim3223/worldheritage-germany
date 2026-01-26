@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Prinz-Albrecht-Palais.jpg/400px-Prinz-Albrecht-Palais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Prinz-Albrecht-Palais.jpg/800px-Prinz-Albrecht-Palais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Prinz-Albrecht-Palais.jpg/1200px-Prinz-Albrecht-Palais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Prinz-Albrecht-Palais.jpg/1920px-Prinz-Albrecht-Palais.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Prinz-Albrecht-Palais.jpg/1920px-Prinz-Albrecht-Palais.jpg---
 
 ## Overview
 

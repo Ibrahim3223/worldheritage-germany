@@ -4,13 +4,13 @@ site_name: "Wuppertal Zoologischer Garten station"
 date: 2026-01-26
 draft: false
 description: "railway station in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q322019"
 latitude: 51.2435
 longitude: 7.10728
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/400px-Bf-w-zoo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/800px-Bf-w-zoo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/1200px-Bf-w-zoo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/1920px-Bf-w-zoo.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/1920px-Bf-w-zoo.jpg---
 
 ## Overview
 

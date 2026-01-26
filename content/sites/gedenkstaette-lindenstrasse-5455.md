@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Lindenstraße 54/55"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1251888"
 latitude: 52.40053333
 longitude: 13.05229444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/400px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/800px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/1200px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/1920px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/1920px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg---
 
 ## Overview
 

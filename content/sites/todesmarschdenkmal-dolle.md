@@ -4,13 +4,13 @@ site_name: "Todesmarschdenkmal Dolle"
 date: 2026-01-26
 draft: false
 description: "Denkmal an unbekannte Opfer des Konzentrationslagers Mittelbau-Dora"
-region: "Börde District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Börde District"
+  - "Brandenburg"
 wikidata_id: "Q1462248"
 latitude: 52.4201
 longitude: 11.6261
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/400px-Dolle_Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/800px-Dolle_Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/1200px-Dolle_Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/1920px-Dolle_Denkmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/1920px-Dolle_Denkmal.JPG---
 
 ## Overview
 

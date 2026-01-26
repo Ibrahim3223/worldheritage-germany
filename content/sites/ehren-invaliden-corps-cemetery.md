@@ -4,19 +4,18 @@ site_name: "Ehren-Invaliden-Corps cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Schwäbisch Hall, Baden-Württemberg, Germany"
-region: "Schwäbisch Hall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Schwäbisch Hall"
+  - "Baden-Württemberg"
 wikidata_id: "Q1299860"
 latitude: 49.100991
 longitude: 9.749733
 images:
-  []
----
+  []---
 
 ## Overview
 

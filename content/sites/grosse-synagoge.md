@@ -4,13 +4,13 @@ site_name: "Große Synagoge"
 date: 2026-01-26
 draft: false
 description: "demolished synagogue in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1167430"
 latitude: 50.9709
 longitude: 11.0276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/400px-Große_Synagoge_Erfurt_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/800px-Große_Synagoge_Erfurt_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1200px-Große_Synagoge_Erfurt_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1920px-Große_Synagoge_Erfurt_außen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1920px-Große_Synagoge_Erfurt_außen.jpg---
 
 ## Overview
 

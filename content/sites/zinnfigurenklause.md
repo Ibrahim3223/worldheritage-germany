@@ -4,13 +4,13 @@ site_name: "Zinnfigurenklause"
 date: 2026-01-26
 draft: false
 description: "German museum"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q205072"
 latitude: 47.99277778
 longitude: 7.85416667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zinnfigurenklause_1030148.jpg/400px-Zinnfigurenklause_1030148.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zinnfigurenklause_1030148.jpg/800px-Zinnfigurenklause_1030148.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zinnfigurenklause_1030148.jpg/1200px-Zinnfigurenklause_1030148.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zinnfigurenklause_1030148.jpg/1920px-Zinnfigurenklause_1030148.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zinnfigurenklause_1030148.jpg/1920px-Zinnfigurenklause_1030148.jpg---
 
 ## Overview
 

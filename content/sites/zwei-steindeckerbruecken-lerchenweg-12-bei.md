@@ -4,19 +4,18 @@ site_name: "Zwei Steindeckerbrücken Lerchenweg 12 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Weißenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Weißenberg"
+  - "Saxony"
 wikidata_id: "Q49405973"
 latitude: 51.192047
 longitude: 14.578771
 images:
-  []
----
+  []---
 
 ## Overview
 

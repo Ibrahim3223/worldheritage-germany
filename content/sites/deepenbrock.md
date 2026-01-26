@@ -4,19 +4,18 @@ site_name: "Deepenbrock"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Langen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Langen"
+  - "Lower Saxony"
 wikidata_id: "Q1182446"
 latitude: 52.5503
 longitude: 7.44917
 images:
-  []
----
+  []---
 
 ## Overview
 

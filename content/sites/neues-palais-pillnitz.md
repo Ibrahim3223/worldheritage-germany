@@ -4,13 +4,13 @@ site_name: "Neues Palais Pillnitz"
 date: 2026-01-26
 draft: false
 description: "heritage building in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q115620292"
 latitude: 51.00832
 longitude: 13.87113
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg/400px-Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg/800px-Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg/1200px-Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg/1920px-Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg/1920px-Schloss_^_Park_Pillnitz_-_panoramio_(2).jpg---
 
 ## Overview
 

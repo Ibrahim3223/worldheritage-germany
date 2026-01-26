@@ -4,13 +4,13 @@ site_name: "Andreaskirche (Leipzig-Knautnaundorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q501520"
 latitude: 51.2543
 longitude: 12.2693
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/400px-Andreaskapelle_Knautnaundorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/800px-Andreaskapelle_Knautnaundorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/1200px-Andreaskapelle_Knautnaundorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/1920px-Andreaskapelle_Knautnaundorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/1920px-Andreaskapelle_Knautnaundorf.jpg---
 
 ## Overview
 

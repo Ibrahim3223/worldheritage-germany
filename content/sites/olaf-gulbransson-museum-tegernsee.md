@@ -4,13 +4,13 @@ site_name: "Olaf-Gulbransson-Museum Tegernsee"
 date: 2026-01-26
 draft: false
 description: "building in Tegernsee, Upper Bavaria, Germany"
-region: "Tegernsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Tegernsee"
+  - "Bavaria"
 wikidata_id: "Q15123451"
 latitude: 47.709471
 longitude: 11.754336
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/400px-Tegernsee_Olaf_Gulbransson_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/800px-Tegernsee_Olaf_Gulbransson_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/1200px-Tegernsee_Olaf_Gulbransson_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/1920px-Tegernsee_Olaf_Gulbransson_Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/1920px-Tegernsee_Olaf_Gulbransson_Museum.JPG---
 
 ## Overview
 

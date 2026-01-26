@@ -4,13 +4,13 @@ site_name: "Schloss Urach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Urach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Urach"
+  - "Baden-Württemberg"
 wikidata_id: "Q374348"
 latitude: 48.4928
 longitude: 9.39778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Schloß-Urach-2010.JPG/400px-Schloß-Urach-2010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Schloß-Urach-2010.JPG/800px-Schloß-Urach-2010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Schloß-Urach-2010.JPG/1200px-Schloß-Urach-2010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Schloß-Urach-2010.JPG/1920px-Schloß-Urach-2010.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Schloß-Urach-2010.JPG/1920px-Schloß-Urach-2010.JPG---
 
 ## Overview
 

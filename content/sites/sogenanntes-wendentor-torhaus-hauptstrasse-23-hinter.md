@@ -4,13 +4,13 @@ site_name: "Sogenanntes Wendentor; Torhaus Hauptstraße 23 (hinter)"
 date: 2026-01-26
 draft: false
 description: "Nachbildung der in den sorbischen Dörfern früher üblichen Torhäuser zur Ausstellung des Sächsischen Handwerks und Kunstgewerbes 1896 in Dresden, dokum"
-region: "Nebelschütz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Nebelschütz"
+  - "Saxony"
 wikidata_id: "Q49409703"
 latitude: 51.264073
 longitude: 14.158204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Njebjelčicy_-_torožo.JPG/400px-Njebjelčicy_-_torožo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Njebjelčicy_-_torožo.JPG/800px-Njebjelčicy_-_torožo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Njebjelčicy_-_torožo.JPG/1200px-Njebjelčicy_-_torožo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Njebjelčicy_-_torožo.JPG/1920px-Njebjelčicy_-_torožo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Njebjelčicy_-_torožo.JPG/1920px-Njebjelčicy_-_torožo.JPG---
 
 ## Overview
 

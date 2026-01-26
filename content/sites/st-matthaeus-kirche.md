@@ -4,13 +4,13 @@ site_name: "St.-Matthäus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Resterhafe, Germany"
-region: "Dornum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dornum"
+  - "Lower Saxony"
 wikidata_id: "Q2316534"
 latitude: 53.6377
 longitude: 7.43433
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/400px-ChurchResterhafe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/800px-ChurchResterhafe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/1200px-ChurchResterhafe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/1920px-ChurchResterhafe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/1920px-ChurchResterhafe.jpg---
 
 ## Overview
 

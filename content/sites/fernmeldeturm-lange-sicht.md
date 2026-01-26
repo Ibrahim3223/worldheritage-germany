@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Lange Sicht"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Lüdenscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Lüdenscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1407083"
 latitude: 51.2302
 longitude: 7.61491
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fernmeldeturm_Lange_Sicht.jpg/400px-Fernmeldeturm_Lange_Sicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fernmeldeturm_Lange_Sicht.jpg/800px-Fernmeldeturm_Lange_Sicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fernmeldeturm_Lange_Sicht.jpg/1200px-Fernmeldeturm_Lange_Sicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fernmeldeturm_Lange_Sicht.jpg/1920px-Fernmeldeturm_Lange_Sicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fernmeldeturm_Lange_Sicht.jpg/1920px-Fernmeldeturm_Lange_Sicht.jpg---
 
 ## Overview
 

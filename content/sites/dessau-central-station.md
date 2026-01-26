@@ -4,13 +4,13 @@ site_name: "Dessau Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Dessau-Roßlau, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q266559"
 latitude: 51.839994
 longitude: 12.234972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/400px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/800px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/1200px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/1920px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/1920px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg---
 
 ## Overview
 

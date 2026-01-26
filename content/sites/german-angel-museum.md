@@ -4,13 +4,13 @@ site_name: "german angel museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Engelskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Engelskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q22115699"
 latitude: 50.98401
 longitude: 7.40888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Engel-Museum.1.jpg/400px-Engel-Museum.1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Engel-Museum.1.jpg/800px-Engel-Museum.1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Engel-Museum.1.jpg/1200px-Engel-Museum.1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Engel-Museum.1.jpg/1920px-Engel-Museum.1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Engel-Museum.1.jpg/1920px-Engel-Museum.1.jpg---
 
 ## Overview
 

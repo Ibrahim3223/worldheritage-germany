@@ -4,13 +4,13 @@ site_name: "Nähmaschinenwerk Wittenberge"
 date: 2026-01-26
 draft: false
 description: "factory in Wittenberge, Germany"
-region: "Wittenberge"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Wittenberge"
+  - "Brandenburg"
 wikidata_id: "Q2006394"
 latitude: 52.9911
 longitude: 11.7684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Naehmaschinenwerk_Wittenberge.jpg/400px-Naehmaschinenwerk_Wittenberge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Naehmaschinenwerk_Wittenberge.jpg/800px-Naehmaschinenwerk_Wittenberge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Naehmaschinenwerk_Wittenberge.jpg/1200px-Naehmaschinenwerk_Wittenberge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Naehmaschinenwerk_Wittenberge.jpg/1920px-Naehmaschinenwerk_Wittenberge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Naehmaschinenwerk_Wittenberge.jpg/1920px-Naehmaschinenwerk_Wittenberge.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Zentralfriedhof Furpach"
 date: 2026-01-26
 draft: false
 description: "cemetery in Neunkirchen, Germany"
-region: "Neunkirchen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Neunkirchen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q190483"
 latitude: 49.32
 longitude: 7.22
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schelf church"
 date: 2026-01-26
 draft: false
 description: "church building in Schwerin, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q834274"
 latitude: 53.6325
 longitude: 11.417777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/400px-Schwerin_Schelfkirche_2011-11-13_049.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/800px-Schwerin_Schelfkirche_2011-11-13_049.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/1200px-Schwerin_Schelfkirche_2011-11-13_049.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/1920px-Schwerin_Schelfkirche_2011-11-13_049.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/1920px-Schwerin_Schelfkirche_2011-11-13_049.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Trauernde Alte"
 date: 2026-01-26
 draft: false
 description: "monument in Bochum, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1346229"
 latitude: 51.4812
 longitude: 7.21864
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trauernde_Alte_Marcks_Bochum_2008.jpg/400px-Trauernde_Alte_Marcks_Bochum_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trauernde_Alte_Marcks_Bochum_2008.jpg/800px-Trauernde_Alte_Marcks_Bochum_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trauernde_Alte_Marcks_Bochum_2008.jpg/1200px-Trauernde_Alte_Marcks_Bochum_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trauernde_Alte_Marcks_Bochum_2008.jpg/1920px-Trauernde_Alte_Marcks_Bochum_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trauernde_Alte_Marcks_Bochum_2008.jpg/1920px-Trauernde_Alte_Marcks_Bochum_2008.jpg---
 
 ## Overview
 

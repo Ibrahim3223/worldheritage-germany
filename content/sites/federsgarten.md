@@ -4,19 +4,18 @@ site_name: "Federsgarten"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-73 (0) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98581753"
 latitude: 50.260379735
 longitude: 10.963195755
 images:
-  []
----
+  []---
 
 ## Overview
 

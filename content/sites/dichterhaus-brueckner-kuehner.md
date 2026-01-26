@@ -4,13 +4,13 @@ site_name: "Dichterhaus Brückner-Kühner"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q29868743"
 latitude: 51.3054
 longitude: 9.479995
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/400px-Dichterhaus_Brückner-Kühner.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/800px-Dichterhaus_Brückner-Kühner.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/1200px-Dichterhaus_Brückner-Kühner.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/1920px-Dichterhaus_Brückner-Kühner.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/1920px-Dichterhaus_Brückner-Kühner.jpg---
 
 ## Overview
 

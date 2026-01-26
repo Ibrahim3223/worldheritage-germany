@@ -4,19 +4,18 @@ site_name: "Sandberg"
 date: 2026-01-26
 draft: false
 description: "mountain of Bramwald, Germany"
-region: "Göttingen district"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Göttingen district"
+  - "Hesse"
 wikidata_id: "Q1394831"
 latitude: 51.5153
 longitude: 9.65486
 images:
-  []
----
+  []---
 
 ## Overview
 

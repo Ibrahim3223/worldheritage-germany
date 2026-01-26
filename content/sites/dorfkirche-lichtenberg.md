@@ -4,13 +4,13 @@ site_name: "Dorfkirche Lichtenberg"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q436081"
 latitude: 52.521177777
 longitude: 13.4799
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/400px-Kirche-Berlin-Lichtenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/800px-Kirche-Berlin-Lichtenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1200px-Kirche-Berlin-Lichtenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1920px-Kirche-Berlin-Lichtenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1920px-Kirche-Berlin-Lichtenberg.jpg---
 
 ## Overview
 

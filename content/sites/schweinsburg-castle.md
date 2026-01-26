@@ -4,13 +4,13 @@ site_name: "Schweinsburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neukirchen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neukirchen"
+  - "Saxony"
 wikidata_id: "Q884793"
 latitude: 50.7875
 longitude: 12.3782
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/400px-Neukirchen_-_Schweinsburg_1_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/800px-Neukirchen_-_Schweinsburg_1_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/1200px-Neukirchen_-_Schweinsburg_1_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/1920px-Neukirchen_-_Schweinsburg_1_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/1920px-Neukirchen_-_Schweinsburg_1_(aka).jpg---
 
 ## Overview
 

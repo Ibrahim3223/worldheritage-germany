@@ -4,19 +4,18 @@ site_name: "Integrierte Gesamtschule Bonn-Beuel"
 date: 2026-01-26
 draft: false
 description: "Gesamtschule in Nordrhein-Westfalen"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1665491"
 latitude: 50.7498
 longitude: 7.14852
 images:
-  []
----
+  []---
 
 ## Overview
 

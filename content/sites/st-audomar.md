@@ -4,13 +4,13 @@ site_name: "St. Audomar"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Frechen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frechen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1341646"
 latitude: 50.9097
 longitude: 6.81583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sankt_Audomar_Frechen.jpg/400px-Sankt_Audomar_Frechen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sankt_Audomar_Frechen.jpg/800px-Sankt_Audomar_Frechen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sankt_Audomar_Frechen.jpg/1200px-Sankt_Audomar_Frechen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sankt_Audomar_Frechen.jpg/1920px-Sankt_Audomar_Frechen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sankt_Audomar_Frechen.jpg/1920px-Sankt_Audomar_Frechen.jpg---
 
 ## Overview
 

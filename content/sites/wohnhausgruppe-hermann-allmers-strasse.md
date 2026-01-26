@@ -4,13 +4,13 @@ site_name: "Wohnhausgruppe Hermann-Allmers-Straße"
 date: 2026-01-26
 draft: false
 description: "Gebäudegruppe in Bremen - Schwachhausen"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q17128036"
 latitude: 53.090125
 longitude: 8.83279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg/400px-H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg/800px-H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg/1200px-H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg/1920px-H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg/1920px-H-Allmers-Str_Nr-4-6-8-10-12-14_20130930_HB.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Neu-Windeck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lauf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lauf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013248"
 latitude: 48.64339
 longitude: 8.13801
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/400px-Neu-Windeck_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/800px-Neu-Windeck_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/1200px-Neu-Windeck_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/1920px-Neu-Windeck_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/1920px-Neu-Windeck_01.jpg---
 
 ## Overview
 

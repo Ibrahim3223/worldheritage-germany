@@ -4,19 +4,18 @@ site_name: "Altstadtfriedhof Mülheim an der Ruhr"
 date: 2026-01-26
 draft: false
 description: "cemetery in Mülheim an der Ruhr, Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q445631"
 latitude: 51.4231
 longitude: 6.88765
 images:
-  []
----
+  []---
 
 ## Overview
 

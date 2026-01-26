@@ -4,13 +4,13 @@ site_name: "Chamäleon"
 date: 2026-01-26
 draft: false
 description: "variety theatre in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1061549"
 latitude: 52.524
 longitude: 13.4024
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hackesche_Höfe_(Berlin)_2.jpg/400px-Hackesche_Höfe_(Berlin)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hackesche_Höfe_(Berlin)_2.jpg/800px-Hackesche_Höfe_(Berlin)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hackesche_Höfe_(Berlin)_2.jpg/1200px-Hackesche_Höfe_(Berlin)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hackesche_Höfe_(Berlin)_2.jpg/1920px-Hackesche_Höfe_(Berlin)_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hackesche_Höfe_(Berlin)_2.jpg/1920px-Hackesche_Höfe_(Berlin)_2.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum für Soziale Hygiene"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q59168724"
 latitude: 49.453412
 longitude: 11.076955
 images:
-  []
----
+  []---
 
 ## Overview
 

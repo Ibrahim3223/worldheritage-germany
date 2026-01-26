@@ -4,13 +4,13 @@ site_name: "Kugelbrunnen (Albert Sous)"
 date: 2026-01-26
 draft: false
 description: "fountain in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1791092"
 latitude: 50.7754
 longitude: 6.0919
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/400px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/800px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/1200px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/1920px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/1920px-Kugelbrunnen_Aachen,_geöffnet-001.jpg---
 
 ## Overview
 

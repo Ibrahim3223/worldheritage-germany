@@ -4,13 +4,13 @@ site_name: "St. Simon und Judas Thaddäus"
 date: 2026-01-26
 draft: false
 description: "church building in Jüchen, Germany"
-region: "Jüchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jüchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2323197"
 latitude: 51.0698
 longitude: 6.46361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/400px-Otzenrath_neuKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/800px-Otzenrath_neuKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/1200px-Otzenrath_neuKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/1920px-Otzenrath_neuKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/1920px-Otzenrath_neuKirche.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Kameramuseum Beidenfleth"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Steinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steinburg"
+  - "Lower Saxony"
 wikidata_id: "Q27881512"
 latitude: 53.8788
 longitude: 9.4138
 images:
-  []
----
+  []---
 
 ## Overview
 

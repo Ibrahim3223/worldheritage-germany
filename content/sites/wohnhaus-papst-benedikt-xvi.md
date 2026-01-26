@@ -4,19 +4,18 @@ site_name: "Wohnhaus Papst Benedikt XVI."
 date: 2026-01-26
 draft: false
 description: "Gebäude in Pentling im Landkreis Regensburg, das ehemalige Eigenheim Joseph Ratzingers, Papst Benedikts XVI., dient heute als Museum, Begegnungsstätte"
-region: "Pentling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pentling"
+  - "Bavaria"
 wikidata_id: "Q15135292"
 latitude: 48.98763889
 longitude: 12.06652778
 images:
-  []
----
+  []---
 
 ## Overview
 

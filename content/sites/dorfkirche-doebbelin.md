@@ -4,13 +4,13 @@ site_name: "Dorfkirche Döbbelin"
 date: 2026-01-26
 draft: false
 description: "evangelische Kirche des Dorfes Döbbelin in der Altmark, Stendal, Sachsen-Anhalt"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q1244244"
 latitude: 52.5748
 longitude: 11.79
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/400px-Dorfkirche_Döbbelin_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/800px-Dorfkirche_Döbbelin_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/1200px-Dorfkirche_Döbbelin_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/1920px-Dorfkirche_Döbbelin_Turm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/1920px-Dorfkirche_Döbbelin_Turm.JPG---
 
 ## Overview
 

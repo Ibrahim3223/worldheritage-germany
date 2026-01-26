@@ -4,13 +4,13 @@ site_name: "Burg Naumburg (Gladenbach)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gladenbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gladenbach"
+  - "Hesse"
 wikidata_id: "Q1013204"
 latitude: 50.7644
 longitude: 8.57153
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg/400px-Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg/800px-Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg/1200px-Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg/1920px-Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg/1920px-Wall_und_Graben_der_Naumburg_bei_Gladenbach_200809.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Automeile Höherweg"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q787453"
 latitude: 51.2206
 longitude: 6.81983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Automeile_Höherweg_Düsseldorf_20080913.jpg/400px-Automeile_Höherweg_Düsseldorf_20080913.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Automeile_Höherweg_Düsseldorf_20080913.jpg/800px-Automeile_Höherweg_Düsseldorf_20080913.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Automeile_Höherweg_Düsseldorf_20080913.jpg/1200px-Automeile_Höherweg_Düsseldorf_20080913.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Automeile_Höherweg_Düsseldorf_20080913.jpg/1920px-Automeile_Höherweg_Düsseldorf_20080913.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Automeile_Höherweg_Düsseldorf_20080913.jpg/1920px-Automeile_Höherweg_Düsseldorf_20080913.jpg---
 
 ## Overview
 

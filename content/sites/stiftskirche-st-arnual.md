@@ -4,13 +4,13 @@ site_name: "Stiftskirche St. Arnual"
 date: 2026-01-26
 draft: false
 description: "church in Saarbrücken, Germany"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1422153"
 latitude: 49.2175
 longitude: 7.01789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/400px-20110818Stiftskirche_St_Arnual02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/800px-20110818Stiftskirche_St_Arnual02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/1200px-20110818Stiftskirche_St_Arnual02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/1920px-20110818Stiftskirche_St_Arnual02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/1920px-20110818Stiftskirche_St_Arnual02.jpg---
 
 ## Overview
 

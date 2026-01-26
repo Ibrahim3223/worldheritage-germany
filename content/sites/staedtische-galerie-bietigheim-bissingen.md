@@ -4,13 +4,13 @@ site_name: "Städtische Galerie Bietigheim-Bissingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bietigheim-Bissingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bietigheim-Bissingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1506919"
 latitude: 48.9596
 longitude: 9.1242
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/400px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/800px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/1200px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/1920px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/1920px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Herrentierbach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Herrentierbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Herrentierbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012318"
 latitude: 49.3261
 longitude: 9.88694
 images:
-  []
----
+  []---
 
 ## Overview
 

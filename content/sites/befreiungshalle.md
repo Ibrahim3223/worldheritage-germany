@@ -4,13 +4,13 @@ site_name: "Befreiungshalle"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Q494305"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Q494305"
+  - "Bavaria"
 wikidata_id: "Q259004"
 latitude: 48.918333333
 longitude: 11.860555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/400px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/800px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1200px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1920px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1920px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg---
 
 ## Overview
 

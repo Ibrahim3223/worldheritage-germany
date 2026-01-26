@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Stadt und Landkreis Neudek (Augsburg, Německo)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1595660"
 latitude: 48.3431
 longitude: 10.8689
 images:
-  []
----
+  []---
 
 ## Overview
 

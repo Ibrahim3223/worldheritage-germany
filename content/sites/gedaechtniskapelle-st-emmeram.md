@@ -4,13 +4,13 @@ site_name: "Gedächtniskapelle St. Emmeram"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1497643"
 latitude: 48.1759
 longitude: 11.6279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG/400px-St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG/800px-St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG/1200px-St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG/1920px-St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG/1920px-St._Emmeram-Gedaechtnis-Kapelle_Muenchen.JPG---
 
 ## Overview
 

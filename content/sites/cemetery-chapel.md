@@ -4,13 +4,13 @@ site_name: "Cemetery chapel"
 date: 2026-01-26
 draft: false
 description: "chapel in Affing, Swabia, Germany"
-region: "Affing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Affing"
+  - "Bavaria"
 wikidata_id: "Q1457502"
 latitude: 48.4538
 longitude: 10.9848
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedhofkapelle-Affing-1.jpg/400px-Friedhofkapelle-Affing-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedhofkapelle-Affing-1.jpg/800px-Friedhofkapelle-Affing-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedhofkapelle-Affing-1.jpg/1200px-Friedhofkapelle-Affing-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedhofkapelle-Affing-1.jpg/1920px-Friedhofkapelle-Affing-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedhofkapelle-Affing-1.jpg/1920px-Friedhofkapelle-Affing-1.jpg---
 
 ## Overview
 

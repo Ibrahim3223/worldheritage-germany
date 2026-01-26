@@ -4,13 +4,13 @@ site_name: "Zeppelin Museum Friedrichshafen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Friedrichshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q191427"
 latitude: 47.65056
 longitude: 9.48303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Außenansicht_Zeppelin_Museum.jpg/400px-Außenansicht_Zeppelin_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Außenansicht_Zeppelin_Museum.jpg/800px-Außenansicht_Zeppelin_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Außenansicht_Zeppelin_Museum.jpg/1200px-Außenansicht_Zeppelin_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Außenansicht_Zeppelin_Museum.jpg/1920px-Außenansicht_Zeppelin_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Außenansicht_Zeppelin_Museum.jpg/1920px-Außenansicht_Zeppelin_Museum.jpg---
 
 ## Overview
 

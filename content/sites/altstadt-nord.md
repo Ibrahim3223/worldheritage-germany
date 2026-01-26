@@ -4,13 +4,13 @@ site_name: "Altstadt-Nord"
 date: 2026-01-26
 draft: false
 description: "city quarter of Cologne No. 103"
-region: "Cologne-Innenstadt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Cologne-Innenstadt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q3005"
 latitude: 50.938888888
 longitude: 6.956111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/400px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/800px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/1200px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/1920px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/1920px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg---
 
 ## Overview
 

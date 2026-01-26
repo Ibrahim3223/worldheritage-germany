@@ -4,19 +4,18 @@ site_name: "Burg Leiterberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wangen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wangen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012903"
 latitude: 47.9757
 longitude: 9.343248
 images:
-  []
----
+  []---
 
 ## Overview
 

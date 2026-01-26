@@ -4,13 +4,13 @@ site_name: "Old town of Regensburg with Stadtamhof"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q1246833"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/400px-Regensburg-steinerne-Bruecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/800px-Regensburg-steinerne-Bruecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/1200px-Regensburg-steinerne-Bruecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/1920px-Regensburg-steinerne-Bruecke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/1920px-Regensburg-steinerne-Bruecke.jpg---
 
 ## Overview
 

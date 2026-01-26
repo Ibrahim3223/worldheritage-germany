@@ -4,13 +4,13 @@ site_name: "Apollo-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Siegen, Germany, built 2005-2007 on the site of the former Apollo cinema, with only the older building's facade remaining"
-region: "Siegen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Siegen"
+  - "Hesse"
 wikidata_id: "Q618967"
 latitude: 50.87398
 longitude: 8.01758
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/400px-Apollo-Theater_Siegen_dima.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/800px-Apollo-Theater_Siegen_dima.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/1200px-Apollo-Theater_Siegen_dima.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/1920px-Apollo-Theater_Siegen_dima.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/1920px-Apollo-Theater_Siegen_dima.JPG---
 
 ## Overview
 

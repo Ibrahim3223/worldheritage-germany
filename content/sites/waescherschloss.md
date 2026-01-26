@@ -4,13 +4,13 @@ site_name: "Wäscherschloss"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wäschenbeuren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wäschenbeuren"
+  - "Baden-Württemberg"
 wikidata_id: "Q1323913"
 latitude: 48.7671
 longitude: 9.70583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Waescherburg-4_tok.JPG/400px-Schloss_Waescherburg-4_tok.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Waescherburg-4_tok.JPG/800px-Schloss_Waescherburg-4_tok.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Waescherburg-4_tok.JPG/1200px-Schloss_Waescherburg-4_tok.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Waescherburg-4_tok.JPG/1920px-Schloss_Waescherburg-4_tok.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Waescherburg-4_tok.JPG/1920px-Schloss_Waescherburg-4_tok.JPG---
 
 ## Overview
 

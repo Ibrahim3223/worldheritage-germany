@@ -4,13 +4,13 @@ site_name: "Volkswagenwerk Kassel"
 date: 2026-01-26
 draft: false
 description: "Volkswagen factory near Kassel, Germany"
-region: "Baunatal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Baunatal"
+  - "Hesse"
 wikidata_id: "Q2532322"
 latitude: 51.2528
 longitude: 9.43611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/400px-Volkswagen-kassel-baunatal-270307.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/800px-Volkswagen-kassel-baunatal-270307.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/1200px-Volkswagen-kassel-baunatal-270307.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/1920px-Volkswagen-kassel-baunatal-270307.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/1920px-Volkswagen-kassel-baunatal-270307.jpg---
 
 ## Overview
 

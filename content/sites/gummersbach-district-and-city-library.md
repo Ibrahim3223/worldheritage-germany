@@ -4,13 +4,13 @@ site_name: "Gummersbach district and city library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Gummersbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Gummersbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1787164"
 latitude: 51.0304
 longitude: 7.57032
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gummersbach_-_Stadtbücherei_02_ies.jpg/400px-Gummersbach_-_Stadtbücherei_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gummersbach_-_Stadtbücherei_02_ies.jpg/800px-Gummersbach_-_Stadtbücherei_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gummersbach_-_Stadtbücherei_02_ies.jpg/1200px-Gummersbach_-_Stadtbücherei_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gummersbach_-_Stadtbücherei_02_ies.jpg/1920px-Gummersbach_-_Stadtbücherei_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gummersbach_-_Stadtbücherei_02_ies.jpg/1920px-Gummersbach_-_Stadtbücherei_02_ies.jpg---
 
 ## Overview
 

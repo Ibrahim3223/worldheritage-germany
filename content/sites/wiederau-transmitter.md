@@ -4,13 +4,13 @@ site_name: "Wiederau transmitter"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Pegau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Pegau"
+  - "Saxony"
 wikidata_id: "Q869683"
 latitude: 51.185
 longitude: 12.28
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wiederau_transmitter_2.jpg/400px-Wiederau_transmitter_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wiederau_transmitter_2.jpg/800px-Wiederau_transmitter_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wiederau_transmitter_2.jpg/1200px-Wiederau_transmitter_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wiederau_transmitter_2.jpg/1920px-Wiederau_transmitter_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wiederau_transmitter_2.jpg/1920px-Wiederau_transmitter_2.jpg---
 
 ## Overview
 

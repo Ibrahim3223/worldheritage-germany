@@ -4,13 +4,13 @@ site_name: "Zollenspieker"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Hamburg, Germany"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q218603"
 latitude: 53.4019
 longitude: 10.1969
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Zollenspieker_5.jpg/400px-NSG_Zollenspieker_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Zollenspieker_5.jpg/800px-NSG_Zollenspieker_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Zollenspieker_5.jpg/1200px-NSG_Zollenspieker_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Zollenspieker_5.jpg/1920px-NSG_Zollenspieker_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Zollenspieker_5.jpg/1920px-NSG_Zollenspieker_5.jpg---
 
 ## Overview
 

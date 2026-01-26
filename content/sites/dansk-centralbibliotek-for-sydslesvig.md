@@ -4,13 +4,13 @@ site_name: "Dansk Centralbibliotek for Sydslesvig"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1270293"
 latitude: 54.792
 longitude: 9.43108
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/400px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/800px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1200px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1920px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1920px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG---
 
 ## Overview
 

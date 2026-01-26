@@ -4,13 +4,13 @@ site_name: "Grabkapelle Kesselstadt"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Deutschland"
-region: "Germany"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Germany"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1540845"
 latitude: 49.98311111
 longitude: 7.09261111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kesselstadt_Chapel_in_Kröv.jpg/400px-Kesselstadt_Chapel_in_Kröv.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kesselstadt_Chapel_in_Kröv.jpg/800px-Kesselstadt_Chapel_in_Kröv.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kesselstadt_Chapel_in_Kröv.jpg/1200px-Kesselstadt_Chapel_in_Kröv.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kesselstadt_Chapel_in_Kröv.jpg/1920px-Kesselstadt_Chapel_in_Kröv.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kesselstadt_Chapel_in_Kröv.jpg/1920px-Kesselstadt_Chapel_in_Kröv.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St.-Wendelinus chapel"
 date: 2026-01-26
 draft: false
 description: "chapel in Weisenbach, Germany"
-region: "Weisenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Weisenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1439029"
 latitude: 48.7292
 longitude: 8.35306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/400px-Weisenbach-Wendelinuskapelle-01-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/800px-Weisenbach-Wendelinuskapelle-01-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/1200px-Weisenbach-Wendelinuskapelle-01-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/1920px-Weisenbach-Wendelinuskapelle-01-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/1920px-Weisenbach-Wendelinuskapelle-01-gje.jpg---
 
 ## Overview
 

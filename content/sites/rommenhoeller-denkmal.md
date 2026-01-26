@@ -4,13 +4,13 @@ site_name: "Rommenhöller-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Bad Driburg, Germany"
-region: "Bad Driburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Driburg"
+  - "Lower Saxony"
 wikidata_id: "Q2165207"
 latitude: 51.7033
 longitude: 9.08639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/400px-Rommenhöller-Denkmal_Brunnenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/800px-Rommenhöller-Denkmal_Brunnenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/1200px-Rommenhöller-Denkmal_Brunnenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/1920px-Rommenhöller-Denkmal_Brunnenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/1920px-Rommenhöller-Denkmal_Brunnenhaus.jpg---
 
 ## Overview
 

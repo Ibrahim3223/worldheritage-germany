@@ -4,13 +4,13 @@ site_name: "Zuflucht-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Spandau"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Spandau"
+  - "Berlin"
 wikidata_id: "Q14537394"
 latitude: 52.5507
 longitude: 13.1786
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/400px-Zuflucht-Kirche_(Berlin).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/800px-Zuflucht-Kirche_(Berlin).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/1200px-Zuflucht-Kirche_(Berlin).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/1920px-Zuflucht-Kirche_(Berlin).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/1920px-Zuflucht-Kirche_(Berlin).JPG---
 
 ## Overview
 

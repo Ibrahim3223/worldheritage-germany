@@ -4,13 +4,13 @@ site_name: "Wilhelmskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Kreuznach, Germany"
-region: "Bad Kreuznach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bad Kreuznach"
+  - "Hesse"
 wikidata_id: "Q1390954"
 latitude: 49.8433
 longitude: 7.85811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/400px-Wilhelmskirche_in_Bad_Kreuznach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/800px-Wilhelmskirche_in_Bad_Kreuznach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/1200px-Wilhelmskirche_in_Bad_Kreuznach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/1920px-Wilhelmskirche_in_Bad_Kreuznach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/1920px-Wilhelmskirche_in_Bad_Kreuznach.JPG---
 
 ## Overview
 

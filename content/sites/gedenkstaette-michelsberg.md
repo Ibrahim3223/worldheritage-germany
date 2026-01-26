@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Michelsberg"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte in Wiesbaden"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q1964222"
 latitude: 50.0833
 longitude: 8.23703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG/400px-Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG/800px-Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG/1200px-Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG/1920px-Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG/1920px-Gedenkstein_an_der_Gedenkstätte_Michelsberg,_Wiesbaden.JPG---
 
 ## Overview
 

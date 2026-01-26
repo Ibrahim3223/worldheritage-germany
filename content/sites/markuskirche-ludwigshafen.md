@@ -4,13 +4,13 @@ site_name: "Markuskirche (Ludwigshafen)"
 date: 2026-01-26
 draft: false
 description: "church building in Ludwigshafen, Germany"
-region: "Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1901919"
 latitude: 49.4908
 longitude: 8.37413
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/400px-Ludwigshafen-Oggersheim-Markuskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/800px-Ludwigshafen-Oggersheim-Markuskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/1200px-Ludwigshafen-Oggersheim-Markuskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/1920px-Ludwigshafen-Oggersheim-Markuskirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/1920px-Ludwigshafen-Oggersheim-Markuskirche.JPG---
 
 ## Overview
 

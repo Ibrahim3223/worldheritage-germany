@@ -4,19 +4,18 @@ site_name: "Medelsheim Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gersheim"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gersheim"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013091"
 latitude: 49.145
 longitude: 7.26814
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Barfüßertor (Augsburg)"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Augsburger Stadttor"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q808124"
 latitude: 48.3696
 longitude: 10.9012
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg/400px-Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg/800px-Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg/1200px-Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg/1920px-Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg/1920px-Aquarell_-_Augsburg_-_Das_ehemalige_Barfüßertor_in_der_Jakobervorstadt_zu_Augsburg_-_A_Brandes_-_um_1915.jpg---
 
 ## Overview
 

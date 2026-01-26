@@ -4,13 +4,13 @@ site_name: "Museum yard Göhren"
 date: 2026-01-26
 draft: false
 description: "open air museum in Göhren, Rügen, Mecklenburg-Western Pomerania, Germany (1971-)"
-region: "Mönchgut"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mönchgut"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q47507441"
 latitude: 54.342441
 longitude: 13.742654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg/400px-2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg/800px-2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg/1200px-2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg/1920px-2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg/1920px-2019-08-13_Museumshof_Göhren_(Rügen)_01.jpg---
 
 ## Overview
 

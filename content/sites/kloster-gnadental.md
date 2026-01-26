@@ -4,13 +4,13 @@ site_name: "Kloster Gnadental"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1775268"
 latitude: 51.1726
 longitude: 6.71517
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/400px-Kloster_Gnadental_Neuss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/800px-Kloster_Gnadental_Neuss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/1200px-Kloster_Gnadental_Neuss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/1920px-Kloster_Gnadental_Neuss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/1920px-Kloster_Gnadental_Neuss.jpg---
 
 ## Overview
 

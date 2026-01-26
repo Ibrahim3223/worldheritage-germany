@@ -4,13 +4,13 @@ site_name: "Rintelner Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Rinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rinteln"
+  - "Lower Saxony"
 wikidata_id: "Q1212272"
 latitude: 52.1844
 longitude: 9.0775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Eulenburg.jpg/400px-Museum_Eulenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Eulenburg.jpg/800px-Museum_Eulenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Eulenburg.jpg/1200px-Museum_Eulenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Eulenburg.jpg/1920px-Museum_Eulenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_Eulenburg.jpg/1920px-Museum_Eulenburg.jpg---
 
 ## Overview
 

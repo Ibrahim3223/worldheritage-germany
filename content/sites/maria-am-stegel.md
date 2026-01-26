@@ -4,19 +4,18 @@ site_name: "Maria am Stegel"
 date: 2026-01-26
 draft: false
 description: "ehemalige Kapelle in der Lübecker Altstadt"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1752785"
 latitude: 53.8682
 longitude: 10.6845
 images:
-  []
----
+  []---
 
 ## Overview
 

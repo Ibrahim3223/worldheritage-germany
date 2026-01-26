@@ -4,13 +4,13 @@ site_name: "Schaubühne am Lehniner Platz"
 date: 2026-01-26
 draft: false
 description: "theatre in the Wilmersdorf district of Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q569461"
 latitude: 52.498611111
 longitude: 13.302222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/400px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/800px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/1200px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/1920px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/1920px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg---
 
 ## Overview
 

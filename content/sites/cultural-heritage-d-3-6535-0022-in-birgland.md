@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-3-6535-0022 in Birgland"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Birgland"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Birgland"
+  - "Bavaria"
 wikidata_id: "Q94378655"
 latitude: 49.480222087
 longitude: 11.598938348
 images:
-  []
----
+  []---
 
 ## Overview
 

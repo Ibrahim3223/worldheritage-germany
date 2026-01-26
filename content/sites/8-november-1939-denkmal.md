@@ -4,13 +4,13 @@ site_name: "8. November 1939 (Denkmal)"
 date: 2026-01-26
 draft: false
 description: "monument in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q270746"
 latitude: 48.1509
 longitude: 11.5767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/400px-Fassadeninstallation,_Geäudeschild.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/800px-Fassadeninstallation,_Geäudeschild.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1200px-Fassadeninstallation,_Geäudeschild.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1920px-Fassadeninstallation,_Geäudeschild.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1920px-Fassadeninstallation,_Geäudeschild.JPG---
 
 ## Overview
 

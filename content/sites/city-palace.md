@@ -4,13 +4,13 @@ site_name: "City Palace"
 date: 2026-01-26
 draft: false
 description: "building in Potsdam, Germany, former residence of the Prussian kings, seat of the Brandenburg Landtag"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q527260"
 latitude: 52.394722
 longitude: 13.060556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/400px-Potsdam_Stadtschloss_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/800px-Potsdam_Stadtschloss_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/1200px-Potsdam_Stadtschloss_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/1920px-Potsdam_Stadtschloss_07-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/1920px-Potsdam_Stadtschloss_07-2017.jpg---
 
 ## Overview
 

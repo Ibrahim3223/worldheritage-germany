@@ -4,13 +4,13 @@ site_name: "The Socialists' Memorial"
 date: 2026-01-26
 draft: false
 description: "Memorial at Zentralfriedhof Friedrichsfelde"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q1497554"
 latitude: 52.5149213
 longitude: 13.5112267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gedenkstaette_der_sozialisten.jpg/400px-Gedenkstaette_der_sozialisten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gedenkstaette_der_sozialisten.jpg/800px-Gedenkstaette_der_sozialisten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gedenkstaette_der_sozialisten.jpg/1200px-Gedenkstaette_der_sozialisten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gedenkstaette_der_sozialisten.jpg/1920px-Gedenkstaette_der_sozialisten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gedenkstaette_der_sozialisten.jpg/1920px-Gedenkstaette_der_sozialisten.jpg---
 
 ## Overview
 

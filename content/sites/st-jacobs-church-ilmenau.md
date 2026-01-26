@@ -4,13 +4,13 @@ site_name: "St. Jacob's Church (Ilmenau)"
 date: 2026-01-26
 draft: false
 description: "Church building in Thuringia, Germany"
-region: "Ilmenau"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ilmenau"
+  - "Thuringia"
 wikidata_id: "Q2316182"
 latitude: 50.6858031
 longitude: 10.915215525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/400px-Ilmenau_Jakobuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/800px-Ilmenau_Jakobuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/1200px-Ilmenau_Jakobuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/1920px-Ilmenau_Jakobuskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/1920px-Ilmenau_Jakobuskirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Doppeleiche mit Gedenkstein"
 date: 2026-01-26
 draft: false
 description: "memorial in Glückstadt, Germany"
-region: "Glückstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Glückstadt"
+  - "Lower Saxony"
 wikidata_id: "Q1113534"
 latitude: 53.792233
 longitude: 9.425288
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG/400px-Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG/800px-Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG/1200px-Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG/1920px-Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG/1920px-Schleswig-Holstein,_Glückstadt,_Stadtpark_NIK_4880.JPG---
 
 ## Overview
 

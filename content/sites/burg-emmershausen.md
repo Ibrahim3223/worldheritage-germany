@@ -4,13 +4,13 @@ site_name: "Burg Emmershausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Emmershausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Emmershausen"
+  - "Hesse"
 wikidata_id: "Q1011616"
 latitude: 50.3645
 longitude: 8.37604
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/400px-Evangelische_Kirche_Emmershausen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/800px-Evangelische_Kirche_Emmershausen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/1200px-Evangelische_Kirche_Emmershausen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/1920px-Evangelische_Kirche_Emmershausen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/1920px-Evangelische_Kirche_Emmershausen.JPG---
 
 ## Overview
 

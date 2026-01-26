@@ -4,13 +4,13 @@ site_name: "Altarstein (Saxon Switzerland)"
 date: 2026-01-26
 draft: false
 description: "monument in Sebnitz, Germany"
-region: "Sebnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Sebnitz"
+  - "Saxony"
 wikidata_id: "Q434664"
 latitude: 50.892
 longitude: 14.3297
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Altarstein_2012-1.JPG/400px-Altarstein_2012-1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Altarstein_2012-1.JPG/800px-Altarstein_2012-1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Altarstein_2012-1.JPG/1200px-Altarstein_2012-1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Altarstein_2012-1.JPG/1920px-Altarstein_2012-1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Altarstein_2012-1.JPG/1920px-Altarstein_2012-1.JPG---
 
 ## Overview
 

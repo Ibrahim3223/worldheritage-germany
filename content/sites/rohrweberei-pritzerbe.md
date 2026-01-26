@@ -4,13 +4,13 @@ site_name: "Rohrweberei Pritzerbe"
 date: 2026-01-26
 draft: false
 description: "Handwerksbetrieb und Museum in Pritzerbe, Havelsee"
-region: "Pritzerbe"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pritzerbe"
+  - "Brandenburg"
 wikidata_id: "Q16856353"
 latitude: 52.49924
 longitude: 12.46434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rohrwebereipritzerbe1.JPG/400px-Rohrwebereipritzerbe1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rohrwebereipritzerbe1.JPG/800px-Rohrwebereipritzerbe1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rohrwebereipritzerbe1.JPG/1200px-Rohrwebereipritzerbe1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rohrwebereipritzerbe1.JPG/1920px-Rohrwebereipritzerbe1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rohrwebereipritzerbe1.JPG/1920px-Rohrwebereipritzerbe1.JPG---
 
 ## Overview
 

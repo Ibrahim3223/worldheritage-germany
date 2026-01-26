@@ -4,13 +4,13 @@ site_name: "Röhrenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2179441"
 latitude: 50.7773211
 longitude: 6.0886482
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Röhrenbrunnen,_Aachen.jpg/400px-Röhrenbrunnen,_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Röhrenbrunnen,_Aachen.jpg/800px-Röhrenbrunnen,_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Röhrenbrunnen,_Aachen.jpg/1200px-Röhrenbrunnen,_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Röhrenbrunnen,_Aachen.jpg/1920px-Röhrenbrunnen,_Aachen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Röhrenbrunnen,_Aachen.jpg/1920px-Röhrenbrunnen,_Aachen.jpg---
 
 ## Overview
 

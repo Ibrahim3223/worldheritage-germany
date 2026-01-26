@@ -4,13 +4,13 @@ site_name: "St. Anton (Passau)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q1284450"
 latitude: 48.569178
 longitude: 13.442801944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/400px-Pfarrkirche_St._Anton,_Passau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/800px-Pfarrkirche_St._Anton,_Passau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1200px-Pfarrkirche_St._Anton,_Passau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1920px-Pfarrkirche_St._Anton,_Passau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1920px-Pfarrkirche_St._Anton,_Passau.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rathaus Schrobenhausen"
 date: 2026-01-26
 draft: false
 description: "town hall in Schrobenhausen, Upper Bavaria, Germany"
-region: "Schrobenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Schrobenhausen"
+  - "Bavaria"
 wikidata_id: "Q41273090"
 latitude: 48.56135
 longitude: 11.26546
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/400px-Schrobenhausen,_urbodomo.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/800px-Schrobenhausen,_urbodomo.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/1200px-Schrobenhausen,_urbodomo.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/1920px-Schrobenhausen,_urbodomo.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/1920px-Schrobenhausen,_urbodomo.jpeg---
 
 ## Overview
 

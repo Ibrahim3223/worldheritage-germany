@@ -4,13 +4,13 @@ site_name: "Katholische Pfarrkirche St. Bonifaz"
 date: 2026-01-26
 draft: false
 description: "parish church"
-region: "Weißenohe"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weißenohe"
+  - "Bavaria"
 wikidata_id: "Q1421913"
 latitude: 49.6297
 longitude: 11.2533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/400px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/800px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/1200px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/1920px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/1920px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg---
 
 ## Overview
 

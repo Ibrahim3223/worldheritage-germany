@@ -4,13 +4,13 @@ site_name: "Lutherhaus Wittenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Wittenberg"
-region: "Lutherstadt Wittenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lutherstadt Wittenberg"
+  - "Brandenburg"
 wikidata_id: "Q459493"
 latitude: 51.8642
 longitude: 12.6525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lutherstadt_Wittenberg_09-2016_photo05.jpg/400px-Lutherstadt_Wittenberg_09-2016_photo05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lutherstadt_Wittenberg_09-2016_photo05.jpg/800px-Lutherstadt_Wittenberg_09-2016_photo05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lutherstadt_Wittenberg_09-2016_photo05.jpg/1200px-Lutherstadt_Wittenberg_09-2016_photo05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lutherstadt_Wittenberg_09-2016_photo05.jpg/1920px-Lutherstadt_Wittenberg_09-2016_photo05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lutherstadt_Wittenberg_09-2016_photo05.jpg/1920px-Lutherstadt_Wittenberg_09-2016_photo05.jpg---
 
 ## Overview
 

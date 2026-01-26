@@ -4,19 +4,18 @@ site_name: "Block Beuys"
 date: 2026-01-26
 draft: false
 description: "umfangreiche Installation des Künstlers Joseph Beuys"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q884661"
 latitude: 49.87523
 longitude: 8.65336
 images:
-  []
----
+  []---
 
 ## Overview
 

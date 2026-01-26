@@ -4,13 +4,13 @@ site_name: "Heinse-Haus in Langewiesen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Langewiesen"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Langewiesen"
+  - "Thuringia"
 wikidata_id: "Q20480753"
 latitude: 50.6712258
 longitude: 10.9741038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/400px-Langewiesen-heinse-geburtshaus-2013-001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/800px-Langewiesen-heinse-geburtshaus-2013-001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1200px-Langewiesen-heinse-geburtshaus-2013-001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1920px-Langewiesen-heinse-geburtshaus-2013-001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1920px-Langewiesen-heinse-geburtshaus-2013-001.JPG---
 
 ## Overview
 

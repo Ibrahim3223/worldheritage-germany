@@ -4,13 +4,13 @@ site_name: "Evangelische Kapelle (Klinikum Haar)"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Haar"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Haar"
+  - "Bavaria"
 wikidata_id: "Q1380251"
 latitude: 48.1165
 longitude: 11.7454
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/400px-Haar_BKH_Jesuskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/800px-Haar_BKH_Jesuskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/1200px-Haar_BKH_Jesuskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/1920px-Haar_BKH_Jesuskirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/1920px-Haar_BKH_Jesuskirche.JPG---
 
 ## Overview
 

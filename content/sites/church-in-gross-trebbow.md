@@ -4,13 +4,13 @@ site_name: "Church in Groß Trebbow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Klein Trebbow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Klein Trebbow"
+  - "Lower Saxony"
 wikidata_id: "Q1244338"
 latitude: 53.7087
 longitude: 11.3598
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/400px-Groß_Trebbow_Kirche_2013-03-02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/800px-Groß_Trebbow_Kirche_2013-03-02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1200px-Groß_Trebbow_Kirche_2013-03-02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1920px-Groß_Trebbow_Kirche_2013-03-02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1920px-Groß_Trebbow_Kirche_2013-03-02.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hadamar Euthanasia Centre"
 date: 2026-01-26
 draft: false
 description: "Nazi extermination centre in Hesse, Germany (1941-1945)"
-region: "Hadamar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hadamar"
+  - "Hesse"
 wikidata_id: "Q470564"
 latitude: 50.4508
 longitude: 8.04178
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/400px-Hadamar_012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/800px-Hadamar_012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1200px-Hadamar_012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1920px-Hadamar_012.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1920px-Hadamar_012.JPG---
 
 ## Overview
 

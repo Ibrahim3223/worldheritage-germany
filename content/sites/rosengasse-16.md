@@ -4,13 +4,13 @@ site_name: "Rosengasse 16"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Wetzlar, Hesse, Germany"
-region: "Wetzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wetzlar"
+  - "Hesse"
 wikidata_id: "Q47526838"
 latitude: 50.5534794
 longitude: 8.5019257
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/400px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/800px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/1200px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/1920px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/1920px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg---
 
 ## Overview
 

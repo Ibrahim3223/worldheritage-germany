@@ -4,13 +4,13 @@ site_name: "Town Hall of Bremen"
 date: 2026-01-26
 draft: false
 description: "seat of the President of the Senate and Mayor of the Free Hanseatic City of Bremen"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Rathaus"
 categories:
   - "Rathaus"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q19479"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/400px-Bremen_(27823097069).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/800px-Bremen_(27823097069).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/1200px-Bremen_(27823097069).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/1920px-Bremen_(27823097069).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/1920px-Bremen_(27823097069).jpg---
 
 ## Overview
 

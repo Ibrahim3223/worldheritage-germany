@@ -4,13 +4,13 @@ site_name: "Reitlingstal"
 date: 2026-01-26
 draft: false
 description: "valley in Lower Saxony, Germany"
-region: "Erkerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Erkerode"
+  - "Lower Saxony"
 wikidata_id: "Q968125"
 latitude: 52.2074
 longitude: 10.7491
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/400px-Reitlingstal_Erkerode.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/800px-Reitlingstal_Erkerode.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/1200px-Reitlingstal_Erkerode.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/1920px-Reitlingstal_Erkerode.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/1920px-Reitlingstal_Erkerode.jpg---
 
 ## Overview
 

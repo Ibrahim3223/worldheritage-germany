@@ -4,13 +4,13 @@ site_name: "Burg Fürstenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eschwege"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eschwege"
+  - "Hesse"
 wikidata_id: "Q1011891"
 latitude: 51.22559607
 longitude: 9.999172752
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Fuerstenstein_-_Ostseite.jpg/400px-Burg_Fuerstenstein_-_Ostseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Fuerstenstein_-_Ostseite.jpg/800px-Burg_Fuerstenstein_-_Ostseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Fuerstenstein_-_Ostseite.jpg/1200px-Burg_Fuerstenstein_-_Ostseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Fuerstenstein_-_Ostseite.jpg/1920px-Burg_Fuerstenstein_-_Ostseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Fuerstenstein_-_Ostseite.jpg/1920px-Burg_Fuerstenstein_-_Ostseite.jpg---
 
 ## Overview
 

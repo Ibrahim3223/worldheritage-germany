@@ -4,13 +4,13 @@ site_name: "Herrenalb Abbey"
 date: 2026-01-26
 draft: false
 description: "former abbey in Germany"
-region: "Bad Herrenalb"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Bad Herrenalb"
+  - "Baden-Württemberg"
 wikidata_id: "Q877810"
 latitude: 48.7962
 longitude: 8.4369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/400px-Bad-herrenalb-1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/800px-Bad-herrenalb-1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/1200px-Bad-herrenalb-1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/1920px-Bad-herrenalb-1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/1920px-Bad-herrenalb-1900.jpg---
 
 ## Overview
 

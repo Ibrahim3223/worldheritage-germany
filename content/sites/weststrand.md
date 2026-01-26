@@ -4,13 +4,13 @@ site_name: "Weststrand"
 date: 2026-01-26
 draft: false
 description: "Strand in List auf Sylt"
-region: "List auf Sylt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "List auf Sylt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q117033591"
 latitude: 55.04
 longitude: 8.386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-180.jpg---
 
 ## Overview
 

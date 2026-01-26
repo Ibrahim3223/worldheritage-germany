@@ -4,13 +4,13 @@ site_name: "SS. Peter and Paul's Church, Göttingen"
 date: 2026-01-26
 draft: false
 description: "former church in Göttingen"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q1290262"
 latitude: 51.533783333
 longitude: 9.932016666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/400px-Paulinerkirche_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/800px-Paulinerkirche_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/1200px-Paulinerkirche_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/1920px-Paulinerkirche_Göttingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/1920px-Paulinerkirche_Göttingen.jpg---
 
 ## Overview
 

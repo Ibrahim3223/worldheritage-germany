@@ -4,13 +4,13 @@ site_name: "Lorenkenturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Dülmen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Dülmen"
+  - "Lower Saxony"
 wikidata_id: "Q1278133"
 latitude: 51.8315
 longitude: 7.27861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/400px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/800px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/1200px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/1920px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/1920px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg---
 
 ## Overview
 

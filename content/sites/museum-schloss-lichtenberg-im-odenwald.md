@@ -4,19 +4,18 @@ site_name: "Museum Schloß Lichtenberg im Odenwald"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fischbachtal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fischbachtal"
+  - "Baden-Württemberg"
 wikidata_id: "Q76633857"
 latitude: 49.7725
 longitude: 8.809694444
 images:
-  []
----
+  []---
 
 ## Overview
 

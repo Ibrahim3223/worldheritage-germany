@@ -4,13 +4,13 @@ site_name: "Palais Schaumburg"
 date: 2026-01-26
 draft: false
 description: "government office in Bonn"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q652402"
 latitude: 50.720233
 longitude: 7.117361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/400px-Bonn,_Palais_Schaumburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/800px-Bonn,_Palais_Schaumburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/1200px-Bonn,_Palais_Schaumburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/1920px-Bonn,_Palais_Schaumburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/1920px-Bonn,_Palais_Schaumburg.jpg---
 
 ## Overview
 

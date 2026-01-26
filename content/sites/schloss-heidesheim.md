@@ -4,13 +4,13 @@ site_name: "Schloss Heidesheim"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Deutschland"
-region: "Obrigheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Obrigheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q27927874"
 latitude: 49.583886
 longitude: 8.196169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/400px-Heidesheim_Schlosseingang_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/800px-Heidesheim_Schlosseingang_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/1200px-Heidesheim_Schlosseingang_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/1920px-Heidesheim_Schlosseingang_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/1920px-Heidesheim_Schlosseingang_1.JPG---
 
 ## Overview
 

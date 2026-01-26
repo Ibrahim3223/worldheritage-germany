@@ -4,13 +4,13 @@ site_name: "Golden Madonna of Essen"
 date: 2026-01-26
 draft: false
 description: "sculpture of the Virgin Mary and the infant Jesus in Essen Cathedral, Germany"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q670031"
 latitude: 51.45583333
 longitude: 7.01361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/400px-Goldene-Madonna-Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/800px-Goldene-Madonna-Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/1200px-Goldene-Madonna-Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/1920px-Goldene-Madonna-Essen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/1920px-Goldene-Madonna-Essen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Abbey of Saint Peter in the Black Forest"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Oberamt Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Oberamt Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q720757"
 latitude: 48.0166
 longitude: 8.0325
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/400px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/800px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/1200px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/1920px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/1920px-Sankt-Peter-Klosterkirche-2005-08-28.jpg---
 
 ## Overview
 

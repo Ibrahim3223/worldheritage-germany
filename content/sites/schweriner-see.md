@@ -4,13 +4,13 @@ site_name: "Schweriner See"
 date: 2026-01-26
 draft: false
 description: "lake in Nordwestmecklenburg District, Mecklenburg-Vorpommern, Germany"
-region: "Nordwestmecklenburg District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Nordwestmecklenburg District"
+  - "Lower Saxony"
 wikidata_id: "Q311217"
 latitude: 53.716666666
 longitude: 11.466666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/400px-Schwerin_Schloss_-_See_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/800px-Schwerin_Schloss_-_See_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/1200px-Schwerin_Schloss_-_See_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/1920px-Schwerin_Schloss_-_See_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/1920px-Schwerin_Schloss_-_See_1.jpg---
 
 ## Overview
 

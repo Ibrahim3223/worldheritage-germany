@@ -4,13 +4,13 @@ site_name: "Schillerhaus"
 date: 2026-01-26
 draft: false
 description: "building in Leipzig, Germany"
-region: "Gohlis"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gohlis"
+  - "Saxony"
 wikidata_id: "Q1377395"
 latitude: 51.3588
 longitude: 12.3628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/400px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/800px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/1200px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/1920px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/1920px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg---
 
 ## Overview
 

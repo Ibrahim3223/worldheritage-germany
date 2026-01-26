@@ -4,19 +4,18 @@ site_name: "Orgelbaumuseum Klosterhäseler"
 date: 2026-01-26
 draft: false
 description: "museum in Klosterhäseler, Germany"
-region: "An der Poststraße"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "An der Poststraße"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1344151"
 latitude: 51.162561
 longitude: 11.6112
 images:
-  []
----
+  []---
 
 ## Overview
 

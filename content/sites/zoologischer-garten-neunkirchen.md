@@ -4,13 +4,13 @@ site_name: "Zoologischer Garten Neunkirchen"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Neunkirchen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Neunkirchen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q220259"
 latitude: 49.3453
 longitude: 7.20583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/400px-Eingang_Zoo_NK.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/800px-Eingang_Zoo_NK.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/1200px-Eingang_Zoo_NK.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/1920px-Eingang_Zoo_NK.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/1920px-Eingang_Zoo_NK.JPG---
 
 ## Overview
 

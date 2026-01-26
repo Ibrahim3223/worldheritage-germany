@@ -4,13 +4,13 @@ site_name: "Dat ole Huus"
 date: 2026-01-26
 draft: false
 description: "museum in Wilsede, Lower Saxony"
-region: "Bispingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bispingen"
+  - "Lower Saxony"
 wikidata_id: "Q1172158"
 latitude: 53.1641
 longitude: 9.96034
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/400px-2015_Wilsede_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/800px-2015_Wilsede_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/1200px-2015_Wilsede_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/1920px-2015_Wilsede_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/1920px-2015_Wilsede_10.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Westflügel Leipzig"
 date: 2026-01-26
 draft: false
 description: "theater in Leipzig, Germany"
-region: "Lindenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Lindenau"
+  - "Saxony"
 wikidata_id: "Q1556750"
 latitude: 51.3319
 longitude: 12.3341
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/400px-Theater_in_Haehnelstraße,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/800px-Theater_in_Haehnelstraße,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/1200px-Theater_in_Haehnelstraße,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/1920px-Theater_in_Haehnelstraße,_Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/1920px-Theater_in_Haehnelstraße,_Leipzig.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6020-0216 in Großostheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Großostheim, Aschaffenburg, Lower Franconia, Bavaria, Germany"
-region: "Großostheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Großostheim"
+  - "Bavaria"
 wikidata_id: "Q98169777"
 latitude: 49.908754322
 longitude: 9.058104634
 images:
-  []
----
+  []---
 
 ## Overview
 

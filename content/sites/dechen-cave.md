@@ -4,13 +4,13 @@ site_name: "Dechen Cave"
 date: 2026-01-26
 draft: false
 description: "show cave in Germany"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q11326"
 latitude: 51.365555555
 longitude: 7.644722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/400px-Dechenhöhle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/800px-Dechenhöhle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1200px-Dechenhöhle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1920px-Dechenhöhle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1920px-Dechenhöhle.JPG---
 
 ## Overview
 

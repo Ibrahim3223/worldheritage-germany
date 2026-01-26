@@ -4,13 +4,13 @@ site_name: "Bustedter Holz"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Herford district, North Rhine-Westphalia, Germany"
-region: "Bünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bünde"
+  - "Lower Saxony"
 wikidata_id: "Q1017749"
 latitude: 52.1752
 longitude: 8.60242
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Bustedt_5.JPG/400px-Naturschutzgebiet_Bustedt_5.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Bustedt_5.JPG/800px-Naturschutzgebiet_Bustedt_5.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Bustedt_5.JPG/1200px-Naturschutzgebiet_Bustedt_5.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Bustedt_5.JPG/1920px-Naturschutzgebiet_Bustedt_5.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Bustedt_5.JPG/1920px-Naturschutzgebiet_Bustedt_5.JPG---
 
 ## Overview
 

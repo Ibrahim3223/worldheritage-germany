@@ -4,19 +4,18 @@ site_name: "Burg Friedewalde"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Petershagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Petershagen"
+  - "Lower Saxony"
 wikidata_id: "Q1011861"
 latitude: 52.35
 longitude: 8.85
 images:
-  []
----
+  []---
 
 ## Overview
 

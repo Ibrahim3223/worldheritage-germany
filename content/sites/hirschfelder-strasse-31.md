@@ -4,19 +4,18 @@ site_name: "Hirschfelder Straße 31"
 date: 2026-01-26
 draft: false
 description: "Upper Lusatian house in Dittelsdorf"
-region: "Zittau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zittau"
+  - "Saxony"
 wikidata_id: "Q49363308"
 latitude: 50.953286
 longitude: 14.877583
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Oker Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Goslar district"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Goslar district"
+  - "Lower Saxony"
 wikidata_id: "Q896437"
 latitude: 51.851163
 longitude: 10.4579072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/400px-Vorsperre-Okertalsperre2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/800px-Vorsperre-Okertalsperre2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/1200px-Vorsperre-Okertalsperre2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/1920px-Vorsperre-Okertalsperre2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/1920px-Vorsperre-Okertalsperre2.JPG---
 
 ## Overview
 

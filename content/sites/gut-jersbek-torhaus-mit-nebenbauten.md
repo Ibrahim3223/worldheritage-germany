@@ -4,13 +4,13 @@ site_name: "Gut Jersbek: Torhaus mit Nebenbauten"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Jersbek, Schleswig-Holstein"
-region: "Jersbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Jersbek"
+  - "Hamburg"
 wikidata_id: "Q58400653"
 latitude: 53.741417
 longitude: 10.222038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg/400px-Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg/800px-Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg/1200px-Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg/1920px-Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg/1920px-Gut_Jersbek_(Jersbek).Torhaus.1.ajb.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Dünsberg"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Biebertal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Biebertal"
+  - "Hesse"
 wikidata_id: "Q1407040"
 latitude: 50.6508
 longitude: 8.58033
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fernmeldeturm_Dünsberg_(001).JPG/400px-Fernmeldeturm_Dünsberg_(001).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fernmeldeturm_Dünsberg_(001).JPG/800px-Fernmeldeturm_Dünsberg_(001).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fernmeldeturm_Dünsberg_(001).JPG/1200px-Fernmeldeturm_Dünsberg_(001).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fernmeldeturm_Dünsberg_(001).JPG/1920px-Fernmeldeturm_Dünsberg_(001).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fernmeldeturm_Dünsberg_(001).JPG/1920px-Fernmeldeturm_Dünsberg_(001).JPG---
 
 ## Overview
 

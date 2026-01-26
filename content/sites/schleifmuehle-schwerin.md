@@ -4,13 +4,13 @@ site_name: "Schleifmühle Schwerin"
 date: 2026-01-26
 draft: false
 description: "Grinding mill in Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q2238882"
 latitude: 53.6177
 longitude: 11.4191
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/400px-Schleifmühle_Schwerin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/800px-Schleifmühle_Schwerin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/1200px-Schleifmühle_Schwerin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/1920px-Schleifmühle_Schwerin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/1920px-Schleifmühle_Schwerin.jpg---
 
 ## Overview
 

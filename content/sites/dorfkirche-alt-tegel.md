@@ -4,13 +4,13 @@ site_name: "Dorfkirche Alt-Tegel"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q1244081"
 latitude: 52.5881
 longitude: 13.2772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/400px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/800px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1200px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1920px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1920px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg---
 
 ## Overview
 

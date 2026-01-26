@@ -4,19 +4,18 @@ site_name: "Amalia Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169650"
 latitude: 51.5006
 longitude: 7.30565
 images:
-  []
----
+  []---
 
 ## Overview
 

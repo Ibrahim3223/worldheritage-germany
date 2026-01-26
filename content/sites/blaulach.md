@@ -4,13 +4,13 @@ site_name: "Blaulach"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q882952"
 latitude: 48.5333
 longitude: 9.11864
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NSG_Blaulach_IMG_4685_by_Vux.JPG/400px-NSG_Blaulach_IMG_4685_by_Vux.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NSG_Blaulach_IMG_4685_by_Vux.JPG/800px-NSG_Blaulach_IMG_4685_by_Vux.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NSG_Blaulach_IMG_4685_by_Vux.JPG/1200px-NSG_Blaulach_IMG_4685_by_Vux.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NSG_Blaulach_IMG_4685_by_Vux.JPG/1920px-NSG_Blaulach_IMG_4685_by_Vux.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NSG_Blaulach_IMG_4685_by_Vux.JPG/1920px-NSG_Blaulach_IMG_4685_by_Vux.JPG---
 
 ## Overview
 

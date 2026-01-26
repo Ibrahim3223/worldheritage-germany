@@ -4,13 +4,13 @@ site_name: "Amiraplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Altstadt-Lehel, Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q472161"
 latitude: 48.1428
 longitude: 11.5753
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amiraplatz1_Muenchen-01.jpg/400px-Amiraplatz1_Muenchen-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amiraplatz1_Muenchen-01.jpg/800px-Amiraplatz1_Muenchen-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amiraplatz1_Muenchen-01.jpg/1200px-Amiraplatz1_Muenchen-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amiraplatz1_Muenchen-01.jpg/1920px-Amiraplatz1_Muenchen-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amiraplatz1_Muenchen-01.jpg/1920px-Amiraplatz1_Muenchen-01.jpg---
 
 ## Overview
 

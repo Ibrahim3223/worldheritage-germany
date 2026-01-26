@@ -4,13 +4,13 @@ site_name: "Gut Eckhof"
 date: 2026-01-26
 draft: false
 description: "Gut in der Gemeinde Strande im Kreis Rendsburg-Eckernförde in Schleswig-Holstein."
-region: "Strande"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Strande"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1261381"
 latitude: 54.4354
 longitude: 10.1529
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/400px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/800px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/1200px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/1920px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/1920px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg---
 
 ## Overview
 

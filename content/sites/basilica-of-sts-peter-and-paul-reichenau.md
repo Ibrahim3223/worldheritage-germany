@@ -4,13 +4,13 @@ site_name: "Basilica of Sts. Peter and Paul, Reichenau"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Reichenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reichenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q875916"
 latitude: 47.70689
 longitude: 9.04422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/400px-Niederzell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/800px-Niederzell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1200px-Niederzell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1920px-Niederzell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1920px-Niederzell.jpg---
 
 ## Overview
 

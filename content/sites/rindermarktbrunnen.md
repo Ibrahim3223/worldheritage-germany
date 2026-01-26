@@ -4,13 +4,13 @@ site_name: "Rindermarktbrunnen"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q178427"
 latitude: 48.1361
 longitude: 11.5742
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/400px-Rindermarktbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/800px-Rindermarktbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/1200px-Rindermarktbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/1920px-Rindermarktbrunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/1920px-Rindermarktbrunnen.jpg---
 
 ## Overview
 

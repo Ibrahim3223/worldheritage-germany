@@ -4,13 +4,13 @@ site_name: "Burg Limberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Preußisch Oldendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Preußisch Oldendorf"
+  - "Lower Saxony"
 wikidata_id: "Q1012960"
 latitude: 52.2803
 longitude: 8.50833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Limberg3.jpg/400px-Burg_Limberg3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Limberg3.jpg/800px-Burg_Limberg3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Limberg3.jpg/1200px-Burg_Limberg3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Limberg3.jpg/1920px-Burg_Limberg3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Limberg3.jpg/1920px-Burg_Limberg3.jpg---
 
 ## Overview
 

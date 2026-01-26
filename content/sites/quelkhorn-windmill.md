@@ -4,13 +4,13 @@ site_name: "Quelkhorn windmill"
 date: 2026-01-26
 draft: false
 description: "windmill in Lower Saxony"
-region: "Ottersberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Ottersberg"
+  - "Lower Saxony"
 wikidata_id: "Q136479512"
 latitude: 53.13664
 longitude: 9.07698
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/400px-QuelkhornerMuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/800px-QuelkhornerMuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/1200px-QuelkhornerMuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/1920px-QuelkhornerMuehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/1920px-QuelkhornerMuehle.jpg---
 
 ## Overview
 

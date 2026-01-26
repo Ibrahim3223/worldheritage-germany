@@ -4,13 +4,13 @@ site_name: "Mosque of Wesseling"
 date: 2026-01-26
 draft: false
 description: "Moschee in Deutschland"
-region: "Wesseling"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Wesseling"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1948935"
 latitude: 50.83
 longitude: 6.96556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/400px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/800px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/1200px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/1920px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/1920px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg---
 
 ## Overview
 

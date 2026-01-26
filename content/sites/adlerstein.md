@@ -4,13 +4,13 @@ site_name: "Adlerstein"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Ernsbach-Erbuch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Ernsbach-Erbuch"
+  - "Baden-Württemberg"
 wikidata_id: "Q358490"
 latitude: 49.6435
 longitude: 9.06016
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/400px-Adlerstein_Wuerzberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/800px-Adlerstein_Wuerzberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/1200px-Adlerstein_Wuerzberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/1920px-Adlerstein_Wuerzberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/1920px-Adlerstein_Wuerzberg.jpg---
 
 ## Overview
 

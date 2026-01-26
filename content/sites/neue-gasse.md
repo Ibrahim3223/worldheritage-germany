@@ -4,13 +4,13 @@ site_name: "Neue Gasse"
 date: 2026-01-26
 draft: false
 description: "street in Ellingen, Germany"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q15122708"
 latitude: 49.0597503
 longitude: 10.966982
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ellingen_Neue_Gasse_24.JPG/400px-Ellingen_Neue_Gasse_24.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ellingen_Neue_Gasse_24.JPG/800px-Ellingen_Neue_Gasse_24.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ellingen_Neue_Gasse_24.JPG/1200px-Ellingen_Neue_Gasse_24.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ellingen_Neue_Gasse_24.JPG/1920px-Ellingen_Neue_Gasse_24.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ellingen_Neue_Gasse_24.JPG/1920px-Ellingen_Neue_Gasse_24.JPG---
 
 ## Overview
 

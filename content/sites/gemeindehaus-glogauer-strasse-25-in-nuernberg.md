@@ -4,13 +4,13 @@ site_name: "Gemeindehaus Glogauer Straße 25 in Nürnberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-64-000-2458 (3) in Nürnberg, Bavaria"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q98629015"
 latitude: 49.402714759
 longitude: 11.137034371
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/400px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/800px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/1200px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/1920px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/1920px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg---
 
 ## Overview
 

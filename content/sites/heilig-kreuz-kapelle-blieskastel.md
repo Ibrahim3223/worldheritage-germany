@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kapelle (Blieskastel)"
 date: 2026-01-26
 draft: false
 description: "chapel in Blieskastel, Germany"
-region: "Blieskastel"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Blieskastel"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1594913"
 latitude: 49.2408
 longitude: 7.25877
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/400px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/800px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/1200px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/1920px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/1920px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG---
 
 ## Overview
 

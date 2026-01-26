@@ -4,13 +4,13 @@ site_name: "Windmühle Westervesede"
 date: 2026-01-26
 draft: false
 description: "building in Scheeßel"
-region: "Scheeßel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Scheeßel"
+  - "Lower Saxony"
 wikidata_id: "Q136296412"
 latitude: 53.150438
 longitude: 9.55859
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/400px-Westervesede_-_Holländer_Windmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/800px-Westervesede_-_Holländer_Windmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/1200px-Westervesede_-_Holländer_Windmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/1920px-Westervesede_-_Holländer_Windmühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/1920px-Westervesede_-_Holländer_Windmühle.jpg---
 
 ## Overview
 

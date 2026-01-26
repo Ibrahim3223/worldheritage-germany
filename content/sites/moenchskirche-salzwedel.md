@@ -4,13 +4,13 @@ site_name: "Mönchskirche (Salzwedel)"
 date: 2026-01-26
 draft: false
 description: "church building in Salzwedel, Saxony-Anhalt, Germany"
-region: "Salzwedel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Salzwedel"
+  - "Lower Saxony"
 wikidata_id: "Q1958017"
 latitude: 52.8515
 longitude: 11.1531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/400px-Mönchskirche_Mantis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/800px-Mönchskirche_Mantis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/1200px-Mönchskirche_Mantis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/1920px-Mönchskirche_Mantis.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/1920px-Mönchskirche_Mantis.jpg---
 
 ## Overview
 

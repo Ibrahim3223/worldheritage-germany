@@ -4,13 +4,13 @@ site_name: "Villa Wessel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q2525907"
 latitude: 51.3783
 longitude: 7.69972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/400px-Iserlohn-VillaWessel1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/800px-Iserlohn-VillaWessel1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/1200px-Iserlohn-VillaWessel1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/1920px-Iserlohn-VillaWessel1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/1920px-Iserlohn-VillaWessel1-Asio.JPG---
 
 ## Overview
 

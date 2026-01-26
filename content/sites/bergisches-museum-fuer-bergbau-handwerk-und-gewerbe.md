@@ -4,13 +4,13 @@ site_name: "Bergisches Museum für Bergbau, Handwerk und Gewerbe"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bergisch Gladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bergisch Gladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q819858"
 latitude: 50.9649
 longitude: 7.16458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/400px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/800px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/1200px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/1920px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/1920px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg---
 
 ## Overview
 

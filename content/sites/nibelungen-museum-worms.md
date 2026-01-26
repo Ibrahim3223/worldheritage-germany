@@ -4,13 +4,13 @@ site_name: "Nibelungen Museum Worms"
 date: 2026-01-26
 draft: false
 description: "museum in Worms"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q1465938"
 latitude: 49.6294
 longitude: 8.36703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nibelungenmuseum_Worms.jpg/400px-Nibelungenmuseum_Worms.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nibelungenmuseum_Worms.jpg/800px-Nibelungenmuseum_Worms.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nibelungenmuseum_Worms.jpg/1200px-Nibelungenmuseum_Worms.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nibelungenmuseum_Worms.jpg/1920px-Nibelungenmuseum_Worms.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nibelungenmuseum_Worms.jpg/1920px-Nibelungenmuseum_Worms.jpg---
 
 ## Overview
 

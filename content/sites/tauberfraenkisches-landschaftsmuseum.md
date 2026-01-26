@@ -4,13 +4,13 @@ site_name: "Tauberfränkisches Landschaftsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tauberbischofsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tauberbischofsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q31836093"
 latitude: 49.6212952
 longitude: 9.6613139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg/400px-Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg/800px-Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg/1200px-Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg/1920px-Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg/1920px-Kurmainzisches_Schloss_Tauberbischofsheim_mit_Türmersturm_und_Tauberfränkischem_Landschaftsmuseum_11.jpg---
 
 ## Overview
 

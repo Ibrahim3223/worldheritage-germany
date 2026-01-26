@@ -4,13 +4,13 @@ site_name: "Johanneskirche (Untergruppenbach)"
 date: 2026-01-26
 draft: false
 description: "church building in Baden-Württemberg, Germany"
-region: "Untergruppenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Untergruppenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1698862"
 latitude: 49.0895
 longitude: 9.27436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/400px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/800px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/1200px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/1920px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/1920px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG---
 
 ## Overview
 

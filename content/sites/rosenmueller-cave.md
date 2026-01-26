@@ -4,13 +4,13 @@ site_name: "Rosenmüller Cave"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Wiesenttal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Wiesenttal"
+  - "Bavaria"
 wikidata_id: "Q1268332"
 latitude: 49.80794564
 longitude: 11.259277486
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016_Rosenmüllerhöhle_04.jpg/400px-2016_Rosenmüllerhöhle_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016_Rosenmüllerhöhle_04.jpg/800px-2016_Rosenmüllerhöhle_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016_Rosenmüllerhöhle_04.jpg/1200px-2016_Rosenmüllerhöhle_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016_Rosenmüllerhöhle_04.jpg/1920px-2016_Rosenmüllerhöhle_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016_Rosenmüllerhöhle_04.jpg/1920px-2016_Rosenmüllerhöhle_04.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ostholstein-Museum Eutin"
 date: 2026-01-26
 draft: false
 description: "art museum"
-region: "Eutin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Eutin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1552914"
 latitude: 54.1376
 longitude: 10.6185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/400px-Eutin_-_Ostholstein-Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/800px-Eutin_-_Ostholstein-Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/1200px-Eutin_-_Ostholstein-Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/1920px-Eutin_-_Ostholstein-Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/1920px-Eutin_-_Ostholstein-Museum.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Laura concentration camp"
 date: 2026-01-26
 draft: false
 description: "KZ zur Fertigung von Raketentriebwerken bei Lehesten"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1719283"
 latitude: 51.2667
 longitude: 10.516699
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KZ-Gedenkstätte_Laura_x2.JPG/400px-KZ-Gedenkstätte_Laura_x2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KZ-Gedenkstätte_Laura_x2.JPG/800px-KZ-Gedenkstätte_Laura_x2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KZ-Gedenkstätte_Laura_x2.JPG/1200px-KZ-Gedenkstätte_Laura_x2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KZ-Gedenkstätte_Laura_x2.JPG/1920px-KZ-Gedenkstätte_Laura_x2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KZ-Gedenkstätte_Laura_x2.JPG/1920px-KZ-Gedenkstätte_Laura_x2.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bayreuth State Gallery"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q37823940"
 latitude: 49.942046634
 longitude: 11.577286209
 images:
-  []
----
+  []---
 
 ## Overview
 

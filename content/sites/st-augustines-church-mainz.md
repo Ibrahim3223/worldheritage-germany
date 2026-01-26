@@ -4,13 +4,13 @@ site_name: "St. Augustine's church (Mainz)"
 date: 2026-01-26
 draft: false
 description: "church in Germany"
-region: "Altstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt"
+  - "Hesse"
 wikidata_id: "Q76886"
 latitude: 49.997136
 longitude: 8.274825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/400px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/800px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/1200px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/1920px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/1920px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg---
 
 ## Overview
 

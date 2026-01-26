@@ -4,13 +4,13 @@ site_name: "Glasmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Immenhausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Immenhausen"
+  - "Hesse"
 wikidata_id: "Q1273976"
 latitude: 51.4274
 longitude: 9.4656
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/400px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/800px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/1200px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/1920px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/1920px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg---
 
 ## Overview
 

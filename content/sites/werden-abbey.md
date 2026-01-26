@@ -4,13 +4,13 @@ site_name: "Werden Abbey"
 date: 2026-01-26
 draft: false
 description: "former Benedictine abbey in Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q688373"
 latitude: 51.38806
 longitude: 7.00472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/400px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/800px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1200px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1920px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1920px-Essen_Kloster_Werden_Innenhof_2_2005.jpg---
 
 ## Overview
 

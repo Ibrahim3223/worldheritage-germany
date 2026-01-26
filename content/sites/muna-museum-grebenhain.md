@@ -4,13 +4,13 @@ site_name: "Muna-Museum Grebenhain"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Grebenhain"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grebenhain"
+  - "Bavaria"
 wikidata_id: "Q14404747"
 latitude: 50.4717
 longitude: 9.3175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alte_Schule_Bermuthshain1.JPG/400px-Alte_Schule_Bermuthshain1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alte_Schule_Bermuthshain1.JPG/800px-Alte_Schule_Bermuthshain1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alte_Schule_Bermuthshain1.JPG/1200px-Alte_Schule_Bermuthshain1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alte_Schule_Bermuthshain1.JPG/1920px-Alte_Schule_Bermuthshain1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alte_Schule_Bermuthshain1.JPG/1920px-Alte_Schule_Bermuthshain1.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bomann-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q891746"
 latitude: 52.6242
 longitude: 10.0796
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/400px-Celle_Bomann-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/800px-Celle_Bomann-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/1200px-Celle_Bomann-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/1920px-Celle_Bomann-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/1920px-Celle_Bomann-Museum.jpg---
 
 ## Overview
 

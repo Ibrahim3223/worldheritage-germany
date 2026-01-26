@@ -4,13 +4,13 @@ site_name: "Teufelsküche"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Ehrenkirchen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Ehrenkirchen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1248208"
 latitude: 47.91888889
 longitude: 7.76666667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Teufelsküche_(Gütighofen).jpg/400px-Teufelsküche_(Gütighofen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Teufelsküche_(Gütighofen).jpg/800px-Teufelsküche_(Gütighofen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Teufelsküche_(Gütighofen).jpg/1200px-Teufelsküche_(Gütighofen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Teufelsküche_(Gütighofen).jpg/1920px-Teufelsküche_(Gütighofen).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Teufelsküche_(Gütighofen).jpg/1920px-Teufelsküche_(Gütighofen).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ehrenfriedhof Kastel"
 date: 2026-01-26
 draft: false
 description: "cemetery in Kastel-Staadt, Germany"
-region: "Kastel-Staadt"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Kastel-Staadt"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q120256"
 latitude: 49.5674
 longitude: 6.57101
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ehrenfriedhofkastel.jpg/400px-Ehrenfriedhofkastel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ehrenfriedhofkastel.jpg/800px-Ehrenfriedhofkastel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ehrenfriedhofkastel.jpg/1200px-Ehrenfriedhofkastel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ehrenfriedhofkastel.jpg/1920px-Ehrenfriedhofkastel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ehrenfriedhofkastel.jpg/1920px-Ehrenfriedhofkastel.jpg---
 
 ## Overview
 

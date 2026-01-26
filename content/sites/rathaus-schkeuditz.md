@@ -4,13 +4,13 @@ site_name: "Rathaus Schkeuditz"
 date: 2026-01-26
 draft: false
 description: "town hall in Schkeuditz, Saxony, Germany"
-region: "Schkeuditz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Schkeuditz"
+  - "Saxony"
 wikidata_id: "Q49470920"
 latitude: 51.395829823
 longitude: 12.221883924
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schkeuditz_Rathaus.jpg/400px-Schkeuditz_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schkeuditz_Rathaus.jpg/800px-Schkeuditz_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schkeuditz_Rathaus.jpg/1200px-Schkeuditz_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schkeuditz_Rathaus.jpg/1920px-Schkeuditz_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schkeuditz_Rathaus.jpg/1920px-Schkeuditz_Rathaus.jpg---
 
 ## Overview
 

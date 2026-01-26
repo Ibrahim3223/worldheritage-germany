@@ -4,13 +4,13 @@ site_name: "Daniel-Pöppelmann-Haus"
 date: 2026-01-26
 draft: false
 description: "German Museum in Herford"
-region: "Herford"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Herford"
+  - "Lower Saxony"
 wikidata_id: "Q1159841"
 latitude: 52.1153
 longitude: 8.66345
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2010-02-04_Herford_037.jpg/400px-2010-02-04_Herford_037.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2010-02-04_Herford_037.jpg/800px-2010-02-04_Herford_037.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2010-02-04_Herford_037.jpg/1200px-2010-02-04_Herford_037.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2010-02-04_Herford_037.jpg/1920px-2010-02-04_Herford_037.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2010-02-04_Herford_037.jpg/1920px-2010-02-04_Herford_037.jpg---
 
 ## Overview
 

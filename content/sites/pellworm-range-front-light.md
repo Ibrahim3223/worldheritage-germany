@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Unterfeuer_Pellworm.jpg/400px-Unterfeuer_Pellworm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Unterfeuer_Pellworm.jpg/800px-Unterfeuer_Pellworm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Unterfeuer_Pellworm.jpg/1200px-Unterfeuer_Pellworm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Unterfeuer_Pellworm.jpg/1920px-Unterfeuer_Pellworm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Unterfeuer_Pellworm.jpg/1920px-Unterfeuer_Pellworm.jpg---
 
 ## Overview
 

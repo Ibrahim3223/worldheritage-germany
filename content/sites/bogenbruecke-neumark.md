@@ -4,19 +4,18 @@ site_name: "Bogenbrücke Neumark"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Neumark"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Neumark"
+  - "Saxony"
 wikidata_id: "Q49439967"
 latitude: 50.656738
 longitude: 12.354151
 images:
-  []
----
+  []---
 
 ## Overview
 

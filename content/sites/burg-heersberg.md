@@ -4,13 +4,13 @@ site_name: "Burg Heersberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lautlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lautlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012243"
 latitude: 48.2226
 longitude: 8.95145
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/400px-Neuentierberg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/800px-Neuentierberg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/1200px-Neuentierberg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/1920px-Neuentierberg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/1920px-Neuentierberg_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum für Puppentheaterkultur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Kreuznach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Kreuznach"
+  - "Hesse"
 wikidata_id: "Q1954669"
 latitude: 49.8461
 longitude: 7.84713
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg/400px-PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg/800px-PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg/1200px-PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg/1920px-PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg/1920px-PuK_PuppentheaterKultur_Museen_im_Rittergut_Bangert_Bad_Kreuznach.jpg---
 
 ## Overview
 

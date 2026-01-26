@@ -4,13 +4,13 @@ site_name: "Museum Küppersmühle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Duisburg-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Duisburg-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q768242"
 latitude: 51.4411
 longitude: 6.775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/400px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/800px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/1200px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/1920px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/1920px-Museum_Küppersmühle_Duisburg_-_Silos.jpg---
 
 ## Overview
 

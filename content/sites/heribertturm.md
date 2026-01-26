@@ -4,13 +4,13 @@ site_name: "Heribertturm"
 date: 2026-01-26
 draft: false
 description: "tower in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1377430"
 latitude: 50.3597
 longitude: 7.61293
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/400px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/800px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/1200px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/1920px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/1920px-Heribertturm_Ehrenbreitstein_Ansicht.jpg---
 
 ## Overview
 

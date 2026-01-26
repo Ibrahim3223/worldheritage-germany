@@ -4,13 +4,13 @@ site_name: "St. Cäcilia"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Benrath, Germany"
-region: "Benrath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Benrath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317958"
 latitude: 51.1631
 longitude: 6.87393
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/400px-St._Cäcilia_Benrath.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/800px-St._Cäcilia_Benrath.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/1200px-St._Cäcilia_Benrath.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/1920px-St._Cäcilia_Benrath.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/1920px-St._Cäcilia_Benrath.JPG---
 
 ## Overview
 

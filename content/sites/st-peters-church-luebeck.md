@@ -4,13 +4,13 @@ site_name: "St. Peter's Church (Lübeck)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q896458"
 latitude: 53.8658
 longitude: 10.6833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg/400px-Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg/800px-Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg/1200px-Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg/1920px-Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg/1920px-Aerial_image_of_St._Peter's_Church,_Lübeck_(view_from_the_southwest).jpg---
 
 ## Overview
 

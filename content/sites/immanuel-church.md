@@ -4,13 +4,13 @@ site_name: "Immanuel Church"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1659952"
 latitude: 52.5333
 longitude: 13.4211
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/400px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/800px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1200px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1920px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1920px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Ernst-Rietschel-Kulturring"
 date: 2026-01-26
 draft: false
 description: "Association for the Promotion of Fine Arts and Culture in General and the Preservation of Ernst Rietschel's Heritage"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q132396092"
 latitude: 51.18218
 longitude: 14.011162
 images:
-  []
----
+  []---
 
 ## Overview
 

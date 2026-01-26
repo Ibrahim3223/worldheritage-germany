@@ -4,13 +4,13 @@ site_name: "Chemnitz Botanical Garden"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Germany"
-region: "Altendorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Altendorf"
+  - "Saxony"
 wikidata_id: "Q833862"
 latitude: 50.8502675
 longitude: 12.8902626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/400px-Chemnitz-Botanischer-Garten2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/800px-Chemnitz-Botanischer-Garten2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/1200px-Chemnitz-Botanischer-Garten2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/1920px-Chemnitz-Botanischer-Garten2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/1920px-Chemnitz-Botanischer-Garten2.jpg---
 
 ## Overview
 

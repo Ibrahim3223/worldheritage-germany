@@ -4,13 +4,13 @@ site_name: "Walhalla memorial"
 date: 2026-01-26
 draft: false
 description: "Memorial in Donaustauf, Bavaria"
-region: "Donaustauf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Donaustauf"
+  - "Bavaria"
 wikidata_id: "Q321240"
 latitude: 49.031486111
 longitude: 12.224088888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Walhalla-Memorial_01.jpg/400px-Walhalla-Memorial_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Walhalla-Memorial_01.jpg/800px-Walhalla-Memorial_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Walhalla-Memorial_01.jpg/1200px-Walhalla-Memorial_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Walhalla-Memorial_01.jpg/1920px-Walhalla-Memorial_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Walhalla-Memorial_01.jpg/1920px-Walhalla-Memorial_01.jpg---
 
 ## Overview
 

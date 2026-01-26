@@ -4,13 +4,13 @@ site_name: "Reformation Church"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin-Moabit, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1409429"
 latitude: 52.5312
 longitude: 13.3289
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Reformationskirche_Außenansicht.jpg/400px-Reformationskirche_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Reformationskirche_Außenansicht.jpg/800px-Reformationskirche_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Reformationskirche_Außenansicht.jpg/1200px-Reformationskirche_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Reformationskirche_Außenansicht.jpg/1920px-Reformationskirche_Außenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Reformationskirche_Außenansicht.jpg/1920px-Reformationskirche_Außenansicht.jpg---
 
 ## Overview
 

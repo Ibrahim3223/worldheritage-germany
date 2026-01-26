@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Gera"
 date: 2026-01-26
 draft: false
 description: "museum in Gera, Thuringia, Germany"
-region: "Gera"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gera"
+  - "Saxony"
 wikidata_id: "Q1280968"
 latitude: 50.8766
 longitude: 12.0806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/400px-Gera,_das_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/800px-Gera,_das_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/1200px-Gera,_das_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/1920px-Gera,_das_Stadtmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/1920px-Gera,_das_Stadtmuseum.jpg---
 
 ## Overview
 

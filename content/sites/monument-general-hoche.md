@@ -4,19 +4,18 @@ site_name: "Monument General Hoche"
 date: 2026-01-26
 draft: false
 description: "monument in Weißenthurm, Germany"
-region: "Weißenthurm"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Weißenthurm"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1566682"
 latitude: 50.4137
 longitude: 7.45856
 images:
-  []
----
+  []---
 
 ## Overview
 

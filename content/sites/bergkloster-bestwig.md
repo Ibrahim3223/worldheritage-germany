@@ -4,13 +4,13 @@ site_name: "Bergkloster Bestwig"
 date: 2026-01-26
 draft: false
 description: "Kloster der Schwestern der heiligen Maria Magdalena Postel in Bestwig"
-region: "Bestwig"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Bestwig"
+  - "Hesse"
 wikidata_id: "Q819925"
 latitude: 51.3601
 longitude: 8.40561
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/400px-Bergkloster_Bestwig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/800px-Bergkloster_Bestwig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/1200px-Bergkloster_Bestwig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/1920px-Bergkloster_Bestwig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/1920px-Bergkloster_Bestwig.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Spatzenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1958159"
 latitude: 50.7744
 longitude: 6.08356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/400px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/800px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/1200px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/1920px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/1920px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hildesheim Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral church in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Catholic Cathedral"
 categories:
   - "Catholic Cathedral"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q167231"
 latitude: 52.148889
 longitude: 9.947222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/400px-Hildesheimer_Dom_2015.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/800px-Hildesheimer_Dom_2015.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1200px-Hildesheimer_Dom_2015.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1920px-Hildesheimer_Dom_2015.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1920px-Hildesheimer_Dom_2015.JPG---
 
 ## Overview
 

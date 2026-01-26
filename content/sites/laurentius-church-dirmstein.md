@@ -4,13 +4,13 @@ site_name: "Laurentius Church (Dirmstein)"
 date: 2026-01-26
 draft: false
 description: "church building in Dirmstein, Germany"
-region: "Dirmstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dirmstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1808218"
 latitude: 49.563
 longitude: 8.24742
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/400px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/800px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/1200px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/1920px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2006-Dirmstein-Laurentiuskirche-060910-1710.jpg/1920px-2006-Dirmstein-Laurentiuskirche-060910-1710.jpg---
 
 ## Overview
 

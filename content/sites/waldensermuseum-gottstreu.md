@@ -4,19 +4,18 @@ site_name: "Waldensermuseum Gottstreu"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wesertal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wesertal"
+  - "Hesse"
 wikidata_id: "Q76634135"
 latitude: 51.574486
 longitude: 9.587256
 images:
-  []
----
+  []---
 
 ## Overview
 

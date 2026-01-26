@@ -4,13 +4,13 @@ site_name: "Zwiesel"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "District of Berchtesgadener Land"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "District of Berchtesgadener Land"
+  - "Bavaria"
 wikidata_id: "Q244657"
 latitude: 47.7558
 longitude: 12.8119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/400px-Staufen_mountain_germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/800px-Staufen_mountain_germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/1200px-Staufen_mountain_germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/1920px-Staufen_mountain_germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/1920px-Staufen_mountain_germany.jpg---
 
 ## Overview
 

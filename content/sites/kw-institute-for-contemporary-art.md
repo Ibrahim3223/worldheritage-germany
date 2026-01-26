@@ -4,13 +4,13 @@ site_name: "KW Institute for Contemporary Art"
 date: 2026-01-26
 draft: false
 description: "Contemporary art institution in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1792296"
 latitude: 52.527
 longitude: 13.3948
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/400px-161123_KW_0060_LQ.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/800px-161123_KW_0060_LQ.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/1200px-161123_KW_0060_LQ.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/1920px-161123_KW_0060_LQ.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/1920px-161123_KW_0060_LQ.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kallmuth Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mechernich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mechernich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012595"
 latitude: 50.5569
 longitude: 6.61924
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kallmuth_Aussicht_mit_Dorfkirche.jpg/400px-Kallmuth_Aussicht_mit_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kallmuth_Aussicht_mit_Dorfkirche.jpg/800px-Kallmuth_Aussicht_mit_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kallmuth_Aussicht_mit_Dorfkirche.jpg/1200px-Kallmuth_Aussicht_mit_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kallmuth_Aussicht_mit_Dorfkirche.jpg/1920px-Kallmuth_Aussicht_mit_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kallmuth_Aussicht_mit_Dorfkirche.jpg/1920px-Kallmuth_Aussicht_mit_Dorfkirche.jpg---
 
 ## Overview
 

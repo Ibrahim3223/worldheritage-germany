@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pergamonmuseum_Babylon_Ischtar-Tor.jpg/400px-Pergamonmuseum_Babylon_Ischtar-Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pergamonmuseum_Babylon_Ischtar-Tor.jpg/800px-Pergamonmuseum_Babylon_Ischtar-Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pergamonmuseum_Babylon_Ischtar-Tor.jpg/1200px-Pergamonmuseum_Babylon_Ischtar-Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pergamonmuseum_Babylon_Ischtar-Tor.jpg/1920px-Pergamonmuseum_Babylon_Ischtar-Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pergamonmuseum_Babylon_Ischtar-Tor.jpg/1920px-Pergamonmuseum_Babylon_Ischtar-Tor.jpg---
 
 ## Overview
 

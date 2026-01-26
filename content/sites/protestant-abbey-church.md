@@ -4,13 +4,13 @@ site_name: "Protestant abbey church"
 date: 2026-01-26
 draft: false
 description: "church building in Hornbach, Germany"
-region: "Hornbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hornbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2113546"
 latitude: 49.1868
 longitude: 7.36966
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hornbach_Protestantische_Kirche_01.JPG/400px-Hornbach_Protestantische_Kirche_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hornbach_Protestantische_Kirche_01.JPG/800px-Hornbach_Protestantische_Kirche_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hornbach_Protestantische_Kirche_01.JPG/1200px-Hornbach_Protestantische_Kirche_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hornbach_Protestantische_Kirche_01.JPG/1920px-Hornbach_Protestantische_Kirche_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hornbach_Protestantische_Kirche_01.JPG/1920px-Hornbach_Protestantische_Kirche_01.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Hardenberg"
 date: 2026-01-26
 draft: false
 description: "castle in Velbert"
-region: "Velbert"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Velbert"
+  - "Lower Saxony"
 wikidata_id: "Q1012193"
 latitude: 51.3136
 longitude: 7.07861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/400px-BurgHardenbergGrundriss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/800px-BurgHardenbergGrundriss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/1200px-BurgHardenbergGrundriss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/1920px-BurgHardenbergGrundriss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/1920px-BurgHardenbergGrundriss.jpg---
 
 ## Overview
 

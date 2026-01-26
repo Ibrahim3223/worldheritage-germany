@@ -4,13 +4,13 @@ site_name: "Heidelsburg"
 date: 2026-01-26
 draft: false
 description: "former castle in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q22607"
 latitude: 49.2675
 longitude: 7.691944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/400px-Heidelsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/800px-Heidelsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1200px-Heidelsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1920px-Heidelsburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1920px-Heidelsburg.JPG---
 
 ## Overview
 

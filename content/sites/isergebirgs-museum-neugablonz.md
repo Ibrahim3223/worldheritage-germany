@@ -4,13 +4,13 @@ site_name: "Isergebirgs-Museum Neugablonz"
 date: 2026-01-26
 draft: false
 description: "museum in Kaufbeuren, Germany"
-region: "Kaufbeuren"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kaufbeuren"
+  - "Bavaria"
 wikidata_id: "Q1673841"
 latitude: 47.9138
 longitude: 10.6371
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/400px-Neugablonz_Gablonzer_Haus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/800px-Neugablonz_Gablonzer_Haus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/1200px-Neugablonz_Gablonzer_Haus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/1920px-Neugablonz_Gablonzer_Haus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/1920px-Neugablonz_Gablonzer_Haus.JPG---
 
 ## Overview
 

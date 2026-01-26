@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-5-6831-0030 in Spalt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Spalt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Spalt"
+  - "Bavaria"
 wikidata_id: "Q98124722"
 latitude: 49.193162962
 longitude: 10.877249026
 images:
-  []
----
+  []---
 
 ## Overview
 

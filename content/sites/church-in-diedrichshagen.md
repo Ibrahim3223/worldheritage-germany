@@ -4,13 +4,13 @@ site_name: "Church in Diedrichshagen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Rüting"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rüting"
+  - "Lower Saxony"
 wikidata_id: "Q1244231"
 latitude: 53.8048
 longitude: 11.2079
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/400px-Kirche_Diedrichshagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/800px-Kirche_Diedrichshagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/1200px-Kirche_Diedrichshagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/1920px-Kirche_Diedrichshagen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/1920px-Kirche_Diedrichshagen.jpg---
 
 ## Overview
 

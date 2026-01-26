@@ -4,13 +4,13 @@ site_name: "Henrichenburg boat lift"
 date: 2026-01-26
 draft: false
 description: "boat lift"
-region: "Waltrop"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Waltrop"
+  - "Lower Saxony"
 wikidata_id: "Q99406"
 latitude: 51.616583333
 longitude: 7.325861111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/400px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/800px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/1200px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/1920px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/1920px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg---
 
 ## Overview
 

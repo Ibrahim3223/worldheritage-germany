@@ -4,19 +4,18 @@ site_name: "Burg Lövenich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Zülpich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Zülpich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013040"
 latitude: 50.6711
 longitude: 6.66811
 images:
-  []
----
+  []---
 
 ## Overview
 

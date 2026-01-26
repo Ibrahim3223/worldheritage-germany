@@ -4,13 +4,13 @@ site_name: "Große Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Lower Saxony, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1548231"
 latitude: 53.365278
 longitude: 7.202136
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/400px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/800px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/1200px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/1920px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/1920px-Emden,_Große_Kirche,_2010-06_CN-02.jpg---
 
 ## Overview
 

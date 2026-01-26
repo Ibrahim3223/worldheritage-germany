@@ -4,13 +4,13 @@ site_name: "Synagogue in Alsfeld"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Alsfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Alsfeld"
+  - "Hesse"
 wikidata_id: "Q174507"
 latitude: 50.7514
 longitude: 9.26893
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Synagogue_Alsfeld_1905.jpg/400px-Synagogue_Alsfeld_1905.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Synagogue_Alsfeld_1905.jpg/800px-Synagogue_Alsfeld_1905.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Synagogue_Alsfeld_1905.jpg/1200px-Synagogue_Alsfeld_1905.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Synagogue_Alsfeld_1905.jpg/1920px-Synagogue_Alsfeld_1905.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Synagogue_Alsfeld_1905.jpg/1920px-Synagogue_Alsfeld_1905.jpg---
 
 ## Overview
 

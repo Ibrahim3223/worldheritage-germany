@@ -4,19 +4,18 @@ site_name: "Zoitzberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Gera"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Gera"
+  - "Saxony"
 wikidata_id: "Q218459"
 latitude: 50.83438
 longitude: 12.08074
 images:
-  []
----
+  []---
 
 ## Overview
 

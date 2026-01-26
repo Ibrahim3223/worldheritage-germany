@@ -4,13 +4,13 @@ site_name: "Webmuseum Oederan"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oederan"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oederan"
+  - "Saxony"
 wikidata_id: "Q2553541"
 latitude: 50.8618
 longitude: 13.1679
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/400px-Oederanmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/800px-Oederanmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/1200px-Oederanmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/1920px-Oederanmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/1920px-Oederanmuseum.jpg---
 
 ## Overview
 

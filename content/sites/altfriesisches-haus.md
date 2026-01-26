@@ -4,13 +4,13 @@ site_name: "Altfriesisches Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Sylt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sylt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q20170637"
 latitude: 54.8956214
 longitude: 8.3727097
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/400px-Am_Kliff_13.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/800px-Am_Kliff_13.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1200px-Am_Kliff_13.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1920px-Am_Kliff_13.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1920px-Am_Kliff_13.JPG---
 
 ## Overview
 

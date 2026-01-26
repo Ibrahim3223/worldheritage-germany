@@ -4,13 +4,13 @@ site_name: "Marienbibliothek, Halle"
 date: 2026-01-26
 draft: false
 description: "rare book library in Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1897633"
 latitude: 51.4822
 longitude: 11.9683
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/400px-Halle_Marienbibliothek_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/800px-Halle_Marienbibliothek_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/1200px-Halle_Marienbibliothek_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/1920px-Halle_Marienbibliothek_außen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/1920px-Halle_Marienbibliothek_außen.jpg---
 
 ## Overview
 

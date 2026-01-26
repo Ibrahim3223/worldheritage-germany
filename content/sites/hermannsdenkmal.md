@@ -4,13 +4,13 @@ site_name: "Hermannsdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in North Rhine-Westphalia, Germany"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q664245"
 latitude: 51.911666666
 longitude: 8.839444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/400px-Hermannsdenkmal_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/800px-Hermannsdenkmal_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/1200px-Hermannsdenkmal_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/1920px-Hermannsdenkmal_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/1920px-Hermannsdenkmal_2015.jpg---
 
 ## Overview
 

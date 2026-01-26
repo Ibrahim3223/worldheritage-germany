@@ -4,13 +4,13 @@ site_name: "Kirche Helpup (Oerlinghausen)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Oerlinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oerlinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q1380085"
 latitude: 51.9694
 longitude: 8.71158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ev._ref._Kirche_Helpup.jpg/400px-Ev._ref._Kirche_Helpup.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ev._ref._Kirche_Helpup.jpg/800px-Ev._ref._Kirche_Helpup.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ev._ref._Kirche_Helpup.jpg/1200px-Ev._ref._Kirche_Helpup.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ev._ref._Kirche_Helpup.jpg/1920px-Ev._ref._Kirche_Helpup.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ev._ref._Kirche_Helpup.jpg/1920px-Ev._ref._Kirche_Helpup.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burglehen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Rottenburg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rottenburg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1015119"
 latitude: 48.4877
 longitude: 8.98219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NSG_Burglehen_img1299_by_Vux.JPG/400px-NSG_Burglehen_img1299_by_Vux.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NSG_Burglehen_img1299_by_Vux.JPG/800px-NSG_Burglehen_img1299_by_Vux.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NSG_Burglehen_img1299_by_Vux.JPG/1200px-NSG_Burglehen_img1299_by_Vux.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NSG_Burglehen_img1299_by_Vux.JPG/1920px-NSG_Burglehen_img1299_by_Vux.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NSG_Burglehen_img1299_by_Vux.JPG/1920px-NSG_Burglehen_img1299_by_Vux.JPG---
 
 ## Overview
 

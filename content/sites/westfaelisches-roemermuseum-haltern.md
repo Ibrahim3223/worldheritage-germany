@@ -4,13 +4,13 @@ site_name: "Westfälisches Römermuseum Haltern"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Haltern am See"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Haltern am See"
+  - "Lower Saxony"
 wikidata_id: "Q1798479"
 latitude: 51.7395
 longitude: 7.17052
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/400px-LWL-Römermuseum-Haltern.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/800px-LWL-Römermuseum-Haltern.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/1200px-LWL-Römermuseum-Haltern.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/1920px-LWL-Römermuseum-Haltern.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/1920px-LWL-Römermuseum-Haltern.JPG---
 
 ## Overview
 

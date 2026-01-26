@@ -4,13 +4,13 @@ site_name: "Perlenbach-Fuhrtsbachtal-Talsystem"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Monschau, North Rhine-Westphalia, Germany"
-region: "Monschau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Monschau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151696"
 latitude: 50.5256
 longitude: 6.25639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Narzissenwiese_im_Perlbachtal_Eifel.jpg/400px-Narzissenwiese_im_Perlbachtal_Eifel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Narzissenwiese_im_Perlbachtal_Eifel.jpg/800px-Narzissenwiese_im_Perlbachtal_Eifel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Narzissenwiese_im_Perlbachtal_Eifel.jpg/1200px-Narzissenwiese_im_Perlbachtal_Eifel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Narzissenwiese_im_Perlbachtal_Eifel.jpg/1920px-Narzissenwiese_im_Perlbachtal_Eifel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Narzissenwiese_im_Perlbachtal_Eifel.jpg/1920px-Narzissenwiese_im_Perlbachtal_Eifel.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Matthiaskapelle Kobern"
 date: 2026-01-26
 draft: false
 description: "roman catholic church building in Kobern-Gondorf, Germany"
-region: "Kobern-Gondorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kobern-Gondorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1910457"
 latitude: 50.314039
 longitude: 7.454208
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Matthiaskapelle_Kobern_(16).JPG/400px-Matthiaskapelle_Kobern_(16).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Matthiaskapelle_Kobern_(16).JPG/800px-Matthiaskapelle_Kobern_(16).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Matthiaskapelle_Kobern_(16).JPG/1200px-Matthiaskapelle_Kobern_(16).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Matthiaskapelle_Kobern_(16).JPG/1920px-Matthiaskapelle_Kobern_(16).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Matthiaskapelle_Kobern_(16).JPG/1920px-Matthiaskapelle_Kobern_(16).JPG---
 
 ## Overview
 

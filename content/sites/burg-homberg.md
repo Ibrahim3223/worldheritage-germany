@@ -4,13 +4,13 @@ site_name: "Burg Homberg"
 date: 2026-01-26
 draft: false
 description: "castle in Homberg (Ohm), Germany"
-region: "Homberg (Ohm)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Homberg (Ohm)"
+  - "Hesse"
 wikidata_id: "Q1012477"
 latitude: 50.7277
 longitude: 9.0003
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/400px-Homberg_castle_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/800px-Homberg_castle_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/1200px-Homberg_castle_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/1920px-Homberg_castle_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/1920px-Homberg_castle_1.jpg---
 
 ## Overview
 

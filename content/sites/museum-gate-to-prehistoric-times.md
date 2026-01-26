@@ -4,13 +4,13 @@ site_name: "Museum Gate to prehistoric times"
 date: 2026-01-26
 draft: false
 description: "Ice Age Museum in Brügge"
-region: "Brügge"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brügge"
+  - "Schleswig-Holstein"
 wikidata_id: "Q56255004"
 latitude: 54.174916666
 longitude: 10.067333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/400px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/800px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/1200px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/1920px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/1920px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg---
 
 ## Overview
 

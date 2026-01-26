@@ -4,13 +4,13 @@ site_name: "Sebastianskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Ladenburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ladenburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1321761"
 latitude: 49.4709
 longitude: 8.60872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/400px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/800px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/1200px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/1920px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/1920px-Sebastianskapelle_Ladenburg_von_Norden2.JPG---
 
 ## Overview
 

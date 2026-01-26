@@ -4,13 +4,13 @@ site_name: "Apostelkirche (Münster)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q619917"
 latitude: 51.964611
 longitude: 7.627722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/400px-Apostelkirche_-_Münster_-_001_-_church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/800px-Apostelkirche_-_Münster_-_001_-_church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1200px-Apostelkirche_-_Münster_-_001_-_church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1920px-Apostelkirche_-_Münster_-_001_-_church.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1920px-Apostelkirche_-_Münster_-_001_-_church.jpg---
 
 ## Overview
 

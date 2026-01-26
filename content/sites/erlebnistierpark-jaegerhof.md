@@ -4,19 +4,18 @@ site_name: "Erlebnistierpark Jägerhof"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Pfullendorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Pfullendorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1264982"
 latitude: 47.92472222
 longitude: 9.22027778
 images:
-  []
----
+  []---
 
 ## Overview
 

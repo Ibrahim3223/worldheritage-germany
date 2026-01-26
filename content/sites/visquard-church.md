@@ -4,13 +4,13 @@ site_name: "Visquard Church"
 date: 2026-01-26
 draft: false
 description: "church building in Krummhörn, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q2528396"
 latitude: 53.4688
 longitude: 7.09919
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/400px-ChurchVisquard.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/800px-ChurchVisquard.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/1200px-ChurchVisquard.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/1920px-ChurchVisquard.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/1920px-ChurchVisquard.jpg---
 
 ## Overview
 

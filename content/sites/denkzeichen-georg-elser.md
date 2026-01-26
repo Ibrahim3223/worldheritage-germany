@@ -4,13 +4,13 @@ site_name: "Denkzeichen Georg Elser"
 date: 2026-01-26
 draft: false
 description: "sculpture in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1188708"
 latitude: 52.5123
 longitude: 13.3827
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Denkzeichen_Georg_Elser_Berlin_01.jpg/400px-Denkzeichen_Georg_Elser_Berlin_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Denkzeichen_Georg_Elser_Berlin_01.jpg/800px-Denkzeichen_Georg_Elser_Berlin_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Denkzeichen_Georg_Elser_Berlin_01.jpg/1200px-Denkzeichen_Georg_Elser_Berlin_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Denkzeichen_Georg_Elser_Berlin_01.jpg/1920px-Denkzeichen_Georg_Elser_Berlin_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Denkzeichen_Georg_Elser_Berlin_01.jpg/1920px-Denkzeichen_Georg_Elser_Berlin_01.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Staatsgalerie Würzburg"
 date: 2026-01-26
 draft: false
 description: "art museum in Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q17354119"
 latitude: 49.793441
 longitude: 9.939162
 images:
-  []
----
+  []---
 
 ## Overview
 

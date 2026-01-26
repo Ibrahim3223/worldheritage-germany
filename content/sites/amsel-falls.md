@@ -4,13 +4,13 @@ site_name: "Amsel Falls"
 date: 2026-01-26
 draft: false
 description: "waterfall in Lohmen in Germany"
-region: "Lohmen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Lohmen"
+  - "Saxony"
 wikidata_id: "Q174109"
 latitude: 50.971944444
 longitude: 14.073611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/400px-Hohenstein_-_Amsel-Wasserfall03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/800px-Hohenstein_-_Amsel-Wasserfall03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1200px-Hohenstein_-_Amsel-Wasserfall03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1920px-Hohenstein_-_Amsel-Wasserfall03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1920px-Hohenstein_-_Amsel-Wasserfall03.jpg---
 
 ## Overview
 

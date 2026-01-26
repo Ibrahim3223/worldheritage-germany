@@ -4,13 +4,13 @@ site_name: "Mausoleum Wersebe"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Hagen im Bremischen"
-region: "Hagen im Bremischen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Hagen im Bremischen"
+  - "Bremen"
 wikidata_id: "Q124750914"
 latitude: 53.364906
 longitude: 8.638083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/400px-Mausoleum_kassebruch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/800px-Mausoleum_kassebruch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/1200px-Mausoleum_kassebruch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/1920px-Mausoleum_kassebruch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/1920px-Mausoleum_kassebruch.jpg---
 
 ## Overview
 

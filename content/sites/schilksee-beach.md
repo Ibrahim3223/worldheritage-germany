@@ -4,13 +4,13 @@ site_name: "Schilksee beach"
 date: 2026-01-26
 draft: false
 description: "beach in Schilksee"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q55983717"
 latitude: 54.427333333
 longitude: 10.171333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/400px-Riesenrad_am_Strand_von_Schilksee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/800px-Riesenrad_am_Strand_von_Schilksee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/1200px-Riesenrad_am_Strand_von_Schilksee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/1920px-Riesenrad_am_Strand_von_Schilksee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/1920px-Riesenrad_am_Strand_von_Schilksee.jpg---
 
 ## Overview
 

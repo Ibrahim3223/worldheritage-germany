@@ -4,13 +4,13 @@ site_name: "Johanneskirche (Mannheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Mannheim, Electorate of Baden, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1698850"
 latitude: 49.4862
 longitude: 8.53414
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/400px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/800px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/1200px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/1920px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/1920px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg---
 
 ## Overview
 

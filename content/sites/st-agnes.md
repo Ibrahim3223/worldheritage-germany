@@ -4,13 +4,13 @@ site_name: "St. Agnes"
 date: 2026-01-26
 draft: false
 description: "church in Cologne-Neustadt-Nord, Germany"
-region: "Neustadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q879297"
 latitude: 50.955
 longitude: 6.957361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/400px-St_agnes_koeln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/800px-St_agnes_koeln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/1200px-St_agnes_koeln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/1920px-St_agnes_koeln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/1920px-St_agnes_koeln.jpg---
 
 ## Overview
 

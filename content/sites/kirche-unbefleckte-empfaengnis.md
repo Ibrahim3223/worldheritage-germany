@@ -4,13 +4,13 @@ site_name: "Kirche unbefleckte Empfängnis"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lutherstadt Wittenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lutherstadt Wittenberg"
+  - "Brandenburg"
 wikidata_id: "Q1476155"
 latitude: 51.8686
 longitude: 12.6451
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/400px-Katholischekirchewittenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/800px-Katholischekirchewittenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/1200px-Katholischekirchewittenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/1920px-Katholischekirchewittenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/1920px-Katholischekirchewittenberg.jpg---
 
 ## Overview
 

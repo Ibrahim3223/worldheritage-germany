@@ -4,13 +4,13 @@ site_name: "French church"
 date: 2026-01-26
 draft: false
 description: "church in Potsdam"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1450578"
 latitude: 52.4006
 longitude: 13.0628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Potsdam_-_Französische_Kirche_-_2013.jpg/400px-Potsdam_-_Französische_Kirche_-_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Potsdam_-_Französische_Kirche_-_2013.jpg/800px-Potsdam_-_Französische_Kirche_-_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Potsdam_-_Französische_Kirche_-_2013.jpg/1200px-Potsdam_-_Französische_Kirche_-_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Potsdam_-_Französische_Kirche_-_2013.jpg/1920px-Potsdam_-_Französische_Kirche_-_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Potsdam_-_Französische_Kirche_-_2013.jpg/1920px-Potsdam_-_Französische_Kirche_-_2013.jpg---
 
 ## Overview
 

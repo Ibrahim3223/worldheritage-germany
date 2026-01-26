@@ -4,13 +4,13 @@ site_name: "Thierberg"
 date: 2026-01-26
 draft: false
 description: "mountain in Germany"
-region: "Vogtlandkreis"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Vogtlandkreis"
+  - "Bavaria"
 wikidata_id: "Q142942"
 latitude: 50.445833333
 longitude: 12.443055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/400px-Thierberg_westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/800px-Thierberg_westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/1200px-Thierberg_westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/1920px-Thierberg_westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/1920px-Thierberg_westen.jpg---
 
 ## Overview
 

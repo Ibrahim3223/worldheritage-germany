@@ -4,13 +4,13 @@ site_name: "St. Maria Magdalena"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Neuenkirchen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuenkirchen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1895560"
 latitude: 54.5464
 longitude: 13.3347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/400px-KircheNeuenkirchenRügen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/800px-KircheNeuenkirchenRügen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/1200px-KircheNeuenkirchenRügen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/1920px-KircheNeuenkirchenRügen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/1920px-KircheNeuenkirchenRügen.JPG---
 
 ## Overview
 

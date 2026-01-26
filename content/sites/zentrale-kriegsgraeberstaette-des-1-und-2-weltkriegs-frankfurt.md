@@ -4,13 +4,13 @@ site_name: "Zentrale Kriegsgräberstätte des 1. und 2. Weltkriegs Frankfurt"
 date: 2026-01-26
 draft: false
 description: "Soldatenfriedhof und Gedenkstätte"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q56545405"
 latitude: 52.326934
 longitude: 14.532126
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/400px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/800px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/1200px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/1920px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/1920px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg---
 
 ## Overview
 

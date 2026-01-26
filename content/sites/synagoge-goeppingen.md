@@ -4,13 +4,13 @@ site_name: "Synagoge (Göppingen)"
 date: 2026-01-26
 draft: false
 description: "building in Göppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Göppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Göppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2375076"
 latitude: 48.7053
 longitude: 9.6542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Goeppingen_-_Synagoge-1.jpg/400px-Goeppingen_-_Synagoge-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Goeppingen_-_Synagoge-1.jpg/800px-Goeppingen_-_Synagoge-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Goeppingen_-_Synagoge-1.jpg/1200px-Goeppingen_-_Synagoge-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Goeppingen_-_Synagoge-1.jpg/1920px-Goeppingen_-_Synagoge-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Goeppingen_-_Synagoge-1.jpg/1920px-Goeppingen_-_Synagoge-1.jpg---
 
 ## Overview
 

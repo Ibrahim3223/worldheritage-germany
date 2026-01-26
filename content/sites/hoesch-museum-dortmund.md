@@ -4,13 +4,13 @@ site_name: "Hoesch Museum Dortmund"
 date: 2026-01-26
 draft: false
 description: "museum in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1402976"
 latitude: 51.5297
 longitude: 7.48306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/400px-Hoesch-Museum-IMG_1014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/800px-Hoesch-Museum-IMG_1014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/1200px-Hoesch-Museum-IMG_1014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/1920px-Hoesch-Museum-IMG_1014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/1920px-Hoesch-Museum-IMG_1014.JPG---
 
 ## Overview
 

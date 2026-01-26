@@ -4,13 +4,13 @@ site_name: "Ellwangen Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey in Ellwangen (Jagst), Germany, and principality of the Holy Roman Empire"
-region: "Ellwangen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ellwangen"
+  - "Baden-Württemberg"
 wikidata_id: "Q876826"
 latitude: 48.96200035
 longitude: 10.13198179
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/400px-Ellwangen_Vitus_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/800px-Ellwangen_Vitus_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/1200px-Ellwangen_Vitus_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/1920px-Ellwangen_Vitus_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/1920px-Ellwangen_Vitus_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Benedikte church"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q12307568"
 latitude: 53.54662
 longitude: 9.97762
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/400px-Benediktekirche_Hamburg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/800px-Benediktekirche_Hamburg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/1200px-Benediktekirche_Hamburg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/1920px-Benediktekirche_Hamburg_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/1920px-Benediktekirche_Hamburg_01.jpg---
 
 ## Overview
 

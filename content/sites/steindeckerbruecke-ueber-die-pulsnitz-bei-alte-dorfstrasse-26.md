@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke über die Pulsnitz bei Alte Dorfstraße 26"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403774"
 latitude: 51.243844
 longitude: 13.981385
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Am Sundern"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Harsewinkel, North Rhine-Westphalia, Germany"
-region: "Harsewinkel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Harsewinkel"
+  - "Lower Saxony"
 wikidata_id: "Q451493"
 latitude: 51.9874
 longitude: 8.14319
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/400px-Harsewinkel_-_NSG_Am_Sundern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/800px-Harsewinkel_-_NSG_Am_Sundern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/1200px-Harsewinkel_-_NSG_Am_Sundern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/1920px-Harsewinkel_-_NSG_Am_Sundern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/1920px-Harsewinkel_-_NSG_Am_Sundern.jpg---
 
 ## Overview
 

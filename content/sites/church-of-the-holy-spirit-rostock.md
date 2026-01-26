@@ -4,13 +4,13 @@ site_name: "Church of the Holy Spirit (Rostock)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1595116"
 latitude: 54.0886
 longitude: 12.1167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/400px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/800px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/1200px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/1920px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/1920px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg---
 
 ## Overview
 

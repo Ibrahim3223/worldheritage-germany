@@ -4,19 +4,18 @@ site_name: "Zeche Adler"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169608"
 latitude: 51.3824
 longitude: 7.08704
 images:
-  []
----
+  []---
 
 ## Overview
 

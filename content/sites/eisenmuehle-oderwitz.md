@@ -4,13 +4,13 @@ site_name: "Eisenmühle (Oderwitz)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Elstertrebnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Elstertrebnitz"
+  - "Saxony"
 wikidata_id: "Q49452330"
 latitude: 51.138830683
 longitude: 12.23037385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/400px-Oderwitz_Eisenmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/800px-Oderwitz_Eisenmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/1200px-Oderwitz_Eisenmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/1920px-Oderwitz_Eisenmühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/1920px-Oderwitz_Eisenmühle.jpg---
 
 ## Overview
 

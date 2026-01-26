@@ -4,13 +4,13 @@ site_name: "Kapelle zur hilligen Seele"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Borchen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Borchen"
+  - "Hesse"
 wikidata_id: "Q1728482"
 latitude: 51.6635
 longitude: 8.80313
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/400px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/800px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/1200px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/1920px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/1920px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg---
 
 ## Overview
 

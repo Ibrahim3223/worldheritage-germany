@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schwarzmiss.jpg/400px-Schwarzmiss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schwarzmiss.jpg/800px-Schwarzmiss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schwarzmiss.jpg/1200px-Schwarzmiss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schwarzmiss.jpg/1920px-Schwarzmiss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schwarzmiss.jpg/1920px-Schwarzmiss.jpg---
 
 ## Overview
 

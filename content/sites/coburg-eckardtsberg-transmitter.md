@@ -4,13 +4,13 @@ site_name: "Coburg-Eckardtsberg transmitter"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q1327894"
 latitude: 50.2531
 longitude: 10.9848
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/400px-Coburg-Sender-Eckardtsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/800px-Coburg-Sender-Eckardtsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/1200px-Coburg-Sender-Eckardtsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/1920px-Coburg-Sender-Eckardtsberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/1920px-Coburg-Sender-Eckardtsberg.jpg---
 
 ## Overview
 

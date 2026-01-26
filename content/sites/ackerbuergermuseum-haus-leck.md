@@ -4,13 +4,13 @@ site_name: "Ackerbürgermuseum Haus Leck"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Grebenstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grebenstein"
+  - "Hesse"
 wikidata_id: "Q76633849"
 latitude: 51.441553
 longitude: 9.411349
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/400px-Haus_Leck_Grebenstein_fm811562a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/800px-Haus_Leck_Grebenstein_fm811562a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/1200px-Haus_Leck_Grebenstein_fm811562a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/1920px-Haus_Leck_Grebenstein_fm811562a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/1920px-Haus_Leck_Grebenstein_fm811562a.jpg---
 
 ## Overview
 

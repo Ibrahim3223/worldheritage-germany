@@ -4,19 +4,18 @@ site_name: "Tolstoy Library"
 date: 2026-01-26
 draft: false
 description: "library in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1361808"
 latitude: 48.1345
 longitude: 11.5852
 images:
-  []
----
+  []---
 
 ## Overview
 

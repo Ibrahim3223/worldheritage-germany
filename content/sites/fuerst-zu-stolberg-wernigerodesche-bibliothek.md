@@ -4,19 +4,18 @@ site_name: "Fürst zu Stolberg-Wernigerodesche Bibliothek"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Wernigerode"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Wernigerode"
+  - "Bavaria"
 wikidata_id: "Q2351220"
 latitude: 50.386258129
 longitude: 9.148707809
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zum Grünen Baum"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q228955"
 latitude: 47.726111111
 longitude: 10.317611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zum_Grünen_Baum_KE_(1).jpg/400px-Zum_Grünen_Baum_KE_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zum_Grünen_Baum_KE_(1).jpg/800px-Zum_Grünen_Baum_KE_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zum_Grünen_Baum_KE_(1).jpg/1200px-Zum_Grünen_Baum_KE_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zum_Grünen_Baum_KE_(1).jpg/1920px-Zum_Grünen_Baum_KE_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zum_Grünen_Baum_KE_(1).jpg/1920px-Zum_Grünen_Baum_KE_(1).jpg---
 
 ## Overview
 

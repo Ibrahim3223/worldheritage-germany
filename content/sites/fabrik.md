@@ -4,13 +4,13 @@ site_name: "Fabrik"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-73-153-127 (0) in Ostheim vor der Rhön, Bavaria"
-region: "Ostheim vor der Rhön"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Ostheim vor der Rhön"
+  - "Bavaria"
 wikidata_id: "Q41327470"
 latitude: 50.45839
 longitude: 10.2348
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/400px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/800px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/1200px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/1920px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/1920px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg---
 
 ## Overview
 

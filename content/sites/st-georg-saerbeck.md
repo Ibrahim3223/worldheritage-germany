@@ -4,13 +4,13 @@ site_name: "St. Georg (Saerbeck)"
 date: 2026-01-26
 draft: false
 description: "church building in Saerbeck, Germany"
-region: "Saerbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Saerbeck"
+  - "Lower Saxony"
 wikidata_id: "Q1676172"
 latitude: 52.1734
 longitude: 7.63521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/400px-Kath_Kirche_Saerbeck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/800px-Kath_Kirche_Saerbeck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/1200px-Kath_Kirche_Saerbeck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/1920px-Kath_Kirche_Saerbeck.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/1920px-Kath_Kirche_Saerbeck.JPG---
 
 ## Overview
 

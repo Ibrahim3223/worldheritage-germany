@@ -4,13 +4,13 @@ site_name: "Wasch- und Badehaus Schäfflerbachstraße Augsburg"
 date: 2026-01-26
 draft: false
 description: "building in Augsburg, Swabia, Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q15134390"
 latitude: 48.36208
 longitude: 10.915766
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/400px-Augsburg_Schäfflerbachstraße_30.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/800px-Augsburg_Schäfflerbachstraße_30.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/1200px-Augsburg_Schäfflerbachstraße_30.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/1920px-Augsburg_Schäfflerbachstraße_30.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/1920px-Augsburg_Schäfflerbachstraße_30.JPG---
 
 ## Overview
 

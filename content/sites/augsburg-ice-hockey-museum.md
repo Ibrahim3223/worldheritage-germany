@@ -4,13 +4,13 @@ site_name: "Augsburg Ice Hockey Museum"
 date: 2026-01-26
 draft: false
 description: "German sports museum in Augsburg, Bavaria, Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q464308"
 latitude: 48.375034
 longitude: 10.87913
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/400px-Eishockeymuseum_Augsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/800px-Eishockeymuseum_Augsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/1200px-Eishockeymuseum_Augsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/1920px-Eishockeymuseum_Augsburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/1920px-Eishockeymuseum_Augsburg.JPG---
 
 ## Overview
 

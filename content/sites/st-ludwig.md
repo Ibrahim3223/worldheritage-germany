@@ -4,13 +4,13 @@ site_name: "St. Ludwig"
 date: 2026-01-26
 draft: false
 description: "church building in Ludwigshafen, Germany"
-region: "Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2320389"
 latitude: 49.4801
 longitude: 8.44853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ludwigskirche_in_Ludwigshafen_1.jpg/400px-Ludwigskirche_in_Ludwigshafen_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ludwigskirche_in_Ludwigshafen_1.jpg/800px-Ludwigskirche_in_Ludwigshafen_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ludwigskirche_in_Ludwigshafen_1.jpg/1200px-Ludwigskirche_in_Ludwigshafen_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ludwigskirche_in_Ludwigshafen_1.jpg/1920px-Ludwigskirche_in_Ludwigshafen_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ludwigskirche_in_Ludwigshafen_1.jpg/1920px-Ludwigskirche_in_Ludwigshafen_1.jpg---
 
 ## Overview
 

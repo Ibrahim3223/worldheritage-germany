@@ -4,13 +4,13 @@ site_name: "Naturwissenschaftlichen Museum Aschaffenburg"
 date: 2026-01-26
 draft: false
 description: "Museum in Bavaria, Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q6981015"
 latitude: 49.9738
 longitude: 9.148
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/400px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/800px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/1200px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/1920px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/1920px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg---
 
 ## Overview
 

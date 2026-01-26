@@ -4,13 +4,13 @@ site_name: "Conditorei-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Kitzingen, Germany"
-region: "Kitzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kitzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1124528"
 latitude: 49.7392
 longitude: 10.1621
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/400px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/800px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/1200px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/1920px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/1920px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg---
 
 ## Overview
 

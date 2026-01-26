@@ -4,13 +4,13 @@ site_name: "St. Michaelis"
 date: 2026-01-26
 draft: false
 description: "church building in Mitte, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q2321752"
 latitude: 53.0857
 longitude: 8.79915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bremen-Mitte_St-Michaelis_01.jpg/400px-Bremen-Mitte_St-Michaelis_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bremen-Mitte_St-Michaelis_01.jpg/800px-Bremen-Mitte_St-Michaelis_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bremen-Mitte_St-Michaelis_01.jpg/1200px-Bremen-Mitte_St-Michaelis_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bremen-Mitte_St-Michaelis_01.jpg/1920px-Bremen-Mitte_St-Michaelis_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bremen-Mitte_St-Michaelis_01.jpg/1920px-Bremen-Mitte_St-Michaelis_01.jpg---
 
 ## Overview
 

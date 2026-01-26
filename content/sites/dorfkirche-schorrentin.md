@@ -4,13 +4,13 @@ site_name: "Dorfkirche Schorrentin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Neukalen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neukalen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244715"
 latitude: 53.8547
 longitude: 12.7701
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/400px-Schorrentin-kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/800px-Schorrentin-kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1200px-Schorrentin-kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1920px-Schorrentin-kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1920px-Schorrentin-kirche.jpg---
 
 ## Overview
 

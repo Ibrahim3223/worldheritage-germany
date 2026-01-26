@@ -4,19 +4,18 @@ site_name: "Schafbrücke Wegefarth"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Oberschöna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Oberschöna"
+  - "Saxony"
 wikidata_id: "Q49448994"
 latitude: 50.921530924
 longitude: 13.230713346
 images:
-  []
----
+  []---
 
 ## Overview
 

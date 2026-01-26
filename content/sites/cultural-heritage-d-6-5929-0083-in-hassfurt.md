@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5929-0083 in Haßfurt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Haßfurt, Haßberge, Lower Franconia, Bavaria, Germany"
-region: "Haßfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Haßfurt"
+  - "Bavaria"
 wikidata_id: "Q98170036"
 latitude: 50.03148652
 longitude: 10.511569273
 images:
-  []
----
+  []---
 
 ## Overview
 

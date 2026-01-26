@@ -4,13 +4,13 @@ site_name: "Loccum Abbey"
 date: 2026-01-26
 draft: false
 description: "Lutheran monastery in Rehburg-Loccum, Germany"
-region: "Rehburg-Loccum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rehburg-Loccum"
+  - "Lower Saxony"
 wikidata_id: "Q314258"
 latitude: 52.4519
 longitude: 9.15056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/400px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/800px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/1200px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/1920px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/1920px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg---
 
 ## Overview
 

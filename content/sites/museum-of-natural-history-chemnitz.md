@@ -4,13 +4,13 @@ site_name: "Museum of Natural History Chemnitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Zentrum"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zentrum"
+  - "Saxony"
 wikidata_id: "Q1253547"
 latitude: 50.8309
 longitude: 12.9233
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/400px-VersteinerterWald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/800px-VersteinerterWald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/1200px-VersteinerterWald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/1920px-VersteinerterWald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/1920px-VersteinerterWald.jpg---
 
 ## Overview
 

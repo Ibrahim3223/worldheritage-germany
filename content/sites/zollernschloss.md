@@ -4,13 +4,13 @@ site_name: "Zollernschloss"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Balingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Balingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q218621"
 latitude: 48.2712
 longitude: 8.85139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/400px-Balingen_Zollernschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/800px-Balingen_Zollernschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/1200px-Balingen_Zollernschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/1920px-Balingen_Zollernschloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/1920px-Balingen_Zollernschloss.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bogenbrücke Meschwitz 23 (hinter der Alten Schmiede)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hochkirch"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hochkirch"
+  - "Saxony"
 wikidata_id: "Q49408405"
 latitude: 51.143548
 longitude: 14.53893
 images:
-  []
----
+  []---
 
 ## Overview
 

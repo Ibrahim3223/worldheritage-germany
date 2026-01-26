@@ -4,13 +4,13 @@ site_name: "Freiherr-vom-Stein-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "gymnasium in Lünen, Germany"
-region: "Lünen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Lünen"
+  - "Lower Saxony"
 wikidata_id: "Q1454377"
 latitude: 51.610555555
 longitude: 7.515833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/400px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/800px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/1200px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/1920px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/1920px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg---
 
 ## Overview
 

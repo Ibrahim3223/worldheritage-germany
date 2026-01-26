@@ -4,13 +4,13 @@ site_name: "Museum für Angewandte Kunst"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Gera"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gera"
+  - "Saxony"
 wikidata_id: "Q1566931"
 latitude: 50.87560833
 longitude: 12.08641944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/400px-Gera_-_Ferbersches_Haus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/800px-Gera_-_Ferbersches_Haus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/1200px-Gera_-_Ferbersches_Haus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/1920px-Gera_-_Ferbersches_Haus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/1920px-Gera_-_Ferbersches_Haus.JPG---
 
 ## Overview
 

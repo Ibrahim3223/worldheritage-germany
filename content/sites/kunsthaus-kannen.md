@@ -4,13 +4,13 @@ site_name: "Kunsthaus Kannen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q2752935"
 latitude: 51.8763
 longitude: 7.56528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/400px-KunsthausKannen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/800px-KunsthausKannen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/1200px-KunsthausKannen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/1920px-KunsthausKannen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/1920px-KunsthausKannen.jpg---
 
 ## Overview
 

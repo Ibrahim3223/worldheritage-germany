@@ -4,13 +4,13 @@ site_name: "European University Viadrina"
 date: 2026-01-26
 draft: false
 description: "university"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q149481"
 latitude: 52.342222222
 longitude: 14.553888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/400px-Universitas_Viadrina_Frankfurt_(Oder).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/800px-Universitas_Viadrina_Frankfurt_(Oder).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1200px-Universitas_Viadrina_Frankfurt_(Oder).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1920px-Universitas_Viadrina_Frankfurt_(Oder).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1920px-Universitas_Viadrina_Frankfurt_(Oder).JPG---
 
 ## Overview
 

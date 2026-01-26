@@ -4,13 +4,13 @@ site_name: "Abschnittsbefestigung in Pommelsbrunn"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.516434/E11.483327"
-region: "Pommelsbrunn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Pommelsbrunn"
+  - "Bavaria"
 wikidata_id: "Q58339635"
 latitude: 49.516434
 longitude: 11.483327
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/400px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/800px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/1200px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/1920px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/1920px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg---
 
 ## Overview
 

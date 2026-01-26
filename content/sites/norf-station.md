@@ -4,13 +4,13 @@ site_name: "Norf station"
 date: 2026-01-26
 draft: false
 description: "railway station in Neuss, Germany"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q649388"
 latitude: 51.161
 longitude: 6.7303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/400px-Bf-ne-norf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/800px-Bf-ne-norf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/1200px-Bf-ne-norf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/1920px-Bf-ne-norf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/1920px-Bf-ne-norf.jpg---
 
 ## Overview
 

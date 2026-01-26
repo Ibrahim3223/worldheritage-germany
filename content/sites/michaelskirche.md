@@ -4,13 +4,13 @@ site_name: "Michaelskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Stuttgart, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1930197"
 latitude: 48.7699
 longitude: 9.24101
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/400px-S-wangen-michaelskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/800px-S-wangen-michaelskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/1200px-S-wangen-michaelskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/1920px-S-wangen-michaelskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/1920px-S-wangen-michaelskirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heinrich-Lübke-Haus"
 date: 2026-01-26
 draft: false
 description: "German museum and a memorial"
-region: "Sundern"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sundern"
+  - "Hesse"
 wikidata_id: "Q1596436"
 latitude: 51.371
 longitude: 7.96762
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sundern_Heinrich-Lübke-Haus.jpg/400px-Sundern_Heinrich-Lübke-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sundern_Heinrich-Lübke-Haus.jpg/800px-Sundern_Heinrich-Lübke-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sundern_Heinrich-Lübke-Haus.jpg/1200px-Sundern_Heinrich-Lübke-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sundern_Heinrich-Lübke-Haus.jpg/1920px-Sundern_Heinrich-Lübke-Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sundern_Heinrich-Lübke-Haus.jpg/1920px-Sundern_Heinrich-Lübke-Haus.jpg---
 
 ## Overview
 

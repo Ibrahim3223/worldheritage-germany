@@ -4,19 +4,18 @@ site_name: "Torhaus Gut Wahrberg 1 in Aurach (Landkreis Ansbach)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-71-114-23 (1) in Aurach (Landkreis Ansbach), Bavaria"
-region: "Aurach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Aurach"
+  - "Baden-Württemberg"
 wikidata_id: "Q98621101"
 latitude: 49.23859674
 longitude: 10.407392488
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Kalsmunt"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Wetzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wetzlar"
+  - "Hesse"
 wikidata_id: "Q1012598"
 latitude: 50.5495
 longitude: 8.49651
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgruine_Kalsmunt.jpg/400px-Burgruine_Kalsmunt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgruine_Kalsmunt.jpg/800px-Burgruine_Kalsmunt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgruine_Kalsmunt.jpg/1200px-Burgruine_Kalsmunt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgruine_Kalsmunt.jpg/1920px-Burgruine_Kalsmunt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgruine_Kalsmunt.jpg/1920px-Burgruine_Kalsmunt.jpg---
 
 ## Overview
 

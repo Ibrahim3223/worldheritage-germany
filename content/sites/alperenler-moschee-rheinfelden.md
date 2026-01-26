@@ -4,13 +4,13 @@ site_name: "Alperenler-Moschee Rheinfelden"
 date: 2026-01-26
 draft: false
 description: "building in Rheinfelden (Baden), Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Rheinfelden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Rheinfelden"
+  - "Baden-Württemberg"
 wikidata_id: "Q2650858"
 latitude: 47.57333333
 longitude: 7.79388889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/400px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/800px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/1200px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/1920px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/1920px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg---
 
 ## Overview
 

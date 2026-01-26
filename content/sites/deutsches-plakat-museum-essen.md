@@ -4,19 +4,18 @@ site_name: "Deutsches Plakat Museum Essen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1205892"
 latitude: 51.44166667
 longitude: 7.00416667
 images:
-  []
----
+  []---
 
 ## Overview
 

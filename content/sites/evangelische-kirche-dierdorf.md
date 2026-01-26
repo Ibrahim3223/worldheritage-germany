@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche (Dierdorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Dierdorf, Germany"
-region: "Dierdorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dierdorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1380286"
 latitude: 50.5464
 longitude: 7.65769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/400px-DierdorfEvangelischeKirche6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/800px-DierdorfEvangelischeKirche6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/1200px-DierdorfEvangelischeKirche6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/1920px-DierdorfEvangelischeKirche6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/1920px-DierdorfEvangelischeKirche6.jpg---
 
 ## Overview
 

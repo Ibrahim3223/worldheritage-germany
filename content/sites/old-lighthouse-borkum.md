@@ -4,13 +4,13 @@ site_name: "Old Lighthouse Borkum"
 date: 2026-01-26
 draft: false
 description: "former lighthouse and church steeple in Borkum, Germany"
-region: "Borkum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Borkum"
+  - "Lower Saxony"
 wikidata_id: "Q438067"
 latitude: 53.5878
 longitude: 6.67056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/400px-Borkum_Alter_Leuchtturm_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/800px-Borkum_Alter_Leuchtturm_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/1200px-Borkum_Alter_Leuchtturm_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/1920px-Borkum_Alter_Leuchtturm_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/1920px-Borkum_Alter_Leuchtturm_2015.jpg---
 
 ## Overview
 

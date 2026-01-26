@@ -4,13 +4,13 @@ site_name: "Burg Hirschberg"
 date: 2026-01-26
 draft: false
 description: "castle in Balingen"
-region: "Heselwangen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heselwangen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012350"
 latitude: 48.2633
 longitude: 8.88972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/400px-Hirschberg-Hauff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/800px-Hirschberg-Hauff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/1200px-Hirschberg-Hauff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/1920px-Hirschberg-Hauff.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/1920px-Hirschberg-Hauff.jpg---
 
 ## Overview
 

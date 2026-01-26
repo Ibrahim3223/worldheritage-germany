@@ -4,13 +4,13 @@ site_name: "Futurium"
 date: 2026-01-26
 draft: false
 description: "research institute and museum in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q20829682"
 latitude: 52.5238786
 longitude: 13.3743364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/400px-Mitte_Kapelle-Ufer_Futurium-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/800px-Mitte_Kapelle-Ufer_Futurium-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/1200px-Mitte_Kapelle-Ufer_Futurium-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/1920px-Mitte_Kapelle-Ufer_Futurium-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/1920px-Mitte_Kapelle-Ufer_Futurium-001.jpg---
 
 ## Overview
 

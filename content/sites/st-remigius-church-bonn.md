@@ -4,13 +4,13 @@ site_name: "St Remigius' Church, Bonn"
 date: 2026-01-26
 draft: false
 description: "church building in Bonn"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2322994"
 latitude: 50.736047
 longitude: 7.103126
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2004_11_08_-_Bonn_006.JPG/400px-2004_11_08_-_Bonn_006.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2004_11_08_-_Bonn_006.JPG/800px-2004_11_08_-_Bonn_006.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2004_11_08_-_Bonn_006.JPG/1200px-2004_11_08_-_Bonn_006.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2004_11_08_-_Bonn_006.JPG/1920px-2004_11_08_-_Bonn_006.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2004_11_08_-_Bonn_006.JPG/1920px-2004_11_08_-_Bonn_006.JPG---
 
 ## Overview
 

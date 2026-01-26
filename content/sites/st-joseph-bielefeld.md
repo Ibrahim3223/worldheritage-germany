@@ -4,13 +4,13 @@ site_name: "St. Joseph (Bielefeld)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1472100"
 latitude: 52.0319
 longitude: 8.54049
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/400px-Bielefeld_-_Mitte_-_St_Josef.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/800px-Bielefeld_-_Mitte_-_St_Josef.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/1200px-Bielefeld_-_Mitte_-_St_Josef.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/1920px-Bielefeld_-_Mitte_-_St_Josef.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/1920px-Bielefeld_-_Mitte_-_St_Josef.jpg---
 
 ## Overview
 

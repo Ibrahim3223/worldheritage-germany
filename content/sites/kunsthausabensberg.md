@@ -4,13 +4,13 @@ site_name: "KunstHausAbensberg"
 date: 2026-01-26
 draft: false
 description: "Art museum in Germany"
-region: "Q255698"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Q255698"
+  - "Bavaria"
 wikidata_id: "Q124462572"
 latitude: 48.816530432
 longitude: 11.843812242
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/400px-2020_Abensberg_Hundertwasserhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/800px-2020_Abensberg_Hundertwasserhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/1200px-2020_Abensberg_Hundertwasserhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/1920px-2020_Abensberg_Hundertwasserhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/1920px-2020_Abensberg_Hundertwasserhaus.jpg---
 
 ## Overview
 

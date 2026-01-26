@@ -4,19 +4,18 @@ site_name: "Burg Innhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q1012562"
 latitude: 53.57555
 longitude: 8.05196
 images:
-  []
----
+  []---
 
 ## Overview
 

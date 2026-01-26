@@ -4,13 +4,13 @@ site_name: "Museum Tabakspeicher"
 date: 2026-01-26
 draft: false
 description: "museum in Nordhausen, Germany"
-region: "Nordhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nordhausen"
+  - "Lower Saxony"
 wikidata_id: "Q20480867"
 latitude: 51.502368
 longitude: 10.791502
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NordhausenTabakspeicher.jpg/400px-NordhausenTabakspeicher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NordhausenTabakspeicher.jpg/800px-NordhausenTabakspeicher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NordhausenTabakspeicher.jpg/1200px-NordhausenTabakspeicher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NordhausenTabakspeicher.jpg/1920px-NordhausenTabakspeicher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NordhausenTabakspeicher.jpg/1920px-NordhausenTabakspeicher.jpg---
 
 ## Overview
 

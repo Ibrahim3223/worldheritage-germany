@@ -4,13 +4,13 @@ site_name: "Gemeindehaus Florianweg 9 in Coburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-820 (1) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98587262"
 latitude: 50.232744568
 longitude: 10.979984451
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/400px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/800px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/1200px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/1920px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/1920px-Fotoaktion_Creidlitz_22._März_2009_17.jpg---
 
 ## Overview
 

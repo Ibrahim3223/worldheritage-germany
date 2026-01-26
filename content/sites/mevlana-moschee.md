@@ -4,13 +4,13 @@ site_name: "Mevlana Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee in Kassel"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q16500132"
 latitude: 51.27473
 longitude: 9.439078
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mevlana_Moschee_(Kassel).jpg/400px-Mevlana_Moschee_(Kassel).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mevlana_Moschee_(Kassel).jpg/800px-Mevlana_Moschee_(Kassel).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mevlana_Moschee_(Kassel).jpg/1200px-Mevlana_Moschee_(Kassel).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mevlana_Moschee_(Kassel).jpg/1920px-Mevlana_Moschee_(Kassel).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mevlana_Moschee_(Kassel).jpg/1920px-Mevlana_Moschee_(Kassel).jpg---
 
 ## Overview
 

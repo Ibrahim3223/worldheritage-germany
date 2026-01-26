@@ -4,13 +4,13 @@ site_name: "concrete time track"
 date: 2026-01-26
 draft: false
 description: "former open-air museum in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q831613"
 latitude: 51.0533
 longitude: 13.7689
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/400px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/800px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/1200px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/1920px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/1920px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Hagnauer Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hagnau am Bodensee"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hagnau am Bodensee"
+  - "Baden-Württemberg"
 wikidata_id: "Q1566953"
 latitude: 47.67396111
 longitude: 9.31944444
 images:
-  []
----
+  []---
 
 ## Overview
 

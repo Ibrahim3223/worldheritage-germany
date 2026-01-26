@@ -4,13 +4,13 @@ site_name: "Bammelsburg"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q806011"
 latitude: 52.2711
 longitude: 10.5203
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/400px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/800px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/1200px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/1920px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/1920px-Wessely_Bammelsburg_Braunschweig_cropped.jpg---
 
 ## Overview
 

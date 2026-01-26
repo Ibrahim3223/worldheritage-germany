@@ -4,13 +4,13 @@ site_name: "Charlottenhof"
 date: 2026-01-26
 draft: false
 description: "architectural structure in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1067424"
 latitude: 51.352444444
 longitude: 6.948111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/400px-Charlottenhof_Essen-Kettwig.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/800px-Charlottenhof_Essen-Kettwig.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/1200px-Charlottenhof_Essen-Kettwig.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/1920px-Charlottenhof_Essen-Kettwig.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/1920px-Charlottenhof_Essen-Kettwig.JPG---
 
 ## Overview
 

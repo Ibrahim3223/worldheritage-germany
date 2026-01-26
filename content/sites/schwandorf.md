@@ -4,13 +4,13 @@ site_name: "Schwandorf"
 date: 2026-01-26
 draft: false
 description: "railway halt in Germany"
-region: "Schwandorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Schwandorf"
+  - "Bavaria"
 wikidata_id: "Q321532"
 latitude: 49.326441
 longitude: 12.103858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/400px-Bahnhof_Schwandorf_Vorderseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/800px-Bahnhof_Schwandorf_Vorderseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/1200px-Bahnhof_Schwandorf_Vorderseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/1920px-Bahnhof_Schwandorf_Vorderseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/1920px-Bahnhof_Schwandorf_Vorderseite.jpg---
 
 ## Overview
 

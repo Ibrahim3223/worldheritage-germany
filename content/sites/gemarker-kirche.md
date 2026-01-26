@@ -4,13 +4,13 @@ site_name: "Gemarker Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1345945"
 latitude: 51.2711
 longitude: 7.19778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wuppertal_Zwinglistr_0029.jpg/400px-Wuppertal_Zwinglistr_0029.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wuppertal_Zwinglistr_0029.jpg/800px-Wuppertal_Zwinglistr_0029.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wuppertal_Zwinglistr_0029.jpg/1200px-Wuppertal_Zwinglistr_0029.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wuppertal_Zwinglistr_0029.jpg/1920px-Wuppertal_Zwinglistr_0029.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wuppertal_Zwinglistr_0029.jpg/1920px-Wuppertal_Zwinglistr_0029.jpg---
 
 ## Overview
 

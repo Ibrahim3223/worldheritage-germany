@@ -4,13 +4,13 @@ site_name: "Amtsgerichtsgebäude Gießen"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q116921118"
 latitude: 50.5893
 longitude: 8.68019
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/400px-Amtsgericht_Gießen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/800px-Amtsgericht_Gießen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/1200px-Amtsgericht_Gießen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/1920px-Amtsgericht_Gießen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/1920px-Amtsgericht_Gießen.jpg---
 
 ## Overview
 

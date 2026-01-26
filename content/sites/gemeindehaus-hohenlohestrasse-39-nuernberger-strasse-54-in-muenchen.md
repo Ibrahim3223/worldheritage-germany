@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Hohenlohestraße 39; Nürnberger Straße 54 in München
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-4808 (1) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98740167"
 latitude: 48.165403132
 longitude: 11.532526371
 images:
-  []
----
+  []---
 
 ## Overview
 

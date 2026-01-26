@@ -4,13 +4,13 @@ site_name: "Grimmwelt Kassel"
 date: 2026-01-26
 draft: false
 description: "museum in Kassel, Hesse, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q23786432"
 latitude: 51.3092
 longitude: 9.48927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/400px-Grimmwelt_Kassel,_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/800px-Grimmwelt_Kassel,_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/1200px-Grimmwelt_Kassel,_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/1920px-Grimmwelt_Kassel,_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/1920px-Grimmwelt_Kassel,_Eingang.jpg---
 
 ## Overview
 

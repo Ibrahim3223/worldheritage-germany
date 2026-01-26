@@ -4,13 +4,13 @@ site_name: "Heilig-Geist-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Bad Sooden-Allendorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Sooden-Allendorf"
+  - "Hesse"
 wikidata_id: "Q1594841"
 latitude: 51.275315132
 longitude: 9.970810244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/400px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/800px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/1200px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/1920px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/1920px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "statue of Albrecht Thaer"
 date: 2026-01-26
 draft: false
 description: "statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976997"
 latitude: 52.516599
 longitude: 13.3984872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg/400px-Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg/800px-Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg/1200px-Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg/1920px-Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg/1920px-Berlin-Mitte_Schinkelplatz_asv2023-09_img3.jpg---
 
 ## Overview
 

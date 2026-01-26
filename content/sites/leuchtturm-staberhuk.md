@@ -4,13 +4,13 @@ site_name: "Leuchtturm Staberhuk"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Fehmarn"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Fehmarn"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1707940"
 latitude: 54.4025
 longitude: 11.31083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/400px-Fehmarn_Staberhuk_Leuchtturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/800px-Fehmarn_Staberhuk_Leuchtturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/1200px-Fehmarn_Staberhuk_Leuchtturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/1920px-Fehmarn_Staberhuk_Leuchtturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/1920px-Fehmarn_Staberhuk_Leuchtturm.jpg---
 
 ## Overview
 

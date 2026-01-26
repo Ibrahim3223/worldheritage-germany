@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NeuerMarkt_Berlin1785.jpg/400px-NeuerMarkt_Berlin1785.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NeuerMarkt_Berlin1785.jpg/800px-NeuerMarkt_Berlin1785.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NeuerMarkt_Berlin1785.jpg/1200px-NeuerMarkt_Berlin1785.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NeuerMarkt_Berlin1785.jpg/1920px-NeuerMarkt_Berlin1785.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NeuerMarkt_Berlin1785.jpg/1920px-NeuerMarkt_Berlin1785.jpg---
 
 ## Overview
 

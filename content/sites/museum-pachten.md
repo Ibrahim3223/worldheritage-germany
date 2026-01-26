@@ -4,13 +4,13 @@ site_name: "Museum Pachten"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dillingen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dillingen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1718706"
 latitude: 49.355
 longitude: 6.70853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Pachten,.jpg/400px-Museum_Pachten,.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Pachten,.jpg/800px-Museum_Pachten,.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Pachten,.jpg/1200px-Museum_Pachten,.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Pachten,.jpg/1920px-Museum_Pachten,.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Pachten,.jpg/1920px-Museum_Pachten,.jpg---
 
 ## Overview
 

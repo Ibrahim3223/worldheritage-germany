@@ -4,13 +4,13 @@ site_name: "Roter Ochse"
 date: 2026-01-26
 draft: false
 description: "prison and memorial in Saxony-Anhalt"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2168400"
 latitude: 51.4916
 longitude: 11.9604
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/400px-Roter-Ochse2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/800px-Roter-Ochse2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/1200px-Roter-Ochse2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/1920px-Roter-Ochse2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/1920px-Roter-Ochse2.JPG---
 
 ## Overview
 

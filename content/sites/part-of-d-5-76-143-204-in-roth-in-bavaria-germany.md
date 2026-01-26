@@ -4,19 +4,18 @@ site_name: "part of D-5-76-143-204 in Roth in Bavaria, Germany"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-76-143-204 (1) in Roth, Bavaria"
-region: "Roth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Roth"
+  - "Bavaria"
 wikidata_id: "Q98142092"
 latitude: 49.239381725
 longitude: 11.087377109
 images:
-  []
----
+  []---
 
 ## Overview
 

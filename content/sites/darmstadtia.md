@@ -4,13 +4,13 @@ site_name: "Darmstadtia"
 date: 2026-01-26
 draft: false
 description: "statue in Darmstadt, Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q27478840"
 latitude: 49.874271583
 longitude: 8.657275177
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/400px-Darmstadtia_im_Darmstadtium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/800px-Darmstadtia_im_Darmstadtium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/1200px-Darmstadtia_im_Darmstadtium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/1920px-Darmstadtia_im_Darmstadtium.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/1920px-Darmstadtia_im_Darmstadtium.jpg---
 
 ## Overview
 

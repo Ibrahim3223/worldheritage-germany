@@ -4,13 +4,13 @@ site_name: "Synagoge (Blomberg)"
 date: 2026-01-26
 draft: false
 description: "Kulturdenkmal Ostfalen-Lippe"
-region: "Blomberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Blomberg"
+  - "Lower Saxony"
 wikidata_id: "Q2374972"
 latitude: 51.942
 longitude: 9.09138
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg/400px-Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg/800px-Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg/1200px-Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg/1920px-Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg/1920px-Blomberg_Ehem.-Synagoge_Siebenbürgen-1a_6.jpg---
 
 ## Overview
 

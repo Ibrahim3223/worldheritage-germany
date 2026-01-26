@@ -4,13 +4,13 @@ site_name: "Anna-Katharinenstift"
 date: 2026-01-26
 draft: false
 description: "katholische Einrichtung zur Rehabilitation erwachsener Menschen mit geistigen, körperlichen oder seelischen Behinderungen"
-region: "Dülmen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Dülmen"
+  - "Lower Saxony"
 wikidata_id: "Q559008"
 latitude: 51.86516
 longitude: 7.293457
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/400px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/800px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/1200px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/1920px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/1920px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg---
 
 ## Overview
 

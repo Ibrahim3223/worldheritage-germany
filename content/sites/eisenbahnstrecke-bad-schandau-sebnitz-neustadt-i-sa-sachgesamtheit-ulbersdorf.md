@@ -4,19 +4,18 @@ site_name: "Eisenbahnstrecke Bad Schandau -Sebnitz -Neustadt i. Sa. (Sachgesamth
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hohnstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hohnstein"
+  - "Saxony"
 wikidata_id: "Q49442548"
 latitude: 50.9554904
 longitude: 14.216377038
 images:
-  []
----
+  []---
 
 ## Overview
 

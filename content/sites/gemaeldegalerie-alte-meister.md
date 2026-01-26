@@ -4,13 +4,13 @@ site_name: "Gemäldegalerie Alte Meister"
 date: 2026-01-26
 draft: false
 description: "art gallery in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q4890"
 latitude: 51.05338
 longitude: 13.73466
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/400px-Dresden-Zwinger-Courtyard.11.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/800px-Dresden-Zwinger-Courtyard.11.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1200px-Dresden-Zwinger-Courtyard.11.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1920px-Dresden-Zwinger-Courtyard.11.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1920px-Dresden-Zwinger-Courtyard.11.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Christ Church"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Oberbilk, Germany"
-region: "District 3"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "District 3"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1087386"
 latitude: 51.2155
 longitude: 6.80149
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/400px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/800px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/1200px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/1920px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/1920px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg---
 
 ## Overview
 

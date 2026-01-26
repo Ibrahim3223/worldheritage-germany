@@ -4,13 +4,13 @@ site_name: "Heinrich-Büssing-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wolfsburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolfsburg"
+  - "Lower Saxony"
 wikidata_id: "Q1596362"
 latitude: 52.4014
 longitude: 10.8317
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Geburtshaus_Büssing.jpg/400px-Geburtshaus_Büssing.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Geburtshaus_Büssing.jpg/800px-Geburtshaus_Büssing.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Geburtshaus_Büssing.jpg/1200px-Geburtshaus_Büssing.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Geburtshaus_Büssing.jpg/1920px-Geburtshaus_Büssing.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Geburtshaus_Büssing.jpg/1920px-Geburtshaus_Büssing.jpg---
 
 ## Overview
 

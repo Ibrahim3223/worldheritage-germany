@@ -4,13 +4,13 @@ site_name: "Selimiye-Moschee Völklingen"
 date: 2026-01-26
 draft: false
 description: "Mosque in Völklingen, Germany"
-region: "Völklingen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Völklingen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q107065416"
 latitude: 49.2466
 longitude: 6.83829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/400px-20201105_Selimiye_Moschee_Völklingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/800px-20201105_Selimiye_Moschee_Völklingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/1200px-20201105_Selimiye_Moschee_Völklingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/1920px-20201105_Selimiye_Moschee_Völklingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/1920px-20201105_Selimiye_Moschee_Völklingen.jpg---
 
 ## Overview
 

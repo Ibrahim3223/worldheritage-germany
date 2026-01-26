@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7130-0067 in Fünfstetten"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Fünfstetten, Donau-Ries, Swabia, Bavaria, Germany"
-region: "Fünfstetten"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Fünfstetten"
+  - "Bavaria"
 wikidata_id: "Q98288262"
 latitude: 48.84469177
 longitude: 10.736901524
 images:
-  []
----
+  []---
 
 ## Overview
 

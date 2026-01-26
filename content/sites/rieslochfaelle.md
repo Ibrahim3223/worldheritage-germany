@@ -4,13 +4,13 @@ site_name: "Rieslochfälle"
 date: 2026-01-26
 draft: false
 description: "waterfall in Germany"
-region: "Bodenmais"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Bodenmais"
+  - "Bavaria"
 wikidata_id: "Q836234"
 latitude: 49.0875
 longitude: 13.114166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/400px-Riesloch_Cascade_-_Uppermost_part.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/800px-Riesloch_Cascade_-_Uppermost_part.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/1200px-Riesloch_Cascade_-_Uppermost_part.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/1920px-Riesloch_Cascade_-_Uppermost_part.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/1920px-Riesloch_Cascade_-_Uppermost_part.jpg---
 
 ## Overview
 

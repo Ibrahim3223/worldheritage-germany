@@ -4,13 +4,13 @@ site_name: "Kunsthalle in Emden"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q896726"
 latitude: 53.3699
 longitude: 7.20317
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/400px-Kunsthalle_Emden_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/800px-Kunsthalle_Emden_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/1200px-Kunsthalle_Emden_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/1920px-Kunsthalle_Emden_Eingangsbereich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/1920px-Kunsthalle_Emden_Eingangsbereich.jpg---
 
 ## Overview
 

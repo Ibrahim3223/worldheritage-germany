@@ -4,13 +4,13 @@ site_name: "Jutebrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403771"
 latitude: 51.253742
 longitude: 13.974836
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg/400px-Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg/800px-Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg/1200px-Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg/1920px-Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg/1920px-Rundbogenbrücke_(I)_Reichenbach_2020-05-16_8.jpg---
 
 ## Overview
 

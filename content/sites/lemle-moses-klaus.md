@@ -4,13 +4,13 @@ site_name: "Lemle-Moses-Klaus"
 date: 2026-01-26
 draft: false
 description: "ehemalige jüdische Talmudschule mit Synagoge in Mannheim"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1816892"
 latitude: 49.4886
 longitude: 8.46667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/400px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/800px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/1200px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/1920px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/1920px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg---
 
 ## Overview
 

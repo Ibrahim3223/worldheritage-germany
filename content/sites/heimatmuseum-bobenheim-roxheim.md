@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Bobenheim-Roxheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bobenheim-Roxheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bobenheim-Roxheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q21035599"
 latitude: 49.461402
 longitude: 8.149393
 images:
-  []
----
+  []---
 
 ## Overview
 

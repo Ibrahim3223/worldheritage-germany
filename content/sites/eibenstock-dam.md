@@ -4,13 +4,13 @@ site_name: "Eibenstock Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Schönheide"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Schönheide"
+  - "Bavaria"
 wikidata_id: "Q607636"
 latitude: 50.5233
 longitude: 12.5892
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/400px-Eibenstock_reservoir_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/800px-Eibenstock_reservoir_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1200px-Eibenstock_reservoir_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1920px-Eibenstock_reservoir_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1920px-Eibenstock_reservoir_(aka).jpg---
 
 ## Overview
 

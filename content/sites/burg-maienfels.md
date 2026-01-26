@@ -4,13 +4,13 @@ site_name: "Burg Maienfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wüstenrot"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wüstenrot"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013063"
 latitude: 49.12
 longitude: 9.51194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/400px-Burg_Maienfels_gesamt_20060916.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/800px-Burg_Maienfels_gesamt_20060916.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/1200px-Burg_Maienfels_gesamt_20060916.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/1920px-Burg_Maienfels_gesamt_20060916.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/1920px-Burg_Maienfels_gesamt_20060916.jpg---
 
 ## Overview
 

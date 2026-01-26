@@ -4,13 +4,13 @@ site_name: "Pfarrkirche St. Jakobus"
 date: 2026-01-26
 draft: false
 description: "roman catholic church building in Alfter, Germany"
-region: "Alfter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Alfter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2318939"
 latitude: 50.7252
 longitude: 7.01887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/400px-2012_St._Jakobus_(Gielsdorf)4a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/800px-2012_St._Jakobus_(Gielsdorf)4a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/1200px-2012_St._Jakobus_(Gielsdorf)4a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/1920px-2012_St._Jakobus_(Gielsdorf)4a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/1920px-2012_St._Jakobus_(Gielsdorf)4a.jpg---
 
 ## Overview
 

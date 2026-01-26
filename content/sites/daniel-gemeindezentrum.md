@@ -4,13 +4,13 @@ site_name: "Daniel-Gemeindezentrum"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q11722056"
 latitude: 52.4944
 longitude: 13.3088
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/400px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/800px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/1200px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/1920px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/1920px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg---
 
 ## Overview
 

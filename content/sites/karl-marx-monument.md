@@ -4,13 +4,13 @@ site_name: "Karl Marx monument"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt (Oder), Germany"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q1730098"
 latitude: 52.3498
 longitude: 14.5492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2006-03_Frankfurt_(Oder)_19.jpg/400px-2006-03_Frankfurt_(Oder)_19.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2006-03_Frankfurt_(Oder)_19.jpg/800px-2006-03_Frankfurt_(Oder)_19.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2006-03_Frankfurt_(Oder)_19.jpg/1200px-2006-03_Frankfurt_(Oder)_19.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2006-03_Frankfurt_(Oder)_19.jpg/1920px-2006-03_Frankfurt_(Oder)_19.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2006-03_Frankfurt_(Oder)_19.jpg/1920px-2006-03_Frankfurt_(Oder)_19.jpg---
 
 ## Overview
 

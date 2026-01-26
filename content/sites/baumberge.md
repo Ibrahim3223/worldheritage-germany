@@ -4,13 +4,13 @@ site_name: "Baumberge"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Berlin, Germany"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q811524"
 latitude: 52.5982
 longitude: 13.2303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/400px-Baumberge_Berlin_11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/800px-Baumberge_Berlin_11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/1200px-Baumberge_Berlin_11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/1920px-Baumberge_Berlin_11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/1920px-Baumberge_Berlin_11.jpg---
 
 ## Overview
 

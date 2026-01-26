@@ -4,13 +4,13 @@ site_name: "Dessau-Roßlau City Library: Main Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q545136"
 latitude: 51.8355
 longitude: 12.2472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dessau_asv2022-08_img10_Marktplatz.jpg/400px-Dessau_asv2022-08_img10_Marktplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dessau_asv2022-08_img10_Marktplatz.jpg/800px-Dessau_asv2022-08_img10_Marktplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dessau_asv2022-08_img10_Marktplatz.jpg/1200px-Dessau_asv2022-08_img10_Marktplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dessau_asv2022-08_img10_Marktplatz.jpg/1920px-Dessau_asv2022-08_img10_Marktplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dessau_asv2022-08_img10_Marktplatz.jpg/1920px-Dessau_asv2022-08_img10_Marktplatz.jpg---
 
 ## Overview
 

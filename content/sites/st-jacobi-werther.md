@@ -4,13 +4,13 @@ site_name: "St. Jacobi Werther"
 date: 2026-01-26
 draft: false
 description: "church building in Werther, Germany"
-region: "Werther"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Werther"
+  - "Lower Saxony"
 wikidata_id: "Q2318844"
 latitude: 52.072222222
 longitude: 8.413888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/400px-Werther_(Westfalen)_Pfarrkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/800px-Werther_(Westfalen)_Pfarrkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/1200px-Werther_(Westfalen)_Pfarrkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/1920px-Werther_(Westfalen)_Pfarrkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/1920px-Werther_(Westfalen)_Pfarrkirche.jpg---
 
 ## Overview
 

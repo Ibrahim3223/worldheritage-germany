@@ -4,13 +4,13 @@ site_name: "Leitenhausen (Gompertshausen)"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Gompertshausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Gompertshausen"
+  - "Bavaria"
 wikidata_id: "Q1816165"
 latitude: 50.3181
 longitude: 10.6094
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/400px-Leitenhausen-Gedenkstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/800px-Leitenhausen-Gedenkstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/1200px-Leitenhausen-Gedenkstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/1920px-Leitenhausen-Gedenkstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/1920px-Leitenhausen-Gedenkstein.jpg---
 
 ## Overview
 

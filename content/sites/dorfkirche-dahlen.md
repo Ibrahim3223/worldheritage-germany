@@ -4,13 +4,13 @@ site_name: "Dorfkirche Dahlen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q1244210"
 latitude: 52.5608
 longitude: 11.8252
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/400px-Dahlen_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/800px-Dahlen_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1200px-Dahlen_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1920px-Dahlen_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1920px-Dahlen_Dorfkirche.jpg---
 
 ## Overview
 

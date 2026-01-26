@@ -4,13 +4,13 @@ site_name: "Warnemünde Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1697562"
 latitude: 54.1814
 longitude: 12.0858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leuchtturm_Warnemünde_2012.jpg/400px-Leuchtturm_Warnemünde_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leuchtturm_Warnemünde_2012.jpg/800px-Leuchtturm_Warnemünde_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leuchtturm_Warnemünde_2012.jpg/1200px-Leuchtturm_Warnemünde_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leuchtturm_Warnemünde_2012.jpg/1920px-Leuchtturm_Warnemünde_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leuchtturm_Warnemünde_2012.jpg/1920px-Leuchtturm_Warnemünde_2012.jpg---
 
 ## Overview
 

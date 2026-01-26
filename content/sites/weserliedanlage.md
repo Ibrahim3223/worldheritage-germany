@@ -4,13 +4,13 @@ site_name: "Weserliedanlage"
 date: 2026-01-26
 draft: false
 description: "Denkmal mit Aussichtspunkt oberhalb von Hann. Münden in Niedersachsen"
-region: "Hann. Münden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Hann. Münden"
+  - "Hesse"
 wikidata_id: "Q1258599"
 latitude: 51.4227
 longitude: 9.64897
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Weserliedanlage_001.jpg/400px-Weserliedanlage_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Weserliedanlage_001.jpg/800px-Weserliedanlage_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Weserliedanlage_001.jpg/1200px-Weserliedanlage_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Weserliedanlage_001.jpg/1920px-Weserliedanlage_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Weserliedanlage_001.jpg/1920px-Weserliedanlage_001.jpg---
 
 ## Overview
 

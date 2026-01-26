@@ -4,13 +4,13 @@ site_name: "Bekenntniskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Gersthofen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gersthofen"
+  - "Bavaria"
 wikidata_id: "Q15107459"
 latitude: 48.43045
 longitude: 10.882405
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/400px-Bekenntniskirche_Gersthofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/800px-Bekenntniskirche_Gersthofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/1200px-Bekenntniskirche_Gersthofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/1920px-Bekenntniskirche_Gersthofen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/1920px-Bekenntniskirche_Gersthofen.jpg---
 
 ## Overview
 

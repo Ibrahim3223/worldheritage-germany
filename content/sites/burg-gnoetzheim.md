@@ -4,13 +4,13 @@ site_name: "Burg Gnötzheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-150-8 (0) in Martinsheim, Bavaria"
-region: "Martinsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Martinsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011983"
 latitude: 49.615393119
 longitude: 10.181462817
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gnötzheim_10-001.jpg/400px-Gnötzheim_10-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gnötzheim_10-001.jpg/800px-Gnötzheim_10-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gnötzheim_10-001.jpg/1200px-Gnötzheim_10-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gnötzheim_10-001.jpg/1920px-Gnötzheim_10-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gnötzheim_10-001.jpg/1920px-Gnötzheim_10-001.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-3-6736-0120 in Velburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Velburg, Neumarkt, Upper Palatinate, Bavaria, Germany"
-region: "Velburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Velburg"
+  - "Bavaria"
 wikidata_id: "Q98279825"
 latitude: 49.232972746
 longitude: 11.67162637
 images:
-  []
----
+  []---
 
 ## Overview
 

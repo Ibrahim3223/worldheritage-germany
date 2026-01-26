@@ -4,13 +4,13 @@ site_name: "Wettermuseum Lindenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tauche (municipality)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tauche (municipality)"
+  - "Brandenburg"
 wikidata_id: "Q19896614"
 latitude: 52.208167
 longitude: 14.11363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/400px-Eingang_Besucherzentrum_Wettermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/800px-Eingang_Besucherzentrum_Wettermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/1200px-Eingang_Besucherzentrum_Wettermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/1920px-Eingang_Besucherzentrum_Wettermuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/1920px-Eingang_Besucherzentrum_Wettermuseum.jpg---
 
 ## Overview
 

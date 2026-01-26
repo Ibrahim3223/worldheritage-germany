@@ -4,13 +4,13 @@ site_name: "Theklakapelle (Landshut)"
 date: 2026-01-26
 draft: false
 description: "church building in Landshut, Lower Bavaria, Germany"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q2416596"
 latitude: 48.5312
 longitude: 12.1502
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg/400px-Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg/800px-Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg/1200px-Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg/1920px-Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg/1920px-Alte_Bergstr._155_Theklakapelle_Landshut-1.jpg---
 
 ## Overview
 

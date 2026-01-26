@@ -4,13 +4,13 @@ site_name: "Ginkgo-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1525046"
 latitude: 50.9792
 longitude: 11.3292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ginkgo-Museum3.jpg/400px-Ginkgo-Museum3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ginkgo-Museum3.jpg/800px-Ginkgo-Museum3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ginkgo-Museum3.jpg/1200px-Ginkgo-Museum3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ginkgo-Museum3.jpg/1920px-Ginkgo-Museum3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ginkgo-Museum3.jpg/1920px-Ginkgo-Museum3.jpg---
 
 ## Overview
 

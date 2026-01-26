@@ -4,19 +4,18 @@ site_name: "Haus der Böhmerwäldler / Adolf-Webinger-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628791"
 latitude: 48.749999
 longitude: 13.814428
 images:
-  []
----
+  []---
 
 ## Overview
 

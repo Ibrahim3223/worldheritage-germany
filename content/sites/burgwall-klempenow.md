@@ -4,13 +4,13 @@ site_name: "Burgwall Klempenow"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Breest"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Breest"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1016183"
 latitude: 53.7967
 longitude: 13.3056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/400px-BurgwallKlempenow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/800px-BurgwallKlempenow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/1200px-BurgwallKlempenow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/1920px-BurgwallKlempenow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/1920px-BurgwallKlempenow.jpg---
 
 ## Overview 
 

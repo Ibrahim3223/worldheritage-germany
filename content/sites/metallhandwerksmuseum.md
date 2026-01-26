@@ -4,19 +4,18 @@ site_name: "Metallhandwerksmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Steinbach-Hallenberg"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steinbach-Hallenberg"
+  - "Thuringia"
 wikidata_id: "Q20480246"
 latitude: 50.6997862
 longitude: 10.5671961
 images:
-  []
----
+  []---
 
 ## Overview
 

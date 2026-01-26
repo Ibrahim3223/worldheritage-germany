@@ -4,13 +4,13 @@ site_name: "Ulu Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Lahr/Schwarzwald, Germany"
-region: "Lahr/Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Lahr/Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q88664452"
 latitude: 48.33535
 longitude: 7.83393
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulu_Moschee_Lahr.jpg/400px-Ulu_Moschee_Lahr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulu_Moschee_Lahr.jpg/800px-Ulu_Moschee_Lahr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulu_Moschee_Lahr.jpg/1200px-Ulu_Moschee_Lahr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulu_Moschee_Lahr.jpg/1920px-Ulu_Moschee_Lahr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulu_Moschee_Lahr.jpg/1920px-Ulu_Moschee_Lahr.jpg---
 
 ## Overview 
 

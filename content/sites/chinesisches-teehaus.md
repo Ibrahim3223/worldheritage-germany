@@ -4,13 +4,13 @@ site_name: "Chinesisches Teehaus"
 date: 2026-01-26
 draft: false
 description: "Bauwerk im Englisch-Chinesischen Garten Oranienbaum, Oranienbaum-Wörlitz, Landkreis Wittenberg, Sachsen-Anhalt"
-region: "Oranienbaum-Wörlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Structure"
 categories:
   - "Architectural Structure"
 regions:
-  - "Oranienbaum-Wörlitz"
+  - "Brandenburg"
 wikidata_id: "Q124054515"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ChinesischesHaus_Oranienbaum.jpg/400px-ChinesischesHaus_Oranienbaum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ChinesischesHaus_Oranienbaum.jpg/800px-ChinesischesHaus_Oranienbaum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ChinesischesHaus_Oranienbaum.jpg/1200px-ChinesischesHaus_Oranienbaum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ChinesischesHaus_Oranienbaum.jpg/1920px-ChinesischesHaus_Oranienbaum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ChinesischesHaus_Oranienbaum.jpg/1920px-ChinesischesHaus_Oranienbaum.jpg---
 
 ## Overview
 

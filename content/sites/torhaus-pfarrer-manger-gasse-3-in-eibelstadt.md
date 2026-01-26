@@ -4,13 +4,13 @@ site_name: "Torhaus Pfarrer-Manger-Gasse 3 in Eibelstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-79-124-74 (2) in Eibelstadt, Bavaria"
-region: "Eibelstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Eibelstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q98495713"
 latitude: 49.72383
 longitude: 9.99936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/400px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/800px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/1200px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/1920px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/1920px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg---
 
 ## Overview
 

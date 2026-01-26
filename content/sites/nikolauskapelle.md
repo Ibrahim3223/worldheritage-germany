@@ -4,13 +4,13 @@ site_name: "Nikolauskapelle"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Köln-Westhoven"
-region: "Westhoven"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Westhoven"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1761618"
 latitude: 50.8969
 longitude: 7.0161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nikolaus-Kapelle_Westhoven.jpg/400px-Nikolaus-Kapelle_Westhoven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nikolaus-Kapelle_Westhoven.jpg/800px-Nikolaus-Kapelle_Westhoven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nikolaus-Kapelle_Westhoven.jpg/1200px-Nikolaus-Kapelle_Westhoven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nikolaus-Kapelle_Westhoven.jpg/1920px-Nikolaus-Kapelle_Westhoven.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nikolaus-Kapelle_Westhoven.jpg/1920px-Nikolaus-Kapelle_Westhoven.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ortsbefestigung"
 date: 2026-01-26
 draft: false
 description: "Rest der mittelalterlichen Ortsbefestigung der rheinland-pfälzischen Ortsgemeinde Dirmstein"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q2032105"
 latitude: 49.5614
 longitude: 8.24477
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/400px-2007-Dirmstein-LaumershStr21a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/800px-2007-Dirmstein-LaumershStr21a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/1200px-2007-Dirmstein-LaumershStr21a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/1920px-2007-Dirmstein-LaumershStr21a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/1920px-2007-Dirmstein-LaumershStr21a.jpg---
 
 ## Overview
 

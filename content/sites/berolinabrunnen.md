@@ -4,13 +4,13 @@ site_name: "Berolinabrunnen"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Schwabing-Freimann"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Schwabing-Freimann"
+  - "Bavaria"
 wikidata_id: "Q826982"
 latitude: 48.1697
 longitude: 11.5897
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/400px-Berolinabrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/800px-Berolinabrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/1200px-Berolinabrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/1920px-Berolinabrunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/1920px-Berolinabrunnen.jpg---
 
 ## Overview
 

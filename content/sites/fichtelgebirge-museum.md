@@ -4,19 +4,18 @@ site_name: "Fichtelgebirge Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Wunsiedel, Bavaria, Germany"
-region: "Wunsiedel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wunsiedel"
+  - "Bavaria"
 wikidata_id: "Q1410938"
 latitude: 50.0389
 longitude: 12.0033
 images:
-  []
----
+  []---
 
 ## Overview
 

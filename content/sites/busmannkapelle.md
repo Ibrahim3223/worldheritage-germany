@@ -4,13 +4,13 @@ site_name: "Busmannkapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1017650"
 latitude: 51.0513
 longitude: 13.7349
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg/400px-Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg/800px-Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg/1200px-Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg/1920px-Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg/1920px-Christian_Gottlob_Hammer_-_Sophienkirche_1852.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hardenbergplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Charlottenburg-Wilmersdorf, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q476483"
 latitude: 52.5075
 longitude: 13.33361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/400px-Hardenbergplatz_3_08-05-15.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/800px-Hardenbergplatz_3_08-05-15.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/1200px-Hardenbergplatz_3_08-05-15.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/1920px-Hardenbergplatz_3_08-05-15.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/1920px-Hardenbergplatz_3_08-05-15.JPG---
 
 ## Overview
 

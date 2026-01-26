@@ -4,13 +4,13 @@ site_name: "Abbey of St. Nikola in Passau"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q768419"
 latitude: 48.570783333
 longitude: 13.457233333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/400px-St_Nikolakloster_Passau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/800px-St_Nikolakloster_Passau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/1200px-St_Nikolakloster_Passau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/1920px-St_Nikolakloster_Passau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/1920px-St_Nikolakloster_Passau.jpg---
 
 ## Overview
 

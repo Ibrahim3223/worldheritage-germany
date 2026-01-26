@@ -4,13 +4,13 @@ site_name: "Schloßplatzspringbrunnen"
 date: 2026-01-26
 draft: false
 description: "pair of fountains in Stuttgart, Germany"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q1000722"
 latitude: 48.7786
 longitude: 9.18
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg/400px-Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg/800px-Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg/1200px-Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg/1920px-Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg/1920px-Schlossplatzspringbrunnen_Schlossplatz_Stuttgart_2015_02.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Abtei Wadgassen"
 date: 2026-01-26
 draft: false
 description: "abgegangenes Kloster im Saarland,  Deutschland"
-region: "Saarlouis"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Saarlouis"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q334343"
 latitude: 49.2709
 longitude: 6.79197
 images:
-  []
----
+  []---
 
 ## Overview
 

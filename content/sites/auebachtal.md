@@ -4,13 +4,13 @@ site_name: "Auebachtal"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Rödinghausen, North Rhine-Westphalia, Germany"
-region: "Rödinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rödinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q759086"
 latitude: 52.2585
 longitude: 8.52337
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/400px-Bieren_Juni_2008_(11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/800px-Bieren_Juni_2008_(11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/1200px-Bieren_Juni_2008_(11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/1920px-Bieren_Juni_2008_(11).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/1920px-Bieren_Juni_2008_(11).jpg---
 
 ## Overview
 

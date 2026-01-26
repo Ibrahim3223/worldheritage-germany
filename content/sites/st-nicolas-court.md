@@ -4,13 +4,13 @@ site_name: "St. Nicolas Court"
 date: 2026-01-26
 draft: false
 description: "medieval monument group in Bardowick, Lüneburg district, Lower Saxony, Germany"
-region: "Bardowick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bardowick"
+  - "Lower Saxony"
 wikidata_id: "Q18592922"
 latitude: 53.291597
 longitude: 10.396427
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St._Nikolaihof.jpg/400px-St._Nikolaihof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St._Nikolaihof.jpg/800px-St._Nikolaihof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St._Nikolaihof.jpg/1200px-St._Nikolaihof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St._Nikolaihof.jpg/1920px-St._Nikolaihof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St._Nikolaihof.jpg/1920px-St._Nikolaihof.jpg---
 
 ## Overview
 

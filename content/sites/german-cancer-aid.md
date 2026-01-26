@@ -4,13 +4,13 @@ site_name: "German Cancer Aid"
 date: 2026-01-26
 draft: false
 description: "voluntary association"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1203257"
 latitude: 50.721348
 longitude: 7.112759
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/400px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/800px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1200px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1920px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1920px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg---
 
 ## Overview
 

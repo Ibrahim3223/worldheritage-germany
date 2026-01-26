@@ -4,13 +4,13 @@ site_name: "Burg Stolpe"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Angermünde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Angermünde"
+  - "Brandenburg"
 wikidata_id: "Q1014142"
 latitude: 52.9807
 longitude: 14.1159
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/18-06-06-Fotoflug-Uckermark_RRK4006.jpg/400px-18-06-06-Fotoflug-Uckermark_RRK4006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/18-06-06-Fotoflug-Uckermark_RRK4006.jpg/800px-18-06-06-Fotoflug-Uckermark_RRK4006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/18-06-06-Fotoflug-Uckermark_RRK4006.jpg/1200px-18-06-06-Fotoflug-Uckermark_RRK4006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/18-06-06-Fotoflug-Uckermark_RRK4006.jpg/1920px-18-06-06-Fotoflug-Uckermark_RRK4006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/18-06-06-Fotoflug-Uckermark_RRK4006.jpg/1920px-18-06-06-Fotoflug-Uckermark_RRK4006.jpg---
 
 ## Overview
 

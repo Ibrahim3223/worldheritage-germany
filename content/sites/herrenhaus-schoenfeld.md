@@ -4,13 +4,13 @@ site_name: "Herrenhaus Schönfeld"
 date: 2026-01-26
 draft: false
 description: "Gutshaus in Deutschland"
-region: "Mühlen Eichsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Mühlen Eichsen"
+  - "Lower Saxony"
 wikidata_id: "Q1614090"
 latitude: 53.7231
 longitude: 11.2572
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/400px-Schönfeld_Gutshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/800px-Schönfeld_Gutshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/1200px-Schönfeld_Gutshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/1920px-Schönfeld_Gutshaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/1920px-Schönfeld_Gutshaus.jpg---
 
 ## Overview
 

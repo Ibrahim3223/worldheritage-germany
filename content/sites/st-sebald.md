@@ -4,13 +4,13 @@ site_name: "St. Sebald"
 date: 2026-01-26
 draft: false
 description: "chapel in Helfenbrunn"
-region: "Kirchdorf an der Amper"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kirchdorf an der Amper"
+  - "Bavaria"
 wikidata_id: "Q1439595"
 latitude: 48.4586
 longitude: 11.6814
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St_sebald_helfenbrunn.jpg/400px-St_sebald_helfenbrunn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St_sebald_helfenbrunn.jpg/800px-St_sebald_helfenbrunn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St_sebald_helfenbrunn.jpg/1200px-St_sebald_helfenbrunn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St_sebald_helfenbrunn.jpg/1920px-St_sebald_helfenbrunn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St_sebald_helfenbrunn.jpg/1920px-St_sebald_helfenbrunn.jpg---
 
 ## Overview
 

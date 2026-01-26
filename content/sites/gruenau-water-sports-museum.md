@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wassersportmuseum_Eingang.JPG/400px-Wassersportmuseum_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wassersportmuseum_Eingang.JPG/800px-Wassersportmuseum_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wassersportmuseum_Eingang.JPG/1200px-Wassersportmuseum_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wassersportmuseum_Eingang.JPG/1920px-Wassersportmuseum_Eingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wassersportmuseum_Eingang.JPG/1920px-Wassersportmuseum_Eingang.JPG---
 
 ## Overview
 

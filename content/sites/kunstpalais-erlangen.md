@@ -4,13 +4,13 @@ site_name: "Kunstpalais Erlangen"
 date: 2026-01-26
 draft: false
 description: "museum in Franconia"
-region: "Erlangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erlangen"
+  - "Bavaria"
 wikidata_id: "Q1233657"
 latitude: 49.59724
 longitude: 11.00376
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/400px-Kunstpalais_erlangen1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/800px-Kunstpalais_erlangen1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/1200px-Kunstpalais_erlangen1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/1920px-Kunstpalais_erlangen1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/1920px-Kunstpalais_erlangen1.jpg---
 
 ## Overview
 

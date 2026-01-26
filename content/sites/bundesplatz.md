@@ -4,13 +4,13 @@ site_name: "Bundesplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1006459"
 latitude: 52.4789
 longitude: 13.3281
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_Bundesplatz_asv2021-03_img1.jpg/400px-Berlin_Bundesplatz_asv2021-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_Bundesplatz_asv2021-03_img1.jpg/800px-Berlin_Bundesplatz_asv2021-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_Bundesplatz_asv2021-03_img1.jpg/1200px-Berlin_Bundesplatz_asv2021-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_Bundesplatz_asv2021-03_img1.jpg/1920px-Berlin_Bundesplatz_asv2021-03_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_Bundesplatz_asv2021-03_img1.jpg/1920px-Berlin_Bundesplatz_asv2021-03_img1.jpg---
 
 ## Overview
 

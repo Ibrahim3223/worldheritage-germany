@@ -4,19 +4,18 @@ site_name: "Museumsstellwerk Mfw Mühldorf"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Mühldorf am Inn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mühldorf am Inn"
+  - "Bavaria"
 wikidata_id: "Q985083"
 latitude: 48.248381
 longitude: 12.504742
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kühleweinstraße_(Berlin-Reinickendorf).JPG/400px-Kühleweinstraße_(Berlin-Reinickendorf).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kühleweinstraße_(Berlin-Reinickendorf).JPG/800px-Kühleweinstraße_(Berlin-Reinickendorf).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kühleweinstraße_(Berlin-Reinickendorf).JPG/1200px-Kühleweinstraße_(Berlin-Reinickendorf).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kühleweinstraße_(Berlin-Reinickendorf).JPG/1920px-Kühleweinstraße_(Berlin-Reinickendorf).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kühleweinstraße_(Berlin-Reinickendorf).JPG/1920px-Kühleweinstraße_(Berlin-Reinickendorf).JPG---
 
 ## Overview
 

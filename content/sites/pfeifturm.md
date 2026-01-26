@@ -4,13 +4,13 @@ site_name: "Pfeifturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q1146660"
 latitude: 48.763443039
 longitude: 11.424610671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/400px-Pfeifturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/800px-Pfeifturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/1200px-Pfeifturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/1920px-Pfeifturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/1920px-Pfeifturm.JPG---
 
 ## Overview
 

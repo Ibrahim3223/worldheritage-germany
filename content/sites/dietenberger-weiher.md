@@ -4,19 +4,18 @@ site_name: "Dietenberger Weiher"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Waldburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Waldburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1221515"
 latitude: 47.7475
 longitude: 9.71194444
 images:
-  []
----
+  []---
 
 ## Overview
 

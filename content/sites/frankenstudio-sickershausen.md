@@ -4,13 +4,13 @@ site_name: "Frankenstudio Sickershausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Sickershausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sickershausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q15810158"
 latitude: 49.721581
 longitude: 10.184706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/400px-FrankenstudioSi.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/800px-FrankenstudioSi.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/1200px-FrankenstudioSi.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/1920px-FrankenstudioSi.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/1920px-FrankenstudioSi.JPG---
 
 ## Overview
 

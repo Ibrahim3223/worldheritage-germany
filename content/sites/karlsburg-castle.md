@@ -4,13 +4,13 @@ site_name: "Karlsburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q314563"
 latitude: 48.998502777
 longitude: 8.473827777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/400px-Karlsruhe_Durlach_Karlsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/800px-Karlsruhe_Durlach_Karlsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/1200px-Karlsruhe_Durlach_Karlsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/1920px-Karlsruhe_Durlach_Karlsburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/1920px-Karlsruhe_Durlach_Karlsburg.jpg---
 
 ## Overview
 

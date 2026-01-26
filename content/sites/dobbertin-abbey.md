@@ -4,13 +4,13 @@ site_name: "Dobbertin Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Dobbertin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Dobbertin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q823818"
 latitude: 53.615
 longitude: 12.0775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/400px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/800px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1200px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1920px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1920px-Dobbertin_Klosterkirche_2009-10-20_001.jpg---
 
 ## Overview
 

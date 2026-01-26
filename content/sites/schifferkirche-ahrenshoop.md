@@ -4,13 +4,13 @@ site_name: "Schifferkirche Ahrenshoop"
 date: 2026-01-26
 draft: false
 description: "church building in Ahrenshoop, Germany"
-region: "Ahrenshoop"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ahrenshoop"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2235002"
 latitude: 54.382611111
 longitude: 12.425166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/400px-Schifferkirche_Ahrenshoop_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/800px-Schifferkirche_Ahrenshoop_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/1200px-Schifferkirche_Ahrenshoop_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/1920px-Schifferkirche_Ahrenshoop_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/1920px-Schifferkirche_Ahrenshoop_Front.jpg---
 
 ## Overview
 

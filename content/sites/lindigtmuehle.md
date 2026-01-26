@@ -4,13 +4,13 @@ site_name: "Lindigtmühle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frohburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frohburg"
+  - "Saxony"
 wikidata_id: "Q49452832"
 latitude: 51.004142147
 longitude: 12.608589826
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/400px-Lindigtmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/800px-Lindigtmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/1200px-Lindigtmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/1920px-Lindigtmühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/1920px-Lindigtmühle.jpg---
 
 ## Overview
 

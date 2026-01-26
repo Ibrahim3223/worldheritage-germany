@@ -4,19 +4,18 @@ site_name: "Carlshütte"
 date: 2026-01-26
 draft: false
 description: "former company in Büdelsdorf, Germany"
-region: "Büdelsdorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Büdelsdorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1043377"
 latitude: 54.3123
 longitude: 9.669
 images:
-  []
----
+  []---
 
 ## Overview
 

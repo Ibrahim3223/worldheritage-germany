@@ -4,19 +4,18 @@ site_name: "Niederlausitzer Museumseisenbahn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Crinitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Crinitz"
+  - "Brandenburg"
 wikidata_id: "Q1987982"
 latitude: 51.7386773
 longitude: 13.742152
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "former Apothecary garden of the Mohren pharmacy Torgau"
 date: 2026-01-26
 draft: false
 description: "garden and garden house in Torgau in Germany"
-region: "Torgau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Torgau"
+  - "Brandenburg"
 wikidata_id: "Q49595363"
 latitude: 51.560427805
 longitude: 13.005677374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Torgau_Marienkirche2.jpg/400px-Torgau_Marienkirche2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Torgau_Marienkirche2.jpg/800px-Torgau_Marienkirche2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Torgau_Marienkirche2.jpg/1200px-Torgau_Marienkirche2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Torgau_Marienkirche2.jpg/1920px-Torgau_Marienkirche2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Torgau_Marienkirche2.jpg/1920px-Torgau_Marienkirche2.jpg---
 
 ## Overview
 

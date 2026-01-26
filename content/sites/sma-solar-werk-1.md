@@ -4,19 +4,18 @@ site_name: "SMA Solar-Werk 1"
 date: 2026-01-26
 draft: false
 description: "Solarwechselrichter-Fabrik in Kassel"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q2206701"
 latitude: 51.3125
 longitude: 9.53694
 images:
-  []
----
+  []---
 
 ## Overview
 

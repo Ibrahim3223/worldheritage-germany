@@ -4,13 +4,13 @@ site_name: "Bosnische Moschee Böblingen-Sindelfingen"
 date: 2026-01-26
 draft: false
 description: "Moschee und islamisches Kulturzentrum"
-region: "Sindelfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Sindelfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q108828223"
 latitude: 48.69745
 longitude: 9.00592
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg/400px-Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg/800px-Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg/1200px-Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg/1920px-Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg/1920px-Bosnische_Moschee_Böblingen-Sindelfingen_in_Sindelfingen_03.jpg---
 
 ## Overview
 

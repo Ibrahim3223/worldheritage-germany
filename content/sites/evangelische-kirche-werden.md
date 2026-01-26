@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Werden"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1380692"
 latitude: 51.39045
 longitude: 7.003
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/400px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/800px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/1200px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/1920px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/1920px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg---
 
 ## Overview
 

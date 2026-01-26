@@ -4,13 +4,13 @@ site_name: "Village church Großziethen"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Schönefeld"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schönefeld"
+  - "Berlin"
 wikidata_id: "Q1244331"
 latitude: 52.39638889
 longitude: 13.44805556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Großziethen_Dorfkirche.jpg/400px-Großziethen_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Großziethen_Dorfkirche.jpg/800px-Großziethen_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Großziethen_Dorfkirche.jpg/1200px-Großziethen_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Großziethen_Dorfkirche.jpg/1920px-Großziethen_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Großziethen_Dorfkirche.jpg/1920px-Großziethen_Dorfkirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Village museum Gahlenz"
 date: 2026-01-26
 draft: false
 description: "museum in Oederan, Germany"
-region: "Oederan"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oederan"
+  - "Saxony"
 wikidata_id: "Q1244879"
 latitude: 50.8368
 longitude: 13.2224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/400px-Dorfmuseum_Gahlenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/800px-Dorfmuseum_Gahlenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/1200px-Dorfmuseum_Gahlenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/1920px-Dorfmuseum_Gahlenz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/1920px-Dorfmuseum_Gahlenz.jpg---
 
 ## Overview
 

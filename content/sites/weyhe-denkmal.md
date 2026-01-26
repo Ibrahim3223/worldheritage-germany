@@ -4,13 +4,13 @@ site_name: "Weyhe-Denkmal"
 date: 2026-01-26
 draft: false
 description: "statue in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1515338"
 latitude: 51.2299
 longitude: 6.786
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/400px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/800px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/1200px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/1920px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/1920px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg---
 
 ## Overview
 

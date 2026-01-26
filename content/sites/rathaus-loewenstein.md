@@ -4,13 +4,13 @@ site_name: "Rathaus Löwenstein"
 date: 2026-01-26
 draft: false
 description: "Rathaus der Stadt Löwenstein"
-region: "Löwenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Löwenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q123138058"
 latitude: 49.095006
 longitude: 9.380127
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Loewenstein_Rathaus_20070407.jpg/400px-Loewenstein_Rathaus_20070407.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Loewenstein_Rathaus_20070407.jpg/800px-Loewenstein_Rathaus_20070407.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Loewenstein_Rathaus_20070407.jpg/1200px-Loewenstein_Rathaus_20070407.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Loewenstein_Rathaus_20070407.jpg/1920px-Loewenstein_Rathaus_20070407.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Loewenstein_Rathaus_20070407.jpg/1920px-Loewenstein_Rathaus_20070407.jpg---
 
 ## Overview
 

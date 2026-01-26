@@ -4,13 +4,13 @@ site_name: "German Ivory Museum Erbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Erbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Erbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205606"
 latitude: 49.663002777
 longitude: 9.00075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/400px-Elfenbeinmuseum_Erbach_aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/800px-Elfenbeinmuseum_Erbach_aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1200px-Elfenbeinmuseum_Erbach_aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1920px-Elfenbeinmuseum_Erbach_aussen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1920px-Elfenbeinmuseum_Erbach_aussen.jpg---
 
 ## Overview
 

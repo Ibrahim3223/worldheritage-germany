@@ -4,13 +4,13 @@ site_name: "Pankratiuskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Heilbronn, Baden-Württemberg, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q2049584"
 latitude: 49.1336
 longitude: 9.19444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/400px-Boeckingen-pankratius2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/800px-Boeckingen-pankratius2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/1200px-Boeckingen-pankratius2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/1920px-Boeckingen-pankratius2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/1920px-Boeckingen-pankratius2008.jpg---
 
 ## Overview
 

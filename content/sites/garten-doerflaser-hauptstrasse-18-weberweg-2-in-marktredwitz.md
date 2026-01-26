@@ -4,19 +4,18 @@ site_name: "Garten Dörflaser Hauptstraße 18; Weberweg 2 in Marktredwitz"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-79-136-128 (1) in Marktredwitz, Bavaria"
-region: "Marktredwitz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Marktredwitz"
+  - "Bavaria"
 wikidata_id: "Q98589391"
 latitude: 49.997366075
 longitude: 12.086891629
 images:
-  []
----
+  []---
 
 ## Overview
 

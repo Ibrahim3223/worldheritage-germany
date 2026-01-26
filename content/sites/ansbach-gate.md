@@ -4,13 +4,13 @@ site_name: "Ansbach Gate"
 date: 2026-01-26
 draft: false
 description: "gatehouse in Heilsbronn, Middle Franconia, Germany"
-region: "Heilsbronn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Heilsbronn"
+  - "Bavaria"
 wikidata_id: "Q41366323"
 latitude: 49.337131052
 longitude: 10.788720204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/400px-Heilsbronn,_Hauptstraße_24-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/800px-Heilsbronn,_Hauptstraße_24-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/1200px-Heilsbronn,_Hauptstraße_24-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/1920px-Heilsbronn,_Hauptstraße_24-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/1920px-Heilsbronn,_Hauptstraße_24-001.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Senftenberger See"
 date: 2026-01-26
 draft: false
 description: "lake in Oberspreewald-Lausitz District, Brandenburg, Germany"
-region: "Senftenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Senftenberg"
+  - "Brandenburg"
 wikidata_id: "Q149660"
 latitude: 51.5
 longitude: 14.016666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/400px-Senftenberg_See_lub_2023-08-24_img07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/800px-Senftenberg_See_lub_2023-08-24_img07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/1200px-Senftenberg_See_lub_2023-08-24_img07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/1920px-Senftenberg_See_lub_2023-08-24_img07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/1920px-Senftenberg_See_lub_2023-08-24_img07.jpg---
 
 ## Overview
 

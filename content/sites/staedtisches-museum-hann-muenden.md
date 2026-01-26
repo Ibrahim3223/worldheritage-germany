@@ -4,19 +4,18 @@ site_name: "Städtisches Museum Hann. Münden"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hann. Münden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hann. Münden"
+  - "Hesse"
 wikidata_id: "Q76636141"
 latitude: 51.41806
 longitude: 9.65494
 images:
-  []
----
+  []---
 
 ## Overview
 

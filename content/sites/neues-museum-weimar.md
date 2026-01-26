@@ -4,13 +4,13 @@ site_name: "Neues Museum Weimar"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1980351"
 latitude: 50.9861
 longitude: 11.3264
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/400px-Weimar,_Museum_Neues_Weimar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/800px-Weimar,_Museum_Neues_Weimar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/1200px-Weimar,_Museum_Neues_Weimar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/1920px-Weimar,_Museum_Neues_Weimar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/1920px-Weimar,_Museum_Neues_Weimar.jpg---
 
 ## Overview
 

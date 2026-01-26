@@ -4,13 +4,13 @@ site_name: "Anhaltisches Theater"
 date: 2026-01-26
 draft: false
 description: "theatre and opera house in Dessau, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q545160"
 latitude: 51.8367
 longitude: 12.2364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/400px-Dessau,Anhaltisches_Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/800px-Dessau,Anhaltisches_Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/1200px-Dessau,Anhaltisches_Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/1920px-Dessau,Anhaltisches_Theater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/1920px-Dessau,Anhaltisches_Theater.jpg---
 
 ## Overview
 

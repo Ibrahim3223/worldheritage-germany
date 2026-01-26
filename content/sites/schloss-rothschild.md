@@ -4,13 +4,13 @@ site_name: "Schloss Rothschild"
 date: 2026-01-26
 draft: false
 description: "Repräsentativbau in Hemsbach, Rhein-Neckar-Kreis"
-region: "Hemsbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Hemsbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q137570734"
 latitude: 49.589158337
 longitude: 8.653427005
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg/400px-Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg/800px-Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg/1200px-Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg/1920px-Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg/1920px-Südseite_vom_Rathaus_Rothschild_Schloss_Foto_Karl_Döringer.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Remscheid municipal archive and museum"
 date: 2026-01-26
 draft: false
 description: "Municipal archive, museum in Germany"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1485888"
 latitude: 51.1972
 longitude: 7.16575
 images:
-  []
----
+  []---
 
 ## Overview
 

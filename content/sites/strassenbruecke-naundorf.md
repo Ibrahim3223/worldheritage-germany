@@ -4,19 +4,18 @@ site_name: "Straßenbrücke Naundorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bobritzsch-Hilbersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bobritzsch-Hilbersdorf"
+  - "Saxony"
 wikidata_id: "Q49446013"
 latitude: 50.932538227
 longitude: 13.43694509
 images:
-  []
----
+  []---
 
 ## Overview 
 

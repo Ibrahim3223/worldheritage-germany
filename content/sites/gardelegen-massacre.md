@@ -4,19 +4,18 @@ site_name: "Gardelegen massacre"
 date: 2026-01-26
 draft: false
 description: "German war crime - massacre near the town Gardelegen in Saxony-Anhalt, Germany"
-region: "Gardelegen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Gardelegen"
+  - "Brandenburg"
 wikidata_id: "Q1885006"
 latitude: 52.5378
 longitude: 11.4219
 images:
-  []
----
+  []---
 
 ## Overview
 

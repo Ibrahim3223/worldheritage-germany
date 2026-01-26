@@ -4,13 +4,13 @@ site_name: "St. Dionysius (Seppenrade)"
 date: 2026-01-26
 draft: false
 description: "church building in Lüdinghausen, Germany"
-region: "Lüdinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lüdinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q2318017"
 latitude: 51.7623
 longitude: 7.39616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/400px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/800px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/1200px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/1920px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/1920px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg---
 
 ## Overview
 

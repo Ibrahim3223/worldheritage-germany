@@ -4,13 +4,13 @@ site_name: "Römisches Museum Augsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2202627"
 latitude: 48.3652
 longitude: 10.901
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/400px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/800px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/1200px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/1920px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/1920px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg---
 
 ## Overview
 

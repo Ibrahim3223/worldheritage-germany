@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wasserfall_Kleine_Kyll.JPG/400px-Wasserfall_Kleine_Kyll.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wasserfall_Kleine_Kyll.JPG/800px-Wasserfall_Kleine_Kyll.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wasserfall_Kleine_Kyll.JPG/1200px-Wasserfall_Kleine_Kyll.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wasserfall_Kleine_Kyll.JPG/1920px-Wasserfall_Kleine_Kyll.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wasserfall_Kleine_Kyll.JPG/1920px-Wasserfall_Kleine_Kyll.JPG---
 
 ## Overview
 

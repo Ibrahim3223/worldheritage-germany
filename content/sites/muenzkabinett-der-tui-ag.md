@@ -4,19 +4,18 @@ site_name: "Münzkabinett der TUI AG"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q76636159"
 latitude: 52.384001
 longitude: 9.811558
 images:
-  []
----
+  []---
 
 ## Overview
 

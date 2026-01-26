@@ -4,13 +4,13 @@ site_name: "Zotzensee (Havel)"
 date: 2026-01-26
 draft: false
 description: "lake"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q226991"
 latitude: 53.3807
 longitude: 12.8825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/400px-Zotzensee_Nordwestufer.nnw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/800px-Zotzensee_Nordwestufer.nnw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/1200px-Zotzensee_Nordwestufer.nnw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/1920px-Zotzensee_Nordwestufer.nnw.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/1920px-Zotzensee_Nordwestufer.nnw.jpg---
 
 ## Overview
 

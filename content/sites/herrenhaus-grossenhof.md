@@ -4,13 +4,13 @@ site_name: "Herrenhaus Großenhof"
 date: 2026-01-26
 draft: false
 description: "Fachwerkgutshaus in der Gemeinde Warnow (Mecklenburg-Vorpommern)"
-region: "Warnow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Warnow"
+  - "Lower Saxony"
 wikidata_id: "Q1122266"
 latitude: 53.888
 longitude: 11.2058
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/400px-Herrenhaus_Großenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/800px-Herrenhaus_Großenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/1200px-Herrenhaus_Großenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/1920px-Herrenhaus_Großenhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/1920px-Herrenhaus_Großenhof.jpg---
 
 ## Overview
 

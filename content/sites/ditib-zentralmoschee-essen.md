@@ -4,13 +4,13 @@ site_name: "DITIB-Zentralmoschee Essen"
 date: 2026-01-26
 draft: false
 description: "Moschee in Deutschland"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1153882"
 latitude: 51.4564
 longitude: 6.96611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/400px-Zentralmoschee_im_Bau_im_April_2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/800px-Zentralmoschee_im_Bau_im_April_2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/1200px-Zentralmoschee_im_Bau_im_April_2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/1920px-Zentralmoschee_im_Bau_im_April_2014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/1920px-Zentralmoschee_im_Bau_im_April_2014.JPG---
 
 ## Overview
 

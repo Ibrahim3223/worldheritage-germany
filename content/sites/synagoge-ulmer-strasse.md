@@ -4,13 +4,13 @@ site_name: "Synagoge Ulmer Straße"
 date: 2026-01-26
 draft: false
 description: "jüdischer Sakralbau in Augsburg, Bayern, Deutschland"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2375463"
 latitude: 48.379888502
 longitude: 10.851205046
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Synagoge_Kriegshaber_03.jpg/400px-Synagoge_Kriegshaber_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Synagoge_Kriegshaber_03.jpg/800px-Synagoge_Kriegshaber_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Synagoge_Kriegshaber_03.jpg/1200px-Synagoge_Kriegshaber_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Synagoge_Kriegshaber_03.jpg/1920px-Synagoge_Kriegshaber_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Synagoge_Kriegshaber_03.jpg/1920px-Synagoge_Kriegshaber_03.jpg---
 
 ## Overview
 

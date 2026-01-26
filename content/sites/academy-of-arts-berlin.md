@@ -4,13 +4,13 @@ site_name: "Academy of Arts, Berlin"
 date: 2026-01-26
 draft: false
 description: "national German academic institution for the advancement of the arts; created in 1993 through the merger of the West and East German academies"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q414110"
 latitude: 52.515
 longitude: 13.379444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/400px-Akademie_der_künste_berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/800px-Akademie_der_künste_berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1200px-Akademie_der_künste_berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1920px-Akademie_der_künste_berlin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1920px-Akademie_der_künste_berlin.JPG---
 
 ## Overview
 

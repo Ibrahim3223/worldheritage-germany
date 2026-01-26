@@ -4,19 +4,18 @@ site_name: "Granitstein an der Brücke zur Mühle (an der Brücke zur Mühle)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Kubschütz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Kubschütz"
+  - "Saxony"
 wikidata_id: "Q49409413"
 latitude: 51.138269
 longitude: 14.513502
 images:
-  []
----
+  []---
 
 ## Overview
 

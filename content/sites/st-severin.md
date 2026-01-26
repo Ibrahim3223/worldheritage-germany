@@ -4,13 +4,13 @@ site_name: "St. Severin"
 date: 2026-01-26
 draft: false
 description: "church building in Meschede, Germany"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q2323164"
 latitude: 51.3359
 longitude: 8.21566
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/400px-Kirche_Calle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/800px-Kirche_Calle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/1200px-Kirche_Calle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/1920px-Kirche_Calle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/1920px-Kirche_Calle.jpg---
 
 ## Overview
 

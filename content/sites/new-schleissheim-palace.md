@@ -4,13 +4,13 @@ site_name: "New Schleissheim Palace"
 date: 2026-01-26
 draft: false
 description: "part of Schleissheim Palace"
-region: "Oberschleißheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Oberschleißheim"
+  - "Bavaria"
 wikidata_id: "Q17121915"
 latitude: 48.2488382
 longitude: 11.5610036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/400px-Schloss_Oberschleissheim_-_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/800px-Schloss_Oberschleissheim_-_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/1200px-Schloss_Oberschleissheim_-_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/1920px-Schloss_Oberschleissheim_-_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Oberschleissheim_-_Panorama.jpg/1920px-Schloss_Oberschleissheim_-_Panorama.jpg---
 
 ## Overview
 

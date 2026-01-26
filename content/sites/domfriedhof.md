@@ -4,13 +4,13 @@ site_name: "Domfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Limburg an der Lahn, Germany"
-region: "Limburg an der Lahn"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Limburg an der Lahn"
+  - "Hesse"
 wikidata_id: "Q1299443"
 latitude: 50.3891
 longitude: 8.06637
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ehemaliger_Friedhof_Limburg_02.jpg/400px-Ehemaliger_Friedhof_Limburg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ehemaliger_Friedhof_Limburg_02.jpg/800px-Ehemaliger_Friedhof_Limburg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ehemaliger_Friedhof_Limburg_02.jpg/1200px-Ehemaliger_Friedhof_Limburg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ehemaliger_Friedhof_Limburg_02.jpg/1920px-Ehemaliger_Friedhof_Limburg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ehemaliger_Friedhof_Limburg_02.jpg/1920px-Ehemaliger_Friedhof_Limburg_02.jpg---
 
 ## Overview
 

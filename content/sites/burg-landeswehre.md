@@ -4,13 +4,13 @@ site_name: "Burg Landeswehre"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Meiningen"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Meiningen"
+  - "Thuringia"
 wikidata_id: "Q1012822"
 latitude: 50.6005
 longitude: 10.395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/400px-Landsberg3-Meiningen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/800px-Landsberg3-Meiningen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/1200px-Landsberg3-Meiningen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/1920px-Landsberg3-Meiningen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/1920px-Landsberg3-Meiningen.JPG---
 
 ## Overview
 

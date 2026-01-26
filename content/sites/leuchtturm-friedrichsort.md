@@ -4,13 +4,13 @@ site_name: "Leuchtturm Friedrichsort"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1821426"
 latitude: 54.39027778
 longitude: 10.19333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/400px-Leuchtturm_Friedrichsort_Kiel2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/800px-Leuchtturm_Friedrichsort_Kiel2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/1200px-Leuchtturm_Friedrichsort_Kiel2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/1920px-Leuchtturm_Friedrichsort_Kiel2014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/1920px-Leuchtturm_Friedrichsort_Kiel2014.JPG---
 
 ## Overview
 

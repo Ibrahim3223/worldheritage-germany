@@ -4,13 +4,13 @@ site_name: "Vineum Bodensee"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Meersburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meersburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q27831274"
 latitude: 47.693732
 longitude: 9.273098
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/400px-Meersburg-vorburggasse-vineum-eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/800px-Meersburg-vorburggasse-vineum-eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/1200px-Meersburg-vorburggasse-vineum-eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/1920px-Meersburg-vorburggasse-vineum-eingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/1920px-Meersburg-vorburggasse-vineum-eingang.JPG---
 
 ## Overview
 

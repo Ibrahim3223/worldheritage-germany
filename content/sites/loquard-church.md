@@ -4,13 +4,13 @@ site_name: "Loquard Church"
 date: 2026-01-26
 draft: false
 description: "church building in Loquard, Germany"
-region: "Loquard"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Loquard"
+  - "Lower Saxony"
 wikidata_id: "Q1869813"
 latitude: 53.3903
 longitude: 7.04525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/400px-ChurchLoquard.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/800px-ChurchLoquard.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/1200px-ChurchLoquard.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/1920px-ChurchLoquard.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/1920px-ChurchLoquard.JPG---
 
 ## Overview
 

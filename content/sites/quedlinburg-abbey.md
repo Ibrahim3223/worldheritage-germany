@@ -4,13 +4,13 @@ site_name: "Quedlinburg Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Quedlinburg, Saxony-Anhalt, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q829708"
 latitude: 51.785944444
 longitude: 11.136805555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/400px-Quedlinburg_asv2018-10_img03_Castle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/800px-Quedlinburg_asv2018-10_img03_Castle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/1200px-Quedlinburg_asv2018-10_img03_Castle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/1920px-Quedlinburg_asv2018-10_img03_Castle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Quedlinburg_asv2018-10_img03_Castle.jpg/1920px-Quedlinburg_asv2018-10_img03_Castle.jpg---
 
 ## Overview
 

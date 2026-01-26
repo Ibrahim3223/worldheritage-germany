@@ -4,13 +4,13 @@ site_name: "Opernplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q195190"
 latitude: 50.1153
 longitude: 8.67139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alte_Oper_Frankfurt_abends_2011-07.jpg/400px-Alte_Oper_Frankfurt_abends_2011-07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alte_Oper_Frankfurt_abends_2011-07.jpg/800px-Alte_Oper_Frankfurt_abends_2011-07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alte_Oper_Frankfurt_abends_2011-07.jpg/1200px-Alte_Oper_Frankfurt_abends_2011-07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alte_Oper_Frankfurt_abends_2011-07.jpg/1920px-Alte_Oper_Frankfurt_abends_2011-07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alte_Oper_Frankfurt_abends_2011-07.jpg/1920px-Alte_Oper_Frankfurt_abends_2011-07.jpg---
 
 ## Overview
 

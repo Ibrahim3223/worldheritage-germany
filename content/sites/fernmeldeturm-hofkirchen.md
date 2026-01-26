@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Hofkirchen"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Laberweinting"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Laberweinting"
+  - "Bavaria"
 wikidata_id: "Q1407065"
 latitude: 48.7606
 longitude: 12.3349
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/400px-Fernmeldeturm_Hofkirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/800px-Fernmeldeturm_Hofkirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/1200px-Fernmeldeturm_Hofkirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/1920px-Fernmeldeturm_Hofkirchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/1920px-Fernmeldeturm_Hofkirchen.jpg---
 
 ## Overview
 

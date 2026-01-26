@@ -4,13 +4,13 @@ site_name: "St. Mauritz Church (Münster)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1443663"
 latitude: 51.9627
 longitude: 7.64924
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/400px-MuensterMauritzkirche2961.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/800px-MuensterMauritzkirche2961.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/1200px-MuensterMauritzkirche2961.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/1920px-MuensterMauritzkirche2961.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/1920px-MuensterMauritzkirche2961.jpg---
 
 ## Overview
 

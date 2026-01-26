@@ -4,13 +4,13 @@ site_name: "Church in Dreveskirchen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Blowatz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Blowatz"
+  - "Lower Saxony"
 wikidata_id: "Q1244240"
 latitude: 53.9939
 longitude: 11.5384
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/400px-Dreveskirchen_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/800px-Dreveskirchen_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/1200px-Dreveskirchen_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/1920px-Dreveskirchen_Kirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/1920px-Dreveskirchen_Kirche_1.jpg---
 
 ## Overview
 

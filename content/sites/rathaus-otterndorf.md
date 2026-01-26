@@ -4,13 +4,13 @@ site_name: "Rathaus Otterndorf"
 date: 2026-01-26
 draft: false
 description: "building in Otterndorf, Lower Saxony"
-region: "Otterndorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Otterndorf"
+  - "Lower Saxony"
 wikidata_id: "Q127820532"
 latitude: 53.808025
 longitude: 8.901287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/400px-Otterndorf_rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/800px-Otterndorf_rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/1200px-Otterndorf_rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/1920px-Otterndorf_rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/1920px-Otterndorf_rathaus.jpg---
 
 ## Overview
 

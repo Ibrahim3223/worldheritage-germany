@@ -4,19 +4,18 @@ site_name: "AKA-Radiergummifabrik"
 date: 2026-01-26
 draft: false
 description: "former company in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q294093"
 latitude: 52.381001
 longitude: 9.743016
 images:
-  []
----
+  []---
 
 ## Overview
 

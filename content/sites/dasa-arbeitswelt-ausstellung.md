@@ -4,13 +4,13 @@ site_name: "DASA – Arbeitswelt Ausstellung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1151730"
 latitude: 51.4984
 longitude: 7.42045
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/400px-Dortmund,_DASA,_Eingangsbereich.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/800px-Dortmund,_DASA,_Eingangsbereich.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/1200px-Dortmund,_DASA,_Eingangsbereich.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/1920px-Dortmund,_DASA,_Eingangsbereich.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/1920px-Dortmund,_DASA,_Eingangsbereich.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zickelburg"
 date: 2026-01-26
 draft: false
 description: "mountain in the Westerwald mountain range, Germany"
-region: "Bad Honnef"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Bad Honnef"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q198433"
 latitude: 50.6331
 longitude: 7.24722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/400px-Bad_Honnef_Eifelblick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/800px-Bad_Honnef_Eifelblick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/1200px-Bad_Honnef_Eifelblick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/1920px-Bad_Honnef_Eifelblick.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/1920px-Bad_Honnef_Eifelblick.jpg---
 
 ## Overview
 

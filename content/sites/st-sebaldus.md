@@ -4,13 +4,13 @@ site_name: "St. Sebaldus"
 date: 2026-01-26
 draft: false
 description: "church building in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q368576"
 latitude: 49.455314
 longitude: 11.076475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/400px-Nuremberg.St._Sebald_church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/800px-Nuremberg.St._Sebald_church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/1200px-Nuremberg.St._Sebald_church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/1920px-Nuremberg.St._Sebald_church.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/1920px-Nuremberg.St._Sebald_church.jpg---
 
 ## Overview
 

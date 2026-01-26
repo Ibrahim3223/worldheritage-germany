@@ -4,13 +4,13 @@ site_name: "Historischer Kunstbunker"
 date: 2026-01-26
 draft: false
 description: "building in Nuremberg, Middle Franconia, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1620940"
 latitude: 49.4568
 longitude: 11.0754
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/400px-Kunstbunker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/800px-Kunstbunker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1200px-Kunstbunker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1920px-Kunstbunker.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1920px-Kunstbunker.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mönchhofkapelle"
 date: 2026-01-26
 draft: false
 description: "church building in Raunheim"
-region: "Raunheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Raunheim"
+  - "Hesse"
 wikidata_id: "Q1751236"
 latitude: 50.0311
 longitude: 8.47167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Moenchhofkapelle.JPG/400px-Moenchhofkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Moenchhofkapelle.JPG/800px-Moenchhofkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Moenchhofkapelle.JPG/1200px-Moenchhofkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Moenchhofkapelle.JPG/1920px-Moenchhofkapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Moenchhofkapelle.JPG/1920px-Moenchhofkapelle.JPG---
 
 ## Overview
 

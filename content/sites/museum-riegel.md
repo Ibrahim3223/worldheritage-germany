@@ -4,13 +4,13 @@ site_name: "Museum Riegel"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Riegel am Kaiserstuhl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Riegel am Kaiserstuhl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1518746"
 latitude: 48.1508
 longitude: 7.75113
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Museum-riegel-roemische-abteilung-1.jpg/400px-Museum-riegel-roemische-abteilung-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Museum-riegel-roemische-abteilung-1.jpg/800px-Museum-riegel-roemische-abteilung-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Museum-riegel-roemische-abteilung-1.jpg/1200px-Museum-riegel-roemische-abteilung-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Museum-riegel-roemische-abteilung-1.jpg/1920px-Museum-riegel-roemische-abteilung-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Museum-riegel-roemische-abteilung-1.jpg/1920px-Museum-riegel-roemische-abteilung-1.jpg---
 
 ## Overview
 

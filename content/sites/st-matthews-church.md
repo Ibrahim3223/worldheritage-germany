@@ -4,13 +4,13 @@ site_name: "St. Matthew's Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q884363"
 latitude: 53.588888888
 longitude: 10.010555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hh-Matthaeuskirche1.jpg/400px-Hh-Matthaeuskirche1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hh-Matthaeuskirche1.jpg/800px-Hh-Matthaeuskirche1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hh-Matthaeuskirche1.jpg/1200px-Hh-Matthaeuskirche1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hh-Matthaeuskirche1.jpg/1920px-Hh-Matthaeuskirche1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hh-Matthaeuskirche1.jpg/1920px-Hh-Matthaeuskirche1.jpg---
 
 ## Overview
 

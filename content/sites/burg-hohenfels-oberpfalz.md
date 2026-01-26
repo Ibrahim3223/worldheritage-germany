@@ -4,13 +4,13 @@ site_name: "Burg Hohenfels (Oberpfalz)"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Germany"
-region: "Hohenfels"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hohenfels"
+  - "Bavaria"
 wikidata_id: "Q1012410"
 latitude: 49.203333333
 longitude: 11.850416666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/400px-Burgruine_Hohenfels01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/800px-Burgruine_Hohenfels01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/1200px-Burgruine_Hohenfels01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/1920px-Burgruine_Hohenfels01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/1920px-Burgruine_Hohenfels01.JPG---
 
 ## Overview
 

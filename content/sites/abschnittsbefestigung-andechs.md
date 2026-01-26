@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung Andechs"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Andechs"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Andechs"
+  - "Bavaria"
 wikidata_id: "Q332103"
 latitude: 47.979
 longitude: 11.177
 images:
-  []
----
+  []---
 
 ## Overview
 

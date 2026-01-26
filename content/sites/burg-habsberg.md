@@ -4,13 +4,13 @@ site_name: "Burg Habsberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Langenenslingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Langenenslingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012154"
 latitude: 48.1641
 longitude: 9.338
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/400px-Habsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/800px-Habsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/1200px-Habsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/1920px-Habsberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/1920px-Habsberg.jpg---
 
 ## Overview
 

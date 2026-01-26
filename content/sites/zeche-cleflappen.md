@@ -4,19 +4,18 @@ site_name: "Zeche Cleflappen"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q169734"
 latitude: 51.4388
 longitude: 6.93869
 images:
-  []
----
+  []---
 
 ## Overview
 

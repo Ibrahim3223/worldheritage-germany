@@ -4,13 +4,13 @@ site_name: "Margravial Opera House"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-62-000-278 (0) in Bayreuth, Bavaria"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q278908"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/400px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/800px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/1200px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/1920px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/1920px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg---
 
 ## Overview
 

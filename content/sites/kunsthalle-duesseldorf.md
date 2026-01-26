@@ -4,13 +4,13 @@ site_name: "Kunsthalle Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q324658"
 latitude: 51.2276
 longitude: 6.77594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/400px-Kunsthalle_Düsseldorf-5746.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/800px-Kunsthalle_Düsseldorf-5746.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/1200px-Kunsthalle_Düsseldorf-5746.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/1920px-Kunsthalle_Düsseldorf-5746.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/1920px-Kunsthalle_Düsseldorf-5746.jpg---
 
 ## Overview
 

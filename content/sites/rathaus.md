@@ -4,13 +4,13 @@ site_name: "Rathaus"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Kray, Essen, Nordrhein-Westfalen, Deutschland"
-region: "Kray"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kray"
+  - "Lower Saxony"
 wikidata_id: "Q1769192"
 latitude: 51.466247
 longitude: 7.083709
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Krayer_Rathaus.jpg/400px-Krayer_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Krayer_Rathaus.jpg/800px-Krayer_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Krayer_Rathaus.jpg/1200px-Krayer_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Krayer_Rathaus.jpg/1920px-Krayer_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Krayer_Rathaus.jpg/1920px-Krayer_Rathaus.jpg---
 
 ## Overview
 

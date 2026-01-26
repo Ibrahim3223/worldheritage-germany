@@ -4,19 +4,18 @@ site_name: "Villengarten Südliche Seestraße 31; Südliche Seestraße 31 a in M
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-73-137-26 (2) in Münsing, Bavaria"
-region: "Münsing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Münsing"
+  - "Bavaria"
 wikidata_id: "Q98742401"
 latitude: 47.897449372
 longitude: 11.335091235
 images:
-  []
----
+  []---
 
 ## Overview
 

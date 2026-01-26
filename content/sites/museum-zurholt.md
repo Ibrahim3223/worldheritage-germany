@@ -4,19 +4,18 @@ site_name: "Museum Zurholt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altenberge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altenberge"
+  - "Lower Saxony"
 wikidata_id: "Q15835875"
 latitude: 52.041951398
 longitude: 7.457078354
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "German Phono Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "St. Georgen im Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "St. Georgen im Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205882"
 latitude: 48.1255
 longitude: 8.332
 images:
-  []
----
+  []---
 
 ## Overview
 

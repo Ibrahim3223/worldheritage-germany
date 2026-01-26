@@ -4,19 +4,18 @@ site_name: "Aegidienfreiheit"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q20871083"
 latitude: 52.259444444
 longitude: 10.525555555
 images:
-  []
----
+  []---
 
 ## Overview
 

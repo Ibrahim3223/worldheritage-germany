@@ -4,13 +4,13 @@ site_name: "Schloss Linden (Hannover)"
 date: 2026-01-26
 draft: false
 description: "building in Hannover (Germany)"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q25089107"
 latitude: 52.364607
 longitude: 9.713099
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg/400px-1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg/800px-1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg/1200px-1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg/1920px-1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg/1920px-1900_circa,_Ansichtskarte_Linden,_von_Alten-Gut,Herrenhaus,_das_Lindener_Schloss_im_Von-Alten-Garten_in_Hannover_als_kolorierter_Lichtdruck.jpg---
 
 ## Overview
 

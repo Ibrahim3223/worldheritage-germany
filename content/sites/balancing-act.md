@@ -4,13 +4,13 @@ site_name: "Balancing Act"
 date: 2026-01-26
 draft: false
 description: "sculpture by Stephan Balkenhol in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q804621"
 latitude: 52.508
 longitude: 13.3986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/400px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/800px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/1200px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/1920px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/1920px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg---
 
 ## Overview
 

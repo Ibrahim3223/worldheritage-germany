@@ -4,13 +4,13 @@ site_name: "Bartholomäus-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Einbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Einbeck"
+  - "Lower Saxony"
 wikidata_id: "Q809334"
 latitude: 51.813
 longitude: 9.88295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/400px-Bartholomaeuskapelle_Einbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/800px-Bartholomaeuskapelle_Einbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/1200px-Bartholomaeuskapelle_Einbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/1920px-Bartholomaeuskapelle_Einbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/1920px-Bartholomaeuskapelle_Einbeck.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Windberg"
 date: 2026-01-26
 draft: false
 description: "hill in the borough of Freital, Germany"
-region: "Freital"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Freital"
+  - "Saxony"
 wikidata_id: "Q6811"
 latitude: 50.9969
 longitude: 13.6608
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/400px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/800px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/1200px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/1920px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/1920px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg---
 
 ## Overview
 

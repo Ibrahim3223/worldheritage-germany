@@ -4,13 +4,13 @@ site_name: "Eschweiler-Weisweiler railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Eschweiler, Germany"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q134564"
 latitude: 50.8244
 longitude: 6.32083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weisweiler01.jpg/400px-Weisweiler01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weisweiler01.jpg/800px-Weisweiler01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weisweiler01.jpg/1200px-Weisweiler01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weisweiler01.jpg/1920px-Weisweiler01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weisweiler01.jpg/1920px-Weisweiler01.jpg---
 
 ## Overview
 

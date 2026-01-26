@@ -4,13 +4,13 @@ site_name: "Junkernhof Meimbressen"
 date: 2026-01-26
 draft: false
 description: "Burg in Hessen, Deutschland"
-region: "Calden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Calden"
+  - "Hesse"
 wikidata_id: "Q1713681"
 latitude: 51.4064
 longitude: 9.35556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/400px-Junkershof_Meimbressen_(02).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/800px-Junkershof_Meimbressen_(02).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/1200px-Junkershof_Meimbressen_(02).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/1920px-Junkershof_Meimbressen_(02).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/1920px-Junkershof_Meimbressen_(02).jpg---
 
 ## Overview
 

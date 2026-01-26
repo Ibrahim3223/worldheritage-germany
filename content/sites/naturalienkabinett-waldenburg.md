@@ -4,13 +4,13 @@ site_name: "Naturalienkabinett Waldenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Waldenburg"
-region: "Waldenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Waldenburg"
+  - "Saxony"
 wikidata_id: "Q1582567"
 latitude: 50.87611111
 longitude: 12.60611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/400px-Museum-Waldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/800px-Museum-Waldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/1200px-Museum-Waldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/1920px-Museum-Waldenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/1920px-Museum-Waldenburg.jpg---
 
 ## Overview
 

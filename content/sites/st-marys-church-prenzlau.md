@@ -4,13 +4,13 @@ site_name: "St. Mary`s church (Prenzlau)"
 date: 2026-01-26
 draft: false
 description: "church building in Uckermark district, Brandenburg state, Germany"
-region: "Prenzlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Prenzlau"
+  - "Brandenburg"
 wikidata_id: "Q14541005"
 latitude: 53.31355
 longitude: 13.85657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/400px-Prenzlau_St_Marien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/800px-Prenzlau_St_Marien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/1200px-Prenzlau_St_Marien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/1920px-Prenzlau_St_Marien.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/1920px-Prenzlau_St_Marien.jpg---
 
 ## Overview
 

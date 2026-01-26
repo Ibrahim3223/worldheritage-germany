@@ -4,13 +4,13 @@ site_name: "Heidelberger Kunstverein"
 date: 2026-01-26
 draft: false
 description: "voluntary association"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1468403"
 latitude: 49.41141667
 longitude: 8.70288889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/400px-Kunstverein_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/800px-Kunstverein_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1200px-Kunstverein_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1920px-Kunstverein_Heidelberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1920px-Kunstverein_Heidelberg.jpg---
 
 ## Overview
 

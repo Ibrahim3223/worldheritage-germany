@@ -4,19 +4,18 @@ site_name: "Regionalmuseum Kaufungen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633952"
 latitude: 51.280369
 longitude: 9.633014
 images:
-  []
----
+  []---
 
 ## Overview
 

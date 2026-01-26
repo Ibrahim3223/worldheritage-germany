@@ -4,13 +4,13 @@ site_name: "Natureum Niederelbe"
 date: 2026-01-26
 draft: false
 description: "museum in northern Germany"
-region: "Balje"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Balje"
+  - "Lower Saxony"
 wikidata_id: "Q1970276"
 latitude: 53.8228
 longitude: 9.03519
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/400px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/800px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/1200px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/1920px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/1920px-Kuestenwelle_vom_Natureum_Niederelbe.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bibliotheca Augustiniana"
 date: 2026-01-26
 draft: false
 description: "archive organization in Wurzburg, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q30263183"
 latitude: 49.796445
 longitude: 9.931408
 images:
-  []
----
+  []---
 
 ## Overview
 

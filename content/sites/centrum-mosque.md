@@ -4,13 +4,13 @@ site_name: "Centrum mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Rendsburg, Germany"
-region: "Rendsburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Rendsburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1054373"
 latitude: 54.3131
 longitude: 9.65722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/400px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/800px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/1200px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/1920px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/1920px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg---
 
 ## Overview
 

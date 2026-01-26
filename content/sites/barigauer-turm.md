@@ -4,13 +4,13 @@ site_name: "Barigauer Turm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q808188"
 latitude: 50.6297
 longitude: 11.1069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/400px-Barigauer_Turm_aktuell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/800px-Barigauer_Turm_aktuell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/1200px-Barigauer_Turm_aktuell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/1920px-Barigauer_Turm_aktuell.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/1920px-Barigauer_Turm_aktuell.JPG---
 
 ## Overview
 

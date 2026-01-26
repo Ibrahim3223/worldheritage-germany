@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-5-6933-0060 in Greding"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Thalmässing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Thalmässing"
+  - "Bavaria"
 wikidata_id: "Q98123528"
 latitude: 49.084506429
 longitude: 11.281430466
 images:
-  []
----
+  []---
 
 ## Overview
 

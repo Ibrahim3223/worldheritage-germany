@@ -4,19 +4,18 @@ site_name: "Brauerei"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-813 (0) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q900366"
 latitude: 50.274964884
 longitude: 10.983732994
 images:
-  []
----
+  []---
 
 ## Overview
 

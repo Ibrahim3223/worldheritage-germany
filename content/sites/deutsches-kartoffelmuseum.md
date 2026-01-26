@@ -4,13 +4,13 @@ site_name: "Deutsches Kartoffelmuseum"
 date: 2026-01-26
 draft: false
 description: "Museum über die gleichnamige Knolle"
-region: "Fußgönheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fußgönheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q37925132"
 latitude: 49.457666666
 longitude: 8.293944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Kartoffelmuseum_01.JPG/400px-Deutsches_Kartoffelmuseum_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Kartoffelmuseum_01.JPG/800px-Deutsches_Kartoffelmuseum_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Kartoffelmuseum_01.JPG/1200px-Deutsches_Kartoffelmuseum_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Kartoffelmuseum_01.JPG/1920px-Deutsches_Kartoffelmuseum_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Kartoffelmuseum_01.JPG/1920px-Deutsches_Kartoffelmuseum_01.JPG---
 
 ## Overview
 

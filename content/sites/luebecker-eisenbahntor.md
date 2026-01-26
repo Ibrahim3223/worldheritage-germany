@@ -4,13 +4,13 @@ site_name: "Lübecker Eisenbahntor"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Stadttor in Lübeck"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1880122"
 latitude: 53.859427
 longitude: 10.679714
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/400px-WP_Eisenbahntor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/800px-WP_Eisenbahntor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/1200px-WP_Eisenbahntor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/1920px-WP_Eisenbahntor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/1920px-WP_Eisenbahntor.jpg---
 
 ## Overview
 

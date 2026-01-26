@@ -4,13 +4,13 @@ site_name: "Vierzehn-Nothelfer-Kapelle"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Meschede, Hochsauerlandkreis, Nordrhein-Westfalen"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1728474"
 latitude: 51.3017
 longitude: 8.31509
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/400px-Vierzehn-Nothelfer-Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/800px-Vierzehn-Nothelfer-Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/1200px-Vierzehn-Nothelfer-Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/1920px-Vierzehn-Nothelfer-Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/1920px-Vierzehn-Nothelfer-Kapelle.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Kapelle St. Ulrich (Egling a.d.Paar)"
 date: 2026-01-26
 draft: false
 description: "building in Egling an der Paar (Germany)"
-region: "Egling an der Paar"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Egling an der Paar"
+  - "Bavaria"
 wikidata_id: "Q1728444"
 latitude: 48.1824
 longitude: 10.9752
 images:
-  []
----
+  []---
 
 ## Overview
 

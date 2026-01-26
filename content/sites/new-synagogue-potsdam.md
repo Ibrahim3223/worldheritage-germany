@@ -4,13 +4,13 @@ site_name: "New Synagogue Potsdam"
 date: 2026-01-26
 draft: false
 description: "Newly built synagogue in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1979799"
 latitude: 52.3956
 longitude: 13.0581
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Potsdam_Synagogenzentrum.jpg/400px-Potsdam_Synagogenzentrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Potsdam_Synagogenzentrum.jpg/800px-Potsdam_Synagogenzentrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Potsdam_Synagogenzentrum.jpg/1200px-Potsdam_Synagogenzentrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Potsdam_Synagogenzentrum.jpg/1920px-Potsdam_Synagogenzentrum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Potsdam_Synagogenzentrum.jpg/1920px-Potsdam_Synagogenzentrum.jpg---
 
 ## Overview
 

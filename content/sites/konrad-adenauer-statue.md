@@ -4,13 +4,13 @@ site_name: "Konrad Adenauer statue"
 date: 2026-01-26
 draft: false
 description: "monument in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q13583155"
 latitude: 50.93675
 longitude: 6.94514
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/400px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/800px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/1200px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/1920px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/1920px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg---
 
 ## Overview
 

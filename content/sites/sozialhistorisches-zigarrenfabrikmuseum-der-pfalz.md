@@ -4,13 +4,13 @@ site_name: "Sozialhistorisches Zigarrenfabrikmuseum der Pfalz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rödersheim-Gronau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rödersheim-Gronau"
+  - "Baden-Württemberg"
 wikidata_id: "Q17326229"
 latitude: 49.428734
 longitude: 8.257006
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/400px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/800px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/1200px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/1920px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/1920px-ZigarrenfabrikmuseumRoedersheimGronau.JPG---
 
 ## Overview
 

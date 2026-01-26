@@ -4,19 +4,18 @@ site_name: "Bogenbrücke Paschkowitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Mügeln"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Mügeln"
+  - "Saxony"
 wikidata_id: "Q49445230"
 latitude: 51.223483793
 longitude: 13.027551542
 images:
-  []
----
+  []---
 
 ## Overview
 

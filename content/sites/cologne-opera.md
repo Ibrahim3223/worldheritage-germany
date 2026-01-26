@@ -4,13 +4,13 @@ site_name: "Cologne Opera"
 date: 2026-01-26
 draft: false
 description: "building in North Rhine-Westphalia, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q869662"
 latitude: 50.938055555
 longitude: 6.951666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/400px-Oper_Köln_(4202-04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/800px-Oper_Köln_(4202-04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/1200px-Oper_Köln_(4202-04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/1920px-Oper_Köln_(4202-04).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/1920px-Oper_Köln_(4202-04).jpg---
 
 ## Overview
 

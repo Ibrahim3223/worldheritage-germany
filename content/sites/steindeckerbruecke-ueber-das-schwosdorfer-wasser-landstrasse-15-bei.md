@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke über das Schwosdorfer Wasser Landstraße 15 (bei
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schönteichen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schönteichen"
+  - "Saxony"
 wikidata_id: "Q49406525"
 latitude: 51.268625
 longitude: 14.024272
 images:
-  []
----
+  []---
 
 ## Overview
 

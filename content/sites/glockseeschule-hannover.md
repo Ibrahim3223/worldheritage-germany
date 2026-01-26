@@ -4,13 +4,13 @@ site_name: "Glockseeschule Hannover"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q1253318"
 latitude: 52.3354
 longitude: 9.76132
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/400px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/800px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/1200px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/1920px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/1920px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg---
 
 ## Overview
 

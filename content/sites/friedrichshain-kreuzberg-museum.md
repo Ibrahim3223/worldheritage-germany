@@ -4,13 +4,13 @@ site_name: "Friedrichshain-Kreuzberg Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q854289"
 latitude: 52.5006
 longitude: 13.4186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/400px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/800px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1200px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1920px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1920px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG---
 
 ## Overview
 

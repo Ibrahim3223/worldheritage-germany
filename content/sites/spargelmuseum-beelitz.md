@@ -4,13 +4,13 @@ site_name: "Spargelmuseum Beelitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Beelitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Beelitz"
+  - "Brandenburg"
 wikidata_id: "Q17326236"
 latitude: 52.246665
 longitude: 13.021285
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Beelitz_asv2021-06_img08.jpg/400px-Beelitz_asv2021-06_img08.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Beelitz_asv2021-06_img08.jpg/800px-Beelitz_asv2021-06_img08.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Beelitz_asv2021-06_img08.jpg/1200px-Beelitz_asv2021-06_img08.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Beelitz_asv2021-06_img08.jpg/1920px-Beelitz_asv2021-06_img08.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Beelitz_asv2021-06_img08.jpg/1920px-Beelitz_asv2021-06_img08.jpg---
 
 ## Overview
 

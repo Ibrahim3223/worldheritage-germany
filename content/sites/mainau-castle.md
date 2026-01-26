@@ -4,19 +4,18 @@ site_name: "Mainau Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013064"
 latitude: 47.705
 longitude: 9.2
 images:
-  []
----
+  []---
 
 ## Overview
 

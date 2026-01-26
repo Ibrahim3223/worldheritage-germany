@@ -4,13 +4,13 @@ site_name: "Rathaus Unterjesingen"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Gebäude in Tübingen-Unterjesingen"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q136488029"
 latitude: 48.526570673
 longitude: 8.978168964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rathaus_Unterjesingen.jpg/400px-Rathaus_Unterjesingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rathaus_Unterjesingen.jpg/800px-Rathaus_Unterjesingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rathaus_Unterjesingen.jpg/1200px-Rathaus_Unterjesingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rathaus_Unterjesingen.jpg/1920px-Rathaus_Unterjesingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rathaus_Unterjesingen.jpg/1920px-Rathaus_Unterjesingen.jpg---
 
 ## Overview
 

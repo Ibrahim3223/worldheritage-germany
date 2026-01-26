@@ -4,19 +4,18 @@ site_name: "Zeche Gladbeck"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bottrop"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bottrop"
+  - "Lower Saxony"
 wikidata_id: "Q183583"
 latitude: 51.5718
 longitude: 6.96923
 images:
-  []
----
+  []---
 
 ## Overview
 

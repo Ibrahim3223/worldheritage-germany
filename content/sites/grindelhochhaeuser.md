@@ -4,13 +4,13 @@ site_name: "Grindelhochhäuser"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q1546956"
 latitude: 53.57472222
 longitude: 9.97972222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/400px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/800px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/1200px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/1920px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/1920px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg---
 
 ## Overview
 

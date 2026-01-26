@@ -4,13 +4,13 @@ site_name: "Allersberg (Rothsee)"
 date: 2026-01-26
 draft: false
 description: "railway halt in the district of Roth, Middle Franconia, Germany"
-region: "Q588957"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Q588957"
+  - "Bavaria"
 wikidata_id: "Q319887"
 latitude: 49.261836
 longitude: 11.212703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/400px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/800px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/1200px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/1920px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/1920px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg---
 
 ## Overview
 

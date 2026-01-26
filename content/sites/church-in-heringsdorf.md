@@ -4,13 +4,13 @@ site_name: "Church in Heringsdorf"
 date: 2026-01-26
 draft: false
 description: "church building in Heringsdorf, Germany"
-region: "Heringsdorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heringsdorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742821"
 latitude: 53.9571
 longitude: 14.1626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/400px-Heringsdorf_Kirche_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/800px-Heringsdorf_Kirche_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/1200px-Heringsdorf_Kirche_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/1920px-Heringsdorf_Kirche_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/1920px-Heringsdorf_Kirche_Westseite.jpg---
 
 ## Overview
 

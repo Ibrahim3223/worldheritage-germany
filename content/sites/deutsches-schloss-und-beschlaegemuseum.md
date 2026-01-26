@@ -4,13 +4,13 @@ site_name: "Deutsches Schloss- und Beschlägemuseum,"
 date: 2026-01-26
 draft: false
 description: "Velbert, Germany"
-region: "Velbert-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Velbert-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q26878766"
 latitude: 51.341489
 longitude: 7.046758
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/400px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/800px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/1200px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/1920px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/1920px-Deutsches_Schloss-_und_Beschlägemuseum.jpg---
 
 ## Overview
 

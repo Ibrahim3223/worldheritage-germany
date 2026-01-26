@@ -4,13 +4,13 @@ site_name: "Feuerwehrmuseum Jever"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Jever"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jever"
+  - "Lower Saxony"
 wikidata_id: "Q55756510"
 latitude: 53.569166666
 longitude: 7.891944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerwehr_Museum_Jever_2018-09.jpg/400px-Feuerwehr_Museum_Jever_2018-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerwehr_Museum_Jever_2018-09.jpg/800px-Feuerwehr_Museum_Jever_2018-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerwehr_Museum_Jever_2018-09.jpg/1200px-Feuerwehr_Museum_Jever_2018-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerwehr_Museum_Jever_2018-09.jpg/1920px-Feuerwehr_Museum_Jever_2018-09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerwehr_Museum_Jever_2018-09.jpg/1920px-Feuerwehr_Museum_Jever_2018-09.jpg---
 
 ## Overview
 

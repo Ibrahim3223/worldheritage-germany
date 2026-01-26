@@ -4,13 +4,13 @@ site_name: "Zum Göttlichen Erlöser"
 date: 2026-01-26
 draft: false
 description: "church building in Rath/Heumar, Germany"
-region: "Rath/Heumar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rath/Heumar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q11722131"
 latitude: 50.9222
 longitude: 7.09428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg/400px-Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg/800px-Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg/1200px-Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg/1920px-Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg/1920px-Zum_Göttlichen_Erlöser_Köln-Rath_Innen.jpg---
 
 ## Overview
 

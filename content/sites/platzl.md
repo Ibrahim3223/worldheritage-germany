@@ -4,13 +4,13 @@ site_name: "Platzl"
 date: 2026-01-26
 draft: false
 description: "square in Munich, Bavaria, Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q280464"
 latitude: 48.1381
 longitude: 11.58
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg/400px-München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg/800px-München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg/1200px-München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg/1920px-München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg/1920px-München_Platzl_9_Hofbräuhaus_BW_2017-03-13_19-12-27.jpg---
 
 ## Overview
 

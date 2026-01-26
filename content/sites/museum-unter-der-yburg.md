@@ -4,13 +4,13 @@ site_name: "Museum unter der Yburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kernen im Remstal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kernen im Remstal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1664350"
 latitude: 48.7864
 longitude: 9.34153
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/400px-Museum-unter-der-yburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/800px-Museum-unter-der-yburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/1200px-Museum-unter-der-yburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/1920px-Museum-unter-der-yburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/1920px-Museum-unter-der-yburg.jpg---
 
 ## Overview
 

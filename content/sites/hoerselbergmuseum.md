@@ -4,13 +4,13 @@ site_name: "Hörselbergmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wutha-Farnroda"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wutha-Farnroda"
+  - "Thuringia"
 wikidata_id: "Q20481356"
 latitude: 50.9445
 longitude: 10.4294838
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/400px-WAK_SCHOENAU_MUSEUM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/800px-WAK_SCHOENAU_MUSEUM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/1200px-WAK_SCHOENAU_MUSEUM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/1920px-WAK_SCHOENAU_MUSEUM.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/1920px-WAK_SCHOENAU_MUSEUM.jpg---
 
 ## Overview
 

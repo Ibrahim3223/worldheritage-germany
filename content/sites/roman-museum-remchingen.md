@@ -4,13 +4,13 @@ site_name: "Roman Museum Remchingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Remchingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Remchingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q51081707"
 latitude: 48.9403
 longitude: 8.5705
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Römermuseum_remchingen.jpg/400px-Römermuseum_remchingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Römermuseum_remchingen.jpg/800px-Römermuseum_remchingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Römermuseum_remchingen.jpg/1200px-Römermuseum_remchingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Römermuseum_remchingen.jpg/1920px-Römermuseum_remchingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Römermuseum_remchingen.jpg/1920px-Römermuseum_remchingen.jpg---
 
 ## Overview
 

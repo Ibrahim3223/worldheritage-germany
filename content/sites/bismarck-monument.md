@@ -4,13 +4,13 @@ site_name: "Bismarck Monument"
 date: 2026-01-26
 draft: false
 description: "Bismarck monument in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q540460"
 latitude: 53.54869
 longitude: 9.97205
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/400px-Hamburg-Bismarck-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/800px-Hamburg-Bismarck-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/1200px-Hamburg-Bismarck-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/1920px-Hamburg-Bismarck-Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/1920px-Hamburg-Bismarck-Denkmal.jpg---
 
 ## Overview
 

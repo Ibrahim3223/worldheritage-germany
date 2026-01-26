@@ -4,13 +4,13 @@ site_name: "Emir-Sultan-Moschee"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q1337720"
 latitude: 49.8872
 longitude: 8.62111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emir-Sultan-Moschee-Darmstadt1.jpg/400px-Emir-Sultan-Moschee-Darmstadt1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emir-Sultan-Moschee-Darmstadt1.jpg/800px-Emir-Sultan-Moschee-Darmstadt1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emir-Sultan-Moschee-Darmstadt1.jpg/1200px-Emir-Sultan-Moschee-Darmstadt1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emir-Sultan-Moschee-Darmstadt1.jpg/1920px-Emir-Sultan-Moschee-Darmstadt1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emir-Sultan-Moschee-Darmstadt1.jpg/1920px-Emir-Sultan-Moschee-Darmstadt1.jpg---
 
 ## Overview
 

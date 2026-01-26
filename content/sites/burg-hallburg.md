@@ -4,13 +4,13 @@ site_name: "Burg Hallburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-174-269 (0) in Volkach, Bavaria"
-region: "Volkach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Volkach"
+  - "Bavaria"
 wikidata_id: "Q1012168"
 latitude: 49.8509
 longitude: 10.2129
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/400px-Hallburg,_Gesamtanlage,_Volkach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/800px-Hallburg,_Gesamtanlage,_Volkach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/1200px-Hallburg,_Gesamtanlage,_Volkach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/1920px-Hallburg,_Gesamtanlage,_Volkach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/1920px-Hallburg,_Gesamtanlage,_Volkach.JPG---
 
 ## Overview
 

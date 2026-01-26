@@ -4,13 +4,13 @@ site_name: "Altes Museum"
 date: 2026-01-26
 draft: false
 description: "antiquities museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q156722"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/400px-Berlín_Staré_muzeum_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/800px-Berlín_Staré_muzeum_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1200px-Berlín_Staré_muzeum_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1920px-Berlín_Staré_muzeum_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1920px-Berlín_Staré_muzeum_4.jpg---
 
 ## Overview
 

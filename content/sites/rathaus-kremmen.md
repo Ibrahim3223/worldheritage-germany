@@ -4,13 +4,13 @@ site_name: "Rathaus Kremmen"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Kremmen, Landkreis Oberhavel, Brandenburg"
-region: "Kremmen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kremmen"
+  - "Brandenburg"
 wikidata_id: "Q131152300"
 latitude: 52.760515
 longitude: 13.024025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kremmen-Markt-Rathaus-2.jpg/400px-Kremmen-Markt-Rathaus-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kremmen-Markt-Rathaus-2.jpg/800px-Kremmen-Markt-Rathaus-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kremmen-Markt-Rathaus-2.jpg/1200px-Kremmen-Markt-Rathaus-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kremmen-Markt-Rathaus-2.jpg/1920px-Kremmen-Markt-Rathaus-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kremmen-Markt-Rathaus-2.jpg/1920px-Kremmen-Markt-Rathaus-2.jpg---
 
 ## Overview
 

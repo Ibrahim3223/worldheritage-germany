@@ -4,13 +4,13 @@ site_name: "Industriemuseum Elmshorn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Elmshorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Elmshorn"
+  - "Lower Saxony"
 wikidata_id: "Q1662092"
 latitude: 53.755848
 longitude: 9.656638
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elmshorn_Catharinenstr._1_2015.jpg/400px-Elmshorn_Catharinenstr._1_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elmshorn_Catharinenstr._1_2015.jpg/800px-Elmshorn_Catharinenstr._1_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elmshorn_Catharinenstr._1_2015.jpg/1200px-Elmshorn_Catharinenstr._1_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elmshorn_Catharinenstr._1_2015.jpg/1920px-Elmshorn_Catharinenstr._1_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elmshorn_Catharinenstr._1_2015.jpg/1920px-Elmshorn_Catharinenstr._1_2015.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Michaelis Church, Hamburg"
 date: 2026-01-26
 draft: false
 description: "Lutheran church in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q674472"
 latitude: 53.548333
 longitude: 9.978889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/400px-Sankt-Michaelis-Kirche_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/800px-Sankt-Michaelis-Kirche_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/1200px-Sankt-Michaelis-Kirche_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/1920px-Sankt-Michaelis-Kirche_Hamburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/1920px-Sankt-Michaelis-Kirche_Hamburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mühlwörth"
 date: 2026-01-26
 draft: false
 description: "island in Germany"
-region: "Seehausen am Staffelsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Seehausen am Staffelsee"
+  - "Bavaria"
 wikidata_id: "Q1569443"
 latitude: 47.704
 longitude: 11.1643
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/400px-Staffelsee_im_Frühling_-_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/800px-Staffelsee_im_Frühling_-_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/1200px-Staffelsee_im_Frühling_-_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/1920px-Staffelsee_im_Frühling_-_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/1920px-Staffelsee_im_Frühling_-_Panorama.jpg---
 
 ## Overview
 

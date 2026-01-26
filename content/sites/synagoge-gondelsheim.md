@@ -4,13 +4,13 @@ site_name: "Synagoge (Gondelsheim)"
 date: 2026-01-26
 draft: false
 description: "building in Gondelsheim, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Gondelsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Gondelsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2375058"
 latitude: 49.0597
 longitude: 8.65879
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gondelsheim_Synagoge.jpg/400px-Gondelsheim_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gondelsheim_Synagoge.jpg/800px-Gondelsheim_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gondelsheim_Synagoge.jpg/1200px-Gondelsheim_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gondelsheim_Synagoge.jpg/1920px-Gondelsheim_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gondelsheim_Synagoge.jpg/1920px-Gondelsheim_Synagoge.jpg---
 
 ## Overview
 

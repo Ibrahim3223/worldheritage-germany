@@ -4,19 +4,18 @@ site_name: "Dorfmuseum Weckbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629739"
 latitude: 49.674526
 longitude: 9.176528
 images:
-  []
----
+  []---
 
 ## Overview
 

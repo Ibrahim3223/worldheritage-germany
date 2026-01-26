@@ -4,13 +4,13 @@ site_name: "Upper Church St. Nikolai"
 date: 2026-01-26
 draft: false
 description: "church building in Cottbus, Germany"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q1415897"
 latitude: 51.7611
 longitude: 14.3366
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/400px-Cottbus_St_Nikolai_16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/800px-Cottbus_St_Nikolai_16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/1200px-Cottbus_St_Nikolai_16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/1920px-Cottbus_St_Nikolai_16.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/1920px-Cottbus_St_Nikolai_16.jpg---
 
 ## Overview
 

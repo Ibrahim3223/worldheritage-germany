@@ -4,19 +4,18 @@ site_name: "Karbe Wagner Archive for Regional Historical Research"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Neustrelitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Neustrelitz"
+  - "Brandenburg"
 wikidata_id: "Q1729042"
 latitude: 53.3622
 longitude: 13.0696
 images:
-  []
----
+  []---
 
 ## Overview
 

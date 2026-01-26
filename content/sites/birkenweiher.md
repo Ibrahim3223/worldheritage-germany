@@ -4,13 +4,13 @@ site_name: "Birkenweiher"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Tettnang"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Tettnang"
+  - "Baden-Württemberg"
 wikidata_id: "Q865613"
 latitude: 47.644438888
 longitude: 9.6186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/400px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/800px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/1200px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/1920px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/1920px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg---
 
 ## Overview
 

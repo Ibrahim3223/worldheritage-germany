@@ -4,13 +4,13 @@ site_name: "Vienenburg town hall"
 date: 2026-01-26
 draft: false
 description: "Einzeldenkmal (gemäß § 3 Abs. 2 NDSchG)"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q136815655"
 latitude: 51.953463
 longitude: 10.56135
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vienenburg_Rathaus.JPG/400px-Vienenburg_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vienenburg_Rathaus.JPG/800px-Vienenburg_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vienenburg_Rathaus.JPG/1200px-Vienenburg_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vienenburg_Rathaus.JPG/1920px-Vienenburg_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vienenburg_Rathaus.JPG/1920px-Vienenburg_Rathaus.JPG---
 
 ## Overview
 

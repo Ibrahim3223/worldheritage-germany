@@ -4,13 +4,13 @@ site_name: "Schurkenturm"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Horb am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Horb am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012387"
 latitude: 48.4451
 longitude: 8.68691
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/400px-HorbSchurkenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/800px-HorbSchurkenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/1200px-HorbSchurkenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/1920px-HorbSchurkenturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/1920px-HorbSchurkenturm.jpg---
 
 ## Overview
 

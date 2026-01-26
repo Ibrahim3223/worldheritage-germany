@@ -4,13 +4,13 @@ site_name: "Herrenhaus Mallin"
 date: 2026-01-26
 draft: false
 description: "manor house in Penzlin, Germany"
-region: "Penzlin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Penzlin"
+  - "Brandenburg"
 wikidata_id: "Q1614078"
 latitude: 53.5376
 longitude: 13.1395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/400px-Mallin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/800px-Mallin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1200px-Mallin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1920px-Mallin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1920px-Mallin.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Berlin-Wedding station"
 date: 2026-01-26
 draft: false
 description: "Station in the wedding locality"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q638604"
 latitude: 52.5425
 longitude: 13.3661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/400px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/800px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/1200px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/1920px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/1920px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg---
 
 ## Overview
 

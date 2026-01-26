@@ -4,13 +4,13 @@ site_name: "Goetzsches Mausoleum"
 date: 2026-01-26
 draft: false
 description: "Mausoleum in Deutschland"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q1534262"
 latitude: 51.7906
 longitude: 11.1421
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg/400px-Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg/800px-Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg/1200px-Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg/1920px-Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg/1920px-Quedlinburg_asv2018-10_img28_Goetzesches_Mausoleum.jpg---
 
 ## Overview
 

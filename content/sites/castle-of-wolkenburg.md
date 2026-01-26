@@ -4,13 +4,13 @@ site_name: "Castle of Wolkenburg"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Limbach-Oberfrohna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Limbach-Oberfrohna"
+  - "Saxony"
 wikidata_id: "Q1297033"
 latitude: 50.9023
 longitude: 12.6738
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/400px-Schloss_Wolkenburg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/800px-Schloss_Wolkenburg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/1200px-Schloss_Wolkenburg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/1920px-Schloss_Wolkenburg_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/1920px-Schloss_Wolkenburg_01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Blücherhof"
 date: 2026-01-26
 draft: false
 description: "Neobarockes Herrenhaus in Klocksin, Mecklenburg-Vorpommern"
-region: "Klocksin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Klocksin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2968571"
 latitude: 53.6166
 longitude: 12.5202
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Klocksin-bluecherhof2.jpg/400px-Klocksin-bluecherhof2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Klocksin-bluecherhof2.jpg/800px-Klocksin-bluecherhof2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Klocksin-bluecherhof2.jpg/1200px-Klocksin-bluecherhof2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Klocksin-bluecherhof2.jpg/1920px-Klocksin-bluecherhof2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Klocksin-bluecherhof2.jpg/1920px-Klocksin-bluecherhof2.jpg---
 
 ## Overview
 

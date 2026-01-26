@@ -4,19 +4,18 @@ site_name: "Motorradausstellung Neuhausen/Erzgeb."
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuhausen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuhausen"
+  - "Saxony"
 wikidata_id: "Q27890111"
 latitude: 50.673985
 longitude: 13.467888
 images:
-  []
----
+  []---
 
 ## Overview
 

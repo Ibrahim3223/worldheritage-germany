@@ -4,13 +4,13 @@ site_name: "Burg Hoherod"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sasbachwalden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sasbachwalden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012435"
 latitude: 48.6112
 longitude: 8.1525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/400px-Burg_hohenrod.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/800px-Burg_hohenrod.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/1200px-Burg_hohenrod.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/1920px-Burg_hohenrod.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/1920px-Burg_hohenrod.jpg---
 
 ## Overview
 

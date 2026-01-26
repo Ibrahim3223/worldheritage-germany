@@ -4,19 +4,18 @@ site_name: "Burg Meßstetten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Meßstetten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Meßstetten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013121"
 latitude: 48.07319722
 longitude: 9.00995851
 images:
-  []
----
+  []---
 
 ## Overview
 

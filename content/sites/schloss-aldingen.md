@@ -4,13 +4,13 @@ site_name: "Schloss Aldingen"
 date: 2026-01-26
 draft: false
 description: "building in Remseck am Neckar (Germany)"
-region: "Remseck am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Remseck am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q15844427"
 latitude: 48.863409
 longitude: 9.251454
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Aldingen.jpg/400px-Schloss_Aldingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Aldingen.jpg/800px-Schloss_Aldingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Aldingen.jpg/1200px-Schloss_Aldingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Aldingen.jpg/1920px-Schloss_Aldingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Aldingen.jpg/1920px-Schloss_Aldingen.jpg---
 
 ## Overview
 

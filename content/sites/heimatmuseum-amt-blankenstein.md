@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Amt Blankenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633847"
 latitude: 50.770137
 longitude: 8.579093
 images:
-  []
----
+  []---
 
 ## Overview
 

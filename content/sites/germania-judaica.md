@@ -4,13 +4,13 @@ site_name: "Germania Judaica"
 date: 2026-01-26
 draft: false
 description: "special library"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q10700"
 latitude: 50.93401
 longitude: 6.94907
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/400px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/800px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1200px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1920px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1920px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Heidbergmühle (Lank)"
 date: 2026-01-26
 draft: false
 description: "Turmholländermühle östlich des Meerbuscher Stadtteils Lank, heute nur noch als Stumpf ohne Flügel erhalten"
-region: "Meerbusch"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Meerbusch"
+  - "Lower Saxony"
 wikidata_id: "Q1593843"
 latitude: 51.3048
 longitude: 6.69669
 images:
-  []
----
+  []---
 
 ## Overview
 

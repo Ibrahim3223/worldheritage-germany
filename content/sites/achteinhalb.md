@@ -4,13 +4,13 @@ site_name: "Achteinhalb"
 date: 2026-01-26
 draft: false
 description: "cinema in Saarbrücken, Germany"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q340879"
 latitude: 49.2357
 longitude: 7.00105
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/400px-Eingang_kino_achteinhalb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/800px-Eingang_kino_achteinhalb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/1200px-Eingang_kino_achteinhalb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/1920px-Eingang_kino_achteinhalb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/1920px-Eingang_kino_achteinhalb.jpg---
 
 ## Overview
 

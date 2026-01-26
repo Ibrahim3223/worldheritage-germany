@@ -4,13 +4,13 @@ site_name: "Museum Schloss Fürstenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fürstenberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fürstenberg"
+  - "Lower Saxony"
 wikidata_id: "Q29785976"
 latitude: 51.73149
 longitude: 9.39781
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/400px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/800px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/1200px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/1920px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/1920px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg---
 
 ## Overview
 

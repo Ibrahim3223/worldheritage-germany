@@ -4,13 +4,13 @@ site_name: "Konstablerwache"
 date: 2026-01-26
 draft: false
 description: "town square in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q674166"
 latitude: 50.114444444
 longitude: 8.686944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/400px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/800px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/1200px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/1920px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/1920px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG---
 
 ## Overview
 

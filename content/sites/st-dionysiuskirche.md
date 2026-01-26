@@ -4,13 +4,13 @@ site_name: "St. Dionysiuskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Dagebüll, Germany"
-region: "Dagebüll"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dagebüll"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2317990"
 latitude: 54.729664
 longitude: 8.729581
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/400px-Kirche_Dagebüll.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/800px-Kirche_Dagebüll.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/1200px-Kirche_Dagebüll.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/1920px-Kirche_Dagebüll.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/1920px-Kirche_Dagebüll.jpg---
 
 ## Overview
 

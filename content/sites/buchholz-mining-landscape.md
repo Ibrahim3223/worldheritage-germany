@@ -4,19 +4,18 @@ site_name: "Buchholz Mining Landscape"
 date: 2026-01-26
 draft: false
 description: "part of a World Heritage site in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q66054740"
 latitude: 50.5631
 longitude: 12.9891
 images:
-  []
----
+  []---
 
 ## Overview
 

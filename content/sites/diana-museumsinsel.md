@@ -4,13 +4,13 @@ site_name: "Diana (Museumsinsel)"
 date: 2026-01-26
 draft: false
 description: "bronze sculpture of Diana"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24039656"
 latitude: 52.52012
 longitude: 13.39869
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/400px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/800px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/1200px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/1920px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/1920px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg---
 
 ## Overview
 

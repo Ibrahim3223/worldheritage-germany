@@ -4,13 +4,13 @@ site_name: "Burg Neuenstein (Saasen)"
 date: 2026-01-26
 draft: false
 description: "Castle in Hesse, Germany"
-region: "Neuenstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neuenstein"
+  - "Hesse"
 wikidata_id: "Q1013269"
 latitude: 50.9203
 longitude: 9.555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_neuenstein_bergfried.jpg/400px-Burg_neuenstein_bergfried.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_neuenstein_bergfried.jpg/800px-Burg_neuenstein_bergfried.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_neuenstein_bergfried.jpg/1200px-Burg_neuenstein_bergfried.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_neuenstein_bergfried.jpg/1920px-Burg_neuenstein_bergfried.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_neuenstein_bergfried.jpg/1920px-Burg_neuenstein_bergfried.jpg---
 
 ## Overview
 

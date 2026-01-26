@@ -4,19 +4,18 @@ site_name: "Glasmuseum Hadamar"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633869"
 latitude: 50.433664
 longitude: 8.034086
 images:
-  []
----
+  []---
 
 ## Overview
 

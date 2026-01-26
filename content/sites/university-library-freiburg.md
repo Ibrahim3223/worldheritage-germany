@@ -4,13 +4,13 @@ site_name: "University Library Freiburg"
 date: 2026-01-26
 draft: false
 description: "library in the University of Freiburg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2496308"
 latitude: 47.99388889
 longitude: 7.84527778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/400px-Universitätsbibliothek_Freiburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/800px-Universitätsbibliothek_Freiburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/1200px-Universitätsbibliothek_Freiburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/1920px-Universitätsbibliothek_Freiburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/1920px-Universitätsbibliothek_Freiburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Römische Kalkbrennerei Iversheim"
 date: 2026-01-26
 draft: false
 description: "Archaeological site in Germany"
-region: "Germania Inferior"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germania Inferior"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2202439"
 latitude: 50.5881
 longitude: 6.77399
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/400px-Kalkbrennerei-iversheim-schutzbau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/800px-Kalkbrennerei-iversheim-schutzbau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/1200px-Kalkbrennerei-iversheim-schutzbau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/1920px-Kalkbrennerei-iversheim-schutzbau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/1920px-Kalkbrennerei-iversheim-schutzbau.JPG---
 
 ## Overview
 

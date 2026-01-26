@@ -4,13 +4,13 @@ site_name: "Freiburg Castle"
 date: 2026-01-26
 draft: false
 description: "building in Freiburg im Breisgau, Freiburg Government Region, Baden-Württemberg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q139420"
 latitude: 47.993726
 longitude: 7.858187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Freiburg_Merian_(cropped).jpg/400px-Burg_Freiburg_Merian_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Freiburg_Merian_(cropped).jpg/800px-Burg_Freiburg_Merian_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Freiburg_Merian_(cropped).jpg/1200px-Burg_Freiburg_Merian_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Freiburg_Merian_(cropped).jpg/1920px-Burg_Freiburg_Merian_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Freiburg_Merian_(cropped).jpg/1920px-Burg_Freiburg_Merian_(cropped).jpg---
 
 ## Overview
 

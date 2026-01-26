@@ -4,19 +4,18 @@ site_name: "Torhaus Nähe Westheimer Straße in Bad Windsheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-75-112-228 (1) in Bad Windsheim, Bavaria"
-region: "Bad Windsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Bad Windsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q98621147"
 latitude: 49.498943793
 longitude: 10.412793975
 images:
-  []
----
+  []---
 
 ## Overview
 

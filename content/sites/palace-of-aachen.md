@@ -4,13 +4,13 @@ site_name: "Palace of Aachen"
 date: 2026-01-26
 draft: false
 description: "Carolingian palace in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q300739"
 latitude: 50.775556
 longitude: 6.083889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/400px-Palais_d'Aix-la-Chapelle.svg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/800px-Palais_d'Aix-la-Chapelle.svg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/1200px-Palais_d'Aix-la-Chapelle.svg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/1920px-Palais_d'Aix-la-Chapelle.svg.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/1920px-Palais_d'Aix-la-Chapelle.svg.png---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Torhaus Veste Coburg 1b in Coburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-589 (12) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98587122"
 latitude: 50.263612374
 longitude: 10.981547783
 images:
-  []
----
+  []---
 
 ## Overview
 

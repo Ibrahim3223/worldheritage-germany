@@ -4,13 +4,13 @@ site_name: "Schloss Hohenfels"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-151 (0) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q2241608"
 latitude: 50.2672
 longitude: 10.9544
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/400px-Coburg-Schloss-Hohenfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/800px-Coburg-Schloss-Hohenfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/1200px-Coburg-Schloss-Hohenfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/1920px-Coburg-Schloss-Hohenfels.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/1920px-Coburg-Schloss-Hohenfels.jpg---
 
 ## Overview
 

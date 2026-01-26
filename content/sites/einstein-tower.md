@@ -4,13 +4,13 @@ site_name: "Einstein Tower"
 date: 2026-01-26
 draft: false
 description: "astrophysical observatory in Potsdam, Germany"
-region: "Potsdam-Süd"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Potsdam-Süd"
+  - "Brandenburg"
 wikidata_id: "Q321789"
 latitude: 52.378888888
 longitude: 13.063611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/400px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/800px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1920px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1920px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg---
 
 ## Overview
 

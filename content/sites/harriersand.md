@@ -4,13 +4,13 @@ site_name: "Harriersand"
 date: 2026-01-26
 draft: false
 description: "island of Germany"
-region: "Schwanewede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Schwanewede"
+  - "Lower Saxony"
 wikidata_id: "Q1586129"
 latitude: 53.309555555
 longitude: 8.497444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/400px-Harriersand-Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/800px-Harriersand-Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/1200px-Harriersand-Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/1920px-Harriersand-Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/1920px-Harriersand-Panorama.jpg---
 
 ## Overview
 

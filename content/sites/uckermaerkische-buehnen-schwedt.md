@@ -4,13 +4,13 @@ site_name: "Uckermärkische Bühnen Schwedt"
 date: 2026-01-26
 draft: false
 description: "municipal theatre of Schwedt, Brandenburg, Germany"
-region: "Schwedt/Oder"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Schwedt/Oder"
+  - "Brandenburg"
 wikidata_id: "Q1393858"
 latitude: 53.056
 longitude: 14.2921
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/400px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/800px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/1200px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/1920px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/1920px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Antoniterkloster Memmingen"
 date: 2026-01-26
 draft: false
 description: "German monestary"
-region: "Memmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Memmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q606504"
 latitude: 47.985
 longitude: 10.1785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/400px-AntonierKlosterEingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/800px-AntonierKlosterEingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/1200px-AntonierKlosterEingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/1920px-AntonierKlosterEingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/1920px-AntonierKlosterEingang.jpg---
 
 ## Overview
 

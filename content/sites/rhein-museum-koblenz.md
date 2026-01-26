@@ -4,13 +4,13 @@ site_name: "Rhein-Museum Koblenz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2147480"
 latitude: 50.3607
 longitude: 7.61152
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/400px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/800px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/1200px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/1920px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/1920px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg---
 
 ## Overview
 

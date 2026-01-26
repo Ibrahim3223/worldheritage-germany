@@ -4,13 +4,13 @@ site_name: "Märchenbrunnen (Wuppertal)"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1957381"
 latitude: 51.2431
 longitude: 7.11028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/400px-Märchenbrunnen_Wuppertal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/800px-Märchenbrunnen_Wuppertal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/1200px-Märchenbrunnen_Wuppertal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/1920px-Märchenbrunnen_Wuppertal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/1920px-Märchenbrunnen_Wuppertal.jpg---
 
 ## Overview
 

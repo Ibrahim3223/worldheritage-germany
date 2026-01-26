@@ -4,13 +4,13 @@ site_name: "Römisches Haus, Weimar"
 date: 2026-01-26
 draft: false
 description: "building in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Building"
 categories:
   - "Building"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2202630"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/400px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/800px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/1200px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/1920px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/1920px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg---
 
 ## Overview
 

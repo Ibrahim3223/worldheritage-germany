@@ -4,19 +4,18 @@ site_name: "Torhaus Friedrich-Rückert-Straße 8 in Coburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-839 (2) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98587120"
 latitude: 50.275189151
 longitude: 10.950387227
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Maxmonument"
 date: 2026-01-26
 draft: false
 description: "monument in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1718380"
 latitude: 48.1376
 longitude: 11.5881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Maxmonument_Muenchen-1.jpg/400px-Maxmonument_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Maxmonument_Muenchen-1.jpg/800px-Maxmonument_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Maxmonument_Muenchen-1.jpg/1200px-Maxmonument_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Maxmonument_Muenchen-1.jpg/1920px-Maxmonument_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Maxmonument_Muenchen-1.jpg/1920px-Maxmonument_Muenchen-1.jpg---
 
 ## Overview
 

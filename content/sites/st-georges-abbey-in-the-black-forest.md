@@ -4,13 +4,13 @@ site_name: "St. George's Abbey in the Black Forest"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "St. Georgen im Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "St. Georgen im Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q880206"
 latitude: 48.1271
 longitude: 8.3542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg/400px-Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg/800px-Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg/1200px-Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg/1920px-Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg/1920px-Kloster_St._Georgen_im_Schwarzwald_um_1824.jpg---
 
 ## Overview
 

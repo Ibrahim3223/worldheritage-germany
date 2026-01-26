@@ -4,13 +4,13 @@ site_name: "Burg Eschweiler"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151721"
 latitude: 50.818
 longitude: 6.2646
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/400px-Burg_Eschweiler,_oturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/800px-Burg_Eschweiler,_oturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/1200px-Burg_Eschweiler,_oturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/1920px-Burg_Eschweiler,_oturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/1920px-Burg_Eschweiler,_oturm.jpg---
 
 ## Overview
 

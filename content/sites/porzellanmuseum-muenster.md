@@ -4,19 +4,18 @@ site_name: "Porzellanmuseum Münster"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1543384"
 latitude: 51.9729
 longitude: 7.60944
 images:
-  []
----
+  []---
 
 ## Overview
 

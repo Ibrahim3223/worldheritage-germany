@@ -4,13 +4,13 @@ site_name: "Gerhard Marcks House"
 date: 2026-01-26
 draft: false
 description: "art museum"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1511196"
 latitude: 53.0727
 longitude: 8.81462
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/400px-Ostertorwache_Gerhard-Marcks-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/800px-Ostertorwache_Gerhard-Marcks-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1200px-Ostertorwache_Gerhard-Marcks-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1920px-Ostertorwache_Gerhard-Marcks-Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1920px-Ostertorwache_Gerhard-Marcks-Haus.jpg---
 
 ## Overview
 

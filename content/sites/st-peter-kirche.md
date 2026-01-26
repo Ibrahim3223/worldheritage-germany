@@ -4,13 +4,13 @@ site_name: "St. Peter Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Kirchheim, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2322483"
 latitude: 49.3806
 longitude: 8.66909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/400px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/800px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/1200px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/1920px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/1920px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg---
 
 ## Overview
 

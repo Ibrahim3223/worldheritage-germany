@@ -4,13 +4,13 @@ site_name: "St. Martin, Idstein"
 date: 2026-01-26
 draft: false
 description: "Roman Catholic church in Idstein, Rheingau-Taunus-Kreis, Germany"
-region: "Idstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Idstein"
+  - "Hesse"
 wikidata_id: "Q1604563"
 latitude: 50.218889
 longitude: 8.266667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Katholische_Kirche_Idstein_022.JPG/400px-Katholische_Kirche_Idstein_022.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Katholische_Kirche_Idstein_022.JPG/800px-Katholische_Kirche_Idstein_022.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Katholische_Kirche_Idstein_022.JPG/1200px-Katholische_Kirche_Idstein_022.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Katholische_Kirche_Idstein_022.JPG/1920px-Katholische_Kirche_Idstein_022.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Katholische_Kirche_Idstein_022.JPG/1920px-Katholische_Kirche_Idstein_022.JPG---
 
 ## Overview
 

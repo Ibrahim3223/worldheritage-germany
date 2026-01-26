@@ -4,13 +4,13 @@ site_name: "Eyüp-Sultan-Moschee (Emden)"
 date: 2026-01-26
 draft: false
 description: "islamisches Gotteshaus in Ostfriesland, Niedersachsen, Deutschland"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1385949"
 latitude: 53.3682
 longitude: 7.1954
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/400px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/800px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/1200px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/1920px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/1920px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über den Mühlbach Buschmühlenweg 56 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wachau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wachau"
+  - "Saxony"
 wikidata_id: "Q49406195"
 latitude: 51.193428
 longitude: 13.874091
 images:
-  []
----
+  []---
 
 ## Overview
 

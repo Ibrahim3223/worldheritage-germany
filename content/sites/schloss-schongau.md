@@ -4,13 +4,13 @@ site_name: "Schloss Schongau"
 date: 2026-01-26
 draft: false
 description: "Castle of Schongau"
-region: "Q518663"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Q518663"
+  - "Bavaria"
 wikidata_id: "Q24037650"
 latitude: 47.813741625
 longitude: 10.894615287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/400px-Schongau-188-Schloss-Landratsamt-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/800px-Schongau-188-Schloss-Landratsamt-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/1200px-Schongau-188-Schloss-Landratsamt-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/1920px-Schongau-188-Schloss-Landratsamt-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/1920px-Schongau-188-Schloss-Landratsamt-gje.jpg---
 
 ## Overview
 

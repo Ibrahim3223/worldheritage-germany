@@ -4,13 +4,13 @@ site_name: "Maria Rosenkranz Church"
 date: 2026-01-26
 draft: false
 description: "Roman Catholic church in Frankfurt am Main-Seckbach, Germany (built in 1953)"
-region: "Frankfurt-Ost"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Ost"
+  - "Hesse"
 wikidata_id: "Q1895582"
 latitude: 50.1412
 longitude: 8.7216
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/400px-Maria-Rosenkranz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/800px-Maria-Rosenkranz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/1200px-Maria-Rosenkranz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/1920px-Maria-Rosenkranz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maria-Rosenkranz.JPG/1920px-Maria-Rosenkranz.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Völklingen Ironworks"
 date: 2026-01-26
 draft: false
 description: "ironworks"
-region: "Völklingen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Ironworks"
 categories:
   - "Ironworks"
 regions:
-  - "Völklingen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q127754"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg/400px-Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg/800px-Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Völklingen_Ironworks_(view_from_the_south).jpg---
 
 ## Overview
 

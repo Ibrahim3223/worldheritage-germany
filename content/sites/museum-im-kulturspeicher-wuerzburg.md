@@ -4,13 +4,13 @@ site_name: "Museum im Kulturspeicher Würzburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Würzburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Würzburg"
+  - "Bavaria"
 wikidata_id: "Q1954718"
 latitude: 49.8013
 longitude: 9.9224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/400px-AlterHafenWürzburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/800px-AlterHafenWürzburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/1200px-AlterHafenWürzburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/1920px-AlterHafenWürzburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/1920px-AlterHafenWürzburg.jpg---
 
 ## Overview
 

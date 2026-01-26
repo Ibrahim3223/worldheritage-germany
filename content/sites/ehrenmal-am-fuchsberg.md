@@ -4,19 +4,18 @@ site_name: "Ehrenmal am Fuchsberg"
 date: 2026-01-26
 draft: false
 description: "former monument in Düren, Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1300196"
 latitude: 50.7845
 longitude: 6.4994
 images:
-  []
----
+  []---
 
 ## Overview
 

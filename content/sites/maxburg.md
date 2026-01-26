@@ -4,13 +4,13 @@ site_name: "Maxburg"
 date: 2026-01-26
 draft: false
 description: "building in Old Town, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1913743"
 latitude: 48.1402
 longitude: 11.5698
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maxturm_Muenchen-1.jpg/400px-Maxturm_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maxturm_Muenchen-1.jpg/800px-Maxturm_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maxturm_Muenchen-1.jpg/1200px-Maxturm_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maxturm_Muenchen-1.jpg/1920px-Maxturm_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maxturm_Muenchen-1.jpg/1920px-Maxturm_Muenchen-1.jpg---
 
 ## Overview
 

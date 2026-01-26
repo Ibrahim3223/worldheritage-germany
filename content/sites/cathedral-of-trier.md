@@ -4,13 +4,13 @@ site_name: "Cathedral of Trier"
 date: 2026-01-26
 draft: false
 description: "Roman-Catholic cathedral in Trier, Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q5920"
 latitude: 49.756111111
 longitude: 6.643055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/400px-Dom_und_Liebfrauen_Trier.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/800px-Dom_und_Liebfrauen_Trier.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/1200px-Dom_und_Liebfrauen_Trier.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/1920px-Dom_und_Liebfrauen_Trier.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/1920px-Dom_und_Liebfrauen_Trier.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Benediktinerkloster Belecke"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Benediktinerkloster in Warstein-Belecke"
-region: "Warstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Warstein"
+  - "Hesse"
 wikidata_id: "Q817062"
 latitude: 51.4836
 longitude: 8.33944
 images:
-  []
----
+  []---
 
 ## Overview
 

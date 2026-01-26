@@ -4,13 +4,13 @@ site_name: "Karolinenplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Maxvorstadt, Germany"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q957790"
 latitude: 48.1447
 longitude: 11.5692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg/400px-Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg/800px-Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg/1200px-Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg/1920px-Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg/1920px-Aerial_image_of_Karolinenplatz_in_Munich_(view_from_the_south).jpg---
 
 ## Overview
 

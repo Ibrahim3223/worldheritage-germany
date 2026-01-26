@@ -4,13 +4,13 @@ site_name: "Perlachturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q458420"
 latitude: 48.3692
 longitude: 10.8983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/400px-Augsburg-Perlachkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/800px-Augsburg-Perlachkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1200px-Augsburg-Perlachkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1920px-Augsburg-Perlachkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1920px-Augsburg-Perlachkirche.jpg---
 
 ## Overview
 

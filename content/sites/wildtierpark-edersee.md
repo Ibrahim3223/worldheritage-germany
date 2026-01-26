@@ -4,13 +4,13 @@ site_name: "WildtierPark Edersee"
 date: 2026-01-26
 draft: false
 description: "zoo in Edertal, Germany"
-region: "Hemfurth-Edersee"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Hemfurth-Edersee"
+  - "Hesse"
 wikidata_id: "Q2570807"
 latitude: 51.1861
 longitude: 9.04167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/400px-Edersee_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/800px-Edersee_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/1200px-Edersee_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/1920px-Edersee_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/1920px-Edersee_Panorama.jpg---
 
 ## Overview
 

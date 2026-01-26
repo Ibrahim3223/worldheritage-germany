@@ -4,13 +4,13 @@ site_name: "Individual monuments of cemetery Alter Johannisfriedhof, Leipzig"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Saxony, former cemetery in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q437979"
 latitude: 51.337
 longitude: 12.3895
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/400px-Brockhaus_Gravestones.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/800px-Brockhaus_Gravestones.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1200px-Brockhaus_Gravestones.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1920px-Brockhaus_Gravestones.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1920px-Brockhaus_Gravestones.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sammlung Domnick Nürtingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nürtingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nürtingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q748371"
 latitude: 48.64386
 longitude: 9.311838
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SammlungDomnick.jpg/400px-SammlungDomnick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SammlungDomnick.jpg/800px-SammlungDomnick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SammlungDomnick.jpg/1200px-SammlungDomnick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SammlungDomnick.jpg/1920px-SammlungDomnick.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SammlungDomnick.jpg/1920px-SammlungDomnick.jpg---
 
 ## Overview
 

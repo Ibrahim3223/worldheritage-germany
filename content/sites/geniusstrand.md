@@ -4,19 +4,18 @@ site_name: "Geniusstrand"
 date: 2026-01-26
 draft: false
 description: "former beach in Wilhelmshaven, Germany"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q1502258"
 latitude: 53.58123611
 longitude: 8.13348889
 images:
-  []
----
+  []---
 
 ## Overview
 

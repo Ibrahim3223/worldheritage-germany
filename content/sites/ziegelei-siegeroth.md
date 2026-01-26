@@ -4,13 +4,13 @@ site_name: "Ziegelei Siegeroth"
 date: 2026-01-26
 draft: false
 description: "former brickworks in Lünen, Germany"
-region: "Lünen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lünen"
+  - "Lower Saxony"
 wikidata_id: "Q198596"
 latitude: 51.6264
 longitude: 7.55425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/400px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/800px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/1200px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/1920px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/1920px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg---
 
 ## Overview
 

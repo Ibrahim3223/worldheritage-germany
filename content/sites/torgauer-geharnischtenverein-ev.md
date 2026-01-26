@@ -4,13 +4,13 @@ site_name: "Torgauer Geharnischtenverein e.V."
 date: 2026-01-26
 draft: false
 description: "Successor to the ‘Torgau Armoured Company’, considered the oldest electoral privileged militia in Germany, first mentioned in documents in 1344"
-region: "Torgau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Torgau"
+  - "Brandenburg"
 wikidata_id: "Q135974607"
 latitude: 51.546031
 longitude: 12.995548
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1050-Jahre-Torgau_(13).jpg/400px-1050-Jahre-Torgau_(13).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1050-Jahre-Torgau_(13).jpg/800px-1050-Jahre-Torgau_(13).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1050-Jahre-Torgau_(13).jpg/1200px-1050-Jahre-Torgau_(13).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1050-Jahre-Torgau_(13).jpg/1920px-1050-Jahre-Torgau_(13).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1050-Jahre-Torgau_(13).jpg/1920px-1050-Jahre-Torgau_(13).jpg---
 
 ## Overview
 

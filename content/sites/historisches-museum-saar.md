@@ -4,13 +4,13 @@ site_name: "Historisches Museum Saar"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1620996"
 latitude: 49.23
 longitude: 6.99156
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Historisches_Museum_Saar_Saarbruecken_01.jpg/400px-Historisches_Museum_Saar_Saarbruecken_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Historisches_Museum_Saar_Saarbruecken_01.jpg/800px-Historisches_Museum_Saar_Saarbruecken_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Historisches_Museum_Saar_Saarbruecken_01.jpg/1200px-Historisches_Museum_Saar_Saarbruecken_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Historisches_Museum_Saar_Saarbruecken_01.jpg/1920px-Historisches_Museum_Saar_Saarbruecken_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Historisches_Museum_Saar_Saarbruecken_01.jpg/1920px-Historisches_Museum_Saar_Saarbruecken_01.jpg---
 
 ## Overview
 

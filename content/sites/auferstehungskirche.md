@@ -4,13 +4,13 @@ site_name: "Auferstehungskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hannover, Germany"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q759618"
 latitude: 52.3391
 longitude: 9.77159
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/400px-Auferstehungskirche_Döhren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/800px-Auferstehungskirche_Döhren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1200px-Auferstehungskirche_Döhren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1920px-Auferstehungskirche_Döhren.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1920px-Auferstehungskirche_Döhren.jpg---
 
 ## Overview
 

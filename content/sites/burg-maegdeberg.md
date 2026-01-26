@@ -4,13 +4,13 @@ site_name: "Burg Mägdeberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mühlhausen-Ehingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mühlhausen-Ehingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013156"
 latitude: 47.80527778
 longitude: 8.7975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/400px-Ruine_Maegdeberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/800px-Ruine_Maegdeberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1200px-Ruine_Maegdeberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1920px-Ruine_Maegdeberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1920px-Ruine_Maegdeberg.JPG---
 
 ## Overview
 

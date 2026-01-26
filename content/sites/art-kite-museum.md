@@ -4,13 +4,13 @@ site_name: "Art Kite Museum"
 date: 2026-01-26
 draft: false
 description: "former museum in Detmold, Germany"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q705611"
 latitude: 51.9439
 longitude: 8.89833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/400px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/800px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/1200px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/1920px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/1920px-Detmold_-_537(21)_-_Im_Hoffeld.jpg---
 
 ## Overview
 

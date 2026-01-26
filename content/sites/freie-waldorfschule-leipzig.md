@@ -4,13 +4,13 @@ site_name: "Freie Waldorfschule Leipzig"
 date: 2026-01-26
 draft: false
 description: "school in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1454059"
 latitude: 51.365
 longitude: 12.4057
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/400px-Berthastraße_15.Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/800px-Berthastraße_15.Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/1200px-Berthastraße_15.Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/1920px-Berthastraße_15.Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/1920px-Berthastraße_15.Leipzig.jpg---
 
 ## Overview
 

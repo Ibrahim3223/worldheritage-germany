@@ -4,13 +4,13 @@ site_name: "Salmorth"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Kleve, North Rhine-Westphalia, Germany"
-region: "Kleve"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kleve"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q303733"
 latitude: 51.839166666
 longitude: 6.131388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/400px-Schenkenschanz-Suedansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/800px-Schenkenschanz-Suedansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/1200px-Schenkenschanz-Suedansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/1920px-Schenkenschanz-Suedansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/1920px-Schenkenschanz-Suedansicht.jpg---
 
 ## Overview
 

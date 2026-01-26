@@ -4,13 +4,13 @@ site_name: "Museum Pfalzgalerie Kaiserslautern"
 date: 2026-01-26
 draft: false
 description: "art museum in Kaiserslautern, Germany"
-region: "Kaiserslautern"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Kaiserslautern"
+  - "Baden-Württemberg"
 wikidata_id: "Q1386526"
 latitude: 49.4492
 longitude: 7.76917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/400px-Pfalzgaleie_KL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/800px-Pfalzgaleie_KL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/1200px-Pfalzgaleie_KL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/1920px-Pfalzgaleie_KL.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/1920px-Pfalzgaleie_KL.jpg---
 
 ## Overview
 

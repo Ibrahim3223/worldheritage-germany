@@ -4,13 +4,13 @@ site_name: "Drewitzer See"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q317486"
 latitude: 53.541944444
 longitude: 12.363333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/400px-Alt-Schweriner-See-09-07-2008-012a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/800px-Alt-Schweriner-See-09-07-2008-012a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1200px-Alt-Schweriner-See-09-07-2008-012a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1920px-Alt-Schweriner-See-09-07-2008-012a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1920px-Alt-Schweriner-See-09-07-2008-012a.jpg---
 
 ## Overview
 

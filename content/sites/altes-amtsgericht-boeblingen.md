@@ -4,13 +4,13 @@ site_name: "Altes Amtsgericht Böblingen"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Gerichtsgebäude"
-region: "Böblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Böblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q108618682"
 latitude: 48.685527957
 longitude: 9.014244675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altes_Amtsgericht_Böblingen_03.jpg/400px-Altes_Amtsgericht_Böblingen_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altes_Amtsgericht_Böblingen_03.jpg/800px-Altes_Amtsgericht_Böblingen_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altes_Amtsgericht_Böblingen_03.jpg/1200px-Altes_Amtsgericht_Böblingen_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altes_Amtsgericht_Böblingen_03.jpg/1920px-Altes_Amtsgericht_Böblingen_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altes_Amtsgericht_Böblingen_03.jpg/1920px-Altes_Amtsgericht_Böblingen_03.jpg---
 
 ## Overview
 

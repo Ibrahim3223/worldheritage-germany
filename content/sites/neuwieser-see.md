@@ -4,13 +4,13 @@ site_name: "Neuwieser See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Elsterheide"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Elsterheide"
+  - "Brandenburg"
 wikidata_id: "Q160979"
 latitude: 51.4983
 longitude: 14.1964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neuwieser_See_Elsterheide.JPG/400px-Neuwieser_See_Elsterheide.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neuwieser_See_Elsterheide.JPG/800px-Neuwieser_See_Elsterheide.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neuwieser_See_Elsterheide.JPG/1200px-Neuwieser_See_Elsterheide.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neuwieser_See_Elsterheide.JPG/1920px-Neuwieser_See_Elsterheide.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neuwieser_See_Elsterheide.JPG/1920px-Neuwieser_See_Elsterheide.JPG---
 
 ## Overview
 

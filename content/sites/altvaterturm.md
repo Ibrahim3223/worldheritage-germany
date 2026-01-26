@@ -4,13 +4,13 @@ site_name: "Altvaterturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Lehesten"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Lehesten"
+  - "Bavaria"
 wikidata_id: "Q446327"
 latitude: 50.45
 longitude: 11.4556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/400px-Wetzstein_-_Altvaterturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/800px-Wetzstein_-_Altvaterturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/1200px-Wetzstein_-_Altvaterturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/1920px-Wetzstein_-_Altvaterturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/1920px-Wetzstein_-_Altvaterturm.jpg---
 
 ## Overview
 

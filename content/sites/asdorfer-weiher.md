@@ -4,13 +4,13 @@ site_name: "Asdorfer Weiher"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Freudenberg, North Rhine-Westphalia, Germany"
-region: "Freudenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Freudenberg"
+  - "Hesse"
 wikidata_id: "Q723463"
 latitude: 50.8779
 longitude: 7.8675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Asdorfer-Weiher-04.jpg/400px-Asdorfer-Weiher-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Asdorfer-Weiher-04.jpg/800px-Asdorfer-Weiher-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Asdorfer-Weiher-04.jpg/1200px-Asdorfer-Weiher-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Asdorfer-Weiher-04.jpg/1920px-Asdorfer-Weiher-04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Asdorfer-Weiher-04.jpg/1920px-Asdorfer-Weiher-04.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kreuzkirche (Bonn)"
 date: 2026-01-26
 draft: false
 description: "church building in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1788329"
 latitude: 50.7319
 longitude: 7.10243
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/400px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/800px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1200px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1920px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1920px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg---
 
 ## Overview
 

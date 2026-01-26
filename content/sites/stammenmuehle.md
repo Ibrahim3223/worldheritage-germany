@@ -4,13 +4,13 @@ site_name: "Stammenmühle"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschützte Turmwindmühle mit Steert in Hinsbeck"
-region: "Nettetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Nettetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1540486"
 latitude: 51.3325
 longitude: 6.28929
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/400px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/800px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/1200px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/1920px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/1920px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg---
 
 ## Overview
 

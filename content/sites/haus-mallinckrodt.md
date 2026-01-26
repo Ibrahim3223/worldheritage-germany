@@ -4,13 +4,13 @@ site_name: "Haus Mallinckrodt"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Ende"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Ende"
+  - "Lower Saxony"
 wikidata_id: "Q1506488"
 latitude: 51.400416666
 longitude: 7.360777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_Mallinckrodt_Herdecke.jpg/400px-Haus_Mallinckrodt_Herdecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_Mallinckrodt_Herdecke.jpg/800px-Haus_Mallinckrodt_Herdecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_Mallinckrodt_Herdecke.jpg/1200px-Haus_Mallinckrodt_Herdecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_Mallinckrodt_Herdecke.jpg/1920px-Haus_Mallinckrodt_Herdecke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_Mallinckrodt_Herdecke.jpg/1920px-Haus_Mallinckrodt_Herdecke.jpg---
 
 ## Overview
 

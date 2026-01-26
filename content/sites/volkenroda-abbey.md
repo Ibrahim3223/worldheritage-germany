@@ -4,13 +4,13 @@ site_name: "Volkenroda Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Thuringia, Germany"
-region: "Körner"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Körner"
+  - "Thuringia"
 wikidata_id: "Q324119"
 latitude: 51.25
 longitude: 10.566666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Klosterkirche_Volkenroda.jpg/400px-Klosterkirche_Volkenroda.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Klosterkirche_Volkenroda.jpg/800px-Klosterkirche_Volkenroda.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Klosterkirche_Volkenroda.jpg/1200px-Klosterkirche_Volkenroda.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Klosterkirche_Volkenroda.jpg/1920px-Klosterkirche_Volkenroda.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Klosterkirche_Volkenroda.jpg/1920px-Klosterkirche_Volkenroda.jpg---
 
 ## Overview
 

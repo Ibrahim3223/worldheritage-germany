@@ -4,13 +4,13 @@ site_name: "Rudolph-Brandes-Obelisk"
 date: 2026-01-26
 draft: false
 description: "Denkmal für den Apotheker und Naturwissenschaftler Rudolph Brandes in Bad Salzuflen"
-region: "Bad Salzuflen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Salzuflen"
+  - "Lower Saxony"
 wikidata_id: "Q1245251"
 latitude: 52.0805
 longitude: 8.75121
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/400px-Rudolph-Brandes-Obelisk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/800px-Rudolph-Brandes-Obelisk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/1200px-Rudolph-Brandes-Obelisk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/1920px-Rudolph-Brandes-Obelisk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/1920px-Rudolph-Brandes-Obelisk.jpg---
 
 ## Overview
 

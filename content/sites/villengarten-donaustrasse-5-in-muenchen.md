@@ -4,19 +4,18 @@ site_name: "Villengarten Donaustraße 5 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-1320 (2) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98739189"
 latitude: 48.146870122
 longitude: 11.610532733
 images:
-  []
----
+  []---
 
 ## Overview
 

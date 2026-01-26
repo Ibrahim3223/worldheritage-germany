@@ -4,13 +4,13 @@ site_name: "Burg Marquartstein"
 date: 2026-01-26
 draft: false
 description: "castle in Upper Bavaria, Germany"
-region: "Marquartstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Marquartstein"
+  - "Bavaria"
 wikidata_id: "Q1013076"
 latitude: 47.756757937
 longitude: 12.468695412
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/400px-Marquartstein_Castle_North-West_View.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/800px-Marquartstein_Castle_North-West_View.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/1200px-Marquartstein_Castle_North-West_View.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/1920px-Marquartstein_Castle_North-West_View.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/1920px-Marquartstein_Castle_North-West_View.jpg---
 
 ## Overview
 

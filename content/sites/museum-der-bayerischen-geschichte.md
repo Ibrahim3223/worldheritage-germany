@@ -4,13 +4,13 @@ site_name: "Museum der Bayerischen Geschichte"
 date: 2026-01-26
 draft: false
 description: "History museum in Regensburg, Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q1709513"
 latitude: 49.0199
 longitude: 12.1032
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museum_der_Bayerischen_Geschichte_Regensburg.jpg/400px-Museum_der_Bayerischen_Geschichte_Regensburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museum_der_Bayerischen_Geschichte_Regensburg.jpg/800px-Museum_der_Bayerischen_Geschichte_Regensburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museum_der_Bayerischen_Geschichte_Regensburg.jpg/1200px-Museum_der_Bayerischen_Geschichte_Regensburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museum_der_Bayerischen_Geschichte_Regensburg.jpg/1920px-Museum_der_Bayerischen_Geschichte_Regensburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museum_der_Bayerischen_Geschichte_Regensburg.jpg/1920px-Museum_der_Bayerischen_Geschichte_Regensburg.jpg---
 
 ## Overview
 

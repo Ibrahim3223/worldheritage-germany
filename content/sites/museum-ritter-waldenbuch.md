@@ -4,13 +4,13 @@ site_name: "Museum Ritter (Waldenbuch)"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Waldenbuch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Waldenbuch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1436645"
 latitude: 48.6388
 longitude: 9.1226
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/400px-WaldenbuchRitter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/800px-WaldenbuchRitter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/1200px-WaldenbuchRitter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/1920px-WaldenbuchRitter.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/1920px-WaldenbuchRitter.jpg---
 
 ## Overview
 

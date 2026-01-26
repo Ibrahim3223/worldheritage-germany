@@ -4,19 +4,18 @@ site_name: "Bezelberg"
 date: 2026-01-26
 draft: false
 description: "mountain in Saxony, Germany"
-region: "Neustadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Neustadt"
+  - "Bavaria"
 wikidata_id: "Q853572"
 latitude: 50.463
 longitude: 12.329
 images:
-  []
----
+  []---
 
 ## Overview
 

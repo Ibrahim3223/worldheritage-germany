@@ -4,13 +4,13 @@ site_name: "Lehnin Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Kloster Lehnin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Kloster Lehnin"
+  - "Brandenburg"
 wikidata_id: "Q561860"
 latitude: 52.320277777
 longitude: 12.743333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/400px-PM08-13_img03_Kloster_Lehnin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/800px-PM08-13_img03_Kloster_Lehnin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/1200px-PM08-13_img03_Kloster_Lehnin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/1920px-PM08-13_img03_Kloster_Lehnin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/1920px-PM08-13_img03_Kloster_Lehnin.jpg---
 
 ## Overview
 

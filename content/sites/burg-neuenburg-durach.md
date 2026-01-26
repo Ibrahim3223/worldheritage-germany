@@ -4,13 +4,13 @@ site_name: "Burg Neuenburg (Durach)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Durach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Durach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013268"
 latitude: 47.6919
 longitude: 10.3618
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Burg_Neuenburg_Durach_6.jpg/400px-Burg_Neuenburg_Durach_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Burg_Neuenburg_Durach_6.jpg/800px-Burg_Neuenburg_Durach_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Burg_Neuenburg_Durach_6.jpg/1200px-Burg_Neuenburg_Durach_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Burg_Neuenburg_Durach_6.jpg/1920px-Burg_Neuenburg_Durach_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Burg_Neuenburg_Durach_6.jpg/1920px-Burg_Neuenburg_Durach_6.jpg---
 
 ## Overview
 

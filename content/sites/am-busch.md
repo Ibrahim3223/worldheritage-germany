@@ -4,19 +4,18 @@ site_name: "Am Busch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Börger"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Börger"
+  - "Lower Saxony"
 wikidata_id: "Q451217"
 latitude: 52.8906
 longitude: 7.53583
 images:
-  []
----
+  []---
 
 ## Overview
 

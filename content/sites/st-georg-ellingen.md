@@ -4,13 +4,13 @@ site_name: "St. Georg (Ellingen)"
 date: 2026-01-26
 draft: false
 description: "Catholic church building in Ellingen"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q721714"
 latitude: 49.0588
 longitude: 10.9678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ellingen_StGeorg.jpg/400px-Ellingen_StGeorg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ellingen_StGeorg.jpg/800px-Ellingen_StGeorg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ellingen_StGeorg.jpg/1200px-Ellingen_StGeorg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ellingen_StGeorg.jpg/1920px-Ellingen_StGeorg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ellingen_StGeorg.jpg/1920px-Ellingen_StGeorg.jpg---
 
 ## Overview
 

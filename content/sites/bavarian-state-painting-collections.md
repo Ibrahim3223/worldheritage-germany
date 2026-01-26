@@ -4,13 +4,13 @@ site_name: "Bavarian State Painting Collections"
 date: 2026-01-26
 draft: false
 description: "artworks held by the Free State of Bavaria for Alte Pinakothek, Aschaffenburg, Bamberg, Bayreuth, Schleissheim and others"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q812285"
 latitude: 48.149583
 longitude: 11.571776
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/400px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/800px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/1200px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/1920px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/1920px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg---
 
 ## Overview
 

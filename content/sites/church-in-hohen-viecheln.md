@@ -4,13 +4,13 @@ site_name: "Church in Hohen Viecheln"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hohen Viecheln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hohen Viecheln"
+  - "Lower Saxony"
 wikidata_id: "Q1244369"
 latitude: 53.7845
 longitude: 11.5133
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/400px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/800px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1200px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1920px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1920px-Hohen_Viecheln_Kirche_2008-11-13p.jpg---
 
 ## Overview
 

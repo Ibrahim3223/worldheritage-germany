@@ -4,13 +4,13 @@ site_name: "Französische Friedrichstadtkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1450554"
 latitude: 52.5144
 longitude: 13.3919
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/400px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/800px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1200px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1920px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1920px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG---
 
 ## Overview 
 

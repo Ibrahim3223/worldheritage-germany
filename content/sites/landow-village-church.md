@@ -4,13 +4,13 @@ site_name: "Landow Village Church"
 date: 2026-01-26
 draft: false
 description: "church in Landow, Germany"
-region: "Dreschvitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dreschvitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q946609"
 latitude: 54.403980555
 longitude: 13.259511111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Landow,_Dorfkirche_1.jpg/400px-Landow,_Dorfkirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Landow,_Dorfkirche_1.jpg/800px-Landow,_Dorfkirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Landow,_Dorfkirche_1.jpg/1200px-Landow,_Dorfkirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Landow,_Dorfkirche_1.jpg/1920px-Landow,_Dorfkirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Landow,_Dorfkirche_1.jpg/1920px-Landow,_Dorfkirche_1.jpg---
 
 ## Overview
 

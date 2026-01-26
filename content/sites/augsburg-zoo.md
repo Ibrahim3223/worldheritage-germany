@@ -4,13 +4,13 @@ site_name: "Augsburg Zoo"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q220004"
 latitude: 48.3478
 longitude: 10.9144
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/400px-Augsburg_Zoo_entry.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/800px-Augsburg_Zoo_entry.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/1200px-Augsburg_Zoo_entry.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/1920px-Augsburg_Zoo_entry.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/1920px-Augsburg_Zoo_entry.jpg---
 
 ## Overview
 

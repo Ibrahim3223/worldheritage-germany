@@ -4,13 +4,13 @@ site_name: "Catholic Church St. Anna, Ratingen Lintorf"
 date: 2026-01-26
 draft: false
 description: "church building in Ratingen, Germany"
-region: "Ratingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ratingen"
+  - "Lower Saxony"
 wikidata_id: "Q14497860"
 latitude: 51.332
 longitude: 6.83132
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg/400px-Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg/800px-Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg/1200px-Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg/1920px-Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg/1920px-Kirche-St-Anna-Ratingen-Lintdorf-2016.jpg---
 
 ## Overview
 

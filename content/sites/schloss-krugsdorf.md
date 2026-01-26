@@ -4,13 +4,13 @@ site_name: "Schloss Krugsdorf"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Krugsdorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Krugsdorf"
+  - "Brandenburg"
 wikidata_id: "Q1624760"
 latitude: 53.5238
 longitude: 14.0848
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/400px-Krugsdorf_Schloßhotel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/800px-Krugsdorf_Schloßhotel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/1200px-Krugsdorf_Schloßhotel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/1920px-Krugsdorf_Schloßhotel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/1920px-Krugsdorf_Schloßhotel.jpg---
 
 ## Overview
 

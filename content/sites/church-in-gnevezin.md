@@ -4,13 +4,13 @@ site_name: "Church in Gnevezin"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Bargischow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bargischow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1650817"
 latitude: 53.841
 longitude: 13.7556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gnevezin_Kapelle_südwest.JPG/400px-Gnevezin_Kapelle_südwest.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gnevezin_Kapelle_südwest.JPG/800px-Gnevezin_Kapelle_südwest.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gnevezin_Kapelle_südwest.JPG/1200px-Gnevezin_Kapelle_südwest.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gnevezin_Kapelle_südwest.JPG/1920px-Gnevezin_Kapelle_südwest.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gnevezin_Kapelle_südwest.JPG/1920px-Gnevezin_Kapelle_südwest.JPG---
 
 ## Overview
 

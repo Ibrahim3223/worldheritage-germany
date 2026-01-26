@@ -4,13 +4,13 @@ site_name: "Lieps"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburg-Vorpommern"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburg-Vorpommern"
+  - "Brandenburg"
 wikidata_id: "Q80473"
 latitude: 53.451111111
 longitude: 13.157222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/400px-Hanfwerder.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/800px-Hanfwerder.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/1200px-Hanfwerder.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/1920px-Hanfwerder.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/1920px-Hanfwerder.jpg---
 
 ## Overview
 

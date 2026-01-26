@@ -4,13 +4,13 @@ site_name: "Baitus Sami"
 date: 2026-01-26
 draft: false
 description: "mosque in Hanover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q835509"
 latitude: 52.429633966
 longitude: 9.65812469
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/400px-Bait_us-Sami.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/800px-Bait_us-Sami.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1200px-Bait_us-Sami.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1920px-Bait_us-Sami.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1920px-Bait_us-Sami.jpg---
 
 ## Overview
 

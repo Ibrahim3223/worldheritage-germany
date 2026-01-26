@@ -4,13 +4,13 @@ site_name: "Bakenhof"
 date: 2026-01-26
 draft: false
 description: "Gebäude-Ensemble im Krefelder Vorort Linn"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q804295"
 latitude: 51.3354
 longitude: 6.63953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bakenhof-krefeld-linn-2004.jpg/400px-Bakenhof-krefeld-linn-2004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bakenhof-krefeld-linn-2004.jpg/800px-Bakenhof-krefeld-linn-2004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bakenhof-krefeld-linn-2004.jpg/1200px-Bakenhof-krefeld-linn-2004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bakenhof-krefeld-linn-2004.jpg/1920px-Bakenhof-krefeld-linn-2004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bakenhof-krefeld-linn-2004.jpg/1920px-Bakenhof-krefeld-linn-2004.jpg---
 
 ## Overview
 

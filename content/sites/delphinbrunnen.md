@@ -4,13 +4,13 @@ site_name: "Delphinbrunnen"
 date: 2026-01-26
 draft: false
 description: "water well in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1184659"
 latitude: 48.144639893
 longitude: 11.559847395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Delfinbrunnen_Muenchen-2.jpg/400px-Delfinbrunnen_Muenchen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Delfinbrunnen_Muenchen-2.jpg/800px-Delfinbrunnen_Muenchen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Delfinbrunnen_Muenchen-2.jpg/1200px-Delfinbrunnen_Muenchen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Delfinbrunnen_Muenchen-2.jpg/1920px-Delfinbrunnen_Muenchen-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Delfinbrunnen_Muenchen-2.jpg/1920px-Delfinbrunnen_Muenchen-2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "New Synagogue Berlin"
 date: 2026-01-26
 draft: false
 description: "synagoge in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q246474"
 latitude: 52.524722
 longitude: 13.394444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/400px-Berlin_Neue_Synagoge_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/800px-Berlin_Neue_Synagoge_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/1200px-Berlin_Neue_Synagoge_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/1920px-Berlin_Neue_Synagoge_2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/1920px-Berlin_Neue_Synagoge_2005.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stadtkirche Aalen"
 date: 2026-01-26
 draft: false
 description: "church building in Aalen, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Aalen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aalen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2327364"
 latitude: 48.8375
 longitude: 10.0935
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/400px-Stadtkirche_Aalen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/800px-Stadtkirche_Aalen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/1200px-Stadtkirche_Aalen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/1920px-Stadtkirche_Aalen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/1920px-Stadtkirche_Aalen.jpg---
 
 ## Overview
 

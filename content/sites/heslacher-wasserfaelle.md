@@ -4,13 +4,13 @@ site_name: "Heslacher Wasserfälle"
 date: 2026-01-26
 draft: false
 description: "Waterfall in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1615614"
 latitude: 48.7575
 longitude: 9.1232
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Heslacher_Wasserfälle-pjt3.jpg/400px-Heslacher_Wasserfälle-pjt3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Heslacher_Wasserfälle-pjt3.jpg/800px-Heslacher_Wasserfälle-pjt3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Heslacher_Wasserfälle-pjt3.jpg/1200px-Heslacher_Wasserfälle-pjt3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Heslacher_Wasserfälle-pjt3.jpg/1920px-Heslacher_Wasserfälle-pjt3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Heslacher_Wasserfälle-pjt3.jpg/1920px-Heslacher_Wasserfälle-pjt3.jpg---
 
 ## Overview
 

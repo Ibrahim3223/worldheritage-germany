@@ -4,13 +4,13 @@ site_name: "Weisbachsches Haus"
 date: 2026-01-26
 draft: false
 description: "heritage building in Plauen (Vogtl), Germany"
-region: "Plauen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Plauen"
+  - "Bavaria"
 wikidata_id: "Q15134704"
 latitude: 50.491668
 longitude: 12.13367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/400px-Plauen_Weisbachsches_Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/800px-Plauen_Weisbachsches_Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/1200px-Plauen_Weisbachsches_Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/1920px-Plauen_Weisbachsches_Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/1920px-Plauen_Weisbachsches_Haus.jpg---
 
 ## Overview
 

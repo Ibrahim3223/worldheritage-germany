@@ -4,13 +4,13 @@ site_name: "Museum im Schloss Elisabethenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Meiningen, Germany"
-region: "Meiningen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meiningen"
+  - "Bavaria"
 wikidata_id: "Q56677520"
 latitude: 50.57024
 longitude: 10.41326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/400px-Meiningen_Elisabethenburg_2012_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/800px-Meiningen_Elisabethenburg_2012_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/1200px-Meiningen_Elisabethenburg_2012_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/1920px-Meiningen_Elisabethenburg_2012_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/1920px-Meiningen_Elisabethenburg_2012_1.jpg---
 
 ## Overview
 

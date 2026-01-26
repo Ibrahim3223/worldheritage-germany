@@ -4,13 +4,13 @@ site_name: "Burg Hundeluft"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Coswig"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Coswig"
+  - "Brandenburg"
 wikidata_id: "Q1012506"
 latitude: 51.9659
 longitude: 12.3451
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BurgHundeluftEingangBlick.jpg/400px-BurgHundeluftEingangBlick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BurgHundeluftEingangBlick.jpg/800px-BurgHundeluftEingangBlick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BurgHundeluftEingangBlick.jpg/1200px-BurgHundeluftEingangBlick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BurgHundeluftEingangBlick.jpg/1920px-BurgHundeluftEingangBlick.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BurgHundeluftEingangBlick.jpg/1920px-BurgHundeluftEingangBlick.jpg---
 
 ## Overview
 

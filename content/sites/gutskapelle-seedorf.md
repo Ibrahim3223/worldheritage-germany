@@ -4,13 +4,13 @@ site_name: "Gutskapelle Seedorf"
 date: 2026-01-26
 draft: false
 description: "church building in Jerichow, Saxony-Anhalt, Germany"
-region: "Jerichow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Jerichow"
+  - "Brandenburg"
 wikidata_id: "Q1557310"
 latitude: 52.410991
 longitude: 12.066334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/400px-SeedorfKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/800px-SeedorfKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/1200px-SeedorfKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/1920px-SeedorfKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/1920px-SeedorfKirche.jpg---
 
 ## Overview
 

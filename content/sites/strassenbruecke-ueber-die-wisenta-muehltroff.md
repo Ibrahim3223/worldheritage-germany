@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über die Wisenta Mühltroff"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Pausa-Mühltroff"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Pausa-Mühltroff"
+  - "Bavaria"
 wikidata_id: "Q49440046"
 latitude: 50.539216
 longitude: 11.927005
 images:
-  []
----
+  []---
 
 ## Overview
 

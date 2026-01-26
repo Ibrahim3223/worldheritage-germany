@@ -4,19 +4,18 @@ site_name: "Fletch Bizzel"
 date: 2026-01-26
 draft: false
 description: "theatre in North Rhine-Westphalia, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1428121"
 latitude: 51.5105
 longitude: 7.45375
 images:
-  []
----
+  []---
 
 ## Overview
 

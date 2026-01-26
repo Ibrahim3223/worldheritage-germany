@@ -4,13 +4,13 @@ site_name: "Heimatstube Gößnitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Gößnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gößnitz"
+  - "Saxony"
 wikidata_id: "Q20479702"
 latitude: 50.88515
 longitude: 12.43147
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/400px-Heimatstube_Gößnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/800px-Heimatstube_Gößnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/1200px-Heimatstube_Gößnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/1920px-Heimatstube_Gößnitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/1920px-Heimatstube_Gößnitz.jpg---
 
 ## Overview
 

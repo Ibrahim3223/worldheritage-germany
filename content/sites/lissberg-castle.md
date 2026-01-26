@@ -4,13 +4,13 @@ site_name: "Lissberg Castle"
 date: 2026-01-26
 draft: false
 description: "Burgruine in Deutschland"
-region: "Ortenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ortenberg"
+  - "Bavaria"
 wikidata_id: "Q1013000"
 latitude: 50.3745
 longitude: 9.0843
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Lissberg.jpg/400px-Burg_Lissberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Lissberg.jpg/800px-Burg_Lissberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Lissberg.jpg/1200px-Burg_Lissberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Lissberg.jpg/1920px-Burg_Lissberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Lissberg.jpg/1920px-Burg_Lissberg.jpg---
 
 ## Overview
 

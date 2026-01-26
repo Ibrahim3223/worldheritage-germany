@@ -4,13 +4,13 @@ site_name: "Nordjura museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Weismain"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weismain"
+  - "Bavaria"
 wikidata_id: "Q22693312"
 latitude: 50.0854001
 longitude: 11.23953988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/400px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/800px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/1200px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/1920px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/1920px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fürstliche Bibliothek Corvey"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Höxter"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Höxter"
+  - "Lower Saxony"
 wikidata_id: "Q1483619"
 latitude: 51.7791
 longitude: 9.40981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/400px-Fürstliche_Bibliothek_Corvey.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/800px-Fürstliche_Bibliothek_Corvey.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1200px-Fürstliche_Bibliothek_Corvey.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1920px-Fürstliche_Bibliothek_Corvey.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1920px-Fürstliche_Bibliothek_Corvey.JPG---
 
 ## Overview
 

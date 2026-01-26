@@ -4,13 +4,13 @@ site_name: "Am Kirchteich"
 date: 2026-01-26
 draft: false
 description: "church building, cemetery, retaining wall with gatehouse, war memorials and sepulchral monuments in Obercunnersdorf"
-region: "Kottmar"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Kottmar"
+  - "Saxony"
 wikidata_id: "Q49436762"
 latitude: 51.036011
 longitude: 14.6695
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kirche_Obercunnersdorf_Januar_2018_(3).jpg/400px-Kirche_Obercunnersdorf_Januar_2018_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kirche_Obercunnersdorf_Januar_2018_(3).jpg/800px-Kirche_Obercunnersdorf_Januar_2018_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kirche_Obercunnersdorf_Januar_2018_(3).jpg/1200px-Kirche_Obercunnersdorf_Januar_2018_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kirche_Obercunnersdorf_Januar_2018_(3).jpg/1920px-Kirche_Obercunnersdorf_Januar_2018_(3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kirche_Obercunnersdorf_Januar_2018_(3).jpg/1920px-Kirche_Obercunnersdorf_Januar_2018_(3).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Pius"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q2322916"
 latitude: 49.971
 longitude: 9.16459
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/400px-St_Pius_Aschaffenburg_Turm-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/800px-St_Pius_Aschaffenburg_Turm-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/1200px-St_Pius_Aschaffenburg_Turm-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/1920px-St_Pius_Aschaffenburg_Turm-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/1920px-St_Pius_Aschaffenburg_Turm-2.jpg---
 
 ## Overview
 

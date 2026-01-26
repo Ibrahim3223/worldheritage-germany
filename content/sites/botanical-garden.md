@@ -4,19 +4,18 @@ site_name: "Botanical Garden"
 date: 2026-01-26
 draft: false
 description: "former botanical garden in Bremen, Germany"
-region: "Horn-Lehe"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Horn-Lehe"
+  - "Bremen"
 wikidata_id: "Q894633"
 latitude: 53.0663
 longitude: 8.85228
 images:
-  []
----
+  []---
 
 ## Overview
 

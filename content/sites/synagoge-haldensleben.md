@@ -4,13 +4,13 @@ site_name: "Synagoge Haldensleben"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Haldensleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Haldensleben"
+  - "Brandenburg"
 wikidata_id: "Q1304202"
 latitude: 52.2924
 longitude: 11.411
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/400px-Synagoge_Haldensleben.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/800px-Synagoge_Haldensleben.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/1200px-Synagoge_Haldensleben.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/1920px-Synagoge_Haldensleben.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/1920px-Synagoge_Haldensleben.JPG---
 
 ## Overview
 

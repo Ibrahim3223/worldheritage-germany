@@ -4,19 +4,18 @@ site_name: "Schlepper- und Geräte-Museum Altenberge"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altenberge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altenberge"
+  - "Lower Saxony"
 wikidata_id: "Q2239098"
 latitude: 52.0172
 longitude: 7.44333
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gruson-Gewächshäuser"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q875233"
 latitude: 52.1138
 longitude: 11.6316
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/400px-Gruson-Gewächshäuser_Außen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/800px-Gruson-Gewächshäuser_Außen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1200px-Gruson-Gewächshäuser_Außen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1920px-Gruson-Gewächshäuser_Außen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1920px-Gruson-Gewächshäuser_Außen.JPG---
 
 ## Overview
 

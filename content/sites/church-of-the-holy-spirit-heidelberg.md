@@ -4,13 +4,13 @@ site_name: "Church of the Holy Spirit, Heidelberg"
 date: 2026-01-26
 draft: false
 description: "church in Heidelberg"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q574702"
 latitude: 49.412083333
 longitude: 8.70975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/400px-Heidelberg_20060420_021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/800px-Heidelberg_20060420_021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/1200px-Heidelberg_20060420_021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/1920px-Heidelberg_20060420_021.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/1920px-Heidelberg_20060420_021.jpg---
 
 ## Overview
 

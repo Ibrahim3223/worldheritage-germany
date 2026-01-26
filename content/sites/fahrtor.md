@@ -4,13 +4,13 @@ site_name: "Fahrtor"
 date: 2026-01-26
 draft: false
 description: "Stadttor von Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1392709"
 latitude: 50.1094
 longitude: 8.68214
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frankfurt_Fahrtor_vor_1840.jpg/400px-Frankfurt_Fahrtor_vor_1840.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frankfurt_Fahrtor_vor_1840.jpg/800px-Frankfurt_Fahrtor_vor_1840.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frankfurt_Fahrtor_vor_1840.jpg/1200px-Frankfurt_Fahrtor_vor_1840.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frankfurt_Fahrtor_vor_1840.jpg/1920px-Frankfurt_Fahrtor_vor_1840.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frankfurt_Fahrtor_vor_1840.jpg/1920px-Frankfurt_Fahrtor_vor_1840.jpg---
 
 ## Overview
 

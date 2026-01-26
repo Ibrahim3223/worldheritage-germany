@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8127-0021 in Kronburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Bad Grönenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bad Grönenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q98291185"
 latitude: 47.871783491
 longitude: 10.181495372
 images:
-  []
----
+  []---
 
 ## Overview
 

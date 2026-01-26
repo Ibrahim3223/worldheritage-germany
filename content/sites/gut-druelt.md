@@ -4,13 +4,13 @@ site_name: "Gut Drült"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Stoltebüll"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Stoltebüll"
+  - "Schleswig-Holstein"
 wikidata_id: "Q12309020"
 latitude: 54.6859
 longitude: 9.8619
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/400px-Gut_Druelt_Herrenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/800px-Gut_Druelt_Herrenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/1200px-Gut_Druelt_Herrenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/1920px-Gut_Druelt_Herrenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/1920px-Gut_Druelt_Herrenhaus.jpg---
 
 ## Overview
 

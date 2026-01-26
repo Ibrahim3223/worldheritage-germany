@@ -4,13 +4,13 @@ site_name: "Hirzbacher Kapelle"
 date: 2026-01-26
 draft: false
 description: "archäologische Stätte in Deutschland"
-region: "Hammersbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Hammersbach"
+  - "Bavaria"
 wikidata_id: "Q1232648"
 latitude: 50.218836266
 longitude: 8.963281184
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/400px-Hirzbacher_Kapelle02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/800px-Hirzbacher_Kapelle02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/1200px-Hirzbacher_Kapelle02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/1920px-Hirzbacher_Kapelle02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/1920px-Hirzbacher_Kapelle02.jpg---
 
 ## Overview
 

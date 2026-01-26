@@ -4,19 +4,18 @@ site_name: "Elwedritsche Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Speyer, Rhineland-Palatinate, Germany"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q25698364"
 latitude: 49.31693
 longitude: 8.43326
 images:
-  []
----
+  []---
 
 ## Overview
 

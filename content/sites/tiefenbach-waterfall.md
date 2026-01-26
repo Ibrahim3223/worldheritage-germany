@@ -4,13 +4,13 @@ site_name: "Tiefenbach Waterfall"
 date: 2026-01-26
 draft: false
 description: "Waterfall in Germany"
-region: "Altenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Altenberg"
+  - "Saxony"
 wikidata_id: "Q1421578"
 latitude: 50.760203
 longitude: 13.776825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiefenbachfall,_3.jpg/400px-Tiefenbachfall,_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiefenbachfall,_3.jpg/800px-Tiefenbachfall,_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiefenbachfall,_3.jpg/1200px-Tiefenbachfall,_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiefenbachfall,_3.jpg/1920px-Tiefenbachfall,_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiefenbachfall,_3.jpg/1920px-Tiefenbachfall,_3.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Frickenhöhle"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Farchant"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Farchant"
+  - "Bavaria"
 wikidata_id: "Q1394223"
 latitude: 47.5299
 longitude: 11.1412
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/400px-Frickenhöhle_See_Siphon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/800px-Frickenhöhle_See_Siphon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/1200px-Frickenhöhle_See_Siphon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/1920px-Frickenhöhle_See_Siphon.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/1920px-Frickenhöhle_See_Siphon.jpg---
 
 ## Overview
 

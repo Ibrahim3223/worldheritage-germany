@@ -4,13 +4,13 @@ site_name: "Ehrenmal Buer"
 date: 2026-01-26
 draft: false
 description: "monument in Gelsenkirchen, Germany"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q1300189"
 latitude: 51.5683
 longitude: 7.05917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/400px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/800px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/1200px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/1920px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/1920px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG---
 
 ## Overview
 

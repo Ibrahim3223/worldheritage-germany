@@ -4,13 +4,13 @@ site_name: "Aschener Moor"
 date: 2026-01-26
 draft: false
 description: "former nature reserve in Lower Saxony, Germany"
-region: "Diepholz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Diepholz"
+  - "Lower Saxony"
 wikidata_id: "Q722413"
 latitude: 52.6621
 longitude: 8.31502
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/400px-Aschener_Moor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/800px-Aschener_Moor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/1200px-Aschener_Moor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/1920px-Aschener_Moor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/1920px-Aschener_Moor.JPG---
 
 ## Overview
 

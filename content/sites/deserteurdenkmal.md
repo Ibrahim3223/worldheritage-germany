@@ -4,13 +4,13 @@ site_name: "Deserteurdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1200605"
 latitude: 53.5587407
 longitude: 9.98918259
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/400px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/800px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/1200px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/1920px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/1920px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg---
 
 ## Overview
 

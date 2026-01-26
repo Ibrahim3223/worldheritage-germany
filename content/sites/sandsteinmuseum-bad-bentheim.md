@@ -4,13 +4,13 @@ site_name: "Sandsteinmuseum Bad Bentheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Bentheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Bentheim"
+  - "Lower Saxony"
 wikidata_id: "Q2221305"
 latitude: 52.30317
 longitude: 7.15499
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/400px-Kuhlkerl_Bad_Bentheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/800px-Kuhlkerl_Bad_Bentheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/1200px-Kuhlkerl_Bad_Bentheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/1920px-Kuhlkerl_Bad_Bentheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/1920px-Kuhlkerl_Bad_Bentheim.jpg---
 
 ## Overview
 

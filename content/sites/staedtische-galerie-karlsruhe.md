@@ -4,13 +4,13 @@ site_name: "Städtische Galerie Karlsruhe"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q831411"
 latitude: 49.0002
 longitude: 8.3837
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Staedtische_Galerie_Karlsruhe.JPG/400px-Staedtische_Galerie_Karlsruhe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Staedtische_Galerie_Karlsruhe.JPG/800px-Staedtische_Galerie_Karlsruhe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Staedtische_Galerie_Karlsruhe.JPG/1200px-Staedtische_Galerie_Karlsruhe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Staedtische_Galerie_Karlsruhe.JPG/1920px-Staedtische_Galerie_Karlsruhe.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Staedtische_Galerie_Karlsruhe.JPG/1920px-Staedtische_Galerie_Karlsruhe.JPG---
 
 ## Overview
 

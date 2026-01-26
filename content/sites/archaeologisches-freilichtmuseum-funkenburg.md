@@ -4,13 +4,13 @@ site_name: "Archäologisches Freilichtmuseum Funkenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Westgreußen"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Westgreußen"
+  - "Saxony-Anhalt"
 wikidata_id: "Q636821"
 latitude: 51.2389
 longitude: 10.9181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/400px-Funkenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/800px-Funkenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1200px-Funkenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1920px-Funkenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1920px-Funkenburg.jpg---
 
 ## Overview
 

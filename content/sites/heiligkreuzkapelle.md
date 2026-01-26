@@ -4,13 +4,13 @@ site_name: "Heiligkreuzkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1351326"
 latitude: 50.1131
 longitude: 9.26476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/400px-Heiligkreuzkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/800px-Heiligkreuzkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/1200px-Heiligkreuzkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/1920px-Heiligkreuzkapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/1920px-Heiligkreuzkapelle.JPG---
 
 ## Overview
 

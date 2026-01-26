@@ -4,13 +4,13 @@ site_name: "BMW Park"
 date: 2026-01-26
 draft: false
 description: "indoor arena located in Sendling-Westpark in Munich, Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q328464"
 latitude: 48.12605
 longitude: 11.52535
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/400px-Rudi-Sedlmayer-Halle_0499.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/800px-Rudi-Sedlmayer-Halle_0499.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/1200px-Rudi-Sedlmayer-Halle_0499.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/1920px-Rudi-Sedlmayer-Halle_0499.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/1920px-Rudi-Sedlmayer-Halle_0499.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kirche Liepe"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Rankwitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rankwitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742607"
 latitude: 53.9651
 longitude: 13.9372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/400px-Kirche_Liepe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/800px-Kirche_Liepe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/1200px-Kirche_Liepe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/1920px-Kirche_Liepe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/1920px-Kirche_Liepe.jpg---
 
 ## Overview
 

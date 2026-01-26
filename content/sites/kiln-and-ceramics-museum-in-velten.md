@@ -4,13 +4,13 @@ site_name: "Kiln and Ceramics Museum in Velten"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Velten"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Velten"
+  - "Berlin"
 wikidata_id: "Q1473476"
 latitude: 52.6893
 longitude: 13.1715
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/400px-Ofen-_und_Keramikmuseum_Velten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/800px-Ofen-_und_Keramikmuseum_Velten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/1200px-Ofen-_und_Keramikmuseum_Velten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/1920px-Ofen-_und_Keramikmuseum_Velten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/1920px-Ofen-_und_Keramikmuseum_Velten.JPG---
 
 ## Overview
 

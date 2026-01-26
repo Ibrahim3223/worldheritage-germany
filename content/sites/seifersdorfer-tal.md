@@ -4,13 +4,13 @@ site_name: "Seifersdorfer Tal"
 date: 2026-01-26
 draft: false
 description: "Landscape garden in Saxony"
-region: "Wachau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Wachau"
+  - "Saxony"
 wikidata_id: "Q1432416"
 latitude: 51.1514
 longitude: 13.8803
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/400px-Seifersdorfer_Tal_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/800px-Seifersdorfer_Tal_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/1200px-Seifersdorfer_Tal_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/1920px-Seifersdorfer_Tal_30.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/1920px-Seifersdorfer_Tal_30.jpg---
 
 ## Overview
 

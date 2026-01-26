@@ -4,13 +4,13 @@ site_name: "Burg Alerheim"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Alerheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Alerheim"
+  - "Bavaria"
 wikidata_id: "Q1015232"
 latitude: 48.835588278
 longitude: 10.613233159
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/400px-Schloss_Allerheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/800px-Schloss_Allerheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/1200px-Schloss_Allerheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/1920px-Schloss_Allerheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/1920px-Schloss_Allerheim.JPG---
 
 ## Overview
 

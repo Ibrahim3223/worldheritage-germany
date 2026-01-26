@@ -4,13 +4,13 @@ site_name: "Messeturm Köln"
 date: 2026-01-26
 draft: false
 description: "building in Cologne, Germany"
-region: "Deutz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Deutz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q881186"
 latitude: 50.9444
 longitude: 6.96972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/400px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/800px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/1200px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/1920px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/1920px-Messeturm_Köln_-_Hermes_(0299-0301).jpg---
 
 ## Overview
 

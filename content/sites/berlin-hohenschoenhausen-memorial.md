@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/400px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/800px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/1200px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/1920px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/1920px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gymnasium Bayreuther Straße"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1312791"
 latitude: 51.2617
 longitude: 7.12939
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/400px-Wuppertal_Bayreuther_Str_0016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/800px-Wuppertal_Bayreuther_Str_0016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/1200px-Wuppertal_Bayreuther_Str_0016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/1920px-Wuppertal_Bayreuther_Str_0016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/1920px-Wuppertal_Bayreuther_Str_0016.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Halstenbeck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q1012178"
 latitude: 52.0196
 longitude: 7.80779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Halstenbeck.jpg/400px-Burg_Halstenbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Halstenbeck.jpg/800px-Burg_Halstenbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Halstenbeck.jpg/1200px-Burg_Halstenbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Halstenbeck.jpg/1920px-Burg_Halstenbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Halstenbeck.jpg/1920px-Burg_Halstenbeck.jpg---
 
 ## Overview
 

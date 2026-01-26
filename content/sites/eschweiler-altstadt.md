@@ -4,19 +4,18 @@ site_name: "Eschweiler Altstadt"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1367180"
 latitude: 50.8194
 longitude: 6.26944
 images:
-  []
----
+  []---
 
 ## Overview
 

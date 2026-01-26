@@ -4,13 +4,13 @@ site_name: "Mineralogisches Museum Münster"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1569855"
 latitude: 51.9617
 longitude: 7.61389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/400px-MuensterMineralogischesMuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/800px-MuensterMineralogischesMuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/1200px-MuensterMineralogischesMuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/1920px-MuensterMineralogischesMuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/1920px-MuensterMineralogischesMuseum.jpg---
 
 ## Overview
 

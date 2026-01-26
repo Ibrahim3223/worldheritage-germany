@@ -4,13 +4,13 @@ site_name: "Boekzeteler Meer"
 date: 2026-01-26
 draft: false
 description: "former nature reserve in Lower Saxony, Germany"
-region: "Großefehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Großefehn"
+  - "Lower Saxony"
 wikidata_id: "Q890242"
 latitude: 53.3525
 longitude: 7.51222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/400px-BoekzetelerUndTimmelerMeer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/800px-BoekzetelerUndTimmelerMeer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/1200px-BoekzetelerUndTimmelerMeer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/1920px-BoekzetelerUndTimmelerMeer.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/1920px-BoekzetelerUndTimmelerMeer.JPG---
 
 ## Overview
 

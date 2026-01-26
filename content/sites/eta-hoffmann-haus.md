@@ -4,13 +4,13 @@ site_name: "E.T.A. Hoffmann-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Bamberg, Germany"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q28541304"
 latitude: 49.889911
 longitude: 10.890881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/400px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/800px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/1200px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/1920px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/1920px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg---
 
 ## Overview
 

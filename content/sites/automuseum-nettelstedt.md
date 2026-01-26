@@ -4,13 +4,13 @@ site_name: "Automuseum Nettelstedt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q38015832"
 latitude: 52.30298
 longitude: 8.70039
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/400px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/800px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/1200px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/1920px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/1920px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg---
 
 ## Overview
 

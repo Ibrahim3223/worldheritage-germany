@@ -4,13 +4,13 @@ site_name: "Bust of Dr. Bircher-Benner Bad Homburg"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Bad Homburg vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Homburg vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q860924"
 latitude: 50.2297
 longitude: 8.6225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kurpark-hg-bircher-benner-denkmal-001.jpg/400px-Kurpark-hg-bircher-benner-denkmal-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kurpark-hg-bircher-benner-denkmal-001.jpg/800px-Kurpark-hg-bircher-benner-denkmal-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kurpark-hg-bircher-benner-denkmal-001.jpg/1200px-Kurpark-hg-bircher-benner-denkmal-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kurpark-hg-bircher-benner-denkmal-001.jpg/1920px-Kurpark-hg-bircher-benner-denkmal-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kurpark-hg-bircher-benner-denkmal-001.jpg/1920px-Kurpark-hg-bircher-benner-denkmal-001.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Abri IX"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Gleichen, Germany"
-region: "Gleichen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Gleichen"
+  - "Hesse"
 wikidata_id: "Q331387"
 latitude: 51.4653
 longitude: 10.0106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/AbriIX(Total).jpg/400px-AbriIX(Total).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/AbriIX(Total).jpg/800px-AbriIX(Total).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/AbriIX(Total).jpg/1200px-AbriIX(Total).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/AbriIX(Total).jpg/1920px-AbriIX(Total).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/AbriIX(Total).jpg/1920px-AbriIX(Total).jpg---
 
 ## Overview
 

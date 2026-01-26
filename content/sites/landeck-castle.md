@@ -4,13 +4,13 @@ site_name: "Landeck Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Klingenmünster"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Klingenmünster"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012820"
 latitude: 49.1411
 longitude: 8.0063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/400px-BurgLandeck2.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/800px-BurgLandeck2.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/1200px-BurgLandeck2.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/1920px-BurgLandeck2.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/1920px-BurgLandeck2.png---
 
 ## Overview
 

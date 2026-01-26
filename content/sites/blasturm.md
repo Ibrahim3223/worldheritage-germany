@@ -4,13 +4,13 @@ site_name: "Blasturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Gunzenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Gunzenhausen"
+  - "Bavaria"
 wikidata_id: "Q882073"
 latitude: 49.1153
 longitude: 10.7552
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gunzenhausen-Blasturm.jpg/400px-Gunzenhausen-Blasturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gunzenhausen-Blasturm.jpg/800px-Gunzenhausen-Blasturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gunzenhausen-Blasturm.jpg/1200px-Gunzenhausen-Blasturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gunzenhausen-Blasturm.jpg/1920px-Gunzenhausen-Blasturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gunzenhausen-Blasturm.jpg/1920px-Gunzenhausen-Blasturm.jpg---
 
 ## Overview
 

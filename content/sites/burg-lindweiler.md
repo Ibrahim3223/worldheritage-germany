@@ -4,13 +4,13 @@ site_name: "Burg Lindweiler"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Blankenheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Blankenheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012986"
 latitude: 50.4584
 longitude: 6.75037
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg/400px-Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg/800px-Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg/1200px-Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg/1920px-Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg/1920px-Ehemaliger_Gutshof,_Lindweiler_(Blankenburg).jpg---
 
 ## Overview
 

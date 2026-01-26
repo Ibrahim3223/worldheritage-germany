@@ -4,13 +4,13 @@ site_name: "Ehrenhof"
 date: 2026-01-26
 draft: false
 description: "building and garden ensemble in Düsseldorf"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1300150"
 latitude: 51.2344
 longitude: 6.77258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/400px-Pempelfort_Ehrenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/800px-Pempelfort_Ehrenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/1200px-Pempelfort_Ehrenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/1920px-Pempelfort_Ehrenhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/1920px-Pempelfort_Ehrenhof.jpg---
 
 ## Overview
 

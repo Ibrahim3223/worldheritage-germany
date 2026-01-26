@@ -4,13 +4,13 @@ site_name: "Löcknitz Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Löcknitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Löcknitz"
+  - "Brandenburg"
 wikidata_id: "Q1013041"
 latitude: 53.4532
 longitude: 14.2044
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/400px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/800px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/1200px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/1920px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/1920px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg---
 
 ## Overview
 

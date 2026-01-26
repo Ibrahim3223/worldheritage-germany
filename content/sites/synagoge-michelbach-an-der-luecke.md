@@ -4,13 +4,13 @@ site_name: "Synagoge (Michelbach an der Lücke)"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Wallhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Wallhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1400520"
 latitude: 49.2351
 longitude: 10.1187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg/400px-Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg/800px-Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg/1200px-Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg/1920px-Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg/1920px-Synagoge_(Michelbach_an_der_Lücke)_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1207.jpg---
 
 ## Overview
 

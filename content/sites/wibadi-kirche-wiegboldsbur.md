@@ -4,13 +4,13 @@ site_name: "Wibadi-Kirche (Wiegboldsbur)"
 date: 2026-01-26
 draft: false
 description: "church building in Südbrookmerland, Germany"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q2567322"
 latitude: 53.4493
 longitude: 7.33595
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/400px-ChurchWiegboldsbur.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/800px-ChurchWiegboldsbur.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/1200px-ChurchWiegboldsbur.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/1920px-ChurchWiegboldsbur.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/1920px-ChurchWiegboldsbur.JPG---
 
 ## Overview
 

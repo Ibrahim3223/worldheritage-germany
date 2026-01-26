@@ -4,19 +4,18 @@ site_name: "Burg Loßburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Loßburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Loßburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013022"
 latitude: 48.4112
 longitude: 8.4527
 images:
-  []
----
+  []---
 
 ## Overview
 

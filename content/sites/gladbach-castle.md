@@ -4,13 +4,13 @@ site_name: "Gladbach Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Vettweiß, Germany"
-region: "Vettweiß"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Vettweiß"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011962"
 latitude: 50.765
 longitude: 6.63944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/400px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/800px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/1200px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/1920px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/1920px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7530-0073 in Gablingen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gablingen, Augsburg, Swabia, Bavaria, Germany"
-region: "Gablingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Gablingen"
+  - "Bavaria"
 wikidata_id: "Q98288456"
 latitude: 48.445691475
 longitude: 10.833276967
 images:
-  []
----
+  []---
 
 ## Overview
 

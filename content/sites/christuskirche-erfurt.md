@@ -4,13 +4,13 @@ site_name: "Christuskirche (Erfurt)"
 date: 2026-01-26
 draft: false
 description: "church building in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1087302"
 latitude: 50.9689
 longitude: 11.0133
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/400px-Erfurt_-_Christuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/800px-Erfurt_-_Christuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1200px-Erfurt_-_Christuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1920px-Erfurt_-_Christuskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1920px-Erfurt_-_Christuskirche.jpg---
 
 ## Overview
 

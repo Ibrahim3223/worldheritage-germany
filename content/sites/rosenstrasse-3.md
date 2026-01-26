@@ -4,13 +4,13 @@ site_name: "Rosenstraße 3"
 date: 2026-01-26
 draft: false
 description: "house in Hirschfelde"
-region: "Zittau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Zittau"
+  - "Saxony"
 wikidata_id: "Q49364099"
 latitude: 50.944278
 longitude: 14.888169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hirschfelde_Rosenstraße_3.jpg/400px-Hirschfelde_Rosenstraße_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hirschfelde_Rosenstraße_3.jpg/800px-Hirschfelde_Rosenstraße_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hirschfelde_Rosenstraße_3.jpg/1200px-Hirschfelde_Rosenstraße_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hirschfelde_Rosenstraße_3.jpg/1920px-Hirschfelde_Rosenstraße_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hirschfelde_Rosenstraße_3.jpg/1920px-Hirschfelde_Rosenstraße_3.jpg---
 
 ## Overview
 

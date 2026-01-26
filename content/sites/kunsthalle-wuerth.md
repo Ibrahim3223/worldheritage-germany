@@ -4,13 +4,13 @@ site_name: "Kunsthalle Würth"
 date: 2026-01-26
 draft: false
 description: "art museum in Schwäbisch Hall, Germany"
-region: "Schwäbisch Hall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Schwäbisch Hall"
+  - "Baden-Württemberg"
 wikidata_id: "Q1792424"
 latitude: 49.1107
 longitude: 9.73243
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/400px-Schwaebisch_Hall_Museum_Wuerth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/800px-Schwaebisch_Hall_Museum_Wuerth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/1200px-Schwaebisch_Hall_Museum_Wuerth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/1920px-Schwaebisch_Hall_Museum_Wuerth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/1920px-Schwaebisch_Hall_Museum_Wuerth.jpg---
 
 ## Overview
 

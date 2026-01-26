@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Madeleine-Ruoff-Straße 2 in Herrsching am Ammersee"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-88-124-37 (1) in Herrsching am Ammersee, Bavaria"
-region: "Herrsching am Ammersee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Herrsching am Ammersee"
+  - "Bavaria"
 wikidata_id: "Q98750079"
 latitude: 47.997754005
 longitude: 11.169878647
 images:
-  []
----
+  []---
 
 ## Overview
 

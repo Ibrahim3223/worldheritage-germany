@@ -4,13 +4,13 @@ site_name: "Burgstall Siebnach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ettringen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ettringen"
+  - "Bavaria"
 wikidata_id: "Q1015924"
 latitude: 48.1344
 longitude: 10.6541
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burgstall_Siebnach_Hauptwall.jpg/400px-Burgstall_Siebnach_Hauptwall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burgstall_Siebnach_Hauptwall.jpg/800px-Burgstall_Siebnach_Hauptwall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burgstall_Siebnach_Hauptwall.jpg/1200px-Burgstall_Siebnach_Hauptwall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burgstall_Siebnach_Hauptwall.jpg/1920px-Burgstall_Siebnach_Hauptwall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burgstall_Siebnach_Hauptwall.jpg/1920px-Burgstall_Siebnach_Hauptwall.jpg---
 
 ## Overview
 

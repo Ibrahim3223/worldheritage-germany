@@ -4,13 +4,13 @@ site_name: "Burg Grüneck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schliengen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schliengen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012105"
 latitude: 47.770457
 longitude: 7.6717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/400px-Grüneck_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/800px-Grüneck_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1200px-Grüneck_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1920px-Grüneck_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1920px-Grüneck_4.jpg---
 
 ## Overview
 

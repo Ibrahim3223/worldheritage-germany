@@ -4,13 +4,13 @@ site_name: "Marthahaus"
 date: 2026-01-26
 draft: false
 description: "hotel and retirement home in Halle (Saale)"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q42298133"
 latitude: 51.487682
 longitude: 11.972584
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg/400px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße%22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_%22Marthastraße".jpg/800px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg/1200px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße%22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_%22Marthastraße".jpg/1920px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_%22Marthastraße".jpg/1920px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg---
 
 ## Overview
 

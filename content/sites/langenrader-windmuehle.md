@@ -4,13 +4,13 @@ site_name: "Langenrader Windmühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in der Gemeinde Ascheberg im Kreis Plön in Schleswig-Holstein"
-region: "Ascheberg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Ascheberg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1492992"
 latitude: 54.1645
 longitude: 10.3343
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/400px-Sventana.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/800px-Sventana.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/1200px-Sventana.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/1920px-Sventana.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/1920px-Sventana.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Pfarrkirche St. Martin (Kirchberg an der Iller)"
 date: 2026-01-26
 draft: false
 description: "church building in Kirchberg an der Iller, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Kirchberg an der Iller"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kirchberg an der Iller"
+  - "Baden-Württemberg"
 wikidata_id: "Q2321147"
 latitude: 48.1344
 longitude: 10.0789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/400px-St._Martin_(Kirchberg_an_der_Iller).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/800px-St._Martin_(Kirchberg_an_der_Iller).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1200px-St._Martin_(Kirchberg_an_der_Iller).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1920px-St._Martin_(Kirchberg_an_der_Iller).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1920px-St._Martin_(Kirchberg_an_der_Iller).JPG---
 
 ## Overview
 

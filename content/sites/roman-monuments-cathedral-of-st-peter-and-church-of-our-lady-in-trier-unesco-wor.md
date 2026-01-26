@@ -4,13 +4,13 @@ site_name: "Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Tr
 date: 2026-01-26
 draft: false
 description: "example of a large Roman capital after the division of the empire"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q279968"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trier_BW_2013-04-14_15-59-54.JPG/400px-Trier_BW_2013-04-14_15-59-54.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trier_BW_2013-04-14_15-59-54.JPG/800px-Trier_BW_2013-04-14_15-59-54.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trier_BW_2013-04-14_15-59-54.JPG/1200px-Trier_BW_2013-04-14_15-59-54.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trier_BW_2013-04-14_15-59-54.JPG/1920px-Trier_BW_2013-04-14_15-59-54.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trier_BW_2013-04-14_15-59-54.JPG/1920px-Trier_BW_2013-04-14_15-59-54.JPG---
 
 ## Overview
 

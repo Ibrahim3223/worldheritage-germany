@@ -4,13 +4,13 @@ site_name: "Leibgrenadierdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Karlsruhe, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1813664"
 latitude: 49.0099
 longitude: 8.39361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/400px-Karlsruhe_Leibgrenadierdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/800px-Karlsruhe_Leibgrenadierdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/1200px-Karlsruhe_Leibgrenadierdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/1920px-Karlsruhe_Leibgrenadierdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/1920px-Karlsruhe_Leibgrenadierdenkmal.jpg---
 
 ## Overview
 

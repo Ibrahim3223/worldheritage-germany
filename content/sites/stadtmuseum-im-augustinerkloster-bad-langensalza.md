@@ -4,13 +4,13 @@ site_name: "Stadtmuseum im Augustinerkloster Bad Langensalza"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Bad Langensalza"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Langensalza"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20480902"
 latitude: 51.109171443
 longitude: 10.643231009
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Stadtmuseum_Bad_Langensalza.JPG/400px-Stadtmuseum_Bad_Langensalza.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Stadtmuseum_Bad_Langensalza.JPG/800px-Stadtmuseum_Bad_Langensalza.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Stadtmuseum_Bad_Langensalza.JPG/1200px-Stadtmuseum_Bad_Langensalza.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Stadtmuseum_Bad_Langensalza.JPG/1920px-Stadtmuseum_Bad_Langensalza.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Stadtmuseum_Bad_Langensalza.JPG/1920px-Stadtmuseum_Bad_Langensalza.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Luther's church"
 date: 2026-01-26
 draft: false
 description: "church building in Leer, Germany"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q1650089"
 latitude: 53.2273
 longitude: 7.44738
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leer_Lutherkirche2.JPG/400px-Leer_Lutherkirche2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leer_Lutherkirche2.JPG/800px-Leer_Lutherkirche2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leer_Lutherkirche2.JPG/1200px-Leer_Lutherkirche2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leer_Lutherkirche2.JPG/1920px-Leer_Lutherkirche2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leer_Lutherkirche2.JPG/1920px-Leer_Lutherkirche2.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kapelle Kuntzow"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Bandelin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bandelin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1728398"
 latitude: 53.9608
 longitude: 13.3414
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/400px-Kapelle_Kuntzow_West.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/800px-Kapelle_Kuntzow_West.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/1200px-Kapelle_Kuntzow_West.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/1920px-Kapelle_Kuntzow_West.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/1920px-Kapelle_Kuntzow_West.jpg---
 
 ## Overview
 

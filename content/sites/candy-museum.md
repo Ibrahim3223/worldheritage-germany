@@ -4,19 +4,18 @@ site_name: "Candy Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Vaihingen an der Enz"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Vaihingen an der Enz"
+  - "Baden-Württemberg"
 wikidata_id: "Q892157"
 latitude: 48.955
 longitude: 8.98733
 images:
-  []
----
+  []---
 
 ## Overview
 

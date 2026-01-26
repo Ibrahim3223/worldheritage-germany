@@ -4,19 +4,18 @@ site_name: "Rudolf-August Oetker-Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "North Rhine-Westphalia"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "North Rhine-Westphalia"
+  - "Lower Saxony"
 wikidata_id: "Q1472304"
 latitude: 52.0108
 longitude: 8.96144
 images:
-  []
----
+  []---
 
 ## Overview
 

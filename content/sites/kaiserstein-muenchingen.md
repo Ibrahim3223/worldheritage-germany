@@ -4,13 +4,13 @@ site_name: "Kaiserstein (Münchingen)"
 date: 2026-01-26
 draft: false
 description: "monument in Korntal-Münchingen, Germany"
-region: "Korntal-Münchingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Korntal-Münchingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1721747"
 latitude: 48.8603
 longitude: 9.11017
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/400px-Kaiserstein_Münchingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/800px-Kaiserstein_Münchingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/1200px-Kaiserstein_Münchingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/1920px-Kaiserstein_Münchingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/1920px-Kaiserstein_Münchingen.jpg---
 
 ## Overview
 

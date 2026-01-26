@@ -4,13 +4,13 @@ site_name: "Pewsum Church"
 date: 2026-01-26
 draft: false
 description: "church building in Krummhörn, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1751235"
 latitude: 53.4354
 longitude: 7.096
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ChurchPewsum.jpg/400px-ChurchPewsum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ChurchPewsum.jpg/800px-ChurchPewsum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ChurchPewsum.jpg/1200px-ChurchPewsum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ChurchPewsum.jpg/1920px-ChurchPewsum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ChurchPewsum.jpg/1920px-ChurchPewsum.jpg---
 
 ## Overview
 

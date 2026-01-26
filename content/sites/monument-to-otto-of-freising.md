@@ -4,13 +4,13 @@ site_name: "Monument to Otto of Freising"
 date: 2026-01-26
 draft: false
 description: "statue in the cathedral courtyard in Freising (Upper Bavaria). Life-size full sculpture on Romanesque pedestal, by Caspar von Zumbusch, 1858"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q1188008"
 latitude: 48.39865
 longitude: 11.74576
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Otto_of_freising_statue.jpg/400px-Otto_of_freising_statue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Otto_of_freising_statue.jpg/800px-Otto_of_freising_statue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Otto_of_freising_statue.jpg/1200px-Otto_of_freising_statue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Otto_of_freising_statue.jpg/1920px-Otto_of_freising_statue.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Otto_of_freising_statue.jpg/1920px-Otto_of_freising_statue.jpg---
 
 ## Overview
 

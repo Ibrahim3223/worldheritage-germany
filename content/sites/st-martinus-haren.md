@@ -4,13 +4,13 @@ site_name: "St. Martinus (Haren)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Haren"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Haren"
+  - "Lower Saxony"
 wikidata_id: "Q1339726"
 latitude: 52.7906
 longitude: 7.24241
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/400px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/800px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/1200px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/1920px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/1920px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg---
 
 ## Overview
 

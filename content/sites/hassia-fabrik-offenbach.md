@@ -4,19 +4,18 @@ site_name: "Hassia Fabrik Offenbach"
 date: 2026-01-26
 draft: false
 description: "forme shoe factory in Offenbach am Main, Germany, building is national heritage site"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q1298387"
 latitude: 50.097805555
 longitude: 8.764611111
 images:
-  []
----
+  []---
 
 ## Overview
 

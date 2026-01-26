@@ -4,13 +4,13 @@ site_name: "Museumsbau K20"
 date: 2026-01-26
 draft: false
 description: "museum building in Düsseldorf, Germany"
-region: "District 1"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "District 1"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q122442009"
 latitude: 51.2284
 longitude: 6.7761
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/400px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/800px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/1200px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/1920px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/1920px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg---
 
 ## Overview
 

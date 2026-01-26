@@ -4,13 +4,13 @@ site_name: "Wilhelma"
 date: 2026-01-26
 draft: false
 description: "zoological-botanical garden in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q679067"
 latitude: 48.805
 longitude: 9.205
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg/400px-Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg/800px-Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg/1200px-Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg/1920px-Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg/1920px-Zanth,_Karl_Ludwig_von,_Ansicht_der_Wilhelma_von_1855.jpg---
 
 ## Overview
 

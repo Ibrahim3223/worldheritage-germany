@@ -4,19 +4,18 @@ site_name: "Torhaus Schenkenau 1 in Itzgrund"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-73-138-52 (2) in Itzgrund, Bavaria"
-region: "Itzgrund"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Itzgrund"
+  - "Bavaria"
 wikidata_id: "Q98587115"
 latitude: 50.130963705
 longitude: 10.871019821
 images:
-  []
----
+  []---
 
 ## Overview
 

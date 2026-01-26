@@ -4,13 +4,13 @@ site_name: "Berlin-Marzahn concentration camp"
 date: 2026-01-26
 draft: false
 description: "Nazi forced labor camp for Romani and Sinti"
-region: "Marzahn-Hellersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Marzahn-Hellersdorf"
+  - "Berlin"
 wikidata_id: "Q204423"
 latitude: 52.5510779
 longitude: 13.5470238
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/400px-Sintistein_parkfriedhof_marzahn_2003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/800px-Sintistein_parkfriedhof_marzahn_2003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/1200px-Sintistein_parkfriedhof_marzahn_2003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/1920px-Sintistein_parkfriedhof_marzahn_2003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/1920px-Sintistein_parkfriedhof_marzahn_2003.jpg---
 
 ## Overview
 

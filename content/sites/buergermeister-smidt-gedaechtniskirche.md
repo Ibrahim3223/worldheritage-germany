@@ -4,13 +4,13 @@ site_name: "Bürgermeister-Smidt-Gedächtniskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bremerhaven, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1021217"
 latitude: 53.5443
 longitude: 8.57904
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/400px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/800px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1200px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1920px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1920px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg---
 
 ## Overview
 

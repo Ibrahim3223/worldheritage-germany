@@ -4,13 +4,13 @@ site_name: "Palais Vitzthum-Rutowski"
 date: 2026-01-26
 draft: false
 description: "Palais in der Kreuzgasse in Dresden (1719-1786)"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q125592035"
 latitude: 51.048982
 longitude: 13.740098
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/400px-Gurlitt_Dresden_TecZ_1903_111a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/800px-Gurlitt_Dresden_TecZ_1903_111a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/1200px-Gurlitt_Dresden_TecZ_1903_111a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/1920px-Gurlitt_Dresden_TecZ_1903_111a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/1920px-Gurlitt_Dresden_TecZ_1903_111a.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Amtsgarten"
 date: 2026-01-26
 draft: false
 description: "park in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q480467"
 latitude: 51.5031
 longitude: 11.9558
 images:
-  []
----
+  []---
 
 ## Overview
 

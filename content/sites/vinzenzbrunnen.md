@@ -4,13 +4,13 @@ site_name: "Vinzenzbrunnen"
 date: 2026-01-26
 draft: false
 description: "historic fountain complex in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2527346"
 latitude: 50.7744
 longitude: 6.08439
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg/400px-Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg/800px-Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg/1200px-Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg/1920px-Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg/1920px-Aachen,_Vinzenzbrunnen,_2011-07_CN-01.jpg---
 
 ## Overview
 

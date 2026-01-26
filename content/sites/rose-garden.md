@@ -4,13 +4,13 @@ site_name: "Rose Garden"
 date: 2026-01-26
 draft: false
 description: "park in Coburg, Bavaria, Germany"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q324008"
 latitude: 50.2528
 longitude: 10.9656
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/400px-Coburgjuni08_175.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/800px-Coburgjuni08_175.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/1200px-Coburgjuni08_175.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/1920px-Coburgjuni08_175.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/1920px-Coburgjuni08_175.jpg---
 
 ## Overview
 

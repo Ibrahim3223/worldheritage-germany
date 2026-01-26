@@ -4,13 +4,13 @@ site_name: "Berlin Zoological Garden"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q154828"
 latitude: 52.508333333
 longitude: 13.3375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/400px-Giraffe-berlin-zoo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/800px-Giraffe-berlin-zoo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1200px-Giraffe-berlin-zoo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1920px-Giraffe-berlin-zoo.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1920px-Giraffe-berlin-zoo.jpg---
 
 ## Overview
 

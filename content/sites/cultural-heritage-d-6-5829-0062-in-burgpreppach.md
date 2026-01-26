@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5829-0062 in Burgpreppach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Burgpreppach, Haßberge, Lower Franconia, Bavaria, Germany"
-region: "Burgpreppach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Burgpreppach"
+  - "Bavaria"
 wikidata_id: "Q98167633"
 latitude: 50.15205024
 longitude: 10.659761176
 images:
-  []
----
+  []---
 
 ## Overview
 

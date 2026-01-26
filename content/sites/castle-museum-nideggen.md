@@ -4,13 +4,13 @@ site_name: "Castle Museum, Nideggen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Nideggen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nideggen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1014871"
 latitude: 50.6889
 longitude: 6.47725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/400px-BurgNideggen_Wohnturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/800px-BurgNideggen_Wohnturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/1200px-BurgNideggen_Wohnturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/1920px-BurgNideggen_Wohnturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/1920px-BurgNideggen_Wohnturm.jpg---
 
 ## Overview
 

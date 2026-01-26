@@ -4,13 +4,13 @@ site_name: "Spitalkirche"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q2311291"
 latitude: 49.945107337
 longitude: 11.572069239
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bayreuth_Spitalkirche_2019.jpg/400px-Bayreuth_Spitalkirche_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bayreuth_Spitalkirche_2019.jpg/800px-Bayreuth_Spitalkirche_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bayreuth_Spitalkirche_2019.jpg/1200px-Bayreuth_Spitalkirche_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bayreuth_Spitalkirche_2019.jpg/1920px-Bayreuth_Spitalkirche_2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bayreuth_Spitalkirche_2019.jpg/1920px-Bayreuth_Spitalkirche_2019.jpg---
 
 ## Overview
 

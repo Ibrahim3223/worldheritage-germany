@@ -4,19 +4,18 @@ site_name: "Benkhöfer Bruch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Hüllhorst, North Rhine-Westphalia, Germany"
-region: "Hüllhorst"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hüllhorst"
+  - "Lower Saxony"
 wikidata_id: "Q817791"
 latitude: 52.2513
 longitude: 8.67449
 images:
-  []
----
+  []---
 
 ## Overview
 

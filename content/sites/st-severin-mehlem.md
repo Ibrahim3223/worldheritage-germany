@@ -4,13 +4,13 @@ site_name: "St. Severin (Mehlem)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bad Godesberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Godesberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1245581"
 latitude: 50.6611
 longitude: 7.19168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonn-Mehlem_StSeverin_asv2024-04.jpg/400px-Bonn-Mehlem_StSeverin_asv2024-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonn-Mehlem_StSeverin_asv2024-04.jpg/800px-Bonn-Mehlem_StSeverin_asv2024-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonn-Mehlem_StSeverin_asv2024-04.jpg/1200px-Bonn-Mehlem_StSeverin_asv2024-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonn-Mehlem_StSeverin_asv2024-04.jpg/1920px-Bonn-Mehlem_StSeverin_asv2024-04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bonn-Mehlem_StSeverin_asv2024-04.jpg/1920px-Bonn-Mehlem_StSeverin_asv2024-04.jpg---
 
 ## Overview
 

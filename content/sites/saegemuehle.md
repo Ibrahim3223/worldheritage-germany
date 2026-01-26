@@ -4,13 +4,13 @@ site_name: "Sägemühle"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-76-177-56 (0) in Steinwiesen, Bavaria"
-region: "Steinwiesen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steinwiesen"
+  - "Bavaria"
 wikidata_id: "Q16735786"
 latitude: 50.30284
 longitude: 11.46393
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/400px-Steinwiesen-Teichmuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/800px-Steinwiesen-Teichmuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/1200px-Steinwiesen-Teichmuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/1920px-Steinwiesen-Teichmuehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/1920px-Steinwiesen-Teichmuehle.jpg---
 
 ## Overview
 

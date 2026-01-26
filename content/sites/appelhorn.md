@@ -4,13 +4,13 @@ site_name: "Appelhorn"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Langelsheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Langelsheim"
+  - "Lower Saxony"
 wikidata_id: "Q620754"
 latitude: 51.9647
 longitude: 10.3164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg/400px-Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg/800px-Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg/1200px-Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg/1920px-Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg/1920px-Naturschutzgebiet_Appelhorn_bei_Bredelem,_Weißer_Weg_1,_NSG_BR_141.jpg---
 
 ## Overview
 

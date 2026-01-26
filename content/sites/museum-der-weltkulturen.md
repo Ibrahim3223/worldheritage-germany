@@ -4,13 +4,13 @@ site_name: "Museum der Weltkulturen"
 date: 2026-01-26
 draft: false
 description: "ethnological museum in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1954571"
 latitude: 50.1056
 longitude: 8.67889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg/400px-Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg/800px-Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg/1200px-Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg/1920px-Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg/1920px-Museum-der-Weltkulturen-Frankfurt-2013-Ffm-711.jpg---
 
 ## Overview
 

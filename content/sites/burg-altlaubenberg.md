@@ -4,13 +4,13 @@ site_name: "Burg Altlaubenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grünenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Grünenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1010713"
 latitude: 47.622421242
 longitude: 10.011752362
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/400px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/800px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/1200px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/1920px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/1920px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG---
 
 ## Overview
 

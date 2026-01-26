@@ -4,13 +4,13 @@ site_name: "Der Hafenarbeiter"
 date: 2026-01-26
 draft: false
 description: "public sculpture by Constantin Meunier in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1194089"
 latitude: 50.1002479
 longitude: 8.6679463
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/400px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/800px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1200px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1920px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1920px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg---
 
 ## Overview
 

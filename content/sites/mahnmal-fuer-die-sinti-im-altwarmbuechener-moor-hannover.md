@@ -4,13 +4,13 @@ site_name: "Mahnmal für die Sinti im Altwarmbüchener Moor (Hannover)"
 date: 2026-01-26
 draft: false
 description: "Mahnmal in Hannover"
-region: "Bothfeld-Vahrenheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bothfeld-Vahrenheide"
+  - "Lower Saxony"
 wikidata_id: "Q1885033"
 latitude: 52.4189
 longitude: 9.83981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg/400px-Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg/800px-Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg/1200px-Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg/1920px-Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg/1920px-Mahnmal_für_die_Sinti_im_Altwarmbüchener_Moor_Blick_ins_Moor.jpg---
 
 ## Overview
 

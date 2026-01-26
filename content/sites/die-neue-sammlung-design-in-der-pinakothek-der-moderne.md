@@ -4,19 +4,18 @@ site_name: "Die Neue Sammlung. Design in der Pinakothek der Moderne"
 date: 2026-01-26
 draft: false
 description: "exhibition at the Pinakothek der Moderne, Munich, Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q55256973"
 latitude: 48.146944
 longitude: 11.572222
 images:
-  []
----
+  []---
 
 ## Overview
 

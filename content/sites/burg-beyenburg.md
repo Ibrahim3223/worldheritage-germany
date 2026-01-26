@@ -4,13 +4,13 @@ site_name: "Burg Beyenburg"
 date: 2026-01-26
 draft: false
 description: "ehemalige Burganlage an der Wupper"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1010992"
 latitude: 51.2494
 longitude: 7.29806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/400px-Ennepetal_Schemmstr_0009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/800px-Ennepetal_Schemmstr_0009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1200px-Ennepetal_Schemmstr_0009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1920px-Ennepetal_Schemmstr_0009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1920px-Ennepetal_Schemmstr_0009.jpg---
 
 ## Overview
 

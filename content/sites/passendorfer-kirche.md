@@ -4,13 +4,13 @@ site_name: "Passendorfer Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2055957"
 latitude: 51.4722
 longitude: 11.9296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/400px-Neustadt_web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/800px-Neustadt_web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/1200px-Neustadt_web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/1920px-Neustadt_web.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/1920px-Neustadt_web.jpg---
 
 ## Overview
 

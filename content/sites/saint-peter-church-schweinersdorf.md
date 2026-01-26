@@ -4,13 +4,13 @@ site_name: "Saint Peter Church (Schweinersdorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Upper Bavaria, Germany"
-region: "Wang"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wang"
+  - "Bavaria"
 wikidata_id: "Q2322856"
 latitude: 48.5084
 longitude: 11.868
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/400px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/800px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/1200px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/1920px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/1920px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG---
 
 ## Overview
 

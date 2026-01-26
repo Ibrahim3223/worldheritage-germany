@@ -4,13 +4,13 @@ site_name: "Römermuseum in der Schule Rißtissen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ehingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ehingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2179619"
 latitude: 48.269
 longitude: 9.8333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/400px-Rißtissen_Schule_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/800px-Rißtissen_Schule_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/1200px-Rißtissen_Schule_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/1920px-Rißtissen_Schule_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/1920px-Rißtissen_Schule_02.jpg---
 
 ## Overview
 

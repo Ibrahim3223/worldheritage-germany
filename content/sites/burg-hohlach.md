@@ -4,13 +4,13 @@ site_name: "Burg Hohlach"
 date: 2026-01-26
 draft: false
 description: "castle in Hohlach (Simmersdorf), Middle Franconia, Germany"
-region: "Simmershofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Simmershofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012454"
 latitude: 49.510574464
 longitude: 10.147732216
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/400px-Hohlach_55_Simmershofen_20210327_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/800px-Hohlach_55_Simmershofen_20210327_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/1200px-Hohlach_55_Simmershofen_20210327_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/1920px-Hohlach_55_Simmershofen_20210327_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/1920px-Hohlach_55_Simmershofen_20210327_001.jpg---
 
 ## Overview
 

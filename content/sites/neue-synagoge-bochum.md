@@ -4,13 +4,13 @@ site_name: "Neue Synagoge Bochum"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1335094"
 latitude: 51.4854
 longitude: 7.22671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/400px-Bochumer_Synagoge,_Juni_2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/800px-Bochumer_Synagoge,_Juni_2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/1200px-Bochumer_Synagoge,_Juni_2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/1920px-Bochumer_Synagoge,_Juni_2008.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/1920px-Bochumer_Synagoge,_Juni_2008.JPG---
 
 ## Overview
 

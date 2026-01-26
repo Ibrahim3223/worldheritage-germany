@@ -4,13 +4,13 @@ site_name: "Landesdenkmal"
 date: 2026-01-26
 draft: false
 description: "memorial in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q1410951"
 latitude: 50.0544
 longitude: 8.24294
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/400px-LandesdenkmalWI.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/800px-LandesdenkmalWI.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/1200px-LandesdenkmalWI.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/1920px-LandesdenkmalWI.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/1920px-LandesdenkmalWI.JPG---
 
 ## Overview
 

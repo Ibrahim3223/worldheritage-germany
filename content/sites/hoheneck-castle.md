@@ -4,13 +4,13 @@ site_name: "Hoheneck Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ipsheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ipsheim"
+  - "Bavaria"
 wikidata_id: "Q1012398"
 latitude: 49.5212747
 longitude: 10.5062507
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/400px-Burg_Hoheneck_Aerial_view.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/800px-Burg_Hoheneck_Aerial_view.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1200px-Burg_Hoheneck_Aerial_view.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1920px-Burg_Hoheneck_Aerial_view.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1920px-Burg_Hoheneck_Aerial_view.jpg---
 
 ## Overview
 

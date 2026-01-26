@@ -4,13 +4,13 @@ site_name: "German Museum of Culinary Arts and Dining Culture"
 date: 2026-01-26
 draft: false
 description: "museum in [[:en:Frankfurt|Frankfurt]], Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q26791742"
 latitude: 50.1141417
 longitude: 8.68301
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg/400px-Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg/800px-Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg/1200px-Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg/1920px-Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg/1920px-Frankfurt_am_Main,_Deutsches_Museum_für_Kochkunst_und_Tafelkultur_3.jpg---
 
 ## Overview
 

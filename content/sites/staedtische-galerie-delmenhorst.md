@@ -4,19 +4,18 @@ site_name: "Städtische Galerie Delmenhorst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Delmenhorst"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Delmenhorst"
+  - "Bremen"
 wikidata_id: "Q2359931"
 latitude: 53.0522
 longitude: 8.63389
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Augustinerinnenkloster Memmingen"
 date: 2026-01-26
 draft: false
 description: "building in Memmingen, Swabia, Germany"
-region: "Memmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Memmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q768442"
 latitude: 47.983624441
 longitude: 10.182590303
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Saint Martin Church"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q11722073"
 latitude: 52.5972
 longitude: 13.3527
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg/400px-St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg/800px-St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg/1200px-St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg/1920px-St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg/1920px-St-Martin-Kirche-Maerkisches-Viertel-Berlin-Reinickendorf-07-2017.jpg---
 
 ## Overview
 

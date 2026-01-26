@@ -4,13 +4,13 @@ site_name: "Abschnittsbefestigung in Simmelsdorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.629572/E11.336643"
-region: "Simmelsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Simmelsdorf"
+  - "Bavaria"
 wikidata_id: "Q58340047"
 latitude: 49.629572
 longitude: 11.336643
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abschnittsbefestigung_Winterstein01.jpg/400px-Abschnittsbefestigung_Winterstein01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abschnittsbefestigung_Winterstein01.jpg/800px-Abschnittsbefestigung_Winterstein01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abschnittsbefestigung_Winterstein01.jpg/1200px-Abschnittsbefestigung_Winterstein01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abschnittsbefestigung_Winterstein01.jpg/1920px-Abschnittsbefestigung_Winterstein01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abschnittsbefestigung_Winterstein01.jpg/1920px-Abschnittsbefestigung_Winterstein01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "church Behrenhoff"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Behrenhoff"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Behrenhoff"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1541752"
 latitude: 54.005
 longitude: 13.3893
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/400px-Behrenhoff-Kirche-SW-160316-076.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/800px-Behrenhoff-Kirche-SW-160316-076.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1200px-Behrenhoff-Kirche-SW-160316-076.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1920px-Behrenhoff-Kirche-SW-160316-076.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1920px-Behrenhoff-Kirche-SW-160316-076.jpg---
 
 ## Overview
 

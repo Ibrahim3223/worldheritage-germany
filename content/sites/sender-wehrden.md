@@ -4,19 +4,18 @@ site_name: "Sender Wehrden"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Völklingen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Völklingen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1392738"
 latitude: 49.24
 longitude: 6.84756
 images:
-  []
----
+  []---
 
 ## Overview
 

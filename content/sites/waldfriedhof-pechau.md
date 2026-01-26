@@ -4,19 +4,18 @@ site_name: "Waldfriedhof Pechau"
 date: 2026-01-26
 draft: false
 description: "cemetery in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1232361"
 latitude: 52.0841
 longitude: 11.7076
 images:
-  []
----
+  []---
 
 ## Overview
 

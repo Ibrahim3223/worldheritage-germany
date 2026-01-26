@@ -4,13 +4,13 @@ site_name: "Osnabrück  Botanical Garden"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q296170"
 latitude: 52.2814
 longitude: 8.02793
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Os_botanischer_garten_02.jpg/400px-Os_botanischer_garten_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Os_botanischer_garten_02.jpg/800px-Os_botanischer_garten_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Os_botanischer_garten_02.jpg/1200px-Os_botanischer_garten_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Os_botanischer_garten_02.jpg/1920px-Os_botanischer_garten_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Os_botanischer_garten_02.jpg/1920px-Os_botanischer_garten_02.jpg---
 
 ## Overview
 

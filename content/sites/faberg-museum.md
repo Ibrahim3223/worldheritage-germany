@@ -4,13 +4,13 @@ site_name: "Fabergé Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Baden-Baden"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q561944"
 latitude: 48.7621
 longitude: 8.2434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/400px-Fabergé_Museum_Baden-Baden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/800px-Fabergé_Museum_Baden-Baden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1200px-Fabergé_Museum_Baden-Baden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1920px-Fabergé_Museum_Baden-Baden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1920px-Fabergé_Museum_Baden-Baden.JPG---
 
 ## Overview
 

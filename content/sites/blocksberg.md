@@ -4,13 +4,13 @@ site_name: "Blocksberg"
 date: 2026-01-26
 draft: false
 description: "castle in Pansdorf"
-region: "Ratekau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ratekau"
+  - "Lower Saxony"
 wikidata_id: "Q884779"
 latitude: 53.9867
 longitude: 10.69
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/400px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/800px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/1200px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/1920px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/1920px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Stedten"
 date: 2026-01-26
 draft: false
 description: "building in Erfurt (Germany)"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q18334130"
 latitude: 50.92738342
 longitude: 10.98424721
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/400px-Schloss_Stedten_vor_Abriss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/800px-Schloss_Stedten_vor_Abriss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/1200px-Schloss_Stedten_vor_Abriss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/1920px-Schloss_Stedten_vor_Abriss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/1920px-Schloss_Stedten_vor_Abriss.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Uniseum"
 date: 2026-01-26
 draft: false
 description: "museum at the Albert-Ludwigs-University in Freiburg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q598975"
 latitude: 47.995345
 longitude: 7.84863
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/400px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/800px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/1200px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/1920px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/1920px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg---
 
 ## Overview
 

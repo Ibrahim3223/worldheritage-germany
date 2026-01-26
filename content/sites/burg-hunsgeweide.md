@@ -4,19 +4,18 @@ site_name: "Burg Hunsgeweide"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Amöneburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Amöneburg"
+  - "Hesse"
 wikidata_id: "Q1012517"
 latitude: 50.7824
 longitude: 8.97211
 images:
-  []
----
+  []---
 
 ## Overview
 

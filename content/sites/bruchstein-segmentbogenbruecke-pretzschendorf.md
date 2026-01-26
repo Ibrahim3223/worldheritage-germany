@@ -4,19 +4,18 @@ site_name: "Bruchstein-Segmentbogenbrücke Pretzschendorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Klingenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Klingenberg"
+  - "Saxony"
 wikidata_id: "Q49442760"
 latitude: 50.86743
 longitude: 13.53404
 images:
-  []
----
+  []---
 
 ## Overview
 

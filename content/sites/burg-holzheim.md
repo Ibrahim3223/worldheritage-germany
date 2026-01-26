@@ -4,13 +4,13 @@ site_name: "Burg Holzheim"
 date: 2026-01-26
 draft: false
 description: "castle in Haunetal"
-region: "Holzheim (Haunetal)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Holzheim (Haunetal)"
+  - "Hesse"
 wikidata_id: "Q1012475"
 latitude: 50.7817
 longitude: 9.67123
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Holzheim_(02).jpg/400px-Burg_Holzheim_(02).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Holzheim_(02).jpg/800px-Burg_Holzheim_(02).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Holzheim_(02).jpg/1200px-Burg_Holzheim_(02).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Holzheim_(02).jpg/1920px-Burg_Holzheim_(02).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Holzheim_(02).jpg/1920px-Burg_Holzheim_(02).jpg---
 
 ## Overview
 

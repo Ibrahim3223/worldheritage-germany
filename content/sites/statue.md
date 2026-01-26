@@ -4,13 +4,13 @@ site_name: "Statue"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-76-145-60 (0) in Kronach, Bavaria"
-region: "Kronach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Kronach"
+  - "Bavaria"
 wikidata_id: "Q15115742"
 latitude: 50.240266
 longitude: 11.329549
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/400px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/800px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/1200px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/1920px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/1920px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg---
 
 ## Overview
 

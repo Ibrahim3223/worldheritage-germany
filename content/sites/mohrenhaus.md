@@ -4,13 +4,13 @@ site_name: "Mohrenhaus"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Radebeul"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1942923"
 latitude: 51.1172
 longitude: 13.6297
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radebeul_Mohrenhaus_(5).jpg/400px-Radebeul_Mohrenhaus_(5).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radebeul_Mohrenhaus_(5).jpg/800px-Radebeul_Mohrenhaus_(5).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radebeul_Mohrenhaus_(5).jpg/1200px-Radebeul_Mohrenhaus_(5).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radebeul_Mohrenhaus_(5).jpg/1920px-Radebeul_Mohrenhaus_(5).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radebeul_Mohrenhaus_(5).jpg/1920px-Radebeul_Mohrenhaus_(5).jpg---
 
 ## Overview
 

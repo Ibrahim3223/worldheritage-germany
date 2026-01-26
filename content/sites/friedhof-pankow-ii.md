@@ -4,13 +4,13 @@ site_name: "Friedhof Pankow II"
 date: 2026-01-26
 draft: false
 description: "cemetery in Pankow, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1254379"
 latitude: 52.563333333
 longitude: 13.3975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/400px-Pankow_Gaillardstr_Friedhofskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/800px-Pankow_Gaillardstr_Friedhofskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/1200px-Pankow_Gaillardstr_Friedhofskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/1920px-Pankow_Gaillardstr_Friedhofskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/1920px-Pankow_Gaillardstr_Friedhofskapelle.jpg---
 
 ## Overview
 

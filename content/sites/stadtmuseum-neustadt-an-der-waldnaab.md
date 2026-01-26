@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Neustadt an der Waldnaab"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neustadt an der Waldnaab"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neustadt an der Waldnaab"
+  - "Bavaria"
 wikidata_id: "Q1229993"
 latitude: 49.7307
 longitude: 12.1709
 images:
-  []
----
+  []---
 
 ## Overview
 

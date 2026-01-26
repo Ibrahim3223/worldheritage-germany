@@ -4,13 +4,13 @@ site_name: "Ardorf Protestant Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wittmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wittmund"
+  - "Lower Saxony"
 wikidata_id: "Q140223"
 latitude: 53.5356
 longitude: 7.6895
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/400px-Wittmund,_Ardorf,_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/800px-Wittmund,_Ardorf,_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1200px-Wittmund,_Ardorf,_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1920px-Wittmund,_Ardorf,_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1920px-Wittmund,_Ardorf,_Kirche.jpg---
 
 ## Overview
 

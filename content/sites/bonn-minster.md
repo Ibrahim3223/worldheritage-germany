@@ -4,13 +4,13 @@ site_name: "Bonn Minster"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q686664"
 latitude: 50.733408
 longitude: 7.099789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/400px-Bonner_Münster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/800px-Bonner_Münster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/1200px-Bonner_Münster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/1920px-Bonner_Münster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/1920px-Bonner_Münster.jpg---
 
 ## Overview
 

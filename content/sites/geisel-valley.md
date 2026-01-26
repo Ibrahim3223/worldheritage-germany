@@ -4,19 +4,18 @@ site_name: "Geisel Valley"
 date: 2026-01-26
 draft: false
 description: "valley in Saxony-Anhalt, Germany"
-region: "Saalekreis"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Saalekreis"
+  - "Saxony-Anhalt"
 wikidata_id: "Q882608"
 latitude: 51.307777777
 longitude: 11.869166666
 images:
-  []
----
+  []---
 
 ## Overview 
 

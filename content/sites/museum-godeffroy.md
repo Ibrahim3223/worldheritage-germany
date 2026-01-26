@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Der_alte_Wandrahm_1883.jpg/400px-Der_alte_Wandrahm_1883.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Der_alte_Wandrahm_1883.jpg/800px-Der_alte_Wandrahm_1883.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Der_alte_Wandrahm_1883.jpg/1200px-Der_alte_Wandrahm_1883.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Der_alte_Wandrahm_1883.jpg/1920px-Der_alte_Wandrahm_1883.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Der_alte_Wandrahm_1883.jpg/1920px-Der_alte_Wandrahm_1883.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Hohenburg"
 date: 2026-01-26
 draft: false
 description: "castle in Thalheim"
-region: "Bissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bissingen"
+  - "Bavaria"
 wikidata_id: "Q1012394"
 latitude: 48.731538281
 longitude: 10.557063866
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/400px-Burg_Hohenburg_Thalheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/800px-Burg_Hohenburg_Thalheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/1200px-Burg_Hohenburg_Thalheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/1920px-Burg_Hohenburg_Thalheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/1920px-Burg_Hohenburg_Thalheim.jpg---
 
 ## Overview
 

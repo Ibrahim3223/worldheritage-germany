@@ -4,13 +4,13 @@ site_name: "Museum of motorcycles und Technology Großschönau"
 date: 2026-01-26
 draft: false
 description: "museum in Großschönau"
-region: "Großschönau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großschönau"
+  - "Saxony"
 wikidata_id: "Q13862576"
 latitude: 50.894891944
 longitude: 14.672028055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/400px-Hartmanundrichter.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/800px-Hartmanundrichter.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/1200px-Hartmanundrichter.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/1920px-Hartmanundrichter.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/1920px-Hartmanundrichter.JPG---
 
 ## Overview
 

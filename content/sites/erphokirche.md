@@ -4,13 +4,13 @@ site_name: "Erphokirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Münster-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1361448"
 latitude: 51.9677
 longitude: 7.64806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/400px-Münster_Erphokirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/800px-Münster_Erphokirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1200px-Münster_Erphokirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1920px-Münster_Erphokirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1920px-Münster_Erphokirche_1.jpg---
 
 ## Overview
 

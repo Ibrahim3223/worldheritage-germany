@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Haltern"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Haltern am See"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Haltern am See"
+  - "Lower Saxony"
 wikidata_id: "Q1407056"
 latitude: 51.7657
 longitude: 7.11736
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/400px-Fernmeldeturm_Hohe_Mark_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/800px-Fernmeldeturm_Hohe_Mark_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/1200px-Fernmeldeturm_Hohe_Mark_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/1920px-Fernmeldeturm_Hohe_Mark_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/1920px-Fernmeldeturm_Hohe_Mark_01.JPG---
 
 ## Overview
 

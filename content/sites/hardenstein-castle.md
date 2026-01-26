@@ -4,13 +4,13 @@ site_name: "Hardenstein Castle"
 date: 2026-01-26
 draft: false
 description: "ruined castle in North Rhine-Westphalia, Germany"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q1012201"
 latitude: 51.421
 longitude: 7.301
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/400px-RuineHardenstein5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/800px-RuineHardenstein5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/1200px-RuineHardenstein5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/1920px-RuineHardenstein5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/1920px-RuineHardenstein5.jpg---
 
 ## Overview
 

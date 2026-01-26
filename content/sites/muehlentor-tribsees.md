@@ -4,13 +4,13 @@ site_name: "Mühlentor (Tribsees)"
 date: 2026-01-26
 draft: false
 description: "city gate in Landkreis Vorpommern-Rügen, Mecklenburg-Vorpommern, Germany"
-region: "Tribsees"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Tribsees"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1958543"
 latitude: 54.0954
 longitude: 12.7542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/400px-Tribsees_Muehlentor_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/800px-Tribsees_Muehlentor_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/1200px-Tribsees_Muehlentor_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/1920px-Tribsees_Muehlentor_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/1920px-Tribsees_Muehlentor_1.jpg---
 
 ## Overview
 

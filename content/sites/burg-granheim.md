@@ -4,13 +4,13 @@ site_name: "Burg Granheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ehingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ehingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012016"
 latitude: 48.312955555
 longitude: 9.572525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/400px-Burgrest_Granheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/800px-Burgrest_Granheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/1200px-Burgrest_Granheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/1920px-Burgrest_Granheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/1920px-Burgrest_Granheim.jpg---
 
 ## Overview
 

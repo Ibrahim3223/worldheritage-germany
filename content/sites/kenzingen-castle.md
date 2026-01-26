@@ -4,13 +4,13 @@ site_name: "Kenzingen Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kenzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kenzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012640"
 latitude: 48.1817
 longitude: 7.77155
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/08_Kenzingen_Castle.JPG/400px-08_Kenzingen_Castle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/08_Kenzingen_Castle.JPG/800px-08_Kenzingen_Castle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/08_Kenzingen_Castle.JPG/1200px-08_Kenzingen_Castle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/08_Kenzingen_Castle.JPG/1920px-08_Kenzingen_Castle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/08_Kenzingen_Castle.JPG/1920px-08_Kenzingen_Castle.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Waldenburger Straße 33, Schönberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Saxony, house in Tettau, Schönberg municipality, Saxony, Germany"
-region: "Schönberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Schönberg"
+  - "Saxony"
 wikidata_id: "Q49601003"
 latitude: 50.88683
 longitude: 12.49898
 images:
-  []
----
+  []---
 
 ## Overview
 

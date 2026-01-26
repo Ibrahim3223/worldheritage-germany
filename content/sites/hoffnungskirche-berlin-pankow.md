@@ -4,13 +4,13 @@ site_name: "Hoffnungskirche (Berlin-Pankow)"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Pankow, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q264887"
 latitude: 52.56
 longitude: 13.4189
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/400px-Berlin_Pankow_Hoffnungskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/800px-Berlin_Pankow_Hoffnungskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1200px-Berlin_Pankow_Hoffnungskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1920px-Berlin_Pankow_Hoffnungskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1920px-Berlin_Pankow_Hoffnungskirche.jpg---
 
 ## Overview
 

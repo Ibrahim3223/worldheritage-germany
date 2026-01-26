@@ -4,13 +4,13 @@ site_name: "Residential house in open development with rear extension, portal an
 date: 2026-01-26
 draft: false
 description: "house in Sebnitz, Germany"
-region: "Sebnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sebnitz"
+  - "Saxony"
 wikidata_id: "Q49537345"
 latitude: 50.970008265
 longitude: 14.271997346
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/400px-Sebnitz_Sachsen_Germany_46.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/800px-Sebnitz_Sachsen_Germany_46.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/1200px-Sebnitz_Sachsen_Germany_46.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/1920px-Sebnitz_Sachsen_Germany_46.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/1920px-Sebnitz_Sachsen_Germany_46.jpg---
 
 ## Overview
 

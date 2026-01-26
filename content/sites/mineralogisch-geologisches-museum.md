@@ -4,19 +4,18 @@ site_name: "Mineralogisch-Geologisches Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629471"
 latitude: 49.390436
 longitude: 12.133399
 images:
-  []
----
+  []---
 
 ## Overview
 

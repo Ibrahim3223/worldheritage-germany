@@ -4,13 +4,13 @@ site_name: "Parkfriedhof Marzahn"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin, Germany"
-region: "Marzahn-Hellersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Marzahn-Hellersdorf"
+  - "Berlin"
 wikidata_id: "Q1607249"
 latitude: 52.5485
 longitude: 13.5415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/400px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/800px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/1200px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/1920px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/1920px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG---
 
 ## Overview
 

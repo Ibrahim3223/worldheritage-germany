@@ -4,13 +4,13 @@ site_name: "Wied-Scala"
 date: 2026-01-26
 draft: false
 description: "cinema in Neitersen, Germany"
-region: "Neitersen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Neitersen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2568248"
 latitude: 50.668611111
 longitude: 7.583888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/400px-AA-WS-Saal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/800px-AA-WS-Saal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/1200px-AA-WS-Saal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/1920px-AA-WS-Saal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/1920px-AA-WS-Saal.jpg---
 
 ## Overview
 

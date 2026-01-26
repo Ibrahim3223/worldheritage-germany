@@ -4,19 +4,18 @@ site_name: "Fedderwarden battery"
 date: 2026-01-26
 draft: false
 description: "fortification near Fedderwardersiel, Germany"
-region: "Butjadingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Butjadingen"
+  - "Lower Saxony"
 wikidata_id: "Q66809932"
 latitude: 53.59772
 longitude: 8.357484
 images:
-  []
----
+  []---
 
 ## Overview
 

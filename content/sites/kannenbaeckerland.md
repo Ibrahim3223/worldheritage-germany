@@ -4,19 +4,18 @@ site_name: "Kannenbäckerland"
 date: 2026-01-26
 draft: false
 description: "cultural landscape in central Germany known for its pottery"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1723823"
 latitude: 50.4978
 longitude: 7.76111
 images:
-  []
----
+  []---
 
 ## Overview
 

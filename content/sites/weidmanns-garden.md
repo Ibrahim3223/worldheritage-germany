@@ -4,19 +4,18 @@ site_name: "Weidmann's garden"
 date: 2026-01-26
 draft: false
 description: "garden in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q69328360"
 latitude: 51.344565
 longitude: 12.36764
 images:
-  []
----
+  []---
 
 ## Overview
 

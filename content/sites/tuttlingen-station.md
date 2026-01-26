@@ -4,13 +4,13 @@ site_name: "Tuttlingen station"
 date: 2026-01-26
 draft: false
 description: "railway station in Tuttlingen, Germany"
-region: "Tuttlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Tuttlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q285633"
 latitude: 47.98
 longitude: 8.79833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/400px-Bahnhof_Tuttlingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/800px-Bahnhof_Tuttlingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/1200px-Bahnhof_Tuttlingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/1920px-Bahnhof_Tuttlingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/1920px-Bahnhof_Tuttlingen.jpg---
 
 ## Overview
 

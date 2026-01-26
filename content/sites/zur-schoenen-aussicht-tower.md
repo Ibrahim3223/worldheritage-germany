@@ -4,13 +4,13 @@ site_name: "Zur Schönen Aussicht tower"
 date: 2026-01-26
 draft: false
 description: "former Gyro-Tower in Heide-Park Soltau, Lower Saxony"
-region: "Soltau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Soltau"
+  - "Lower Saxony"
 wikidata_id: "Q780444"
 latitude: 53.0233
 longitude: 9.87833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/400px-Aussichtsturm_im_Heide-Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/800px-Aussichtsturm_im_Heide-Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/1200px-Aussichtsturm_im_Heide-Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/1920px-Aussichtsturm_im_Heide-Park.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/1920px-Aussichtsturm_im_Heide-Park.jpg---
 
 ## Overview
 

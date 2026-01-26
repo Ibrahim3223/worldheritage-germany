@@ -4,13 +4,13 @@ site_name: "Mausoleum Schmiedell"
 date: 2026-01-26
 draft: false
 description: "Mausoleum in Bremen-Schwachhausen"
-region: "Schwachhausen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Schwachhausen"
+  - "Bremen"
 wikidata_id: "Q45910029"
 latitude: 53.09525
 longitude: 8.8582
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/400px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/800px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/1200px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg---
 
 ## Overview
 

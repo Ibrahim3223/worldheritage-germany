@@ -4,13 +4,13 @@ site_name: "Römermuseum Osterburken"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Osterburken"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osterburken"
+  - "Baden-Württemberg"
 wikidata_id: "Q1751346"
 latitude: 49.4293
 longitude: 9.42542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/400px-200909161046MEZ_Osterburken_Römermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/800px-200909161046MEZ_Osterburken_Römermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/1200px-200909161046MEZ_Osterburken_Römermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/1920px-200909161046MEZ_Osterburken_Römermuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/1920px-200909161046MEZ_Osterburken_Römermuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Norbert (Magdeburg)"
 date: 2026-01-26
 draft: false
 description: "church building in Magdeburg, Saxony-Anhalt, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q2222057"
 latitude: 52.1066
 longitude: 11.6369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/400px-Sankt-Norbert-Kirche_Magdeburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/800px-Sankt-Norbert-Kirche_Magdeburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/1200px-Sankt-Norbert-Kirche_Magdeburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/1920px-Sankt-Norbert-Kirche_Magdeburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/1920px-Sankt-Norbert-Kirche_Magdeburg.JPG---
 
 ## Overview
 

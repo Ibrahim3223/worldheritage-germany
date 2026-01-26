@@ -4,13 +4,13 @@ site_name: "Ursulinenkloster Straubing"
 date: 2026-01-26
 draft: false
 description: "human settlement, monastery in Straubing, Bavaria"
-region: "Straubing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Straubing"
+  - "Bavaria"
 wikidata_id: "Q253106"
 latitude: 48.883888888
 longitude: 12.573611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/400px-Straubing,_Ursulinenkirche_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/800px-Straubing,_Ursulinenkirche_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/1200px-Straubing,_Ursulinenkirche_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/1920px-Straubing,_Ursulinenkirche_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/1920px-Straubing,_Ursulinenkirche_001.JPG---
 
 ## Overview
 

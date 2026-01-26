@@ -4,13 +4,13 @@ site_name: "Peter und Irene Ludwig Stiftung"
 date: 2026-01-26
 draft: false
 description: "art foundation in Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2079262"
 latitude: 50.742747067
 longitude: 6.088561024
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/400px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/800px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/1200px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/1920px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/1920px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg---
 
 ## Overview
 

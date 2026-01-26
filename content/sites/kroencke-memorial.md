@@ -4,13 +4,13 @@ site_name: "Kröncke memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Groß-Rohrheim, Germany"
-region: "Groß-Rohrheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Groß-Rohrheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1790635"
 latitude: 49.7247
 longitude: 8.48624
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kroenke_Denkmal_01.jpg/400px-Kroenke_Denkmal_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kroenke_Denkmal_01.jpg/800px-Kroenke_Denkmal_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kroenke_Denkmal_01.jpg/1200px-Kroenke_Denkmal_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kroenke_Denkmal_01.jpg/1920px-Kroenke_Denkmal_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kroenke_Denkmal_01.jpg/1920px-Kroenke_Denkmal_01.jpg---
 
 ## Overview
 

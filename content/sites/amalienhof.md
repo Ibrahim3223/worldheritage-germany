@@ -4,13 +4,13 @@ site_name: "Amalienhof"
 date: 2026-01-26
 draft: false
 description: "Schloss in Sulzfeld"
-region: "Sulzfeld"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Sulzfeld"
+  - "Baden-Württemberg"
 wikidata_id: "Q453264"
 latitude: 49.0992
 longitude: 8.85657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/400px-Sulzfeld-schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/800px-Sulzfeld-schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/1200px-Sulzfeld-schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/1920px-Sulzfeld-schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/1920px-Sulzfeld-schloss.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ohlsdorf Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Hamburg, Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q562211"
 latitude: 53.624722222
 longitude: 10.061666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hh-friedhof-ohlsdorf-verwaltung.jpg/400px-Hh-friedhof-ohlsdorf-verwaltung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hh-friedhof-ohlsdorf-verwaltung.jpg/800px-Hh-friedhof-ohlsdorf-verwaltung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hh-friedhof-ohlsdorf-verwaltung.jpg/1200px-Hh-friedhof-ohlsdorf-verwaltung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hh-friedhof-ohlsdorf-verwaltung.jpg/1920px-Hh-friedhof-ohlsdorf-verwaltung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hh-friedhof-ohlsdorf-verwaltung.jpg/1920px-Hh-friedhof-ohlsdorf-verwaltung.jpg---
 
 ## Overview
 

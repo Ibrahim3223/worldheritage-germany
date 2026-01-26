@@ -4,13 +4,13 @@ site_name: "Rathaus Jemgum"
 date: 2026-01-26
 draft: false
 description: "Sitz der Gemeideverwaltung in Jemgum im Landkreis Leer, Ostfriesland, Niedersachsen"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q128849443"
 latitude: 53.2628425
 longitude: 7.3841883
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg/400px-Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg/800px-Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg/1200px-Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg/1920px-Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg/1920px-Jemgum_-_Hofstraße_-_Rathaus_01_ies.jpg---
 
 ## Overview
 

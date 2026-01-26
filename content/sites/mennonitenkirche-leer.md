@@ -4,13 +4,13 @@ site_name: "Mennonitenkirche Leer"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q1526036"
 latitude: 53.2276
 longitude: 7.452
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/400px-Mennonitenkirche-Leer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/800px-Mennonitenkirche-Leer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1200px-Mennonitenkirche-Leer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1920px-Mennonitenkirche-Leer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1920px-Mennonitenkirche-Leer.jpg---
 
 ## Overview
 

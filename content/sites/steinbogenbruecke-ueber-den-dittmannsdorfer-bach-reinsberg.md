@@ -4,19 +4,18 @@ site_name: "Steinbogenbrücke über den Dittmannsdorfer Bach Reinsberg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Reinsberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Reinsberg"
+  - "Saxony"
 wikidata_id: "Q49449431"
 latitude: 51.007493406
 longitude: 13.371731058
 images:
-  []
----
+  []---
 
 ## Overview
 

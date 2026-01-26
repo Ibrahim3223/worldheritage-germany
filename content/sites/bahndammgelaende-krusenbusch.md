@@ -4,13 +4,13 @@ site_name: "Bahndammgelände Krusenbusch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q800337"
 latitude: 53.1058
 longitude: 8.23889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/400px-Bahndammgelände_Krusenbusch_-_07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/800px-Bahndammgelände_Krusenbusch_-_07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/1200px-Bahndammgelände_Krusenbusch_-_07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/1920px-Bahndammgelände_Krusenbusch_-_07.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/1920px-Bahndammgelände_Krusenbusch_-_07.JPG---
 
 ## Overview
 

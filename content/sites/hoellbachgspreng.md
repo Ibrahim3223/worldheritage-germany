@@ -4,13 +4,13 @@ site_name: "Höllbachgspreng"
 date: 2026-01-26
 draft: false
 description: "wooded rock massif in Bavarian Forest, Germany"
-region: "Lindberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Lindberg"
+  - "Bavaria"
 wikidata_id: "Q1643974"
 latitude: 49.0858
 longitude: 13.2967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/400px-Felswand_im_Höllbachgspreng.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/800px-Felswand_im_Höllbachgspreng.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1200px-Felswand_im_Höllbachgspreng.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1920px-Felswand_im_Höllbachgspreng.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1920px-Felswand_im_Höllbachgspreng.jpg---
 
 ## Overview
 

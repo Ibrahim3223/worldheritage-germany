@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität: Sammlung von Algenkulturen Göttingen (SA
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636082"
 latitude: 51.539334
 longitude: 9.939782
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Akademie Schloss Solitude"
 date: 2026-01-26
 draft: false
 description: "Foundation in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q413933"
 latitude: 48.7868861
 longitude: 9.0792596
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/400px-Solitude_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/800px-Solitude_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/1200px-Solitude_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/1920px-Solitude_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/1920px-Solitude_Eingang.jpg---
 
 ## Overview
 

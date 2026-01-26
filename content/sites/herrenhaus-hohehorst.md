@@ -4,13 +4,13 @@ site_name: "Herrenhaus Hohehorst"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Schwanewede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Schwanewede"
+  - "Bremen"
 wikidata_id: "Q1614070"
 latitude: 53.212
 longitude: 8.63627
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/400px-Herrenhaus_Hohehorst_Rückansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/800px-Herrenhaus_Hohehorst_Rückansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/1200px-Herrenhaus_Hohehorst_Rückansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/1920px-Herrenhaus_Hohehorst_Rückansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/1920px-Herrenhaus_Hohehorst_Rückansicht.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mahnmal Gerichtsgefängnis Hannover"
 date: 2026-01-26
 draft: false
 description: "memorial in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1885019"
 latitude: 52.3797
 longitude: 9.74427
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg/400px-Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg/800px-Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg/1200px-Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg/1920px-Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg/1920px-Mahnmal_Gerichtsgefängnis_Hannover_vor_dem_Pavillon_8._Mai_1989_Befreiung_vom_Nationalsozialismus_alle_Sprachen_002.jpg---
 
 ## Overview
 

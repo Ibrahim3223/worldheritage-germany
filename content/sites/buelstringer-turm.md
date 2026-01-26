@@ -4,13 +4,13 @@ site_name: "Bülstringer Turm"
 date: 2026-01-26
 draft: false
 description: "tower in Haldensleben, Germany"
-region: "Haldensleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Haldensleben"
+  - "Brandenburg"
 wikidata_id: "Q1020727"
 latitude: 52.2924
 longitude: 11.4084
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/400px-Bülstringer_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/800px-Bülstringer_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/1200px-Bülstringer_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/1920px-Bülstringer_Turm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/1920px-Bülstringer_Turm.JPG---
 
 ## Overview
 

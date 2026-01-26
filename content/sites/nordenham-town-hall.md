@@ -4,13 +4,13 @@ site_name: "Nordenham town hall"
 date: 2026-01-26
 draft: false
 description: "building in Nordenham, Germany"
-region: "Nordenham"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Nordenham"
+  - "Lower Saxony"
 wikidata_id: "Q124324611"
 latitude: 53.489522
 longitude: 8.478584
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/400px-Nordenham_Rathausturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/800px-Nordenham_Rathausturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/1200px-Nordenham_Rathausturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/1920px-Nordenham_Rathausturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/1920px-Nordenham_Rathausturm.jpg---
 
 ## Overview
 

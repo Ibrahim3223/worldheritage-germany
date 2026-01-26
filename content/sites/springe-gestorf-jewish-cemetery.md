@@ -4,13 +4,13 @@ site_name: "Springe-Gestorf Jewish Cemetery"
 date: 2026-01-26
 draft: false
 description: "Jewish cemetery in Gestorf near Springe, Germany"
-region: "Springe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Springe"
+  - "Lower Saxony"
 wikidata_id: "Q2737709"
 latitude: 52.2147
 longitude: 9.69114
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/400px-Gestorf_Juedischer_Friedhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/800px-Gestorf_Juedischer_Friedhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/1200px-Gestorf_Juedischer_Friedhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/1920px-Gestorf_Juedischer_Friedhof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/1920px-Gestorf_Juedischer_Friedhof.JPG---
 
 ## Overview
 

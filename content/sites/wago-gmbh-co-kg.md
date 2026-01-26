@@ -4,13 +4,13 @@ site_name: "WAGO GmbH & Co. KG"
 date: 2026-01-26
 draft: false
 description: "German manufacturing company"
-region: "Minden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Minden"
+  - "Lower Saxony"
 wikidata_id: "Q314448"
 latitude: 52.29908
 longitude: 8.92253
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/400px-Minden_WAGO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/800px-Minden_WAGO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/1200px-Minden_WAGO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/1920px-Minden_WAGO.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/1920px-Minden_WAGO.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Indianermuseum Derenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bretten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bretten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1661341"
 latitude: 49.0392
 longitude: 8.68655
 images:
-  []
----
+  []---
 
 ## Overview
 

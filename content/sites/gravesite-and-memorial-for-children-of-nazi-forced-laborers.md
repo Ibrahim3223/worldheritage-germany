@@ -4,13 +4,13 @@ site_name: "Gravesite and memorial for children of nazi forced laborers"
 date: 2026-01-26
 draft: false
 description: "Gravesite and memorial in Mölln, Germany"
-region: "Mölln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Mölln"
+  - "Lower Saxony"
 wikidata_id: "Q134112962"
 latitude: 53.6248567
 longitude: 10.6894071
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg/400px-Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg/800px-Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg/1200px-Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg/1920px-Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg/1920px-Alter_Friedhof_Mölln_Gedenkstätte_für_die_Kinder_von_Zwangsarbeiterinnen.jpg---
 
 ## Overview
 

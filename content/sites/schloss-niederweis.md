@@ -4,13 +4,13 @@ site_name: "Schloss Niederweis"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Niederweis"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Niederweis"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2242698"
 latitude: 49.8702
 longitude: 6.46482
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/400px-Funck77_0043.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/800px-Funck77_0043.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/1200px-Funck77_0043.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/1920px-Funck77_0043.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/1920px-Funck77_0043.JPG---
 
 ## Overview
 

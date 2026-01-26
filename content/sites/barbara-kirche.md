@@ -4,13 +4,13 @@ site_name: "Barbara-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Großefehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Großefehn"
+  - "Lower Saxony"
 wikidata_id: "Q807321"
 latitude: 53.368729166
 longitude: 7.640070277
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/400px-ChurchStrackholt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/800px-ChurchStrackholt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1200px-ChurchStrackholt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1920px-ChurchStrackholt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1920px-ChurchStrackholt.JPG---
 
 ## Overview
 

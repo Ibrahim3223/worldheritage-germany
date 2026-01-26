@@ -4,13 +4,13 @@ site_name: "Kochelsee"
 date: 2026-01-26
 draft: false
 description: "lake in Schlehdorf, Bavaria, Germany"
-region: "Schlehdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schlehdorf"
+  - "Bavaria"
 wikidata_id: "Q257264"
 latitude: 47.646111111
 longitude: 11.337222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg/400px-Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg/800px-Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Kochelsee_(view_from_the_south).jpg---
 
 ## Overview
 

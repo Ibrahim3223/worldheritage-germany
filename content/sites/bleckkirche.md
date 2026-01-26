@@ -4,13 +4,13 @@ site_name: "Bleckkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q883384"
 latitude: 51.5416
 longitude: 7.11072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/400px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/800px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1200px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1920px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1920px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg---
 
 ## Overview
 

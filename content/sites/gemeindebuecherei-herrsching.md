@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Herrsching"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Herrsching am Ammersee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Herrsching am Ammersee"
+  - "Bavaria"
 wikidata_id: "Q28729436"
 latitude: 47.99812
 longitude: 11.16966
 images:
-  []
----
+  []---
 
 ## Overview
 

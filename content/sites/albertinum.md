@@ -4,13 +4,13 @@ site_name: "Albertinum"
 date: 2026-01-26
 draft: false
 description: "art museum in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q699780"
 latitude: 51.0519
 longitude: 13.7444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/400px-Albertinum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/800px-Albertinum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1200px-Albertinum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1920px-Albertinum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1920px-Albertinum.jpg---
 
 ## Overview
 

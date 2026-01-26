@@ -4,19 +4,18 @@ site_name: "Waloseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Norden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Norden"
+  - "Lower Saxony"
 wikidata_id: "Q2265011"
 latitude: 53.6128
 longitude: 7.15944
 images:
-  []
----
+  []---
 
 ## Overview
 

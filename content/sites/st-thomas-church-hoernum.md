@@ -4,13 +4,13 @@ site_name: "St. Thomas church Hörnum"
 date: 2026-01-26
 draft: false
 description: "church building in Hörnum, Germany"
-region: "Hörnum (Sylt)"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hörnum (Sylt)"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1471420"
 latitude: 54.7589
 longitude: 8.29083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/400px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/800px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/1200px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/1920px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/1920px-St.Thomas-Kirche_Hörnum_2024_SW.jpg---
 
 ## Overview
 

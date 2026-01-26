@@ -4,19 +4,18 @@ site_name: "Kirchhof (Wissersheim)"
 date: 2026-01-26
 draft: false
 description: "monument in Nörvenich, Germany"
-region: "Nörvenich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Nörvenich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1243682"
 latitude: 50.8166
 longitude: 6.69683
 images:
-  []
----
+  []---
 
 ## Overview
 

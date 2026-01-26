@@ -4,13 +4,13 @@ site_name: "Dresden city libraries"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2359904"
 latitude: 51.0506
 longitude: 13.7388
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/400px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/800px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/1200px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/1920px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/1920px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg---
 
 ## Overview
 

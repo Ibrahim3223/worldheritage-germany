@@ -4,13 +4,13 @@ site_name: "Norderburg"
 date: 2026-01-26
 draft: false
 description: "building in Dornum (Germany)"
-region: "Dornum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Dornum"
+  - "Lower Saxony"
 wikidata_id: "Q1997902"
 latitude: 53.648888888
 longitude: 7.429722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/400px-Norderburg_in_Dornum_07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/800px-Norderburg_in_Dornum_07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/1200px-Norderburg_in_Dornum_07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/1920px-Norderburg_in_Dornum_07.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/1920px-Norderburg_in_Dornum_07.JPG---
 
 ## Overview
 

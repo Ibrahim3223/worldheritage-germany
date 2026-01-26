@@ -4,13 +4,13 @@ site_name: "Reiff-Museum Aachen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q16747657"
 latitude: 50.777269
 longitude: 6.076901
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aachen_Reiff-Museum.jpg/400px-Aachen_Reiff-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aachen_Reiff-Museum.jpg/800px-Aachen_Reiff-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aachen_Reiff-Museum.jpg/1200px-Aachen_Reiff-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aachen_Reiff-Museum.jpg/1920px-Aachen_Reiff-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aachen_Reiff-Museum.jpg/1920px-Aachen_Reiff-Museum.jpg---
 
 ## Overview
 

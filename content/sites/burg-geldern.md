@@ -4,13 +4,13 @@ site_name: "Burg Geldern"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Geldern"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Geldern"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011927"
 latitude: 51.5173
 longitude: 6.31752
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Geldern_-_Gelre_(1649).jpg/400px-Geldern_-_Gelre_(1649).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Geldern_-_Gelre_(1649).jpg/800px-Geldern_-_Gelre_(1649).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Geldern_-_Gelre_(1649).jpg/1200px-Geldern_-_Gelre_(1649).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Geldern_-_Gelre_(1649).jpg/1920px-Geldern_-_Gelre_(1649).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Geldern_-_Gelre_(1649).jpg/1920px-Geldern_-_Gelre_(1649).jpg---
 
 ## Overview
 

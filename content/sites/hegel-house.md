@@ -4,13 +4,13 @@ site_name: "Hegel House"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q321337"
 latitude: 48.7731
 longitude: 9.17694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/400px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/800px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1200px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1920px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1920px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg---
 
 ## Overview
 

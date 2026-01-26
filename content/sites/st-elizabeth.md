@@ -4,13 +4,13 @@ site_name: "St. Elizabeth"
 date: 2026-01-26
 draft: false
 description: "parish church"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q154364"
 latitude: 49.4501
 longitude: 11.0697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/400px-Nürnberg_St_Elisabeth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/800px-Nürnberg_St_Elisabeth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/1200px-Nürnberg_St_Elisabeth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/1920px-Nürnberg_St_Elisabeth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/1920px-Nürnberg_St_Elisabeth.jpg---
 
 ## Overview
 

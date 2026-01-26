@@ -4,19 +4,18 @@ site_name: "Zeche Bruchstraße"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169699"
 latitude: 51.4824
 longitude: 7.31669
 images:
-  []
----
+  []---
 
 ## Overview
 

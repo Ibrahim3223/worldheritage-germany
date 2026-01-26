@@ -4,13 +4,13 @@ site_name: "Neuer Eiserner Mann"
 date: 2026-01-26
 draft: false
 description: "sculpture in Kleve, Germany"
-region: "Kleve"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Kleve"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1313515"
 latitude: 51.7964
 longitude: 6.12444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/400px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/800px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/1200px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/1920px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/1920px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg---
 
 ## Overview
 

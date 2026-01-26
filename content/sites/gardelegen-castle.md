@@ -4,13 +4,13 @@ site_name: "Gardelegen Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gardelegen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gardelegen"
+  - "Brandenburg"
 wikidata_id: "Q1011909"
 latitude: 52.5283
 longitude: 11.3933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/400px-Burg_Gardelegen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/800px-Burg_Gardelegen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/1200px-Burg_Gardelegen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/1920px-Burg_Gardelegen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/1920px-Burg_Gardelegen.jpg---
 
 ## Overview
 

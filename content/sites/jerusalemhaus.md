@@ -4,19 +4,18 @@ site_name: "Jerusalemhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634288"
 latitude: 50.552846
 longitude: 8.50086
 images:
-  []
----
+  []---
 
 ## Overview
 

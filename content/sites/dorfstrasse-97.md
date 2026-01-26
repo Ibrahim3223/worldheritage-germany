@@ -4,13 +4,13 @@ site_name: "Dorfstraße 97"
 date: 2026-01-26
 draft: false
 description: "house in Waltersdorf"
-region: "Großschönau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Großschönau"
+  - "Saxony"
 wikidata_id: "Q108049414"
 latitude: 50.86826
 longitude: 14.64875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/400px-Waltersdorf_Dorfstraße_97.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/800px-Waltersdorf_Dorfstraße_97.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/1200px-Waltersdorf_Dorfstraße_97.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/1920px-Waltersdorf_Dorfstraße_97.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/1920px-Waltersdorf_Dorfstraße_97.jpg---
 
 ## Overview
 

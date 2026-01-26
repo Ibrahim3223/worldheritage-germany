@@ -4,13 +4,13 @@ site_name: "Lieper Bucht"
 date: 2026-01-26
 draft: false
 description: "bathing area in Berlin, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1824253"
 latitude: 52.4704
 longitude: 13.1959
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lieper_Bucht.jpg/400px-Lieper_Bucht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lieper_Bucht.jpg/800px-Lieper_Bucht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lieper_Bucht.jpg/1200px-Lieper_Bucht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lieper_Bucht.jpg/1920px-Lieper_Bucht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lieper_Bucht.jpg/1920px-Lieper_Bucht.jpg---
 
 ## Overview
 

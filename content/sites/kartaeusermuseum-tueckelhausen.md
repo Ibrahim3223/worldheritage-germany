@@ -4,19 +4,18 @@ site_name: "Kartäusermuseum Tückelhausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629009"
 latitude: 49.65291
 longitude: 10.025263
 images:
-  []
----
+  []---
 
 ## Overview
 

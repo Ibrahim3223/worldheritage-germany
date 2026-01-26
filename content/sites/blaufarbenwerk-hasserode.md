@@ -4,19 +4,18 @@ site_name: "Blaufarbenwerk Hasserode"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Werk zur Herstellung von blauer Glasfarbe im Ortsteil Hasserode von Wernigerode im Harz"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q882810"
 latitude: 51.81921944
 longitude: 10.74091111
 images:
-  []
----
+  []---
 
 ## Overview
 

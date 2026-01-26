@@ -4,13 +4,13 @@ site_name: "Mauertalsperre"
 date: 2026-01-26
 draft: false
 description: "Hochwasserrückhaltebecken im Mauertal bei Söhnstetten im Landkreis Heidenheim in Baden-Württemberg"
-region: "Steinheim am Albuch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Steinheim am Albuch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1911032"
 latitude: 48.6762
 longitude: 9.9887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mauertalsperre_Luftseite_2012.jpg/400px-Mauertalsperre_Luftseite_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mauertalsperre_Luftseite_2012.jpg/800px-Mauertalsperre_Luftseite_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mauertalsperre_Luftseite_2012.jpg/1200px-Mauertalsperre_Luftseite_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mauertalsperre_Luftseite_2012.jpg/1920px-Mauertalsperre_Luftseite_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mauertalsperre_Luftseite_2012.jpg/1920px-Mauertalsperre_Luftseite_2012.jpg---
 
 ## Overview
 

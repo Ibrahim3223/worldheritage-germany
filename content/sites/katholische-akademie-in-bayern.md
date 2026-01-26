@@ -4,13 +4,13 @@ site_name: "Katholische Akademie in Bayern"
 date: 2026-01-26
 draft: false
 description: "Katholische Akademie in München"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1736319"
 latitude: 48.16
 longitude: 11.59138889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/400px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/800px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/1200px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/1920px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/1920px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg---
 
 ## Overview
 

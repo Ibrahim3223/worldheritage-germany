@@ -4,13 +4,13 @@ site_name: "Baldern Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Germany"
-region: "Bopfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bopfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1688810"
 latitude: 48.9026
 longitude: 10.3169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schloss_Baldern_140707.jpg/400px-Schloss_Baldern_140707.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schloss_Baldern_140707.jpg/800px-Schloss_Baldern_140707.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schloss_Baldern_140707.jpg/1200px-Schloss_Baldern_140707.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schloss_Baldern_140707.jpg/1920px-Schloss_Baldern_140707.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schloss_Baldern_140707.jpg/1920px-Schloss_Baldern_140707.jpg---
 
 ## Overview
 

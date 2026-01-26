@@ -4,13 +4,13 @@ site_name: "Bergfeste Dilsberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neckargemünd"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neckargemünd"
+  - "Baden-Württemberg"
 wikidata_id: "Q176836"
 latitude: 49.398611111
 longitude: 8.836944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/400px-Burgturm_Dilsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/800px-Burgturm_Dilsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/1200px-Burgturm_Dilsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/1920px-Burgturm_Dilsberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/1920px-Burgturm_Dilsberg.jpg---
 
 ## Overview
 

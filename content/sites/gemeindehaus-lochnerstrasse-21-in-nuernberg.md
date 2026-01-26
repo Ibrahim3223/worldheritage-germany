@@ -4,13 +4,13 @@ site_name: "Gemeindehaus Lochnerstraße 21 in Nürnberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-64-000-2471 (4) in Nürnberg, Bavaria"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q98633869"
 latitude: 49.431451004
 longitude: 11.051072423
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg/400px-D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg/800px-D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg/1200px-D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg/1920px-D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg/1920px-D-5-64-000-2471_Lochnerstraße_21,_Gemeindehaus_Nürnberg_20241031_0010.jpg---
 
 ## Overview
 

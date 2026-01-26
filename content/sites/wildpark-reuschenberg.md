@@ -4,13 +4,13 @@ site_name: "Wildpark Reuschenberg"
 date: 2026-01-26
 draft: false
 description: "Tierpark im Reuschenberger Wald in Leverkusen-Küppersteg"
-region: "Leverkusen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Leverkusen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2570838"
 latitude: 51.0554
 longitude: 6.98191
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg/400px-Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg/800px-Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg/1200px-Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg/1920px-Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg/1920px-Leverkusen_Wildpark_Reuschenberg_Vogelvolieren.jpg---
 
 ## Overview
 

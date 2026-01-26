@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirche (Detmold)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1257653"
 latitude: 51.9478
 longitude: 8.87867
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/400px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/800px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/1200px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/1920px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/1920px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg---
 
 ## Overview
 

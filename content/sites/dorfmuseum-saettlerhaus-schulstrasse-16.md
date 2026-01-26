@@ -4,13 +4,13 @@ site_name: "Dorfmuseum Sättlerhaus Schulstraße 16"
 date: 2026-01-26
 draft: false
 description: "Obergeschoss zum Teil in Fachwerk, ehemaliges Handwerkerhaus (Sättler Karl-Haus), heute Dorfmuseum, ortsgeschichtlich von Bedeutung.  EG datiert, Fach"
-region: "Großolbersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großolbersdorf"
+  - "Saxony"
 wikidata_id: "Q48206262"
 latitude: 50.691592
 longitude: 13.09067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg/400px-Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg/800px-Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg/1200px-Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg/1920px-Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg/1920px-Liesel_12-09-2011_Sättlerhaus_Großolbersdorf.jpg---
 
 ## Overview
 

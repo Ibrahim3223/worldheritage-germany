@@ -4,19 +4,18 @@ site_name: "Friedhof Garmisch"
 date: 2026-01-26
 draft: false
 description: "cemetery in Garmisch-Partenkirchen, Germany"
-region: "Garmisch-Partenkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Garmisch-Partenkirchen"
+  - "Bavaria"
 wikidata_id: "Q1250860"
 latitude: 47.501683277
 longitude: 11.084356339
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Josef (Oer-Erkenschwick)"
 date: 2026-01-26
 draft: false
 description: "church building in Oer-Erkenschwick, Germany"
-region: "Oer-Erkenschwick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oer-Erkenschwick"
+  - "Lower Saxony"
 wikidata_id: "Q2319610"
 latitude: 51.6368
 longitude: 7.25644
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St.Josef_in_Oer-Erkenschwick.jpg/400px-St.Josef_in_Oer-Erkenschwick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St.Josef_in_Oer-Erkenschwick.jpg/800px-St.Josef_in_Oer-Erkenschwick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St.Josef_in_Oer-Erkenschwick.jpg/1200px-St.Josef_in_Oer-Erkenschwick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St.Josef_in_Oer-Erkenschwick.jpg/1920px-St.Josef_in_Oer-Erkenschwick.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St.Josef_in_Oer-Erkenschwick.jpg/1920px-St.Josef_in_Oer-Erkenschwick.jpg---
 
 ## Overview
 

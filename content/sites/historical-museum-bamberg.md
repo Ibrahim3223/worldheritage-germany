@@ -4,13 +4,13 @@ site_name: "Historical Museum Bamberg"
 date: 2026-01-26
 draft: false
 description: "museum in Bamberg managing various historical locations with galleries"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q1539491"
 latitude: 49.8909
 longitude: 10.8824
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/400px-Bamberg-Alte_Hofhaltung-Fassade.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/800px-Bamberg-Alte_Hofhaltung-Fassade.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1200px-Bamberg-Alte_Hofhaltung-Fassade.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1920px-Bamberg-Alte_Hofhaltung-Fassade.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1920px-Bamberg-Alte_Hofhaltung-Fassade.JPG---
 
 ## Overview
 

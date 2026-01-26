@@ -4,13 +4,13 @@ site_name: "Gut Hudenbeck"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Rittergut und Herrenhaus im Stadtteil Bad Holzhausen der Stadt Preußisch Oldendorf im Kreis Minden-Lübbecke"
-region: "Preußisch Oldendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Preußisch Oldendorf"
+  - "Lower Saxony"
 wikidata_id: "Q1556953"
 latitude: 52.2864
 longitude: 8.53306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pr.Oldendorf1.jpg/400px-Pr.Oldendorf1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pr.Oldendorf1.jpg/800px-Pr.Oldendorf1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pr.Oldendorf1.jpg/1200px-Pr.Oldendorf1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pr.Oldendorf1.jpg/1920px-Pr.Oldendorf1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pr.Oldendorf1.jpg/1920px-Pr.Oldendorf1.jpg---
 
 ## Overview
 

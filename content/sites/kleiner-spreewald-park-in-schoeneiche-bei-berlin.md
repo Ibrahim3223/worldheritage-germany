@@ -4,13 +4,13 @@ site_name: "Kleiner Spreewald Park in Schöneiche bei Berlin"
 date: 2026-01-26
 draft: false
 description: "park in Schöneiche bei Berlin, Germany"
-region: "Schöneiche bei Berlin"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Schöneiche bei Berlin"
+  - "Berlin"
 wikidata_id: "Q113054"
 latitude: 52.4731
 longitude: 13.6964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/400px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/800px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/1200px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/1920px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/1920px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg---
 
 ## Overview
 

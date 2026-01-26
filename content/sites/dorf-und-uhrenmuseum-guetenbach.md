@@ -4,19 +4,18 @@ site_name: "Dorf- und Uhrenmuseum Gütenbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Gütenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gütenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q5297731"
 latitude: 48.047097703
 longitude: 8.139697286
 images:
-  []
----
+  []---
 
 ## Overview
 

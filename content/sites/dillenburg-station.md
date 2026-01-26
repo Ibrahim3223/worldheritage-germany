@@ -4,13 +4,13 @@ site_name: "Dillenburg station"
 date: 2026-01-26
 draft: false
 description: "railway station in Dillenburg, Germany"
-region: "Dillenburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dillenburg"
+  - "Hesse"
 wikidata_id: "Q322795"
 latitude: 50.735
 longitude: 8.29444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/400px-Bf_Dillenburg_23082002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/800px-Bf_Dillenburg_23082002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/1200px-Bf_Dillenburg_23082002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/1920px-Bf_Dillenburg_23082002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/1920px-Bf_Dillenburg_23082002.jpg---
 
 ## Overview
 

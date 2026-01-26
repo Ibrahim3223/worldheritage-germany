@@ -4,13 +4,13 @@ site_name: "Sowjetische Kriegsgräberstätte Simmerath-Rurberg"
 date: 2026-01-26
 draft: false
 description: "cemetery in Simmerath, Germany"
-region: "Simmerath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Simmerath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2305024"
 latitude: 50.6094
 longitude: 6.36538
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Simmerath_Russenfriedhof_1.jpg/400px-Simmerath_Russenfriedhof_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Simmerath_Russenfriedhof_1.jpg/800px-Simmerath_Russenfriedhof_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Simmerath_Russenfriedhof_1.jpg/1200px-Simmerath_Russenfriedhof_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Simmerath_Russenfriedhof_1.jpg/1920px-Simmerath_Russenfriedhof_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Simmerath_Russenfriedhof_1.jpg/1920px-Simmerath_Russenfriedhof_1.jpg---
 
 ## Overview
 

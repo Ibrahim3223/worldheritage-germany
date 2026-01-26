@@ -4,13 +4,13 @@ site_name: "Freibergsdorf Hammer Mill"
 date: 2026-01-26
 draft: false
 description: "einziger erhaltener Eisenhammer im Freiberger Bergrevier"
-region: "Freiberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiberg"
+  - "Saxony"
 wikidata_id: "Q1109707"
 latitude: 50.9102
 longitude: 13.3269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/400px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/800px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1200px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1920px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1920px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Energeticon"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Alsdorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Alsdorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q16830609"
 latitude: 50.875044
 longitude: 6.150391
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/400px-Grube_Anna,_Schmiede_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/800px-Grube_Anna,_Schmiede_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/1200px-Grube_Anna,_Schmiede_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/1920px-Grube_Anna,_Schmiede_(3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/1920px-Grube_Anna,_Schmiede_(3).jpg---
 
 ## Overview
 

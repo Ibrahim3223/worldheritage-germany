@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Hildburghausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hildburghausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hildburghausen"
+  - "Bavaria"
 wikidata_id: "Q20480281"
 latitude: 50.4271236
 longitude: 10.7294922
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/400px-Hildburghausen_Stadtmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/800px-Hildburghausen_Stadtmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/1200px-Hildburghausen_Stadtmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/1920px-Hildburghausen_Stadtmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/1920px-Hildburghausen_Stadtmuseum.JPG---
 
 ## Overview
 

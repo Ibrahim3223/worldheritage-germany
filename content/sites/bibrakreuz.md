@@ -4,13 +4,13 @@ site_name: "Bibrakreuz"
 date: 2026-01-26
 draft: false
 description: "monument in Thale, Germany"
-region: "Thale"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Thale"
+  - "Lower Saxony"
 wikidata_id: "Q856698"
 latitude: 51.7409
 longitude: 11.0064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/400px-Bibrakreuz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/800px-Bibrakreuz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/1200px-Bibrakreuz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/1920px-Bibrakreuz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/1920px-Bibrakreuz.jpg---
 
 ## Overview
 

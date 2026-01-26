@@ -4,13 +4,13 @@ site_name: "Theodor-Zink-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Kaiserslautern, Germany"
-region: "Kaiserslautern"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kaiserslautern"
+  - "Baden-Württemberg"
 wikidata_id: "Q15850614"
 latitude: 49.44739
 longitude: 7.7755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/400px-Theodor-Zink-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/800px-Theodor-Zink-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/1200px-Theodor-Zink-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/1920px-Theodor-Zink-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/1920px-Theodor-Zink-Museum.jpg---
 
 ## Overview
 

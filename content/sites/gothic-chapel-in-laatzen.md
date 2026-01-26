@@ -4,13 +4,13 @@ site_name: "Gothic chapel in Laatzen"
 date: 2026-01-26
 draft: false
 description: "chapel in Laatzen, Region Hannover, Germany"
-region: "Laatzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Laatzen"
+  - "Lower Saxony"
 wikidata_id: "Q435654"
 latitude: 52.315466
 longitude: 9.78506
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/400px-Kapelle_Alt-Laatzen_IMG_3415.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/800px-Kapelle_Alt-Laatzen_IMG_3415.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/1200px-Kapelle_Alt-Laatzen_IMG_3415.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/1920px-Kapelle_Alt-Laatzen_IMG_3415.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/1920px-Kapelle_Alt-Laatzen_IMG_3415.jpg---
 
 ## Overview
 

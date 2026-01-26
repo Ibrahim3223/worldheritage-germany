@@ -4,13 +4,13 @@ site_name: "Bagger 1452"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q799878"
 latitude: 51.06758889
 longitude: 14.9579
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/400px-Bagger_1452.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/800px-Bagger_1452.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1200px-Bagger_1452.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1920px-Bagger_1452.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1920px-Bagger_1452.jpg---
 
 ## Overview
 

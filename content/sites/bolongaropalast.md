@@ -4,13 +4,13 @@ site_name: "Bolongaropalast"
 date: 2026-01-26
 draft: false
 description: "palace in Frankfurt, Germany"
-region: "Frankfurt-West"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Frankfurt-West"
+  - "Hesse"
 wikidata_id: "Q891542"
 latitude: 50.100883901
 longitude: 8.553259852
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/400px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/800px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1200px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1920px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1920px-Bolongaropalast_F-Hoechst_Strassenfront.jpg---
 
 ## Overview
 

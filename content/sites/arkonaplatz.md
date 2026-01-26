@@ -4,13 +4,13 @@ site_name: "Arkonaplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Berlin-Mitte, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q673766"
 latitude: 52.53722
 longitude: 13.40194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MitteArconaplatz-1.jpg/400px-MitteArconaplatz-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MitteArconaplatz-1.jpg/800px-MitteArconaplatz-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MitteArconaplatz-1.jpg/1200px-MitteArconaplatz-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MitteArconaplatz-1.jpg/1920px-MitteArconaplatz-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MitteArconaplatz-1.jpg/1920px-MitteArconaplatz-1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Christuskirche (Lüdenscheid)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lüdenscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lüdenscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1087362"
 latitude: 51.2212
 longitude: 7.623
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/400px-Lüdenscheid_Christuskirche_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/800px-Lüdenscheid_Christuskirche_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/1200px-Lüdenscheid_Christuskirche_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/1920px-Lüdenscheid_Christuskirche_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/1920px-Lüdenscheid_Christuskirche_1.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Lürken"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013055"
 latitude: 50.8552
 longitude: 6.24182
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/400px-Burg_Luerken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/800px-Burg_Luerken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/1200px-Burg_Luerken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/1920px-Burg_Luerken.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/1920px-Burg_Luerken.jpg---
 
 ## Overview
 

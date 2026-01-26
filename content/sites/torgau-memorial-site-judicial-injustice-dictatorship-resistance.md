@@ -4,13 +4,13 @@ site_name: "Torgau memorial site. Judicial injustice – dictatorship – resist
 date: 2026-01-26
 draft: false
 description: "permanent exhibition in Hartenfels Castle Torgau (Saxony)"
-region: "Torgau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Torgau"
+  - "Brandenburg"
 wikidata_id: "Q1235167"
 latitude: 51.5590277
 longitude: 13.0091885
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/400px-Daueraustellung_Erinnerungsort_Torgau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/800px-Daueraustellung_Erinnerungsort_Torgau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/1200px-Daueraustellung_Erinnerungsort_Torgau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/1920px-Daueraustellung_Erinnerungsort_Torgau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/1920px-Daueraustellung_Erinnerungsort_Torgau.jpg---
 
 ## Overview
 

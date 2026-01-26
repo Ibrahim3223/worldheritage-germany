@@ -4,13 +4,13 @@ site_name: "Saint Vitus Chapel"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Lennestadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Lennestadt"
+  - "Hesse"
 wikidata_id: "Q1592236"
 latitude: 51.1561
 longitude: 8.0427
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/400px-Vituskapelle_Elspe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/800px-Vituskapelle_Elspe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/1200px-Vituskapelle_Elspe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/1920px-Vituskapelle_Elspe.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/1920px-Vituskapelle_Elspe.JPG---
 
 ## Overview
 

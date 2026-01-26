@@ -4,13 +4,13 @@ site_name: "Luisenpark"
 date: 2026-01-26
 draft: false
 description: "garden in Mannheim"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q202120"
 latitude: 49.4827
 longitude: 8.4974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Luisenpark_Mannheim_Gondolettas.JPG/400px-Luisenpark_Mannheim_Gondolettas.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Luisenpark_Mannheim_Gondolettas.JPG/800px-Luisenpark_Mannheim_Gondolettas.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Luisenpark_Mannheim_Gondolettas.JPG/1200px-Luisenpark_Mannheim_Gondolettas.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Luisenpark_Mannheim_Gondolettas.JPG/1920px-Luisenpark_Mannheim_Gondolettas.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Luisenpark_Mannheim_Gondolettas.JPG/1920px-Luisenpark_Mannheim_Gondolettas.JPG---
 
 ## Overview
 

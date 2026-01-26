@@ -4,13 +4,13 @@ site_name: "Jakobskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Baden-Württemberg, Germany"
-region: "Adelsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Adelsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1679530"
 latitude: 49.4049
 longitude: 9.38926
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/400px-Adelsheim_Jakobskirche2873.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/800px-Adelsheim_Jakobskirche2873.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/1200px-Adelsheim_Jakobskirche2873.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/1920px-Adelsheim_Jakobskirche2873.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/1920px-Adelsheim_Jakobskirche2873.JPG---
 
 ## Overview
 

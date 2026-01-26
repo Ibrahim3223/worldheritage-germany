@@ -4,13 +4,13 @@ site_name: "Otto-Huus"
 date: 2026-01-26
 draft: false
 description: "Otto Haus in Emden, Deutschland"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q25692078"
 latitude: 53.3667
 longitude: 7.20521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/400px-Otto-Huus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/800px-Otto-Huus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/1200px-Otto-Huus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/1920px-Otto-Huus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/1920px-Otto-Huus.jpg---
 
 ## Overview
 

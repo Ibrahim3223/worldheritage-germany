@@ -4,13 +4,13 @@ site_name: "City Hall Market 5"
 date: 2026-01-26
 draft: false
 description: "house in Stadt Wehlen, Germany"
-region: "Stadt Wehlen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Stadt Wehlen"
+  - "Saxony"
 wikidata_id: "Q49229294"
 latitude: 50.95717
 longitude: 14.03314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Markt_5_Stadt_Wehlen_2.JPG/400px-Markt_5_Stadt_Wehlen_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Markt_5_Stadt_Wehlen_2.JPG/800px-Markt_5_Stadt_Wehlen_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Markt_5_Stadt_Wehlen_2.JPG/1200px-Markt_5_Stadt_Wehlen_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Markt_5_Stadt_Wehlen_2.JPG/1920px-Markt_5_Stadt_Wehlen_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Markt_5_Stadt_Wehlen_2.JPG/1920px-Markt_5_Stadt_Wehlen_2.JPG---
 
 ## Overview
 

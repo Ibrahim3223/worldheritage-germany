@@ -4,19 +4,18 @@ site_name: "Burg Großschafhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schwendi"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schwendi"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012073"
 latitude: 48.2026
 longitude: 9.9507
 images:
-  []
----
+  []---
 
 ## Overview
 

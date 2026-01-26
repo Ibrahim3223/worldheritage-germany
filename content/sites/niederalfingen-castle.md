@@ -4,13 +4,13 @@ site_name: "Niederalfingen Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hüttlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hüttlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013316"
 latitude: 48.8967
 longitude: 10.0767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/400px-Niederalfingen_Marienburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/800px-Niederalfingen_Marienburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/1200px-Niederalfingen_Marienburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/1920px-Niederalfingen_Marienburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/1920px-Niederalfingen_Marienburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "old city hall Höchst"
 date: 2026-01-26
 draft: false
 description: "former city hall in Frankfurt"
-region: "East Höchst"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "East Höchst"
+  - "Hesse"
 wikidata_id: "Q116494075"
 latitude: 50.099048719
 longitude: 8.547886585
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/400px-Altes_Rathaus_Höchst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/800px-Altes_Rathaus_Höchst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/1200px-Altes_Rathaus_Höchst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/1920px-Altes_Rathaus_Höchst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/1920px-Altes_Rathaus_Höchst.jpg---
 
 ## Overview
 

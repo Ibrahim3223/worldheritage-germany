@@ -4,13 +4,13 @@ site_name: "Kunstgewerbeschule Erfurt"
 date: 2026-01-26
 draft: false
 description: "former school in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1563344"
 latitude: 50.9814
 longitude: 11.0275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/400px-Hügelschule_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/800px-Hügelschule_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/1200px-Hügelschule_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/1920px-Hügelschule_Erfurt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/1920px-Hügelschule_Erfurt.JPG---
 
 ## Overview
 

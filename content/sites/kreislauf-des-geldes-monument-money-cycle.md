@@ -4,13 +4,13 @@ site_name: "Kreislauf des Geldes monument (money cycle)"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1787720"
 latitude: 50.7745
 longitude: 6.08536
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/400px-AC_BR_Kreislauf_des_Geldes_2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/800px-AC_BR_Kreislauf_des_Geldes_2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/1200px-AC_BR_Kreislauf_des_Geldes_2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/1920px-AC_BR_Kreislauf_des_Geldes_2024.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/1920px-AC_BR_Kreislauf_des_Geldes_2024.jpg---
 
 ## Overview
 

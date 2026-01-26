@@ -4,13 +4,13 @@ site_name: "Gut Freienwillen"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Langballig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Langballig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1556920"
 latitude: 54.8161
 longitude: 9.63494
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/400px-Gut_Freienwillen,_Haupthaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/800px-Gut_Freienwillen,_Haupthaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/1200px-Gut_Freienwillen,_Haupthaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/1920px-Gut_Freienwillen,_Haupthaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/1920px-Gut_Freienwillen,_Haupthaus.jpg---
 
 ## Overview
 

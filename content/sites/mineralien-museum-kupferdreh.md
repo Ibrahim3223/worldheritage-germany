@@ -4,13 +4,13 @@ site_name: "Mineralien-Museum Kupferdreh"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1936583"
 latitude: 51.3923
 longitude: 7.08269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/400px-Mineralien-Museum_Essen-Kupferdreh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/800px-Mineralien-Museum_Essen-Kupferdreh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/1200px-Mineralien-Museum_Essen-Kupferdreh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/1920px-Mineralien-Museum_Essen-Kupferdreh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/1920px-Mineralien-Museum_Essen-Kupferdreh.jpg---
 
 ## Overview
 

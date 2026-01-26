@@ -4,13 +4,13 @@ site_name: "Altstadt (Pirna)"
 date: 2026-01-26
 draft: false
 description: "quarter of Pirna, Germany"
-region: "Pirna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Pirna"
+  - "Saxony"
 wikidata_id: "Q445533"
 latitude: 50.9625
 longitude: 13.9422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/400px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/800px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/1200px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/1920px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/1920px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg---
 
 ## Overview
 

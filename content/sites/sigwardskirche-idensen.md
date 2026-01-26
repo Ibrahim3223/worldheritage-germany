@@ -4,13 +4,13 @@ site_name: "Sigwardskirche Idensen"
 date: 2026-01-26
 draft: false
 description: "church building in Wunstorf, Lower Saxony, Germany"
-region: "Wunstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wunstorf"
+  - "Lower Saxony"
 wikidata_id: "Q1377600"
 latitude: 52.4023
 longitude: 9.35565
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/400px-PICT5203_Sigwardskirche_Idensen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/800px-PICT5203_Sigwardskirche_Idensen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/1200px-PICT5203_Sigwardskirche_Idensen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/1920px-PICT5203_Sigwardskirche_Idensen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/1920px-PICT5203_Sigwardskirche_Idensen.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum Haldensleben"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Haldensleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Haldensleben"
+  - "Brandenburg"
 wikidata_id: "Q1321861"
 latitude: 52.2894
 longitude: 11.4111
 images:
-  []
----
+  []---
 
 ## Overview
 

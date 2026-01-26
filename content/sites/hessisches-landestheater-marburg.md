@@ -4,13 +4,13 @@ site_name: "Hessisches Landestheater Marburg"
 date: 2026-01-26
 draft: false
 description: "theatre in Marburg, Hesse, Germany"
-region: "Marburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Marburg"
+  - "Hesse"
 wikidata_id: "Q1615984"
 latitude: 50.7976
 longitude: 8.7615
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Theater_Marburg_jn.jpg/400px-Theater_Marburg_jn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Theater_Marburg_jn.jpg/800px-Theater_Marburg_jn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Theater_Marburg_jn.jpg/1200px-Theater_Marburg_jn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Theater_Marburg_jn.jpg/1920px-Theater_Marburg_jn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Theater_Marburg_jn.jpg/1920px-Theater_Marburg_jn.jpg---
 
 ## Overview
 

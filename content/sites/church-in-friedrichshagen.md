@@ -4,13 +4,13 @@ site_name: "Church in Friedrichshagen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Plüschow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Plüschow"
+  - "Lower Saxony"
 wikidata_id: "Q1244285"
 latitude: 53.8232
 longitude: 11.2818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/400px-Friedrichshagen_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/800px-Friedrichshagen_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/1200px-Friedrichshagen_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/1920px-Friedrichshagen_Kirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/1920px-Friedrichshagen_Kirche_1.jpg---
 
 ## Overview
 

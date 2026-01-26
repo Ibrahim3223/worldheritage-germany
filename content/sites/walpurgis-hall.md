@@ -4,13 +4,13 @@ site_name: "Walpurgis Hall"
 date: 2026-01-26
 draft: false
 description: "hall on the Witches' Dance Floor plateau in the Harz mountains, Germany"
-region: "Thale"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thale"
+  - "Lower Saxony"
 wikidata_id: "Q2543217"
 latitude: 51.7327
 longitude: 11.0261
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/400px-Hexentanzplatz_Thale_msu2017-0633.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/800px-Hexentanzplatz_Thale_msu2017-0633.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/1200px-Hexentanzplatz_Thale_msu2017-0633.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/1920px-Hexentanzplatz_Thale_msu2017-0633.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/1920px-Hexentanzplatz_Thale_msu2017-0633.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Deutsches Chemie-Museum Merseburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Merseburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Merseburg"
+  - "Saxony"
 wikidata_id: "Q15040001"
 latitude: 51.34142
 longitude: 11.969776
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/400px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/800px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/1200px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/1920px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/1920px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg---
 
 ## Overview
 

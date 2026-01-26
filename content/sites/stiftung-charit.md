@@ -4,19 +4,18 @@ site_name: "Stiftung Charité"
 date: 2026-01-26
 draft: false
 description: "Non-profit German foundation for the support of the Berlin University Medical School (2005-)"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q21076611"
 latitude: 52.5289
 longitude: 13.38762
 images:
-  []
----
+  []---
 
 ## Overview
 

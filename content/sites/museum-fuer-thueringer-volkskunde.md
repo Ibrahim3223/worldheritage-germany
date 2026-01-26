@@ -4,13 +4,13 @@ site_name: "Museum für Thüringer Volkskunde"
 date: 2026-01-26
 draft: false
 description: "museum in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1954677"
 latitude: 50.9814
 longitude: 11.0356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/400px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/800px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/1200px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/1920px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/1920px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg---
 
 ## Overview
 

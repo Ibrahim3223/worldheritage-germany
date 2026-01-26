@@ -4,19 +4,18 @@ site_name: "Kreis- und Universitätsmuseum Helmstedt"
 date: 2026-01-26
 draft: false
 description: "museum in Helmstedt, Germany"
-region: "Helmstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Helmstedt"
+  - "Lower Saxony"
 wikidata_id: "Q76636201"
 latitude: 52.224928
 longitude: 11.010959
 images:
-  []
----
+  []---
 
 ## Overview
 

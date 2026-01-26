@@ -4,13 +4,13 @@ site_name: "Müglitztalbahn (Sachgesamtheit); Brücke Glashütte"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Glashütte"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Glashütte"
+  - "Saxony"
 wikidata_id: "Q49441984"
 latitude: 50.857731728
 longitude: 13.797903409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/400px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/800px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/1200px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/1920px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/1920px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg---
 
 ## Overview
 

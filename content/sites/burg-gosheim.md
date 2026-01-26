@@ -4,13 +4,13 @@ site_name: "Burg Gosheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Huisheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Huisheim"
+  - "Bavaria"
 wikidata_id: "Q1012002"
 latitude: 48.8318
 longitude: 10.7198
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gosheim_(Huisheim)_Burg_533.jpg/400px-Gosheim_(Huisheim)_Burg_533.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gosheim_(Huisheim)_Burg_533.jpg/800px-Gosheim_(Huisheim)_Burg_533.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gosheim_(Huisheim)_Burg_533.jpg/1200px-Gosheim_(Huisheim)_Burg_533.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gosheim_(Huisheim)_Burg_533.jpg/1920px-Gosheim_(Huisheim)_Burg_533.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gosheim_(Huisheim)_Burg_533.jpg/1920px-Gosheim_(Huisheim)_Burg_533.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kettenschmiedemuseum Fröndenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fröndenberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fröndenberg"
+  - "Lower Saxony"
 wikidata_id: "Q1739971"
 latitude: 51.4714
 longitude: 7.77083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg/400px-Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg/800px-Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg/1200px-Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg/1920px-Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg/1920px-Froendenberg_Kettenschmiedemuseum_R7308774_wp.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Internationales Keramikmuseum"
 date: 2026-01-26
 draft: false
 description: "Weiden in der Oberpfalz, Germany"
-region: "Weiden in der Oberpfalz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weiden in der Oberpfalz"
+  - "Bavaria"
 wikidata_id: "Q1667774"
 latitude: 49.678194444
 longitude: 12.164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/400px-Wen_WaldsassenerKasten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/800px-Wen_WaldsassenerKasten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/1200px-Wen_WaldsassenerKasten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/1920px-Wen_WaldsassenerKasten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/1920px-Wen_WaldsassenerKasten.jpg---
 
 ## Overview
 

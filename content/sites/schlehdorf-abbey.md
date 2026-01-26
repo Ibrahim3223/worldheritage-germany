@@ -4,13 +4,13 @@ site_name: "Schlehdorf Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey in Bavaria, Germany"
-region: "Schlehdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Schlehdorf"
+  - "Bavaria"
 wikidata_id: "Q280517"
 latitude: 47.6578
 longitude: 11.3181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/400px-Kloster_Schlehdorf_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/800px-Kloster_Schlehdorf_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/1200px-Kloster_Schlehdorf_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/1920px-Kloster_Schlehdorf_I.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/1920px-Kloster_Schlehdorf_I.jpg---
 
 ## Overview
 

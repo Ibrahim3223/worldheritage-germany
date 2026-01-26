@@ -4,13 +4,13 @@ site_name: "Martin Luther Church"
 date: 2026-01-26
 draft: false
 description: "church building in Sankt Ingbert, Germany"
-region: "Sankt Ingbert"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sankt Ingbert"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1692049"
 latitude: 49.282
 longitude: 7.11402
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/400px-MartinLutherKirche-St-Ingbert.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/800px-MartinLutherKirche-St-Ingbert.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/1200px-MartinLutherKirche-St-Ingbert.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/1920px-MartinLutherKirche-St-Ingbert.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/1920px-MartinLutherKirche-St-Ingbert.JPG---
 
 ## Overview
 

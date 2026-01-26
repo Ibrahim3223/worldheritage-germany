@@ -4,13 +4,13 @@ site_name: "Ständehausbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q887008"
 latitude: 52.3732
 longitude: 9.73795
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/400px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/800px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/1200px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/1920px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/1920px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg---
 
 ## Overview
 

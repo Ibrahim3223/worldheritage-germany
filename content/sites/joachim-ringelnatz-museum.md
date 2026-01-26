@@ -4,13 +4,13 @@ site_name: "Joachim-Ringelnatz-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Cuxhaven, Germany"
-region: "Cuxhaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cuxhaven"
+  - "Lower Saxony"
 wikidata_id: "Q1230662"
 latitude: 53.8581
 longitude: 8.70008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg/400px-Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg/800px-Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg/1200px-Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg/1920px-Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg/1920px-Cuxhaven_2007_-Joachim_Ringelnatz_Museum-_by-RaBoe_01.jpg---
 
 ## Overview
 

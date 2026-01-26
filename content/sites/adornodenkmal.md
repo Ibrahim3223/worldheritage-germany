@@ -4,13 +4,13 @@ site_name: "Adornodenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q366395"
 latitude: 50.128144444
 longitude: 8.667302777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ffm-adorno-denkmal002.jpg/400px-Ffm-adorno-denkmal002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ffm-adorno-denkmal002.jpg/800px-Ffm-adorno-denkmal002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ffm-adorno-denkmal002.jpg/1200px-Ffm-adorno-denkmal002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ffm-adorno-denkmal002.jpg/1920px-Ffm-adorno-denkmal002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ffm-adorno-denkmal002.jpg/1920px-Ffm-adorno-denkmal002.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Neutscher Höhe"
 date: 2026-01-26
 draft: false
 description: "mountain pass in Odenwald, Germany"
-region: "Seeheim-Jugenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Seeheim-Jugenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1700174"
 latitude: 49.770472222
 longitude: 8.699833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/400px-Neutscher-Hoehe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/800px-Neutscher-Hoehe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/1200px-Neutscher-Hoehe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/1920px-Neutscher-Hoehe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/1920px-Neutscher-Hoehe.jpg---
 
 ## Overview
 

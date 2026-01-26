@@ -4,13 +4,13 @@ site_name: "Stadthalle Köln"
 date: 2026-01-26
 draft: false
 description: "architectural structure in Germany"
-region: "Mülheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Mülheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15994245"
 latitude: 50.95986111
 longitude: 7.00508333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Koeln-Muelheim_Stadthalle001.jpg/400px-Koeln-Muelheim_Stadthalle001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Koeln-Muelheim_Stadthalle001.jpg/800px-Koeln-Muelheim_Stadthalle001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Koeln-Muelheim_Stadthalle001.jpg/1200px-Koeln-Muelheim_Stadthalle001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Koeln-Muelheim_Stadthalle001.jpg/1920px-Koeln-Muelheim_Stadthalle001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Koeln-Muelheim_Stadthalle001.jpg/1920px-Koeln-Muelheim_Stadthalle001.jpg---
 
 ## Overview
 

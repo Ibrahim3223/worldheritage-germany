@@ -4,13 +4,13 @@ site_name: "St. Jakobi (Bremen-Neustadt)"
 date: 2026-01-26
 draft: false
 description: "church building in Neustadt, Germany"
-region: "Neustadt"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustadt"
+  - "Bremen"
 wikidata_id: "Q14540448"
 latitude: 53.0608
 longitude: 8.80708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen-Neustadt_St-Jakobi_01.jpg/400px-Bremen-Neustadt_St-Jakobi_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen-Neustadt_St-Jakobi_01.jpg/800px-Bremen-Neustadt_St-Jakobi_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen-Neustadt_St-Jakobi_01.jpg/1200px-Bremen-Neustadt_St-Jakobi_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen-Neustadt_St-Jakobi_01.jpg/1920px-Bremen-Neustadt_St-Jakobi_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen-Neustadt_St-Jakobi_01.jpg/1920px-Bremen-Neustadt_St-Jakobi_01.jpg---
 
 ## Overview
 

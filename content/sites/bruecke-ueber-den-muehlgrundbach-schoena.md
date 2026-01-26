@@ -4,19 +4,18 @@ site_name: "Brücke über den Mühlgrundbach Schöna"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Reinhardtsdorf-Schöna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Reinhardtsdorf-Schöna"
+  - "Saxony"
 wikidata_id: "Q49443542"
 latitude: 50.894016636
 longitude: 14.218261958
 images:
-  []
----
+  []---
 
 ## Overview
 

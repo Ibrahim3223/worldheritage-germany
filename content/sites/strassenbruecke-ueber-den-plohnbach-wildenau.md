@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über den Plohnbach Wildenau"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Steinberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Steinberg"
+  - "Bavaria"
 wikidata_id: "Q49440600"
 latitude: 50.555665
 longitude: 12.434438
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St Stephen's Church, Tangermünde"
 date: 2026-01-26
 draft: false
 description: "church building in Tangermünde, Saxony-Anhalt, Germany"
-region: "Tangermünde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tangermünde"
+  - "Brandenburg"
 wikidata_id: "Q2323242"
 latitude: 52.5426
 longitude: 11.9747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/400px-Tangermuende_St_Stephan.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/800px-Tangermuende_St_Stephan.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/1200px-Tangermuende_St_Stephan.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/1920px-Tangermuende_St_Stephan.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/1920px-Tangermuende_St_Stephan.JPG---
 
 ## Overview
 

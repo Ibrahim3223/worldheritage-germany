@@ -4,13 +4,13 @@ site_name: "St. Elisabeth's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Marburg, Germany"
-region: "Marburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marburg"
+  - "Hesse"
 wikidata_id: "Q695891"
 latitude: 50.815
 longitude: 8.769722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/400px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/800px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1200px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1920px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1920px-Marburg_asv2022-02_img25_Elisabethkirche.jpg---
 
 ## Overview
 

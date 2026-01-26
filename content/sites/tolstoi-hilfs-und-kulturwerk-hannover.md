@@ -4,13 +4,13 @@ site_name: "Tolstoi Hilfs- und Kulturwerk Hannover"
 date: 2026-01-26
 draft: false
 description: "1994 in Hannover gegründeter Kulturverein"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q134355790"
 latitude: 52.371259947
 longitude: 9.738535007
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/400px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/800px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/1200px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/1920px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/1920px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg---
 
 ## Overview
 

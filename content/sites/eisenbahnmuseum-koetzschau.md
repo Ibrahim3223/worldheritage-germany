@@ -4,13 +4,13 @@ site_name: "Eisenbahnmuseum Kötzschau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kötzschau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kötzschau"
+  - "Saxony"
 wikidata_id: "Q17321394"
 latitude: 51.304603
 longitude: 12.12399
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/400px-KötzschauBfsgeb.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/800px-KötzschauBfsgeb.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/1200px-KötzschauBfsgeb.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/1920px-KötzschauBfsgeb.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/1920px-KötzschauBfsgeb.JPG---
 
 ## Overview
 

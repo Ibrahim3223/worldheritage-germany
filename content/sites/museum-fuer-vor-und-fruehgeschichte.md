@@ -4,13 +4,13 @@ site_name: "Museum für Vor- und Frühgeschichte"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1954691"
 latitude: 49.2308
 longitude: 6.9914
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/400px-Museum_für_Vor-_und_Frühgeschichte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/800px-Museum_für_Vor-_und_Frühgeschichte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/1200px-Museum_für_Vor-_und_Frühgeschichte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/1920px-Museum_für_Vor-_und_Frühgeschichte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/1920px-Museum_für_Vor-_und_Frühgeschichte.jpg---
 
 ## Overview
 

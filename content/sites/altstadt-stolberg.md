@@ -4,19 +4,18 @@ site_name: "Altstadt (Stolberg)"
 date: 2026-01-26
 draft: false
 description: "quarter of Stolberg, Germany"
-region: "Stolberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Stolberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1568056"
 latitude: 50.7672
 longitude: 6.23217
 images:
-  []
----
+  []---
 
 ## Overview
 

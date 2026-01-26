@@ -4,13 +4,13 @@ site_name: "Sibyllenloch"
 date: 2026-01-26
 draft: false
 description: "Höhle in Deutschland"
-region: "Esslingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Esslingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1584275"
 latitude: 48.5891
 longitude: 9.46988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/400px-Sibyllenloch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/800px-Sibyllenloch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/1200px-Sibyllenloch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/1920px-Sibyllenloch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/1920px-Sibyllenloch.jpg---
 
 ## Overview
 

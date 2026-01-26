@@ -4,19 +4,18 @@ site_name: "Herrenhaus Wiebendorf"
 date: 2026-01-26
 draft: false
 description: "zerstörtes historisches Gebäude in Mecklenburg-Vorpommern"
-region: "Bengerstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bengerstorf"
+  - "Lower Saxony"
 wikidata_id: "Q1614095"
 latitude: 53.404002
 longitude: 10.818124
 images:
-  []
----
+  []---
 
 ## Overview
 

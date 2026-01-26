@@ -4,13 +4,13 @@ site_name: "Adventkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Pankow, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q2634751"
 latitude: 52.530354
 longitude: 13.444095
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/400px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/800px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/1200px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/1920px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/1920px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg---
 
 ## Overview
 

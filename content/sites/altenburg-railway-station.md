@@ -4,13 +4,13 @@ site_name: "Altenburg railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Altenburg, Germany"
-region: "Altenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Altenburg"
+  - "Saxony"
 wikidata_id: "Q318061"
 latitude: 50.996751
 longitude: 12.444035
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/400px-Altenburg_-_train_station_2009_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/800px-Altenburg_-_train_station_2009_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1200px-Altenburg_-_train_station_2009_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1920px-Altenburg_-_train_station_2009_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1920px-Altenburg_-_train_station_2009_(aka).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Garten Frankfurter Straße 6 in Gemünden am Main"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-77-131-9 (2) in Gemünden am Main, Bavaria"
-region: "Gemünden am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Gemünden am Main"
+  - "Bavaria"
 wikidata_id: "Q98485269"
 latitude: 50.058739971
 longitude: 9.68786556
 images:
-  []
----
+  []---
 
 ## Overview
 

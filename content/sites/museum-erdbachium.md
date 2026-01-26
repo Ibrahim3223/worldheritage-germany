@@ -4,19 +4,18 @@ site_name: "Museum Erdbachium"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Erdbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erdbach"
+  - "Hesse"
 wikidata_id: "Q16854754"
 latitude: 50.689228
 longitude: 8.218815
 images:
-  []
----
+  []---
 
 ## Overview
 

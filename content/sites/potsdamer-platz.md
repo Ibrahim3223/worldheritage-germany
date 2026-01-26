@@ -4,13 +4,13 @@ site_name: "Potsdamer Platz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q152252"
 latitude: 52.508944444
 longitude: 13.376333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/400px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/800px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/1200px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/1920px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/1920px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg---
 
 ## Overview
 

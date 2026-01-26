@@ -4,13 +4,13 @@ site_name: "Bielstein"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Augustdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Augustdorf"
+  - "Lower Saxony"
 wikidata_id: "Q857408"
 latitude: 51.9056
 longitude: 8.82222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielstein_(Teutoburger_Wald).jpg/400px-Bielstein_(Teutoburger_Wald).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielstein_(Teutoburger_Wald).jpg/800px-Bielstein_(Teutoburger_Wald).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielstein_(Teutoburger_Wald).jpg/1200px-Bielstein_(Teutoburger_Wald).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielstein_(Teutoburger_Wald).jpg/1920px-Bielstein_(Teutoburger_Wald).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielstein_(Teutoburger_Wald).jpg/1920px-Bielstein_(Teutoburger_Wald).jpg---
 
 ## Overview
 

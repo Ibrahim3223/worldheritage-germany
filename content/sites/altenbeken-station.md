@@ -4,13 +4,13 @@ site_name: "Altenbeken station"
 date: 2026-01-26
 draft: false
 description: "railway station in Altenbeken, Germany"
-region: "Altenbeken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Altenbeken"
+  - "Lower Saxony"
 wikidata_id: "Q322534"
 latitude: 51.7664
 longitude: 8.94222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/400px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/800px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1200px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1920px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1920px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg---
 
 ## Overview
 

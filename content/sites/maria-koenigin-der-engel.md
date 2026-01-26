@@ -4,13 +4,13 @@ site_name: "Maria Königin der Engel"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Contwig"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Contwig"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1113369"
 latitude: 49.2435
 longitude: 7.46131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stambach_Katholische_Kirche.JPG/400px-Stambach_Katholische_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stambach_Katholische_Kirche.JPG/800px-Stambach_Katholische_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stambach_Katholische_Kirche.JPG/1200px-Stambach_Katholische_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stambach_Katholische_Kirche.JPG/1920px-Stambach_Katholische_Kirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stambach_Katholische_Kirche.JPG/1920px-Stambach_Katholische_Kirche.JPG---
 
 ## Overview
 

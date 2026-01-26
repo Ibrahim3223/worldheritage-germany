@@ -4,13 +4,13 @@ site_name: "Museum Neukölln"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q15121282"
 latitude: 52.44590278
 longitude: 13.43805556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin_Britz_Gutspark_asv2021-03_img1.jpg/400px-Berlin_Britz_Gutspark_asv2021-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin_Britz_Gutspark_asv2021-03_img1.jpg/800px-Berlin_Britz_Gutspark_asv2021-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin_Britz_Gutspark_asv2021-03_img1.jpg/1200px-Berlin_Britz_Gutspark_asv2021-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin_Britz_Gutspark_asv2021-03_img1.jpg/1920px-Berlin_Britz_Gutspark_asv2021-03_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin_Britz_Gutspark_asv2021-03_img1.jpg/1920px-Berlin_Britz_Gutspark_asv2021-03_img1.jpg---
 
 ## Overview
 

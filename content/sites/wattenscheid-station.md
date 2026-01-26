@@ -4,13 +4,13 @@ site_name: "Wattenscheid station"
 date: 2026-01-26
 draft: false
 description: "railway station in Bochum, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q322508"
 latitude: 51.4736
 longitude: 7.14
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BF_Wattenscheid_1.jpg/400px-BF_Wattenscheid_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BF_Wattenscheid_1.jpg/800px-BF_Wattenscheid_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BF_Wattenscheid_1.jpg/1200px-BF_Wattenscheid_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BF_Wattenscheid_1.jpg/1920px-BF_Wattenscheid_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BF_Wattenscheid_1.jpg/1920px-BF_Wattenscheid_1.jpg---
 
 ## Overview
 

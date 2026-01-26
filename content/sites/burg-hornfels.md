@@ -4,13 +4,13 @@ site_name: "Burg Hornfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grenzach-Wyhlen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grenzach-Wyhlen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012494"
 latitude: 47.558842
 longitude: 7.646504
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wallburg_Hornfelsen_2.jpg/400px-Wallburg_Hornfelsen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wallburg_Hornfelsen_2.jpg/800px-Wallburg_Hornfelsen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wallburg_Hornfelsen_2.jpg/1200px-Wallburg_Hornfelsen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wallburg_Hornfelsen_2.jpg/1920px-Wallburg_Hornfelsen_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wallburg_Hornfelsen_2.jpg/1920px-Wallburg_Hornfelsen_2.jpg---
 
 ## Overview
 

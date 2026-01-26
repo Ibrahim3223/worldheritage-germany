@@ -4,13 +4,13 @@ site_name: "Tuch und Technik Textilmuseum Neumünster"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Neumünster"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neumünster"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1287060"
 latitude: 54.0716
 longitude: 9.98119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/400px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/800px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/1200px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/1920px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/1920px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg---
 
 ## Overview
 

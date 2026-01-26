@@ -4,19 +4,18 @@ site_name: "Town hall in Schönwald"
 date: 2026-01-26
 draft: false
 description: "Administration building in Schönwald in Bavaria"
-region: "Schönwald"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Schönwald"
+  - "Bavaria"
 wikidata_id: "Q123505406"
 latitude: 50.1985485
 longitude: 12.088023303
 images:
-  []
----
+  []---
 
 ## Overview
 

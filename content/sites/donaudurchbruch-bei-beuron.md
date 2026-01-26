@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Donautal_vom_Knopfmacherfelsen.jpg/400px-Donautal_vom_Knopfmacherfelsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Donautal_vom_Knopfmacherfelsen.jpg/800px-Donautal_vom_Knopfmacherfelsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Donautal_vom_Knopfmacherfelsen.jpg/1200px-Donautal_vom_Knopfmacherfelsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Donautal_vom_Knopfmacherfelsen.jpg/1920px-Donautal_vom_Knopfmacherfelsen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Donautal_vom_Knopfmacherfelsen.jpg/1920px-Donautal_vom_Knopfmacherfelsen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hammermuseum Frankfurt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1317292"
 latitude: 50.1074
 longitude: 8.66802
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/400px-Hammermuseum_Ffm_06_(fcm).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/800px-Hammermuseum_Ffm_06_(fcm).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/1200px-Hammermuseum_Ffm_06_(fcm).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/1920px-Hammermuseum_Ffm_06_(fcm).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/1920px-Hammermuseum_Ffm_06_(fcm).jpg---
 
 ## Overview
 

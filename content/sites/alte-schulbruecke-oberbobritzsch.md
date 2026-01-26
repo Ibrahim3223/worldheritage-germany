@@ -4,19 +4,18 @@ site_name: "Alte Schulbrücke Oberbobritzsch"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bobritzsch-Hilbersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bobritzsch-Hilbersdorf"
+  - "Saxony"
 wikidata_id: "Q49446100"
 latitude: 50.852815863
 longitude: 13.475613198
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Jagd- und Fischereimuseum Schloss Tambach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629771"
 latitude: 50.233215
 longitude: 10.864396
 images:
-  []
----
+  []---
 
 ## Overview
 

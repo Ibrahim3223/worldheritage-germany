@@ -4,13 +4,13 @@ site_name: "Lake Constance Nature Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q19835577"
 latitude: 47.6571
 longitude: 9.1805
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/400px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/800px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/1200px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/1920px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/1920px-Bodensee_Naturmuseum_Konstanz_(2011).jpg---
 
 ## Overview 
 

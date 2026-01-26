@@ -4,13 +4,13 @@ site_name: "Enderttor"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Cochem"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Cochem"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q151459"
 latitude: 50.1471
 longitude: 7.16517
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/400px-Enderttor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/800px-Enderttor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/1200px-Enderttor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/1920px-Enderttor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/1920px-Enderttor.jpg---
 
 ## Overview
 

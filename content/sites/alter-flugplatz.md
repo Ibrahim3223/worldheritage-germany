@@ -4,13 +4,13 @@ site_name: "Alter Flugplatz"
 date: 2026-01-26
 draft: false
 description: "former American military airbase in Frankfurt, Germany"
-region: "Frankfurt-Nord-Ost"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Frankfurt-Nord-Ost"
+  - "Hesse"
 wikidata_id: "Q437856"
 latitude: 50.1779
 longitude: 8.66018
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/400px-Pano_bonaflug.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/800px-Pano_bonaflug.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/1200px-Pano_bonaflug.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/1920px-Pano_bonaflug.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/1920px-Pano_bonaflug.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sony Center"
 date: 2026-01-26
 draft: false
 description: "ensemble of buildings in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q641108"
 latitude: 52.51
 longitude: 13.373611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sony_Center_Berlin_Innenansicht_72dpi_01.jpg/400px-Sony_Center_Berlin_Innenansicht_72dpi_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sony_Center_Berlin_Innenansicht_72dpi_01.jpg/800px-Sony_Center_Berlin_Innenansicht_72dpi_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sony_Center_Berlin_Innenansicht_72dpi_01.jpg/1200px-Sony_Center_Berlin_Innenansicht_72dpi_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sony_Center_Berlin_Innenansicht_72dpi_01.jpg/1920px-Sony_Center_Berlin_Innenansicht_72dpi_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sony_Center_Berlin_Innenansicht_72dpi_01.jpg/1920px-Sony_Center_Berlin_Innenansicht_72dpi_01.jpg---
 
 ## Overview
 

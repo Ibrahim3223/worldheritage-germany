@@ -4,13 +4,13 @@ site_name: "Landesmuseum Mainz"
 date: 2026-01-26
 draft: false
 description: "museum in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q834183"
 latitude: 50.00385
 longitude: 8.26778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/400px-LandesmuseumMainzRoss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/800px-LandesmuseumMainzRoss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/1200px-LandesmuseumMainzRoss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/1920px-LandesmuseumMainzRoss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/1920px-LandesmuseumMainzRoss.jpg---
 
 ## Overview
 

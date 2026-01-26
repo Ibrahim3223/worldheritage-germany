@@ -4,13 +4,13 @@ site_name: "Alte Oper"
 date: 2026-01-26
 draft: false
 description: "theater and events venue in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q436068"
 latitude: 50.9716
 longitude: 11.0222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Erfurt_Alte_Oper_01.jpg/400px-Erfurt_Alte_Oper_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Erfurt_Alte_Oper_01.jpg/800px-Erfurt_Alte_Oper_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Erfurt_Alte_Oper_01.jpg/1200px-Erfurt_Alte_Oper_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Erfurt_Alte_Oper_01.jpg/1920px-Erfurt_Alte_Oper_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Erfurt_Alte_Oper_01.jpg/1920px-Erfurt_Alte_Oper_01.jpg---
 
 ## Overview
 

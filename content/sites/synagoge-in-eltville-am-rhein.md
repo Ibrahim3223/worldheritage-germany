@@ -4,13 +4,13 @@ site_name: "Synagoge in Eltville am Rhein"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Eltville am Rhein, Germany"
-region: "Eltville am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Eltville am Rhein"
+  - "Hesse"
 wikidata_id: "Q2375038"
 latitude: 50.025867902
 longitude: 8.119192121
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/400px-Eltville_ehemalige_Synagoge2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/800px-Eltville_ehemalige_Synagoge2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/1200px-Eltville_ehemalige_Synagoge2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/1920px-Eltville_ehemalige_Synagoge2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/1920px-Eltville_ehemalige_Synagoge2.JPG---
 
 ## Overview
 

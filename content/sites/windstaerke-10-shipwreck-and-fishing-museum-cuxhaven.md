@@ -4,13 +4,13 @@ site_name: "Windstärke 10 – Shipwreck and Fishing Museum Cuxhaven"
 date: 2026-01-26
 draft: false
 description: "museum in Cuxhaven, Germany"
-region: "Cuxhaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cuxhaven"
+  - "Lower Saxony"
 wikidata_id: "Q1420035"
 latitude: 53.8623
 longitude: 8.70667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/400px-Windstärke_10_außen_a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/800px-Windstärke_10_außen_a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/1200px-Windstärke_10_außen_a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/1920px-Windstärke_10_außen_a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/1920px-Windstärke_10_außen_a.jpg---
 
 ## Overview
 

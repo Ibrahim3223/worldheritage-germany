@@ -4,13 +4,13 @@ site_name: "Aula Palatina"
 date: 2026-01-26
 draft: false
 description: "ecclesiastical building in Trier, Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q686773"
 latitude: 49.753333333
 longitude: 6.643333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/400px-00_0099_Trier_-_Konstantinbasilika.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/800px-00_0099_Trier_-_Konstantinbasilika.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/1200px-00_0099_Trier_-_Konstantinbasilika.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/1920px-00_0099_Trier_-_Konstantinbasilika.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/1920px-00_0099_Trier_-_Konstantinbasilika.jpg---
 
 ## Overview
 

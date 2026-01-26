@@ -4,13 +4,13 @@ site_name: "Äulemer Kreuz"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q258177"
 latitude: 47.827107
 longitude: 8.088163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/400px-Äulemer_Kreuz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/800px-Äulemer_Kreuz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1200px-Äulemer_Kreuz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1920px-Äulemer_Kreuz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1920px-Äulemer_Kreuz.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Altenburger Brauereimuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altenburg"
+  - "Saxony"
 wikidata_id: "Q4306419"
 latitude: 51.00052
 longitude: 12.43654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/400px-Brauereimuseum_Altenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/800px-Brauereimuseum_Altenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/1200px-Brauereimuseum_Altenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/1920px-Brauereimuseum_Altenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/1920px-Brauereimuseum_Altenburg.jpg---
 
 ## Overview
 

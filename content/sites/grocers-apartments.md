@@ -4,13 +4,13 @@ site_name: "Grocers' Apartments"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q877252"
 latitude: 53.548
 longitude: 9.9802
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/400px-Krameramthh040911_060.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/800px-Krameramthh040911_060.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/1200px-Krameramthh040911_060.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/1920px-Krameramthh040911_060.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/1920px-Krameramthh040911_060.jpg---
 
 ## Overview
 

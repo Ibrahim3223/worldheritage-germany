@@ -4,13 +4,13 @@ site_name: "Bergpark Wilhelmshöhe"
 date: 2026-01-26
 draft: false
 description: "landscape park with castle in Kassel, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "English Garden"
 categories:
   - "English Garden"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q447441"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/400px-18-09-20-Kassel-DJI_0101.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/800px-18-09-20-Kassel-DJI_0101.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/1200px-18-09-20-Kassel-DJI_0101.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/1920px-18-09-20-Kassel-DJI_0101.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/1920px-18-09-20-Kassel-DJI_0101.jpg---
 
 ## Overview
 

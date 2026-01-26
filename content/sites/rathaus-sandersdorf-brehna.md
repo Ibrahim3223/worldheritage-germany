@@ -4,13 +4,13 @@ site_name: "Rathaus Sandersdorf-Brehna"
 date: 2026-01-26
 draft: false
 description: "Haupt-Verwaltungssitz der Stadt Sandersdorf-Brehna im Landkreis Anhalt-Bitterfeld in Sachsen-Anhalt"
-region: "Sandersdorf-Brehna"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Sandersdorf-Brehna"
+  - "Brandenburg"
 wikidata_id: "Q113866480"
 latitude: 51.627483
 longitude: 12.26524
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/400px-Rathaus-Sandersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/800px-Rathaus-Sandersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/1200px-Rathaus-Sandersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/1920px-Rathaus-Sandersdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/1920px-Rathaus-Sandersdorf.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zietenplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin-Mitte"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q199265"
 latitude: 52.511833333
 longitude: 13.385277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/400px-Zietenplatz-straszenschild01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/800px-Zietenplatz-straszenschild01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/1200px-Zietenplatz-straszenschild01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/1920px-Zietenplatz-straszenschild01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/1920px-Zietenplatz-straszenschild01.JPG---
 
 ## Overview
 

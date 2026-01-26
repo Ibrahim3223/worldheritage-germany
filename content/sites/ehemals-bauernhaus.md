@@ -4,13 +4,13 @@ site_name: "Ehemals Bauernhaus"
 date: 2026-01-26
 draft: false
 description: "building in Weichs, Upper Bavaria, Germany"
-region: "Weichs"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weichs"
+  - "Bavaria"
 wikidata_id: "Q41239493"
 latitude: 48.38825
 longitude: 11.44186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/400px-Bauernhof-Museum_Weichs-Ebersbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/800px-Bauernhof-Museum_Weichs-Ebersbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/1200px-Bauernhof-Museum_Weichs-Ebersbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/1920px-Bauernhof-Museum_Weichs-Ebersbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/1920px-Bauernhof-Museum_Weichs-Ebersbach.jpg---
 
 ## Overview
 

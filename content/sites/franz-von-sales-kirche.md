@@ -4,13 +4,13 @@ site_name: "Franz-von-Sales-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Wersten, Germany"
-region: "Wersten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wersten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1445934"
 latitude: 51.1979
 longitude: 6.81146
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/400px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/800px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1200px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1920px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1920px-Franz-von-Sales-Kirche,_Duesseldorf.jpg---
 
 ## Overview
 

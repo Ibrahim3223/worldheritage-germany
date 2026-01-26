@@ -4,13 +4,13 @@ site_name: "Gut Strecknitz"
 date: 2026-01-26
 draft: false
 description: "building near Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1497604"
 latitude: 53.8328
 longitude: 10.7114
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/400px-WP_Gutshaus_Strecknitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/800px-WP_Gutshaus_Strecknitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/1200px-WP_Gutshaus_Strecknitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/1920px-WP_Gutshaus_Strecknitz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/1920px-WP_Gutshaus_Strecknitz.JPG---
 
 ## Overview
 

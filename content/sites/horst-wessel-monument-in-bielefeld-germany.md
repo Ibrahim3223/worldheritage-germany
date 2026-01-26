@@ -4,19 +4,18 @@ site_name: "Horst Wessel monument in Bielefeld, Germany"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1363616"
 latitude: 52.0229
 longitude: 8.52921
 images:
-  []
----
+  []---
 
 ## Overview
 

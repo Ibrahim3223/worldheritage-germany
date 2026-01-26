@@ -4,13 +4,13 @@ site_name: "Kunsthaus Kaufbeuren"
 date: 2026-01-26
 draft: false
 description: "art museum in Kaufbeuren, Bavaria, Germany"
-region: "Kaufbeuren"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Kaufbeuren"
+  - "Bavaria"
 wikidata_id: "Q1792446"
 latitude: 47.8811
 longitude: 10.6233
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/400px-Kaufbeuren,_Kunsthaus_(4).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/800px-Kaufbeuren,_Kunsthaus_(4).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/1200px-Kaufbeuren,_Kunsthaus_(4).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/1920px-Kaufbeuren,_Kunsthaus_(4).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/1920px-Kaufbeuren,_Kunsthaus_(4).JPG---
 
 ## Overview
 

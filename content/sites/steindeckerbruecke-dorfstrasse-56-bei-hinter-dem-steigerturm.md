@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Dorfstraße 56 (bei) (hinter dem Steigerturm)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Königshain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Königshain"
+  - "Saxony"
 wikidata_id: "Q49425495"
 latitude: 51.181274556
 longitude: 14.872610183
 images:
-  []
----
+  []---
 
 # Steindeckerbrücke Dorfstraße 56 (bei) (hinter dem Steigerturm) Guide
 

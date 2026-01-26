@@ -4,13 +4,13 @@ site_name: "Deutsches Film- und Fototechnik Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Deidesheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Deidesheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205623"
 latitude: 49.4075
 longitude: 8.18744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/400px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/800px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/1200px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/1920px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/1920px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg---
 
 ## Overview
 

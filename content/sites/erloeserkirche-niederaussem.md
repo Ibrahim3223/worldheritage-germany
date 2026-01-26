@@ -4,13 +4,13 @@ site_name: "Erlöserkirche Niederaußem"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bergheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bergheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1355769"
 latitude: 50.981
 longitude: 6.67623
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/400px-Niederaußem_Erlöserkirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/800px-Niederaußem_Erlöserkirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/1200px-Niederaußem_Erlöserkirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/1920px-Niederaußem_Erlöserkirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/1920px-Niederaußem_Erlöserkirche_01.jpg---
 
 ## Overview
 

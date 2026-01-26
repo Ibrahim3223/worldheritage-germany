@@ -4,13 +4,13 @@ site_name: "Sachsenhain"
 date: 2026-01-26
 draft: false
 description: "memorial in Verden, Germany"
-region: "Verden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Verden"
+  - "Lower Saxony"
 wikidata_id: "Q2210617"
 latitude: 52.9456
 longitude: 9.225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/400px-Sachsenhain_Halsmühlen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/800px-Sachsenhain_Halsmühlen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/1200px-Sachsenhain_Halsmühlen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/1920px-Sachsenhain_Halsmühlen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/1920px-Sachsenhain_Halsmühlen.jpg---
 
 ## Overview
 

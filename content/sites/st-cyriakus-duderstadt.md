@@ -4,13 +4,13 @@ site_name: "St. Cyriakus (Duderstadt)"
 date: 2026-01-26
 draft: false
 description: "church building in Duderstadt, Germany"
-region: "Duderstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Duderstadt"
+  - "Hesse"
 wikidata_id: "Q2317925"
 latitude: 51.512667
 longitude: 10.263578
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/400px-Domduderstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/800px-Domduderstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/1200px-Domduderstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/1920px-Domduderstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/1920px-Domduderstadt.jpg---
 
 ## Overview
 

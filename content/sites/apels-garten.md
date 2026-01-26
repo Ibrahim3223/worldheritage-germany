@@ -4,19 +4,18 @@ site_name: "Apels Garten"
 date: 2026-01-26
 draft: false
 description: "garden in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q618165"
 latitude: 51.3381
 longitude: 12.368
 images:
-  []
----
+  []---
 
 ## Overview
 

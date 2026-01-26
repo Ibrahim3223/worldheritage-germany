@@ -4,13 +4,13 @@ site_name: "Burg Hermülheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hürth"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hürth"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012314"
 latitude: 50.8828
 longitude: 6.87957
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/400px-Huerth-Hermuelheim-Burgpark-008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/800px-Huerth-Hermuelheim-Burgpark-008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/1200px-Huerth-Hermuelheim-Burgpark-008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/1920px-Huerth-Hermuelheim-Burgpark-008.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/1920px-Huerth-Hermuelheim-Burgpark-008.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Bocholt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bocholt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bocholt"
+  - "Lower Saxony"
 wikidata_id: "Q1764244"
 latitude: 51.8381
 longitude: 6.62006
 images:
-  []
----
+  []---
 
 ## Overview
 

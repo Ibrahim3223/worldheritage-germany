@@ -4,13 +4,13 @@ site_name: "Burg Klingenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Blaustein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Blaustein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012685"
 latitude: 48.4166
 longitude: 9.903
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Klingenstein.jpg/400px-Burg_Klingenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Klingenstein.jpg/800px-Burg_Klingenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Klingenstein.jpg/1200px-Burg_Klingenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Klingenstein.jpg/1920px-Burg_Klingenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Klingenstein.jpg/1920px-Burg_Klingenstein.jpg---
 
 ## Overview
 

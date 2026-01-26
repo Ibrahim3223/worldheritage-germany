@@ -4,13 +4,13 @@ site_name: "Klimahaus Bremerhaven"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q469084"
 latitude: 53.5434
 longitude: 8.5744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bremerhaven_Riesenradblick_1.jpg/400px-Bremerhaven_Riesenradblick_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bremerhaven_Riesenradblick_1.jpg/800px-Bremerhaven_Riesenradblick_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bremerhaven_Riesenradblick_1.jpg/1200px-Bremerhaven_Riesenradblick_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bremerhaven_Riesenradblick_1.jpg/1920px-Bremerhaven_Riesenradblick_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bremerhaven_Riesenradblick_1.jpg/1920px-Bremerhaven_Riesenradblick_1.jpg---
 
 ## Overview
 

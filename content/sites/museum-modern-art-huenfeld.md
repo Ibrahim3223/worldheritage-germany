@@ -4,19 +4,18 @@ site_name: "Museum Modern Art Hünfeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hünfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hünfeld"
+  - "Hesse"
 wikidata_id: "Q11786767"
 latitude: 50.6797961
 longitude: 9.7612286
 images:
-  []
----
+  []---
 
 ## Overview
 

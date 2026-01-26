@@ -4,13 +4,13 @@ site_name: "Nepomukstatue"
 date: 2026-01-26
 draft: false
 description: "Statue in Heilbronn, Baden-Württemberg"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1674388"
 latitude: 49.1837
 longitude: 9.11145
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/400px-15NepomukPoststrasse.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/800px-15NepomukPoststrasse.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/1200px-15NepomukPoststrasse.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/1920px-15NepomukPoststrasse.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/1920px-15NepomukPoststrasse.JPG---
 
 ## Overview
 

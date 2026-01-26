@@ -4,13 +4,13 @@ site_name: "St. John's Church"
 date: 2026-01-26
 draft: false
 description: "Lutheran church in Lüneburg, Germany"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q319037"
 latitude: 53.247831
 longitude: 10.412772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lueneburg_St_Johannis_IMGP9335_wp.jpg/400px-Lueneburg_St_Johannis_IMGP9335_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lueneburg_St_Johannis_IMGP9335_wp.jpg/800px-Lueneburg_St_Johannis_IMGP9335_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lueneburg_St_Johannis_IMGP9335_wp.jpg/1200px-Lueneburg_St_Johannis_IMGP9335_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lueneburg_St_Johannis_IMGP9335_wp.jpg/1920px-Lueneburg_St_Johannis_IMGP9335_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lueneburg_St_Johannis_IMGP9335_wp.jpg/1920px-Lueneburg_St_Johannis_IMGP9335_wp.jpg---
 
 ## Overview
 

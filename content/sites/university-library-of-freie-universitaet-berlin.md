@@ -4,13 +4,13 @@ site_name: "University Library of Freie Universität Berlin"
 date: 2026-01-26
 draft: false
 description: "academic library of the Freie Universität Berlin in Berlin, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q2496344"
 latitude: 52.4481
 longitude: 13.2775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg/400px-Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg/800px-Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg/1200px-Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg/1920px-Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg/1920px-Freie_Universitaet_Berlin_-_Universitaetsbibliothek_-_Eingang_Garystrasse.jpg---
 
 ## Overview
 

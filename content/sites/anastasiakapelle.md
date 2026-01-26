@@ -4,13 +4,13 @@ site_name: "Anastasiakapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Benediktbeuern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Benediktbeuern"
+  - "Bavaria"
 wikidata_id: "Q486711"
 latitude: 47.7078
 longitude: 11.3995
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Benediktbeuren,_Kloster.jpg/400px-Benediktbeuren,_Kloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Benediktbeuren,_Kloster.jpg/800px-Benediktbeuren,_Kloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Benediktbeuren,_Kloster.jpg/1200px-Benediktbeuren,_Kloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Benediktbeuren,_Kloster.jpg/1920px-Benediktbeuren,_Kloster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Benediktbeuren,_Kloster.jpg/1920px-Benediktbeuren,_Kloster.jpg---
 
 ## Overview
 

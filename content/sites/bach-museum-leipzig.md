@@ -4,13 +4,13 @@ site_name: "Bach-Museum Leipzig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Zentrum"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zentrum"
+  - "Saxony"
 wikidata_id: "Q18748122"
 latitude: 51.33865
 longitude: 12.37226
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/400px-Bosehaus_Leipzig_Straßenfront_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/800px-Bosehaus_Leipzig_Straßenfront_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/1200px-Bosehaus_Leipzig_Straßenfront_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/1920px-Bosehaus_Leipzig_Straßenfront_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/1920px-Bosehaus_Leipzig_Straßenfront_1.jpg---
 
 ## Overview
 

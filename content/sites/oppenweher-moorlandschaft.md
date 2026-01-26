@@ -4,13 +4,13 @@ site_name: "Oppenweher Moorlandschaft"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Germany"
-region: "Stemwede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Stemwede"
+  - "Lower Saxony"
 wikidata_id: "Q451376"
 latitude: 52.4953
 longitude: 8.51515
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/400px-Oppenweher_Moor_NRW,_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/800px-Oppenweher_Moor_NRW,_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/1200px-Oppenweher_Moor_NRW,_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/1920px-Oppenweher_Moor_NRW,_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/1920px-Oppenweher_Moor_NRW,_01.jpg---
 
 ## Overview
 

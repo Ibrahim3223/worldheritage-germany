@@ -4,13 +4,13 @@ site_name: "Wesermühlen"
 date: 2026-01-26
 draft: false
 description: "Wassermühlen an der Weser in Hameln"
-region: "Hamelin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Hamelin"
+  - "Lower Saxony"
 wikidata_id: "Q1539531"
 latitude: 52.1043
 longitude: 9.35369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wesermühlen_um_1900.jpg/400px-Wesermühlen_um_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wesermühlen_um_1900.jpg/800px-Wesermühlen_um_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wesermühlen_um_1900.jpg/1200px-Wesermühlen_um_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wesermühlen_um_1900.jpg/1920px-Wesermühlen_um_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wesermühlen_um_1900.jpg/1920px-Wesermühlen_um_1900.jpg---
 
 ## Overview
 

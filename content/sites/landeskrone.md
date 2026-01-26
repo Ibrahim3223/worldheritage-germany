@@ -4,13 +4,13 @@ site_name: "Landeskrone"
 date: 2026-01-26
 draft: false
 description: "hill in Görlitz, Germany"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q1391718"
 latitude: 51.1286
 longitude: 14.9328
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/400px-Landeskrone.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/800px-Landeskrone.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/1200px-Landeskrone.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/1920px-Landeskrone.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/1920px-Landeskrone.jpg---
 
 ## Overview
 

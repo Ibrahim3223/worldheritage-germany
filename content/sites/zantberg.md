@@ -4,13 +4,13 @@ site_name: "Zantberg"
 date: 2026-01-26
 draft: false
 description: "mountain in Germany"
-region: "Hirschbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Hirschbach"
+  - "Bavaria"
 wikidata_id: "Q147026"
 latitude: 49.5703
 longitude: 11.6377
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2018_Zantberg_02.jpg/400px-2018_Zantberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2018_Zantberg_02.jpg/800px-2018_Zantberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2018_Zantberg_02.jpg/1200px-2018_Zantberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2018_Zantberg_02.jpg/1920px-2018_Zantberg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2018_Zantberg_02.jpg/1920px-2018_Zantberg_02.jpg---
 
 ## Overview
 

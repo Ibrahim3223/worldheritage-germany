@@ -4,13 +4,13 @@ site_name: "Weimarhaus"
 date: 2026-01-26
 draft: false
 description: "history museum in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1527926"
 latitude: 50.9793
 longitude: 11.3269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/400px-Weimarhaus1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/800px-Weimarhaus1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/1200px-Weimarhaus1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/1920px-Weimarhaus1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/1920px-Weimarhaus1.jpg---
 
 ## Overview
 

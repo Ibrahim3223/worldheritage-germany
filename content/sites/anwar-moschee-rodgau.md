@@ -4,13 +4,13 @@ site_name: "Anwar-Moschee (Rodgau)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Rodgau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Rodgau"
+  - "Hesse"
 wikidata_id: "Q613175"
 latitude: 50.0251
 longitude: 8.89694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/400px-Anwar-Moschee_Rodgau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/800px-Anwar-Moschee_Rodgau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/1200px-Anwar-Moschee_Rodgau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/1920px-Anwar-Moschee_Rodgau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/1920px-Anwar-Moschee_Rodgau.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Timber-framed synagogue of Detmold"
 date: 2026-01-26
 draft: false
 description: "Detmold synagogue (1742–1905)"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1391593"
 latitude: 51.9341
 longitude: 8.87929
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/400px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/800px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/1200px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/1920px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/1920px-Detmold_-_006_-_Exterstraße_8A_(2).JPG---
 
 ## Overview
 

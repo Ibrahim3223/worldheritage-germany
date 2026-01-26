@@ -4,13 +4,13 @@ site_name: "Erich-Mäder-Glasmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Delligsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Delligsen"
+  - "Lower Saxony"
 wikidata_id: "Q41918513"
 latitude: 51.955277777
 longitude: 9.744444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/400px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/800px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/1200px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/1920px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/1920px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG---
 
 ## Overview
 

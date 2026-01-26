@@ -4,19 +4,18 @@ site_name: "Vonderau Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fulda"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fulda"
+  - "Bavaria"
 wikidata_id: "Q2533311"
 latitude: 50.5511
 longitude: 9.67861
 images:
-  []
----
+  []---
 
 ## Overview
 

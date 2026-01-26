@@ -4,19 +4,18 @@ site_name: "Landesbibliothekszentrum Rheinland-Pfalz"
 date: 2026-01-26
 draft: false
 description: "bibliothekarische Dienstleistungseinrichtung"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1802141"
 latitude: 50.349555
 longitude: 7.5894703
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bachhaus Eisenach, Bibliothek"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q28739444"
 latitude: 50.9715
 longitude: 10.32207
 images:
-  []
----
+  []---
 
 ## Overview
 

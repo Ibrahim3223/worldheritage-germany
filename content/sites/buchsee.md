@@ -4,19 +4,18 @@ site_name: "Buchsee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q998781"
 latitude: 53.212030555
 longitude: 12.961061111
 images:
-  []
----
+  []---
 
 ## Overview
 

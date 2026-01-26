@@ -4,13 +4,13 @@ site_name: "Basilika St. Margareta"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf, Germany"
-region: "Gerresheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gerresheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q810113"
 latitude: 51.2371
 longitude: 6.86296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/400px-Düsseldorf_St_Margaretha_v_S.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/800px-Düsseldorf_St_Margaretha_v_S.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/1200px-Düsseldorf_St_Margaretha_v_S.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/1920px-Düsseldorf_St_Margaretha_v_S.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/1920px-Düsseldorf_St_Margaretha_v_S.jpg---
 
 ## Overview
 

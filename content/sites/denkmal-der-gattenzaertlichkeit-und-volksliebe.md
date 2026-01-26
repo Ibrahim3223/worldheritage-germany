@@ -4,13 +4,13 @@ site_name: "Denkmal der Gattenzärtlichkeit und Volksliebe"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1187977"
 latitude: 48.7771
 longitude: 9.18072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/400px-Denkmal_Planie.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/800px-Denkmal_Planie.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/1200px-Denkmal_Planie.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/1920px-Denkmal_Planie.PNG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/1920px-Denkmal_Planie.PNG---
 
 ## Overview
 

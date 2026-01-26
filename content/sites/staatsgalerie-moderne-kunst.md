@@ -4,19 +4,18 @@ site_name: "Staatsgalerie Moderne Kunst"
 date: 2026-01-26
 draft: false
 description: "museum in Augsburg"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q892078"
 latitude: 48.3675
 longitude: 10.9197
 images:
-  []
----
+  []---
 
 ## Overview
 

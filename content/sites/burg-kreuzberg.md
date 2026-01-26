@@ -4,13 +4,13 @@ site_name: "Burg Kreuzberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012738"
 latitude: 50.5093
 longitude: 6.97544
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/400px-Burg_Kreuzberg_im_Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/800px-Burg_Kreuzberg_im_Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/1200px-Burg_Kreuzberg_im_Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/1920px-Burg_Kreuzberg_im_Sommer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/1920px-Burg_Kreuzberg_im_Sommer.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Wildpark Schwarze Berge"
 date: 2026-01-26
 draft: false
 description: "Wildpark westlich von Hamburg-Harburg"
-region: "Rosengarten"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Rosengarten"
+  - "Hamburg"
 wikidata_id: "Q2570846"
 latitude: 53.4408
 longitude: 9.88444
 images:
-  []
----
+  []---
 
 ## Overview
 

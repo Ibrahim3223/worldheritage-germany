@@ -4,13 +4,13 @@ site_name: "White Crosses"
 date: 2026-01-26
 draft: false
 description: "memorial site next to the Reichstag building in Berlin, Germany, commemorating those who died at the Berlin Wall"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q826369"
 latitude: 52.519635
 longitude: 13.376831
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/400px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/800px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/1200px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/1920px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/1920px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Hans-Kock-Stiftung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schilksee"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Schilksee"
+  - "Schleswig-Holstein"
 wikidata_id: "Q76638808"
 latitude: 54.408591
 longitude: 10.149391
 images:
-  []
----
+  []---
 
 ## Overview
 

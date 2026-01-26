@@ -4,13 +4,13 @@ site_name: "Kiel Transmission Tower"
 date: 2026-01-26
 draft: false
 description: "Transmission tower in Kiel"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q895816"
 latitude: 54.300555555
 longitude: 10.118333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-06-08_-_Fernmeldeturm_Kiel_02.jpg/400px-2018-06-08_-_Fernmeldeturm_Kiel_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-06-08_-_Fernmeldeturm_Kiel_02.jpg/800px-2018-06-08_-_Fernmeldeturm_Kiel_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-06-08_-_Fernmeldeturm_Kiel_02.jpg/1200px-2018-06-08_-_Fernmeldeturm_Kiel_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-06-08_-_Fernmeldeturm_Kiel_02.jpg/1920px-2018-06-08_-_Fernmeldeturm_Kiel_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-06-08_-_Fernmeldeturm_Kiel_02.jpg/1920px-2018-06-08_-_Fernmeldeturm_Kiel_02.jpg---
 
 ## Overview
 

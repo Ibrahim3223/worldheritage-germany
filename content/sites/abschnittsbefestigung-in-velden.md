@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung in Velden"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.610375/E11.511908"
-region: "Velden"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Velden"
+  - "Bavaria"
 wikidata_id: "Q58340081"
 latitude: 49.610375
 longitude: 11.511908
 images:
-  []
----
+  []---
 
 ## Overview
 

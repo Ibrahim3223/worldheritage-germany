@@ -4,13 +4,13 @@ site_name: "Synagoge Baisingen"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Rottenburg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rottenburg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1441720"
 latitude: 48.5049
 longitude: 8.77412
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BaisingenSynagoge.jpg/400px-BaisingenSynagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BaisingenSynagoge.jpg/800px-BaisingenSynagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BaisingenSynagoge.jpg/1200px-BaisingenSynagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BaisingenSynagoge.jpg/1920px-BaisingenSynagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BaisingenSynagoge.jpg/1920px-BaisingenSynagoge.jpg---
 
 ## Overview
 

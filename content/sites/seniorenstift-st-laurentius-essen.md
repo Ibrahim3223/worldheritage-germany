@@ -4,13 +4,13 @@ site_name: "Seniorenstift St. Laurentius Essen"
 date: 2026-01-26
 draft: false
 description: "Seniorenheim in Essen, Nordrhein-Westfalen"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q18027812"
 latitude: 51.446921
 longitude: 7.070439
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/400px-Laurentius_Wohnheim_Steele.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/800px-Laurentius_Wohnheim_Steele.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/1200px-Laurentius_Wohnheim_Steele.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/1920px-Laurentius_Wohnheim_Steele.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/1920px-Laurentius_Wohnheim_Steele.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Niederasphe"
 date: 2026-01-26
 draft: false
 description: "demolished castle in Germany"
-region: "Niederasphe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Niederasphe"
+  - "Hesse"
 wikidata_id: "Q1013319"
 latitude: 50.938
 longitude: 8.65958
 images:
-  []
----
+  []---
 
 ## Overview
 

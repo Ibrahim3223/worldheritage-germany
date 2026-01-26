@@ -4,13 +4,13 @@ site_name: "Öchsen"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Wartburgkreis"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Wartburgkreis"
+  - "Hesse"
 wikidata_id: "Q293896"
 latitude: 50.8004
 longitude: 10.0276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WAK_Badelachen_03.jpg/400px-WAK_Badelachen_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WAK_Badelachen_03.jpg/800px-WAK_Badelachen_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WAK_Badelachen_03.jpg/1200px-WAK_Badelachen_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WAK_Badelachen_03.jpg/1920px-WAK_Badelachen_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WAK_Badelachen_03.jpg/1920px-WAK_Badelachen_03.jpg---
 
 ## Overview
 

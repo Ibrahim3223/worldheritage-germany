@@ -4,19 +4,18 @@ site_name: "Ostfriesisches Teemuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Norden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Norden"
+  - "Lower Saxony"
 wikidata_id: "Q2035527"
 latitude: 53.5947
 longitude: 7.20242
 images:
-  []
----
+  []---
 
 ## Overview
 

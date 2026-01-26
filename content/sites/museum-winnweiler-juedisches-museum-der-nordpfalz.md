@@ -4,13 +4,13 @@ site_name: "Museum Winnweiler - Jüdisches Museum der Nordpfalz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Winnweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Winnweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q37566766"
 latitude: 49.57015
 longitude: 7.85327
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_Schloßstr.37_Winnweiler.jpg/400px-Museum_Schloßstr.37_Winnweiler.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_Schloßstr.37_Winnweiler.jpg/800px-Museum_Schloßstr.37_Winnweiler.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_Schloßstr.37_Winnweiler.jpg/1200px-Museum_Schloßstr.37_Winnweiler.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_Schloßstr.37_Winnweiler.jpg/1920px-Museum_Schloßstr.37_Winnweiler.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_Schloßstr.37_Winnweiler.jpg/1920px-Museum_Schloßstr.37_Winnweiler.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Taubergießen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Schwanau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Schwanau"
+  - "Baden-Württemberg"
 wikidata_id: "Q897253"
 latitude: 48.2553
 longitude: 7.69083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/400px-Taubergiessen_fg2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/800px-Taubergiessen_fg2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/1200px-Taubergiessen_fg2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/1920px-Taubergiessen_fg2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/1920px-Taubergiessen_fg2.jpg---
 
 ## Overview
 

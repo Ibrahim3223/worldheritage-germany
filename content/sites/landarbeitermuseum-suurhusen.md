@@ -4,19 +4,18 @@ site_name: "Landarbeitermuseum Suurhusen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hinte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hinte"
+  - "Lower Saxony"
 wikidata_id: "Q15118067"
 latitude: 53.415752
 longitude: 7.222816
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bockwindmühle Pechau"
 date: 2026-01-26
 draft: false
 description: "Bockwindmühle im Magdeburger Stadtteil Pechau"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q889316"
 latitude: 52.0942
 longitude: 11.715
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/400px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/800px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/1200px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/1920px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/1920px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Lyrik-Kabinett"
 date: 2026-01-26
 draft: false
 description: "Lesegesellschaft"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1878943"
 latitude: 48.1513693
 longitude: 11.5784492
 images:
-  []
----
+  []---
 
 ## Overview
 

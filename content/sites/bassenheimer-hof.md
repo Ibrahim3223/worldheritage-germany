@@ -4,13 +4,13 @@ site_name: "Bassenheimer Hof"
 date: 2026-01-26
 draft: false
 description: "building"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q810492"
 latitude: 49.9978
 longitude: 8.26778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/400px-Mainz_Bassenheimer_Hof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/800px-Mainz_Bassenheimer_Hof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/1200px-Mainz_Bassenheimer_Hof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/1920px-Mainz_Bassenheimer_Hof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/1920px-Mainz_Bassenheimer_Hof.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Saint Alexander Church"
 date: 2026-01-26
 draft: false
 description: "Gothic church building in Marbach am Neckar, Germany"
-region: "Marbach am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marbach am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1591423"
 latitude: 48.9426
 longitude: 9.26
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/400px-Alexanderkirche_in_Marbach_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/800px-Alexanderkirche_in_Marbach_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/1200px-Alexanderkirche_in_Marbach_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/1920px-Alexanderkirche_in_Marbach_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/1920px-Alexanderkirche_in_Marbach_-_panoramio.jpg---
 
 ## Overview
 

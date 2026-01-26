@@ -4,13 +4,13 @@ site_name: "Schloss Detmold"
 date: 2026-01-26
 draft: false
 description: "German palace"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1483652"
 latitude: 51.9365
 longitude: 8.87707
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Residenzschloss_Detmold01.jpg/400px-Residenzschloss_Detmold01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Residenzschloss_Detmold01.jpg/800px-Residenzschloss_Detmold01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Residenzschloss_Detmold01.jpg/1200px-Residenzschloss_Detmold01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Residenzschloss_Detmold01.jpg/1920px-Residenzschloss_Detmold01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Residenzschloss_Detmold01.jpg/1920px-Residenzschloss_Detmold01.jpg---
 
 ## Overview
 

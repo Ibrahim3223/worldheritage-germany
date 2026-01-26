@@ -4,13 +4,13 @@ site_name: "Clemenskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Münster-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q332625"
 latitude: 51.960739
 longitude: 7.630967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/400px-Münster,_Clemenskirche_--_2014_--_3997.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/800px-Münster,_Clemenskirche_--_2014_--_3997.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1200px-Münster,_Clemenskirche_--_2014_--_3997.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1920px-Münster,_Clemenskirche_--_2014_--_3997.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1920px-Münster,_Clemenskirche_--_2014_--_3997.jpg---
 
 ## Overview
 

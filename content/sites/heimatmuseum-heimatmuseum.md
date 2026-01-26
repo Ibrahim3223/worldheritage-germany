@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Heimatmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629705"
 latitude: 49.672608
 longitude: 12.331468
 images:
-  []
----
+  []---
 
 ## Overview
 

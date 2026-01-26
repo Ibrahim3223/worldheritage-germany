@@ -4,13 +4,13 @@ site_name: "St. Albertus Magnus"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Golzheim, Germany"
-region: "Golzheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Golzheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2316905"
 latitude: 51.2488
 longitude: 6.76706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/400px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/800px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1200px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1920px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1920px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg---
 
 ## Overview
 

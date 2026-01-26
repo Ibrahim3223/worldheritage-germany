@@ -4,13 +4,13 @@ site_name: "documenta-Halle"
 date: 2026-01-26
 draft: false
 description: "building in Kassel, Germany"
-region: "Mitte"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mitte"
+  - "Hesse"
 wikidata_id: "Q282932"
 latitude: 51.3119
 longitude: 9.49917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/400px-Documenta-Halle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/800px-Documenta-Halle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/1200px-Documenta-Halle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/1920px-Documenta-Halle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/1920px-Documenta-Halle.jpg---
 
 ## Overview
 

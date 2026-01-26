@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über das Mittelwasser Schlägenweg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wachau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wachau"
+  - "Saxony"
 wikidata_id: "Q49406258"
 latitude: 51.201458
 longitude: 13.889567
 images:
-  []
----
+  []---
 
 ## Overview
 

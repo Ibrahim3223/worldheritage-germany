@@ -4,19 +4,18 @@ site_name: "Wildwald Voßwinkel"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Arnsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Arnsberg"
+  - "Hesse"
 wikidata_id: "Q2570929"
 latitude: 51.4575
 longitude: 7.88278
 images:
-  []
----
+  []---
 
 ## Overview
 

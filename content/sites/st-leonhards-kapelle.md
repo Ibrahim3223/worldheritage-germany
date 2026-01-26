@@ -4,13 +4,13 @@ site_name: "St.-Leonhards-Kapelle"
 date: 2026-01-26
 draft: false
 description: "building in Scheer, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Scheer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Scheer"
+  - "Baden-Württemberg"
 wikidata_id: "Q1685279"
 latitude: 48.0767
 longitude: 9.29528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/400px-Sankt_Leonhards-Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/800px-Sankt_Leonhards-Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/1200px-Sankt_Leonhards-Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/1920px-Sankt_Leonhards-Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/1920px-Sankt_Leonhards-Kapelle.jpg---
 
 ## Overview
 

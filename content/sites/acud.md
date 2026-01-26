@@ -4,13 +4,13 @@ site_name: "ACUD"
 date: 2026-01-26
 draft: false
 description: "cultural center and cinema in Mitte, Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q288846"
 latitude: 52.5334
 longitude: 13.4009
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/400px-Berlin-ACUD.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/800px-Berlin-ACUD.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1200px-Berlin-ACUD.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1920px-Berlin-ACUD.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1920px-Berlin-ACUD.JPG---
 
 ## Overview
 

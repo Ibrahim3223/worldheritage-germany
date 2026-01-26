@@ -4,19 +4,18 @@ site_name: "Deutsche AIDS-Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1201995"
 latitude: 50.733627
 longitude: 7.096537
 images:
-  []
----
+  []---
 
 ## Overview
 

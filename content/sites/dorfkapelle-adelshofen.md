@@ -4,13 +4,13 @@ site_name: "Dorfkapelle Adelshofen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bad Wurzach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Wurzach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1244026"
 latitude: 47.974395
 longitude: 9.873394
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/400px-Dorfkapelle_Adelshofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/800px-Dorfkapelle_Adelshofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/1200px-Dorfkapelle_Adelshofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/1920px-Dorfkapelle_Adelshofen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/1920px-Dorfkapelle_Adelshofen.jpg---
 
 ## Overview
 

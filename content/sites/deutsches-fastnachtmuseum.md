@@ -4,13 +4,13 @@ site_name: "Deutsches Fastnachtmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Kitzingen, Germany"
-region: "Kitzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kitzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205610"
 latitude: 49.7362
 longitude: 10.1594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/400px-Deutsches_Fastnachtsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/800px-Deutsches_Fastnachtsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/1200px-Deutsches_Fastnachtsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/1920px-Deutsches_Fastnachtsmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/1920px-Deutsches_Fastnachtsmuseum.jpg---
 
 ## Overview
 

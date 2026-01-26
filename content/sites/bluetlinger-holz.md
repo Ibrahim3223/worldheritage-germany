@@ -4,13 +4,13 @@ site_name: "Blütlinger Holz"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wustrow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wustrow"
+  - "Lower Saxony"
 wikidata_id: "Q887265"
 latitude: 52.9011
 longitude: 11.1058
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/400px-BluetlingerHolz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/800px-BluetlingerHolz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/1200px-BluetlingerHolz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/1920px-BluetlingerHolz1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/1920px-BluetlingerHolz1.jpg---
 
 ## Overview
 

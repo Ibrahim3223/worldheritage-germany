@@ -4,13 +4,13 @@ site_name: "Ordensburg Vogelsang"
 date: 2026-01-26
 draft: false
 description: "former Nazi elite school in Germany"
-region: "Schleiden"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schleiden"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151195"
 latitude: 50.5844
 longitude: 6.44806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/400px-Burg_Vogelsang.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/800px-Burg_Vogelsang.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/1200px-Burg_Vogelsang.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/1920px-Burg_Vogelsang.PNG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/1920px-Burg_Vogelsang.PNG---
 
 ## Overview
 

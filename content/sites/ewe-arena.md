@@ -4,13 +4,13 @@ site_name: "EWE Arena"
 date: 2026-01-26
 draft: false
 description: "multi-purpose halls in Oldenburg, Lower Saxony"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q879570"
 latitude: 53.146944
 longitude: 8.226667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/400px-Ewearena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/800px-Ewearena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1200px-Ewearena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1920px-Ewearena.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1920px-Ewearena.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bieförthmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Neustadt am Rübenberge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Neustadt am Rübenberge"
+  - "Lower Saxony"
 wikidata_id: "Q857186"
 latitude: 52.523611111
 longitude: 9.255555555
 images:
-  []
----
+  []---
 
 ## Overview
 

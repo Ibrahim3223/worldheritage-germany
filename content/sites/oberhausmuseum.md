@@ -4,13 +4,13 @@ site_name: "Oberhausmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Passau, Germany"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q2009806"
 latitude: 48.5775
 longitude: 13.4709
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Veste_Oberhaus_GO-2.jpg/400px-Veste_Oberhaus_GO-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Veste_Oberhaus_GO-2.jpg/800px-Veste_Oberhaus_GO-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Veste_Oberhaus_GO-2.jpg/1200px-Veste_Oberhaus_GO-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Veste_Oberhaus_GO-2.jpg/1920px-Veste_Oberhaus_GO-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Veste_Oberhaus_GO-2.jpg/1920px-Veste_Oberhaus_GO-2.jpg---
 
 ## Overview
 

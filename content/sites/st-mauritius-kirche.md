@@ -4,13 +4,13 @@ site_name: "St.-Mauritius-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Friedeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1569370"
 latitude: 53.4525
 longitude: 7.94204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/400px-ChurchHorsten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/800px-ChurchHorsten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/1200px-ChurchHorsten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/1920px-ChurchHorsten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/1920px-ChurchHorsten.JPG---
 
 ## Overview
 

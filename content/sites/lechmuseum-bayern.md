@@ -4,13 +4,13 @@ site_name: "Lechmuseum Bayern"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Langweid am Lech"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Langweid am Lech"
+  - "Bavaria"
 wikidata_id: "Q1811346"
 latitude: 48.498289107
 longitude: 10.866950703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/400px-Lechmuseum_Bayern,_2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/800px-Lechmuseum_Bayern,_2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/1200px-Lechmuseum_Bayern,_2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/1920px-Lechmuseum_Bayern,_2024.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/1920px-Lechmuseum_Bayern,_2024.jpg---
 
 ## Overview
 

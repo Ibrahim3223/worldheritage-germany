@@ -4,13 +4,13 @@ site_name: "Schiller-Denkmal München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-4425 (2) in München, Bavaria"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q21931552"
 latitude: 48.14245961
 longitude: 11.572852248
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG/400px-Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG/800px-Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG/1200px-Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG/1920px-Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG/1920px-Monumento_a_Schiller,_Maximiliansplatz,_Múnich,_Alemania,_2012-04-30,_DD_01.JPG---
 
 ## Overview
 

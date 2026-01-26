@@ -4,13 +4,13 @@ site_name: "Burg Zusameck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dinkelscherben"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Dinkelscherben"
+  - "Bavaria"
 wikidata_id: "Q1014685"
 latitude: 48.3521
 longitude: 10.594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Zusameck.jpg/400px-Burg_Zusameck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Zusameck.jpg/800px-Burg_Zusameck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Zusameck.jpg/1200px-Burg_Zusameck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Zusameck.jpg/1920px-Burg_Zusameck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Zusameck.jpg/1920px-Burg_Zusameck.jpg---
 
 ## Overview
 

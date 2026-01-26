@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Pfaffenhausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629075"
 latitude: 48.118993
 longitude: 10.452729
 images:
-  []
----
+  []---
 
 ## Overview
 

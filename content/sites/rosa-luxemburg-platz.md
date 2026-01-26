@@ -4,13 +4,13 @@ site_name: "Rosa-Luxemburg-Platz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q659158"
 latitude: 52.5269
 longitude: 13.4111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/400px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/800px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/1200px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/1920px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/1920px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg---
 
 ## Overview
 

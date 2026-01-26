@@ -4,19 +4,18 @@ site_name: "Kleinhäuslermuseum Pförring"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Q505785"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Q505785"
+  - "Bavaria"
 wikidata_id: "Q76629094"
 latitude: 48.809858333
 longitude: 11.685944444
 images:
-  []
----
+  []---
 
 ## Overview
 

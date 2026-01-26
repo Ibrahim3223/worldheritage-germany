@@ -4,13 +4,13 @@ site_name: "Old synagoge, Flehingen"
 date: 2026-01-26
 draft: false
 description: "18th-century synagogue in Flehingen in use until 1874 and demolished in 2016"
-region: "Oberderdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Oberderdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q436289"
 latitude: 49.0884
 longitude: 8.78046
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/400px-Flehingen_Alte_Synagoge193.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/800px-Flehingen_Alte_Synagoge193.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/1200px-Flehingen_Alte_Synagoge193.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/1920px-Flehingen_Alte_Synagoge193.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/1920px-Flehingen_Alte_Synagoge193.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Waldnaabtalmuseum in der Burg Neuhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629802"
 latitude: 49.799473
 longitude: 12.164327
 images:
-  []
----
+  []---
 
 ## Overview
 

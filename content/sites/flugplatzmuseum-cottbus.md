@@ -4,13 +4,13 @@ site_name: "Flugplatzmuseum Cottbus"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q1433963"
 latitude: 51.765503
 longitude: 14.295296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flugplatzmuseum_Cottbus.png/400px-Flugplatzmuseum_Cottbus.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flugplatzmuseum_Cottbus.png/800px-Flugplatzmuseum_Cottbus.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flugplatzmuseum_Cottbus.png/1200px-Flugplatzmuseum_Cottbus.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flugplatzmuseum_Cottbus.png/1920px-Flugplatzmuseum_Cottbus.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flugplatzmuseum_Cottbus.png/1920px-Flugplatzmuseum_Cottbus.png---
 
 ## Overview
 

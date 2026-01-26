@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ahlberg.jpg/400px-Ahlberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ahlberg.jpg/800px-Ahlberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ahlberg.jpg/1200px-Ahlberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ahlberg.jpg/1920px-Ahlberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ahlberg.jpg/1920px-Ahlberg.jpg---
 
 ## Overview
 

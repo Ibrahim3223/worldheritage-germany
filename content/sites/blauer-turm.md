@@ -4,13 +4,13 @@ site_name: "Blauer Turm"
 date: 2026-01-26
 draft: false
 description: "demolished tower in Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q882734"
 latitude: 53.8697
 longitude: 10.6798
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/400px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/800px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/1200px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/1920px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/1920px-Blauer_Turm,_Ansicht_von_NW.tif.jpg---
 
 ## Overview
 

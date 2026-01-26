@@ -4,13 +4,13 @@ site_name: "Fridericianum"
 date: 2026-01-26
 draft: false
 description: "museum in Kassel, Germany"
-region: "Mitte"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Hesse"
 wikidata_id: "Q449280"
 latitude: 51.3136
 longitude: 9.4975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/400px-Kassel_asv2022-02_img25_Fridericianum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/800px-Kassel_asv2022-02_img25_Fridericianum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1200px-Kassel_asv2022-02_img25_Fridericianum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1920px-Kassel_asv2022-02_img25_Fridericianum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1920px-Kassel_asv2022-02_img25_Fridericianum.jpg---
 
 ## Overview
 

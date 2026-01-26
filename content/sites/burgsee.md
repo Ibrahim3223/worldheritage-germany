@@ -4,13 +4,13 @@ site_name: "Burgsee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Schleswig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schleswig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1015634"
 latitude: 54.5106
 longitude: 9.535
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/400px-Gottorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/800px-Gottorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/1200px-Gottorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/1920px-Gottorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/1920px-Gottorf.jpg---
 
 ## Overview
 

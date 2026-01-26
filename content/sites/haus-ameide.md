@@ -4,13 +4,13 @@ site_name: "Haus Ameide"
 date: 2026-01-26
 draft: false
 description: "building in Detmold, Germany, now used as a museum"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q18412271"
 latitude: 51.93726349
 longitude: 8.87685871
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg/400px-Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg/800px-Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg/1200px-Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg/1920px-Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg/1920px-Detmold_-_2014-10-28_-_Lippisches_Landesmuseum.jpg---
 
 ## Overview
 

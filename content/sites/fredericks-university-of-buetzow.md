@@ -4,13 +4,13 @@ site_name: "Frederick's University of Bützow"
 date: 2026-01-26
 draft: false
 description: "former university in Germany"
-region: "Bützow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Bützow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1671056"
 latitude: 53.847128
 longitude: 11.97661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/400px-Bützow_Schloss_2014-08-21_26-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/800px-Bützow_Schloss_2014-08-21_26-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/1200px-Bützow_Schloss_2014-08-21_26-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/1920px-Bützow_Schloss_2014-08-21_26-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/1920px-Bützow_Schloss_2014-08-21_26-2.jpg---
 
 ## Overview
 

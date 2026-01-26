@@ -4,13 +4,13 @@ site_name: "Oldenburger Wallkino"
 date: 2026-01-26
 draft: false
 description: "former cinema in Oldenburg, Lower Saxony, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q2790997"
 latitude: 53.1427
 longitude: 8.21235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/400px-Wallkino_Oldenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/800px-Wallkino_Oldenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/1200px-Wallkino_Oldenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/1920px-Wallkino_Oldenburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/1920px-Wallkino_Oldenburg.JPG---
 
 ## Overview
 

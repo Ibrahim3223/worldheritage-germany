@@ -4,19 +4,18 @@ site_name: "Burg Mietinten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mietingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mietingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013128"
 latitude: 48.1703
 longitude: 9.9149
 images:
-  []
----
+  []---
 
 ## Overview
 

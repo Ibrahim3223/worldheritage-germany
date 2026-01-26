@@ -4,13 +4,13 @@ site_name: "Leuchtturm Bunthäuser Spitze"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1759209"
 latitude: 53.45685833
 longitude: 10.06906111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/400px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/800px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/1200px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/1920px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/1920px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg---
 
 ## Overview
 

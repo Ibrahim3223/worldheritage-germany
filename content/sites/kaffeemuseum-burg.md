@@ -4,19 +4,18 @@ site_name: "Kaffeemuseum Burg"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q28478545"
 latitude: 53.544726
 longitude: 9.996757
 images:
-  []
----
+  []---
 
 ## Overview
 

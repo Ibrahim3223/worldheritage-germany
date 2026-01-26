@@ -4,13 +4,13 @@ site_name: "Karl-May-Haus"
 date: 2026-01-26
 draft: false
 description: "building and museum in Hohenstein-Ernstthal, Germany"
-region: "Hohenstein-Ernstthal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hohenstein-Ernstthal"
+  - "Saxony"
 wikidata_id: "Q1730111"
 latitude: 50.8006
 longitude: 12.7192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/400px-Karl_May_Geburtshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/800px-Karl_May_Geburtshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/1200px-Karl_May_Geburtshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/1920px-Karl_May_Geburtshaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/1920px-Karl_May_Geburtshaus.jpg---
 
 ## Overview
 

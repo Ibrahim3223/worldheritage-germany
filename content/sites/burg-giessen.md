@@ -4,13 +4,13 @@ site_name: "Burg Gießen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kressbronn am Bodensee"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kressbronn am Bodensee"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011959"
 latitude: 47.62651944
 longitude: 9.59908889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/400px-Giessen_DSCN7833.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/800px-Giessen_DSCN7833.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/1200px-Giessen_DSCN7833.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/1920px-Giessen_DSCN7833.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/1920px-Giessen_DSCN7833.JPG---
 
 ## Overview
 

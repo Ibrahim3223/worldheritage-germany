@@ -4,13 +4,13 @@ site_name: "Al-Nur mosque"
 date: 2026-01-26
 draft: false
 description: "Moschee im Berliner Ortsteil Neukölln"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q15616559"
 latitude: 52.46424
 longitude: 13.4653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/400px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/800px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/1200px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/1920px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/1920px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bünde (Westf) station"
 date: 2026-01-26
 draft: false
 description: "railway station in Bünde, Germany"
-region: "Bünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bünde"
+  - "Lower Saxony"
 wikidata_id: "Q317151"
 latitude: 52.202246
 longitude: 8.5743329
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/400px-Bahnhof_Bünde_2023-11_Foto_8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/800px-Bahnhof_Bünde_2023-11_Foto_8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/1920px-Bahnhof_Bünde_2023-11_Foto_8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/1920px-Bahnhof_Bünde_2023-11_Foto_8.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Weserburg"
 date: 2026-01-26
 draft: false
 description: "Bremen's museum of modern art"
-region: "Neustadt"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neustadt"
+  - "Bremen"
 wikidata_id: "Q2563859"
 latitude: 53.0764
 longitude: 8.79889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeerhofWeserburg-02.jpg/400px-TeerhofWeserburg-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeerhofWeserburg-02.jpg/800px-TeerhofWeserburg-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeerhofWeserburg-02.jpg/1200px-TeerhofWeserburg-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeerhofWeserburg-02.jpg/1920px-TeerhofWeserburg-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeerhofWeserburg-02.jpg/1920px-TeerhofWeserburg-02.jpg---
 
 ## Overview
 

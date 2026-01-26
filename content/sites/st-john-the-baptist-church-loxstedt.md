@@ -4,13 +4,13 @@ site_name: "St.-John-the-Baptist church (Loxstedt)"
 date: 2026-01-26
 draft: false
 description: "church building in Lower Saxony state, Germany"
-region: "Loxstedt"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Loxstedt"
+  - "Bremen"
 wikidata_id: "Q1504400"
 latitude: 53.4729
 longitude: 8.65146
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/400px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/800px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/1200px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/1920px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/1920px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg---
 
 ## Overview
 

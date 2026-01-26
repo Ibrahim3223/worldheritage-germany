@@ -4,19 +4,18 @@ site_name: "Stahlberg Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation in Harburg, Germany"
-region: "Harburg"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Harburg"
+  - "Hamburg"
 wikidata_id: "Q1668883"
 latitude: 53.42668
 longitude: 9.998576
 images:
-  []
----
+  []---
 
 ## Overview
 

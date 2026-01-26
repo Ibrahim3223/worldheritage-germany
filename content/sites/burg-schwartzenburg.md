@@ -4,13 +4,13 @@ site_name: "Burg Schwartzenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Stolberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Stolberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151689"
 latitude: 50.7368
 longitude: 6.19876
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/400px-Tor_Burg_Schwartzenburg_Dorff.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/800px-Tor_Burg_Schwartzenburg_Dorff.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/1200px-Tor_Burg_Schwartzenburg_Dorff.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/1920px-Tor_Burg_Schwartzenburg_Dorff.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/1920px-Tor_Burg_Schwartzenburg_Dorff.JPG---
 
 ## Overview
 

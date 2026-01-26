@@ -4,13 +4,13 @@ site_name: "Eichsfelder Pforte"
 date: 2026-01-26
 draft: false
 description: "Tal in Deutschland"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q1302205"
 latitude: 51.4167
 longitude: 10.5667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/400px-Sollstedt1.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/800px-Sollstedt1.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/1200px-Sollstedt1.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/1920px-Sollstedt1.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/1920px-Sollstedt1.jpeg---
 
 ## Overview
 

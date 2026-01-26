@@ -4,13 +4,13 @@ site_name: "Preußengrab Ichtershausen"
 date: 2026-01-26
 draft: false
 description: "memorial in Thuringia, Germany"
-region: "Amt Wachsenburg"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Amt Wachsenburg"
+  - "Thuringia"
 wikidata_id: "Q1247269"
 latitude: 50.8753
 longitude: 10.9801
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/400px-Ichtershausen_Preußengrab_2013_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/800px-Ichtershausen_Preußengrab_2013_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/1200px-Ichtershausen_Preußengrab_2013_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/1920px-Ichtershausen_Preußengrab_2013_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/1920px-Ichtershausen_Preußengrab_2013_2.JPG---
 
 ## Overview
 

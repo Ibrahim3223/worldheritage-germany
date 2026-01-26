@@ -4,19 +4,18 @@ site_name: "Talsperre Eichicht"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1330717"
 latitude: 50.614819444
 longitude: 11.447916666
 images:
-  []
----
+  []---
 
 ## Overview
 

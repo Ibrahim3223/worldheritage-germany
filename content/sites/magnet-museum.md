@@ -4,19 +4,18 @@ site_name: "Magnet Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q746991"
 latitude: 51.4877
 longitude: 7.55452
 images:
-  []
----
+  []---
 
 ## Overview
 

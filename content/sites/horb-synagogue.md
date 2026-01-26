@@ -4,13 +4,13 @@ site_name: "Horb Synagogue"
 date: 2026-01-26
 draft: false
 description: "building in Marktzeuln, Upper Franconia, Germany"
-region: "Marktzeuln"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Marktzeuln"
+  - "Bavaria"
 wikidata_id: "Q22694148"
 latitude: 50.156848
 longitude: 11.199578
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/400px-Horb_Synagogue_(8528802629).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/800px-Horb_Synagogue_(8528802629).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1200px-Horb_Synagogue_(8528802629).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1920px-Horb_Synagogue_(8528802629).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1920px-Horb_Synagogue_(8528802629).jpg---
 
 ## Overview
 

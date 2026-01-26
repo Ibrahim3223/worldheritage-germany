@@ -4,13 +4,13 @@ site_name: "Buch Abbey"
 date: 2026-01-26
 draft: false
 description: "former Cistercian abbey near Leisnig, Germany"
-region: "Leisnig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leisnig"
+  - "Saxony"
 wikidata_id: "Q1775093"
 latitude: 51.1522
 longitude: 12.9869
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/400px-Kloster_Buch_Kreuzgangbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/800px-Kloster_Buch_Kreuzgangbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/1200px-Kloster_Buch_Kreuzgangbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/1920px-Kloster_Buch_Kreuzgangbereich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/1920px-Kloster_Buch_Kreuzgangbereich.jpg---
 
 ## Overview
 

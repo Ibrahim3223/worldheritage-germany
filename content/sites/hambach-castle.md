@@ -4,13 +4,13 @@ site_name: "Hambach Castle"
 date: 2026-01-26
 draft: false
 description: "castle near the urban district Hambach of Neustadt an der Weinstraße in Rhineland-Palatinate, Germany"
-region: "Neustadt an der Weinstraße"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neustadt an der Weinstraße"
+  - "Baden-Württemberg"
 wikidata_id: "Q523286"
 latitude: 49.325
 longitude: 8.11861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/400px-Hambacherschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/800px-Hambacherschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1200px-Hambacherschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1920px-Hambacherschloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1920px-Hambacherschloss.jpg---
 
 ## Overview
 

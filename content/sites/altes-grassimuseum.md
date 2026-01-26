@@ -4,13 +4,13 @@ site_name: "Altes Grassimuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q439212"
 latitude: 51.3336
 longitude: 12.3747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/400px-Altes_Grassimuseum_easyHDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/800px-Altes_Grassimuseum_easyHDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/1200px-Altes_Grassimuseum_easyHDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/1920px-Altes_Grassimuseum_easyHDR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/1920px-Altes_Grassimuseum_easyHDR.jpg---
 
 ## Overview
 

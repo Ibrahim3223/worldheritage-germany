@@ -4,13 +4,13 @@ site_name: "Bismarck Tower (Remscheid)"
 date: 2026-01-26
 draft: false
 description: "tower in Remscheid"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q866565"
 latitude: 51.1844
 longitude: 7.16753
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bismarckturm_Remscheid.jpg/400px-Bismarckturm_Remscheid.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bismarckturm_Remscheid.jpg/800px-Bismarckturm_Remscheid.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bismarckturm_Remscheid.jpg/1200px-Bismarckturm_Remscheid.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bismarckturm_Remscheid.jpg/1920px-Bismarckturm_Remscheid.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bismarckturm_Remscheid.jpg/1920px-Bismarckturm_Remscheid.jpg---
 
 ## Overview
 

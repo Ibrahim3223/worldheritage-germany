@@ -4,13 +4,13 @@ site_name: "Lichtenhain Waterfall"
 date: 2026-01-26
 draft: false
 description: "waterfall"
-region: "Sebnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Sebnitz"
+  - "Saxony"
 wikidata_id: "Q879159"
 latitude: 50.929166666
 longitude: 14.243333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/400px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/800px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/1200px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/1920px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/1920px-Lichtenhainer_Wasserfall_im_Versiegen.JPG---
 
 ## Overview
 

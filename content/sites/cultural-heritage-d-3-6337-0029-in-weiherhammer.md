@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-3-6337-0029 in Weiherhammer"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Weiherhammer, Neustadt an der Waldnaab, Upper Palatinate, Bavaria, Germany"
-region: "Weiherhammer"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Weiherhammer"
+  - "Bavaria"
 wikidata_id: "Q98279466"
 latitude: 49.653966516
 longitude: 11.944683158
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Saint Mary of Help Chapel"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Beselich"
-region: "Roman Catholic Diocese of Limburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Roman Catholic Diocese of Limburg"
+  - "Hesse"
 wikidata_id: "Q1527873"
 latitude: 50.4501
 longitude: 8.1425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kapelle_Beselich.jpg/400px-Kapelle_Beselich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kapelle_Beselich.jpg/800px-Kapelle_Beselich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kapelle_Beselich.jpg/1200px-Kapelle_Beselich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kapelle_Beselich.jpg/1920px-Kapelle_Beselich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kapelle_Beselich.jpg/1920px-Kapelle_Beselich.jpg---
 
 ## Overview
 

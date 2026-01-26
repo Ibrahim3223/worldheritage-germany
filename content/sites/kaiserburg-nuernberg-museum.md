@@ -4,19 +4,18 @@ site_name: "Kaiserburg Nürnberg museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q76628893"
 latitude: 49.45787
 longitude: 11.07604
 images:
-  []
----
+  []---
 
 ## Overview
 

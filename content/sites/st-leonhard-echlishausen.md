@@ -4,13 +4,13 @@ site_name: "St. Leonhard (Echlishausen)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Bibertal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bibertal"
+  - "Baden-Württemberg"
 wikidata_id: "Q2320257"
 latitude: 48.4258
 longitude: 10.1953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/400px-Echlishausen_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/800px-Echlishausen_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/1200px-Echlishausen_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/1920px-Echlishausen_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/1920px-Echlishausen_Kirche.jpg---
 
 ## Overview
 

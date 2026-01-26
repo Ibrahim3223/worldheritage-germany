@@ -4,13 +4,13 @@ site_name: "Galerie Stihl Waiblingen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Waiblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Waiblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1491884"
 latitude: 48.8344
 longitude: 9.31727
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Galerie_Stihl_Waiblingen.jpg/400px-Galerie_Stihl_Waiblingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Galerie_Stihl_Waiblingen.jpg/800px-Galerie_Stihl_Waiblingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Galerie_Stihl_Waiblingen.jpg/1200px-Galerie_Stihl_Waiblingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Galerie_Stihl_Waiblingen.jpg/1920px-Galerie_Stihl_Waiblingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Galerie_Stihl_Waiblingen.jpg/1920px-Galerie_Stihl_Waiblingen.jpg---
 
 ## Overview
 

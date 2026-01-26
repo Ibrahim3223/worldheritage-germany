@@ -4,13 +4,13 @@ site_name: "Ottheinrichsbau"
 date: 2026-01-26
 draft: false
 description: "German Renaissance palace building of Heidelberg Castle"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q109180173"
 latitude: 49.410978494
 longitude: 8.715765267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/400px-Schloss_Heidelberg_Ottheinrichsbau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/800px-Schloss_Heidelberg_Ottheinrichsbau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/1200px-Schloss_Heidelberg_Ottheinrichsbau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/1920px-Schloss_Heidelberg_Ottheinrichsbau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/1920px-Schloss_Heidelberg_Ottheinrichsbau.JPG---
 
 ## Overview
 

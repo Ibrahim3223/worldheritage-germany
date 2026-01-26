@@ -4,19 +4,18 @@ site_name: "Neue Galerie im Höhmannhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1979514"
 latitude: 48.3649
 longitude: 10.8992
 images:
-  []
----
+  []---
 
 ## Overview
 

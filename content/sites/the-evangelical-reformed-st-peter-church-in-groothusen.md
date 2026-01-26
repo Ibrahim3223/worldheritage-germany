@@ -4,13 +4,13 @@ site_name: "The Evangelical Reformed St. Peter Church in Groothusen"
 date: 2026-01-26
 draft: false
 description: "church building in Lower Saxony, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q127685"
 latitude: 53.436689
 longitude: 7.064344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/400px-Groothusener_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/800px-Groothusener_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/1200px-Groothusener_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/1920px-Groothusener_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/1920px-Groothusener_Kirche.jpg---
 
 ## Overview
 

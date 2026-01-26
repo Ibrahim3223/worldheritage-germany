@@ -4,13 +4,13 @@ site_name: "Museum Morsbroich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leverkusen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Leverkusen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2719577"
 latitude: 51.036482111
 longitude: 7.0339445
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Museum_Morsbroich,_Leverkusen.jpg/400px-Museum_Morsbroich,_Leverkusen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Museum_Morsbroich,_Leverkusen.jpg/800px-Museum_Morsbroich,_Leverkusen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Museum_Morsbroich,_Leverkusen.jpg/1200px-Museum_Morsbroich,_Leverkusen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Museum_Morsbroich,_Leverkusen.jpg/1920px-Museum_Morsbroich,_Leverkusen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Museum_Morsbroich,_Leverkusen.jpg/1920px-Museum_Morsbroich,_Leverkusen.jpg---
 
 ## Overview
 

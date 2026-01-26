@@ -4,13 +4,13 @@ site_name: "Rottenbuch Radio Tower"
 date: 2026-01-26
 draft: false
 description: "wooden cellphone transmission tower in Germany"
-region: "Peiting"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Peiting"
+  - "Bavaria"
 wikidata_id: "Q1333263"
 latitude: 47.7571
 longitude: 10.9319
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/400px-Funkturm_rottenbuch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/800px-Funkturm_rottenbuch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/1200px-Funkturm_rottenbuch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/1920px-Funkturm_rottenbuch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/1920px-Funkturm_rottenbuch.jpg---
 
 ## Overview
 

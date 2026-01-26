@@ -4,19 +4,18 @@ site_name: "Waldmuseum Stendenitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuruppin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuruppin"
+  - "Brandenburg"
 wikidata_id: "Q15853428"
 latitude: 53.00637
 longitude: 12.819606
 images:
-  []
----
+  []---
 
 ## Overview
 

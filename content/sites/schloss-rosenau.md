@@ -4,19 +4,18 @@ site_name: "Schloss Rosenau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629323"
 latitude: 50.297926
 longitude: 11.02307
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kunsthaus Meyenburg"
 date: 2026-01-26
 draft: false
 description: "art museum in Nordhausen, Germany"
-region: "Nordhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Nordhausen"
+  - "Lower Saxony"
 wikidata_id: "Q20480860"
 latitude: 51.509166666
 longitude: 10.799166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/400px-Kunsthaus_Meyenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/800px-Kunsthaus_Meyenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/1200px-Kunsthaus_Meyenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/1920px-Kunsthaus_Meyenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/1920px-Kunsthaus_Meyenburg.jpg---
 
 ## Overview
 

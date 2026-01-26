@@ -4,13 +4,13 @@ site_name: "Hohenzollern Castle"
 date: 2026-01-26
 draft: false
 description: "ancestral seat of the imperial House of Hohenzollern in the Swabian Alps of central Baden-Württemberg, Germany"
-region: "Bisingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bisingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q156457"
 latitude: 48.323561111
 longitude: 8.9674
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/400px-Burg_Hohenzollern_ak.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/800px-Burg_Hohenzollern_ak.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/1200px-Burg_Hohenzollern_ak.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/1920px-Burg_Hohenzollern_ak.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/1920px-Burg_Hohenzollern_ak.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Perlenbachtalsperre"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Monschau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Monschau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2071365"
 latitude: 50.5392
 longitude: 6.23917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/400px-Perlenbachtalsperre_mit_Staudamm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/800px-Perlenbachtalsperre_mit_Staudamm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/1200px-Perlenbachtalsperre_mit_Staudamm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/1920px-Perlenbachtalsperre_mit_Staudamm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/1920px-Perlenbachtalsperre_mit_Staudamm.JPG---
 
 ## Overview
 

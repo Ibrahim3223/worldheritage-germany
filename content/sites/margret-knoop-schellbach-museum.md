@@ -4,19 +4,18 @@ site_name: "Margret-Knoop-Schellbach-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Körle"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Körle"
+  - "Hesse"
 wikidata_id: "Q76633967"
 latitude: 51.17474
 longitude: 9.514882
 images:
-  []
----
+  []---
 
 ## Overview
 

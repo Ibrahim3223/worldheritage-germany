@@ -4,13 +4,13 @@ site_name: "Wildpark Tannenbusch"
 date: 2026-01-26
 draft: false
 description: "ganzjährig geöffneter Tierpark in Dormagen-Delhoven"
-region: "Dormagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Dormagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2570851"
 latitude: 51.0811
 longitude: 6.78889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/400px-Wildpark_Tannenbusch_Vogelkaefige.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/800px-Wildpark_Tannenbusch_Vogelkaefige.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/1200px-Wildpark_Tannenbusch_Vogelkaefige.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/1920px-Wildpark_Tannenbusch_Vogelkaefige.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/1920px-Wildpark_Tannenbusch_Vogelkaefige.jpg---
 
 ## Overview
 

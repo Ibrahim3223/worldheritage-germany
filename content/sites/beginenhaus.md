@@ -4,19 +4,18 @@ site_name: "Beginenhaus"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q814325"
 latitude: 52.371345
 longitude: 9.731891
 images:
-  []
----
+  []---
 
 ## Overview
 

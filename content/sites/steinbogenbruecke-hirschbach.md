@@ -4,19 +4,18 @@ site_name: "Steinbogenbrücke Hirschbach"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Glashütte"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Glashütte"
+  - "Saxony"
 wikidata_id: "Q49442045"
 latitude: 50.90712536
 longitude: 13.746257667
 images:
-  []
----
+  []---
 
 ## Overview
 

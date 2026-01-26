@@ -4,19 +4,18 @@ site_name: "Torhaus Emmerichshofen 1 in Kahl am Main"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-71-134-14 (4) in Kahl am Main, Bavaria"
-region: "Kahl am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Kahl am Main"
+  - "Bavaria"
 wikidata_id: "Q98495716"
 latitude: 50.09457042
 longitude: 9.007372113
 images:
-  []
----
+  []---
 
 ## Overview
 

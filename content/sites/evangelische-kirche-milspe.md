@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Milspe"
 date: 2026-01-26
 draft: false
 description: "church building in Ennepetal, Germany"
-region: "Ennepetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ennepetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1380827"
 latitude: 51.2999
 longitude: 7.34528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/400px-Evangelische_Kirche_Milspe2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/800px-Evangelische_Kirche_Milspe2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/1200px-Evangelische_Kirche_Milspe2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/1920px-Evangelische_Kirche_Milspe2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/1920px-Evangelische_Kirche_Milspe2.jpg---
 
 ## Overview
 

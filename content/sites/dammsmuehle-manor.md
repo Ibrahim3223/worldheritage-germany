@@ -4,13 +4,13 @@ site_name: "Dammsmühle manor"
 date: 2026-01-26
 draft: false
 description: "Manor in Barnim district, Brandenburg state, Germany"
-region: "Wandlitz"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wandlitz"
+  - "Berlin"
 wikidata_id: "Q1119768"
 latitude: 52.693777777
 longitude: 13.407555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/400px-Dammsmühle2_(1994).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/800px-Dammsmühle2_(1994).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/1200px-Dammsmühle2_(1994).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/1920px-Dammsmühle2_(1994).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/1920px-Dammsmühle2_(1994).JPG---
 
 ## Overview
 

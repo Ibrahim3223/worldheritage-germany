@@ -4,13 +4,13 @@ site_name: "Detmolder Sommertheater"
 date: 2026-01-26
 draft: false
 description: "theatre in Detmold, Germany"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1201503"
 latitude: 51.9289
 longitude: 8.87331
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/400px-Sommertheater01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/800px-Sommertheater01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1200px-Sommertheater01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1920px-Sommertheater01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1920px-Sommertheater01.jpg---
 
 ## Overview
 

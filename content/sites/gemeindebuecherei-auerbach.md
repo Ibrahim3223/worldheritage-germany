@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Auerbach"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Auerbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Auerbach"
+  - "Bavaria"
 wikidata_id: "Q28729527"
 latitude: 48.80334
 longitude: 13.09827
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Auf dem Knickbrink"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Rinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rinteln"
+  - "Lower Saxony"
 wikidata_id: "Q759356"
 latitude: 52.1567
 longitude: 9.07472
 images:
-  []
----
+  []---
 
 ## Overview
 

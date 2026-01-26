@@ -4,13 +4,13 @@ site_name: "Burg Mengen"
 date: 2026-01-26
 draft: false
 description: "castle in Bliesmengen-Bolchen"
-region: "Mandelbachtal"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mandelbachtal"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013109"
 latitude: 49.148
 longitude: 7.11037
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20210829Burg_Mengen.jpg/400px-20210829Burg_Mengen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20210829Burg_Mengen.jpg/800px-20210829Burg_Mengen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20210829Burg_Mengen.jpg/1200px-20210829Burg_Mengen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20210829Burg_Mengen.jpg/1920px-20210829Burg_Mengen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20210829Burg_Mengen.jpg/1920px-20210829Burg_Mengen.jpg---
 
 ## Overview
 

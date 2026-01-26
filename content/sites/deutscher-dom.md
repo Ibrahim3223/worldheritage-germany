@@ -4,13 +4,13 @@ site_name: "Deutscher Dom"
 date: 2026-01-26
 draft: false
 description: "church building in Mitte, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q315644"
 latitude: 52.512755555
 longitude: 13.392505555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/400px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/800px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/1200px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/1920px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/1920px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg---
 
 ## Overview
 

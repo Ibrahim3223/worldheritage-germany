@@ -4,13 +4,13 @@ site_name: "Oldtimermuseum Meßkirch"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Messkirch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Messkirch"
+  - "Baden-Württemberg"
 wikidata_id: "Q2018926"
 latitude: 47.99333333
 longitude: 9.10972222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/400px-SchlossMesskirchRemise.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/800px-SchlossMesskirchRemise.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/1200px-SchlossMesskirchRemise.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/1920px-SchlossMesskirchRemise.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/1920px-SchlossMesskirchRemise.JPG---
 
 ## Overview
 

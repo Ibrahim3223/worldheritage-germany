@@ -4,13 +4,13 @@ site_name: "Burg Ehrenfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Q429492"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Q429492"
+  - "Bavaria"
 wikidata_id: "Q1011539"
 latitude: 49.099773
 longitude: 11.785388
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Ehrenfels_01.jpg/400px-Burg_Ehrenfels_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Ehrenfels_01.jpg/800px-Burg_Ehrenfels_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Ehrenfels_01.jpg/1200px-Burg_Ehrenfels_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Ehrenfels_01.jpg/1920px-Burg_Ehrenfels_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Ehrenfels_01.jpg/1920px-Burg_Ehrenfels_01.jpg---
 
 ## Overview
 

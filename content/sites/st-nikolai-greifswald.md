@@ -4,13 +4,13 @@ site_name: "St. Nikolai, Greifswald"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Greifswald"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Greifswald"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1236551"
 latitude: 54.0954
 longitude: 13.3775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/400px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/800px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/1200px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/1920px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/1920px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg---
 
 ## Overview
 

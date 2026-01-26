@@ -4,13 +4,13 @@ site_name: "St. Marien"
 date: 2026-01-26
 draft: false
 description: "church building in Friedland, Germany"
-region: "Friedland"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedland"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2083097"
 latitude: 53.6678
 longitude: 13.5484
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/400px-Friedland_Marienkirche_2011-01-28_174.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/800px-Friedland_Marienkirche_2011-01-28_174.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/1200px-Friedland_Marienkirche_2011-01-28_174.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/1920px-Friedland_Marienkirche_2011-01-28_174.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/1920px-Friedland_Marienkirche_2011-01-28_174.JPG---
 
 ## Overview
 

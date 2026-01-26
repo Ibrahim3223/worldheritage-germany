@@ -4,13 +4,13 @@ site_name: "Schwanenburg"
 date: 2026-01-26
 draft: false
 description: "castle in Kleve, Germany"
-region: "Kleve"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kleve"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q316178"
 latitude: 51.786583
 longitude: 6.139089
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kleve_87.JPG/400px-Kleve_87.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kleve_87.JPG/800px-Kleve_87.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kleve_87.JPG/1200px-Kleve_87.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kleve_87.JPG/1920px-Kleve_87.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kleve_87.JPG/1920px-Kleve_87.JPG---
 
 ## Overview
 

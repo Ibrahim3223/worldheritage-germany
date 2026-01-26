@@ -4,13 +4,13 @@ site_name: "Staatstheater am Gärtnerplatz"
 date: 2026-01-26
 draft: false
 description: "opera house in Munich, Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q318058"
 latitude: 48.131111111
 longitude: 11.575555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_Gärtnerplatz_04.jpg/400px-Das_Staatstheater_am_Gärtnerplatz_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_Gärtnerplatz_04.jpg/800px-Das_Staatstheater_am_Gärtnerplatz_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_Gärtnerplatz_04.jpg/1200px-Das_Staatstheater_am_Gärtnerplatz_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_Gärtnerplatz_04.jpg/1920px-Das_Staatstheater_am_Gärtnerplatz_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Das_Staatstheater_am_Gärtnerplatz_04.jpg/1920px-Das_Staatstheater_am_Gärtnerplatz_04.jpg---
 
 ## Overview
 

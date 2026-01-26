@@ -4,13 +4,13 @@ site_name: "Grimma District Museum"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Saxony, museum (former school building) in Grimma, Saxony, Germany"
-region: "Grimma"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grimma"
+  - "Saxony"
 wikidata_id: "Q49568995"
 latitude: 51.234889899
 longitude: 12.729950342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/400px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/800px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/1200px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/1920px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/1920px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg---
 
 ## Overview
 

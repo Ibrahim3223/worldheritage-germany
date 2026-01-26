@@ -4,13 +4,13 @@ site_name: "Selimiye-Moschee Wertheim"
 date: 2026-01-26
 draft: false
 description: "building in Wertheim am Main, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Wertheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Wertheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q41463636"
 latitude: 49.753088
 longitude: 9.495136
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/400px-Selimiye-Moschee_Wertheim_Außen02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/800px-Selimiye-Moschee_Wertheim_Außen02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/1200px-Selimiye-Moschee_Wertheim_Außen02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/1920px-Selimiye-Moschee_Wertheim_Außen02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/1920px-Selimiye-Moschee_Wertheim_Außen02.jpg---
 
 ## Overview
 

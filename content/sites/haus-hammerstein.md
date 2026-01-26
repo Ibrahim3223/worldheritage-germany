@@ -4,13 +4,13 @@ site_name: "Haus Hammerstein"
 date: 2026-01-26
 draft: false
 description: "historisches Herrenhaus im Wuppertaler Ortsbezirk Vohwinkel"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2525228"
 latitude: 51.2335
 longitude: 7.09066
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wuppertal_Hammersteiner_Allee_0010.jpg/400px-Wuppertal_Hammersteiner_Allee_0010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wuppertal_Hammersteiner_Allee_0010.jpg/800px-Wuppertal_Hammersteiner_Allee_0010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wuppertal_Hammersteiner_Allee_0010.jpg/1200px-Wuppertal_Hammersteiner_Allee_0010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wuppertal_Hammersteiner_Allee_0010.jpg/1920px-Wuppertal_Hammersteiner_Allee_0010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wuppertal_Hammersteiner_Allee_0010.jpg/1920px-Wuppertal_Hammersteiner_Allee_0010.jpg---
 
 ## Overview
 

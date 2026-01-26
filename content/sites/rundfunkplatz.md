@@ -4,13 +4,13 @@ site_name: "Rundfunkplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Maxvorstadt, Germany"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q742330"
 latitude: 48.1439
 longitude: 11.5552
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/400px-Rundfunkplatz_gesamtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/800px-Rundfunkplatz_gesamtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/1200px-Rundfunkplatz_gesamtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/1920px-Rundfunkplatz_gesamtansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/1920px-Rundfunkplatz_gesamtansicht.jpg---
 
 ## Overview
 

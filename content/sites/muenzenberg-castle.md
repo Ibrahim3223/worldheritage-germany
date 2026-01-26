@@ -4,13 +4,13 @@ site_name: "Münzenberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Münzenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Münzenberg"
+  - "Hesse"
 wikidata_id: "Q321605"
 latitude: 50.4517
 longitude: 8.77583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/400px-Münzenberg_Ansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/800px-Münzenberg_Ansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/1200px-Münzenberg_Ansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/1920px-Münzenberg_Ansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/1920px-Münzenberg_Ansicht.JPG---
 
 ## Overview
 

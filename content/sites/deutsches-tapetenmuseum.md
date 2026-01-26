@@ -4,13 +4,13 @@ site_name: "Deutsches Tapetenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1206037"
 latitude: 51.3108
 longitude: 9.49
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/400px-Hessisches_landesmuseum_kassel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/800px-Hessisches_landesmuseum_kassel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1200px-Hessisches_landesmuseum_kassel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1920px-Hessisches_landesmuseum_kassel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1920px-Hessisches_landesmuseum_kassel.JPG---
 
 ## Overview
 

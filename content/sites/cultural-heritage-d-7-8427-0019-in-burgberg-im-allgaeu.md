@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8427-0019 in Burgberg im Allgäu"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Burgberg im Allgäu, Oberallgäu, Swabia, Bavaria, Germany"
-region: "Burgberg im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Burgberg im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q98286016"
 latitude: 47.545658556
 longitude: 10.285416021
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dat ole Hus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aukrug"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aukrug"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1172155"
 latitude: 54.071016
 longitude: 9.798034
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/400px-Aukrug_ole-hus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/800px-Aukrug_ole-hus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1200px-Aukrug_ole-hus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1920px-Aukrug_ole-hus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1920px-Aukrug_ole-hus.JPG---
 
 ## Overview
 

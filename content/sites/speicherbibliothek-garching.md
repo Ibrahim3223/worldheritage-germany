@@ -4,13 +4,13 @@ site_name: "Speicherbibliothek Garching"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Garching bei München"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Garching bei München"
+  - "Bavaria"
 wikidata_id: "Q1555224"
 latitude: 48.26
 longitude: 11.662
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Speicherbibliothek-Garching_2016-08-15_2.jpg/400px-Speicherbibliothek-Garching_2016-08-15_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Speicherbibliothek-Garching_2016-08-15_2.jpg/800px-Speicherbibliothek-Garching_2016-08-15_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Speicherbibliothek-Garching_2016-08-15_2.jpg/1200px-Speicherbibliothek-Garching_2016-08-15_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Speicherbibliothek-Garching_2016-08-15_2.jpg/1920px-Speicherbibliothek-Garching_2016-08-15_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Speicherbibliothek-Garching_2016-08-15_2.jpg/1920px-Speicherbibliothek-Garching_2016-08-15_2.jpg---
 
 ## Overview
 

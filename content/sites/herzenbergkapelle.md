@@ -4,13 +4,13 @@ site_name: "Herzenbergkapelle"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Hadamar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Hadamar"
+  - "Hesse"
 wikidata_id: "Q1615107"
 latitude: 50.4518
 longitude: 8.04926
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/400px-Hadamar,_Herzenbergkapel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/800px-Hadamar,_Herzenbergkapel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1200px-Hadamar,_Herzenbergkapel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1920px-Hadamar,_Herzenbergkapel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1920px-Hadamar,_Herzenbergkapel.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7726-0092 in Illertissen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Illertissen, Neu-Ulm, Swabia, Bavaria, Germany"
-region: "Illertissen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Illertissen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98290440"
 latitude: 48.222738389
 longitude: 10.108316214
 images:
-  []
----
+  []---
 
 ## Overview
 

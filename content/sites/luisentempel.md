@@ -4,13 +4,13 @@ site_name: "Luisentempel"
 date: 2026-01-26
 draft: false
 description: "monument in Harzgerode, Saxony-Anhalt, Germany"
-region: "Harzgerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Harzgerode"
+  - "Lower Saxony"
 wikidata_id: "Q1440761"
 latitude: 51.6541
 longitude: 11.1177
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/400px-20190512Selketal_bei_Alexisbad-037.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/800px-20190512Selketal_bei_Alexisbad-037.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/1200px-20190512Selketal_bei_Alexisbad-037.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/1920px-20190512Selketal_bei_Alexisbad-037.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/1920px-20190512Selketal_bei_Alexisbad-037.jpg---
 
 ## Overview
 

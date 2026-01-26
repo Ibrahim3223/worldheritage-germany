@@ -4,19 +4,18 @@ site_name: "Museum für Ur- und Frühgeschichte Frauwalde"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frauwalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frauwalde"
+  - "Brandenburg"
 wikidata_id: "Q1954678"
 latitude: 51.4017437
 longitude: 12.9192222
 images:
-  []
----
+  []---
 
 ## Overview
 

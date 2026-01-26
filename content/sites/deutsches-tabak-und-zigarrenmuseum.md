@@ -4,13 +4,13 @@ site_name: "Deutsches Tabak- und Zigarrenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bünde"
+  - "Lower Saxony"
 wikidata_id: "Q1206029"
 latitude: 52.1956
 longitude: 8.58181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/400px-Tabakmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/800px-Tabakmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/1200px-Tabakmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/1920px-Tabakmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/1920px-Tabakmuseum.jpg---
 
 ## Overview
 

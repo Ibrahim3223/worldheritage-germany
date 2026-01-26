@@ -4,13 +4,13 @@ site_name: "Fränkische-Schweiz-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Pottenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pottenstein"
+  - "Bavaria"
 wikidata_id: "Q1471212"
 latitude: 49.7858
 longitude: 11.3607
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/400px-Mueumfrankschweiz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/800px-Mueumfrankschweiz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/1200px-Mueumfrankschweiz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/1920px-Mueumfrankschweiz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/1920px-Mueumfrankschweiz.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wasserschöpfmühle Charlottenpolder"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Charlottenpolder, Bunde"
-region: "Bunde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Bunde"
+  - "Lower Saxony"
 wikidata_id: "Q137671213"
 latitude: 53.193782057
 longitude: 7.217587931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg/400px-Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg/800px-Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg/1200px-Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg/1920px-Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg/1920px-Bunde_-_Altes_Schöpfwerk_-_Wasserschöpfmühle_+_Schöpfwerk_+_Mühlentief_02_ies.jpg---
 
 ## Overview
 

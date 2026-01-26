@@ -4,13 +4,13 @@ site_name: "Hockenheimring Motor-Sport-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hockenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hockenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1949988"
 latitude: 49.328
 longitude: 8.567
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg/400px-Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg/800px-Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg/1200px-Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg/1920px-Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg/1920px-Hockenheimring_-_Motor-Sport-Museum_-_Flickr_-_KlausNahr.jpg---
 
 ## Overview
 

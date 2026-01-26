@@ -4,13 +4,13 @@ site_name: "Gettorfer Mühle"
 date: 2026-01-26
 draft: false
 description: "wind mill in Gettorf, Germany"
-region: "Gettorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Gettorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1520111"
 latitude: 54.4091
 longitude: 9.9785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/400px-Windmühle_Gettorf_2022CF.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/800px-Windmühle_Gettorf_2022CF.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/1200px-Windmühle_Gettorf_2022CF.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/1920px-Windmühle_Gettorf_2022CF.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/1920px-Windmühle_Gettorf_2022CF.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Klopstockmuseum (Städtische Museen Quedlinburg)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q1774894"
 latitude: 51.786972222
 longitude: 11.135861111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Quedlinburg_Schlossberg_12.jpg/400px-Quedlinburg_Schlossberg_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Quedlinburg_Schlossberg_12.jpg/800px-Quedlinburg_Schlossberg_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Quedlinburg_Schlossberg_12.jpg/1200px-Quedlinburg_Schlossberg_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Quedlinburg_Schlossberg_12.jpg/1920px-Quedlinburg_Schlossberg_12.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Quedlinburg_Schlossberg_12.jpg/1920px-Quedlinburg_Schlossberg_12.jpg---
 
 ## Overview
 

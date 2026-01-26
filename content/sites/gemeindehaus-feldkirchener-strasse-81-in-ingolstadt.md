@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Feldkirchener Straße 81 in Ingolstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-61-000-624 (1) in Ingolstadt, Bavaria"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q98738969"
 latitude: 48.769468323
 longitude: 11.44879448
 images:
-  []
----
+  []---
 
 ## Overview
 

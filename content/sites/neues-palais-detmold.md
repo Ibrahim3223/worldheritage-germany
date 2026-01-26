@@ -4,13 +4,13 @@ site_name: "Neues Palais (Detmold)"
 date: 2026-01-26
 draft: false
 description: "palace in Detmold, Germany"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1980353"
 latitude: 51.9309
 longitude: 8.87617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/400px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/800px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/1200px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/1920px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/1920px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg---
 
 # Neues Palais (Detmold): A Glimpse into German Royal Heritage
 

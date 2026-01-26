@@ -4,13 +4,13 @@ site_name: "Bebenhausen Abbey"
 date: 2026-01-26
 draft: false
 description: "former Cistercian abbey in Germany"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q518676"
 latitude: 48.56137
 longitude: 9.06072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/400px-Bebenhausen_Klosterkirche_von_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/800px-Bebenhausen_Klosterkirche_von_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1200px-Bebenhausen_Klosterkirche_von_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1920px-Bebenhausen_Klosterkirche_von_außen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1920px-Bebenhausen_Klosterkirche_von_außen.jpg---
 
 ## Overview
 

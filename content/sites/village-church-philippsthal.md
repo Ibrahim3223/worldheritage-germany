@@ -4,13 +4,13 @@ site_name: "Village church Philippsthal"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Nuthetal"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nuthetal"
+  - "Berlin"
 wikidata_id: "Q1244032"
 latitude: 52.332916666
 longitude: 13.140611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Philippsthal_3_chapel.JPG/400px-Philippsthal_3_chapel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Philippsthal_3_chapel.JPG/800px-Philippsthal_3_chapel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Philippsthal_3_chapel.JPG/1200px-Philippsthal_3_chapel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Philippsthal_3_chapel.JPG/1920px-Philippsthal_3_chapel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Philippsthal_3_chapel.JPG/1920px-Philippsthal_3_chapel.JPG---
 
 ## Overview
 

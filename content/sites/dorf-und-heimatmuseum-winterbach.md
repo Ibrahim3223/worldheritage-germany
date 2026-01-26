@@ -4,13 +4,13 @@ site_name: "Dorf- und Heimatmuseum Winterbach"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Winterbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Winterbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1243928"
 latitude: 48.7989
 longitude: 9.47778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/400px-Dorf-_und_Heimatmuseum_Winterbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/800px-Dorf-_und_Heimatmuseum_Winterbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/1200px-Dorf-_und_Heimatmuseum_Winterbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/1920px-Dorf-_und_Heimatmuseum_Winterbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/1920px-Dorf-_und_Heimatmuseum_Winterbach.jpg---
 
 ## Overview
 

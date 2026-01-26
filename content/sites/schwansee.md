@@ -4,13 +4,13 @@ site_name: "Schwansee"
 date: 2026-01-26
 draft: false
 description: "lake in Ostallgäu, Bavaria, Germany"
-region: "Ostallgäu"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ostallgäu"
+  - "Bavaria"
 wikidata_id: "Q251919"
 latitude: 47.5575
 longitude: 10.719722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Schwansee_(view_from_the_southwest).jpg---
 
 ## Overview
 

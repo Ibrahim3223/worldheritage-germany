@@ -4,13 +4,13 @@ site_name: "Niedersächsisches Landesmuseum für Kunst und Kulturgeschichte"
 date: 2026-01-26
 draft: false
 description: "art collection and museums in Oldenburg, Germany. It includes the old Augusteum building, which still retains the flavor of the old grand-ducal collec"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1988652"
 latitude: 53.1377
 longitude: 8.21638
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/400px-Landesmuseum_Oldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/800px-Landesmuseum_Oldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/1200px-Landesmuseum_Oldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/1920px-Landesmuseum_Oldenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/1920px-Landesmuseum_Oldenburg.jpg---
 
 ## Overview
 

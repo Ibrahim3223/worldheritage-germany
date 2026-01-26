@@ -4,13 +4,13 @@ site_name: "Village church Reckahn"
 date: 2026-01-26
 draft: false
 description: "church building in Potsdam-Mittelmark district, Brandenburg state, Germany"
-region: "Kloster Lehnin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kloster Lehnin"
+  - "Brandenburg"
 wikidata_id: "Q1243927"
 latitude: 52.3364
 longitude: 12.5436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/400px-Dorfkirche_Reckahn_Südansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/800px-Dorfkirche_Reckahn_Südansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/1200px-Dorfkirche_Reckahn_Südansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/1920px-Dorfkirche_Reckahn_Südansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/1920px-Dorfkirche_Reckahn_Südansicht.jpg---
 
 ## Overview
 

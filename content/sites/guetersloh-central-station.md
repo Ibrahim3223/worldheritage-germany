@@ -4,13 +4,13 @@ site_name: "Gütersloh Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Gütersloh, Germany"
-region: "Gütersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Gütersloh"
+  - "Lower Saxony"
 wikidata_id: "Q323533"
 latitude: 51.9069
 longitude: 8.38472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/400px-Bahnhofsportal-guetersloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/800px-Bahnhofsportal-guetersloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/1200px-Bahnhofsportal-guetersloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/1920px-Bahnhofsportal-guetersloh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/1920px-Bahnhofsportal-guetersloh.jpg---
 
 ## Overview
 

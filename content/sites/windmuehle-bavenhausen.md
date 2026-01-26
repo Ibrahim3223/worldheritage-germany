@@ -4,13 +4,13 @@ site_name: "Windmühle Bavenhausen"
 date: 2026-01-26
 draft: false
 description: "Mühle auf dem Windberg im Ortsteil Bavenhausen der ostwestfälischen Gemeinde Kalletal im Kreis Lippe in Nordrhein-Westfalen"
-region: "Kalletal"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Kalletal"
+  - "Lower Saxony"
 wikidata_id: "Q1560505"
 latitude: 52.0814
 longitude: 8.95084
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Windmühle-Bavenhausen_2015.jpg/400px-Windmühle-Bavenhausen_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Windmühle-Bavenhausen_2015.jpg/800px-Windmühle-Bavenhausen_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Windmühle-Bavenhausen_2015.jpg/1200px-Windmühle-Bavenhausen_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Windmühle-Bavenhausen_2015.jpg/1920px-Windmühle-Bavenhausen_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Windmühle-Bavenhausen_2015.jpg/1920px-Windmühle-Bavenhausen_2015.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Himmelreich cave"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Walkenried"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Walkenried"
+  - "Lower Saxony"
 wikidata_id: "Q1619134"
 latitude: 51.5808
 longitude: 10.6452
 images:
-  []
----
+  []---
 
 ## Overview
 

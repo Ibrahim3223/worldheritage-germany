@@ -4,13 +4,13 @@ site_name: "Scharwenka Kulturforum"
 date: 2026-01-26
 draft: false
 description: "cultural center, musicians museum and archive in Brandenburg, Germany"
-region: "Bad Saarow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Saarow"
+  - "Brandenburg"
 wikidata_id: "Q56648424"
 latitude: 52.294299
 longitude: 14.057055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/400px-Bad_Saarow_Moorstraße_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/800px-Bad_Saarow_Moorstraße_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/1200px-Bad_Saarow_Moorstraße_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/1920px-Bad_Saarow_Moorstraße_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/1920px-Bad_Saarow_Moorstraße_3.jpg---
 
 ## Overview
 

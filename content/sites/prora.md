@@ -4,13 +4,13 @@ site_name: "Prora"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Binz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Binz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q685448"
 latitude: 54.4396
 longitude: 13.5667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg/400px-20-07-06-Prora-RalfR-DJI_0120.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg/800px-20-07-06-Prora-RalfR-DJI_0120.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg/1200px-20-07-06-Prora-RalfR-DJI_0120.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg/1920px-20-07-06-Prora-RalfR-DJI_0120.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg/1920px-20-07-06-Prora-RalfR-DJI_0120.jpg---
 
 ## Overview
 

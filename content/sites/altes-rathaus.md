@@ -4,13 +4,13 @@ site_name: "Altes Rathaus"
 date: 2026-01-26
 draft: false
 description: "Kunstmuseum in Wittlich"
-region: "Wittlich"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wittlich"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q439518"
 latitude: 49.9861
 longitude: 6.88745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/400px-Altes_Rathaus_am_Markt,_Wittlich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/800px-Altes_Rathaus_am_Markt,_Wittlich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/1200px-Altes_Rathaus_am_Markt,_Wittlich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/1920px-Altes_Rathaus_am_Markt,_Wittlich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/1920px-Altes_Rathaus_am_Markt,_Wittlich.jpg---
 
 ## Overview
 

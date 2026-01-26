@@ -4,13 +4,13 @@ site_name: "Kunsthaus"
 date: 2026-01-26
 draft: false
 description: "art museum in Stade, Germany"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q26821642"
 latitude: 53.6034275
 longitude: 9.4759982
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stade_Wasser_West_07.jpg/400px-Stade_Wasser_West_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stade_Wasser_West_07.jpg/800px-Stade_Wasser_West_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stade_Wasser_West_07.jpg/1200px-Stade_Wasser_West_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stade_Wasser_West_07.jpg/1920px-Stade_Wasser_West_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stade_Wasser_West_07.jpg/1920px-Stade_Wasser_West_07.jpg---
 
 ## Overview
 

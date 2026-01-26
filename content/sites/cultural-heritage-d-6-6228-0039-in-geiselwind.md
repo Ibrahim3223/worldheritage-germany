@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6228-0039 in Geiselwind"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Geiselwind, Kitzingen, Lower Franconia, Bavaria, Germany"
-region: "Geiselwind"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Geiselwind"
+  - "Baden-Württemberg"
 wikidata_id: "Q98169066"
 latitude: 49.773209484
 longitude: 10.470405399
 images:
-  []
----
+  []---
 
 ## Overview
 

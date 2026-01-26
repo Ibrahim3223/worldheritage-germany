@@ -4,13 +4,13 @@ site_name: "St. Nikolai (Lübbenau)"
 date: 2026-01-26
 draft: false
 description: "church building in Lübbenau, Brandenburg state, Germany"
-region: "Lübbenau/Spreewald"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübbenau/Spreewald"
+  - "Brandenburg"
 wikidata_id: "Q2222050"
 latitude: 51.867861111
 longitude: 13.969444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/400px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/800px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/1200px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/1920px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/1920px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg---
 
 ## Overview
 

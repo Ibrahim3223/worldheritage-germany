@@ -4,13 +4,13 @@ site_name: "Dithmarscher Landesmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Meldorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meldorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1230281"
 latitude: 54.0913
 longitude: 9.07347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/400px-Dithm_Landesmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/800px-Dithm_Landesmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1200px-Dithm_Landesmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1920px-Dithm_Landesmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1920px-Dithm_Landesmuseum.JPG---
 
 ## Overview
 

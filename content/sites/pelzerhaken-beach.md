@@ -4,13 +4,13 @@ site_name: "Pelzerhaken Beach"
 date: 2026-01-26
 draft: false
 description: "beach in Germany"
-region: "Pelzerhaken"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Pelzerhaken"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q124156686"
 latitude: 54.08622
 longitude: 10.8713
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Strand_bei_Neustadt_-_panoramio_(1).jpg/400px-Strand_bei_Neustadt_-_panoramio_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Strand_bei_Neustadt_-_panoramio_(1).jpg/800px-Strand_bei_Neustadt_-_panoramio_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Strand_bei_Neustadt_-_panoramio_(1).jpg/1200px-Strand_bei_Neustadt_-_panoramio_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Strand_bei_Neustadt_-_panoramio_(1).jpg/1920px-Strand_bei_Neustadt_-_panoramio_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Strand_bei_Neustadt_-_panoramio_(1).jpg/1920px-Strand_bei_Neustadt_-_panoramio_(1).jpg---
 
 ## Overview
 

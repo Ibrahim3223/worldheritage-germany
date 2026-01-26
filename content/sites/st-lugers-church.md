@@ -4,13 +4,13 @@ site_name: "St Luger's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Billerbeck, North Rhine-Westphalia, Germany"
-region: "Billerbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Billerbeck"
+  - "Lower Saxony"
 wikidata_id: "Q391274"
 latitude: 51.977822
 longitude: 7.291656
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/400px-Ludgerusdom,_Billerbeck_(00312).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/800px-Ludgerusdom,_Billerbeck_(00312).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/1200px-Ludgerusdom,_Billerbeck_(00312).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/1920px-Ludgerusdom,_Billerbeck_(00312).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/1920px-Ludgerusdom,_Billerbeck_(00312).jpg---
 
 ## Overview
 

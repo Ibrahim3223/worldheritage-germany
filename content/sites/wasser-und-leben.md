@@ -4,13 +4,13 @@ site_name: "Wasser und Leben"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2550671"
 latitude: 50.763
 longitude: 6.09056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/400px-Wasser_und_Leben,_Burtscheid.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/800px-Wasser_und_Leben,_Burtscheid.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/1200px-Wasser_und_Leben,_Burtscheid.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/1920px-Wasser_und_Leben,_Burtscheid.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/1920px-Wasser_und_Leben,_Burtscheid.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zeche Carolinenglück"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169718"
 latitude: 51.4929
 longitude: 7.1809
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragseilbahn_Carolinenglück_1968.jpg/400px-Tragseilbahn_Carolinenglück_1968.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragseilbahn_Carolinenglück_1968.jpg/800px-Tragseilbahn_Carolinenglück_1968.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragseilbahn_Carolinenglück_1968.jpg/1200px-Tragseilbahn_Carolinenglück_1968.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragseilbahn_Carolinenglück_1968.jpg/1920px-Tragseilbahn_Carolinenglück_1968.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tragseilbahn_Carolinenglück_1968.jpg/1920px-Tragseilbahn_Carolinenglück_1968.jpg---
 
 ## Overview
 

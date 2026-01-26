@@ -4,13 +4,13 @@ site_name: "Marktkirche (Neuwied)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Neuwied"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuwied"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1525680"
 latitude: 50.4271
 longitude: 7.45853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/400px-Ev.Kirche_Neuwied.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/800px-Ev.Kirche_Neuwied.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/1200px-Ev.Kirche_Neuwied.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/1920px-Ev.Kirche_Neuwied.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/1920px-Ev.Kirche_Neuwied.JPG---
 
 ## Overview
 

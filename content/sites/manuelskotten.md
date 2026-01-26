@@ -4,13 +4,13 @@ site_name: "Manuelskotten"
 date: 2026-01-26
 draft: false
 description: "Industrial museum in Wuppertal"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1891842"
 latitude: 51.1939
 longitude: 7.1175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/400px-Manuelshammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/800px-Manuelshammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/1200px-Manuelshammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/1920px-Manuelshammer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/1920px-Manuelshammer.jpg---
 
 ## Overview
 

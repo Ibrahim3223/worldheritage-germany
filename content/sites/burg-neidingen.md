@@ -4,13 +4,13 @@ site_name: "Burg Neidingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neidingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neidingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013220"
 latitude: 48.09700012
 longitude: 9.05360031
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HöhlenburgNeidingen.jpg/400px-HöhlenburgNeidingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HöhlenburgNeidingen.jpg/800px-HöhlenburgNeidingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HöhlenburgNeidingen.jpg/1200px-HöhlenburgNeidingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HöhlenburgNeidingen.jpg/1920px-HöhlenburgNeidingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HöhlenburgNeidingen.jpg/1920px-HöhlenburgNeidingen.jpg---
 
 ## Overview
 

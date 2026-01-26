@@ -4,19 +4,18 @@ site_name: "Erstes Deutsches Bananenmuseum"
 date: 2026-01-26
 draft: false
 description: "former museum in Sierksdorf, Germany"
-region: "Sierksdorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sierksdorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1362258"
 latitude: 54.0676
 longitude: 10.769
 images:
-  []
----
+  []---
 
 ## Overview
 

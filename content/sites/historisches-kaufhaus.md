@@ -4,13 +4,13 @@ site_name: "Historisches Kaufhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nordenham"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nordenham"
+  - "Lower Saxony"
 wikidata_id: "Q1481064"
 latitude: 53.485
 longitude: 8.43694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/400px-Historisches-Kaufhaus-Abbehausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/800px-Historisches-Kaufhaus-Abbehausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/1200px-Historisches-Kaufhaus-Abbehausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/1920px-Historisches-Kaufhaus-Abbehausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/1920px-Historisches-Kaufhaus-Abbehausen.jpg---
 
 ## Overview
 

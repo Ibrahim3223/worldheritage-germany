@@ -4,13 +4,13 @@ site_name: "Hamelin Prison"
 date: 2026-01-26
 draft: false
 description: "historic site"
-region: "Hamelin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Hamelin"
+  - "Lower Saxony"
 wikidata_id: "Q1498152"
 latitude: 52.1008
 longitude: 9.35415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/400px-Gefängnis_Hameln_um_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/800px-Gefängnis_Hameln_um_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1200px-Gefängnis_Hameln_um_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1920px-Gefängnis_Hameln_um_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1920px-Gefängnis_Hameln_um_1900.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Pankow village church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1244581"
 latitude: 52.5706
 longitude: 13.4086
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/400px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/800px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1920px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1920px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg---
 
 ## Overview
 

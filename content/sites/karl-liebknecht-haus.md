@@ -4,13 +4,13 @@ site_name: "Karl-Liebknecht-Haus"
 date: 2026-01-26
 draft: false
 description: "office block in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q455020"
 latitude: 52.5261
 longitude: 13.4131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/400px-Karl-Liebknecht-HausSchuschke.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/800px-Karl-Liebknecht-HausSchuschke.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/1200px-Karl-Liebknecht-HausSchuschke.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/1920px-Karl-Liebknecht-HausSchuschke.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/1920px-Karl-Liebknecht-HausSchuschke.JPG---
 
 ## Overview
 

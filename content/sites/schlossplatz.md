@@ -4,13 +4,13 @@ site_name: "Schlossplatz"
 date: 2026-01-26
 draft: false
 description: "square in Coburg"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q1110315"
 latitude: 50.2588
 longitude: 10.9676
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Schlossplatzpano09.jpg/400px-Schlossplatzpano09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Schlossplatzpano09.jpg/800px-Schlossplatzpano09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Schlossplatzpano09.jpg/1200px-Schlossplatzpano09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Schlossplatzpano09.jpg/1920px-Schlossplatzpano09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Schlossplatzpano09.jpg/1920px-Schlossplatzpano09.jpg---
 
 ## Overview
 

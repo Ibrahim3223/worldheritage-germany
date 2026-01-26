@@ -4,19 +4,18 @@ site_name: "Fossiliensammlung Hans Klein, Prichsenstadt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629136"
 latitude: 49.817146
 longitude: 10.354876
 images:
-  []
----
+  []---
 
 ## Overview
 

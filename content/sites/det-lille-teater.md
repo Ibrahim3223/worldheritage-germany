@@ -4,13 +4,13 @@ site_name: "Det lille Teater"
 date: 2026-01-26
 draft: false
 description: "dänische Theaterbühne in Flensburg"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q834543"
 latitude: 54.7899
 longitude: 9.43013
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/400px-Det_lille_Teater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/800px-Det_lille_Teater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1200px-Det_lille_Teater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1920px-Det_lille_Teater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1920px-Det_lille_Teater.jpg---
 
 ## Overview
 

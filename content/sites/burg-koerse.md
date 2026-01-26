@@ -4,13 +4,13 @@ site_name: "Burg Körse"
 date: 2026-01-26
 draft: false
 description: "castle in Saxony, Germany"
-region: "Schirgiswalde-Kirschau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schirgiswalde-Kirschau"
+  - "Saxony"
 wikidata_id: "Q1012777"
 latitude: 51.0889
 longitude: 14.43
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/400px-Burg_Körse_Geländemodell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/800px-Burg_Körse_Geländemodell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/1200px-Burg_Körse_Geländemodell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/1920px-Burg_Körse_Geländemodell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/1920px-Burg_Körse_Geländemodell.jpg---
 
 ## Overview
 

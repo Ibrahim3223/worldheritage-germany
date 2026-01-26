@@ -4,13 +4,13 @@ site_name: "Knappenrode energy museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hoyerswerda"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hoyerswerda"
+  - "Saxony"
 wikidata_id: "Q1341274"
 latitude: 51.3975
 longitude: 14.3292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/400px-Hoyerswerda_Knappenrode_Aerial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/800px-Hoyerswerda_Knappenrode_Aerial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/1200px-Hoyerswerda_Knappenrode_Aerial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/1920px-Hoyerswerda_Knappenrode_Aerial.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/1920px-Hoyerswerda_Knappenrode_Aerial.jpg---
 
 ## Overview
 

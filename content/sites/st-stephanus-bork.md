@@ -4,13 +4,13 @@ site_name: "St. Stephanus, Bork"
 date: 2026-01-26
 draft: false
 description: "church building in Selm, Germany"
-region: "Selm"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Selm"
+  - "Lower Saxony"
 wikidata_id: "Q2323260"
 latitude: 51.6649
 longitude: 7.46622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/400px-Bork_Kirche_IMGP6071_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/800px-Bork_Kirche_IMGP6071_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/1200px-Bork_Kirche_IMGP6071_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/1920px-Bork_Kirche_IMGP6071_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/1920px-Bork_Kirche_IMGP6071_wp.jpg---
 
 ## Overview
 

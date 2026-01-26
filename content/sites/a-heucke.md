@@ -4,19 +4,18 @@ site_name: "A. Heucke"
 date: 2026-01-26
 draft: false
 description: "historische deutsche Maschinenfabrik in Gatersleben, Hersteller von Dampfpflügen"
-region: "Seeland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Seeland"
+  - "Lower Saxony"
 wikidata_id: "Q278714"
 latitude: 51.829777777
 longitude: 11.289916666
 images:
-  []
----
+  []---
 
 ## Overview
 

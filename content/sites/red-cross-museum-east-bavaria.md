@@ -4,19 +4,18 @@ site_name: "Red Cross Museum East Bavaria"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nabburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nabburg"
+  - "Bavaria"
 wikidata_id: "Q76629246"
 latitude: 49.44839
 longitude: 12.1716
 images:
-  []
----
+  []---
 
 ## Overview
 

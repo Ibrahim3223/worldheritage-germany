@@ -4,19 +4,18 @@ site_name: "Zwiesel Kristallglas"
 date: 2026-01-26
 draft: false
 description: "Crystal glass manufacturer based in Zwiesel in the Bavarian Forest"
-region: "Zwiesel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Zwiesel"
+  - "Bavaria"
 wikidata_id: "Q244659"
 latitude: 49.017632
 longitude: 13.22803
 images:
-  []
----
+  []---
 
 ## Overview
 

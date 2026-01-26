@@ -4,19 +4,18 @@ site_name: "Burg Katenmoos"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Katzenmoos"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Katzenmoos"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012621"
 latitude: 48.1658
 longitude: 8.04081
 images:
-  []
----
+  []---
 
 ## Overview
 

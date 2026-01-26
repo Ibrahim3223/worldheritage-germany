@@ -4,13 +4,13 @@ site_name: "Pfalz"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-126-159 (0) in Forchheim, Bavaria"
-region: "Forchheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Forchheim"
+  - "Bavaria"
 wikidata_id: "Q1011735"
 latitude: 49.720254909
 longitude: 11.055449548
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg/400px-Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg/800px-Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg/1200px-Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg/1920px-Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg/1920px-Burg_Forchheim_-_Kaiserpfalz_-_2012.jpg---
 
 ## Overview
 

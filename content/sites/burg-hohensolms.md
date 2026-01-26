@@ -4,13 +4,13 @@ site_name: "Burg Hohensolms"
 date: 2026-01-26
 draft: false
 description: "castle complex in the 14th century and partially destroyed in the Thirty Years' War in Hohensolms in the Lahn-Dill district, Hesse, Germany"
-region: "Hohenahr"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hohenahr"
+  - "Hesse"
 wikidata_id: "Q1012439"
 latitude: 50.6547
 longitude: 8.5142
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohensolms_02.jpg/400px-Burg_Hohensolms_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohensolms_02.jpg/800px-Burg_Hohensolms_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohensolms_02.jpg/1200px-Burg_Hohensolms_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohensolms_02.jpg/1920px-Burg_Hohensolms_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohensolms_02.jpg/1920px-Burg_Hohensolms_02.jpg---
 
 ## Overview
 

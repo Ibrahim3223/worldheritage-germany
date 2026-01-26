@@ -4,13 +4,13 @@ site_name: "Lausche"
 date: 2026-01-26
 draft: false
 description: "mountain on the border between Czech Republic and Germany"
-region: "Großschönau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Großschönau"
+  - "Saxony"
 wikidata_id: "Q159671"
 latitude: 50.848888888
 longitude: 14.646944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lausche.jpg/400px-Lausche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lausche.jpg/800px-Lausche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lausche.jpg/1200px-Lausche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lausche.jpg/1920px-Lausche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lausche.jpg/1920px-Lausche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Townhall in Frankenstein"
 date: 2026-01-26
 draft: false
 description: "heritage building in Falkenstein, Saxony, Germany"
-region: "Falkenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Falkenstein"
+  - "Bavaria"
 wikidata_id: "Q49564563"
 latitude: 50.475058
 longitude: 12.370893
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/400px-Falkenstein,_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/800px-Falkenstein,_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/1200px-Falkenstein,_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/1920px-Falkenstein,_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/1920px-Falkenstein,_Rathaus.JPG---
 
 ## Overview
 

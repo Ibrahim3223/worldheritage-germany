@@ -4,19 +4,18 @@ site_name: "Altemann Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169639"
 latitude: 51.423
 longitude: 7.21376
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1257605"
 latitude: 47.7099
 longitude: 10.2981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/400px-Dreifältigkeitskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/800px-Dreifältigkeitskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/1200px-Dreifältigkeitskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/1920px-Dreifältigkeitskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/1920px-Dreifältigkeitskapelle.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dialogmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1208488"
 latitude: 50.1122
 longitude: 8.71361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/400px-Dialogmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/800px-Dialogmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/1200px-Dialogmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/1920px-Dialogmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/1920px-Dialogmuseum.jpg---
 
 ## Overview
 

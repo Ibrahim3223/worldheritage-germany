@@ -4,13 +4,13 @@ site_name: "Ritterhaus Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Offenburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Offenburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q22693123"
 latitude: 48.468671
 longitude: 7.944414
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Offenburg-Ritterhaus1-Bubo.JPG/400px-Offenburg-Ritterhaus1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Offenburg-Ritterhaus1-Bubo.JPG/800px-Offenburg-Ritterhaus1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Offenburg-Ritterhaus1-Bubo.JPG/1200px-Offenburg-Ritterhaus1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Offenburg-Ritterhaus1-Bubo.JPG/1920px-Offenburg-Ritterhaus1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Offenburg-Ritterhaus1-Bubo.JPG/1920px-Offenburg-Ritterhaus1-Bubo.JPG---
 
 ## Overview
 

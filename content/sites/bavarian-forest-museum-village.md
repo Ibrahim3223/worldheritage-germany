@@ -4,19 +4,18 @@ site_name: "Bavarian Forest Museum Village"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tittling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tittling"
+  - "Bavaria"
 wikidata_id: "Q1954807"
 latitude: 48.739524053
 longitude: 13.35171792
 images:
-  []
----
+  []---
 
 ## Overview
 

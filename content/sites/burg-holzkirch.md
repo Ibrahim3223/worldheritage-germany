@@ -4,19 +4,18 @@ site_name: "Burg Holzkirch"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Holzkirch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Holzkirch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012478"
 latitude: 48.524
 longitude: 10.0021
 images:
-  []
----
+  []---
 
 ## Overview
 

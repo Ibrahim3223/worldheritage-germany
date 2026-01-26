@@ -4,19 +4,18 @@ site_name: "Sandstein-Bogenbrücke über den Cunnersdorfer Bach Rosenthal"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rosenthal-Bielatal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rosenthal-Bielatal"
+  - "Saxony"
 wikidata_id: "Q49443613"
 latitude: 50.966215394
 longitude: 12.961904141
 images:
-  []
----
+  []---
 
 ## Overview
 

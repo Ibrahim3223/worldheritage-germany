@@ -4,13 +4,13 @@ site_name: "Ulrichskirche (Siglingen)"
 date: 2026-01-26
 draft: false
 description: "church building in Neudenau, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Neudenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neudenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2477139"
 latitude: 49.3003
 longitude: 9.30659
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neudenau-Siglingen-2012-pic9.JPG/400px-Neudenau-Siglingen-2012-pic9.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neudenau-Siglingen-2012-pic9.JPG/800px-Neudenau-Siglingen-2012-pic9.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neudenau-Siglingen-2012-pic9.JPG/1200px-Neudenau-Siglingen-2012-pic9.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neudenau-Siglingen-2012-pic9.JPG/1920px-Neudenau-Siglingen-2012-pic9.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neudenau-Siglingen-2012-pic9.JPG/1920px-Neudenau-Siglingen-2012-pic9.JPG---
 
 ## Overview
 

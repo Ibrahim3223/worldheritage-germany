@@ -4,13 +4,13 @@ site_name: "Luise"
 date: 2026-01-26
 draft: false
 description: "motor ship, now museum in Göhren, Germany"
-region: "Ostseebad Göhren"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ostseebad Göhren"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1437462"
 latitude: 54.3345
 longitude: 13.7362
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/400px-Museumsschiff_Luise.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/800px-Museumsschiff_Luise.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/1200px-Museumsschiff_Luise.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/1920px-Museumsschiff_Luise.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/1920px-Museumsschiff_Luise.JPG---
 
 ## Overview
 

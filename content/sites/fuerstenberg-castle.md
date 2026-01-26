@@ -4,13 +4,13 @@ site_name: "Fürstenberg Castle"
 date: 2026-01-26
 draft: false
 description: "Oberdiebach-Rheindiebach, Rhineland-Palatinate"
-region: "Oberdiebach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Oberdiebach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1011887"
 latitude: 50.0417
 longitude: 7.78739
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/400px-Burg_Fürstenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/800px-Burg_Fürstenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/1200px-Burg_Fürstenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/1920px-Burg_Fürstenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/1920px-Burg_Fürstenberg.jpg---
 
 ## Overview
 

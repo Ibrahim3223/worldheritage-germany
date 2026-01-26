@@ -4,13 +4,13 @@ site_name: "Staatliche Kunsthalle Baden-Baden"
 date: 2026-01-26
 draft: false
 description: "art museum in Baden-Baden, Germany"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1792405"
 latitude: 48.7585
 longitude: 8.23806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/400px-Kunsthalle_Baden-Baden_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/800px-Kunsthalle_Baden-Baden_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/1200px-Kunsthalle_Baden-Baden_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/1920px-Kunsthalle_Baden-Baden_Fassade.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/1920px-Kunsthalle_Baden-Baden_Fassade.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Christ Church Mannheim"
 date: 2026-01-26
 draft: false
 description: "church in Mannheim, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1087367"
 latitude: 49.4846
 longitude: 8.4807
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/400px-ChristusKircheMAfront.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/800px-ChristusKircheMAfront.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1200px-ChristusKircheMAfront.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1920px-ChristusKircheMAfront.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1920px-ChristusKircheMAfront.jpg---
 
 ## Overview
 

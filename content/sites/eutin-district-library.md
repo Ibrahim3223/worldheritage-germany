@@ -4,13 +4,13 @@ site_name: "Eutin district library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Eutin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Eutin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1787618"
 latitude: 54.137
 longitude: 10.6188
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg/400px-Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg/800px-Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg/1200px-Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg/1920px-Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg/1920px-Die_Kreisbibliothek_Eutin_am_Schlossplatz_2.jpg---
 
 ## Overview
 

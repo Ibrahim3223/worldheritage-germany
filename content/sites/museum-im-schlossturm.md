@@ -4,19 +4,18 @@ site_name: "Museum im Schlossturm"
 date: 2026-01-26
 draft: false
 description: "museum in Diepholz, Germany"
-region: "Diepholz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Diepholz"
+  - "Lower Saxony"
 wikidata_id: "Q1516470"
 latitude: 52.6036
 longitude: 8.37229
 images:
-  []
----
+  []---
 
 ## Overview
 

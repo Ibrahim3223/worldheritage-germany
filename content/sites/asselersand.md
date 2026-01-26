@@ -4,13 +4,13 @@ site_name: "Asselersand"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Drochtersen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Drochtersen"
+  - "Lower Saxony"
 wikidata_id: "Q740268"
 latitude: 53.7006
 longitude: 9.44611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/400px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/800px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/1200px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/1920px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/1920px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG---
 
 ## Overview
 

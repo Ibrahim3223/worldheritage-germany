@@ -4,13 +4,13 @@ site_name: "Maria Laach Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Germany"
-region: "Maria Laach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Maria Laach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q334032"
 latitude: 50.402261
 longitude: 7.252098
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Maria_Laach_02.jpg/400px-Maria_Laach_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Maria_Laach_02.jpg/800px-Maria_Laach_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Maria_Laach_02.jpg/1200px-Maria_Laach_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Maria_Laach_02.jpg/1920px-Maria_Laach_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Maria_Laach_02.jpg/1920px-Maria_Laach_02.jpg---
 
 ## Overview
 

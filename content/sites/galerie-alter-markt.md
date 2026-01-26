@@ -4,13 +4,13 @@ site_name: "Galerie Alter Markt"
 date: 2026-01-26
 draft: false
 description: "public square in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q438080"
 latitude: 51.4805
 longitude: 11.9697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/400px-Eselsbrunnen_Halle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/800px-Eselsbrunnen_Halle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/1200px-Eselsbrunnen_Halle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/1920px-Eselsbrunnen_Halle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/1920px-Eselsbrunnen_Halle.jpg---
 
 ## Overview
 

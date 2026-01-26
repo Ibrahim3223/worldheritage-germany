@@ -4,13 +4,13 @@ site_name: "Kunsthalle Osnabrück"
 date: 2026-01-26
 draft: false
 description: "former church building in Osnabrück, Germany, now an art gallery"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q869696"
 latitude: 52.2789
 longitude: 8.03956
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/OS-Kunsthalle-Dominikanerkirche-20071227.jpg/400px-OS-Kunsthalle-Dominikanerkirche-20071227.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/OS-Kunsthalle-Dominikanerkirche-20071227.jpg/800px-OS-Kunsthalle-Dominikanerkirche-20071227.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/OS-Kunsthalle-Dominikanerkirche-20071227.jpg/1200px-OS-Kunsthalle-Dominikanerkirche-20071227.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/OS-Kunsthalle-Dominikanerkirche-20071227.jpg/1920px-OS-Kunsthalle-Dominikanerkirche-20071227.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/OS-Kunsthalle-Dominikanerkirche-20071227.jpg/1920px-OS-Kunsthalle-Dominikanerkirche-20071227.jpg---
 
 ## Overview
 

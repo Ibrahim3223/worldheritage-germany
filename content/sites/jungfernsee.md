@@ -4,13 +4,13 @@ site_name: "Jungfernsee"
 date: 2026-01-26
 draft: false
 description: "lake in Steglitz-Zehlendorf, Brandenburg, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Brandenburg"
 wikidata_id: "Q181494"
 latitude: 52.416666666
 longitude: 13.083333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/400px-Jungfernsee-18-V-07-006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/800px-Jungfernsee-18-V-07-006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/1200px-Jungfernsee-18-V-07-006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/1920px-Jungfernsee-18-V-07-006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/1920px-Jungfernsee-18-V-07-006.jpg---
 
 ## Overview
 

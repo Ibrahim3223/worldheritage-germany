@@ -4,19 +4,18 @@ site_name: "Burg Holtrop"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bergheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bergheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012468"
 latitude: 50.9789
 longitude: 6.64278
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schambachried"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Treuchtlingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Treuchtlingen"
+  - "Bavaria"
 wikidata_id: "Q658746"
 latitude: 48.9672
 longitude: 10.93696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/400px-Schambachried_mit_Gunthildiskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/800px-Schambachried_mit_Gunthildiskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/1200px-Schambachried_mit_Gunthildiskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/1920px-Schambachried_mit_Gunthildiskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/1920px-Schambachried_mit_Gunthildiskapelle.jpg---
 
 ## Overview
 

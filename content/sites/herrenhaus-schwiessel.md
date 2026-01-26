@@ -4,13 +4,13 @@ site_name: "Herrenhaus Schwiessel"
 date: 2026-01-26
 draft: false
 description: "Gebäude im Ortsteil Schwiessel der Gemeinde Prebberede"
-region: "Prebberede"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Prebberede"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1614089"
 latitude: 53.8632
 longitude: 12.4621
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/400px-Schwiessel_altes_Gutshaus_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/800px-Schwiessel_altes_Gutshaus_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/1200px-Schwiessel_altes_Gutshaus_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/1920px-Schwiessel_altes_Gutshaus_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/1920px-Schwiessel_altes_Gutshaus_1.JPG---
 
 ## Overview
 

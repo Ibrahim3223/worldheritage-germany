@@ -4,19 +4,18 @@ site_name: "Ehrenmal auf dem Straßburger Platz"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1300200"
 latitude: 52.275846
 longitude: 8.031097
 images:
-  []
----
+  []---
 
 ## Overview
 

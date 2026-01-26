@@ -4,13 +4,13 @@ site_name: "Church of Peace, Löbtau"
 date: 2026-01-26
 draft: false
 description: "church building in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1456772"
 latitude: 51.0453
 longitude: 13.7002
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/400px-Friedenskirche_Dresden_vollst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/800px-Friedenskirche_Dresden_vollst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/1200px-Friedenskirche_Dresden_vollst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/1920px-Friedenskirche_Dresden_vollst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/1920px-Friedenskirche_Dresden_vollst.jpg---
 
 ## Overview
 

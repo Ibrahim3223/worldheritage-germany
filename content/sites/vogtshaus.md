@@ -4,13 +4,13 @@ site_name: "Vogtshaus"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Böblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Böblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1205630"
 latitude: 48.6852
 longitude: 9.01221
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg/400px-Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg/800px-Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg/1200px-Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg/1920px-Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg/1920px-Fachwerkhäuser_auf_dem_Marktplatz_Böblingen_03.jpg---
 
 ## Overview
 

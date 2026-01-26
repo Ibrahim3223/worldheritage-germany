@@ -4,13 +4,13 @@ site_name: "Gut Altfresenburg: Torhaus"
 date: 2026-01-26
 draft: false
 description: "Torhaus in Bad Oldesloe, Schleswig-Holstein"
-region: "Bad Oldesloe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Bad Oldesloe"
+  - "Lower Saxony"
 wikidata_id: "Q58404700"
 latitude: 53.822093
 longitude: 10.360195
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/400px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/800px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/1200px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/1920px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/1920px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hanns-Martin-Schleyer-Halle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q648057"
 latitude: 48.793889
 longitude: 9.226944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/400px-Schleyerhalle-West.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/800px-Schleyerhalle-West.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/1200px-Schleyerhalle-West.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/1920px-Schleyerhalle-West.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/1920px-Schleyerhalle-West.jpg---
 
 ## Overview
 

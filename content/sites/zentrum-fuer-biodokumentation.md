@@ -4,19 +4,18 @@ site_name: "Zentrum für Biodokumentation"
 date: 2026-01-26
 draft: false
 description: "deutsche Organisation"
-region: "Schiffweiler"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schiffweiler"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q191195"
 latitude: 49.35
 longitude: 7.11139
 images:
-  []
----
+  []---
 
 ## Overview
 

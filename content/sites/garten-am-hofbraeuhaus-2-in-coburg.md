@@ -4,19 +4,18 @@ site_name: "Garten Am Hofbräuhaus 2 in Coburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-414 (1) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98589423"
 latitude: 50.254593716
 longitude: 10.957525576
 images:
-  []
----
+  []---
 
 ## Overview
 

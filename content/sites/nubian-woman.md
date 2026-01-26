@@ -4,13 +4,13 @@ site_name: "Nubian Woman"
 date: 2026-01-26
 draft: false
 description: "sculpture by Bernhard Sopher"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1215217"
 latitude: 51.2352
 longitude: 6.77129
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/400px-Statue_"Die_Nubierin%22_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_%22Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/800px-Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1200px-Statue_"Die_Nubierin%22_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_%22Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_%22Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg---
 
 ## Overview
 

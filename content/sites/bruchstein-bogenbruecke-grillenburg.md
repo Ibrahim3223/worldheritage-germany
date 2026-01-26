@@ -4,19 +4,18 @@ site_name: "Bruchstein-Bogenbrücke Grillenburg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Tharandt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Tharandt"
+  - "Saxony"
 wikidata_id: "Q49444113"
 latitude: 50.93739
 longitude: 13.52755
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Verden (Aller) railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Verden an der Aller, Germany"
-region: "Verden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Verden"
+  - "Lower Saxony"
 wikidata_id: "Q612074"
 latitude: 52.9208
 longitude: 9.2375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/400px-Bahnhof_Verden_(Aller)_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/800px-Bahnhof_Verden_(Aller)_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/1200px-Bahnhof_Verden_(Aller)_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/1920px-Bahnhof_Verden_(Aller)_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/1920px-Bahnhof_Verden_(Aller)_2014.jpg---
 
 ## Overview
 

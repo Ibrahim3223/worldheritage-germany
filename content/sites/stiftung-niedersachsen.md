@@ -4,19 +4,18 @@ site_name: "Stiftung Niedersachsen"
 date: 2026-01-26
 draft: false
 description: "Landeskulturstiftung, fördert Kunst, Kultur, Bildung und Wissenschaft"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1549515"
 latitude: 52.3729
 longitude: 9.74354
 images:
-  []
----
+  []---
 
 ## Overview
 

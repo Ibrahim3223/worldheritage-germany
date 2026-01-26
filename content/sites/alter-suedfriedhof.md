@@ -4,13 +4,13 @@ site_name: "Alter Südfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q438199"
 latitude: 48.127265054
 longitude: 11.564875282
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/400px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/800px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/1200px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/1920px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/1920px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg---
 
 ## Overview
 

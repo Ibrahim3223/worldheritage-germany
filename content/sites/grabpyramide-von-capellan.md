@@ -4,13 +4,13 @@ site_name: "Grabpyramide von Capellan"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Ringgau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Ringgau"
+  - "Hesse"
 wikidata_id: "Q116510839"
 latitude: 51.07432912
 longitude: 10.139791403
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/400px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/800px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1200px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1920px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1920px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg---
 
 ## Overview
 

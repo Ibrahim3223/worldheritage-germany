@@ -4,13 +4,13 @@ site_name: "Ruine Lengenfeld, Donautal"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hausen im Tal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hausen im Tal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012905"
 latitude: 48.0679
 longitude: 9.0149
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/400px-27,_Ruine_Lengenfeld,_Donautal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/800px-27,_Ruine_Lengenfeld,_Donautal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/1200px-27,_Ruine_Lengenfeld,_Donautal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/1920px-27,_Ruine_Lengenfeld,_Donautal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/1920px-27,_Ruine_Lengenfeld,_Donautal.JPG---
 
 ## Overview
 

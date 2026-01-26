@@ -4,13 +4,13 @@ site_name: "Midlumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Midlum, municipality of Jemgum, East Frisia, Germany"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q1932007"
 latitude: 53.2849
 longitude: 7.37252
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/400px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/800px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1200px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1920px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1920px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg---
 
 ## Overview
 

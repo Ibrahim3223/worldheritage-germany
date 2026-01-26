@@ -4,13 +4,13 @@ site_name: "Forsthaus"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-72-143-10 (0) in Goldkronach, Bavaria"
-region: "Goldkronach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goldkronach"
+  - "Bavaria"
 wikidata_id: "Q20183723"
 latitude: 50.00969444
 longitude: 11.68583333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/400px-Goldkronach_2015_xy6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/800px-Goldkronach_2015_xy6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/1200px-Goldkronach_2015_xy6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/1920px-Goldkronach_2015_xy6.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/1920px-Goldkronach_2015_xy6.JPG---
 
 ## Overview
 

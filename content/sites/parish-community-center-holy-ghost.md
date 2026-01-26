@@ -4,13 +4,13 @@ site_name: "Parish Community Center Holy Ghost"
 date: 2026-01-26
 draft: false
 description: "church building in Wolfsburg, Germany"
-region: "Wolfsburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wolfsburg"
+  - "Lower Saxony"
 wikidata_id: "Q11722210"
 latitude: 52.4096
 longitude: 10.7697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/400px-Wolfsburg_Heilig-Geist_2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/800px-Wolfsburg_Heilig-Geist_2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/1200px-Wolfsburg_Heilig-Geist_2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/1920px-Wolfsburg_Heilig-Geist_2012.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/1920px-Wolfsburg_Heilig-Geist_2012.JPG---
 
 ## Overview
 

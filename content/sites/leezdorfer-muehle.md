@@ -4,13 +4,13 @@ site_name: "Leezdorfer Mühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
-region: "Leezdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Leezdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1812272"
 latitude: 53.5491
 longitude: 7.29206
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/400px-LeezdorfMühleHof_Ausschnitt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/800px-LeezdorfMühleHof_Ausschnitt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/1200px-LeezdorfMühleHof_Ausschnitt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/1920px-LeezdorfMühleHof_Ausschnitt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/1920px-LeezdorfMühleHof_Ausschnitt.jpg---
 
 ## Overview
 

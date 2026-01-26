@@ -4,19 +4,18 @@ site_name: "Brücke über die Rachel Clausnitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rechenberg-Bienenmühle"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rechenberg-Bienenmühle"
+  - "Saxony"
 wikidata_id: "Q49449224"
 latitude: 50.73152099
 longitude: 13.494753202
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hamburger Kunsthalle"
 date: 2026-01-26
 draft: false
 description: "art museum in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q169542"
 latitude: 53.555
 longitude: 10.003055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/400px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/800px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1200px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1920px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1920px-Hamburger-kunsthalle-alter-treppenaufgang.jpg---
 
 ## Overview
 

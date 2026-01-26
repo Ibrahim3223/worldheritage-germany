@@ -4,19 +4,18 @@ site_name: "Eisenbahnstrecke Riesa–Nossen Pinnewitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Nossen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Nossen"
+  - "Saxony"
 wikidata_id: "Q49451278"
 latitude: 51.128022007
 longitude: 13.300693289
 images:
-  []
----
+  []---
 
 ## Overview
 

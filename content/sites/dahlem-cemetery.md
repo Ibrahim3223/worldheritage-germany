@@ -4,13 +4,13 @@ site_name: "Dahlem Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Dahlem, Berlin, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q321319"
 latitude: 52.458913888
 longitude: 13.286105555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/400px-Friedhof_Dahlem_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/800px-Friedhof_Dahlem_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/1200px-Friedhof_Dahlem_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/1920px-Friedhof_Dahlem_Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/1920px-Friedhof_Dahlem_Tor.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Werk 2 - Kulturfabrik Leipzig"
 date: 2026-01-26
 draft: false
 description: "cultural centre in a former factory in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2560259"
 latitude: 51.3102
 longitude: 12.3718
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/400px-Leipzig_Werk_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/800px-Leipzig_Werk_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/1200px-Leipzig_Werk_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/1920px-Leipzig_Werk_II.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/1920px-Leipzig_Werk_II.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Vorgarten Nähe Triesdorfer Straße in Weidenbach (Mittelfranken)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-71-216-11 (3) in Weidenbach (Mittelfranken), Bavaria"
-region: "Weidenbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Weidenbach"
+  - "Bavaria"
 wikidata_id: "Q98634701"
 latitude: 49.20082924
 longitude: 10.648176907
 images:
-  []
----
+  []---
 
 ## Overview
 

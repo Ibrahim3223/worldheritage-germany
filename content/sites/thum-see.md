@@ -4,13 +4,13 @@ site_name: "Thum-See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "District of Berchtesgadener Land"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "District of Berchtesgadener Land"
+  - "Bavaria"
 wikidata_id: "Q253393"
 latitude: 47.719166666
 longitude: 12.825555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thumsee01.jpg/400px-Thumsee01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thumsee01.jpg/800px-Thumsee01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thumsee01.jpg/1200px-Thumsee01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thumsee01.jpg/1920px-Thumsee01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thumsee01.jpg/1920px-Thumsee01.jpg---
 
 ## Overview
 

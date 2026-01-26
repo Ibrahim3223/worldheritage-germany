@@ -4,13 +4,13 @@ site_name: "Abschnittsbefestigung Puch"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Fürstenfeldbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Fürstenfeldbruck"
+  - "Bavaria"
 wikidata_id: "Q332106"
 latitude: 48.1808
 longitude: 11.2172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Überreste_der_Abschnittsbefestigung_Puch_01.jpg/400px-Überreste_der_Abschnittsbefestigung_Puch_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Überreste_der_Abschnittsbefestigung_Puch_01.jpg/800px-Überreste_der_Abschnittsbefestigung_Puch_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Überreste_der_Abschnittsbefestigung_Puch_01.jpg/1200px-Überreste_der_Abschnittsbefestigung_Puch_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Überreste_der_Abschnittsbefestigung_Puch_01.jpg/1920px-Überreste_der_Abschnittsbefestigung_Puch_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Überreste_der_Abschnittsbefestigung_Puch_01.jpg/1920px-Überreste_der_Abschnittsbefestigung_Puch_01.jpg---
 
 ## Overview
 

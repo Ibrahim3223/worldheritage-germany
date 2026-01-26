@@ -4,13 +4,13 @@ site_name: "Reichlin-von-Meldegg-Haus"
 date: 2026-01-26
 draft: false
 description: "building in Überlingen/Germany"
-region: "Überlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Überlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q50778172"
 latitude: 47.76763
 longitude: 9.16332
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/400px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/800px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/1200px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/1920px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/1920px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg---
 
 ## Overview
 

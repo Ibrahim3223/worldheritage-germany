@@ -4,19 +4,18 @@ site_name: "Mönchgut Coastal Fishing Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Baabe"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Baabe"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1957985"
 latitude: 54.3538
 longitude: 13.6983
 images:
-  []
----
+  []---
 
 ## Overview
 

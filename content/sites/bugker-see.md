@@ -4,19 +4,18 @@ site_name: "Bugker See"
 date: 2026-01-26
 draft: false
 description: "lake in Storkow (Mark), Brandenburg, Germany"
-region: "Storkow (Mark)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Storkow (Mark)"
+  - "Brandenburg"
 wikidata_id: "Q1002515"
 latitude: 52.1922
 longitude: 13.9089
 images:
-  []
----
+  []---
 
 ## Overview
 

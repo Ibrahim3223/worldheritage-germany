@@ -4,13 +4,13 @@ site_name: "Museum Eckernförde"
 date: 2026-01-26
 draft: false
 description: "museum in Eckernförde"
-region: "Eckernförde"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eckernförde"
+  - "Schleswig-Holstein"
 wikidata_id: "Q18629297"
 latitude: 54.471527
 longitude: 9.835925
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eckernförde_Museum.jpg/400px-Eckernförde_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eckernförde_Museum.jpg/800px-Eckernförde_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eckernförde_Museum.jpg/1200px-Eckernförde_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eckernförde_Museum.jpg/1920px-Eckernförde_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eckernförde_Museum.jpg/1920px-Eckernförde_Museum.jpg---
 
 ## Overview
 

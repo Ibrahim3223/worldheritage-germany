@@ -4,13 +4,13 @@ site_name: "Cohn-Scheune"
 date: 2026-01-26
 draft: false
 description: "museum in Rotenburg (Wümme), Germany"
-region: "Rotenburg an der Wümme"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rotenburg an der Wümme"
+  - "Lower Saxony"
 wikidata_id: "Q1107104"
 latitude: 53.1097
 longitude: 9.40542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/400px-Cohn-Scheune.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/800px-Cohn-Scheune.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/1200px-Cohn-Scheune.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/1920px-Cohn-Scheune.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/1920px-Cohn-Scheune.jpg---
 
 ## Overview
 

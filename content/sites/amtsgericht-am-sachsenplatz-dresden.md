@@ -4,13 +4,13 @@ site_name: "Amtsgericht am Sachsenplatz, Dresden"
 date: 2026-01-26
 draft: false
 description: "court in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q481179"
 latitude: 51.0543
 longitude: 13.7565
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/400px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/800px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/1200px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/1920px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/1920px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg---
 
 ## Overview
 

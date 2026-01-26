@@ -4,13 +4,13 @@ site_name: "Borstenbachtal"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bad Oeynhausen, North Rhine-Westphalia, Germany"
-region: "Bad Oeynhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bad Oeynhausen"
+  - "Lower Saxony"
 wikidata_id: "Q894227"
 latitude: 52.1826
 longitude: 8.82952
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NSG-Borstenbachtal-01.jpg/400px-NSG-Borstenbachtal-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NSG-Borstenbachtal-01.jpg/800px-NSG-Borstenbachtal-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NSG-Borstenbachtal-01.jpg/1200px-NSG-Borstenbachtal-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NSG-Borstenbachtal-01.jpg/1920px-NSG-Borstenbachtal-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NSG-Borstenbachtal-01.jpg/1920px-NSG-Borstenbachtal-01.jpg---
 
 ## Overview
 

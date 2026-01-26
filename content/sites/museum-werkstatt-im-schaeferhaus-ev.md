@@ -4,13 +4,13 @@ site_name: "Museum & Werkstatt im Schäferhaus e.V."
 date: 2026-01-26
 draft: false
 description: "former museum in Lippoldsberg, Germany"
-region: "Wesertal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wesertal"
+  - "Hesse"
 wikidata_id: "Q76634026"
 latitude: 51.624959
 longitude: 9.55619
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/400px-Lippoldsberg_Schaeferhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/800px-Lippoldsberg_Schaeferhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/1200px-Lippoldsberg_Schaeferhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/1920px-Lippoldsberg_Schaeferhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/1920px-Lippoldsberg_Schaeferhaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Habichtswald"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Habichtswald"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Habichtswald"
+  - "Hesse"
 wikidata_id: "Q1407051"
 latitude: 51.3141
 longitude: 9.34589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Habichtswald_Fernmeldeturm.jpg/400px-Habichtswald_Fernmeldeturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Habichtswald_Fernmeldeturm.jpg/800px-Habichtswald_Fernmeldeturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Habichtswald_Fernmeldeturm.jpg/1200px-Habichtswald_Fernmeldeturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Habichtswald_Fernmeldeturm.jpg/1920px-Habichtswald_Fernmeldeturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Habichtswald_Fernmeldeturm.jpg/1920px-Habichtswald_Fernmeldeturm.jpg---
 
 ## Overview
 

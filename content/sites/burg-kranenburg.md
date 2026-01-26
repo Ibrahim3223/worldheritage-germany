@@ -4,13 +4,13 @@ site_name: "Burg Kranenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kranenburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kranenburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012717"
 latitude: 51.7931
 longitude: 6.00639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kranenburg-Bodendenkmal_Alde_Börg_02.jpg/400px-Kranenburg-Bodendenkmal_Alde_Börg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kranenburg-Bodendenkmal_Alde_Börg_02.jpg/800px-Kranenburg-Bodendenkmal_Alde_Börg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kranenburg-Bodendenkmal_Alde_Börg_02.jpg/1200px-Kranenburg-Bodendenkmal_Alde_Börg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kranenburg-Bodendenkmal_Alde_Börg_02.jpg/1920px-Kranenburg-Bodendenkmal_Alde_Börg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kranenburg-Bodendenkmal_Alde_Börg_02.jpg/1920px-Kranenburg-Bodendenkmal_Alde_Börg_02.jpg---
 
 ## Overview
 

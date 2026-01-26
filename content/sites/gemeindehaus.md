@@ -4,19 +4,18 @@ site_name: "Gemeindehaus"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-75-167-29 (0) in Uehlfeld, Bavaria"
-region: "Uehlfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Uehlfeld"
+  - "Bavaria"
 wikidata_id: "Q98608010"
 latitude: 49.671321358
 longitude: 10.723143885
 images:
-  []
----
+  []---
 
 ## Overview
 

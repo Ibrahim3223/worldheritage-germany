@@ -4,13 +4,13 @@ site_name: "Gerichtsstraße 2, Chemnitz-Kaßberg"
 date: 2026-01-26
 draft: false
 description: "Gerichtsgebäude in Chemnitz"
-region: "Kaßberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Kaßberg"
+  - "Saxony"
 wikidata_id: "Q108128055"
 latitude: 50.8312869
 longitude: 12.9122235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/400px-Chemnitz_Amtsgericht_Miebner.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/800px-Chemnitz_Amtsgericht_Miebner.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/1200px-Chemnitz_Amtsgericht_Miebner.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/1920px-Chemnitz_Amtsgericht_Miebner.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/1920px-Chemnitz_Amtsgericht_Miebner.jpg---
 
 ## Overview
 

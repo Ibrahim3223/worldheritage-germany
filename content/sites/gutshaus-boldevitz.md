@@ -4,13 +4,13 @@ site_name: "Gutshaus Boldevitz"
 date: 2026-01-26
 draft: false
 description: "building in Parchtitz (Germany)"
-region: "Parchtitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Parchtitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1557271"
 latitude: 54.4415
 longitude: 13.3333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gut_Boldevitz_auf_Rügen.jpg/400px-Gut_Boldevitz_auf_Rügen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gut_Boldevitz_auf_Rügen.jpg/800px-Gut_Boldevitz_auf_Rügen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gut_Boldevitz_auf_Rügen.jpg/1200px-Gut_Boldevitz_auf_Rügen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gut_Boldevitz_auf_Rügen.jpg/1920px-Gut_Boldevitz_auf_Rügen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gut_Boldevitz_auf_Rügen.jpg/1920px-Gut_Boldevitz_auf_Rügen.jpg---
 
 ## Overview
 

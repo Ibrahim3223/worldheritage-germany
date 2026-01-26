@@ -4,13 +4,13 @@ site_name: "Germania"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-114-30 (0) in Bad Kissingen, Bavaria"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q1514092"
 latitude: 50.2012
 longitude: 10.0851
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Germania_(Bad_Kissingen)_–_E650.jpg/400px-Germania_(Bad_Kissingen)_–_E650.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Germania_(Bad_Kissingen)_–_E650.jpg/800px-Germania_(Bad_Kissingen)_–_E650.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Germania_(Bad_Kissingen)_–_E650.jpg/1200px-Germania_(Bad_Kissingen)_–_E650.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Germania_(Bad_Kissingen)_–_E650.jpg/1920px-Germania_(Bad_Kissingen)_–_E650.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Germania_(Bad_Kissingen)_–_E650.jpg/1920px-Germania_(Bad_Kissingen)_–_E650.jpg---
 
 ## Overview
 

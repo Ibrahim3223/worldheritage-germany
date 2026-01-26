@@ -4,13 +4,13 @@ site_name: "Ludwig Museum im Deutschherrenhaus"
 date: 2026-01-26
 draft: false
 description: "art museum in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q18088925"
 latitude: 50.3628
 longitude: 7.605
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20110507_koblenz135.JPG/400px-20110507_koblenz135.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20110507_koblenz135.JPG/800px-20110507_koblenz135.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20110507_koblenz135.JPG/1200px-20110507_koblenz135.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20110507_koblenz135.JPG/1920px-20110507_koblenz135.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20110507_koblenz135.JPG/1920px-20110507_koblenz135.JPG---
 
 ## Overview
 

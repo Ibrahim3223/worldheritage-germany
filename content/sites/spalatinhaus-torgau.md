@@ -4,13 +4,13 @@ site_name: "Spalatinhaus Torgau"
 date: 2026-01-26
 draft: false
 description: "museum in Torgau, Saxony, Germany"
-region: "Torgau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Torgau"
+  - "Brandenburg"
 wikidata_id: "Q49594109"
 latitude: 51.55923
 longitude: 13.0063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TorgauSpalatinhaus.JPG/400px-TorgauSpalatinhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TorgauSpalatinhaus.JPG/800px-TorgauSpalatinhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TorgauSpalatinhaus.JPG/1200px-TorgauSpalatinhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TorgauSpalatinhaus.JPG/1920px-TorgauSpalatinhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TorgauSpalatinhaus.JPG/1920px-TorgauSpalatinhaus.JPG---
 
 ## Overview
 

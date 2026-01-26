@@ -4,13 +4,13 @@ site_name: "Esklumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Westoverledingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Westoverledingen"
+  - "Lower Saxony"
 wikidata_id: "Q1367840"
 latitude: 53.211
 longitude: 7.44145
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/400px-ChurchEsklum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/800px-ChurchEsklum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1200px-ChurchEsklum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1920px-ChurchEsklum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1920px-ChurchEsklum.JPG---
 
 ## Overview
 

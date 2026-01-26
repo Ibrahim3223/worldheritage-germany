@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche (St. Goarshausen)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Sankt Goarshausen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sankt Goarshausen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1380405"
 latitude: 50.1535
 longitude: 7.7183
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/400px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/800px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/1200px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/1920px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/1920px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Löwenberg"
 date: 2026-01-26
 draft: false
 description: "Ruine einer Niederungsburg im Norden des Landes Brandenburg, heute mit Herrenhaus überbaut"
-region: "Löwenberger Land"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Löwenberger Land"
+  - "Brandenburg"
 wikidata_id: "Q20754320"
 latitude: 52.89430833
 longitude: 13.14823611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LöwenbergSchlossW.jpg/400px-LöwenbergSchlossW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LöwenbergSchlossW.jpg/800px-LöwenbergSchlossW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LöwenbergSchlossW.jpg/1200px-LöwenbergSchlossW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LöwenbergSchlossW.jpg/1920px-LöwenbergSchlossW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LöwenbergSchlossW.jpg/1920px-LöwenbergSchlossW.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Barneführer Holz und Schreensmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hatten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hatten"
+  - "Lower Saxony"
 wikidata_id: "Q808443"
 latitude: 53.0147
 longitude: 8.2625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/400px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/800px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/1200px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/1920px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/1920px-Barneführer_Holz_und_Schreensmoor_-_03.JPG---
 
 ## Overview
 

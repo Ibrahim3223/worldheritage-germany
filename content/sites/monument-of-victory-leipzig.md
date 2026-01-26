@@ -4,13 +4,13 @@ site_name: "Monument of victory Leipzig"
 date: 2026-01-26
 draft: false
 description: "former monument in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2283137"
 latitude: 51.3409
 longitude: 12.3747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Leipzig_Siegesdenkmal_1900.jpg/400px-Leipzig_Siegesdenkmal_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Leipzig_Siegesdenkmal_1900.jpg/800px-Leipzig_Siegesdenkmal_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Leipzig_Siegesdenkmal_1900.jpg/1200px-Leipzig_Siegesdenkmal_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Leipzig_Siegesdenkmal_1900.jpg/1920px-Leipzig_Siegesdenkmal_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Leipzig_Siegesdenkmal_1900.jpg/1920px-Leipzig_Siegesdenkmal_1900.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Merkur Spiel-Arena"
 date: 2026-01-26
 draft: false
 description: "stadium in the city of Düsseldorf, North Rhine-Westphalia, Germany"
-region: "Stockum"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Stockum"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q155351"
 latitude: 51.261539
 longitude: 6.733083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/400px-LTU_arena_panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/800px-LTU_arena_panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/1200px-LTU_arena_panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/1920px-LTU_arena_panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/1920px-LTU_arena_panorama.jpg---
 
 ## Overview
 

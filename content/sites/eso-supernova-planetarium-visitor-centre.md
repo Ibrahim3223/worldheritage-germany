@@ -4,13 +4,13 @@ site_name: "ESO Supernova Planetarium & Visitor Centre"
 date: 2026-01-26
 draft: false
 description: "astronomy center"
-region: "Garching bei München"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Garching bei München"
+  - "Bavaria"
 wikidata_id: "Q24886554"
 latitude: 48.26025
 longitude: 11.670878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/400px-ESO_Supernova_opening.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/800px-ESO_Supernova_opening.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/1200px-ESO_Supernova_opening.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/1920px-ESO_Supernova_opening.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/1920px-ESO_Supernova_opening.jpg---
 
 ## Overview
 

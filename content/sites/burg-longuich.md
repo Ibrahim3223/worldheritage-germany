@@ -4,13 +4,13 @@ site_name: "Burg Longuich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Longuich"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Longuich"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013017"
 latitude: 49.8069
 longitude: 6.775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/400px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/800px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/1200px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/1920px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/1920px-Longuich,_sogenannte_Alte_Burg_20130701.jpg---
 
 ## Overview
 

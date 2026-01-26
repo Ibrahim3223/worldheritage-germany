@@ -4,13 +4,13 @@ site_name: "Spohr Museum and Archive"
 date: 2026-01-26
 draft: false
 description: "Museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1567452"
 latitude: 51.3181
 longitude: 9.48785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spohr-Museum_Kassel.jpg/400px-Spohr-Museum_Kassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spohr-Museum_Kassel.jpg/800px-Spohr-Museum_Kassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spohr-Museum_Kassel.jpg/1200px-Spohr-Museum_Kassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spohr-Museum_Kassel.jpg/1920px-Spohr-Museum_Kassel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spohr-Museum_Kassel.jpg/1920px-Spohr-Museum_Kassel.jpg---
 
 ## Overview
 

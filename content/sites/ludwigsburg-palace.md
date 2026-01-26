@@ -4,13 +4,13 @@ site_name: "Ludwigsburg Palace"
 date: 2026-01-26
 draft: false
 description: "former residence of the dukes and kings of Württemberg"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q704831"
 latitude: 48.9
 longitude: 9.195833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aerial_image_of_the_Ludwigsburg_Palace.jpg/400px-Aerial_image_of_the_Ludwigsburg_Palace.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aerial_image_of_the_Ludwigsburg_Palace.jpg/800px-Aerial_image_of_the_Ludwigsburg_Palace.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aerial_image_of_the_Ludwigsburg_Palace.jpg/1200px-Aerial_image_of_the_Ludwigsburg_Palace.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aerial_image_of_the_Ludwigsburg_Palace.jpg/1920px-Aerial_image_of_the_Ludwigsburg_Palace.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aerial_image_of_the_Ludwigsburg_Palace.jpg/1920px-Aerial_image_of_the_Ludwigsburg_Palace.jpg---
 
 ## Overview
 

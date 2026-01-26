@@ -4,13 +4,13 @@ site_name: "Otto-Rombach-Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Bietigheim-Bissingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bietigheim-Bissingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1727415"
 latitude: 48.959659
 longitude: 9.128781
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/400px-Otto-Rombach-Bücherei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/800px-Otto-Rombach-Bücherei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/1200px-Otto-Rombach-Bücherei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/1920px-Otto-Rombach-Bücherei.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/1920px-Otto-Rombach-Bücherei.jpg---
 
 ## Overview
 

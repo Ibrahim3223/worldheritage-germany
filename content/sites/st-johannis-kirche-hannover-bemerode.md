@@ -4,13 +4,13 @@ site_name: "St.-Johannis-Kirche (Hannover-Bemerode)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kirchrode-Bemerode-Wülferode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kirchrode-Bemerode-Wülferode"
+  - "Lower Saxony"
 wikidata_id: "Q1501645"
 latitude: 52.3472
 longitude: 9.82601
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/400px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/800px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/1200px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/1920px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/1920px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg---
 
 ## Overview
 

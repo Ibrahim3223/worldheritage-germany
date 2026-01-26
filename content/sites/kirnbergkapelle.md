@@ -4,13 +4,13 @@ site_name: "Kirnbergkapelle"
 date: 2026-01-26
 draft: false
 description: "church building in Antdorf (Germany)"
-region: "Antdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Antdorf"
+  - "Bavaria"
 wikidata_id: "Q1384529"
 latitude: 47.7466
 longitude: 11.3055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/400px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/800px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/1200px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/1920px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/1920px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG---
 
 ## Overview
 

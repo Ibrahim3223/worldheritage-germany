@@ -4,13 +4,13 @@ site_name: "Parochialkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1447091"
 latitude: 52.5169
 longitude: 13.4131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mitte_Parochialkirche_mit_Turm.jpg/400px-Mitte_Parochialkirche_mit_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mitte_Parochialkirche_mit_Turm.jpg/800px-Mitte_Parochialkirche_mit_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mitte_Parochialkirche_mit_Turm.jpg/1200px-Mitte_Parochialkirche_mit_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mitte_Parochialkirche_mit_Turm.jpg/1920px-Mitte_Parochialkirche_mit_Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mitte_Parochialkirche_mit_Turm.jpg/1920px-Mitte_Parochialkirche_mit_Turm.jpg---
 
 ## Overview
 

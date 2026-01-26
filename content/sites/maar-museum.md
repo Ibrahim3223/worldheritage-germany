@@ -4,13 +4,13 @@ site_name: "Maar Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Manderscheid, Germany"
-region: "Manderscheid"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Manderscheid"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1494978"
 latitude: 50.0906
 longitude: 6.80722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Maarmuseum.jpg/400px-Maarmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Maarmuseum.jpg/800px-Maarmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Maarmuseum.jpg/1200px-Maarmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Maarmuseum.jpg/1920px-Maarmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Maarmuseum.jpg/1920px-Maarmuseum.jpg---
 
 ## Overview
 

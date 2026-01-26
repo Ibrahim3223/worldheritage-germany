@@ -4,13 +4,13 @@ site_name: "Redeemer church Bad Kissingen"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Kissingen, Bavaria"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q1355706"
 latitude: 50.1983
 longitude: 10.0792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erlöserkirche-3.JPG/400px-Erlöserkirche-3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erlöserkirche-3.JPG/800px-Erlöserkirche-3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erlöserkirche-3.JPG/1200px-Erlöserkirche-3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erlöserkirche-3.JPG/1920px-Erlöserkirche-3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erlöserkirche-3.JPG/1920px-Erlöserkirche-3.JPG---
 
 ## Overview
 

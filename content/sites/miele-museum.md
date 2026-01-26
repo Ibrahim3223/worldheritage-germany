@@ -4,13 +4,13 @@ site_name: "Miele-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Gütersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gütersloh"
+  - "Lower Saxony"
 wikidata_id: "Q19296382"
 latitude: 51.911392
 longitude: 8.395486
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Miele-Museum5.jpg/400px-Miele-Museum5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Miele-Museum5.jpg/800px-Miele-Museum5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Miele-Museum5.jpg/1200px-Miele-Museum5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Miele-Museum5.jpg/1920px-Miele-Museum5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Miele-Museum5.jpg/1920px-Miele-Museum5.jpg---
 
 ## Overview
 

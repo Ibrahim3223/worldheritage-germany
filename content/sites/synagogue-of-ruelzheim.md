@@ -4,13 +4,13 @@ site_name: "synagogue of Rülzheim"
 date: 2026-01-26
 draft: false
 description: "Synagoge in Rülzheim"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1706761"
 latitude: 49.157
 longitude: 8.2904
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruelzheim_Synagogue.jpg/400px-Ruelzheim_Synagogue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruelzheim_Synagogue.jpg/800px-Ruelzheim_Synagogue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruelzheim_Synagogue.jpg/1200px-Ruelzheim_Synagogue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruelzheim_Synagogue.jpg/1920px-Ruelzheim_Synagogue.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruelzheim_Synagogue.jpg/1920px-Ruelzheim_Synagogue.jpg---
 
 ## Overview
 

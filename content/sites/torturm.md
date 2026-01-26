@@ -4,13 +4,13 @@ site_name: "Torturm"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-79-164-16 (0) in Neubrunn (Unterfranken), Bavaria"
-region: "Neubrunn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Neubrunn"
+  - "Baden-Württemberg"
 wikidata_id: "Q41386698"
 latitude: 49.72955
 longitude: 9.67031
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/400px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/800px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/1200px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/1920px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/1920px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg---
 
 ## Overview
 

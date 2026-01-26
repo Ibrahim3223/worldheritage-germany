@@ -4,13 +4,13 @@ site_name: "Claassee"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q1094611"
 latitude: 53.353969444
 longitude: 12.72675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Claassee.jpg/400px-Claassee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Claassee.jpg/800px-Claassee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Claassee.jpg/1200px-Claassee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Claassee.jpg/1920px-Claassee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Claassee.jpg/1920px-Claassee.jpg---
 
 ## Overview
 

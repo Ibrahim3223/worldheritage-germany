@@ -4,13 +4,13 @@ site_name: "Helenesee"
 date: 2026-01-26
 draft: false
 description: "lake in Brandenburg, Germany"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q145032"
 latitude: 52.271111111
 longitude: 14.4875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/400px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/800px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/1200px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/1920px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/1920px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Mittenaar-Bicken"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634077"
 latitude: 50.693934
 longitude: 8.381033
 images:
-  []
----
+  []---
 
 ## Overview
 

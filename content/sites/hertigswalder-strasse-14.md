@@ -4,13 +4,13 @@ site_name: "Hertigswalder Straße 14"
 date: 2026-01-26
 draft: false
 description: "Upper Lusatian house in Sebnitz"
-region: "Sebnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sebnitz"
+  - "Saxony"
 wikidata_id: "Q49537352"
 latitude: 50.969720197
 longitude: 14.271930667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/400px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/800px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/1200px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/1920px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/1920px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG---
 
 ## Overview
 

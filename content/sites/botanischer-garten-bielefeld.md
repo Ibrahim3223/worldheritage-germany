@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Bielefeld"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Bielefeld, Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q827398"
 latitude: 52.0147
 longitude: 8.51
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/400px-Botanischer_Garten_Bielefeld_im_Juli..jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/800px-Botanischer_Garten_Bielefeld_im_Juli..jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/1200px-Botanischer_Garten_Bielefeld_im_Juli..jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/1920px-Botanischer_Garten_Bielefeld_im_Juli..jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/1920px-Botanischer_Garten_Bielefeld_im_Juli..jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Hohloch"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Münsingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Münsingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012459"
 latitude: 48.4265
 longitude: 9.55013
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fasanerie"
 date: 2026-01-26
 draft: false
 description: "building and museum in Detmold, Germany"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q41762243"
 latitude: 51.92286
 longitude: 8.87409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Detmold_-_2017-09-24_-_Fasanerie_(04).jpg/400px-Detmold_-_2017-09-24_-_Fasanerie_(04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Detmold_-_2017-09-24_-_Fasanerie_(04).jpg/800px-Detmold_-_2017-09-24_-_Fasanerie_(04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Detmold_-_2017-09-24_-_Fasanerie_(04).jpg/1200px-Detmold_-_2017-09-24_-_Fasanerie_(04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Detmold_-_2017-09-24_-_Fasanerie_(04).jpg/1920px-Detmold_-_2017-09-24_-_Fasanerie_(04).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Detmold_-_2017-09-24_-_Fasanerie_(04).jpg/1920px-Detmold_-_2017-09-24_-_Fasanerie_(04).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Franziskus als Friedensbote"
 date: 2026-01-26
 draft: false
 description: "Skulptur des Bildhauers Martin Mayer in München (1979)"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q15810348"
 latitude: 48.140276
 longitude: 11.586398
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/400px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/800px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/1200px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/1920px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/1920px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg---
 
 ## Overview
 

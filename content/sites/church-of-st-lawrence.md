@@ -4,13 +4,13 @@ site_name: "Church of St. Lawrence"
 date: 2026-01-26
 draft: false
 description: "church on the island of Föhr"
-region: "Süderende"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Süderende"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2320039"
 latitude: 54.71629
 longitude: 8.43518
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/400px-Sls_querhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/800px-Sls_querhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/1200px-Sls_querhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/1920px-Sls_querhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/1920px-Sls_querhaus.jpg---
 
 ## Overview
 

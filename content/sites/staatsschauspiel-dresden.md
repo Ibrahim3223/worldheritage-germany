@@ -4,13 +4,13 @@ site_name: "Staatsschauspiel Dresden"
 date: 2026-01-26
 draft: false
 description: "building of state drama theatre in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q870330"
 latitude: 51.05218
 longitude: 13.731833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/400px-Schauspielhaus_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/800px-Schauspielhaus_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/1200px-Schauspielhaus_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/1920px-Schauspielhaus_Dresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/1920px-Schauspielhaus_Dresden.jpg---
 
 ## Overview
 

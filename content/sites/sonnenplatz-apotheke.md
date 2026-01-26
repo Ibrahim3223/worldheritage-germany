@@ -4,13 +4,13 @@ site_name: "Sonnenplatz-Apotheke"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tauberbischofsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tauberbischofsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q28977705"
 latitude: 49.62155
 longitude: 9.65872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/400px-TBB_Sonnenplatz-Apotheke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/800px-TBB_Sonnenplatz-Apotheke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/1200px-TBB_Sonnenplatz-Apotheke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/1920px-TBB_Sonnenplatz-Apotheke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/1920px-TBB_Sonnenplatz-Apotheke.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Nobelstraße 7-13"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Plauen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Plauen"
+  - "Bavaria"
 wikidata_id: "Q2530323"
 latitude: 50.4938
 longitude: 12.1342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/400px-Plauen_Vogtlandmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/800px-Plauen_Vogtlandmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/1200px-Plauen_Vogtlandmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/1920px-Plauen_Vogtlandmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/1920px-Plauen_Vogtlandmuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Freihaus mit Manfred-Kyber-Museum Löwenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Löwenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Löwenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631458"
 latitude: 49.095356
 longitude: 9.381168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/400px-Loewenstein_Freihaus_20070407.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/800px-Loewenstein_Freihaus_20070407.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/1200px-Loewenstein_Freihaus_20070407.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/1920px-Loewenstein_Freihaus_20070407.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/1920px-Loewenstein_Freihaus_20070407.jpg---
 
 ## Overview
 

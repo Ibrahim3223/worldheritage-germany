@@ -4,19 +4,18 @@ site_name: "Fachhochschule Frankfurt"
 date: 2026-01-26
 draft: false
 description: "Universität in Deutschland"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q32000610"
 latitude: 50.12989
 longitude: 8.69319
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Farrenkopf"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Ortenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Ortenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1397118"
 latitude: 48.25694
 longitude: 8.18108
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/400px-Hasemann-Hütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/800px-Hasemann-Hütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/1200px-Hasemann-Hütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/1920px-Hasemann-Hütte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/1920px-Hasemann-Hütte.jpg---
 
 ## Overview
 

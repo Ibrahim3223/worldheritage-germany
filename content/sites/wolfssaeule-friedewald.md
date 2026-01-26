@@ -4,13 +4,13 @@ site_name: "Wolfssäule Friedewald"
 date: 2026-01-26
 draft: false
 description: "monument in Weinböhla, Germany"
-region: "Weinböhla"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Weinböhla"
+  - "Saxony"
 wikidata_id: "Q14039745"
 latitude: 51.1592
 longitude: 13.6126
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/400px-Wolfssaeule_friedewald_gesamt_sk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/800px-Wolfssaeule_friedewald_gesamt_sk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/1200px-Wolfssaeule_friedewald_gesamt_sk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/1920px-Wolfssaeule_friedewald_gesamt_sk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/1920px-Wolfssaeule_friedewald_gesamt_sk.jpg---
 
 ## Overview
 

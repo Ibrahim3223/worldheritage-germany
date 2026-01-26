@@ -4,13 +4,13 @@ site_name: "Gut Renkhausen"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Stadtteil Gehlenbeck der Stadt Lübbecke"
-region: "Lübbecke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lübbecke"
+  - "Lower Saxony"
 wikidata_id: "Q1557018"
 latitude: 52.3328
 longitude: 8.65351
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gut_Renkhausen.JPG/400px-Gut_Renkhausen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gut_Renkhausen.JPG/800px-Gut_Renkhausen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gut_Renkhausen.JPG/1200px-Gut_Renkhausen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gut_Renkhausen.JPG/1920px-Gut_Renkhausen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gut_Renkhausen.JPG/1920px-Gut_Renkhausen.JPG---
 
 ## Overview
 

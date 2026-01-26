@@ -4,13 +4,13 @@ site_name: "Epprechtstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kirchenlamitz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Kirchenlamitz"
+  - "Bavaria"
 wikidata_id: "Q1011640"
 latitude: 50.1459
 longitude: 11.9172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/400px-Epprechtstein_006.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/800px-Epprechtstein_006.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1200px-Epprechtstein_006.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1920px-Epprechtstein_006.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1920px-Epprechtstein_006.JPG---
 
 ## Overview
 

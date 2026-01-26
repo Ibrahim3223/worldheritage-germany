@@ -4,13 +4,13 @@ site_name: "Burgstall Slorburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gemünden am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gemünden am Main"
+  - "Bavaria"
 wikidata_id: "Q1015923"
 latitude: 50.0609
 longitude: 9.70277
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gemünden_Slorburg.JPG/400px-Gemünden_Slorburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gemünden_Slorburg.JPG/800px-Gemünden_Slorburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gemünden_Slorburg.JPG/1200px-Gemünden_Slorburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gemünden_Slorburg.JPG/1920px-Gemünden_Slorburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gemünden_Slorburg.JPG/1920px-Gemünden_Slorburg.JPG---
 
 ## Overview
 

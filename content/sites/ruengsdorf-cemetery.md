@@ -4,13 +4,13 @@ site_name: "Rüngsdorf Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bonn, Germany"
-region: "Bad Godesberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bad Godesberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1296360"
 latitude: 50.6805
 longitude: 7.17145
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/400px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/800px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/1200px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/1920px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/1920px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg---
 
 ## Overview
 

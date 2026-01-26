@@ -4,13 +4,13 @@ site_name: "Geowissenschaftliches Museum der Universität Göttingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q26836746"
 latitude: 51.55631
 longitude: 9.94732
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/400px-Geoscience_Museum_Göttingen_Entrance.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/800px-Geoscience_Museum_Göttingen_Entrance.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1200px-Geoscience_Museum_Göttingen_Entrance.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1920px-Geoscience_Museum_Göttingen_Entrance.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1920px-Geoscience_Museum_Göttingen_Entrance.JPG---
 
 ## Overview
 

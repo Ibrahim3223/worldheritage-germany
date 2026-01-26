@@ -4,13 +4,13 @@ site_name: "Holtrop Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Großefehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Großefehn"
+  - "Lower Saxony"
 wikidata_id: "Q1625243"
 latitude: 53.4304
 longitude: 7.56758
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/400px-ChurchHoltrop.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/800px-ChurchHoltrop.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1200px-ChurchHoltrop.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1920px-ChurchHoltrop.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1920px-ChurchHoltrop.JPG---
 
 ## Overview
 

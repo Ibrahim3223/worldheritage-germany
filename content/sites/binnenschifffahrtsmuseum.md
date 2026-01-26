@@ -4,13 +4,13 @@ site_name: "Binnenschifffahrtsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Oderberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oderberg"
+  - "Brandenburg"
 wikidata_id: "Q863965"
 latitude: 52.8642
 longitude: 14.046
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oderberg_09_18_36_jiw.jpg/400px-Oderberg_09_18_36_jiw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oderberg_09_18_36_jiw.jpg/800px-Oderberg_09_18_36_jiw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oderberg_09_18_36_jiw.jpg/1200px-Oderberg_09_18_36_jiw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oderberg_09_18_36_jiw.jpg/1920px-Oderberg_09_18_36_jiw.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oderberg_09_18_36_jiw.jpg/1920px-Oderberg_09_18_36_jiw.jpg---
 
 ## Overview
 

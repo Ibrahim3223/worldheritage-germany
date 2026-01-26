@@ -4,13 +4,13 @@ site_name: "Bogenhausener Tor"
 date: 2026-01-26
 draft: false
 description: "Bürohochäuser im Münchener Stadtteil Steinhausen"
-region: "Bogenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bogenhausen"
+  - "Bavaria"
 wikidata_id: "Q890504"
 latitude: 48.1373
 longitude: 11.6228
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mueprinzreghochhaus032018c85.jpg/400px-Mueprinzreghochhaus032018c85.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mueprinzreghochhaus032018c85.jpg/800px-Mueprinzreghochhaus032018c85.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mueprinzreghochhaus032018c85.jpg/1200px-Mueprinzreghochhaus032018c85.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mueprinzreghochhaus032018c85.jpg/1920px-Mueprinzreghochhaus032018c85.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mueprinzreghochhaus032018c85.jpg/1920px-Mueprinzreghochhaus032018c85.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stadtfriedhof Seelhorst"
 date: 2026-01-26
 draft: false
 description: "largest cemetery in Hannover"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q2327125"
 latitude: 52.3386
 longitude: 9.79028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/400px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/800px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/1200px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/1920px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/1920px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Gerolstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gerolstein"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gerolstein"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1011945"
 latitude: 50.2204
 longitude: 6.66694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/400px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/800px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1200px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1920px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1920px-Löwenburg_Gerolstein_2012_Schildmauer.jpg---
 
 ## Overview
 

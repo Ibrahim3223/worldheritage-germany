@@ -4,13 +4,13 @@ site_name: "St. Jakobus"
 date: 2026-01-26
 draft: false
 description: "church building in Stegen, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Stegen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stegen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2318961"
 latitude: 48.0025
 longitude: 7.979166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Jakobus_(Stegen-Eschbach)_4228.jpg/400px-St._Jakobus_(Stegen-Eschbach)_4228.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Jakobus_(Stegen-Eschbach)_4228.jpg/800px-St._Jakobus_(Stegen-Eschbach)_4228.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Jakobus_(Stegen-Eschbach)_4228.jpg/1200px-St._Jakobus_(Stegen-Eschbach)_4228.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Jakobus_(Stegen-Eschbach)_4228.jpg/1920px-St._Jakobus_(Stegen-Eschbach)_4228.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/St._Jakobus_(Stegen-Eschbach)_4228.jpg/1920px-St._Jakobus_(Stegen-Eschbach)_4228.jpg---
 
 ## Overview
 

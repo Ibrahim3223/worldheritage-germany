@@ -4,19 +4,18 @@ site_name: "Bogenbrücke der Alten Böhmischen Glasstraße Ulbersdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hohnstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hohnstein"
+  - "Saxony"
 wikidata_id: "Q49442565"
 latitude: 50.965390362
 longitude: 14.218146478
 images:
-  []
----
+  []---
 
 ## Overview
 

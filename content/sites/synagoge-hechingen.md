@@ -4,13 +4,13 @@ site_name: "Synagoge Hechingen"
 date: 2026-01-26
 draft: false
 description: "building in Hechingen, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Hechingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Hechingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2375102"
 latitude: 48.3518
 longitude: 8.96546
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/400px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/800px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/1200px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/1920px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/1920px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg---
 
 ## Overview
 

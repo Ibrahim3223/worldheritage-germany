@@ -4,13 +4,13 @@ site_name: "Dreifelder Weiher"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Dreifelden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Dreifelden"
+  - "Hesse"
 wikidata_id: "Q1257781"
 latitude: 50.5917
 longitude: 7.8245
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/400px-Dreifelder_Weiher_im_Frühling.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/800px-Dreifelder_Weiher_im_Frühling.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/1200px-Dreifelder_Weiher_im_Frühling.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/1920px-Dreifelder_Weiher_im_Frühling.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/1920px-Dreifelder_Weiher_im_Frühling.JPG---
 
 ## Overview
 

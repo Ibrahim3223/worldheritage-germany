@@ -4,13 +4,13 @@ site_name: "Deutsches Höhlenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1205711"
 latitude: 51.3656
 longitude: 7.64472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Letmathe-Dechenhoehle1-Bubo.jpg/400px-Letmathe-Dechenhoehle1-Bubo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Letmathe-Dechenhoehle1-Bubo.jpg/800px-Letmathe-Dechenhoehle1-Bubo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Letmathe-Dechenhoehle1-Bubo.jpg/1200px-Letmathe-Dechenhoehle1-Bubo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Letmathe-Dechenhoehle1-Bubo.jpg/1920px-Letmathe-Dechenhoehle1-Bubo.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Letmathe-Dechenhoehle1-Bubo.jpg/1920px-Letmathe-Dechenhoehle1-Bubo.jpg---
 
 ## Overview
 

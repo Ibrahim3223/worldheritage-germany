@@ -4,13 +4,13 @@ site_name: "Telemann-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q2401758"
 latitude: 53.55123889
 longitude: 9.97654722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/400px-Telemannmuseum_hamburg1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/800px-Telemannmuseum_hamburg1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/1200px-Telemannmuseum_hamburg1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/1920px-Telemannmuseum_hamburg1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/1920px-Telemannmuseum_hamburg1.JPG---
 
 ## Overview
 

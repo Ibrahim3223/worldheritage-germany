@@ -4,13 +4,13 @@ site_name: "Burg Hartenstein"
 date: 2026-01-26
 draft: false
 description: "castle and cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Hartenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hartenstein"
+  - "Bavaria"
 wikidata_id: "Q1012202"
 latitude: 49.5969
 longitude: 11.5219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/400px-Hartenstein_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/800px-Hartenstein_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/1200px-Hartenstein_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/1920px-Hartenstein_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/1920px-Hartenstein_04.jpg---
 
 ## Overview
 

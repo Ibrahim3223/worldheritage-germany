@@ -4,13 +4,13 @@ site_name: "Königs Wusterhausen Transmitter Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Königs Wusterhausen"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Königs Wusterhausen"
+  - "Berlin"
 wikidata_id: "Q2270713"
 latitude: 52.3042848
 longitude: 13.6207042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Senderhaus_1_2021.jpg/400px-Senderhaus_1_2021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Senderhaus_1_2021.jpg/800px-Senderhaus_1_2021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Senderhaus_1_2021.jpg/1200px-Senderhaus_1_2021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Senderhaus_1_2021.jpg/1920px-Senderhaus_1_2021.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Senderhaus_1_2021.jpg/1920px-Senderhaus_1_2021.jpg---
 
 ## Overview
 

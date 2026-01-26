@@ -4,13 +4,13 @@ site_name: "Burgstelle Kybfelsen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Günterstal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Günterstal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012763"
 latitude: 47.96073
 longitude: 7.884972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/400px-Kybfelsen_Burg_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/800px-Kybfelsen_Burg_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/1200px-Kybfelsen_Burg_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/1920px-Kybfelsen_Burg_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/1920px-Kybfelsen_Burg_03.JPG---
 
 ## Overview
 

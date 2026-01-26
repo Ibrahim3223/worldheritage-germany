@@ -4,13 +4,13 @@ site_name: "Wassertor"
 date: 2026-01-26
 draft: false
 description: "city gate in Wismar"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q2551590"
 latitude: 53.8964
 longitude: 11.4613
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wismar-Wassertor.jpg/400px-Wismar-Wassertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wismar-Wassertor.jpg/800px-Wismar-Wassertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wismar-Wassertor.jpg/1200px-Wismar-Wassertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wismar-Wassertor.jpg/1920px-Wismar-Wassertor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wismar-Wassertor.jpg/1920px-Wismar-Wassertor.jpg---
 
 ## Overview
 

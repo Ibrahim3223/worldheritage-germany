@@ -4,13 +4,13 @@ site_name: "Klosterkirche Oldenstadt"
 date: 2026-01-26
 draft: false
 description: "church building in Oldenstadt, Germany"
-region: "Uelzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Uelzen"
+  - "Lower Saxony"
 wikidata_id: "Q1776434"
 latitude: 52.972
 longitude: 10.5901
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/400px-Kirche-Oldenstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/800px-Kirche-Oldenstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/1200px-Kirche-Oldenstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/1920px-Kirche-Oldenstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/1920px-Kirche-Oldenstadt.jpg---
 
 ## Overview
 

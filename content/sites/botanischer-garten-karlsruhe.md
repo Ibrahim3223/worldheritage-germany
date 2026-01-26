@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Karlsruhe"
 date: 2026-01-26
 draft: false
 description: "municipal botanical garden located in Karlsruhe, Baden-Württemberg, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q475580"
 latitude: 49.0131
 longitude: 8.40044
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/400px-Panorama_Botanischer_Garten_Karlsruhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/800px-Panorama_Botanischer_Garten_Karlsruhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/1200px-Panorama_Botanischer_Garten_Karlsruhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/1920px-Panorama_Botanischer_Garten_Karlsruhe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/1920px-Panorama_Botanischer_Garten_Karlsruhe.jpg---
 
 ## Overview
 

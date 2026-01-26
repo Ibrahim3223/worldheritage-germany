@@ -4,19 +4,18 @@ site_name: "Einbogige Sandsteinbrücke (Eisenbahnüberführung) Dürrröhrsdorf-
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Dürrröhrsdorf-Dittersbach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Dürrröhrsdorf-Dittersbach"
+  - "Saxony"
 wikidata_id: "Q49441639"
 latitude: 51.026267306
 longitude: 14.005593821
 images:
-  []
----
+  []---
 
 ## Overview
 

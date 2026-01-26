@@ -4,13 +4,13 @@ site_name: "Moritzburg"
 date: 2026-01-26
 draft: false
 description: "Fortified castle in Halle (Saale) with an art museum"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q879819"
 latitude: 51.486111
 longitude: 11.963333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2009_07_Moritzburg.jpg/400px-2009_07_Moritzburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2009_07_Moritzburg.jpg/800px-2009_07_Moritzburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2009_07_Moritzburg.jpg/1200px-2009_07_Moritzburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2009_07_Moritzburg.jpg/1920px-2009_07_Moritzburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2009_07_Moritzburg.jpg/1920px-2009_07_Moritzburg.jpg---
 
 ## Overview
 

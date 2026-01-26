@@ -4,13 +4,13 @@ site_name: "Berlin Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q238528"
 latitude: 52.4875
 longitude: 13.311667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/400px-Moschee_Wilmersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/800px-Moschee_Wilmersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1200px-Moschee_Wilmersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1920px-Moschee_Wilmersdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1920px-Moschee_Wilmersdorf.jpg---
 
 ## Overview
 

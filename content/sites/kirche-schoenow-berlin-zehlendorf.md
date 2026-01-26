@@ -4,13 +4,13 @@ site_name: "Kirche Schönow (Berlin-Zehlendorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q11722066"
 latitude: 52.4133
 longitude: 13.2596
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/400px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/800px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/1200px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/1920px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/1920px-Kirche_Schönow_(Berlin-Zehlendorf).JPG---
 
 ## Overview
 

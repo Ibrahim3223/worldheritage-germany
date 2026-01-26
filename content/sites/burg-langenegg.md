@@ -4,13 +4,13 @@ site_name: "Burg Langenegg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Waltenhofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Waltenhofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012841"
 latitude: 47.6153
 longitude: 10.2936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/400px-Langenegg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/800px-Langenegg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/1200px-Langenegg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/1920px-Langenegg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/1920px-Langenegg_1.jpg---
 
 ## Overview
 

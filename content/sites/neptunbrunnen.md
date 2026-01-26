@@ -4,13 +4,13 @@ site_name: "Neptunbrunnen"
 date: 2026-01-26
 draft: false
 description: "Fountain in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q879386"
 latitude: 48.1413
 longitude: 11.5653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG/400px-Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG/800px-Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG/1200px-Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG/1920px-Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG/1920px-Fuente_de_Neptuno,_Antiguo_Jardín_Botánico,_Múnich,_Alemania,_2015-07-04,_DD_12.JPG---
 
 ## Overview
 

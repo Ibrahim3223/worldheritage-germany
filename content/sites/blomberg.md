@@ -4,13 +4,13 @@ site_name: "Blomberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "District of Bad Tölz-Wolfratshausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "District of Bad Tölz-Wolfratshausen"
+  - "Bavaria"
 wikidata_id: "Q244660"
 latitude: 47.7332
 longitude: 11.4916
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blomberg_GO-2.jpg/400px-Blomberg_GO-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blomberg_GO-2.jpg/800px-Blomberg_GO-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blomberg_GO-2.jpg/1200px-Blomberg_GO-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blomberg_GO-2.jpg/1920px-Blomberg_GO-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blomberg_GO-2.jpg/1920px-Blomberg_GO-2.jpg---
 
 ## Overview
 

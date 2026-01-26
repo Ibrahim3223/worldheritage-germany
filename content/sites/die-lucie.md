@@ -4,13 +4,13 @@ site_name: "Die Lucie"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Trebel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Trebel"
+  - "Lower Saxony"
 wikidata_id: "Q1214629"
 latitude: 53.0306
 longitude: 11.2056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/400px-Lucie1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/800px-Lucie1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/1200px-Lucie1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/1920px-Lucie1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/1920px-Lucie1.jpg---
 
 ## Overview
 

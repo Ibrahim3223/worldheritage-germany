@@ -4,13 +4,13 @@ site_name: "Leprosenhaus Bad Wurzach"
 date: 2026-01-26
 draft: false
 description: "building in Bad Wurzach, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Bad Wurzach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Wurzach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1820123"
 latitude: 47.906342
 longitude: 9.883781
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/400px-Leprosenhaus_Bad_Wurzach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/800px-Leprosenhaus_Bad_Wurzach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/1200px-Leprosenhaus_Bad_Wurzach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/1920px-Leprosenhaus_Bad_Wurzach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/1920px-Leprosenhaus_Bad_Wurzach.jpg---
 
 ## Overview
 

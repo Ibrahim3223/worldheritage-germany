@@ -4,13 +4,13 @@ site_name: "Rathaus Holzelfingen"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Lichtenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Lichtenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q127971585"
 latitude: 48.427111066
 longitude: 9.274612069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/400px-Holzelfingen_Rathaus_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/800px-Holzelfingen_Rathaus_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/1200px-Holzelfingen_Rathaus_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/1920px-Holzelfingen_Rathaus_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/1920px-Holzelfingen_Rathaus_(1).jpg---
 
 ## Overview
 

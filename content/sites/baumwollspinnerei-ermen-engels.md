@@ -4,13 +4,13 @@ site_name: "Baumwollspinnerei Ermen & Engels"
 date: 2026-01-26
 draft: false
 description: "former cotton mill in Germany"
-region: "Engelskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Engelskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q811651"
 latitude: 50.9835
 longitude: 7.40986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/400px-Industriemuseum_Engelskirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/800px-Industriemuseum_Engelskirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/1200px-Industriemuseum_Engelskirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/1920px-Industriemuseum_Engelskirchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/1920px-Industriemuseum_Engelskirchen.jpg---
 
 ## Overview
 

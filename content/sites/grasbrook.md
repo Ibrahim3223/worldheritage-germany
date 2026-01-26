@@ -4,19 +4,18 @@ site_name: "Grasbrook"
 date: 2026-01-26
 draft: false
 description: "former island in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1543414"
 latitude: 53.54111111
 longitude: 9.99444444
 images:
-  []
----
+  []---
 
 ## Overview
 

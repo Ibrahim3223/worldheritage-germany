@@ -4,13 +4,13 @@ site_name: "Alter Packhof"
 date: 2026-01-26
 draft: false
 description: "former goods storage area in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q438128"
 latitude: 52.5161
 longitude: 13.3989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/400px-Alter_Packhof_um_1790_(var).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/800px-Alter_Packhof_um_1790_(var).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/1200px-Alter_Packhof_um_1790_(var).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/1920px-Alter_Packhof_um_1790_(var).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/1920px-Alter_Packhof_um_1790_(var).jpg---
 
 ## Overview
 

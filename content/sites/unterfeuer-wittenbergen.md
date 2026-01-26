@@ -4,13 +4,13 @@ site_name: "Unterfeuer Wittenbergen"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q1318152"
 latitude: 53.56391667
 longitude: 9.75146111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HH-Wittenbergen-Leuchtturm2.jpg/400px-HH-Wittenbergen-Leuchtturm2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HH-Wittenbergen-Leuchtturm2.jpg/800px-HH-Wittenbergen-Leuchtturm2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HH-Wittenbergen-Leuchtturm2.jpg/1200px-HH-Wittenbergen-Leuchtturm2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HH-Wittenbergen-Leuchtturm2.jpg/1920px-HH-Wittenbergen-Leuchtturm2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HH-Wittenbergen-Leuchtturm2.jpg/1920px-HH-Wittenbergen-Leuchtturm2.jpg---
 
 ## Overview
 

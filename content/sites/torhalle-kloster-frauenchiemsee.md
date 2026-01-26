@@ -4,13 +4,13 @@ site_name: "Torhalle (Kloster Frauenchiemsee)"
 date: 2026-01-26
 draft: false
 description: "gate house in Chiemsee, Upper Bavaria, Germany"
-region: "Chiemsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Chiemsee"
+  - "Bavaria"
 wikidata_id: "Q41215398"
 latitude: 47.872867594
 longitude: 12.424761017
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/400px-Frauenchiemsee_Torhalle_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/800px-Frauenchiemsee_Torhalle_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/1200px-Frauenchiemsee_Torhalle_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/1920px-Frauenchiemsee_Torhalle_Südseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/1920px-Frauenchiemsee_Torhalle_Südseite.jpg---
 
 ## Overview
 

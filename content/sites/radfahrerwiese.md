@@ -4,19 +4,18 @@ site_name: "Radfahrerwiese"
 date: 2026-01-26
 draft: false
 description: "Badestelle in Berlin"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q112841718"
 latitude: 52.4585
 longitude: 13.18931
 images:
-  []
----
+  []---
 
 ## Overview
 

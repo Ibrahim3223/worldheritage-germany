@@ -4,13 +4,13 @@ site_name: "Duborg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Flensburg, Schleswig"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q320615"
 latitude: 54.7931
 longitude: 9.42528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/400px-Flensburg_Braun-Hogenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/800px-Flensburg_Braun-Hogenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1200px-Flensburg_Braun-Hogenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1920px-Flensburg_Braun-Hogenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1920px-Flensburg_Braun-Hogenberg.jpg---
 
 ## Overview
 

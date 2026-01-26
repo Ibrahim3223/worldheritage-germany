@@ -4,13 +4,13 @@ site_name: "Garten"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-63-000-618 (0) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q41313976"
 latitude: 49.76351
 longitude: 9.95371
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/400px-Werkingstr._Grottenbrunnen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/800px-Werkingstr._Grottenbrunnen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/1200px-Werkingstr._Grottenbrunnen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/1920px-Werkingstr._Grottenbrunnen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/1920px-Werkingstr._Grottenbrunnen.JPG---
 
 ## Overview
 

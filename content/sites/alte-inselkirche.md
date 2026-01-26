@@ -4,13 +4,13 @@ site_name: "Alte Inselkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Spiekeroog, Germany"
-region: "Spiekeroog"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Spiekeroog"
+  - "Lower Saxony"
 wikidata_id: "Q435642"
 latitude: 53.7702
 longitude: 7.69545
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/400px-Ansicht_vom_Süderloog.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/800px-Ansicht_vom_Süderloog.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/1200px-Ansicht_vom_Süderloog.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/1920px-Ansicht_vom_Süderloog.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/1920px-Ansicht_vom_Süderloog.jpg---
 
 ## Overview
 

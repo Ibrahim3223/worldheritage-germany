@@ -4,13 +4,13 @@ site_name: "Memorial for the Moorish Revival Leipzig Synagogue in Leipzig"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q25498870"
 latitude: 51.33991
 longitude: 12.36963
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/400px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/800px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/1200px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/1920px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/1920px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG---
 
 ## Overview
 

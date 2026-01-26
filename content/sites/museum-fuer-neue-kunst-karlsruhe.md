@@ -4,13 +4,13 @@ site_name: "Museum für Neue Kunst Karlsruhe"
 date: 2026-01-26
 draft: false
 description: "art museum"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1495745"
 latitude: 49.0014
 longitude: 8.38361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/400px-Museum_fuer_neue_Kunst.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/800px-Museum_fuer_neue_Kunst.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/1200px-Museum_fuer_neue_Kunst.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/1920px-Museum_fuer_neue_Kunst.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/1920px-Museum_fuer_neue_Kunst.JPG---
 
 ## Overview
 

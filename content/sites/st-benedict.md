@@ -4,13 +4,13 @@ site_name: "St. Benedict"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf, Germany"
-region: "Heerdt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heerdt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317536"
 latitude: 51.2318
 longitude: 6.72181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/400px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/800px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/1200px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/1920px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/1920px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg---
 
 ## Overview
 

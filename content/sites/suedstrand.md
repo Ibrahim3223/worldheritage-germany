@@ -4,19 +4,18 @@ site_name: "Südstrand"
 date: 2026-01-26
 draft: false
 description: "beach at Borkum island, Germany"
-region: "Borkum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Borkum"
+  - "Lower Saxony"
 wikidata_id: "Q33345921"
 latitude: 53.56392
 longitude: 6.7135
 images:
-  []
----
+  []---
 
 ## Overview
 

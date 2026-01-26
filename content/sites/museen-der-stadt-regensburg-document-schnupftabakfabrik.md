@@ -4,19 +4,18 @@ site_name: "Museen der Stadt Regensburg / document Schnupftabakfabrik"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q76629224"
 latitude: 49.01843
 longitude: 12.093333
 images:
-  []
----
+  []---
 
 ## Overview
 

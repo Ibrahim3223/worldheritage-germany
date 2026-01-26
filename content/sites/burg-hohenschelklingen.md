@@ -4,13 +4,13 @@ site_name: "Burg Hohenschelklingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schelklingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schelklingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012437"
 latitude: 48.3796
 longitude: 9.73156
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/400px-Burg_Hohenschelklingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/800px-Burg_Hohenschelklingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/1200px-Burg_Hohenschelklingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/1920px-Burg_Hohenschelklingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/1920px-Burg_Hohenschelklingen.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Pole-Poppenspäler-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Husum, Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q19298665"
 latitude: 54.78594444
 longitude: 9.06801389
 images:
-  []
----
+  []---
 
 ## Overview
 

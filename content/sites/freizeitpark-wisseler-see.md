@@ -4,13 +4,13 @@ site_name: "Freizeitpark Wisseler See"
 date: 2026-01-26
 draft: false
 description: "campsite in Kreis Kleve, Germany"
-region: "Kalkar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Kalkar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q127060687"
 latitude: 51.761641533
 longitude: 6.289271064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wisseler_See_PM240628_05.jpg/400px-Wisseler_See_PM240628_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wisseler_See_PM240628_05.jpg/800px-Wisseler_See_PM240628_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wisseler_See_PM240628_05.jpg/1200px-Wisseler_See_PM240628_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wisseler_See_PM240628_05.jpg/1920px-Wisseler_See_PM240628_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wisseler_See_PM240628_05.jpg/1920px-Wisseler_See_PM240628_05.jpg---
 
 ## Overview
 

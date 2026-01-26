@@ -4,13 +4,13 @@ site_name: "Brikettfabrik Louise"
 date: 2026-01-26
 draft: false
 description: "Technical monument and museum in Domsdorf, Uebigau-Wahrenbrück, Brandenburg, Germany"
-region: "Domsdorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Domsdorf"
+  - "Brandenburg"
 wikidata_id: "Q916995"
 latitude: 51.5833
 longitude: 13.4158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/400px-Tröbitz_003,_Brikettfabrik_Louise.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/800px-Tröbitz_003,_Brikettfabrik_Louise.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/1200px-Tröbitz_003,_Brikettfabrik_Louise.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/1920px-Tröbitz_003,_Brikettfabrik_Louise.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/1920px-Tröbitz_003,_Brikettfabrik_Louise.JPG---
 
 ## Overview
 

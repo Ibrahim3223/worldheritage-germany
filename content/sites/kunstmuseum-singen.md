@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Singen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Singen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Singen"
+  - "Baden-Württemberg"
 wikidata_id: "Q56384432"
 latitude: 47.76113
 longitude: 8.836698
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg/400px-Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg/800px-Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg/1200px-Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg/1920px-Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg/1920px-Singen_-_Ekkehardstraße_-_Kunstmuseum_01_ies.jpg---
 
 ## Overview
 

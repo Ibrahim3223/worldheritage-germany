@@ -4,19 +4,18 @@ site_name: "Haubarg Tetenshof: Parkanlage"
 date: 2026-01-26
 draft: false
 description: "park/garden in Welt, Germany"
-region: "Welt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Welt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58394814"
 latitude: 54.304680984
 longitude: 8.793080026
 images:
-  []
----
+  []---
 
 ## Overview
 

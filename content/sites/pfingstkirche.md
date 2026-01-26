@@ -4,13 +4,13 @@ site_name: "Pfingstkirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Friedrichshain, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1600604"
 latitude: 52.5210195
 longitude: 13.44977
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/400px-Pfingstkirche_Berlin_Friedrichshain.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/800px-Pfingstkirche_Berlin_Friedrichshain.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/1200px-Pfingstkirche_Berlin_Friedrichshain.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/1920px-Pfingstkirche_Berlin_Friedrichshain.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/1920px-Pfingstkirche_Berlin_Friedrichshain.JPG---
 
 ## Overview
 

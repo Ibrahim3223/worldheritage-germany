@@ -4,13 +4,13 @@ site_name: "Theater in der Filmdose"
 date: 2026-01-26
 draft: false
 description: "Theater in Köln, Deutschland"
-region: "Neustadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Neustadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1378175"
 latitude: 50.9483
 longitude: 6.95989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/400px-Theater_in_der_Filmdose,_Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/800px-Theater_in_der_Filmdose,_Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/1200px-Theater_in_der_Filmdose,_Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/1920px-Theater_in_der_Filmdose,_Köln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/1920px-Theater_in_der_Filmdose,_Köln.jpg---
 
 ## Overview
 

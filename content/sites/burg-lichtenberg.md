@@ -4,13 +4,13 @@ site_name: "Burg Lichtenberg"
 date: 2026-01-26
 draft: false
 description: "castle in Baden-Württemberg, Germany"
-region: "Oberstenfeld"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Oberstenfeld"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012925"
 latitude: 49.0136
 longitude: 9.32667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/400px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/800px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1200px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1920px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1920px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg---
 
 ## Overview
 

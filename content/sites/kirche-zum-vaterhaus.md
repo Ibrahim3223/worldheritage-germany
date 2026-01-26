@@ -4,13 +4,13 @@ site_name: "Kirche Zum Vaterhaus"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Treptow-Köpenick"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Treptow-Köpenick"
+  - "Berlin"
 wikidata_id: "Q1742768"
 latitude: 52.465
 longitude: 13.4854
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg/400px-Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg/800px-Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg/1200px-Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg/1920px-Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg/1920px-Berlin_-_church_'Zum_Vaterhaus'_2_(aka).jpg---
 
 ## Overview
 

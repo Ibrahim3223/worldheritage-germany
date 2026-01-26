@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6426-0104 in Gelchsheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gelchsheim, Würzburg, Lower Franconia, Bavaria, Germany"
-region: "Gelchsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Gelchsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q98169082"
 latitude: 49.572886308
 longitude: 10.021023843
 images:
-  []
----
+  []---
 
 ## Overview
 

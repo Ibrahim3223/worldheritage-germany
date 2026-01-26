@@ -4,19 +4,18 @@ site_name: "Oberhessisches Museum, Abt. für Vor- und Frühgeschichte und Völke
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633844"
 latitude: 50.58886
 longitude: 8.675364
 images:
-  []
----
+  []---
 
 ## Overview
 

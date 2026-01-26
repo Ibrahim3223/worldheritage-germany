@@ -4,19 +4,18 @@ site_name: "Alte Teichanlage an der Rinderweide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hessisch Oldendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hessisch Oldendorf"
+  - "Lower Saxony"
 wikidata_id: "Q436328"
 latitude: 52.1356
 longitude: 9.1925
 images:
-  []
----
+  []---
 
 ## Overview
 

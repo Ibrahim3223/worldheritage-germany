@@ -4,13 +4,13 @@ site_name: "Schlosskirche Eller"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1550986"
 latitude: 51.198
 longitude: 6.84568
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/400px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/800px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/1200px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/1920px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/1920px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg---
 
 ## Overview
 

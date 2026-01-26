@@ -4,13 +4,13 @@ site_name: "Kongressdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1772000"
 latitude: 50.7817
 longitude: 6.09747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kongressdenkmal_-_Nahaufnahme.jpg/400px-Kongressdenkmal_-_Nahaufnahme.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kongressdenkmal_-_Nahaufnahme.jpg/800px-Kongressdenkmal_-_Nahaufnahme.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kongressdenkmal_-_Nahaufnahme.jpg/1200px-Kongressdenkmal_-_Nahaufnahme.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kongressdenkmal_-_Nahaufnahme.jpg/1920px-Kongressdenkmal_-_Nahaufnahme.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kongressdenkmal_-_Nahaufnahme.jpg/1920px-Kongressdenkmal_-_Nahaufnahme.jpg---
 
 ## Overview
 

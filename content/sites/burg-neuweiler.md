@@ -4,13 +4,13 @@ site_name: "Burg Neuweiler"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Blankenheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Blankenheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013303"
 latitude: 50.3925
 longitude: 6.71584
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burgruine_Neuweiler.jpg/400px-Burgruine_Neuweiler.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burgruine_Neuweiler.jpg/800px-Burgruine_Neuweiler.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burgruine_Neuweiler.jpg/1200px-Burgruine_Neuweiler.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burgruine_Neuweiler.jpg/1920px-Burgruine_Neuweiler.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burgruine_Neuweiler.jpg/1920px-Burgruine_Neuweiler.jpg---
 
 ## Overview
 

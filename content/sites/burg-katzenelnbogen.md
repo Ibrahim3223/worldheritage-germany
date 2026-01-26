@@ -4,13 +4,13 @@ site_name: "Burg Katzenelnbogen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Katzenelnbogen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Katzenelnbogen"
+  - "Hesse"
 wikidata_id: "Q1012624"
 latitude: 50.2681
 longitude: 7.9765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/400px-Katzenelnbogen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/800px-Katzenelnbogen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/1200px-Katzenelnbogen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/1920px-Katzenelnbogen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/1920px-Katzenelnbogen.jpg---
 
 ## Overview
 

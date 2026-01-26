@@ -4,13 +4,13 @@ site_name: "Schleißheim State Gallery"
 date: 2026-01-26
 draft: false
 description: "art museum"
-region: "Oberschleißheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Oberschleißheim"
+  - "Bavaria"
 wikidata_id: "Q22669065"
 latitude: 48.248841666
 longitude: 11.561008333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/400px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/800px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/1200px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/1920px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/1920px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hl. Drei Könige Garbeck"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Balve"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Balve"
+  - "Hesse"
 wikidata_id: "Q1621385"
 latitude: 51.3179
 longitude: 7.82903
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/400px-Balve-Garbeck-Kirche1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/800px-Balve-Garbeck-Kirche1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1200px-Balve-Garbeck-Kirche1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1920px-Balve-Garbeck-Kirche1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1920px-Balve-Garbeck-Kirche1-Asio.JPG---
 
 ## Overview
 

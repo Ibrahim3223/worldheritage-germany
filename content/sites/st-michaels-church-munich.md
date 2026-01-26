@@ -4,13 +4,13 @@ site_name: "St. Michael's Church, Munich"
 date: 2026-01-26
 draft: false
 description: "church in Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q265745"
 latitude: 48.13884
 longitude: 11.57038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20060416-Michaelskirche_Muenchen.jpg/400px-20060416-Michaelskirche_Muenchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20060416-Michaelskirche_Muenchen.jpg/800px-20060416-Michaelskirche_Muenchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20060416-Michaelskirche_Muenchen.jpg/1200px-20060416-Michaelskirche_Muenchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20060416-Michaelskirche_Muenchen.jpg/1920px-20060416-Michaelskirche_Muenchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20060416-Michaelskirche_Muenchen.jpg/1920px-20060416-Michaelskirche_Muenchen.jpg---
 
 ## Overview
 

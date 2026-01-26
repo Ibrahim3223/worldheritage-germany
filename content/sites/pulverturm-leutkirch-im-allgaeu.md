@@ -4,19 +4,18 @@ site_name: "Pulverturm, Leutkirch im Allgäu"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Leutkirch im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Leutkirch im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q1402626"
 latitude: 47.8256
 longitude: 10.0253
 images:
-  []
----
+  []---
 
 ## Overview
 

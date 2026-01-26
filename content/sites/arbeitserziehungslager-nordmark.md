@@ -4,13 +4,13 @@ site_name: "Arbeitserziehungslager Nordmark"
 date: 2026-01-26
 draft: false
 description: "von der Nationalsozialistischen Geheimpolizei Gestapo eingerichtetes Straflager am Stadtrand von Kiel"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q627416"
 latitude: 54.2975
 longitude: 10.0856
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/400px-AEL_Nordmark_Infotafel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/800px-AEL_Nordmark_Infotafel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/1200px-AEL_Nordmark_Infotafel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/1920px-AEL_Nordmark_Infotafel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/1920px-AEL_Nordmark_Infotafel.jpg---
 
 ## Overview
 

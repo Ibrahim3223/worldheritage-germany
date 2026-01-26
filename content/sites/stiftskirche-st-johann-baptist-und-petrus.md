@@ -4,13 +4,13 @@ site_name: "Stiftskirche St. Johann Baptist und Petrus"
 date: 2026-01-26
 draft: false
 description: "church building in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2348752"
 latitude: 50.7388
 longitude: 7.09974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/400px-Bonn,_Stiftskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/800px-Bonn,_Stiftskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/1200px-Bonn,_Stiftskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/1920px-Bonn,_Stiftskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/1920px-Bonn,_Stiftskirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mother of Beethoven House"
 date: 2026-01-26
 draft: false
 description: "house of birth of the mother of Ludwig van Beethoven"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1955936"
 latitude: 50.359825
 longitude: 7.6109
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/400px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/800px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/1200px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/1920px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/1920px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg---
 
 ## Overview
 

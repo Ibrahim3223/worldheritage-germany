@@ -4,13 +4,13 @@ site_name: "Japanisches Palais"
 date: 2026-01-26
 draft: false
 description: "building in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q468137"
 latitude: 51.05972222
 longitude: 13.7375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/400px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/800px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1200px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1920px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1920px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg---
 
 ## Overview
 

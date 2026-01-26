@@ -4,13 +4,13 @@ site_name: "Glaselefant"
 date: 2026-01-26
 draft: false
 description: "landmark in Germany"
-region: "Hamm"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamm"
+  - "Hesse"
 wikidata_id: "Q1529396"
 latitude: 51.6829
 longitude: 7.88174
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/400px-Glaselefant.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/800px-Glaselefant.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/1200px-Glaselefant.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/1920px-Glaselefant.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/1920px-Glaselefant.jpg---
 
 ## Overview
 

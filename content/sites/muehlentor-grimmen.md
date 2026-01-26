@@ -4,13 +4,13 @@ site_name: "Mühlentor (Grimmen)"
 date: 2026-01-26
 draft: false
 description: "Stadttor in Grimmen (Mecklenburg-Vorpommern)"
-region: "Grimmen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Grimmen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1958540"
 latitude: 54.1123
 longitude: 13.0407
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/400px-Grimmen_Muehlentor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/800px-Grimmen_Muehlentor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/1200px-Grimmen_Muehlentor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/1920px-Grimmen_Muehlentor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/1920px-Grimmen_Muehlentor.jpg---
 
 ## Overview
 

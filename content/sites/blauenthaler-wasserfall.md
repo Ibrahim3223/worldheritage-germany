@@ -4,13 +4,13 @@ site_name: "Blauenthaler Wasserfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Eibenstock"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Eibenstock"
+  - "Bavaria"
 wikidata_id: "Q882575"
 latitude: 50.5105
 longitude: 12.6252
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/400px-Blauenthaler_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/800px-Blauenthaler_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/1200px-Blauenthaler_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/1920px-Blauenthaler_Wasserfall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/1920px-Blauenthaler_Wasserfall.jpg---
 
 ## Overview
 

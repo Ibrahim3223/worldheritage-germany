@@ -4,13 +4,13 @@ site_name: "Hirschdenkmal"
 date: 2026-01-26
 draft: false
 description: "Denkmal bei Stolberg (Harz) in Sachsen-Anhalt"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q1620393"
 latitude: 51.57931
 longitude: 10.943778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/400px-Hirschdenkmal_Stolberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/800px-Hirschdenkmal_Stolberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/1200px-Hirschdenkmal_Stolberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/1920px-Hirschdenkmal_Stolberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/1920px-Hirschdenkmal_Stolberg.JPG---
 
 ## Overview
 

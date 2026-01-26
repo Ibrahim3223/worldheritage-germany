@@ -4,13 +4,13 @@ site_name: "Treasury of the Munich Residence"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q47088306"
 latitude: 48.141111111
 longitude: 11.578055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/400px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/800px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/1200px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/1920px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/1920px-Kristallraum,_Schatzkammer,_2017-09-13.jpg---
 
 ## Overview
 

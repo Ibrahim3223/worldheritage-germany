@@ -4,19 +4,18 @@ site_name: "Horburg Castle"
 date: 2026-01-26
 draft: false
 description: "site of a medieval castle above Staufen in Baden-Württemberg, Germany"
-region: "Staufen im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Staufen im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012491"
 latitude: 47.8773
 longitude: 7.7552
 images:
-  []
----
+  []---
 
 ## Overview
 

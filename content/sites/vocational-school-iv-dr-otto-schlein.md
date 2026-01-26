@@ -4,13 +4,13 @@ site_name: "Vocational school IV Dr. Otto Schlein"
 date: 2026-01-26
 draft: false
 description: "vocational school in Magdeburg, Saxony-Anhalt, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q112564"
 latitude: 52.0607
 longitude: 11.6784
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/400px-Berufsschule_Westerhüsen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/800px-Berufsschule_Westerhüsen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/1200px-Berufsschule_Westerhüsen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/1920px-Berufsschule_Westerhüsen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/1920px-Berufsschule_Westerhüsen1.JPG---
 
 ## Overview
 

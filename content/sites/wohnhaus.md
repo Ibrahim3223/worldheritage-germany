@@ -4,13 +4,13 @@ site_name: "Wohnhaus"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-62-000-427 (0) in Bayreuth, Bavaria"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q28029181"
 latitude: 49.936729057
 longitude: 11.574113028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bayreuth028.jpg/400px-Bayreuth028.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bayreuth028.jpg/800px-Bayreuth028.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bayreuth028.jpg/1200px-Bayreuth028.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bayreuth028.jpg/1920px-Bayreuth028.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bayreuth028.jpg/1920px-Bayreuth028.jpg---
 
 ## Overview
 

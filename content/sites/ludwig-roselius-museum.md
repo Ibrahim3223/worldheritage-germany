@@ -4,13 +4,13 @@ site_name: "Ludwig Roselius Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Bremen"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1954717"
 latitude: 53.075
 longitude: 8.80583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/400px-Roseliushaus_-_LfD1501_-_jh15.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/800px-Roseliushaus_-_LfD1501_-_jh15.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/1200px-Roseliushaus_-_LfD1501_-_jh15.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/1920px-Roseliushaus_-_LfD1501_-_jh15.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/1920px-Roseliushaus_-_LfD1501_-_jh15.jpg---
 
 ## Overview
 

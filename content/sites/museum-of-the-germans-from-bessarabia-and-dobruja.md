@@ -4,13 +4,13 @@ site_name: "Museum of the Germans from Bessarabia and Dobruja"
 date: 2026-01-26
 draft: false
 description: "Local history museum of the Germans from Bessarabia and Dobruja"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1595655"
 latitude: 48.7844
 longitude: 9.2067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Haus_der_Bessarabiendeutschen.png/400px-Haus_der_Bessarabiendeutschen.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Haus_der_Bessarabiendeutschen.png/800px-Haus_der_Bessarabiendeutschen.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Haus_der_Bessarabiendeutschen.png/1200px-Haus_der_Bessarabiendeutschen.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Haus_der_Bessarabiendeutschen.png/1920px-Haus_der_Bessarabiendeutschen.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Haus_der_Bessarabiendeutschen.png/1920px-Haus_der_Bessarabiendeutschen.png---
 
 ## Overview
 

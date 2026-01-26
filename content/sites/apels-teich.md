@@ -4,13 +4,13 @@ site_name: "Apels Teich"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Hövelhof, North Rhine-Westphalia, Germany"
-region: "Hövelhof"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hövelhof"
+  - "Lower Saxony"
 wikidata_id: "Q618166"
 latitude: 51.8003
 longitude: 8.69406
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/400px-Klausheide-Apels_Teich-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/800px-Klausheide-Apels_Teich-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/1200px-Klausheide-Apels_Teich-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/1920px-Klausheide-Apels_Teich-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/1920px-Klausheide-Apels_Teich-3.jpg---
 
 ## Overview
 

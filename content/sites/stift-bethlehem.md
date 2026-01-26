@@ -4,19 +4,18 @@ site_name: "Stift Bethlehem"
 date: 2026-01-26
 draft: false
 description: "kirchliche Stiftung privaten Rechts"
-region: "Ludwigslust"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Ludwigslust"
+  - "Brandenburg"
 wikidata_id: "Q2348582"
 latitude: 53.33343887
 longitude: 11.49488354
 images:
-  []
----
+  []---
 
 ## Overview
 

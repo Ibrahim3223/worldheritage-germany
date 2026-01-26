@@ -4,13 +4,13 @@ site_name: "Stockmachermuseum Lindewerra"
 date: 2026-01-26
 draft: false
 description: "museum in Lindewerra, Germany"
-region: "Lindewerra"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lindewerra"
+  - "Hesse"
 wikidata_id: "Q22694069"
 latitude: 51.312382
 longitude: 9.946423
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/400px-Lindewerra_-_Stockmacherei.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/800px-Lindewerra_-_Stockmacherei.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/1200px-Lindewerra_-_Stockmacherei.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/1920px-Lindewerra_-_Stockmacherei.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/1920px-Lindewerra_-_Stockmacherei.JPG---
 
 ## Overview
 

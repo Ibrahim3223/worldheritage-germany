@@ -4,13 +4,13 @@ site_name: "Rellinger Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Rellingen, Schleswig-Holstein, Germany"
-region: "Rellingen"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rellingen"
+  - "Hamburg"
 wikidata_id: "Q2142815"
 latitude: 53.6488
 longitude: 9.82955
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/400px-Rellingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/800px-Rellingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/1200px-Rellingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/1920px-Rellingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/1920px-Rellingen.JPG---
 
 ## Overview
 

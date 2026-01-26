@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirche (Dommelstadl)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1257661"
 latitude: 48.5108
 longitude: 13.4406
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/400px-Pfarrkirche_Dommelstadl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/800px-Pfarrkirche_Dommelstadl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/1200px-Pfarrkirche_Dommelstadl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/1920px-Pfarrkirche_Dommelstadl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/1920px-Pfarrkirche_Dommelstadl.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "mausoleum of Richard Schmidt"
 date: 2026-01-26
 draft: false
 description: "mausoleum in Buchholz in der Nordheide"
-region: "Buchholz in der Nordheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Buchholz in der Nordheide"
+  - "Lower Saxony"
 wikidata_id: "Q51884212"
 latitude: 53.329802777
 longitude: 9.872725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/400px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/800px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/1200px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/1920px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/1920px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg---
 
 ## Overview
 

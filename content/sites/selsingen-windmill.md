@@ -4,13 +4,13 @@ site_name: "Selsingen windmill"
 date: 2026-01-26
 draft: false
 description: "winmill in Selsingen, Lower Saxony, Germany"
-region: "Selsingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Selsingen"
+  - "Lower Saxony"
 wikidata_id: "Q136303858"
 latitude: 53.366958333
 longitude: 9.219247222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/400px-Elisabeth_-_Mühle_in_Selsingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/800px-Elisabeth_-_Mühle_in_Selsingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/1200px-Elisabeth_-_Mühle_in_Selsingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/1920px-Elisabeth_-_Mühle_in_Selsingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/1920px-Elisabeth_-_Mühle_in_Selsingen.jpg---
 
 ## Overview
 

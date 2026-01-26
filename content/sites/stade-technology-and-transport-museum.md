@@ -4,19 +4,18 @@ site_name: "Stade Technology and Transport Museum"
 date: 2026-01-26
 draft: false
 description: "former museum in Stade, Germany"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q1699381"
 latitude: 53.6103
 longitude: 9.47806
 images:
-  []
----
+  []---
 
 ## Overview
 

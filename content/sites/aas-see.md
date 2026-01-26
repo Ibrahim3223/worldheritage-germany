@@ -4,19 +4,18 @@ site_name: "Aas See"
 date: 2026-01-26
 draft: false
 description: "lake in Schleswig-Holstein, Germany"
-region: "Waabs"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Waabs"
+  - "Schleswig-Holstein"
 wikidata_id: "Q303692"
 latitude: 54.5029
 longitude: 9.9493
 images:
-  []
----
+  []---
 
 ## Overview
 

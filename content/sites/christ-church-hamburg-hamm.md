@@ -4,13 +4,13 @@ site_name: "Christ church (Hamburg-Hamm)"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1087323"
 latitude: 53.558596
 longitude: 10.046588
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/400px-Christuskirche_(Hamburg-Hamm).ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/800px-Christuskirche_(Hamburg-Hamm).ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/1200px-Christuskirche_(Hamburg-Hamm).ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/1920px-Christuskirche_(Hamburg-Hamm).ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/1920px-Christuskirche_(Hamburg-Hamm).ajb.jpg---
 
 ## Overview
 

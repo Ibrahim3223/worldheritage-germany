@@ -4,13 +4,13 @@ site_name: "Antikriegshaus Sievershausen"
 date: 2026-01-26
 draft: false
 description: "building and event venue near Hannover, Germany"
-region: "Lehrte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lehrte"
+  - "Lower Saxony"
 wikidata_id: "Q18286240"
 latitude: 52.374284
 longitude: 10.129696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/400px-Antikriegshaus_Sievershausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/800px-Antikriegshaus_Sievershausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1200px-Antikriegshaus_Sievershausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1920px-Antikriegshaus_Sievershausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1920px-Antikriegshaus_Sievershausen.jpg---
 
 ## Overview
 

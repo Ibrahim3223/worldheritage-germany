@@ -4,13 +4,13 @@ site_name: "Palace of Nell"
 date: 2026-01-26
 draft: false
 description: "Schloss im Saarland"
-region: "Perl"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Perl"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q27150033"
 latitude: 49.472388888
 longitude: 6.385111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/400px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/800px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/1200px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/1920px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/1920px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Aul"
 date: 2026-01-26
 draft: false
 description: "Befestigungsturm der Stadtmauer der Stadt Zwingenberg"
-region: "Zwingenberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Zwingenberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q771433"
 latitude: 49.7238
 longitude: 8.61555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zwingenberg_Aul_02.jpg/400px-Zwingenberg_Aul_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zwingenberg_Aul_02.jpg/800px-Zwingenberg_Aul_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zwingenberg_Aul_02.jpg/1200px-Zwingenberg_Aul_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zwingenberg_Aul_02.jpg/1920px-Zwingenberg_Aul_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zwingenberg_Aul_02.jpg/1920px-Zwingenberg_Aul_02.jpg---
 
 ## Overview
 

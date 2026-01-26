@@ -4,13 +4,13 @@ site_name: "Gerhart-Hauptmann-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Western Pomerania-Rügen District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Western Pomerania-Rügen District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1110943"
 latitude: 54.5852
 longitude: 13.1038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/400px-Wohdiele_Seedorn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/800px-Wohdiele_Seedorn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/1200px-Wohdiele_Seedorn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/1920px-Wohdiele_Seedorn.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/1920px-Wohdiele_Seedorn.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lindheim Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Altenstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Altenstadt"
+  - "Bavaria"
 wikidata_id: "Q1012984"
 latitude: 50.2894
 longitude: 8.98558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Lindheim01.jpg/400px-Burg_Lindheim01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Lindheim01.jpg/800px-Burg_Lindheim01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Lindheim01.jpg/1200px-Burg_Lindheim01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Lindheim01.jpg/1920px-Burg_Lindheim01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Lindheim01.jpg/1920px-Burg_Lindheim01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Altes Brauhaus (Kempten)"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Gebäude in Kempten, Bayern"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q439148"
 latitude: 47.7289
 longitude: 10.3103
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/400px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/800px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/1200px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/1920px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/1920px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg---
 
 ## Overview
 

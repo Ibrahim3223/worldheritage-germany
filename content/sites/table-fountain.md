@@ -4,13 +4,13 @@ site_name: "Table fountain"
 date: 2026-01-26
 draft: false
 description: "fountain in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1981750"
 latitude: 52.3708698
 longitude: 9.7287961
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Neustädter_Marktbrunnen_Hannover.jpg/400px-Neustädter_Marktbrunnen_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Neustädter_Marktbrunnen_Hannover.jpg/800px-Neustädter_Marktbrunnen_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Neustädter_Marktbrunnen_Hannover.jpg/1200px-Neustädter_Marktbrunnen_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Neustädter_Marktbrunnen_Hannover.jpg/1920px-Neustädter_Marktbrunnen_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Neustädter_Marktbrunnen_Hannover.jpg/1920px-Neustädter_Marktbrunnen_Hannover.jpg---
 
 ## Overview
 

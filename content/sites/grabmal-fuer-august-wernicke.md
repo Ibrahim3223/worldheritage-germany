@@ -4,13 +4,13 @@ site_name: "Grabmal für August Wernicke"
 date: 2026-01-26
 draft: false
 description: "tomb in Bernau bei Berlin, Germany"
-region: "Bernau bei Berlin"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Bernau bei Berlin"
+  - "Berlin"
 wikidata_id: "Q1540905"
 latitude: 52.6811
 longitude: 13.5853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg/400px-Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg/800px-Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg/1200px-Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg/1920px-Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg/1920px-Bernau_bei_Berlin_Grabmal_August_Wernicke.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wybelsum Church"
 date: 2026-01-26
 draft: false
 description: "church building in Emden, Lower Saxony, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q2595569"
 latitude: 53.3542
 longitude: 7.11047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/400px-ChurchWybelsum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/800px-ChurchWybelsum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/1200px-ChurchWybelsum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/1920px-ChurchWybelsum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/1920px-ChurchWybelsum.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stover Windmühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Stover, Drage"
-region: "Drage"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Drage"
+  - "Hamburg"
 wikidata_id: "Q137670445"
 latitude: 53.428656734
 longitude: 10.304797446
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/26949865_Stover_Strand_3_Stove.jpg/400px-26949865_Stover_Strand_3_Stove.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/26949865_Stover_Strand_3_Stove.jpg/800px-26949865_Stover_Strand_3_Stove.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/26949865_Stover_Strand_3_Stove.jpg/1200px-26949865_Stover_Strand_3_Stove.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/26949865_Stover_Strand_3_Stove.jpg/1920px-26949865_Stover_Strand_3_Stove.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/26949865_Stover_Strand_3_Stove.jpg/1920px-26949865_Stover_Strand_3_Stove.jpg---
 
 ## Overview
 

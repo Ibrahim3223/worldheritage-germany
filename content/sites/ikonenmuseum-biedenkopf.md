@@ -4,13 +4,13 @@ site_name: "Ikonenmuseum Biedenkopf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Biedenkopf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Biedenkopf"
+  - "Hesse"
 wikidata_id: "Q1658130"
 latitude: 50.9133
 longitude: 8.52848
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/400px-Ikonenmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/800px-Ikonenmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/1200px-Ikonenmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/1920px-Ikonenmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/1920px-Ikonenmuseum.JPG---
 
 ## Overview
 

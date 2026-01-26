@@ -4,13 +4,13 @@ site_name: "Grillo-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Essen, Germany, used by the municipal drama company"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q71803"
 latitude: 51.4546
 longitude: 7.01167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/400px-Grillo-Theater-2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/800px-Grillo-Theater-2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/1200px-Grillo-Theater-2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/1920px-Grillo-Theater-2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/1920px-Grillo-Theater-2012.jpg---
 
 ## Overview
 

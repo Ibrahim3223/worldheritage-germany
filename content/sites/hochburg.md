@@ -4,13 +4,13 @@ site_name: "Hochburg"
 date: 2026-01-26
 draft: false
 description: "castle ruin between the city of Emmendingen and the village of Sexau"
-region: "Emmendingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Emmendingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q885079"
 latitude: 48.1167
 longitude: 7.90056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/400px-Hochburg_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/800px-Hochburg_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1200px-Hochburg_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1920px-Hochburg_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1920px-Hochburg_Panorama.jpg---
 
 ## Overview
 

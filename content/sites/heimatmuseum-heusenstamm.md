@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Heusenstamm"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633910"
 latitude: 50.063497
 longitude: 8.805134
 images:
-  []
----
+  []---
 
 ## Overview
 

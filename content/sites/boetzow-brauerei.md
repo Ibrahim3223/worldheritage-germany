@@ -4,13 +4,13 @@ site_name: "Bötzow-Brauerei"
 date: 2026-01-26
 draft: false
 description: "ehemalige Brauerei im Berliner Ortsteil Prenzlauer Berg"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1020177"
 latitude: 52.5303
 longitude: 13.4172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/400px-Bötzow-Brauerei_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/800px-Bötzow-Brauerei_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/1200px-Bötzow-Brauerei_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/1920px-Bötzow-Brauerei_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/1920px-Bötzow-Brauerei_1900.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Potsdam University Library"
 date: 2026-01-26
 draft: false
 description: "university library"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q827220"
 latitude: 52.4085
 longitude: 12.973
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg/400px-Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg/800px-Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg/1200px-Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg/1920px-Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg/1920px-Potsdam_Germany_University-Library-Neues-Palais-Haus-11-01.jpg---
 
 ## Overview
 

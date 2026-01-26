@@ -4,13 +4,13 @@ site_name: "Pyrmont Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Rhineland-Palatinate"
-region: "Roes"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Roes"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q129314"
 latitude: 50.2374
 longitude: 7.28765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/400px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/800px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/1200px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/1920px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/1920px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG---
 
 ## Overview
 

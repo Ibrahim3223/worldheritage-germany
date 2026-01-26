@@ -4,13 +4,13 @@ site_name: "Osterkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q2035246"
 latitude: 53.56808333
 longitude: 10.05319444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Osterkirche_im_park.jpg/400px-Osterkirche_im_park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Osterkirche_im_park.jpg/800px-Osterkirche_im_park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Osterkirche_im_park.jpg/1200px-Osterkirche_im_park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Osterkirche_im_park.jpg/1920px-Osterkirche_im_park.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Osterkirche_im_park.jpg/1920px-Osterkirche_im_park.jpg---
 
 ## Overview
 

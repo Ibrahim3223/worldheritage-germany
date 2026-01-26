@@ -4,13 +4,13 @@ site_name: "Alexiusbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Rastatt, Germany"
-region: "Rastatt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Rastatt"
+  - "Baden-Württemberg"
 wikidata_id: "Q2644178"
 latitude: 48.8581
 longitude: 8.2021
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/400px-Alexiusbrunnen_Rastatt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/800px-Alexiusbrunnen_Rastatt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/1200px-Alexiusbrunnen_Rastatt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/1920px-Alexiusbrunnen_Rastatt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/1920px-Alexiusbrunnen_Rastatt.JPG---
 
 ## Overview
 

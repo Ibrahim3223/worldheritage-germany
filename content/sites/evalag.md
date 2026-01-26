@@ -4,19 +4,18 @@ site_name: "evalag"
 date: 2026-01-26
 draft: false
 description: "Stiftung öffentlichen Rechts"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1379599"
 latitude: 49.4030789
 longitude: 8.6697249
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Deutsches Haus"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Flensburg, Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1205683"
 latitude: 54.781
 longitude: 9.43825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/400px-Deutsches_Haus,_Flensburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/800px-Deutsches_Haus,_Flensburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/1200px-Deutsches_Haus,_Flensburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/1920px-Deutsches_Haus,_Flensburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/1920px-Deutsches_Haus,_Flensburg.JPG---
 
 ## Overview
 

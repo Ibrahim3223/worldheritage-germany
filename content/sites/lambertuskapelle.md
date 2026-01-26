@@ -4,13 +4,13 @@ site_name: "Lambertuskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Treuchtlingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Treuchtlingen"
+  - "Bavaria"
 wikidata_id: "Q1620225"
 latitude: 48.9555
 longitude: 10.9116
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lambertuskirche_Treuchtlingen_1.jpg/400px-Lambertuskirche_Treuchtlingen_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lambertuskirche_Treuchtlingen_1.jpg/800px-Lambertuskirche_Treuchtlingen_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lambertuskirche_Treuchtlingen_1.jpg/1200px-Lambertuskirche_Treuchtlingen_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lambertuskirche_Treuchtlingen_1.jpg/1920px-Lambertuskirche_Treuchtlingen_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lambertuskirche_Treuchtlingen_1.jpg/1920px-Lambertuskirche_Treuchtlingen_1.jpg---
 
 ## Overview
 

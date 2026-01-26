@@ -4,13 +4,13 @@ site_name: "Kloster Frenswegen"
 date: 2026-01-26
 draft: false
 description: "Kloster in Nordhorn, Landkreis Grafschaft Bentheim, Niedersachsen"
-region: "Nordhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Nordhorn"
+  - "Lower Saxony"
 wikidata_id: "Q1775241"
 latitude: 52.4546
 longitude: 7.03909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/400px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/800px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/1200px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/1920px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/1920px-Kloster_Frenswegen_ehem_Kreuzgang.jpg---
 
 ## Overview
 

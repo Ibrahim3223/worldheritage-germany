@@ -4,13 +4,13 @@ site_name: "Alte Burg Penzlin"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Penzlin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Penzlin"
+  - "Brandenburg"
 wikidata_id: "Q435479"
 latitude: 53.5069
 longitude: 13.0889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg-Penzlin1.jpg/400px-Burg-Penzlin1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg-Penzlin1.jpg/800px-Burg-Penzlin1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg-Penzlin1.jpg/1200px-Burg-Penzlin1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg-Penzlin1.jpg/1920px-Burg-Penzlin1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg-Penzlin1.jpg/1920px-Burg-Penzlin1.jpg---
 
 ## Overview
 

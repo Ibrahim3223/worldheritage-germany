@@ -4,13 +4,13 @@ site_name: "Church of the Holy Blood of Christ"
 date: 2026-01-26
 draft: false
 description: "church building in Armsheim, Rhineland-Palatinate, Germany"
-region: "Armsheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Armsheim"
+  - "Hesse"
 wikidata_id: "Q228960"
 latitude: 49.808
 longitude: 8.05755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/400px-Armsheim_–_ev._Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/800px-Armsheim_–_ev._Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1200px-Armsheim_–_ev._Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1920px-Armsheim_–_ev._Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1920px-Armsheim_–_ev._Kirche.jpg---
 
 ## Overview
 

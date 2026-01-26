@@ -4,13 +4,13 @@ site_name: "Twelve-Apostles-Church"
 date: 2026-01-26
 draft: false
 description: "church building in Züssow in the Vorpommern-Greifswald district, Mecklenburg-Vorpommern"
-region: "Züssow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Züssow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q245159"
 latitude: 53.9818
 longitude: 13.5466
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/400px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/800px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/1200px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/1920px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/1920px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg---
 
 ## Overview
 

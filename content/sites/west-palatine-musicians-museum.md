@@ -4,13 +4,13 @@ site_name: "West Palatine Musicians Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mackenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mackenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q2565559"
 latitude: 49.4716
 longitude: 7.5843
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/400px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/800px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/1200px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/1920px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/1920px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg---
 
 ## Overview
 

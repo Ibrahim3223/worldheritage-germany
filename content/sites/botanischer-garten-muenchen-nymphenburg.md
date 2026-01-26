@@ -4,13 +4,13 @@ site_name: "Botanischer Garten München-Nymphenburg"
 date: 2026-01-26
 draft: false
 description: "botanical garden and arboretum in Munich, Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q707660"
 latitude: 48.163131007
 longitude: 11.499946012
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/400px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/800px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/1920px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/1920px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg---
 
 ## Overview
 

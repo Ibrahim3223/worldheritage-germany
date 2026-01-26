@@ -4,19 +4,18 @@ site_name: "Kobisenmühle"
 date: 2026-01-26
 draft: false
 description: "Wassermühle St.Georgen im Schwarzwald"
-region: "St. Georgen im Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "St. Georgen im Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q15057074"
 latitude: 48.093533
 longitude: 8.340509
 images:
-  []
----
+  []---
 
 ## Overview
 

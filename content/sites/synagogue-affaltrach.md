@@ -4,13 +4,13 @@ site_name: "Synagogue Affaltrach"
 date: 2026-01-26
 draft: false
 description: "building in Obersulm, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Obersulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Obersulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q2375370"
 latitude: 49.1341
 longitude: 9.38268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Obersulm_Affaltrach_Synagoge_20061126.jpg/400px-Obersulm_Affaltrach_Synagoge_20061126.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Obersulm_Affaltrach_Synagoge_20061126.jpg/800px-Obersulm_Affaltrach_Synagoge_20061126.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Obersulm_Affaltrach_Synagoge_20061126.jpg/1200px-Obersulm_Affaltrach_Synagoge_20061126.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Obersulm_Affaltrach_Synagoge_20061126.jpg/1920px-Obersulm_Affaltrach_Synagoge_20061126.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Obersulm_Affaltrach_Synagoge_20061126.jpg/1920px-Obersulm_Affaltrach_Synagoge_20061126.jpg---
 
 ## Overview
 

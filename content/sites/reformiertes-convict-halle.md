@@ -4,19 +4,18 @@ site_name: "Reformiertes Convict Halle"
 date: 2026-01-26
 draft: false
 description: "Kirchliche Stiftung in Halle (Saale)"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1241188"
 latitude: 51.484
 longitude: 11.9666
 images:
-  []
----
+  []---
 
 ## Overview
 

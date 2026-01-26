@@ -4,13 +4,13 @@ site_name: "Zeuthener See"
 date: 2026-01-26
 draft: false
 description: "lake situated to the south-east of Berlin, Germany"
-region: "Treptow-Köpenick"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Treptow-Köpenick"
+  - "Berlin"
 wikidata_id: "Q59421"
 latitude: 52.356388888
 longitude: 13.638611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-schmoeckwitz-nachsueden.jpg/400px-Berlin-schmoeckwitz-nachsueden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-schmoeckwitz-nachsueden.jpg/800px-Berlin-schmoeckwitz-nachsueden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-schmoeckwitz-nachsueden.jpg/1200px-Berlin-schmoeckwitz-nachsueden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-schmoeckwitz-nachsueden.jpg/1920px-Berlin-schmoeckwitz-nachsueden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-schmoeckwitz-nachsueden.jpg/1920px-Berlin-schmoeckwitz-nachsueden.jpg---
 
 ## Overview
 

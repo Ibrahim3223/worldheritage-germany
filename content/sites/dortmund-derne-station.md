@@ -4,13 +4,13 @@ site_name: "Dortmund-Derne station"
 date: 2026-01-26
 draft: false
 description: "railway station in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q302712"
 latitude: 51.5719
 longitude: 7.52833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bahnhof_DO_Derne_Gebaeude.jpg/400px-Bahnhof_DO_Derne_Gebaeude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bahnhof_DO_Derne_Gebaeude.jpg/800px-Bahnhof_DO_Derne_Gebaeude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bahnhof_DO_Derne_Gebaeude.jpg/1200px-Bahnhof_DO_Derne_Gebaeude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bahnhof_DO_Derne_Gebaeude.jpg/1920px-Bahnhof_DO_Derne_Gebaeude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bahnhof_DO_Derne_Gebaeude.jpg/1920px-Bahnhof_DO_Derne_Gebaeude.jpg---
 
 ## Overview
 

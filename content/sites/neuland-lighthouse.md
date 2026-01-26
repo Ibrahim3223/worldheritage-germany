@@ -4,13 +4,13 @@ site_name: "Neuland Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Behrensdorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Behrensdorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q833471"
 latitude: 54.36065
 longitude: 10.60093
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/400px-Leuchtturm_Neuland_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/800px-Leuchtturm_Neuland_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/1200px-Leuchtturm_Neuland_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/1920px-Leuchtturm_Neuland_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/1920px-Leuchtturm_Neuland_1.jpg---
 
 ## Overview
 

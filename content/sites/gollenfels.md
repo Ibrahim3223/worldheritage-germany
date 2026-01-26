@@ -4,13 +4,13 @@ site_name: "Gollenfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dörrebach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dörrebach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1011994"
 latitude: 49.9446
 longitude: 7.7686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/400px-Gollenfels_main_building.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/800px-Gollenfels_main_building.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1200px-Gollenfels_main_building.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1920px-Gollenfels_main_building.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1920px-Gollenfels_main_building.jpg---
 
 ## Overview
 

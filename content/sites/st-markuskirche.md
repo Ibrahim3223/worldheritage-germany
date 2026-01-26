@@ -4,13 +4,13 @@ site_name: "St. Markuskirche"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Chemnitz-Sonnnenberg, Saxony, Germany"
-region: "Sonnenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sonnenberg"
+  - "Saxony"
 wikidata_id: "Q2321028"
 latitude: 50.834836
 longitude: 12.937404
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Markuskirche_in_Chemnitz.jpg/400px-Markuskirche_in_Chemnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Markuskirche_in_Chemnitz.jpg/800px-Markuskirche_in_Chemnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Markuskirche_in_Chemnitz.jpg/1200px-Markuskirche_in_Chemnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Markuskirche_in_Chemnitz.jpg/1920px-Markuskirche_in_Chemnitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Markuskirche_in_Chemnitz.jpg/1920px-Markuskirche_in_Chemnitz.jpg---
 
 ## Overview
 

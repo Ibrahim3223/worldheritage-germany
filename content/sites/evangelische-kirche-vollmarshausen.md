@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Vollmarshausen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Vollmarshausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vollmarshausen"
+  - "Hesse"
 wikidata_id: "Q1380943"
 latitude: 51.2622
 longitude: 9.56333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/400px-Evangelische-kirche-vollmarshausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/800px-Evangelische-kirche-vollmarshausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/1200px-Evangelische-kirche-vollmarshausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/1920px-Evangelische-kirche-vollmarshausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/1920px-Evangelische-kirche-vollmarshausen.jpg---
 
 ## Overview
 

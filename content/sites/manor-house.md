@@ -4,19 +4,18 @@ site_name: "Manor house"
 date: 2026-01-26
 draft: false
 description: "manor house in Eisenhammer an der Roth near Roth, Germany"
-region: "Roth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Roth"
+  - "Bavaria"
 wikidata_id: "Q41373627"
 latitude: 49.219952445
 longitude: 11.13360463
 images:
-  []
----
+  []---
 
 ## Overview
 

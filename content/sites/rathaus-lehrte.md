@@ -4,13 +4,13 @@ site_name: "Rathaus Lehrte"
 date: 2026-01-26
 draft: false
 description: "building in Lehrte near Hannover, Germany"
-region: "Lehrte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Lehrte"
+  - "Lower Saxony"
 wikidata_id: "Q111812900"
 latitude: 52.3735371
 longitude: 9.9749463
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rathaus_Lehrte_(01).jpg/400px-Rathaus_Lehrte_(01).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rathaus_Lehrte_(01).jpg/800px-Rathaus_Lehrte_(01).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rathaus_Lehrte_(01).jpg/1200px-Rathaus_Lehrte_(01).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rathaus_Lehrte_(01).jpg/1920px-Rathaus_Lehrte_(01).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rathaus_Lehrte_(01).jpg/1920px-Rathaus_Lehrte_(01).jpg---
 
 ## Overview
 

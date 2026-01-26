@@ -4,13 +4,13 @@ site_name: "Esperhöhle"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Gößweinstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Gößweinstein"
+  - "Bavaria"
 wikidata_id: "Q1368178"
 latitude: 49.7708
 longitude: 11.2964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/400px-2016_Esperhöhle_Panorama_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/800px-2016_Esperhöhle_Panorama_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/1200px-2016_Esperhöhle_Panorama_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/1920px-2016_Esperhöhle_Panorama_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/1920px-2016_Esperhöhle_Panorama_2.jpg---
 
 ## Overview
 

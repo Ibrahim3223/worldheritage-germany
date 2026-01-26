@@ -4,13 +4,13 @@ site_name: "Grönegaumuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Melle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Melle"
+  - "Lower Saxony"
 wikidata_id: "Q1551641"
 latitude: 52.2058
 longitude: 8.32861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grönegaumuseum_Melle_2008.JPG/400px-Grönegaumuseum_Melle_2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grönegaumuseum_Melle_2008.JPG/800px-Grönegaumuseum_Melle_2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grönegaumuseum_Melle_2008.JPG/1200px-Grönegaumuseum_Melle_2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grönegaumuseum_Melle_2008.JPG/1920px-Grönegaumuseum_Melle_2008.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grönegaumuseum_Melle_2008.JPG/1920px-Grönegaumuseum_Melle_2008.JPG---
 
 ## Overview
 

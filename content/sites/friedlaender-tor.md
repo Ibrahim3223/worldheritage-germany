@@ -4,13 +4,13 @@ site_name: "Friedländer Tor"
 date: 2026-01-26
 draft: false
 description: "city gate in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q1457626"
 latitude: 53.5591
 longitude: 13.2655
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/400px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/800px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/1200px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/1920px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/1920px-NB-Friedlaender-Tor-11-IV-2007-041.jpg---
 
 ## Overview
 

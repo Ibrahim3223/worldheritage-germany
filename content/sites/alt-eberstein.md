@@ -4,13 +4,13 @@ site_name: "Alt Eberstein"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Baden-Baden. Germany"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q432902"
 latitude: 48.7839
 longitude: 8.27056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/400px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/800px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1200px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1920px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1920px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg---
 
 ## Overview
 

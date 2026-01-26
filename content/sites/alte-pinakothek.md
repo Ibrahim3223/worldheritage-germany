@@ -4,13 +4,13 @@ site_name: "Alte Pinakothek"
 date: 2026-01-26
 draft: false
 description: "art museum in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q154568"
 latitude: 48.148291
 longitude: 11.569985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/400px-Alte_Pinakothek.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/800px-Alte_Pinakothek.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1200px-Alte_Pinakothek.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1920px-Alte_Pinakothek.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1920px-Alte_Pinakothek.JPG---
 
 ## Overview
 

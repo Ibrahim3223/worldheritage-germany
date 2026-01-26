@@ -4,13 +4,13 @@ site_name: "Monbijou Palace"
 date: 2026-01-26
 draft: false
 description: "castle in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q694382"
 latitude: 52.5233
 longitude: 13.3967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/400px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/800px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/1200px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/1920px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/1920px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg---
 
 ## Overview
 

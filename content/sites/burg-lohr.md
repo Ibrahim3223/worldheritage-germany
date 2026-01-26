@@ -4,19 +4,18 @@ site_name: "Burg Lohr"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Crailsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Crailsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013012"
 latitude: 49.1051
 longitude: 10.1301
 images:
-  []
----
+  []---
 
 ## Overview
 

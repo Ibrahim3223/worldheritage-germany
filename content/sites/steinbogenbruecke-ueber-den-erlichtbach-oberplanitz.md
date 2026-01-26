@@ -4,19 +4,18 @@ site_name: "Steinbogenbrücke über den Erlichtbach Oberplanitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Zwickau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Zwickau"
+  - "Saxony"
 wikidata_id: "Q49439199"
 latitude: 50.674924162
 longitude: 12.456096948
 images:
-  []
----
+  []---
 
 ## Overview
 

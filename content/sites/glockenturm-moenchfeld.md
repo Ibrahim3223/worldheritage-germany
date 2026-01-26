@@ -4,13 +4,13 @@ site_name: "Glockenturm Mönchfeld"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1270186"
 latitude: 48.8431
 longitude: 9.2225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG/400px-Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG/800px-Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG/1200px-Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG/1920px-Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG/1920px-Evang._Kirche_Stuttgart-Mönchfeld_-_Turm.JPG---
 
 ## Overview
 

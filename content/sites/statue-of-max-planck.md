@@ -4,13 +4,13 @@ site_name: "Statue of Max Planck"
 date: 2026-01-26
 draft: false
 description: "Statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976701"
 latitude: 52.51775
 longitude: 13.39349
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg/400px-Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg/800px-Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg/1200px-Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg/1920px-Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg/1920px-Statue_Unter_den_Linden_6_(Mitte)_Max_Planck.jpg---
 
 ## Overview
 

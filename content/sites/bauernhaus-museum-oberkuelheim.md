@@ -4,19 +4,18 @@ site_name: "Bauernhaus-Museum Oberkülheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bergisch Gladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bergisch Gladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15792489"
 latitude: 50.978848
 longitude: 7.236036
 images:
-  []
----
+  []---
 
 ## Overview
 

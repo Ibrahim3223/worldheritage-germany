@@ -4,13 +4,13 @@ site_name: "Elberfelder Armenpflegedenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1325228"
 latitude: 51.2563
 longitude: 7.14722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/400px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/800px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/1200px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/1920px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/1920px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg---
 
 ## Overview
 

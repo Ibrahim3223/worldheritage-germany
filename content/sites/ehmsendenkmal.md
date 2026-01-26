@@ -4,13 +4,13 @@ site_name: "Ehmsendenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Arnsberg, Germany"
-region: "Arnsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Arnsberg"
+  - "Hesse"
 wikidata_id: "Q1299762"
 latitude: 51.3914
 longitude: 8.06753
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ehmsendenkmal_2015.jpg/400px-Ehmsendenkmal_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ehmsendenkmal_2015.jpg/800px-Ehmsendenkmal_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ehmsendenkmal_2015.jpg/1200px-Ehmsendenkmal_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ehmsendenkmal_2015.jpg/1920px-Ehmsendenkmal_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ehmsendenkmal_2015.jpg/1920px-Ehmsendenkmal_2015.jpg---
 
 ## Overview
 

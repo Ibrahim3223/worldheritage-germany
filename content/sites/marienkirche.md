@@ -4,13 +4,13 @@ site_name: "Marienkirche"
 date: 2026-01-26
 draft: false
 description: "church in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q205625"
 latitude: 51.5142
 longitude: 7.4675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marienkirche-DSCN6357.jpg/400px-Marienkirche-DSCN6357.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marienkirche-DSCN6357.jpg/800px-Marienkirche-DSCN6357.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marienkirche-DSCN6357.jpg/1200px-Marienkirche-DSCN6357.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marienkirche-DSCN6357.jpg/1920px-Marienkirche-DSCN6357.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marienkirche-DSCN6357.jpg/1920px-Marienkirche-DSCN6357.jpg---
 
 ## Overview
 

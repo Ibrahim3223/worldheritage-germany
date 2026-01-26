@@ -4,13 +4,13 @@ site_name: "Erentrudiskapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1350019"
 latitude: 47.9664
 longitude: 7.68825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/400px-Erentrudiskapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/800px-Erentrudiskapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/1200px-Erentrudiskapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/1920px-Erentrudiskapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/1920px-Erentrudiskapelle.JPG---
 
 ## Overview
 

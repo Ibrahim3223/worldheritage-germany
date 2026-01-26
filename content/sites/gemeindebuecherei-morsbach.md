@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Morsbach"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Morsbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Morsbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q28729511"
 latitude: 50.86398
 longitude: 7.72782
 images:
-  []
----
+  []---
 
 ## Overview
 

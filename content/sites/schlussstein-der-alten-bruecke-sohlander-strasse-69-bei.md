@@ -4,19 +4,18 @@ site_name: "Schlussstein der alten Brücke Sohlander Straße 69 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schirgiswalde-Kirschau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schirgiswalde-Kirschau"
+  - "Saxony"
 wikidata_id: "Q49407327"
 latitude: 51.062509
 longitude: 14.430324
 images:
-  []
----
+  []---
 
 ## Overview
 

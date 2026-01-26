@@ -4,13 +4,13 @@ site_name: "Andernach station"
 date: 2026-01-26
 draft: false
 description: "railway station in Andernach, Germany"
-region: "Andernach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Andernach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q322789"
 latitude: 50.4356
 longitude: 7.40333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Andernach1.JPG/400px-Bahnhof_Andernach1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Andernach1.JPG/800px-Bahnhof_Andernach1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Andernach1.JPG/1200px-Bahnhof_Andernach1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Andernach1.JPG/1920px-Bahnhof_Andernach1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Andernach1.JPG/1920px-Bahnhof_Andernach1.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Hohe Wurzel"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Taunusstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Taunusstein"
+  - "Hesse"
 wikidata_id: "Q1407068"
 latitude: 50.1091
 longitude: 8.1334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg/400px-Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg/800px-Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg/1200px-Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg/1920px-Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg/1920px-Fernmeldeturm_Hohe_Wurzel_(Wiesbaden).jpg---
 
 ## Overview
 

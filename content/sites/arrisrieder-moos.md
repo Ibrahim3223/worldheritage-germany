@@ -4,13 +4,13 @@ site_name: "Arrisrieder Moos"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Kißlegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kißlegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q699931"
 latitude: 47.749438888
 longitude: 9.879169444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/400px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/800px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1200px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1920px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1920px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg---
 
 ## Overview
 

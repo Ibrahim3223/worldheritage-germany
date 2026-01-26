@@ -4,13 +4,13 @@ site_name: "Hessisches Staatstheater Wiesbaden"
 date: 2026-01-26
 draft: false
 description: "theatre and opera house in Wiesbaden, Germany"
-region: "Mitte"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Mitte"
+  - "Hesse"
 wikidata_id: "Q463782"
 latitude: 50.0836
 longitude: 8.24583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/400px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/800px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1200px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1920px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1920px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg---
 
 ## Overview
 

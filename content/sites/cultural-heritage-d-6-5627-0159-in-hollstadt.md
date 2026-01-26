@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5627-0159 in Hollstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Hollstadt, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Hollstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hollstadt"
+  - "Bavaria"
 wikidata_id: "Q98170453"
 latitude: 50.353371123
 longitude: 10.289290365
 images:
-  []
----
+  []---
 
 ## Overview
 

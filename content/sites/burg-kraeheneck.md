@@ -4,13 +4,13 @@ site_name: "Burg Kräheneck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Reusten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Reusten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012755"
 latitude: 48.5425
 longitude: 8.9151
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/400px-Burg_Kräheneck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/800px-Burg_Kräheneck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/1200px-Burg_Kräheneck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/1920px-Burg_Kräheneck.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/1920px-Burg_Kräheneck.JPG---
 
 ## Overview
 

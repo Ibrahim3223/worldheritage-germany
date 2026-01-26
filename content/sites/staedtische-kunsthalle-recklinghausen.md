@@ -4,13 +4,13 @@ site_name: "Städtische Kunsthalle Recklinghausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Recklinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Recklinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q1792419"
 latitude: 51.6171
 longitude: 7.20275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/400px-Kunsthalle_Recklinghausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/800px-Kunsthalle_Recklinghausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/1200px-Kunsthalle_Recklinghausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/1920px-Kunsthalle_Recklinghausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/1920px-Kunsthalle_Recklinghausen.jpg---
 
 ## Overview
 

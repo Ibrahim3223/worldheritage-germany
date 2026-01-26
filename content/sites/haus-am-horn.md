@@ -4,13 +4,13 @@ site_name: "Haus am Horn"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q525226"
 latitude: 50.9739
 longitude: 11.3394
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/400px-Haus_am_Horn,_Luftaufnahme-0030.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/800px-Haus_am_Horn,_Luftaufnahme-0030.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1200px-Haus_am_Horn,_Luftaufnahme-0030.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1920px-Haus_am_Horn,_Luftaufnahme-0030.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1920px-Haus_am_Horn,_Luftaufnahme-0030.jpg---
 
 ## Overview
 

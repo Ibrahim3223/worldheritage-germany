@@ -4,13 +4,13 @@ site_name: "Lukaskirche (Münster)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1599405"
 latitude: 51.9645
 longitude: 7.59819
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/400px-Münster_Lukaskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/800px-Münster_Lukaskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/1200px-Münster_Lukaskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/1920px-Münster_Lukaskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/1920px-Münster_Lukaskirche.jpg---
 
 ## Overview
 

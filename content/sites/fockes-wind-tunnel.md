@@ -4,13 +4,13 @@ site_name: "Focke's wind tunnel"
 date: 2026-01-26
 draft: false
 description: "wind tunnel as a museum in Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1434988"
 latitude: 53.0806
 longitude: 8.816
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/400px-Fockewindkanalvor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/800px-Fockewindkanalvor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/1200px-Fockewindkanalvor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/1920px-Fockewindkanalvor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/1920px-Fockewindkanalvor.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brauereigasthof in Leinburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Leinburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Leinburg"
+  - "Bavaria"
 wikidata_id: "Q900137"
 latitude: 49.45003
 longitude: 11.30875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2016_Gasthof_(D-5-74-139-15)_03.jpg/400px-2016_Gasthof_(D-5-74-139-15)_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2016_Gasthof_(D-5-74-139-15)_03.jpg/800px-2016_Gasthof_(D-5-74-139-15)_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2016_Gasthof_(D-5-74-139-15)_03.jpg/1200px-2016_Gasthof_(D-5-74-139-15)_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2016_Gasthof_(D-5-74-139-15)_03.jpg/1920px-2016_Gasthof_(D-5-74-139-15)_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2016_Gasthof_(D-5-74-139-15)_03.jpg/1920px-2016_Gasthof_(D-5-74-139-15)_03.jpg---
 
 ## Overview
 

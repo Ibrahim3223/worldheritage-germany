@@ -4,13 +4,13 @@ site_name: "Max Planck Digital Library"
 date: 2026-01-26
 draft: false
 description: "central service unit of the MPG"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1394898"
 latitude: 48.14795
 longitude: 11.57654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/400px-MPDL_Niederlassung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/800px-MPDL_Niederlassung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/1200px-MPDL_Niederlassung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/1920px-MPDL_Niederlassung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/1920px-MPDL_Niederlassung.jpg---
 
 ## Overview
 

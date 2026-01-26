@@ -4,13 +4,13 @@ site_name: "Pumpe"
 date: 2026-01-26
 draft: false
 description: "cultural center and cinema in Kiel, Germany"
-region: "Altstadt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Altstadt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2118159"
 latitude: 54.3245
 longitude: 10.1381
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/400px-Hassstrasse_22-26_Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/800px-Hassstrasse_22-26_Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/1200px-Hassstrasse_22-26_Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/1920px-Hassstrasse_22-26_Kiel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/1920px-Hassstrasse_22-26_Kiel.jpg---
 
 ## Overview
 

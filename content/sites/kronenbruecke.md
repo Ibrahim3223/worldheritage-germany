@@ -4,13 +4,13 @@ site_name: "Kronenbrücke"
 date: 2026-01-26
 draft: false
 description: "Bridge in Freiburg im Breisgau, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q19288376"
 latitude: 47.990381
 longitude: 7.844775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/400px-Kronenbrücke_in_Freiburg_(6).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/800px-Kronenbrücke_in_Freiburg_(6).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/1200px-Kronenbrücke_in_Freiburg_(6).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/1920px-Kronenbrücke_in_Freiburg_(6).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/1920px-Kronenbrücke_in_Freiburg_(6).jpg---
 
 ## Overview
 

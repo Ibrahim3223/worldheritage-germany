@@ -4,19 +4,18 @@ site_name: "Waldgirmes Forum"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Lahnau, Germany"
-region: "Lahnau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Lahnau"
+  - "Hesse"
 wikidata_id: "Q318775"
 latitude: 50.5883
 longitude: 8.54111
 images:
-  []
----
+  []---
 
 ## Overview
 

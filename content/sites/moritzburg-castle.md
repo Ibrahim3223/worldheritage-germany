@@ -4,13 +4,13 @@ site_name: "Moritzburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Moritzburg, Saxony, Germany"
-region: "Moritzburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Moritzburg"
+  - "Saxony"
 wikidata_id: "Q156803"
 latitude: 51.167572222
 longitude: 13.679611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/400px-Schloss_Moritzburg-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/800px-Schloss_Moritzburg-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/1200px-Schloss_Moritzburg-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/1920px-Schloss_Moritzburg-003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/1920px-Schloss_Moritzburg-003.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über die Biela, unterbachseitig mit Überfallwehr/Sch�
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rosenthal-Bielatal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rosenthal-Bielatal"
+  - "Saxony"
 wikidata_id: "Q49443572"
 latitude: 50.877643797
 longitude: 14.047223364
 images:
-  []
----
+  []---
 
 ## Overview
 

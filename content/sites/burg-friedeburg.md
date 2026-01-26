@@ -4,13 +4,13 @@ site_name: "Burg Friedeburg"
 date: 2026-01-26
 draft: false
 description: "Festungsanlage in Ostfriesland, Niedersachsen, Deutschland"
-region: "Friedeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Friedeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1011862"
 latitude: 53.447
 longitude: 7.84364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/400px-Friedeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/800px-Friedeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1200px-Friedeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1920px-Friedeburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1920px-Friedeburg.jpg---
 
 ## Overview
 

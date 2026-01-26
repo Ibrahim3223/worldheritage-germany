@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Beckum"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Beckum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Beckum"
+  - "Lower Saxony"
 wikidata_id: "Q1329979"
 latitude: 51.7365
 longitude: 8.05701
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/400px-FMT_Beckum2015.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/800px-FMT_Beckum2015.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/1200px-FMT_Beckum2015.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/1920px-FMT_Beckum2015.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/1920px-FMT_Beckum2015.JPG---
 
 ## Overview
 

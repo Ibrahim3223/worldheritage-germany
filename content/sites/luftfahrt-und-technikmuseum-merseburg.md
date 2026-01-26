@@ -4,19 +4,18 @@ site_name: "Luftfahrt- und Technikmuseum Merseburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Merseburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Merseburg"
+  - "Saxony"
 wikidata_id: "Q15118890"
 latitude: 51.358735
 longitude: 11.97051
 images:
-  []
----
+  []---
 
 ## Overview
 

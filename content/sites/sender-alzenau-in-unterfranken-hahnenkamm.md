@@ -4,13 +4,13 @@ site_name: "Sender Alzenau in Unterfranken-Hahnenkamm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Alzenau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Alzenau"
+  - "Bavaria"
 wikidata_id: "Q1327923"
 latitude: 50.0786
 longitude: 9.11
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sender_Hahnenkamm.JPG/400px-Sender_Hahnenkamm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sender_Hahnenkamm.JPG/800px-Sender_Hahnenkamm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sender_Hahnenkamm.JPG/1200px-Sender_Hahnenkamm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sender_Hahnenkamm.JPG/1920px-Sender_Hahnenkamm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sender_Hahnenkamm.JPG/1920px-Sender_Hahnenkamm.JPG---
 
 ## Overview
 

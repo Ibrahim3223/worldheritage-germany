@@ -4,13 +4,13 @@ site_name: "Natural History Museum Leipzig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1698550"
 latitude: 51.3449
 longitude: 12.3709
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Naturkundemuseum.jpg/400px-Leipzig_Naturkundemuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Naturkundemuseum.jpg/800px-Leipzig_Naturkundemuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Naturkundemuseum.jpg/1200px-Leipzig_Naturkundemuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Naturkundemuseum.jpg/1920px-Leipzig_Naturkundemuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Naturkundemuseum.jpg/1920px-Leipzig_Naturkundemuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gutshaus Bandelin"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bandelin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bandelin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1269341"
 latitude: 53.9628
 longitude: 13.3821
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bandelin_Gutshaus_Hofseite.JPG/400px-Bandelin_Gutshaus_Hofseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bandelin_Gutshaus_Hofseite.JPG/800px-Bandelin_Gutshaus_Hofseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bandelin_Gutshaus_Hofseite.JPG/1200px-Bandelin_Gutshaus_Hofseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bandelin_Gutshaus_Hofseite.JPG/1920px-Bandelin_Gutshaus_Hofseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bandelin_Gutshaus_Hofseite.JPG/1920px-Bandelin_Gutshaus_Hofseite.JPG---
 
 ## Overview
 

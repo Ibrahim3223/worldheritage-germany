@@ -4,13 +4,13 @@ site_name: "Gellertmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hainichen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hainichen"
+  - "Saxony"
 wikidata_id: "Q49535972"
 latitude: 50.968881
 longitude: 13.128122
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/400px-Hainichengellertmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/800px-Hainichengellertmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/1200px-Hainichengellertmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/1920px-Hainichengellertmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/1920px-Hainichengellertmuseum.jpg---
 
 ## Overview
 

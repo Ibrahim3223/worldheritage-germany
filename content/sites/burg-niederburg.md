@@ -4,19 +4,18 @@ site_name: "Burg Niederburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Niederburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Niederburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013318"
 latitude: 50.1236
 longitude: 7.69722
 images:
-  []
----
+  []---
 
 ## Overview
 

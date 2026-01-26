@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Marburg"
 date: 2026-01-26
 draft: false
 description: "Sendeanlage in Marburg"
-region: "Marburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Marburg"
+  - "Hesse"
 wikidata_id: "Q1247599"
 latitude: 50.8248
 longitude: 8.79409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/400px-Sendeturm_Marburg_Lahnberge_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/800px-Sendeturm_Marburg_Lahnberge_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/1200px-Sendeturm_Marburg_Lahnberge_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/1920px-Sendeturm_Marburg_Lahnberge_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/1920px-Sendeturm_Marburg_Lahnberge_1.jpg---
 
 ## Overview
 

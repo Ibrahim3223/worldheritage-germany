@@ -4,13 +4,13 @@ site_name: "Paderborn Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral in Germany"
-region: "Paderborn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Paderborn"
+  - "Lower Saxony"
 wikidata_id: "Q383958"
 latitude: 51.718889
 longitude: 8.755278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Paderborn_Dom_asv2024-05_img13.jpg/400px-Paderborn_Dom_asv2024-05_img13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Paderborn_Dom_asv2024-05_img13.jpg/800px-Paderborn_Dom_asv2024-05_img13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Paderborn_Dom_asv2024-05_img13.jpg/1200px-Paderborn_Dom_asv2024-05_img13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Paderborn_Dom_asv2024-05_img13.jpg/1920px-Paderborn_Dom_asv2024-05_img13.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Paderborn_Dom_asv2024-05_img13.jpg/1920px-Paderborn_Dom_asv2024-05_img13.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Altenburg"
 date: 2026-01-26
 draft: false
 description: "castle in Hesse, Germany"
-region: "Niedenstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Niedenstein"
+  - "Hesse"
 wikidata_id: "Q175213"
 latitude: 51.2477
 longitude: 9.29062
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/400px-Altenburg_bei_Niedenstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/800px-Altenburg_bei_Niedenstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/1200px-Altenburg_bei_Niedenstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/1920px-Altenburg_bei_Niedenstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/1920px-Altenburg_bei_Niedenstein.JPG---
 
 ## Overview
 

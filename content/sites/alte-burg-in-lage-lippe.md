@@ -4,13 +4,13 @@ site_name: "Alte Burg in Lage (Lippe)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lage"
+  - "Lower Saxony"
 wikidata_id: "Q435480"
 latitude: 51.9906
 longitude: 8.78889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lage_-_2016-07-09_-_Alte_Burg_(2).jpg/400px-Lage_-_2016-07-09_-_Alte_Burg_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lage_-_2016-07-09_-_Alte_Burg_(2).jpg/800px-Lage_-_2016-07-09_-_Alte_Burg_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lage_-_2016-07-09_-_Alte_Burg_(2).jpg/1200px-Lage_-_2016-07-09_-_Alte_Burg_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lage_-_2016-07-09_-_Alte_Burg_(2).jpg/1920px-Lage_-_2016-07-09_-_Alte_Burg_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lage_-_2016-07-09_-_Alte_Burg_(2).jpg/1920px-Lage_-_2016-07-09_-_Alte_Burg_(2).jpg---
 
 ## Overview
 

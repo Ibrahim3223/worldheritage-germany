@@ -4,13 +4,13 @@ site_name: "Nienburg (Weser) station"
 date: 2026-01-26
 draft: false
 description: "railway station in Nienburg/Weser, Germany"
-region: "Nienburg/Weser"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Nienburg/Weser"
+  - "Lower Saxony"
 wikidata_id: "Q323374"
 latitude: 52.64503
 longitude: 9.21658
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/400px-Bahnhof_Nienburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/800px-Bahnhof_Nienburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/1200px-Bahnhof_Nienburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/1920px-Bahnhof_Nienburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/1920px-Bahnhof_Nienburg.jpg---
 
 ## Overview
 

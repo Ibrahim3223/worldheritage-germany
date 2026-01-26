@@ -4,13 +4,13 @@ site_name: "Burg Hossingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hossingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hossingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012500"
 latitude: 48.1837
 longitude: 8.92059
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Hossingen.jpg/400px-Burg_Hossingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Hossingen.jpg/800px-Burg_Hossingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Hossingen.jpg/1200px-Burg_Hossingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Hossingen.jpg/1920px-Burg_Hossingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Hossingen.jpg/1920px-Burg_Hossingen.jpg---
 
 ## Overview
 

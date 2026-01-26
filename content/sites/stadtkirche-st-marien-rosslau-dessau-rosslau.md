@@ -4,13 +4,13 @@ site_name: "Stadtkirche St. Marien Roßlau (Dessau-Roßlau)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1571314"
 latitude: 51.8884
 longitude: 12.2504
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg/400px-RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg/800px-RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg/1200px-RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg/1920px-RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg/1920px-RoßlauElbe_StMarien-Kirche_asv2023-05_img1.jpg---
 
 ## Overview
 

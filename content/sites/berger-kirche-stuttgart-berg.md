@@ -4,13 +4,13 @@ site_name: "Berger Kirche (Stuttgart-Berg)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stuttgart-Ost"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stuttgart-Ost"
+  - "Baden-Württemberg"
 wikidata_id: "Q819576"
 latitude: 48.7967
 longitude: 9.21056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/400px-Berger_Kirche_Westansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/800px-Berger_Kirche_Westansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/1200px-Berger_Kirche_Westansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/1920px-Berger_Kirche_Westansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/1920px-Berger_Kirche_Westansicht.jpg---
 
 ## Overview
 

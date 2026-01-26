@@ -4,13 +4,13 @@ site_name: "Kreuzerhöhungskirche (Mannheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Mannheim, Electorate of Baden, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1788251"
 latitude: 49.5182
 longitude: 8.47779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mannheim_Kreuzerhöhungskirche_20100718.jpg/400px-Mannheim_Kreuzerhöhungskirche_20100718.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mannheim_Kreuzerhöhungskirche_20100718.jpg/800px-Mannheim_Kreuzerhöhungskirche_20100718.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mannheim_Kreuzerhöhungskirche_20100718.jpg/1200px-Mannheim_Kreuzerhöhungskirche_20100718.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mannheim_Kreuzerhöhungskirche_20100718.jpg/1920px-Mannheim_Kreuzerhöhungskirche_20100718.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mannheim_Kreuzerhöhungskirche_20100718.jpg/1920px-Mannheim_Kreuzerhöhungskirche_20100718.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Otto Lilienthal Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Anklam"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Anklam"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q881418"
 latitude: 53.8539
 longitude: 13.7047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/400px-Otto-Lilienthal-Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/800px-Otto-Lilienthal-Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/1200px-Otto-Lilienthal-Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/1920px-Otto-Lilienthal-Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/1920px-Otto-Lilienthal-Museum.JPG---
 
 ## Overview
 

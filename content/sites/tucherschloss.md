@@ -4,13 +4,13 @@ site_name: "Tucherschloss"
 date: 2026-01-26
 draft: false
 description: "building in Nuremberg, Middle Franconia, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q2459075"
 latitude: 49.4575
 longitude: 11.0842
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/400px-Tucherschloss--.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/800px-Tucherschloss--.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/1200px-Tucherschloss--.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/1920px-Tucherschloss--.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/1920px-Tucherschloss--.jpg---
 
 ## Overview
 

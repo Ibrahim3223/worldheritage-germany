@@ -4,13 +4,13 @@ site_name: "Alter Friedhof"
 date: 2026-01-26
 draft: false
 description: "historic cemetery in Freiburg im Breisgau, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q437887"
 latitude: 48.0007
 longitude: 7.85696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Alter_Friedhof_(Freiburg)_1.jpg/400px-Alter_Friedhof_(Freiburg)_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Alter_Friedhof_(Freiburg)_1.jpg/800px-Alter_Friedhof_(Freiburg)_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Alter_Friedhof_(Freiburg)_1.jpg/1200px-Alter_Friedhof_(Freiburg)_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Alter_Friedhof_(Freiburg)_1.jpg/1920px-Alter_Friedhof_(Freiburg)_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Alter_Friedhof_(Freiburg)_1.jpg/1920px-Alter_Friedhof_(Freiburg)_1.jpg---
 
 ## Overview
 

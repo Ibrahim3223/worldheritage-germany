@@ -4,19 +4,18 @@ site_name: "Wo Sarazen Art"
 date: 2026-01-26
 draft: false
 description: "exhibition of sculptures and objects by the artist Wo Sarazen in Bayreuth, Bavaria"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q76627225"
 latitude: 49.95196
 longitude: 11.59012
 images:
-  []
----
+  []---
 
 ## Overview
 

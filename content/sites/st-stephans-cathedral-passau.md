@@ -4,13 +4,13 @@ site_name: "St. Stephan's Cathedral, Passau"
 date: 2026-01-26
 draft: false
 description: "cathedral"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q267182"
 latitude: 48.574179507
 longitude: 13.465499831
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/400px-Passauer_Dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/800px-Passauer_Dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/1200px-Passauer_Dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/1920px-Passauer_Dom.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/1920px-Passauer_Dom.jpg---
 
 ## Overview
 

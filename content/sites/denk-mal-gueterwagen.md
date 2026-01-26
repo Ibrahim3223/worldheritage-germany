@@ -4,13 +4,13 @@ site_name: "Denk-Mal Güterwagen"
 date: 2026-01-26
 draft: false
 description: "monument in Hamburg, Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q1187879"
 latitude: 53.587464
 longitude: 10.027059
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/400px-Hamburg.GS-Winterhude.Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/800px-Hamburg.GS-Winterhude.Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1200px-Hamburg.GS-Winterhude.Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1920px-Hamburg.GS-Winterhude.Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1920px-Hamburg.GS-Winterhude.Denkmal.jpg---
 
 ## Overview
 

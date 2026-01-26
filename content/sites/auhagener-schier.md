@@ -4,19 +4,18 @@ site_name: "Auhagener Schier"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Auhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Auhagen"
+  - "Lower Saxony"
 wikidata_id: "Q770981"
 latitude: 52.4092
 longitude: 9.31472
 images:
-  []
----
+  []---
 
 ## Overview
 

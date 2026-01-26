@@ -4,13 +4,13 @@ site_name: "Hofkapelle Galgenhöfle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bad Wurzach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Wurzach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1623137"
 latitude: 47.87969444
 longitude: 9.98197222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/400px-Hofkapelle_Galgenhöfle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/800px-Hofkapelle_Galgenhöfle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/1200px-Hofkapelle_Galgenhöfle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/1920px-Hofkapelle_Galgenhöfle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/1920px-Hofkapelle_Galgenhöfle.jpg---
 
 ## Overview
 

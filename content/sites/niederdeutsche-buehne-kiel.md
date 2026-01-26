@@ -4,13 +4,13 @@ site_name: "Niederdeutsche Bühne Kiel"
 date: 2026-01-26
 draft: false
 description: "Theater in Deutschland"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1229043"
 latitude: 54.3249
 longitude: 10.1207
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/400px-Klubhaus_des_Westens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/800px-Klubhaus_des_Westens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/1200px-Klubhaus_des_Westens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/1920px-Klubhaus_des_Westens.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/1920px-Klubhaus_des_Westens.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum Glentleiten"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Großweil"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großweil"
+  - "Bavaria"
 wikidata_id: "Q1454521"
 latitude: 47.6656
 longitude: 11.2864
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/400px-Glentleiten-bjs130905-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/800px-Glentleiten-bjs130905-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/1200px-Glentleiten-bjs130905-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/1920px-Glentleiten-bjs130905-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/1920px-Glentleiten-bjs130905-01.jpg---
 
 ## Overview
 

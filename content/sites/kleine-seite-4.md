@@ -4,13 +4,13 @@ site_name: "Kleine Seite 4"
 date: 2026-01-26
 draft: false
 description: "town hall in Hainewalde"
-region: "Hainewalde"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Hainewalde"
+  - "Saxony"
 wikidata_id: "Q49417046"
 latitude: 50.907697
 longitude: 14.700867
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/400px-Hainewalde_-_Gemeindeamt_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/800px-Hainewalde_-_Gemeindeamt_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/1200px-Hainewalde_-_Gemeindeamt_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/1920px-Hainewalde_-_Gemeindeamt_(01-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/1920px-Hainewalde_-_Gemeindeamt_(01-2).jpg---
 
 ## Overview
 

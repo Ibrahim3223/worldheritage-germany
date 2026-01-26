@@ -4,13 +4,13 @@ site_name: "Trinitatiskirche Riesa"
 date: 2026-01-26
 draft: false
 description: "church building in Saxoyn, Germany"
-region: "Riesa"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Riesa"
+  - "Saxony"
 wikidata_id: "Q1392513"
 latitude: 51.3004
 longitude: 13.3032
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg/400px-Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg/800px-Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg/1200px-Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg/1920px-Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg/1920px-Riesa_Elbe_Trinitatis_church_1897_profile_of_entrance_side_district_Meißen_Saxony_photo_2008_Wolfgang_Pehlemann_Wiesbaden_Germany_IMG_0022.jpg---
 
 ## Overview
 

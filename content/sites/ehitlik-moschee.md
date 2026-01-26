@@ -4,13 +4,13 @@ site_name: "Şehitlik-Moschee"
 date: 2026-01-26
 draft: false
 description: "mosque in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q388677"
 latitude: 52.48138889
 longitude: 13.40972222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/400px-Sehitlik1_Moschee_Berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/800px-Sehitlik1_Moschee_Berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1200px-Sehitlik1_Moschee_Berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1920px-Sehitlik1_Moschee_Berlin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1920px-Sehitlik1_Moschee_Berlin.JPG---
 
 ## Overview
 

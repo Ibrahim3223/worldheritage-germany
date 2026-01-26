@@ -4,13 +4,13 @@ site_name: "Ahrschleife bei Altenahr"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Rheinland-Pfalz, Germany"
-region: "Altenahr"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Altenahr"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q402907"
 latitude: 50.5101
 longitude: 6.99406
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG_Ahrschleife_01_5.JPG/400px-NSG_Ahrschleife_01_5.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG_Ahrschleife_01_5.JPG/800px-NSG_Ahrschleife_01_5.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG_Ahrschleife_01_5.JPG/1200px-NSG_Ahrschleife_01_5.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG_Ahrschleife_01_5.JPG/1920px-NSG_Ahrschleife_01_5.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG_Ahrschleife_01_5.JPG/1920px-NSG_Ahrschleife_01_5.JPG---
 
 ## Overview
 

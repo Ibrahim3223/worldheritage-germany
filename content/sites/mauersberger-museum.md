@@ -4,13 +4,13 @@ site_name: "Mauersberger-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Großrückerswalde, Saxony, Germany"
-region: "Großrückerswalde"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großrückerswalde"
+  - "Saxony"
 wikidata_id: "Q56661169"
 latitude: 50.60689
 longitude: 13.08894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/400px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/800px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/1200px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/1920px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/1920px-Mauersberg_(Großrückerswalde),_das_Museum.JPG---
 
 ## Overview
 

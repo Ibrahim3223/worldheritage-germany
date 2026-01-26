@@ -4,19 +4,18 @@ site_name: "Burg Ihringen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ihringen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ihringen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012555"
 latitude: 48.0517
 longitude: 7.64519
 images:
-  []
----
+  []---
 
 ## Overview
 

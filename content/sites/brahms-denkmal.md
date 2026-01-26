@@ -4,13 +4,13 @@ site_name: "Brahms-Denkmal"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q897337"
 latitude: 50.5721
 longitude: 10.419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/400px-Brahms5.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/800px-Brahms5.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/1200px-Brahms5.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/1920px-Brahms5.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/1920px-Brahms5.JPG---
 
 ## Overview
 

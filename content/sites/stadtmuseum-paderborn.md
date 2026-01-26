@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Paderborn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Paderborn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Paderborn"
+  - "Lower Saxony"
 wikidata_id: "Q53968318"
 latitude: 51.71861111
 longitude: 8.75277778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/400px-Städtische_Galerie_Am_Abdinghof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/800px-Städtische_Galerie_Am_Abdinghof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/1200px-Städtische_Galerie_Am_Abdinghof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/1920px-Städtische_Galerie_Am_Abdinghof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/1920px-Städtische_Galerie_Am_Abdinghof.jpg---
 
 ## Overview
 

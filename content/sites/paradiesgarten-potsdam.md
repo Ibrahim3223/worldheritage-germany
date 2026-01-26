@@ -4,19 +4,18 @@ site_name: "Paradiesgarten (Potsdam)"
 date: 2026-01-26
 draft: false
 description: "garden in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q64816490"
 latitude: 52.404852
 longitude: 13.025857
 images:
-  []
----
+  []---
 
 ## Overview
 

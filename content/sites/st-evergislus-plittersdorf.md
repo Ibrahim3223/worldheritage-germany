@@ -4,13 +4,13 @@ site_name: "St. Evergislus (Plittersdorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Plittersdorf, Bonn, Germany"
-region: "Bad Godesberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Godesberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2318157"
 latitude: 50.700929
 longitude: 7.165855
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/400px-Bonn-Plittersdorf,_St._Evergislus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/800px-Bonn-Plittersdorf,_St._Evergislus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/1200px-Bonn-Plittersdorf,_St._Evergislus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/1920px-Bonn-Plittersdorf,_St._Evergislus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/1920px-Bonn-Plittersdorf,_St._Evergislus.JPG---
 
 ## Overview
 

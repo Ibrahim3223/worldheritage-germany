@@ -4,13 +4,13 @@ site_name: "Bornriethmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Südheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Südheide"
+  - "Lower Saxony"
 wikidata_id: "Q279826"
 latitude: 52.7747
 longitude: 10.0972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/400px-GagelstrauchbestandBornriethmoor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/800px-GagelstrauchbestandBornriethmoor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1200px-GagelstrauchbestandBornriethmoor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1920px-GagelstrauchbestandBornriethmoor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1920px-GagelstrauchbestandBornriethmoor.JPG---
 
 ## Overview
 

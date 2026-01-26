@@ -4,19 +4,18 @@ site_name: "Südschwäbisches Archäologiemuseum Mindelheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mindelheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mindelheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1742171"
 latitude: 48.046444
 longitude: 10.485194
 images:
-  []
----
+  []---
 
 ## Overview
 

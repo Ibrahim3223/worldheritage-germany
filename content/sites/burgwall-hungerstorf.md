@@ -4,13 +4,13 @@ site_name: "Burgwall Hungerstorf"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Faulenrost"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Faulenrost"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1016177"
 latitude: 53.6131
 longitude: 12.8081
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/400px-Burgwall_Hungerstorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/800px-Burgwall_Hungerstorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/1200px-Burgwall_Hungerstorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/1920px-Burgwall_Hungerstorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/1920px-Burgwall_Hungerstorf.jpg---
 
 ## Overview
 

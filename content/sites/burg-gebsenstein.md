@@ -4,19 +4,18 @@ site_name: "Burg Gebsenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hilzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hilzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011917"
 latitude: 47.752236
 longitude: 8.78035
 images:
-  []
----
+  []---
 
 ## Overview
 

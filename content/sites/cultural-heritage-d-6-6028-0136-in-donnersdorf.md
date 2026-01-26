@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6028-0136 in Donnersdorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Donnersdorf, Schweinfurt, Lower Franconia, Bavaria, Germany"
-region: "Donnersdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Donnersdorf"
+  - "Bavaria"
 wikidata_id: "Q98168053"
 latitude: 49.971473895
 longitude: 10.417790094
 images:
-  []
----
+  []---
 
 ## Overview
 

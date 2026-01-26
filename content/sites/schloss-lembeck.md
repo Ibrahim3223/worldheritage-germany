@@ -4,13 +4,13 @@ site_name: "Schloss Lembeck"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Dorsten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dorsten"
+  - "Lower Saxony"
 wikidata_id: "Q127812"
 latitude: 51.7433
 longitude: 7.0
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg/400px-20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg/800px-20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg/1200px-20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg/1920px-20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg/1920px-20140720_110101_Schloss_Lembeck,_Dorsten_(DSC04052).jpg---
 
 ## Overview
 

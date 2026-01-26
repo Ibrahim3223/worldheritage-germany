@@ -4,13 +4,13 @@ site_name: "Fischerbach Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Fischerbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Fischerbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q518058"
 latitude: 48.3048
 longitude: 8.1231
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/400px-08_Fischerbach_Castle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/800px-08_Fischerbach_Castle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1200px-08_Fischerbach_Castle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1920px-08_Fischerbach_Castle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1920px-08_Fischerbach_Castle.JPG---
 
 ## Overview
 

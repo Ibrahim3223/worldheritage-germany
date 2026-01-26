@@ -4,13 +4,13 @@ site_name: "Burg Alsdorf"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Alsdorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Alsdorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151736"
 latitude: 50.8789
 longitude: 6.16167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/400px-Burg_Alsdorf_Ostansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/800px-Burg_Alsdorf_Ostansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1200px-Burg_Alsdorf_Ostansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1920px-Burg_Alsdorf_Ostansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1920px-Burg_Alsdorf_Ostansicht.jpg---
 
 ## Overview
 

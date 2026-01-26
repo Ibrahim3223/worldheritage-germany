@@ -4,13 +4,13 @@ site_name: "Volkmarskeller"
 date: 2026-01-26
 draft: false
 description: "geographical object"
-region: "Blankenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Blankenburg"
+  - "Lower Saxony"
 wikidata_id: "Q948755"
 latitude: 51.795888888
 longitude: 10.885552777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Volkmarskeller_Cave_2.jpg/400px-Volkmarskeller_Cave_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Volkmarskeller_Cave_2.jpg/800px-Volkmarskeller_Cave_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Volkmarskeller_Cave_2.jpg/1200px-Volkmarskeller_Cave_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Volkmarskeller_Cave_2.jpg/1920px-Volkmarskeller_Cave_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Volkmarskeller_Cave_2.jpg/1920px-Volkmarskeller_Cave_2.jpg---
 
 ## Overview
 

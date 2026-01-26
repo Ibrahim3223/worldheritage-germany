@@ -4,13 +4,13 @@ site_name: "Tor der Toten"
 date: 2026-01-26
 draft: false
 description: "memorial in Rheinberg, Germany"
-region: "Rheinberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Rheinberg"
+  - "Lower Saxony"
 wikidata_id: "Q2443640"
 latitude: 51.5461
 longitude: 6.60593
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg/400px-Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg/800px-Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg/1200px-Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg/1920px-Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg/1920px-Rheinberg,_Tor_der_Toten,_2011-12_CN-01.jpg---
 
 ## Overview
 

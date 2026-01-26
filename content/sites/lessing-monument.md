@@ -4,13 +4,13 @@ site_name: "Lessing Monument"
 date: 2026-01-26
 draft: false
 description: "sculpture in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1820909"
 latitude: 52.5119
 longitude: 13.375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/400px-Lessing_Tiergarten_1K.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/800px-Lessing_Tiergarten_1K.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/1200px-Lessing_Tiergarten_1K.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/1920px-Lessing_Tiergarten_1K.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/1920px-Lessing_Tiergarten_1K.jpg---
 
 ## Overview
 

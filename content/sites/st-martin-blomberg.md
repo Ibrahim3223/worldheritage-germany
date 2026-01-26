@@ -4,13 +4,13 @@ site_name: "St. Martin (Blomberg)"
 date: 2026-01-26
 draft: false
 description: "church building in Blomberg, Germany"
-region: "Blomberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Blomberg"
+  - "Lower Saxony"
 wikidata_id: "Q2321066"
 latitude: 51.9415
 longitude: 9.09762
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/400px-Blomberg_Katholische-Kirche_Kopie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/800px-Blomberg_Katholische-Kirche_Kopie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/1200px-Blomberg_Katholische-Kirche_Kopie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/1920px-Blomberg_Katholische-Kirche_Kopie.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/1920px-Blomberg_Katholische-Kirche_Kopie.jpg---
 
 ## Overview
 

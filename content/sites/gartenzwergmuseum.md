@@ -4,19 +4,18 @@ site_name: "Gartenzwergmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Gräfenroda"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gräfenroda"
+  - "Thuringia"
 wikidata_id: "Q25474072"
 latitude: 50.7490573
 longitude: 10.8121031
 images:
-  []
----
+  []---
 
 ## Overview 
 

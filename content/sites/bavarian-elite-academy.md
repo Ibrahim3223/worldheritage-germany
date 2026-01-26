@@ -4,13 +4,13 @@ site_name: "Bavarian Elite-Academy"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q15856838"
 latitude: 48.1423
 longitude: 11.5929
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/400px-Prinzregentenstraße_7_bjs200126-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/800px-Prinzregentenstraße_7_bjs200126-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1200px-Prinzregentenstraße_7_bjs200126-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1920px-Prinzregentenstraße_7_bjs200126-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1920px-Prinzregentenstraße_7_bjs200126-01.jpg---
 
 ## Overview
 

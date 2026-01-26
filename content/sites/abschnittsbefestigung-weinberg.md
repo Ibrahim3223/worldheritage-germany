@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung Weinberg"
 date: 2026-01-26
 draft: false
 description: "building in Treuchtlingen, Middle Franconia, Germany"
-region: "Treuchtlingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Treuchtlingen"
+  - "Bavaria"
 wikidata_id: "Q4857743"
 latitude: 48.9495
 longitude: 10.9215
 images:
-  []
----
+  []---
 
 ## Overview
 

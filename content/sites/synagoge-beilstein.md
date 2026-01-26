@@ -4,13 +4,13 @@ site_name: "Synagoge Beilstein"
 date: 2026-01-26
 draft: false
 description: "geschütztes Baudenkmal"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2374944"
 latitude: 50.63768
 longitude: 7.142279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/400px-Beilstein_(Mosel)_Synagoge_166.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/800px-Beilstein_(Mosel)_Synagoge_166.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/1200px-Beilstein_(Mosel)_Synagoge_166.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/1920px-Beilstein_(Mosel)_Synagoge_166.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/1920px-Beilstein_(Mosel)_Synagoge_166.JPG---
 
 ## Overview
 

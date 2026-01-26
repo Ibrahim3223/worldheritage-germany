@@ -4,13 +4,13 @@ site_name: "St. Paul"
 date: 2026-01-26
 draft: false
 description: "church building in Heidelberg, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2322340"
 latitude: 49.3736
 longitude: 8.70305
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/St_Paul_Heidelberg_1.JPG/400px-St_Paul_Heidelberg_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/St_Paul_Heidelberg_1.JPG/800px-St_Paul_Heidelberg_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/St_Paul_Heidelberg_1.JPG/1200px-St_Paul_Heidelberg_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/St_Paul_Heidelberg_1.JPG/1920px-St_Paul_Heidelberg_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/St_Paul_Heidelberg_1.JPG/1920px-St_Paul_Heidelberg_1.JPG---
 
 ## Overview
 

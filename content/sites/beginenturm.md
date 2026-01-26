@@ -4,13 +4,13 @@ site_name: "Beginenturm"
 date: 2026-01-26
 draft: false
 description: "tower in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q814330"
 latitude: 52.3717
 longitude: 9.73133
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg/400px-Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg/800px-Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg/1200px-Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg/1920px-Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg/1920px-Altstadt-Flohmarkt_in_Hannover,_Blick_in_Richtung_ehemaliger_Sommerbrücke_der_Leineinsel_Klein-Venedig_auf_Beginenturm,_Pferdestraße_im_Frühling_und_Marktkirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Städtisches Museum Braunschweig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q2360096"
 latitude: 52.2611
 longitude: 10.5317
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/400px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/800px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/1200px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/1920px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/1920px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Albert Mooren fountain"
 date: 2026-01-26
 draft: false
 description: "fountain in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1748114"
 latitude: 51.1995
 longitude: 6.79013
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/400px-Albert-Mooren-Brunnen_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/800px-Albert-Mooren-Brunnen_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1200px-Albert-Mooren-Brunnen_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1920px-Albert-Mooren-Brunnen_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1920px-Albert-Mooren-Brunnen_5.jpg---
 
 ## Overview
 

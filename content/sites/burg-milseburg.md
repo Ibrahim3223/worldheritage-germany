@@ -4,13 +4,13 @@ site_name: "Burg Milseburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kleinsassen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kleinsassen"
+  - "Bavaria"
 wikidata_id: "Q1013129"
 latitude: 50.5481
 longitude: 9.89117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/400px-Liedenküppel-Milseburg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/800px-Liedenküppel-Milseburg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/1200px-Liedenküppel-Milseburg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/1920px-Liedenküppel-Milseburg.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/1920px-Liedenküppel-Milseburg.png---
 
 ## Overview
 

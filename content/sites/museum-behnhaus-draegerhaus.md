@@ -4,13 +4,13 @@ site_name: "Museum Behnhaus Drägerhaus"
 date: 2026-01-26
 draft: false
 description: "Art museum in Lübeck, Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q814533"
 latitude: 53.8701
 longitude: 10.6896
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/400px-Lübeck,_Deutschland,_Behnhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/800px-Lübeck,_Deutschland,_Behnhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/1200px-Lübeck,_Deutschland,_Behnhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/1920px-Lübeck,_Deutschland,_Behnhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/1920px-Lübeck,_Deutschland,_Behnhaus.jpg---
 
 ## Overview
 

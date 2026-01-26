@@ -4,13 +4,13 @@ site_name: "Kirchenruine St. Laurentius"
 date: 2026-01-26
 draft: false
 description: "church building in Hann. Münden, Germany"
-region: "Hann. Münden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Hann. Münden"
+  - "Hesse"
 wikidata_id: "Q1305185"
 latitude: 51.4225
 longitude: 9.64329
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/400px-Laurentiuskirchenruine_Münden_ganz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/800px-Laurentiuskirchenruine_Münden_ganz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/1200px-Laurentiuskirchenruine_Münden_ganz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/1920px-Laurentiuskirchenruine_Münden_ganz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/1920px-Laurentiuskirchenruine_Münden_ganz.jpg---
 
 ## Overview
 

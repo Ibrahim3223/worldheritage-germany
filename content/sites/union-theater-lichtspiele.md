@@ -4,13 +4,13 @@ site_name: "Union-Theater-Lichtspiele"
 date: 2026-01-26
 draft: false
 description: "former cinema in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2494480"
 latitude: 51.0465
 longitude: 13.7352
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DF_0186928.jpg/400px-DF_0186928.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DF_0186928.jpg/800px-DF_0186928.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DF_0186928.jpg/1200px-DF_0186928.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DF_0186928.jpg/1920px-DF_0186928.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DF_0186928.jpg/1920px-DF_0186928.jpg---
 
 ## Overview
 

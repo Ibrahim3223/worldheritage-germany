@@ -4,13 +4,13 @@ site_name: "Rathaus Visselhövede"
 date: 2026-01-26
 draft: false
 description: "building in Visselhövede"
-region: "Visselhövede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Visselhövede"
+  - "Lower Saxony"
 wikidata_id: "Q136204158"
 latitude: 52.986267
 longitude: 9.581184
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rathaus_in_Visselhövede_IMG_5983.jpg/400px-Rathaus_in_Visselhövede_IMG_5983.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rathaus_in_Visselhövede_IMG_5983.jpg/800px-Rathaus_in_Visselhövede_IMG_5983.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rathaus_in_Visselhövede_IMG_5983.jpg/1200px-Rathaus_in_Visselhövede_IMG_5983.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rathaus_in_Visselhövede_IMG_5983.jpg/1920px-Rathaus_in_Visselhövede_IMG_5983.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rathaus_in_Visselhövede_IMG_5983.jpg/1920px-Rathaus_in_Visselhövede_IMG_5983.jpg---
 
 ## Overview
 

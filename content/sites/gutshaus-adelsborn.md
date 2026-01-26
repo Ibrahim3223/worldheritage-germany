@@ -4,13 +4,13 @@ site_name: "Gutshaus Adelsborn"
 date: 2026-01-26
 draft: false
 description: "demolished building in Adelsborn, Germany"
-region: "Leinefelde-Worbis"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Leinefelde-Worbis"
+  - "Lower Saxony"
 wikidata_id: "Q1557269"
 latitude: 51.4481
 longitude: 10.3533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/400px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/800px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/1200px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/1920px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/1920px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Appenzeller Straße 2 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-7943 (2) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98741058"
 latitude: 48.090629359
 longitude: 11.479340272
 images:
-  []
----
+  []---
 
 ## Overview
 

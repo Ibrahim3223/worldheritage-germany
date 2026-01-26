@@ -4,13 +4,13 @@ site_name: "Burghalde"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Kempten, Bavaria, Germany"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1014995"
 latitude: 47.7229
 longitude: 10.3206
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/400px-Burghalde_1_Kempten_20180306_005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/800px-Burghalde_1_Kempten_20180306_005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/1200px-Burghalde_1_Kempten_20180306_005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/1920px-Burghalde_1_Kempten_20180306_005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/1920px-Burghalde_1_Kempten_20180306_005.jpg---
 
 ## Overview
 

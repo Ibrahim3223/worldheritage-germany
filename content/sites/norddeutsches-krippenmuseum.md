@@ -4,19 +4,18 @@ site_name: "Norddeutsches Krippenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Güstrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Güstrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1997817"
 latitude: 53.7916
 longitude: 12.1782
 images:
-  []
----
+  []---
 
 ## Overview
 

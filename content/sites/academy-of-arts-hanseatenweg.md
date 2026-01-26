@@ -4,13 +4,13 @@ site_name: "Academy of Arts (Hanseatenweg)"
 date: 2026-01-26
 draft: false
 description: "ensemble of buildings in Berlin-Hansaviertel, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q414078"
 latitude: 52.5179
 longitude: 13.3461
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/400px-Akademie_der_Künste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/800px-Akademie_der_Künste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1200px-Akademie_der_Künste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1920px-Akademie_der_Künste.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1920px-Akademie_der_Künste.jpg---
 
 ## Overview
 

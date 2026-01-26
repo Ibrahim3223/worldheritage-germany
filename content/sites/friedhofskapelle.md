@@ -4,13 +4,13 @@ site_name: "Friedhofskapelle"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Homberg"
-region: "Homberg (Ohm)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Homberg (Ohm)"
+  - "Hesse"
 wikidata_id: "Q435589"
 latitude: 50.728
 longitude: 8.99773
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Homberg_cemetery_chapel_2.jpg/400px-Homberg_cemetery_chapel_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Homberg_cemetery_chapel_2.jpg/800px-Homberg_cemetery_chapel_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Homberg_cemetery_chapel_2.jpg/1200px-Homberg_cemetery_chapel_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Homberg_cemetery_chapel_2.jpg/1920px-Homberg_cemetery_chapel_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Homberg_cemetery_chapel_2.jpg/1920px-Homberg_cemetery_chapel_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Herrenhaus Tellow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Warnkenhagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Warnkenhagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q18625606"
 latitude: 53.84675
 longitude: 12.51358
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/400px-Tellow_Thuenen_manor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/800px-Tellow_Thuenen_manor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1200px-Tellow_Thuenen_manor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1920px-Tellow_Thuenen_manor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1920px-Tellow_Thuenen_manor.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Freiligrath Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Rüdesheim am Rhein, Germany"
-region: "Rüdesheim am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rüdesheim am Rhein"
+  - "Hesse"
 wikidata_id: "Q76634174"
 latitude: 49.988468
 longitude: 7.865164
 images:
-  []
----
+  []---
 
 ## Overview
 

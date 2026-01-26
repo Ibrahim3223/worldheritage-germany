@@ -4,13 +4,13 @@ site_name: "Weiße Frau Schwarzenberg"
 date: 2026-01-26
 draft: false
 description: "monument in Schwarzenberg, Germany"
-region: "Schwarzenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Schwarzenberg"
+  - "Bavaria"
 wikidata_id: "Q2556855"
 latitude: 50.5193
 longitude: 12.755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weiße_Frau_812.jpg/400px-Weiße_Frau_812.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weiße_Frau_812.jpg/800px-Weiße_Frau_812.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weiße_Frau_812.jpg/1200px-Weiße_Frau_812.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weiße_Frau_812.jpg/1920px-Weiße_Frau_812.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weiße_Frau_812.jpg/1920px-Weiße_Frau_812.jpg---
 
 ## Overview
 

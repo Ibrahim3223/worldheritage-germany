@@ -4,13 +4,13 @@ site_name: "Bühne der Kulturen"
 date: 2026-01-26
 draft: false
 description: "intercultural theatre in Cologne, Germany"
-region: "Ehrenfeld"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Ehrenfeld"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q671843"
 latitude: 50.9537
 longitude: 6.91504
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/400px-Arkadaş_Theater,_Köln-5172.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/800px-Arkadaş_Theater,_Köln-5172.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1200px-Arkadaş_Theater,_Köln-5172.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1920px-Arkadaş_Theater,_Köln-5172.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1920px-Arkadaş_Theater,_Köln-5172.jpg---
 
 ## Overview
 

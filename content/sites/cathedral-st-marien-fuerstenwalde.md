@@ -4,13 +4,13 @@ site_name: "Cathedral St. Marien Fürstenwalde"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Fürstenwalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Fürstenwalde"
+  - "Brandenburg"
 wikidata_id: "Q1236544"
 latitude: 52.3581
 longitude: 14.0653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/400px-Fuerstenwalde_St_Marien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/800px-Fuerstenwalde_St_Marien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1200px-Fuerstenwalde_St_Marien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1920px-Fuerstenwalde_St_Marien.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1920px-Fuerstenwalde_St_Marien.jpg---
 
 ## Overview
 

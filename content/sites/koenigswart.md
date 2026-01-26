@@ -4,13 +4,13 @@ site_name: "Königswart"
 date: 2026-01-26
 draft: false
 description: "ruin of a memorial in Baiersbronn, Germany"
-region: "Baiersbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Baiersbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q30011672"
 latitude: 48.57689
 longitude: 8.40831
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/400px-Ruine_Königswart_-_Fundamente.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/800px-Ruine_Königswart_-_Fundamente.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/1200px-Ruine_Königswart_-_Fundamente.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/1920px-Ruine_Königswart_-_Fundamente.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/1920px-Ruine_Königswart_-_Fundamente.jpg---
 
 ## Overview
 

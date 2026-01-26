@@ -4,13 +4,13 @@ site_name: "Neues Sydekum"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Hann. Münden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Hann. Münden"
+  - "Hesse"
 wikidata_id: "Q23787832"
 latitude: 51.41865
 longitude: 9.65276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/400px-Neues_Sydekum_Hann._Münden_Wehr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/800px-Neues_Sydekum_Hann._Münden_Wehr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/1200px-Neues_Sydekum_Hann._Münden_Wehr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/1920px-Neues_Sydekum_Hann._Münden_Wehr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/1920px-Neues_Sydekum_Hann._Münden_Wehr.jpg---
 
 ## Overview
 

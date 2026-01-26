@@ -4,19 +4,18 @@ site_name: "Judensiedlung in Altenstadt (Iller)"
 date: 2026-01-26
 draft: false
 description: "Baudenkmal in Schwaben"
-region: "Altenstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Altenstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q18046905"
 latitude: 48.163392
 longitude: 10.113082
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Mörfelden"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mörfelden-Walldorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mörfelden-Walldorf"
+  - "Hesse"
 wikidata_id: "Q1013160"
 latitude: 49.9691
 longitude: 8.55851
 images:
-  []
----
+  []---
 
 ## Overview
 

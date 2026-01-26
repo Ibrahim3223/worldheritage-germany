@@ -4,13 +4,13 @@ site_name: "Museum Großauheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q16854752"
 latitude: 50.104426
 longitude: 8.945993
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museum_Grossauheim_Aussenansicht_2014.jpg/400px-Museum_Grossauheim_Aussenansicht_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museum_Grossauheim_Aussenansicht_2014.jpg/800px-Museum_Grossauheim_Aussenansicht_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museum_Grossauheim_Aussenansicht_2014.jpg/1200px-Museum_Grossauheim_Aussenansicht_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museum_Grossauheim_Aussenansicht_2014.jpg/1920px-Museum_Grossauheim_Aussenansicht_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museum_Grossauheim_Aussenansicht_2014.jpg/1920px-Museum_Grossauheim_Aussenansicht_2014.jpg---
 
 ## Overview
 

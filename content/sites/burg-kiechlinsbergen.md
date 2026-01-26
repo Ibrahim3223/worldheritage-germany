@@ -4,19 +4,18 @@ site_name: "Burg Kiechlinsbergen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Endingen am Kaiserstuhl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Endingen am Kaiserstuhl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012653"
 latitude: 48.1213
 longitude: 7.65585
 images:
-  []
----
+  []---
 
 ## Overview
 

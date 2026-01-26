@@ -4,13 +4,13 @@ site_name: "BEST-Sabel-Grundschule"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Marzahn-Hellersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Marzahn-Hellersdorf"
+  - "Berlin"
 wikidata_id: "Q795826"
 latitude: 52.4827
 longitude: 13.6054
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/400px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/800px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/1200px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/1920px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/1920px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg---
 
 ## Overview
 

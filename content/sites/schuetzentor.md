@@ -4,13 +4,13 @@ site_name: "Schützentor"
 date: 2026-01-26
 draft: false
 description: "gatehouse in Königsberg in Bayern, Germany"
-region: "Königsberg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Königsberg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q41323542"
 latitude: 50.08272
 longitude: 10.56961
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Königsberg_in_Bayern,_Steinweg_1-003.jpg/400px-Königsberg_in_Bayern,_Steinweg_1-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Königsberg_in_Bayern,_Steinweg_1-003.jpg/800px-Königsberg_in_Bayern,_Steinweg_1-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Königsberg_in_Bayern,_Steinweg_1-003.jpg/1200px-Königsberg_in_Bayern,_Steinweg_1-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Königsberg_in_Bayern,_Steinweg_1-003.jpg/1920px-Königsberg_in_Bayern,_Steinweg_1-003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Königsberg_in_Bayern,_Steinweg_1-003.jpg/1920px-Königsberg_in_Bayern,_Steinweg_1-003.jpg---
 
 ## Overview
 

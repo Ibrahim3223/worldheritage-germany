@@ -4,19 +4,18 @@ site_name: "Solbad Raffelberg"
 date: 2026-01-26
 draft: false
 description: "architectural ensemble in Mülheim an der Ruhr, Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q1293299"
 latitude: 51.4389
 longitude: 6.82306
 images:
-  []
----
+  []---
 
 ## Overview
 

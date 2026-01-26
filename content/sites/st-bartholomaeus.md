@@ -4,13 +4,13 @@ site_name: "St. Bartholomäus"
 date: 2026-01-26
 draft: false
 description: "church building in Wilster, Schleswig-Holstein, Germany"
-region: "Wilster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wilster"
+  - "Lower Saxony"
 wikidata_id: "Q2316004"
 latitude: 53.9225
 longitude: 9.37472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/400px-Wilster_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/800px-Wilster_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/1200px-Wilster_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/1920px-Wilster_Kirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/1920px-Wilster_Kirche_1.jpg---
 
 ## Overview
 

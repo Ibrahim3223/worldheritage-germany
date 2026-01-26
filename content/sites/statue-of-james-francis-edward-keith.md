@@ -4,13 +4,13 @@ site_name: "Statue of James Francis Edward Keith"
 date: 2026-01-26
 draft: false
 description: "Statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976985"
 latitude: 52.5116731
 longitude: 13.3846697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/400px-Berlin,_Germany_(April_2016)_-_108.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/800px-Berlin,_Germany_(April_2016)_-_108.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/1200px-Berlin,_Germany_(April_2016)_-_108.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/1920px-Berlin,_Germany_(April_2016)_-_108.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/1920px-Berlin,_Germany_(April_2016)_-_108.JPG---
 
 ## Overview
 

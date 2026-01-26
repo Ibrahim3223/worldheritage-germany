@@ -4,13 +4,13 @@ site_name: "Benthullener Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wardenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wardenburg"
+  - "Lower Saxony"
 wikidata_id: "Q818266"
 latitude: 53.0622
 longitude: 8.10278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/400px-Benthullener_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/800px-Benthullener_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/1200px-Benthullener_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/1920px-Benthullener_Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/1920px-Benthullener_Moor.jpg---
 
 ## Overview
 

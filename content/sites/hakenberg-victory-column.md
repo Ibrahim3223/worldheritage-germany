@@ -4,13 +4,13 @@ site_name: "Hakenberg Victory Column"
 date: 2026-01-26
 draft: false
 description: "tower in Brandenburg state"
-region: "Fehrbellin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Fehrbellin"
+  - "Brandenburg"
 wikidata_id: "Q328485"
 latitude: 52.771
 longitude: 12.829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/400px-Siegessauele-Hakenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/800px-Siegessauele-Hakenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1200px-Siegessauele-Hakenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1920px-Siegessauele-Hakenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1920px-Siegessauele-Hakenberg.jpg---
 
 ## Overview
 

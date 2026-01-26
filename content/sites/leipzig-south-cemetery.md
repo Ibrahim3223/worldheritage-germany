@@ -4,13 +4,13 @@ site_name: "Leipzig South Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q314986"
 latitude: 51.3092
 longitude: 12.4125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/L-SüdfriedhofWi2.JPG/400px-L-SüdfriedhofWi2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/L-SüdfriedhofWi2.JPG/800px-L-SüdfriedhofWi2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/L-SüdfriedhofWi2.JPG/1200px-L-SüdfriedhofWi2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/L-SüdfriedhofWi2.JPG/1920px-L-SüdfriedhofWi2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/L-SüdfriedhofWi2.JPG/1920px-L-SüdfriedhofWi2.JPG---
 
 ## Overview
 

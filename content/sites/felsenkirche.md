@@ -4,13 +4,13 @@ site_name: "Felsenkirche"
 date: 2026-01-26
 draft: false
 description: "Rock church in Idar-Oberstein, Germany"
-region: "Idar-Oberstein"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Idar-Oberstein"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1404257"
 latitude: 49.7055
 longitude: 7.32887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Felsenkirche_(Idar-Oberstein)_2023.jpg/400px-Felsenkirche_(Idar-Oberstein)_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Felsenkirche_(Idar-Oberstein)_2023.jpg/800px-Felsenkirche_(Idar-Oberstein)_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Felsenkirche_(Idar-Oberstein)_2023.jpg/1200px-Felsenkirche_(Idar-Oberstein)_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Felsenkirche_(Idar-Oberstein)_2023.jpg/1920px-Felsenkirche_(Idar-Oberstein)_2023.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Felsenkirche_(Idar-Oberstein)_2023.jpg/1920px-Felsenkirche_(Idar-Oberstein)_2023.jpg---
 
 ## Overview
 

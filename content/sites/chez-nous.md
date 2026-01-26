@@ -4,19 +4,18 @@ site_name: "Chez Nous"
 date: 2026-01-26
 draft: false
 description: "theater in Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1071469"
 latitude: 52.5025
 longitude: 13.336805555
 images:
-  []
----
+  []---
 
 ## Overview
 

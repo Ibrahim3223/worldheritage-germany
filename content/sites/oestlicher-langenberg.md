@@ -4,13 +4,13 @@ site_name: "Östlicher Langenberg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bad Harzburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bad Harzburg"
+  - "Lower Saxony"
 wikidata_id: "Q307159"
 latitude: 51.89916667
 longitude: 10.52416667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/400px-Langenberg_Harz.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/800px-Langenberg_Harz.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/1200px-Langenberg_Harz.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/1920px-Langenberg_Harz.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/1920px-Langenberg_Harz.png---
 
 ## Overview
 

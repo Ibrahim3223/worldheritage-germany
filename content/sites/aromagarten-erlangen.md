@@ -4,13 +4,13 @@ site_name: "Aromagarten Erlangen"
 date: 2026-01-26
 draft: false
 description: "Botanical garden in Erlangen with a focus on fragrant plants"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q697970"
 latitude: 49.6025
 longitude: 11.0156
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/400px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/800px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/1200px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/1920px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/1920px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hedeby"
 date: 2026-01-26
 draft: false
 description: "historic fortified Viking town south of present-day Schleswig town in North Germany"
-region: "Busdorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Busdorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q165414"
 latitude: 54.491111111
 longitude: 9.565277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/400px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/800px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1200px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1920px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1920px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG---
 
 ## Overview
 

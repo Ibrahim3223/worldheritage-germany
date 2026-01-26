@@ -4,13 +4,13 @@ site_name: "Städtische Galerie im Schlosspark Strünkede"
 date: 2026-01-26
 draft: false
 description: "Herne, Arnsberg, Germany"
-region: "Herne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Herne"
+  - "Lower Saxony"
 wikidata_id: "Q19965800"
 latitude: 51.551252
 longitude: 7.212683
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/400px-Herne_Villa_Forell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/800px-Herne_Villa_Forell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/1200px-Herne_Villa_Forell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/1920px-Herne_Villa_Forell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/1920px-Herne_Villa_Forell.jpg---
 
 ## Overview
 

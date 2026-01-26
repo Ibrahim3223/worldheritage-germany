@@ -4,19 +4,18 @@ site_name: "Zeche Christine"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169730"
 latitude: 51.4749
 longitude: 7.47004
 images:
-  []
----
+  []---
 
 ## Overview
 

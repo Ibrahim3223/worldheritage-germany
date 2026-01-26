@@ -4,13 +4,13 @@ site_name: "Ebershaldenfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Esslingen am Neckar, Germany"
-region: "Esslingen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Esslingen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1279770"
 latitude: 48.7402
 longitude: 9.32034
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/400px-Ebershaldenfriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/800px-Ebershaldenfriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/1200px-Ebershaldenfriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/1920px-Ebershaldenfriedhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/1920px-Ebershaldenfriedhof.jpg---
 
 ## Overview
 

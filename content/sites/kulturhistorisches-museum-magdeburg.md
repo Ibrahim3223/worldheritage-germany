@@ -4,13 +4,13 @@ site_name: "Kulturhistorisches Museum Magdeburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1673285"
 latitude: 52.1256
 longitude: 11.6295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/400px-Kulturhistorisches-Museum-Magdeburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/800px-Kulturhistorisches-Museum-Magdeburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/1200px-Kulturhistorisches-Museum-Magdeburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/1920px-Kulturhistorisches-Museum-Magdeburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/1920px-Kulturhistorisches-Museum-Magdeburg.JPG---
 
 ## Overview
 

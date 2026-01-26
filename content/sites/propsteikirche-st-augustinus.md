@@ -4,13 +4,13 @@ site_name: "Propsteikirche St. Augustinus"
 date: 2026-01-26
 draft: false
 description: "church building in Gelsenkirchen, Germany"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q2113137"
 latitude: 51.5092
 longitude: 7.09546
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gelsenkirchen_St._Augustinus_3.jpg/400px-Gelsenkirchen_St._Augustinus_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gelsenkirchen_St._Augustinus_3.jpg/800px-Gelsenkirchen_St._Augustinus_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gelsenkirchen_St._Augustinus_3.jpg/1200px-Gelsenkirchen_St._Augustinus_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gelsenkirchen_St._Augustinus_3.jpg/1920px-Gelsenkirchen_St._Augustinus_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gelsenkirchen_St._Augustinus_3.jpg/1920px-Gelsenkirchen_St._Augustinus_3.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burgwall Pleetz"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Datzetal"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Datzetal"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1016201"
 latitude: 53.6586
 longitude: 13.4822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BurgwallPleetz1.jpg/400px-BurgwallPleetz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BurgwallPleetz1.jpg/800px-BurgwallPleetz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BurgwallPleetz1.jpg/1200px-BurgwallPleetz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BurgwallPleetz1.jpg/1920px-BurgwallPleetz1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BurgwallPleetz1.jpg/1920px-BurgwallPleetz1.jpg---
 
 ## Overview
 

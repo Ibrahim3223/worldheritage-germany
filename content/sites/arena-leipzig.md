@@ -4,13 +4,13 @@ site_name: "Arena Leipzig"
 date: 2026-01-26
 draft: false
 description: "building in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q316575"
 latitude: 51.342778
 longitude: 12.355278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/400px-Arena_leipzig_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/800px-Arena_leipzig_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/1200px-Arena_leipzig_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/1920px-Arena_leipzig_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/1920px-Arena_leipzig_2.jpg---
 
 ## Overview
 

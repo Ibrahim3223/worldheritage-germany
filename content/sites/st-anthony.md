@@ -4,13 +4,13 @@ site_name: "St. Anthony"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Stadtmitte, Germany"
-region: "Stadtmitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtmitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317257"
 latitude: 51.2242
 longitude: 6.78823
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg/400px-Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg/800px-Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg/1200px-Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg/1920px-Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg/1920px-Franziskanerkirche_in_Duesseldorf-Stadtmitte,_von_Westen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Afra"
 date: 2026-01-26
 draft: false
 description: "church in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1373178"
 latitude: 52.545305555
 longitude: 13.397666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/400px-St.-Afra-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/800px-St.-Afra-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/1200px-St.-Afra-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/1920px-St.-Afra-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/1920px-St.-Afra-Kirche.jpg---
 
 ## Overview
 

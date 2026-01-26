@@ -4,19 +4,18 @@ site_name: "Flossenbürg concentration camp memorial site"
 date: 2026-01-26
 draft: false
 description: "memorial site on the grounds of the former concentration camp in Flossenbürg,Bavaria"
-region: "Flossenbürg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Flossenbürg"
+  - "Bavaria"
 wikidata_id: "Q29014738"
 latitude: 49.735555555
 longitude: 12.355833333
 images:
-  []
----
+  []---
 
 ## Overview
 

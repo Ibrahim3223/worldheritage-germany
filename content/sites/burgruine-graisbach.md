@@ -4,13 +4,13 @@ site_name: "Burgruine Graisbach"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Marxheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Marxheim"
+  - "Bavaria"
 wikidata_id: "Q1015295"
 latitude: 48.7498
 longitude: 10.8948
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/400px-Burg_Graisbach_-_Philipp_Apian.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/800px-Burg_Graisbach_-_Philipp_Apian.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/1200px-Burg_Graisbach_-_Philipp_Apian.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/1920px-Burg_Graisbach_-_Philipp_Apian.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/1920px-Burg_Graisbach_-_Philipp_Apian.jpg---
 
 ## Overview
 

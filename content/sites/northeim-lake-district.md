@@ -4,13 +4,13 @@ site_name: "Northeim Lake District"
 date: 2026-01-26
 draft: false
 description: "series of lakes near Northeim, Lower Saxony"
-region: "Northeim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Northeim"
+  - "Lower Saxony"
 wikidata_id: "Q1271778"
 latitude: 51.7342
 longitude: 9.96234
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Northeim_und_Northeimer_Seenplatte.jpg/400px-Northeim_und_Northeimer_Seenplatte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Northeim_und_Northeimer_Seenplatte.jpg/800px-Northeim_und_Northeimer_Seenplatte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Northeim_und_Northeimer_Seenplatte.jpg/1200px-Northeim_und_Northeimer_Seenplatte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Northeim_und_Northeimer_Seenplatte.jpg/1920px-Northeim_und_Northeimer_Seenplatte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Northeim_und_Northeimer_Seenplatte.jpg/1920px-Northeim_und_Northeimer_Seenplatte.jpg---
 
 ## Overview
 

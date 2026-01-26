@@ -4,13 +4,13 @@ site_name: "Stadtbefestigung in Velden"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.614064/E11.510928"
-region: "Velden"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Velden"
+  - "Bavaria"
 wikidata_id: "Q58340088"
 latitude: 49.614064
 longitude: 11.510928
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/D-5-74-160-16_01.jpg/400px-D-5-74-160-16_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/D-5-74-160-16_01.jpg/800px-D-5-74-160-16_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/D-5-74-160-16_01.jpg/1200px-D-5-74-160-16_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/D-5-74-160-16_01.jpg/1920px-D-5-74-160-16_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/D-5-74-160-16_01.jpg/1920px-D-5-74-160-16_01.jpg---
 
 ## Overview
 

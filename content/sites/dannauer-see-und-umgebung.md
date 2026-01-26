@@ -4,13 +4,13 @@ site_name: "Dannauer See und Umgebung"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Rantzau"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rantzau"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1164372"
 latitude: 54.238
 longitude: 10.535
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/400px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/800px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/1200px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/1920px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/1920px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG---
 
 ## Overview
 

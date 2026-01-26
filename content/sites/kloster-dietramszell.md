@@ -4,19 +4,18 @@ site_name: "Kloster Dietramszell"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Dietramszell"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Dietramszell"
+  - "Bavaria"
 wikidata_id: "Q1775161"
 latitude: 47.849592432
 longitude: 11.596086364
 images:
-  []
----
+  []---
 
 ## Overview
 

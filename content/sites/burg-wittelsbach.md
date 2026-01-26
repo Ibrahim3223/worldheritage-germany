@@ -4,13 +4,13 @@ site_name: "Burg Wittelsbach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Aichach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Aichach"
+  - "Bavaria"
 wikidata_id: "Q321913"
 latitude: 48.4686
 longitude: 11.1762
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/400px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/800px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1200px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1920px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1920px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Katschhof"
 date: 2026-01-26
 draft: false
 description: "public square in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q830944"
 latitude: 50.7754611
 longitude: 6.0837963
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/400px-Katschhof,_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/800px-Katschhof,_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/1200px-Katschhof,_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/1920px-Katschhof,_Aachen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/1920px-Katschhof,_Aachen.jpg---
 
 ## Overview
 

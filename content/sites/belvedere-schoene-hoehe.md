@@ -4,13 +4,13 @@ site_name: "Belvedere Schöne Höhe"
 date: 2026-01-26
 draft: false
 description: "Palast in Deutschland"
-region: "Dürrröhrsdorf-Dittersbach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dürrröhrsdorf-Dittersbach"
+  - "Saxony"
 wikidata_id: "Q2140245"
 latitude: 51.028719
 longitude: 13.982676
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/400px-Belvedere_Schöne_Höhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/800px-Belvedere_Schöne_Höhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1200px-Belvedere_Schöne_Höhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1920px-Belvedere_Schöne_Höhe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1920px-Belvedere_Schöne_Höhe.jpg---
 
 ## Overview
 

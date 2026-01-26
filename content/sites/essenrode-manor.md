@@ -4,13 +4,13 @@ site_name: "Essenrode Manor"
 date: 2026-01-26
 draft: false
 description: "baroque mansion in Lehre, Lower Saxony"
-region: "Lehre"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lehre"
+  - "Lower Saxony"
 wikidata_id: "Q1677750"
 latitude: 52.3715
 longitude: 10.6353
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/400px-Essenrode_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/800px-Essenrode_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1200px-Essenrode_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1920px-Essenrode_Schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1920px-Essenrode_Schloss.jpg---
 
 ## Overview
 

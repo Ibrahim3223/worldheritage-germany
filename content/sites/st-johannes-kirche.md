@@ -4,13 +4,13 @@ site_name: "St.-Johannes-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wusterhusen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wusterhusen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1478317"
 latitude: 54.112
 longitude: 13.618
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/400px-Wusterhusen_Johanneskirche_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/800px-Wusterhusen_Johanneskirche_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/1200px-Wusterhusen_Johanneskirche_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/1920px-Wusterhusen_Johanneskirche_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/1920px-Wusterhusen_Johanneskirche_Westseite.jpg---
 
 ## Overview
 

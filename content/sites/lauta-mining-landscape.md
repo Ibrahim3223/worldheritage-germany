@@ -4,19 +4,18 @@ site_name: "Lauta Mining Landscape"
 date: 2026-01-26
 draft: false
 description: "part of a World Heritage site in Germany"
-region: "Marienberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Marienberg"
+  - "Saxony"
 wikidata_id: "Q66054777"
 latitude: 50.664
 longitude: 13.1426
 images:
-  []
----
+  []---
 
 ## Overview
 

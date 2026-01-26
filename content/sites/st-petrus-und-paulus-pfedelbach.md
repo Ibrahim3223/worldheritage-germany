@@ -4,13 +4,13 @@ site_name: "St. Petrus und Paulus (Pfedelbach)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Pfedelbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pfedelbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1413072"
 latitude: 49.1773
 longitude: 9.50266
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pfedelbach-Katholische-Kirche.jpg/400px-Pfedelbach-Katholische-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pfedelbach-Katholische-Kirche.jpg/800px-Pfedelbach-Katholische-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pfedelbach-Katholische-Kirche.jpg/1200px-Pfedelbach-Katholische-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pfedelbach-Katholische-Kirche.jpg/1920px-Pfedelbach-Katholische-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pfedelbach-Katholische-Kirche.jpg/1920px-Pfedelbach-Katholische-Kirche.jpg---
 
 ## Overview
 

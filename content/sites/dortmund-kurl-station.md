@@ -4,13 +4,13 @@ site_name: "Dortmund-Kurl station"
 date: 2026-01-26
 draft: false
 description: "railway station in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q183450"
 latitude: 51.5569
 longitude: 7.585
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/400px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/800px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/1200px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/1920px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/1920px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg---
 
 ## Overview
 

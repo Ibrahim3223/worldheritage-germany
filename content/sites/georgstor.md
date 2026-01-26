@@ -4,13 +4,13 @@ site_name: "Georgstor"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Blankenheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Blankenheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q881603"
 latitude: 50.4391
 longitude: 6.64725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Blankenheim_9_ST_Georgstor.JPG/400px-Blankenheim_9_ST_Georgstor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Blankenheim_9_ST_Georgstor.JPG/800px-Blankenheim_9_ST_Georgstor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Blankenheim_9_ST_Georgstor.JPG/1200px-Blankenheim_9_ST_Georgstor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Blankenheim_9_ST_Georgstor.JPG/1920px-Blankenheim_9_ST_Georgstor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Blankenheim_9_ST_Georgstor.JPG/1920px-Blankenheim_9_ST_Georgstor.JPG---
 
 ## Overview
 

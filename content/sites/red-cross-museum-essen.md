@@ -4,13 +4,13 @@ site_name: "Red Cross Museum Essen"
 date: 2026-01-26
 draft: false
 description: "local Red Cross museum of German Red Cross"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1665046"
 latitude: 51.4518
 longitude: 7.00821
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/400px-Rotkreuz-Museum,_Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/800px-Rotkreuz-Museum,_Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/1200px-Rotkreuz-Museum,_Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/1920px-Rotkreuz-Museum,_Essen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/1920px-Rotkreuz-Museum,_Essen.jpg---
 
 ## Overview
 

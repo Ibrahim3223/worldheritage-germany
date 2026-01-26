@@ -4,13 +4,13 @@ site_name: "St. Antonius"
 date: 2026-01-26
 draft: false
 description: "church building in Herten, Germany"
-region: "Herten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Herten"
+  - "Lower Saxony"
 wikidata_id: "Q2317274"
 latitude: 51.5931
 longitude: 7.138
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/400px-Herten_St._Antonius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/800px-Herten_St._Antonius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/1200px-Herten_St._Antonius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/1920px-Herten_St._Antonius.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/1920px-Herten_St._Antonius.jpg---
 
 ## Overview
 

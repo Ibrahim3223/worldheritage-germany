@@ -4,13 +4,13 @@ site_name: "Speicherstadt and Kontorhaus District with Chilehaus"
 date: 2026-01-26
 draft: false
 description: "World Heritage Site in Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q20644172"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg/400px-Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg/800px-Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg/1200px-Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg/1920px-Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg/1920px-Hamburg-090613-0266-DSC_8363-Speicherstadt.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Torhaus Schloßstraße 13 in Gebsattel"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-71-152-9 (2) in Gebsattel, Bavaria"
-region: "Gebsattel"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Gebsattel"
+  - "Baden-Württemberg"
 wikidata_id: "Q98626380"
 latitude: 49.350468093
 longitude: 10.203550747
 images:
-  []
----
+  []---
 
 ## Overview
 

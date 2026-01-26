@@ -4,13 +4,13 @@ site_name: "Alte Brennerei Schwake"
 date: 2026-01-26
 draft: false
 description: "arts centre and cinema in Ennigerloh, Germany, a former destillery"
-region: "Ennigerloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Ennigerloh"
+  - "Lower Saxony"
 wikidata_id: "Q435396"
 latitude: 51.8367
 longitude: 8.02333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/400px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/800px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1200px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1920px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1920px-Alte_Brennerei_Schwake_mit_Infotafel.jpg---
 
 ## Overview
 

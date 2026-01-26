@@ -4,13 +4,13 @@ site_name: "St.Mary's church Beeskow"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Beeskow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Beeskow"
+  - "Brandenburg"
 wikidata_id: "Q1649692"
 latitude: 52.171555555
 longitude: 14.248472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Marienkirche_Beeskow.JPG/400px-Marienkirche_Beeskow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Marienkirche_Beeskow.JPG/800px-Marienkirche_Beeskow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Marienkirche_Beeskow.JPG/1200px-Marienkirche_Beeskow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Marienkirche_Beeskow.JPG/1920px-Marienkirche_Beeskow.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Marienkirche_Beeskow.JPG/1920px-Marienkirche_Beeskow.JPG---
 
 ## Overview
 

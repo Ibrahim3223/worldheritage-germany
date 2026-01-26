@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Karlsruhe-Grünwettersbach"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1407049"
 latitude: 48.956738888
 longitude: 8.451791666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/400px-Fernmeldeturm-Gruenwettersbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/800px-Fernmeldeturm-Gruenwettersbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/1200px-Fernmeldeturm-Gruenwettersbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/1920px-Fernmeldeturm-Gruenwettersbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/1920px-Fernmeldeturm-Gruenwettersbach.jpg---
 
 ## Overview
 

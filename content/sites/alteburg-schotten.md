@@ -4,13 +4,13 @@ site_name: "Alteburg, Schotten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schotten"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schotten"
+  - "Bavaria"
 wikidata_id: "Q436474"
 latitude: 50.501704572
 longitude: 9.125301235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/400px-Alteburg_Schotten_Eingang.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/800px-Alteburg_Schotten_Eingang.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/1200px-Alteburg_Schotten_Eingang.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/1920px-Alteburg_Schotten_Eingang.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/1920px-Alteburg_Schotten_Eingang.png---
 
 ## Overview
 

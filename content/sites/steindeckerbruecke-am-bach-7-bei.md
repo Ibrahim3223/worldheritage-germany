@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Am Bach 7 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Panschwitz-Kuckau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Panschwitz-Kuckau"
+  - "Saxony"
 wikidata_id: "Q49405026"
 latitude: 51.218262
 longitude: 14.251819
 images:
-  []
----
+  []---
 
 ## Overview
 

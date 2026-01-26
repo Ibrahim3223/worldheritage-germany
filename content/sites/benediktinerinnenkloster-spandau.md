@@ -4,19 +4,18 @@ site_name: "Benediktinerinnenkloster Spandau"
 date: 2026-01-26
 draft: false
 description: "former monastery in Spandau, Germany"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q817051"
 latitude: 52.533613
 longitude: 13.199596
 images:
-  []
----
+  []---
 
 ## Overview
 

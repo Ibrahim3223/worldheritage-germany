@@ -4,13 +4,13 @@ site_name: "Neheimer Synagoge"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Arnsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Arnsberg"
+  - "Hesse"
 wikidata_id: "Q1974483"
 latitude: 51.4549
 longitude: 7.95671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/400px-Neheimer_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/800px-Neheimer_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/1200px-Neheimer_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/1920px-Neheimer_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/1920px-Neheimer_Synagoge.jpg---
 
 ## Overview
 

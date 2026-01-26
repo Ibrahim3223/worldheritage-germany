@@ -4,13 +4,13 @@ site_name: "Burg Lahr"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Burglahr"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Burglahr"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012805"
 latitude: 50.6199
 longitude: 7.4959
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/400px-2019-06-29-Burg_Lahr-0603.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/800px-2019-06-29-Burg_Lahr-0603.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/1200px-2019-06-29-Burg_Lahr-0603.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/1920px-2019-06-29-Burg_Lahr-0603.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/1920px-2019-06-29-Burg_Lahr-0603.jpg---
 
 ## Overview
 

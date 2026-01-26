@@ -4,13 +4,13 @@ site_name: "Glasmuseum Weißwasser"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Weißwasser"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weißwasser"
+  - "Brandenburg"
 wikidata_id: "Q27831277"
 latitude: 51.50685
 longitude: 14.634402
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/400px-Glasmuseum_Weißwasser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/800px-Glasmuseum_Weißwasser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/1200px-Glasmuseum_Weißwasser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/1920px-Glasmuseum_Weißwasser.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/1920px-Glasmuseum_Weißwasser.jpg---
 
 ## Overview
 

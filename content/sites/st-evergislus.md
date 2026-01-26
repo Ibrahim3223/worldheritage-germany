@@ -4,13 +4,13 @@ site_name: "St. Evergislus"
 date: 2026-01-26
 draft: false
 description: "church building in Brenig, Bornheim, Germany"
-region: "Bornheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bornheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2318154"
 latitude: 50.75541
 longitude: 6.97419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/400px-Brenig_002x,_St._Evergislus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/800px-Brenig_002x,_St._Evergislus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/1200px-Brenig_002x,_St._Evergislus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/1920px-Brenig_002x,_St._Evergislus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/1920px-Brenig_002x,_St._Evergislus.jpg---
 
 ## Overview
 

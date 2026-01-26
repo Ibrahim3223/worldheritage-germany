@@ -4,13 +4,13 @@ site_name: "Ackeburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Falkenstein/Harz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Falkenstein/Harz"
+  - "Lower Saxony"
 wikidata_id: "Q341505"
 latitude: 51.6861
 longitude: 11.2535
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/400px-The_Selke_Valley_from_the_Selkesicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/800px-The_Selke_Valley_from_the_Selkesicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1200px-The_Selke_Valley_from_the_Selkesicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1920px-The_Selke_Valley_from_the_Selkesicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1920px-The_Selke_Valley_from_the_Selkesicht.JPG---
 
 ## Overview
 

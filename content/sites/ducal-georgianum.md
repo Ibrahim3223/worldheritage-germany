@@ -4,13 +4,13 @@ site_name: "Ducal Georgianum"
 date: 2026-01-26
 draft: false
 description: "seminary"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q533069"
 latitude: 48.149976096
 longitude: 11.581743654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/400px-Georgianum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/800px-Georgianum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1200px-Georgianum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1920px-Georgianum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1920px-Georgianum.JPG---
 
 ## Overview
 

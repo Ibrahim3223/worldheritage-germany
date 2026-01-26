@@ -4,13 +4,13 @@ site_name: "Kinder- und Jugendmuseum Donaueschingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Donaueschingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Donaueschingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q16832419"
 latitude: 47.952089
 longitude: 8.49941
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/400px-Logo_Kiumu_Donaueschingen.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/800px-Logo_Kiumu_Donaueschingen.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/1200px-Logo_Kiumu_Donaueschingen.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/1920px-Logo_Kiumu_Donaueschingen.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/1920px-Logo_Kiumu_Donaueschingen.png---
 
 ## Overview
 

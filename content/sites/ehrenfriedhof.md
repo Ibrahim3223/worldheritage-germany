@@ -4,13 +4,13 @@ site_name: "Ehrenfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Heilbronn, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1300074"
 latitude: 49.1308
 longitude: 9.2562
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hn-ehrenfrdhf-portal.jpg/400px-Hn-ehrenfrdhf-portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hn-ehrenfrdhf-portal.jpg/800px-Hn-ehrenfrdhf-portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hn-ehrenfrdhf-portal.jpg/1200px-Hn-ehrenfrdhf-portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hn-ehrenfrdhf-portal.jpg/1920px-Hn-ehrenfrdhf-portal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hn-ehrenfrdhf-portal.jpg/1920px-Hn-ehrenfrdhf-portal.jpg---
 
 ## Overview
 

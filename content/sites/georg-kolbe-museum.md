@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/400px-Sensburger_Allee_25-26_(09096432)_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/800px-Sensburger_Allee_25-26_(09096432)_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/1200px-Sensburger_Allee_25-26_(09096432)_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/1920px-Sensburger_Allee_25-26_(09096432)_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/1920px-Sensburger_Allee_25-26_(09096432)_001.jpg---
 
 ## Overview
 

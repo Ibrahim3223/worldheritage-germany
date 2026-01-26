@@ -4,13 +4,13 @@ site_name: "Synagogue in Hainsfarth"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Hainsfarth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Hainsfarth"
+  - "Bavaria"
 wikidata_id: "Q1404183"
 latitude: 48.9594
 longitude: 10.6256
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hainsfarth_Synagogue.jpg/400px-Hainsfarth_Synagogue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hainsfarth_Synagogue.jpg/800px-Hainsfarth_Synagogue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hainsfarth_Synagogue.jpg/1200px-Hainsfarth_Synagogue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hainsfarth_Synagogue.jpg/1920px-Hainsfarth_Synagogue.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hainsfarth_Synagogue.jpg/1920px-Hainsfarth_Synagogue.jpg---
 
 ## Overview
 

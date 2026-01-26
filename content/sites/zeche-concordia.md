@@ -4,13 +4,13 @@ site_name: "Zeche Concordia"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Oberhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Oberhausen"
+  - "Lower Saxony"
 wikidata_id: "Q169739"
 latitude: 51.4738
 longitude: 6.839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/400px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/800px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/1200px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg---
 
 ## Overview
 

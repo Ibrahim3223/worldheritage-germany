@@ -4,13 +4,13 @@ site_name: "Noor Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q266918"
 latitude: 50.0856
 longitude: 8.69639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nuur-Moschee_Frankfurt_Germany.jpg/400px-Nuur-Moschee_Frankfurt_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nuur-Moschee_Frankfurt_Germany.jpg/800px-Nuur-Moschee_Frankfurt_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nuur-Moschee_Frankfurt_Germany.jpg/1200px-Nuur-Moschee_Frankfurt_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nuur-Moschee_Frankfurt_Germany.jpg/1920px-Nuur-Moschee_Frankfurt_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nuur-Moschee_Frankfurt_Germany.jpg/1920px-Nuur-Moschee_Frankfurt_Germany.jpg---
 
 ## Overview
 

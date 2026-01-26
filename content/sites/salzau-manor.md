@@ -4,13 +4,13 @@ site_name: "Salzau Manor"
 date: 2026-01-26
 draft: false
 description: "alter Rittersitz in Holstein"
-region: "Fargau-Pratjau"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Fargau-Pratjau"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1802347"
 latitude: 54.3294
 longitude: 10.3825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gut-Salzau-2019-msu-5285.jpg/400px-Gut-Salzau-2019-msu-5285.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gut-Salzau-2019-msu-5285.jpg/800px-Gut-Salzau-2019-msu-5285.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gut-Salzau-2019-msu-5285.jpg/1200px-Gut-Salzau-2019-msu-5285.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gut-Salzau-2019-msu-5285.jpg/1920px-Gut-Salzau-2019-msu-5285.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gut-Salzau-2019-msu-5285.jpg/1920px-Gut-Salzau-2019-msu-5285.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Diana-Statue"
 date: 2026-01-26
 draft: false
 description: "demolished statue in Gotha, Germany"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1208757"
 latitude: 50.9467
 longitude: 10.70833
 images:
-  []
----
+  []---
 
 ## Overview
 

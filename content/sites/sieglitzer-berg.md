@@ -4,13 +4,13 @@ site_name: "Sieglitzer Berg"
 date: 2026-01-26
 draft: false
 description: "historischer Landschaftspark in Oranienbaum-Wörlitz, Sachsen-Anhalt"
-region: "Oranienbaum-Wörlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Oranienbaum-Wörlitz"
+  - "Brandenburg"
 wikidata_id: "Q870438"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/400px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/800px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/1200px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/1920px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/1920px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg---
 
 ## Overview
 

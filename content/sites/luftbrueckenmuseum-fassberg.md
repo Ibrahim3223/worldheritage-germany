@@ -4,13 +4,13 @@ site_name: "Luftbrückenmuseum Faßberg"
 date: 2026-01-26
 draft: false
 description: "museum about the Berlin Airlift for the location Faßberg"
-region: "Faßberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Faßberg"
+  - "Lower Saxony"
 wikidata_id: "Q56259963"
 latitude: 52.902789
 longitude: 10.17904
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/400px-Luftbrückenmuseum_Faßberg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/800px-Luftbrückenmuseum_Faßberg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/1200px-Luftbrückenmuseum_Faßberg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/1920px-Luftbrückenmuseum_Faßberg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/1920px-Luftbrückenmuseum_Faßberg_1.jpg---
 
 ## Overview
 

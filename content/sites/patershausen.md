@@ -4,13 +4,13 @@ site_name: "Patershausen"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Heusenstamm"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Heusenstamm"
+  - "Hesse"
 wikidata_id: "Q2056776"
 latitude: 50.034
 longitude: 8.8065
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/400px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/800px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/1200px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/1920px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/1920px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG---
 
 ## Overview
 

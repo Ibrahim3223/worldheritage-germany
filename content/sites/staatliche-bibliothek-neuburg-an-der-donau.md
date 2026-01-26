@@ -4,13 +4,13 @@ site_name: "Staatliche Bibliothek Neuburg an der Donau"
 date: 2026-01-26
 draft: false
 description: "Scientific library in Neuburg an der Donau (Germany)"
-region: "Neuburg an der Donau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Neuburg an der Donau"
+  - "Bavaria"
 wikidata_id: "Q2324315"
 latitude: 48.7374
 longitude: 11.1779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neuburg_Bibliothek_1.jpg/400px-Neuburg_Bibliothek_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neuburg_Bibliothek_1.jpg/800px-Neuburg_Bibliothek_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neuburg_Bibliothek_1.jpg/1200px-Neuburg_Bibliothek_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neuburg_Bibliothek_1.jpg/1920px-Neuburg_Bibliothek_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neuburg_Bibliothek_1.jpg/1920px-Neuburg_Bibliothek_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Weimar"
 date: 2026-01-26
 draft: false
 description: "art museum and palace in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q878253"
 latitude: 50.980277777
 longitude: 11.332222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/400px-Luftbild_Weimarer_Stadtschloss-0063.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/800px-Luftbild_Weimarer_Stadtschloss-0063.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/1200px-Luftbild_Weimarer_Stadtschloss-0063.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/1920px-Luftbild_Weimarer_Stadtschloss-0063.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/1920px-Luftbild_Weimarer_Stadtschloss-0063.jpg---
 
 ## Overview
 

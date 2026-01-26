@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über den Oelsabach Oelsa"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rabenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rabenau"
+  - "Saxony"
 wikidata_id: "Q49443408"
 latitude: 50.951450889
 longitude: 13.664216387
 images:
-  []
----
+  []---
 
 ## Overview
 

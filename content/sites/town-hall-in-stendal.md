@@ -4,13 +4,13 @@ site_name: "Town hall in Stendal"
 date: 2026-01-26
 draft: false
 description: "town hall in Saxony-Anhalt, Germany"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q20741050"
 latitude: 52.60533
 longitude: 11.8596
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stendal_Rathaus_Nordgiebel_2011-09-16.jpg/400px-Stendal_Rathaus_Nordgiebel_2011-09-16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stendal_Rathaus_Nordgiebel_2011-09-16.jpg/800px-Stendal_Rathaus_Nordgiebel_2011-09-16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stendal_Rathaus_Nordgiebel_2011-09-16.jpg/1200px-Stendal_Rathaus_Nordgiebel_2011-09-16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stendal_Rathaus_Nordgiebel_2011-09-16.jpg/1920px-Stendal_Rathaus_Nordgiebel_2011-09-16.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stendal_Rathaus_Nordgiebel_2011-09-16.jpg/1920px-Stendal_Rathaus_Nordgiebel_2011-09-16.jpg---
 
 ## Overview
 

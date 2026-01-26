@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Stuttgart"
 date: 2026-01-26
 draft: false
 description: "contemporary and modern art museum in Stuttgart, Germany"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q317398"
 latitude: 48.7783
 longitude: 9.1776
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KunstmuseumStuttgart-pjt.jpg/400px-KunstmuseumStuttgart-pjt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KunstmuseumStuttgart-pjt.jpg/800px-KunstmuseumStuttgart-pjt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KunstmuseumStuttgart-pjt.jpg/1200px-KunstmuseumStuttgart-pjt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KunstmuseumStuttgart-pjt.jpg/1920px-KunstmuseumStuttgart-pjt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KunstmuseumStuttgart-pjt.jpg/1920px-KunstmuseumStuttgart-pjt.jpg---
 
 ## Overview
 

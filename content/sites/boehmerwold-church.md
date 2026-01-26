@@ -4,13 +4,13 @@ site_name: "Böhmerwold Church"
 date: 2026-01-26
 draft: false
 description: "church in Germany"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q1019718"
 latitude: 53.2334
 longitude: 7.33001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/400px-ChurchBöhmerwold.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/800px-ChurchBöhmerwold.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1200px-ChurchBöhmerwold.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1920px-ChurchBöhmerwold.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1920px-ChurchBöhmerwold.jpg---
 
 ## Overview
 

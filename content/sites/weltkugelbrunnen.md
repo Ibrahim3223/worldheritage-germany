@@ -4,13 +4,13 @@ site_name: "Weltkugelbrunnen"
 date: 2026-01-26
 draft: false
 description: "water feature on Berlin's Breitscheidplatz"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q2558284"
 latitude: 52.5047
 longitude: 13.3365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/400px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/800px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1200px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1920px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1920px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg---
 
 ## Overview
 

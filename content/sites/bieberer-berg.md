@@ -4,13 +4,13 @@ site_name: "Bieberer Berg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q857077"
 latitude: 50.094444444
 longitude: 8.798611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/400px-Diba_stadion_offenbach_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/800px-Diba_stadion_offenbach_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/1200px-Diba_stadion_offenbach_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/1920px-Diba_stadion_offenbach_04.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/1920px-Diba_stadion_offenbach_04.JPG---
 
 ## Overview
 

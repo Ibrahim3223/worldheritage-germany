@@ -4,13 +4,13 @@ site_name: "Festhalle Frankfurt"
 date: 2026-01-26
 draft: false
 description: "multi-purpose arena located in Frankfurt, Germany"
-region: "Frankfurt-Innenstadt II"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Frankfurt-Innenstadt II"
+  - "Hesse"
 wikidata_id: "Q59518"
 latitude: 50.111667
 longitude: 8.650833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/400px-Festhalle-ffm005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/800px-Festhalle-ffm005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1200px-Festhalle-ffm005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1920px-Festhalle-ffm005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1920px-Festhalle-ffm005.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Middle Rhine"
 date: 2026-01-26
 draft: false
 description: "landscape of Rhine valley between Nahe mouth and Bonn"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q571607"
 latitude: 50.364166666
 longitude: 7.605555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/400px-Mittelrhein_Burg_Katz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/800px-Mittelrhein_Burg_Katz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1200px-Mittelrhein_Burg_Katz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1920px-Mittelrhein_Burg_Katz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1920px-Mittelrhein_Burg_Katz.jpg---
 
 ## Overview
 

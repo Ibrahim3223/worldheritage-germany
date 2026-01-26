@@ -4,13 +4,13 @@ site_name: "Lingner-Mausoleum"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Dresden"
-region: "Stadtbezirk Loschwitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Stadtbezirk Loschwitz"
+  - "Saxony"
 wikidata_id: "Q118367365"
 latitude: 51.0632
 longitude: 13.7979
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/400px-Lingner_Mausoleum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/800px-Lingner_Mausoleum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/1200px-Lingner_Mausoleum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/1920px-Lingner_Mausoleum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/1920px-Lingner_Mausoleum.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Uttumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Krummhörn, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q2503642"
 latitude: 53.4522
 longitude: 7.15475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/400px-ChurchUttum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/800px-ChurchUttum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/1200px-ChurchUttum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/1920px-ChurchUttum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/1920px-ChurchUttum.jpg---
 
 ## Overview
 

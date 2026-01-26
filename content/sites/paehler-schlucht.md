@@ -4,13 +4,13 @@ site_name: "Pähler Schlucht"
 date: 2026-01-26
 draft: false
 description: "valley in Germany"
-region: "Pähl"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Pähl"
+  - "Bavaria"
 wikidata_id: "Q1548129"
 latitude: 47.9103
 longitude: 11.1858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pähler_Schlucht-HB.07.jpg/400px-Pähler_Schlucht-HB.07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pähler_Schlucht-HB.07.jpg/800px-Pähler_Schlucht-HB.07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pähler_Schlucht-HB.07.jpg/1200px-Pähler_Schlucht-HB.07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pähler_Schlucht-HB.07.jpg/1920px-Pähler_Schlucht-HB.07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pähler_Schlucht-HB.07.jpg/1920px-Pähler_Schlucht-HB.07.jpg---
 
 ## Overview
 

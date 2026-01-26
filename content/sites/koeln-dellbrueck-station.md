@@ -4,13 +4,13 @@ site_name: "Köln-Dellbrück station"
 date: 2026-01-26
 draft: false
 description: "railway station in Dellbrück, Germany"
-region: "Dellbrück"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dellbrück"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2233"
 latitude: 50.9816
 longitude: 7.07073
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-dellbrueck.jpg/400px-Bf-dellbrueck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-dellbrueck.jpg/800px-Bf-dellbrueck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-dellbrueck.jpg/1200px-Bf-dellbrueck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-dellbrueck.jpg/1920px-Bf-dellbrueck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-dellbrueck.jpg/1920px-Bf-dellbrueck.jpg---
 
 ## Overview
 

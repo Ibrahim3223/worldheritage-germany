@@ -4,13 +4,13 @@ site_name: "Dalum-Wietmarscher Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Geeste"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Geeste"
+  - "Lower Saxony"
 wikidata_id: "Q1158097"
 latitude: 52.5878
 longitude: 7.15111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/400px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/800px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/1200px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/1920px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/1920px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg---
 
 ## Overview
 

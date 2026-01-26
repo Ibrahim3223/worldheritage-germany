@@ -4,13 +4,13 @@ site_name: "St. Stephen's Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q874162"
 latitude: 48.375992331
 longitude: 10.899645129
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/400px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/800px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/1200px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/1920px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/1920px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg---
 
 ## Overview 
 

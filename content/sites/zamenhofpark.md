@@ -4,13 +4,13 @@ site_name: "Zamenhofpark"
 date: 2026-01-26
 draft: false
 description: "in Berlin"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q145747"
 latitude: 52.5094
 longitude: 13.5036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-4-28_F'felde_fec_AMA.B_849.JPG/400px-2010-4-28_F'felde_fec_AMA.B_849.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-4-28_F'felde_fec_AMA.B_849.JPG/800px-2010-4-28_F'felde_fec_AMA.B_849.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-4-28_F'felde_fec_AMA.B_849.JPG/1200px-2010-4-28_F'felde_fec_AMA.B_849.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-4-28_F'felde_fec_AMA.B_849.JPG/1920px-2010-4-28_F'felde_fec_AMA.B_849.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-4-28_F'felde_fec_AMA.B_849.JPG/1920px-2010-4-28_F'felde_fec_AMA.B_849.JPG---
 
 ## Overview
 

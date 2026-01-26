@@ -4,13 +4,13 @@ site_name: "Holzkapelle Ralswiek"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Ralswiek"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ralswiek"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1625590"
 latitude: 54.4682
 longitude: 13.4501
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ralswiek_Holzkapelle.JPG/400px-Ralswiek_Holzkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ralswiek_Holzkapelle.JPG/800px-Ralswiek_Holzkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ralswiek_Holzkapelle.JPG/1200px-Ralswiek_Holzkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ralswiek_Holzkapelle.JPG/1920px-Ralswiek_Holzkapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ralswiek_Holzkapelle.JPG/1920px-Ralswiek_Holzkapelle.JPG---
 
 ## Overview
 

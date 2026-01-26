@@ -4,19 +4,18 @@ site_name: "Zeche Cleverbank"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q169736"
 latitude: 51.3988
 longitude: 7.25989
 images:
-  []
----
+  []---
 
 ## Overview
 

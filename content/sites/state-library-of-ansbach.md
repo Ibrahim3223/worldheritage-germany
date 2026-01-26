@@ -4,13 +4,13 @@ site_name: "State Library of Ansbach"
 date: 2026-01-26
 draft: false
 description: "Regional Library of the Free State of Bavaria"
-region: "Ansbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Ansbach"
+  - "Bavaria"
 wikidata_id: "Q2324312"
 latitude: 49.30333333
 longitude: 10.57444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/400px-Staatsbibliothek_Ansbach_08.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/800px-Staatsbibliothek_Ansbach_08.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/1200px-Staatsbibliothek_Ansbach_08.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/1920px-Staatsbibliothek_Ansbach_08.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/1920px-Staatsbibliothek_Ansbach_08.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lindenau museum"
 date: 2026-01-26
 draft: false
 description: "museum in Altenburg, Germany"
-region: "Altenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Altenburg"
+  - "Saxony"
 wikidata_id: "Q878678"
 latitude: 50.9919
 longitude: 12.4449
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/400px-Lindenau-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/800px-Lindenau-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/1200px-Lindenau-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/1920px-Lindenau-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/1920px-Lindenau-Museum.jpg---
 
 ## Overview
 

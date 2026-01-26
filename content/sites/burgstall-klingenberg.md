@@ -4,13 +4,13 @@ site_name: "Burgstall Klingenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Talheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Talheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012682"
 latitude: 48.0027
 longitude: 8.68444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/400px-Burgstall_Klingenberg-2399-HDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/800px-Burgstall_Klingenberg-2399-HDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/1200px-Burgstall_Klingenberg-2399-HDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/1920px-Burgstall_Klingenberg-2399-HDR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/1920px-Burgstall_Klingenberg-2399-HDR.jpg---
 
 ## Overview
 

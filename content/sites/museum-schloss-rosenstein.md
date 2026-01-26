@@ -4,13 +4,13 @@ site_name: "Museum Schloss Rosenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954486"
 latitude: 48.8005
 longitude: 9.206
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SchlossU.Schmid.jpg/400px-SchlossU.Schmid.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SchlossU.Schmid.jpg/800px-SchlossU.Schmid.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SchlossU.Schmid.jpg/1200px-SchlossU.Schmid.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SchlossU.Schmid.jpg/1920px-SchlossU.Schmid.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SchlossU.Schmid.jpg/1920px-SchlossU.Schmid.jpg---
 
 ## Overview
 

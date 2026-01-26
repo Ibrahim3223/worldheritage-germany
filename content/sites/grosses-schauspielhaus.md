@@ -4,13 +4,13 @@ site_name: "Großes Schauspielhaus"
 date: 2026-01-26
 draft: false
 description: "former theatre and revue theatre (Friedrichstadtpalast) in Mitte, Berlin, Germany, originally a market hall, then used as a circus building"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q566365"
 latitude: 52.52277778
 longitude: 13.38611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/400px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/800px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1200px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1920px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1920px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg---
 
 ## Overview
 

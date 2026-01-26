@@ -4,13 +4,13 @@ site_name: "Museum für Kutschen, Chaisen, Karren"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Heidenheim an der Brenz"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heidenheim an der Brenz"
+  - "Baden-Württemberg"
 wikidata_id: "Q1117918"
 latitude: 48.6754
 longitude: 10.1497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/400px-HDHFruchtkasten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/800px-HDHFruchtkasten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/1200px-HDHFruchtkasten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/1920px-HDHFruchtkasten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/1920px-HDHFruchtkasten.jpg---
 
 ## Overview
 

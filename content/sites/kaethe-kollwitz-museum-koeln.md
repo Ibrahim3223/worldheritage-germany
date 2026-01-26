@@ -4,13 +4,13 @@ site_name: "Käthe Kollwitz Museum Köln"
 date: 2026-01-26
 draft: false
 description: "museum in Cologne"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q319255"
 latitude: 50.93665
 longitude: 6.94671944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/400px-Käthe-Kollwitz-Museum_Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/800px-Käthe-Kollwitz-Museum_Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1200px-Käthe-Kollwitz-Museum_Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1920px-Käthe-Kollwitz-Museum_Köln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1920px-Käthe-Kollwitz-Museum_Köln.jpg---
 
 ## Overview
 

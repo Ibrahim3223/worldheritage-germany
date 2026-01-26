@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke hinter Keula 25 (bei sogenannter Arche)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wittichenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wittichenau"
+  - "Saxony"
 wikidata_id: "Q49404200"
 latitude: 51.39101
 longitude: 14.244076
 images:
-  []
----
+  []---
 
 ## Overview
 

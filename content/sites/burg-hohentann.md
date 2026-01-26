@@ -4,13 +4,13 @@ site_name: "Burg Hohentann"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Altusried"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Altusried"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012445"
 latitude: 47.793617318
 longitude: 10.139791763
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hohentann_1.jpg/400px-Hohentann_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hohentann_1.jpg/800px-Hohentann_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hohentann_1.jpg/1200px-Hohentann_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hohentann_1.jpg/1920px-Hohentann_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hohentann_1.jpg/1920px-Hohentann_1.jpg---
 
 ## Overview
 

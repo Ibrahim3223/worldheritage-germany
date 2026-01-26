@@ -4,19 +4,18 @@ site_name: "Landesarboretum Baden-Württemberg"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q877915"
 latitude: 48.7092
 longitude: 9.20778
 images:
-  []
----
+  []---
 
 ## Overview
 

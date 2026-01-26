@@ -4,13 +4,13 @@ site_name: "Ludwigsdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q1256184"
 latitude: 49.6329
 longitude: 8.3631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/400px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/800px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/1200px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/1920px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/1920px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg---
 
 ## Overview
 

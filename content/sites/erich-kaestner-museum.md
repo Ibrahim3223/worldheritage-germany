@@ -4,13 +4,13 @@ site_name: "Erich Kästner Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1352684"
 latitude: 51.0638
 longitude: 13.7457
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/400px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/800px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/1200px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/1920px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/1920px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg---
 
 ## Overview
 

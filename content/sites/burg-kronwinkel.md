@@ -4,13 +4,13 @@ site_name: "Burg Kronwinkel"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Tannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Tannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012747"
 latitude: 47.9827
 longitude: 10.0767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/400px-Allgäubahn03-2008_mod_timm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/800px-Allgäubahn03-2008_mod_timm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/1200px-Allgäubahn03-2008_mod_timm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/1920px-Allgäubahn03-2008_mod_timm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/1920px-Allgäubahn03-2008_mod_timm.jpg---
 
 ## Overview
 

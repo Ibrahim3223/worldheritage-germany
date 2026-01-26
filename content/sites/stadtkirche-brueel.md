@@ -4,13 +4,13 @@ site_name: "Stadtkirche Brüel"
 date: 2026-01-26
 draft: false
 description: "church building in Brüel, Germany"
-region: "Brüel"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brüel"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1671406"
 latitude: 53.7377
 longitude: 11.7141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/400px-Bruel_Kirche_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/800px-Bruel_Kirche_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/1200px-Bruel_Kirche_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/1920px-Bruel_Kirche_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/1920px-Bruel_Kirche_2.jpg---
 
 ## Overview
 

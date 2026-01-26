@@ -4,13 +4,13 @@ site_name: "St. Eugenius"
 date: 2026-01-26
 draft: false
 description: "church building in Döhren-Wülfel, Germany"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q2318148"
 latitude: 52.3346
 longitude: 9.79981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hannover_St_Eugenius_2.jpg/400px-Hannover_St_Eugenius_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hannover_St_Eugenius_2.jpg/800px-Hannover_St_Eugenius_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hannover_St_Eugenius_2.jpg/1200px-Hannover_St_Eugenius_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hannover_St_Eugenius_2.jpg/1920px-Hannover_St_Eugenius_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hannover_St_Eugenius_2.jpg/1920px-Hannover_St_Eugenius_2.jpg---
 
 ## Overview
 

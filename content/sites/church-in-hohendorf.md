@@ -4,13 +4,13 @@ site_name: "Church in Hohendorf"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wolgast"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wolgast"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244379"
 latitude: 54.0229
 longitude: 13.7326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/400px-Hohendorf_OVP_Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/800px-Hohendorf_OVP_Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/1200px-Hohendorf_OVP_Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/1920px-Hohendorf_OVP_Kirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/1920px-Hohendorf_OVP_Kirche_01.jpg---
 
 ## Overview
 

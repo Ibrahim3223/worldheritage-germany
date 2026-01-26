@@ -4,13 +4,13 @@ site_name: "Gleiberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle ruins in Hesse, Germany"
-region: "Wettenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wettenberg"
+  - "Hesse"
 wikidata_id: "Q1011969"
 latitude: 50.615
 longitude: 8.63472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/400px-Burg.Gleiberg.06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/800px-Burg.Gleiberg.06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/1200px-Burg.Gleiberg.06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/1920px-Burg.Gleiberg.06.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/1920px-Burg.Gleiberg.06.JPG---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG/400px-Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG/800px-Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG/1200px-Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG/1920px-Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG/1920px-Berlin,_Segenskirche_Prenzlauer_Berg,_Altar_und_Orgel_(2008-09-20).JPG---
 
 ## Overview
 

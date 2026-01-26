@@ -4,13 +4,13 @@ site_name: "Lersnersches Schloss"
 date: 2026-01-26
 draft: false
 description: "neuzeitliches Hofgut mit schlossartigem, barockem Herrenhaus in Nieder-Erlenbach, einem Stadtteil von Frankfurt am Main in Hessen"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1412250"
 latitude: 50.2014
 longitude: 8.71159
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/400px-Lersnersches_Schloss_Hofseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/800px-Lersnersches_Schloss_Hofseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/1200px-Lersnersches_Schloss_Hofseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/1920px-Lersnersches_Schloss_Hofseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/1920px-Lersnersches_Schloss_Hofseite.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ev. Garnisonskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Kassel, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1494390"
 latitude: 51.3153
 longitude: 9.49917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/400px-Garnisonskirche_Kassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/800px-Garnisonskirche_Kassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1200px-Garnisonskirche_Kassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1920px-Garnisonskirche_Kassel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1920px-Garnisonskirche_Kassel.jpg---
 
 ## Overview
 

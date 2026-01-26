@@ -4,19 +4,18 @@ site_name: "Munich Digitization Center"
 date: 2026-01-26
 draft: false
 description: "German digital library"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1645155"
 latitude: 48.14766
 longitude: 11.58076
 images:
-  []
----
+  []---
 
 ## Overview
 

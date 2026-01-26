@@ -4,13 +4,13 @@ site_name: "Burg Neudeck, Bayern"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Birnbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Birnbach"
+  - "Bavaria"
 wikidata_id: "Q1013256"
 latitude: 48.4281
 longitude: 13.0669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/400px-Schloss-Neudeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/800px-Schloss-Neudeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/1200px-Schloss-Neudeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/1920px-Schloss-Neudeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/1920px-Schloss-Neudeck.jpg---
 
 ## Overview
 

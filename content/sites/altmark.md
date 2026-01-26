@@ -4,13 +4,13 @@ site_name: "Altmark"
 date: 2026-01-26
 draft: false
 description: "region in the north west of Saxony-Anhalt, Germany"
-region: "Stendal District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Stendal District"
+  - "Brandenburg"
 wikidata_id: "Q442655"
 latitude: 52.716666666
 longitude: 11.4
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/400px-Stendal-roland.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/800px-Stendal-roland.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/1200px-Stendal-roland.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/1920px-Stendal-roland.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/1920px-Stendal-roland.jpg---
 
 ## Overview
 

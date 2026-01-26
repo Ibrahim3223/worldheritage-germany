@@ -4,13 +4,13 @@ site_name: "Gut Grubnow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Neuenkirchen auf der Insel Rügen"
-region: "Neuenkirchen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Neuenkirchen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1556934"
 latitude: 54.553615
 longitude: 13.351003
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gut_Grubnow.jpg/400px-Gut_Grubnow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gut_Grubnow.jpg/800px-Gut_Grubnow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gut_Grubnow.jpg/1200px-Gut_Grubnow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gut_Grubnow.jpg/1920px-Gut_Grubnow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gut_Grubnow.jpg/1920px-Gut_Grubnow.jpg---
 
 ## Overview
 

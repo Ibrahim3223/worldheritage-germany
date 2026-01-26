@@ -4,13 +4,13 @@ site_name: "Gutskirche Vollenschier"
 date: 2026-01-26
 draft: false
 description: "Protestant church of the former Vollenschier estate, a village belonging to the Stendal district of Wittenmoor in Saxony-Anhalt"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q1557314"
 latitude: 52.5341
 longitude: 11.6616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/400px-Gutskirche_Vollenschier2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/800px-Gutskirche_Vollenschier2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1200px-Gutskirche_Vollenschier2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1920px-Gutskirche_Vollenschier2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1920px-Gutskirche_Vollenschier2.JPG---
 
 ## Overview
 

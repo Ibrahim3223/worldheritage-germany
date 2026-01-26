@@ -4,13 +4,13 @@ site_name: "St. Dionysius"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Nordwalde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nordwalde"
+  - "Lower Saxony"
 wikidata_id: "Q1235504"
 latitude: 52.0853
 longitude: 7.48026
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/400px-Katholische_Kirche_Nordwalde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/800px-Katholische_Kirche_Nordwalde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/1200px-Katholische_Kirche_Nordwalde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/1920px-Katholische_Kirche_Nordwalde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/1920px-Katholische_Kirche_Nordwalde.jpg---
 
 ## Overview
 

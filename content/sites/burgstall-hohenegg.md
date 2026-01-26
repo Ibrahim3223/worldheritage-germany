@@ -4,13 +4,13 @@ site_name: "Burgstall Hohenegg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grünenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grünenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012399"
 latitude: 47.628
 longitude: 10.04
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burgstall_Hohenegg_GO-3.jpg/400px-Burgstall_Hohenegg_GO-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burgstall_Hohenegg_GO-3.jpg/800px-Burgstall_Hohenegg_GO-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burgstall_Hohenegg_GO-3.jpg/1200px-Burgstall_Hohenegg_GO-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burgstall_Hohenegg_GO-3.jpg/1920px-Burgstall_Hohenegg_GO-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burgstall_Hohenegg_GO-3.jpg/1920px-Burgstall_Hohenegg_GO-3.jpg---
 
 ## Overview
 

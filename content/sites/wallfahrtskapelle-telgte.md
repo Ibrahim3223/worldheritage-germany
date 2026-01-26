@@ -4,13 +4,13 @@ site_name: "Wallfahrtskapelle Telgte"
 date: 2026-01-26
 draft: false
 description: "church building in Telgte, Germany"
-region: "Telgte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Telgte"
+  - "Lower Saxony"
 wikidata_id: "Q1897752"
 latitude: 51.985
 longitude: 7.78617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/400px-WallfahrtskapelleTelgte.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/800px-WallfahrtskapelleTelgte.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/1200px-WallfahrtskapelleTelgte.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/1920px-WallfahrtskapelleTelgte.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/1920px-WallfahrtskapelleTelgte.JPG---
 
 ## Overview
 

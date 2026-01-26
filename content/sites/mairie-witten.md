@@ -4,19 +4,18 @@ site_name: "Mairie Witten"
 date: 2026-01-26
 draft: false
 description: "ehemalige Verwaltungseinheit im Raum Witten, Nordrhein-Westfalen, Deutschland"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q1885808"
 latitude: 51.450369444
 longitude: 7.332686111
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schleswig-Holsteinisches Freilichtmuseum"
 date: 2026-01-26
 draft: false
 description: "Open-air museum in Germany"
-region: "Molfsee"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Molfsee"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2239322"
 latitude: 54.2752
 longitude: 10.079
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/400px-Torhaus_Kürbis.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/800px-Torhaus_Kürbis.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/1200px-Torhaus_Kürbis.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/1920px-Torhaus_Kürbis.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/1920px-Torhaus_Kürbis.JPG---
 
 ## Overview
 

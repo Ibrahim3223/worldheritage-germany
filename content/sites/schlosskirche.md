@@ -4,13 +4,13 @@ site_name: "Schlosskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Neustrelitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustrelitz"
+  - "Brandenburg"
 wikidata_id: "Q1325389"
 latitude: 53.3597
 longitude: 13.0589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Schlosskirche_(Neustrelitz)_Front.jpg/400px-Schlosskirche_(Neustrelitz)_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Schlosskirche_(Neustrelitz)_Front.jpg/800px-Schlosskirche_(Neustrelitz)_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Schlosskirche_(Neustrelitz)_Front.jpg/1200px-Schlosskirche_(Neustrelitz)_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Schlosskirche_(Neustrelitz)_Front.jpg/1920px-Schlosskirche_(Neustrelitz)_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Schlosskirche_(Neustrelitz)_Front.jpg/1920px-Schlosskirche_(Neustrelitz)_Front.jpg---
 
 ## Overview
 

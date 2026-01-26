@@ -4,13 +4,13 @@ site_name: "Rathaus Beelitz"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Beelitz, Landkreis Potsdam-Mittelmark, Brandenburg"
-region: "Beelitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Beelitz"
+  - "Brandenburg"
 wikidata_id: "Q125737991"
 latitude: 52.232658
 longitude: 12.977509
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/400px-Beelitz,_das_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/800px-Beelitz,_das_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/1200px-Beelitz,_das_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/1920px-Beelitz,_das_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/1920px-Beelitz,_das_Rathaus.jpg---
 
 ## Overview
 

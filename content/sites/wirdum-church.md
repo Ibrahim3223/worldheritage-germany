@@ -4,13 +4,13 @@ site_name: "Wirdum Church"
 date: 2026-01-26
 draft: false
 description: "church building in Wirdum, Germany"
-region: "Wirdum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wirdum"
+  - "Lower Saxony"
 wikidata_id: "Q1861961"
 latitude: 53.478197
 longitude: 7.206486
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Wirdum.jpg/400px-Kirche_Wirdum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Wirdum.jpg/800px-Kirche_Wirdum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Wirdum.jpg/1200px-Kirche_Wirdum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Wirdum.jpg/1920px-Kirche_Wirdum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Wirdum.jpg/1920px-Kirche_Wirdum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum der Brotkultur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954536"
 latitude: 48.401
 longitude: 9.99008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/400px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/800px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/1200px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/1920px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/1920px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Alte Trotte im Trotthaus Alsenhof"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631354"
 latitude: 48.651947
 longitude: 8.13764
 images:
-  []
----
+  []---
 
 ## Overview
 

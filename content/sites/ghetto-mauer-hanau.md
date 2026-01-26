@@ -4,13 +4,13 @@ site_name: "Ghetto-Mauer Hanau"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q1509673"
 latitude: 50.1357
 longitude: 8.91992
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ghetto-Mauer_Hanau.jpg/400px-Ghetto-Mauer_Hanau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ghetto-Mauer_Hanau.jpg/800px-Ghetto-Mauer_Hanau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ghetto-Mauer_Hanau.jpg/1200px-Ghetto-Mauer_Hanau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ghetto-Mauer_Hanau.jpg/1920px-Ghetto-Mauer_Hanau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ghetto-Mauer_Hanau.jpg/1920px-Ghetto-Mauer_Hanau.jpg---
 
 # Ghetto-Mauer Hanau: A Memorial to Remember
 

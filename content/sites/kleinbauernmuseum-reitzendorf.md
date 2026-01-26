@@ -4,13 +4,13 @@ site_name: "Kleinbauernmuseum Reitzendorf"
 date: 2026-01-26
 draft: false
 description: "local museum near Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1552844"
 latitude: 51.0267
 longitude: 13.9036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/400px-Kleinbauernmuseum_Reitzendorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/800px-Kleinbauernmuseum_Reitzendorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/1200px-Kleinbauernmuseum_Reitzendorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/1920px-Kleinbauernmuseum_Reitzendorf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/1920px-Kleinbauernmuseum_Reitzendorf.JPG---
 
 ## Overview
 

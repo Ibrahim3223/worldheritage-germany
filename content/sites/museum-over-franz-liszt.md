@@ -4,13 +4,13 @@ site_name: "museum over Franz Liszt"
 date: 2026-01-26
 draft: false
 description: "museum on Franz Liszt"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1864959"
 latitude: 50.9748
 longitude: 11.33
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Liszthaus_in_Weimar_(Südostansicht).jpg/400px-Liszthaus_in_Weimar_(Südostansicht).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Liszthaus_in_Weimar_(Südostansicht).jpg/800px-Liszthaus_in_Weimar_(Südostansicht).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Liszthaus_in_Weimar_(Südostansicht).jpg/1200px-Liszthaus_in_Weimar_(Südostansicht).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Liszthaus_in_Weimar_(Südostansicht).jpg/1920px-Liszthaus_in_Weimar_(Südostansicht).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Liszthaus_in_Weimar_(Südostansicht).jpg/1920px-Liszthaus_in_Weimar_(Südostansicht).jpg---
 
 ## Overview
 

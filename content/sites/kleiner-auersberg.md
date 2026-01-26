@@ -4,13 +4,13 @@ site_name: "Kleiner Auersberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1393390"
 latitude: 50.36008
 longitude: 9.841
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/400px-Kleiner_Auersberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/800px-Kleiner_Auersberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/1200px-Kleiner_Auersberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/1920px-Kleiner_Auersberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/1920px-Kleiner_Auersberg.JPG---
 
 ## Overview
 

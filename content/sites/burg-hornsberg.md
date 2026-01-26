@@ -4,13 +4,13 @@ site_name: "Burg Hornsberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Heringen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heringen"
+  - "Hesse"
 wikidata_id: "Q1012495"
 latitude: 50.9069
 longitude: 9.98537
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WAK_DKMSHSN_HORNSBG.jpg/400px-WAK_DKMSHSN_HORNSBG.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WAK_DKMSHSN_HORNSBG.jpg/800px-WAK_DKMSHSN_HORNSBG.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WAK_DKMSHSN_HORNSBG.jpg/1200px-WAK_DKMSHSN_HORNSBG.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WAK_DKMSHSN_HORNSBG.jpg/1920px-WAK_DKMSHSN_HORNSBG.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WAK_DKMSHSN_HORNSBG.jpg/1920px-WAK_DKMSHSN_HORNSBG.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rügen"
 date: 2026-01-26
 draft: false
 description: "island in the Baltic Sea off the Pomeranian coast of Germany"
-region: "Western Pomerania-Rügen District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Western Pomerania-Rügen District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q3237"
 latitude: 54.45
 longitude: 13.4
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/400px-Satellite_Image_of_Ruegen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/800px-Satellite_Image_of_Ruegen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/1200px-Satellite_Image_of_Ruegen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/1920px-Satellite_Image_of_Ruegen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/1920px-Satellite_Image_of_Ruegen.jpg---
 
 ## Overview
 

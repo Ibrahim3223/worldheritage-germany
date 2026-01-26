@@ -4,19 +4,18 @@ site_name: "Brauhaus am Kreuzberg"
 date: 2026-01-26
 draft: false
 description: "German brewery"
-region: "Hallerndorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Hallerndorf"
+  - "Bavaria"
 wikidata_id: "Q900510"
 latitude: 49.7591
 longitude: 10.9555
 images:
-  []
----
+  []---
 
 ## Overview
 

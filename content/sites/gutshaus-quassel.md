@@ -4,13 +4,13 @@ site_name: "Gutshaus Quassel"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Lübtheen im Landkreis Ludwigslust-Parchim (Mecklenburg-Vorpommern)"
-region: "Lübtheen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lübtheen"
+  - "Lower Saxony"
 wikidata_id: "Q1480745"
 latitude: 53.3324
 longitude: 11.079
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/400px-Gut_Quassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/800px-Gut_Quassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/1200px-Gut_Quassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/1920px-Gut_Quassel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/1920px-Gut_Quassel.jpg---
 
 ## Overview
 

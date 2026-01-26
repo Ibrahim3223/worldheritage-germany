@@ -4,13 +4,13 @@ site_name: "Fernmeldehochhaus"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1407005"
 latitude: 50.1154
 longitude: 8.68056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/400px-Fernmeldehochhaus_Frankfurt_1995.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/800px-Fernmeldehochhaus_Frankfurt_1995.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/1200px-Fernmeldehochhaus_Frankfurt_1995.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/1920px-Fernmeldehochhaus_Frankfurt_1995.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/1920px-Fernmeldehochhaus_Frankfurt_1995.jpg---
 
 ## Overview
 

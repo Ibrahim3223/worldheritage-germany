@@ -4,13 +4,13 @@ site_name: "Burg Habitzheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Otzberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Otzberg"
+  - "Hesse"
 wikidata_id: "Q1012146"
 latitude: 49.8508
 longitude: 8.87828
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/400px-Burg-Habitzheim_Hofeingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/800px-Burg-Habitzheim_Hofeingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/1200px-Burg-Habitzheim_Hofeingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/1920px-Burg-Habitzheim_Hofeingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/1920px-Burg-Habitzheim_Hofeingang.jpg---
 
 ## Overview
 

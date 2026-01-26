@@ -4,19 +4,18 @@ site_name: "German Heart Research Foundation"
 date: 2026-01-26
 draft: false
 description: "facility in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1204219"
 latitude: 50.119491
 longitude: 8.659278
 images:
-  []
----
+  []---
 
 ## Overview
 

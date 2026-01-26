@@ -4,13 +4,13 @@ site_name: "Amtshaus"
 date: 2026-01-26
 draft: false
 description: "building in Grünsfeld, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Grünsfeld"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grünsfeld"
+  - "Baden-Württemberg"
 wikidata_id: "Q481219"
 latitude: 49.6084
 longitude: 9.7457
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/400px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/800px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/1200px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/1920px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/1920px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg---
 
 ## Overview
 

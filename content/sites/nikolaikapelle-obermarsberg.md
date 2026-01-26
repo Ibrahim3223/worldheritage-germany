@@ -4,13 +4,13 @@ site_name: "Nikolaikapelle (Obermarsberg)"
 date: 2026-01-26
 draft: false
 description: "church building in Marsberg, Germany"
-region: "Marsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marsberg"
+  - "Hesse"
 wikidata_id: "Q2322074"
 latitude: 51.4497
 longitude: 8.85125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/400px-Nikolaikapelle_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/800px-Nikolaikapelle_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/1200px-Nikolaikapelle_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/1920px-Nikolaikapelle_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/1920px-Nikolaikapelle_2011.jpg---
 
 ## Overview
 

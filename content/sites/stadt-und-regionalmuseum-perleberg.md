@@ -4,19 +4,18 @@ site_name: "Stadt- und Regionalmuseum Perleberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Perleberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Perleberg"
+  - "Brandenburg"
 wikidata_id: "Q14550981"
 latitude: 53.0762
 longitude: 11.8606
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Marmorpalais"
 date: 2026-01-26
 draft: false
 description: "château in Potsdam, Brandenburg, Germany"
-region: "Nördliche Vorstädte"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nördliche Vorstädte"
+  - "Brandenburg"
 wikidata_id: "Q573662"
 latitude: 52.412672222
 longitude: 13.06975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/400px-Marmorpalais_mit_Vorgarten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/800px-Marmorpalais_mit_Vorgarten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/1200px-Marmorpalais_mit_Vorgarten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/1920px-Marmorpalais_mit_Vorgarten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/1920px-Marmorpalais_mit_Vorgarten.JPG---
 
 ## Overview
 

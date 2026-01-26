@@ -4,13 +4,13 @@ site_name: "Cismar Abbey"
 date: 2026-01-26
 draft: false
 description: "former abbey in Germany"
-region: "Grömitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grömitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1775138"
 latitude: 54.19
 longitude: 10.985833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/400px-Kloster_Cismar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/800px-Kloster_Cismar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/1200px-Kloster_Cismar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/1920px-Kloster_Cismar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/1920px-Kloster_Cismar.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Eilvese transmitter"
 date: 2026-01-26
 draft: false
 description: "former long-range transmitter near Hannover, Germany"
-region: "Neustadt am Rübenberge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Neustadt am Rübenberge"
+  - "Lower Saxony"
 wikidata_id: "Q333551"
 latitude: 52.527778
 longitude: 9.406667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/400px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/800px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1200px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1920px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1920px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png---
 
 ## Overview
 

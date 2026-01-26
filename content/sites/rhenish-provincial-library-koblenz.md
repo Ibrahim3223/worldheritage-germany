@@ -4,13 +4,13 @@ site_name: "Rhenish provincial library Koblenz"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1689465"
 latitude: 50.3492
 longitude: 7.58889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/400px-Rheinische_Landesbibliothek_Koblenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/800px-Rheinische_Landesbibliothek_Koblenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/1200px-Rheinische_Landesbibliothek_Koblenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/1920px-Rheinische_Landesbibliothek_Koblenz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/1920px-Rheinische_Landesbibliothek_Koblenz.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "CGM Arena"
 date: 2026-01-26
 draft: false
 description: "Multifunktionsarena im Sportpark Oberwerth in Koblenz, zweitgrößte Halle in Rheinland-Pfalz"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q14548178"
 latitude: 50.3314
 longitude: 7.58472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Conlog_Arena_01_Kolbenz_2013.jpg/400px-Conlog_Arena_01_Kolbenz_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Conlog_Arena_01_Kolbenz_2013.jpg/800px-Conlog_Arena_01_Kolbenz_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Conlog_Arena_01_Kolbenz_2013.jpg/1200px-Conlog_Arena_01_Kolbenz_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Conlog_Arena_01_Kolbenz_2013.jpg/1920px-Conlog_Arena_01_Kolbenz_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Conlog_Arena_01_Kolbenz_2013.jpg/1920px-Conlog_Arena_01_Kolbenz_2013.jpg---
 
 ## Overview
 

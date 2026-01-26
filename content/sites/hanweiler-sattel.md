@@ -4,13 +4,13 @@ site_name: "Hanweiler Sattel"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "Korb"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Korb"
+  - "Baden-Württemberg"
 wikidata_id: "Q1584047"
 latitude: 48.8504
 longitude: 9.37736
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/400px-Hanweiler_Sattel_Passhöhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/800px-Hanweiler_Sattel_Passhöhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/1200px-Hanweiler_Sattel_Passhöhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/1920px-Hanweiler_Sattel_Passhöhe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/1920px-Hanweiler_Sattel_Passhöhe.jpg---
 
 ## Overview
 

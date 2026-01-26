@@ -4,13 +4,13 @@ site_name: "Burg Ingenhoven"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nettetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nettetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012558"
 latitude: 51.3052
 longitude: 6.279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/400px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/800px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/1200px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/1920px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/1920px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG---
 
 ## Overview
 

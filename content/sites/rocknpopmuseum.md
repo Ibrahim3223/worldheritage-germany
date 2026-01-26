@@ -4,13 +4,13 @@ site_name: "rock'n'popmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Gronau, Germany"
-region: "Gronau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gronau"
+  - "Lower Saxony"
 wikidata_id: "Q19299261"
 latitude: 52.21393
 longitude: 7.02585
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/400px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/800px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/1200px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/1920px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/1920px-Gronau_muzeo_Rock’n’popmuseum_1.JPG---
 
 ## Overview
 

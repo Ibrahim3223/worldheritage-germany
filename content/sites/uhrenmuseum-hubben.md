@@ -4,19 +4,18 @@ site_name: "Uhrenmuseum Hubben"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neukirchen-Vluyn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neukirchen-Vluyn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q13397736"
 latitude: 51.438342956
 longitude: 6.532557242
 images:
-  []
----
+  []---
 
 ## Overview
 

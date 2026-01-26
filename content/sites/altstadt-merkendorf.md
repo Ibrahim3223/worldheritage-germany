@@ -4,13 +4,13 @@ site_name: "Altstadt Merkendorf"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Merkendorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Merkendorf"
+  - "Bavaria"
 wikidata_id: "Q445584"
 latitude: 49.204
 longitude: 10.7017
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Merkendorf,_Marktplatz-001.jpg/400px-Merkendorf,_Marktplatz-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Merkendorf,_Marktplatz-001.jpg/800px-Merkendorf,_Marktplatz-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Merkendorf,_Marktplatz-001.jpg/1200px-Merkendorf,_Marktplatz-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Merkendorf,_Marktplatz-001.jpg/1920px-Merkendorf,_Marktplatz-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Merkendorf,_Marktplatz-001.jpg/1920px-Merkendorf,_Marktplatz-001.jpg---
 
 ## Overview
 

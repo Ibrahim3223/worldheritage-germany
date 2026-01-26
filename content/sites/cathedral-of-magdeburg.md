@@ -4,13 +4,13 @@ site_name: "Cathedral of Magdeburg"
 date: 2026-01-26
 draft: false
 description: "Protestant cathedral in Magdeburg, Germany; oldest Gothic cathedral in Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q668341"
 latitude: 52.124722222
 longitude: 11.634444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/400px-Magdeburger_Dom_Cathedral_(40705658233).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/800px-Magdeburger_Dom_Cathedral_(40705658233).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1200px-Magdeburger_Dom_Cathedral_(40705658233).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1920px-Magdeburger_Dom_Cathedral_(40705658233).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1920px-Magdeburger_Dom_Cathedral_(40705658233).jpg---
 
 ## Overview
 

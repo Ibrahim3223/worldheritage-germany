@@ -4,13 +4,13 @@ site_name: "St.-Marien-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bochum, Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q2316439"
 latitude: 51.47746111
 longitude: 7.21491667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/400px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/800px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/1200px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/1920px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/1920px-Pfarrkirche_St._Marien_in_Bochum_02.jpg---
 
 ## Overview
 

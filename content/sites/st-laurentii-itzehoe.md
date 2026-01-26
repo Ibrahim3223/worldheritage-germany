@@ -4,13 +4,13 @@ site_name: "St. Laurentii, Itzehoe"
 date: 2026-01-26
 draft: false
 description: "church building in Itzehoe, Germany"
-region: "Itzehoe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Itzehoe"
+  - "Lower Saxony"
 wikidata_id: "Q2327446"
 latitude: 53.9235
 longitude: 9.51822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/400px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/800px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/1200px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/1920px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/1920px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg---
 
 ## Overview
 

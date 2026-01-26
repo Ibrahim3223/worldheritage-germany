@@ -4,13 +4,13 @@ site_name: "Walderbach Abbey"
 date: 2026-01-26
 draft: false
 description: "Zisterzienserkloster in Walderbach, Landkreis Cham, Oberpfalz, Bayern"
-region: "Walderbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Walderbach"
+  - "Bavaria"
 wikidata_id: "Q1776252"
 latitude: 49.184152141
 longitude: 12.378276993
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WALDERBACH_KIRCHE.jpg/400px-WALDERBACH_KIRCHE.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WALDERBACH_KIRCHE.jpg/800px-WALDERBACH_KIRCHE.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WALDERBACH_KIRCHE.jpg/1200px-WALDERBACH_KIRCHE.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WALDERBACH_KIRCHE.jpg/1920px-WALDERBACH_KIRCHE.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WALDERBACH_KIRCHE.jpg/1920px-WALDERBACH_KIRCHE.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Antonius (Großräschen)"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state"
-region: "Großräschen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Großräschen"
+  - "Brandenburg"
 wikidata_id: "Q1686694"
 latitude: 51.5915
 longitude: 14.009277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grossraeschen_antoniuskirche3.JPG/400px-Grossraeschen_antoniuskirche3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grossraeschen_antoniuskirche3.JPG/800px-Grossraeschen_antoniuskirche3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grossraeschen_antoniuskirche3.JPG/1200px-Grossraeschen_antoniuskirche3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grossraeschen_antoniuskirche3.JPG/1920px-Grossraeschen_antoniuskirche3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Grossraeschen_antoniuskirche3.JPG/1920px-Grossraeschen_antoniuskirche3.JPG---
 
 ## Overview
 

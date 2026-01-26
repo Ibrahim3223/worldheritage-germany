@@ -4,19 +4,18 @@ site_name: "Schloss Veitshöchheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629650"
 latitude: 49.828889
 longitude: 9.876308
 images:
-  []
----
+  []---
 
 ## Overview
 

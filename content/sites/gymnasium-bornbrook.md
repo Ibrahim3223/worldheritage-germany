@@ -4,19 +4,18 @@ site_name: "Gymnasium Bornbrook"
 date: 2026-01-26
 draft: false
 description: "gymnasium"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q1558081"
 latitude: 53.50777778
 longitude: 10.19472222
 images:
-  []
----
+  []---
 
 ## Overview
 

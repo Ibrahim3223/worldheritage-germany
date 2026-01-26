@@ -4,13 +4,13 @@ site_name: "König-Konrad-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Villmar, Germany"
-region: "Villmar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Villmar"
+  - "Hesse"
 wikidata_id: "Q1147672"
 latitude: 50.3919
 longitude: 8.17769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/400px-König_Konrad-Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/800px-König_Konrad-Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/1200px-König_Konrad-Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/1920px-König_Konrad-Denkmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/1920px-König_Konrad-Denkmal.JPG---
 
 ## Overview
 

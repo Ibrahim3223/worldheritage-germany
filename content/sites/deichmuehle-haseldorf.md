@@ -4,13 +4,13 @@ site_name: "Deichmühle Haseldorf"
 date: 2026-01-26
 draft: false
 description: "Windmühle im Kreis Pinneberg"
-region: "Haseldorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Haseldorf"
+  - "Lower Saxony"
 wikidata_id: "Q1183140"
 latitude: 53.6379
 longitude: 9.59013
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/400px-Haseldorf_Deichmühle_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/800px-Haseldorf_Deichmühle_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/1200px-Haseldorf_Deichmühle_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/1920px-Haseldorf_Deichmühle_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/1920px-Haseldorf_Deichmühle_2.jpg---
 
 ## Overview
 

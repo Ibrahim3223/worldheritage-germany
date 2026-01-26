@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8029-0093 in Irsee"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Irsee, Ostallgäu, Swabia, Bavaria, Germany"
-region: "Irsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Irsee"
+  - "Bavaria"
 wikidata_id: "Q98290566"
 latitude: 47.915110334
 longitude: 10.594507074
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alter Markt"
 date: 2026-01-26
 draft: false
 description: "square in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q438091"
 latitude: 52.3958
 longitude: 13.0611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/400px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/800px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/1200px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/1920px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/1920px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kirche Zarnekow"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Karlsburg"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Karlsburg"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1708278"
 latitude: 53.9858
 longitude: 13.6011
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/400px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/800px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1200px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1920px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1920px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Blankenburg (Harz) station"
 date: 2026-01-26
 draft: false
 description: "railway station in Blankenburg, Germany"
-region: "Blankenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Blankenburg"
+  - "Lower Saxony"
 wikidata_id: "Q322393"
 latitude: 51.795659
 longitude: 10.960954
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/400px-Blankenburg_Bahnhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/800px-Blankenburg_Bahnhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/1200px-Blankenburg_Bahnhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/1920px-Blankenburg_Bahnhof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/1920px-Blankenburg_Bahnhof.JPG---
 
 ## Overview
 

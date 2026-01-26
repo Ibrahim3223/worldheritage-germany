@@ -4,13 +4,13 @@ site_name: "Leopold-Hoesch-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Düren, Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q600801"
 latitude: 50.8015
 longitude: 6.47933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/400px-Dueren_leopold-hoesch-museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/800px-Dueren_leopold-hoesch-museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/1200px-Dueren_leopold-hoesch-museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/1920px-Dueren_leopold-hoesch-museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/1920px-Dueren_leopold-hoesch-museum.jpg---
 
 ## Overview
 

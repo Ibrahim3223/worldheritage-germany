@@ -4,13 +4,13 @@ site_name: "Schumannhaus Bonn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2251849"
 latitude: 50.7243
 longitude: 7.07728
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/400px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/800px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/1200px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/1920px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/1920px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg---
 
 ## Overview
 

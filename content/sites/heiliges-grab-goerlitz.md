@@ -4,13 +4,13 @@ site_name: "Heiliges Grab Görlitz"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q1595319"
 latitude: 51.15924
 longitude: 14.98269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heiliges_Grab(Goerlitz)2005.jpg/400px-Heiliges_Grab(Goerlitz)2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heiliges_Grab(Goerlitz)2005.jpg/800px-Heiliges_Grab(Goerlitz)2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heiliges_Grab(Goerlitz)2005.jpg/1200px-Heiliges_Grab(Goerlitz)2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heiliges_Grab(Goerlitz)2005.jpg/1920px-Heiliges_Grab(Goerlitz)2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Heiliges_Grab(Goerlitz)2005.jpg/1920px-Heiliges_Grab(Goerlitz)2005.jpg---
 
 ## Overview
 

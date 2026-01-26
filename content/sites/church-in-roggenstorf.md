@@ -4,13 +4,13 @@ site_name: "Church in Roggenstorf"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Roggenstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Roggenstorf"
+  - "Lower Saxony"
 wikidata_id: "Q1244669"
 latitude: 53.9137
 longitude: 11.0666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/400px-Roggenstorf_Kirche_2012-03-15_057.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/800px-Roggenstorf_Kirche_2012-03-15_057.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1200px-Roggenstorf_Kirche_2012-03-15_057.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1920px-Roggenstorf_Kirche_2012-03-15_057.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1920px-Roggenstorf_Kirche_2012-03-15_057.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Petri (Fehmarn)"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Fehmarn"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Fehmarn"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1147430"
 latitude: 54.4508
 longitude: 11.1464
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fehmarn_-_Landkirchen_-_Kirche.JPG/400px-Fehmarn_-_Landkirchen_-_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fehmarn_-_Landkirchen_-_Kirche.JPG/800px-Fehmarn_-_Landkirchen_-_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fehmarn_-_Landkirchen_-_Kirche.JPG/1200px-Fehmarn_-_Landkirchen_-_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fehmarn_-_Landkirchen_-_Kirche.JPG/1920px-Fehmarn_-_Landkirchen_-_Kirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fehmarn_-_Landkirchen_-_Kirche.JPG/1920px-Fehmarn_-_Landkirchen_-_Kirche.JPG---
 
 ## Overview
 

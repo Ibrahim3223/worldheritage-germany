@@ -4,13 +4,13 @@ site_name: "Burg Hof am Regen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Q529176"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Q529176"
+  - "Bavaria"
 wikidata_id: "Q1012379"
 latitude: 49.207083333
 longitude: 12.216527777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/400px-Burg_Hof_a_Regen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/800px-Burg_Hof_a_Regen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/1200px-Burg_Hof_a_Regen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/1920px-Burg_Hof_a_Regen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/1920px-Burg_Hof_a_Regen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Weaving Museum Braunsdorf"
 date: 2026-01-26
 draft: false
 description: "textile museum in Germany"
-region: "Niederwiesa"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Niederwiesa"
+  - "Saxony"
 wikidata_id: "Q49364929"
 latitude: 50.875252
 longitude: 13.026764
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Historische_Schauweberei_Braunsdorf_20200928.jpg/400px-Historische_Schauweberei_Braunsdorf_20200928.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Historische_Schauweberei_Braunsdorf_20200928.jpg/800px-Historische_Schauweberei_Braunsdorf_20200928.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Historische_Schauweberei_Braunsdorf_20200928.jpg/1200px-Historische_Schauweberei_Braunsdorf_20200928.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Historische_Schauweberei_Braunsdorf_20200928.jpg/1920px-Historische_Schauweberei_Braunsdorf_20200928.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Historische_Schauweberei_Braunsdorf_20200928.jpg/1920px-Historische_Schauweberei_Braunsdorf_20200928.jpg---
 
 ## Overview
 

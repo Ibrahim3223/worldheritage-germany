@@ -4,13 +4,13 @@ site_name: "Jubiläumssäule"
 date: 2026-01-26
 draft: false
 description: "Monument at the Schloßplatz in Stuttgart"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1710783"
 latitude: 48.7785
 longitude: 9.17991
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/400px-Stuttgart_Jubiläumssäule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/800px-Stuttgart_Jubiläumssäule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/1200px-Stuttgart_Jubiläumssäule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/1920px-Stuttgart_Jubiläumssäule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/1920px-Stuttgart_Jubiläumssäule.jpg---
 
 ## Overview
 

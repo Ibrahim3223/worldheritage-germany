@@ -4,13 +4,13 @@ site_name: "Paulinerkirche - Historisches Gebäude der Niedersächsischen Staats
 date: 2026-01-26
 draft: false
 description: "museum in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636099"
 latitude: 51.533875
 longitude: 9.932238
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/400px-Paulinerkirche_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/800px-Paulinerkirche_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/1200px-Paulinerkirche_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/1920px-Paulinerkirche_Göttingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paulinerkirche_Göttingen.jpg/1920px-Paulinerkirche_Göttingen.jpg---
 
 ## Overview
 

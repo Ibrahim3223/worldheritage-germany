@@ -4,13 +4,13 @@ site_name: "Maria Magdalena"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Werl"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Werl"
+  - "Hesse"
 wikidata_id: "Q1563286"
 latitude: 51.581
 longitude: 7.97271
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/400px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/800px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/1200px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/1920px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/1920px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG---
 
 ## Overview
 

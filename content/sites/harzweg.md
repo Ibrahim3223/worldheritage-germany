@@ -4,13 +4,13 @@ site_name: "Harzweg"
 date: 2026-01-26
 draft: false
 description: "street with buildings in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15402239"
 latitude: 51.784365
 longitude: 11.14937
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/400px-Harzweg_(Quedlinburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/800px-Harzweg_(Quedlinburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/1200px-Harzweg_(Quedlinburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/1920px-Harzweg_(Quedlinburg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/1920px-Harzweg_(Quedlinburg).jpg---
 
 ## Overview
 

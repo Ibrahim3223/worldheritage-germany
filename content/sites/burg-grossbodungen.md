@@ -4,13 +4,13 @@ site_name: "Burg Großbodungen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Am Ohmberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Am Ohmberg"
+  - "Lower Saxony"
 wikidata_id: "Q1012066"
 latitude: 51.4747
 longitude: 10.4794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burg_Großbodungen_-_Westseite.jpg/400px-Burg_Großbodungen_-_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burg_Großbodungen_-_Westseite.jpg/800px-Burg_Großbodungen_-_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burg_Großbodungen_-_Westseite.jpg/1200px-Burg_Großbodungen_-_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burg_Großbodungen_-_Westseite.jpg/1920px-Burg_Großbodungen_-_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burg_Großbodungen_-_Westseite.jpg/1920px-Burg_Großbodungen_-_Westseite.jpg---
 
 ## Overview
 

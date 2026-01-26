@@ -4,13 +4,13 @@ site_name: "Zoo Neuwied"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Neuwied"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Neuwied"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q220065"
 latitude: 50.4531
 longitude: 7.5625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/400px-Zoo-neuwied-allee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/800px-Zoo-neuwied-allee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/1200px-Zoo-neuwied-allee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/1920px-Zoo-neuwied-allee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/1920px-Zoo-neuwied-allee.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Brücke und Einfriedungsmauer (Einzeldenkmal zu ID-Nr. 09253022) Mil
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Radibor"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Radibor"
+  - "Saxony"
 wikidata_id: "Q49410753"
 latitude: 51.231117
 longitude: 14.359006
 images:
-  []
----
+  []---
 
 ## Overview
 

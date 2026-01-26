@@ -4,13 +4,13 @@ site_name: "Burg Konzenberg"
 date: 2026-01-26
 draft: false
 description: "ruins of castle in Germany"
-region: "Wurmlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wurmlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012703"
 latitude: 47.98888889
 longitude: 8.74527778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Konzenberg01.jpg/400px-Konzenberg01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Konzenberg01.jpg/800px-Konzenberg01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Konzenberg01.jpg/1200px-Konzenberg01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Konzenberg01.jpg/1920px-Konzenberg01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Konzenberg01.jpg/1920px-Konzenberg01.jpg---
 
 ## Overview
 

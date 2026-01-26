@@ -4,13 +4,13 @@ site_name: "Bärwalder See"
 date: 2026-01-26
 draft: false
 description: "lake"
-region: "Boxberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Boxberg"
+  - "Saxony"
 wikidata_id: "Q159885"
 latitude: 51.366666666
 longitude: 14.533333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/400px-Kraftwerk_Boxberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/800px-Kraftwerk_Boxberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/1200px-Kraftwerk_Boxberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/1920px-Kraftwerk_Boxberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/1920px-Kraftwerk_Boxberg.JPG---
 
 ## Overview
 

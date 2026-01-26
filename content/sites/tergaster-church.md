@@ -4,13 +4,13 @@ site_name: "Tergaster Church"
 date: 2026-01-26
 draft: false
 description: "church in Germany"
-region: "Moormerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Moormerland"
+  - "Lower Saxony"
 wikidata_id: "Q1549151"
 latitude: 53.3353
 longitude: 7.3684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/400px-ChurchTergast.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/800px-ChurchTergast.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/1200px-ChurchTergast.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/1920px-ChurchTergast.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/1920px-ChurchTergast.JPG---
 
 ## Overview
 

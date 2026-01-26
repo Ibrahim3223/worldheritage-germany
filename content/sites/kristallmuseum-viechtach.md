@@ -4,13 +4,13 @@ site_name: "Kristallmuseum Viechtach"
 date: 2026-01-26
 draft: false
 description: "museum in Viechtach, Germany"
-region: "Viechtach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Viechtach"
+  - "Bavaria"
 wikidata_id: "Q76629653"
 latitude: 49.079985
 longitude: 12.885241
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kristallmuseum_Viechtach_9.jpg/400px-Kristallmuseum_Viechtach_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kristallmuseum_Viechtach_9.jpg/800px-Kristallmuseum_Viechtach_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kristallmuseum_Viechtach_9.jpg/1200px-Kristallmuseum_Viechtach_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kristallmuseum_Viechtach_9.jpg/1920px-Kristallmuseum_Viechtach_9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kristallmuseum_Viechtach_9.jpg/1920px-Kristallmuseum_Viechtach_9.jpg---
 
 ## Overview
 

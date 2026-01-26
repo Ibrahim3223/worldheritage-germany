@@ -4,19 +4,18 @@ site_name: "Garten des Einfamilienhauses Grabenstraße 40"
 date: 2026-01-26
 draft: false
 description: "garden in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q32319257"
 latitude: 52.424124
 longitude: 13.324793
 images:
-  []
----
+  []---
 
 ## Overview
 

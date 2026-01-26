@@ -4,13 +4,13 @@ site_name: "Hackesche Höfe"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q736425"
 latitude: 52.524167
 longitude: 13.402222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/400px-Hackesche_Höfe_Berlin1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/800px-Hackesche_Höfe_Berlin1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/1200px-Hackesche_Höfe_Berlin1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/1920px-Hackesche_Höfe_Berlin1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/1920px-Hackesche_Höfe_Berlin1.JPG---
 
 ## Overview
 

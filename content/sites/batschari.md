@@ -4,13 +4,13 @@ site_name: "Batschari"
 date: 2026-01-26
 draft: false
 description: "company"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q393125"
 latitude: 48.769298
 longitude: 8.23266
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/400px-Erdt_Illu1914_Batschari.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/800px-Erdt_Illu1914_Batschari.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1200px-Erdt_Illu1914_Batschari.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1920px-Erdt_Illu1914_Batschari.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1920px-Erdt_Illu1914_Batschari.jpg---
 
 ## Overview
 

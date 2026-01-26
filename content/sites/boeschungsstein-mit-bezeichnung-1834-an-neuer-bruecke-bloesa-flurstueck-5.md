@@ -4,19 +4,18 @@ site_name: "Böschungsstein mit Bezeichnung 1834 an neuer Brücke Blösa (Flurst
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Kubschütz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Kubschütz"
+  - "Saxony"
 wikidata_id: "Q49409161"
 latitude: 51.151807
 longitude: 14.50131
 images:
-  []
----
+  []---
 
 ## Overview
 

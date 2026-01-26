@@ -4,13 +4,13 @@ site_name: "Kapelle St. Emmeram"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bogenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bogenhausen"
+  - "Bavaria"
 wikidata_id: "Q1560443"
 latitude: 48.1772
 longitude: 11.6272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St_emmeramskirchlein.gif/400px-St_emmeramskirchlein.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St_emmeramskirchlein.gif/800px-St_emmeramskirchlein.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St_emmeramskirchlein.gif/1200px-St_emmeramskirchlein.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St_emmeramskirchlein.gif/1920px-St_emmeramskirchlein.gif
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St_emmeramskirchlein.gif/1920px-St_emmeramskirchlein.gif---
 
 ## Overview
 

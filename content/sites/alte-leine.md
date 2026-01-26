@@ -4,13 +4,13 @@ site_name: "Alte Leine"
 date: 2026-01-26
 draft: false
 description: "former nature reserve in Lower Saxony, Germany"
-region: "Laatzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Laatzen"
+  - "Lower Saxony"
 wikidata_id: "Q435862"
 latitude: 52.3022
 longitude: 9.77944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NSG_Alte_Leine_09.JPG/400px-NSG_Alte_Leine_09.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NSG_Alte_Leine_09.JPG/800px-NSG_Alte_Leine_09.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NSG_Alte_Leine_09.JPG/1200px-NSG_Alte_Leine_09.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NSG_Alte_Leine_09.JPG/1920px-NSG_Alte_Leine_09.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NSG_Alte_Leine_09.JPG/1920px-NSG_Alte_Leine_09.JPG---
 
 ## Overview
 

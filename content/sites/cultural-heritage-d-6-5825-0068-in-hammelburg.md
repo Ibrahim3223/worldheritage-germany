@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5825-0068 in Hammelburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Hammelburg, Bad Kissingen, Lower Franconia, Bavaria, Germany"
-region: "Hammelburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hammelburg"
+  - "Bavaria"
 wikidata_id: "Q98169968"
 latitude: 50.115916853
 longitude: 9.890531952
 images:
-  []
----
+  []---
 
 ## Overview
 

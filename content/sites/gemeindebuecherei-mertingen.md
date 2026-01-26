@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Mertingen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Mertingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Mertingen"
+  - "Bavaria"
 wikidata_id: "Q28729539"
 latitude: 48.65
 longitude: 10.7833
 images:
-  []
----
+  []---
 
 ## Overview
 

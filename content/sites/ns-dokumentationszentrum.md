@@ -4,13 +4,13 @@ site_name: "NS-Dokumentationszentrum"
 date: 2026-01-26
 draft: false
 description: "organization"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q1961427"
 latitude: 48.14527778
 longitude: 11.5675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/400px-NS-Dokumentationszentrum_München-7619.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/800px-NS-Dokumentationszentrum_München-7619.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/1200px-NS-Dokumentationszentrum_München-7619.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/1920px-NS-Dokumentationszentrum_München-7619.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/1920px-NS-Dokumentationszentrum_München-7619.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Liberei"
 date: 2026-01-26
 draft: false
 description: "building in Braunschweig, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1637130"
 latitude: 52.268
 longitude: 10.5209
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BS_Liberei.JPG/400px-BS_Liberei.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BS_Liberei.JPG/800px-BS_Liberei.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BS_Liberei.JPG/1200px-BS_Liberei.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BS_Liberei.JPG/1920px-BS_Liberei.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BS_Liberei.JPG/1920px-BS_Liberei.JPG---
 
 ## Overview
 

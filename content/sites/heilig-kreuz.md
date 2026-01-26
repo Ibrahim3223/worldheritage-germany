@@ -4,13 +4,13 @@ site_name: "Heilig Kreuz"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q1595005"
 latitude: 51.5002
 longitude: 7.11114
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/400px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/800px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/1200px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/1920px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/1920px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg---
 
 ## Overview
 

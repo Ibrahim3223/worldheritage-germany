@@ -4,13 +4,13 @@ site_name: "Augustinerinnenkloster Fritzlar"
 date: 2026-01-26
 draft: false
 description: "former monastery in Fritzlar, Germany"
-region: "Fritzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Fritzlar"
+  - "Hesse"
 wikidata_id: "Q768427"
 latitude: 51.1297
 longitude: 9.273
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/400px-Fritzlar,_Ursulinenkloster.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/800px-Fritzlar,_Ursulinenkloster.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/1200px-Fritzlar,_Ursulinenkloster.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/1920px-Fritzlar,_Ursulinenkloster.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/1920px-Fritzlar,_Ursulinenkloster.JPG---
 
 ## Overview
 

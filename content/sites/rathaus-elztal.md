@@ -4,13 +4,13 @@ site_name: "Rathaus Elztal"
 date: 2026-01-26
 draft: false
 description: "Rathaus der Gemeinde Elztal"
-region: "Elztal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Elztal"
+  - "Baden-Württemberg"
 wikidata_id: "Q124330184"
 latitude: 49.383978813
 longitude: 9.189842792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/400px-Rathaus_Elztal_2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/800px-Rathaus_Elztal_2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/1200px-Rathaus_Elztal_2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/1920px-Rathaus_Elztal_2024.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/1920px-Rathaus_Elztal_2024.jpg---
 
 ## Overview
 

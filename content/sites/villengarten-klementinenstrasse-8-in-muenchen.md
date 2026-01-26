@@ -4,19 +4,18 @@ site_name: "Villengarten Klementinenstraße 8 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-3467 (1) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98739795"
 latitude: 48.166145052
 longitude: 11.594474279
 images:
-  []
----
+  []---
 
 ## Overview
 

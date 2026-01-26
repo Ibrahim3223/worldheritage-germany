@@ -4,13 +4,13 @@ site_name: "Protestant Church Miltern"
 date: 2026-01-26
 draft: false
 description: "church building in Tangermünde, Saxony-Anhalt, Germany"
-region: "Tangermünde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tangermünde"
+  - "Brandenburg"
 wikidata_id: "Q1244533"
 latitude: 52.5584
 longitude: 11.9324
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Miltern_Dorfkirche.jpg/400px-Miltern_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Miltern_Dorfkirche.jpg/800px-Miltern_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Miltern_Dorfkirche.jpg/1200px-Miltern_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Miltern_Dorfkirche.jpg/1920px-Miltern_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Miltern_Dorfkirche.jpg/1920px-Miltern_Dorfkirche.jpg---
 
 ## Overview
 

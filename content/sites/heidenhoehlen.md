@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Heidenhoehlen_Ueberlingen_um1850.jpg/400px-Heidenhoehlen_Ueberlingen_um1850.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Heidenhoehlen_Ueberlingen_um1850.jpg/800px-Heidenhoehlen_Ueberlingen_um1850.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Heidenhoehlen_Ueberlingen_um1850.jpg/1200px-Heidenhoehlen_Ueberlingen_um1850.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Heidenhoehlen_Ueberlingen_um1850.jpg/1920px-Heidenhoehlen_Ueberlingen_um1850.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Heidenhoehlen_Ueberlingen_um1850.jpg/1920px-Heidenhoehlen_Ueberlingen_um1850.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Platz der Synagoge"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Lauterbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Lauterbach"
+  - "Hesse"
 wikidata_id: "Q1263364"
 latitude: 50.6389
 longitude: 9.39786
 images:
-  []
----
+  []---
 
 ## Overview
 

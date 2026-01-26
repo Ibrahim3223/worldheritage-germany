@@ -4,19 +4,18 @@ site_name: "Garten Zobelstraße 20a in Augsburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-7-61-000-1267 (1) in Augsburg, Bavaria"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q98720797"
 latitude: 48.366236698
 longitude: 10.910468122
 images:
-  []
----
+  []---
 
 ## Overview
 

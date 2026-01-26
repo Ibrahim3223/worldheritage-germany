@@ -4,13 +4,13 @@ site_name: "Church of Saints Cosmas and Damian, Stade"
 date: 2026-01-26
 draft: false
 description: "church in Stade, Germany"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q1719200"
 latitude: 53.601836
 longitude: 9.476392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/400px-StadeStCosmaeDamiani.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/800px-StadeStCosmaeDamiani.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1200px-StadeStCosmaeDamiani.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1920px-StadeStCosmaeDamiani.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1920px-StadeStCosmaeDamiani.jpg---
 
 ## Overview
 

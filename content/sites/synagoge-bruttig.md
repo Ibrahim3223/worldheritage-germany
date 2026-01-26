@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bruttig,_Synagoge.jpg/400px-Bruttig,_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bruttig,_Synagoge.jpg/800px-Bruttig,_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bruttig,_Synagoge.jpg/1200px-Bruttig,_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bruttig,_Synagoge.jpg/1920px-Bruttig,_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bruttig,_Synagoge.jpg/1920px-Bruttig,_Synagoge.jpg---
 
 ## Overview
 

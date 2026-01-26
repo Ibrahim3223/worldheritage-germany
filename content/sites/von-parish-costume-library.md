@@ -4,13 +4,13 @@ site_name: "Von Parish Costume Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2052420"
 latitude: 48.1519
 longitude: 11.5019
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/400px-Kemnatenstr._50_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/800px-Kemnatenstr._50_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/1200px-Kemnatenstr._50_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/1920px-Kemnatenstr._50_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/1920px-Kemnatenstr._50_Muenchen-1.jpg---
 
 ## Overview
 

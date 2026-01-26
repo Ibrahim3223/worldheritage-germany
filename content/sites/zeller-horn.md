@@ -4,13 +4,13 @@ site_name: "Zeller Horn"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Zollernalbkreis"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Zollernalbkreis"
+  - "Baden-Württemberg"
 wikidata_id: "Q187749"
 latitude: 48.3125
 longitude: 8.98
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/400px-ZellerHorn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/800px-ZellerHorn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/1200px-ZellerHorn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/1920px-ZellerHorn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/1920px-ZellerHorn.jpg---
 
 ## Overview
 

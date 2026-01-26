@@ -4,13 +4,13 @@ site_name: "Auferstehungskirche (Dresden)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q759614"
 latitude: 51.029
 longitude: 13.7044
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/400px-Dresden-Plauen-Auferstehung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/800px-Dresden-Plauen-Auferstehung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1200px-Dresden-Plauen-Auferstehung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1920px-Dresden-Plauen-Auferstehung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1920px-Dresden-Plauen-Auferstehung.jpg---
 
 ## Overview
 

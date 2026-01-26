@@ -4,13 +4,13 @@ site_name: "Stuhlmannbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Altona, Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q2358953"
 latitude: 53.5498496
 longitude: 9.9354829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/400px-Hh-Stuhlmannbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/800px-Hh-Stuhlmannbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/1200px-Hh-Stuhlmannbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/1920px-Hh-Stuhlmannbrunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/1920px-Hh-Stuhlmannbrunnen.jpg---
 
 ## Overview
 

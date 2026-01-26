@@ -4,13 +4,13 @@ site_name: "Quandt's Tobacco Mill"
 date: 2026-01-26
 draft: false
 description: "former windmill in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2122143"
 latitude: 51.3136
 longitude: 12.4072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg/400px-Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg/800px-Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg/1200px-Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg/1920px-Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg/1920px-Fotothek_df_rp-b_0130030_Leipzig._Quandtsche_Tabakmühle,_aus,_Deutsche_Schlachtfelder,_Bd._5_Die_Völkersc.jpg---
 
 ## Overview
 

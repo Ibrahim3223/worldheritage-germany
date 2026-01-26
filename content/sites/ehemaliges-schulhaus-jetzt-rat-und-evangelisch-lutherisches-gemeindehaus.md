@@ -4,19 +4,18 @@ site_name: "Ehemaliges Schulhaus, jetzt Rat- und evangelisch-lutherisches Gemein
 date: 2026-01-26
 draft: false
 description: "building in Ohrenbach, Middle Franconia, Germany"
-region: "Ohrenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Ohrenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q41238361"
 latitude: 49.46929
 longitude: 10.2105
 images:
-  []
----
+  []---
 
 ## Overview
 

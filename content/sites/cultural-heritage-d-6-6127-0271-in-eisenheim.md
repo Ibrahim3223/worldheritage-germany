@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6127-0271 in Eisenheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Eisenheim, Würzburg, Lower Franconia, Bavaria, Germany"
-region: "Eisenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Eisenheim"
+  - "Bavaria"
 wikidata_id: "Q98168203"
 latitude: 49.890622948
 longitude: 10.17950153
 images:
-  []
----
+  []---
 
 ## Overview
 

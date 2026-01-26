@@ -4,13 +4,13 @@ site_name: "St. Korbinian"
 date: 2026-01-26
 draft: false
 description: "church building in Munich, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1723409"
 latitude: 48.1179
 longitude: 11.5496
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_St._Korbinian_München.jpg/400px-Kirche_St._Korbinian_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_St._Korbinian_München.jpg/800px-Kirche_St._Korbinian_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_St._Korbinian_München.jpg/1200px-Kirche_St._Korbinian_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_St._Korbinian_München.jpg/1920px-Kirche_St._Korbinian_München.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_St._Korbinian_München.jpg/1920px-Kirche_St._Korbinian_München.jpg---
 
 ## Overview
 

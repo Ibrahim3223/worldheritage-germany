@@ -4,13 +4,13 @@ site_name: "Wallfahrtskapelle Nüchternbrunn"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Warngau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Warngau"
+  - "Bavaria"
 wikidata_id: "Q2542804"
 latitude: 47.834
 longitude: 11.7503
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/400px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/800px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/1200px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/1920px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/1920px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg---
 
 ## Overview
 

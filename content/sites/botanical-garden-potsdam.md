@@ -4,13 +4,13 @@ site_name: "Botanical Garden Potsdam"
 date: 2026-01-26
 draft: false
 description: "part of University of Potsdam (Germany), situated in Sanssouci Park"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q321565"
 latitude: 52.4041
 longitude: 13.0252
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/400px-ParadiesgartenTeich_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/800px-ParadiesgartenTeich_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1200px-ParadiesgartenTeich_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1920px-ParadiesgartenTeich_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1920px-ParadiesgartenTeich_2.JPG---
 
 ## Overview
 

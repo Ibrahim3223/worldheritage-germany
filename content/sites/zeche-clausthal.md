@@ -4,19 +4,18 @@ site_name: "Zeche Clausthal"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169733"
 latitude: 51.4752
 longitude: 7.4376
 images:
-  []
----
+  []---
 
 ## Overview
 

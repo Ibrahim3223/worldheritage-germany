@@ -4,19 +4,18 @@ site_name: "Henstedter Dorfmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Syke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Syke"
+  - "Lower Saxony"
 wikidata_id: "Q1607597"
 latitude: 52.8669
 longitude: 8.82915
 images:
-  []
----
+  []---
 
 ## Overview
 

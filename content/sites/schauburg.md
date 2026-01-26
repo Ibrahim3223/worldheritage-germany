@@ -4,13 +4,13 @@ site_name: "Schauburg"
 date: 2026-01-26
 draft: false
 description: "arthouse cinema in Karlsruhe, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q2231851"
 latitude: 49.0032
 longitude: 8.40792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/400px-Schauburg_Karlsruhe_IMGP4634.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/800px-Schauburg_Karlsruhe_IMGP4634.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/1200px-Schauburg_Karlsruhe_IMGP4634.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/1920px-Schauburg_Karlsruhe_IMGP4634.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/1920px-Schauburg_Karlsruhe_IMGP4634.JPG---
 
 ## Overview
 

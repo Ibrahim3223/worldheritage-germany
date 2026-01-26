@@ -4,19 +4,18 @@ site_name: "Alter Friedhof (Eschweiler über Feld)"
 date: 2026-01-26
 draft: false
 description: "cemetery in Nörvenich, Germany"
-region: "Nörvenich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Nörvenich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q437879"
 latitude: 50.8116
 longitude: 6.58311
 images:
-  []
----
+  []---
 
 ## Overview
 

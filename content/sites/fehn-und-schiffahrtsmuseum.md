@@ -4,13 +4,13 @@ site_name: "Fehn- und Schiffahrtsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rhauderfehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rhauderfehn"
+  - "Lower Saxony"
 wikidata_id: "Q15110629"
 latitude: 53.135261111
 longitude: 7.571744444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/400px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/800px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/1200px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/1920px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/1920px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg---
 
 ## Overview
 

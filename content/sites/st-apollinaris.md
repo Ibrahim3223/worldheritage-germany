@@ -4,13 +4,13 @@ site_name: "St. Apollinaris"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Oberbilk, Germany"
-region: "District 3"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "District 3"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317361"
 latitude: 51.2129
 longitude: 6.79504
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/400px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/800px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/1200px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/1920px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/1920px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg---
 
 ## Overview
 

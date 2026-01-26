@@ -4,13 +4,13 @@ site_name: "Palmengarten"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Frankfurt, Hesse, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q663149"
 latitude: 50.123611111
 longitude: 8.655555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/400px-Palmengartenfrankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/800px-Palmengartenfrankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/1200px-Palmengartenfrankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/1920px-Palmengartenfrankfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/1920px-Palmengartenfrankfurt.jpg---
 
 ## Overview
 

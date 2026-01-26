@@ -4,13 +4,13 @@ site_name: "Heidetrank Oppidum"
 date: 2026-01-26
 draft: false
 description: "Celtic oppidum near Oberursel in the Taunus in Germany"
-region: "Oberursel (Taunus)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Oberursel (Taunus)"
+  - "Hesse"
 wikidata_id: "Q130102"
 latitude: 50.2208
 longitude: 8.52194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/400px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/800px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1200px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1920px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1920px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg---
 
 ## Overview
 

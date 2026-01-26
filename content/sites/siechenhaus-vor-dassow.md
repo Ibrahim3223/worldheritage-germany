@@ -4,13 +4,13 @@ site_name: "Siechenhaus vor Dassow"
 date: 2026-01-26
 draft: false
 description: "church building in Dassow, Germany"
-region: "Dassow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dassow"
+  - "Lower Saxony"
 wikidata_id: "Q2282520"
 latitude: 53.9
 longitude: 10.9438
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Siechenhaus_Dassow.jpg/400px-Siechenhaus_Dassow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Siechenhaus_Dassow.jpg/800px-Siechenhaus_Dassow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Siechenhaus_Dassow.jpg/1200px-Siechenhaus_Dassow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Siechenhaus_Dassow.jpg/1920px-Siechenhaus_Dassow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Siechenhaus_Dassow.jpg/1920px-Siechenhaus_Dassow.jpg---
 
 ## Overview
 

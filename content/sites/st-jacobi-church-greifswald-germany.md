@@ -4,13 +4,13 @@ site_name: "St. Jacobi (Church : Greifswald, Germany)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Greifswald"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Greifswald"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q672676"
 latitude: 54.0953
 longitude: 13.3731
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/400px-Jacobikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/800px-Jacobikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/1200px-Jacobikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/1920px-Jacobikirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/1920px-Jacobikirche.jpg---
 
 ## Overview
 

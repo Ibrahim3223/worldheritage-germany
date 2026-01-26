@@ -4,19 +4,18 @@ site_name: "Theaterdiscounter"
 date: 2026-01-26
 draft: false
 description: "Freies Theater unweit des Alexanderplatzes in Berlin-Mitte"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1326666"
 latitude: 52.5183
 longitude: 13.4119
 images:
-  []
----
+  []---
 
 ## Overview
 

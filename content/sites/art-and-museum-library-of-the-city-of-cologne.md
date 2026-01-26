@@ -4,13 +4,13 @@ site_name: "Art and Museum Library of the City of Cologne"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1792304"
 latitude: 50.940722
 longitude: 6.9595
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/400px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/800px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/1200px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/1920px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/1920px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg---
 
 ## Overview
 

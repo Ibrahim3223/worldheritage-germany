@@ -4,19 +4,18 @@ site_name: "Bücherei im Bahnhof"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Veitshöchheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Veitshöchheim"
+  - "Bavaria"
 wikidata_id: "Q1020344"
 latitude: 49.8318
 longitude: 9.87576
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Michaelsbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain and memorial in Mettingen"
-region: "Mettingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Mettingen"
+  - "Lower Saxony"
 wikidata_id: "Q1930175"
 latitude: 52.3153
 longitude: 7.77917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/400px-Mettingen_Michaelsbrunnen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/800px-Mettingen_Michaelsbrunnen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/1200px-Mettingen_Michaelsbrunnen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/1920px-Mettingen_Michaelsbrunnen_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/1920px-Mettingen_Michaelsbrunnen_2.jpg---
 
 ## Overview
 

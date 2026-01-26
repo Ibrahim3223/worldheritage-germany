@@ -4,13 +4,13 @@ site_name: "Blasiuskapelle in Briach"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Baienfurt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Baienfurt"
+  - "Baden-Württemberg"
 wikidata_id: "Q881916"
 latitude: 47.819386
 longitude: 9.660233
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/400px-Blasiuskapelle_in_Briach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/800px-Blasiuskapelle_in_Briach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/1200px-Blasiuskapelle_in_Briach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/1920px-Blasiuskapelle_in_Briach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/1920px-Blasiuskapelle_in_Briach.jpg---
 
 ## Overview
 

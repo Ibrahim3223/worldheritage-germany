@@ -4,13 +4,13 @@ site_name: "Gutskapelle St. Antonius"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1557311"
 latitude: 51.293
 longitude: 8.3275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/400px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/800px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/1200px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/1920px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/1920px-Gutskapelle_St._Antonius_(Drasenbeck).jpg---
 
 ## Overview
 

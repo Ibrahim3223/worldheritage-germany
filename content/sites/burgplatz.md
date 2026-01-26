@@ -4,13 +4,13 @@ site_name: "Burgplatz"
 date: 2026-01-26
 draft: false
 description: "town square in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1015176"
 latitude: 51.4553
 longitude: 7.014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NRW,_Essen_-_Burgplatz_(panorama).jpg/400px-NRW,_Essen_-_Burgplatz_(panorama).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NRW,_Essen_-_Burgplatz_(panorama).jpg/800px-NRW,_Essen_-_Burgplatz_(panorama).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NRW,_Essen_-_Burgplatz_(panorama).jpg/1200px-NRW,_Essen_-_Burgplatz_(panorama).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NRW,_Essen_-_Burgplatz_(panorama).jpg/1920px-NRW,_Essen_-_Burgplatz_(panorama).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NRW,_Essen_-_Burgplatz_(panorama).jpg/1920px-NRW,_Essen_-_Burgplatz_(panorama).jpg---
 
 ## Overview
 

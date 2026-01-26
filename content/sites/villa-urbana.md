@@ -4,13 +4,13 @@ site_name: "Villa urbana"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Grenzach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grenzach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1412221"
 latitude: 47.5541
 longitude: 7.6623
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/400px-Römermuseum_Grenzach_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/800px-Römermuseum_Grenzach_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/1200px-Römermuseum_Grenzach_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/1920px-Römermuseum_Grenzach_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/1920px-Römermuseum_Grenzach_1.jpg---
 
 ## Overview
 

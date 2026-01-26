@@ -4,13 +4,13 @@ site_name: "Pumucklbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Schwabing-West"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Schwabing-West"
+  - "Bavaria"
 wikidata_id: "Q2118266"
 latitude: 48.1717
 longitude: 11.5676
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/400px-Pumucklbrunnen_ORA2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/800px-Pumucklbrunnen_ORA2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/1200px-Pumucklbrunnen_ORA2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/1920px-Pumucklbrunnen_ORA2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/1920px-Pumucklbrunnen_ORA2.jpg---
 
 ## Overview
 

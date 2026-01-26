@@ -4,13 +4,13 @@ site_name: "Cuxhavener Küstenheiden"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Cuxhaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Cuxhaven"
+  - "Lower Saxony"
 wikidata_id: "Q1146680"
 latitude: 53.8194
 longitude: 8.63056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg---
 
 ## Overview
 

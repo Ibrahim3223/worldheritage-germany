@@ -4,13 +4,13 @@ site_name: "Nauener Tor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q316058"
 latitude: 52.4035
 longitude: 13.0578
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/400px-Potsdam_Nauener_Tor_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/800px-Potsdam_Nauener_Tor_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/1200px-Potsdam_Nauener_Tor_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/1920px-Potsdam_Nauener_Tor_07-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/1920px-Potsdam_Nauener_Tor_07-2017.jpg---
 
 ## Overview
 

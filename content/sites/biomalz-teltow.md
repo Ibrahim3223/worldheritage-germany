@@ -4,13 +4,13 @@ site_name: "Biomalz Teltow"
 date: 2026-01-26
 draft: false
 description: "Fabrikgebäude der ehemaligen Firma Biomalz Teltow in Teltow, Brandenburg, Deutschland"
-region: "Teltow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Teltow"
+  - "Berlin"
 wikidata_id: "Q864541"
 latitude: 52.3937
 longitude: 13.2437
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/400px-Biomalz_Teltow_Verwaltungsgebäude.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/800px-Biomalz_Teltow_Verwaltungsgebäude.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/1200px-Biomalz_Teltow_Verwaltungsgebäude.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/1920px-Biomalz_Teltow_Verwaltungsgebäude.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/1920px-Biomalz_Teltow_Verwaltungsgebäude.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dresden City Art Gallery"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q830042"
 latitude: 51.05
 longitude: 13.74305556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/400px-Landhausstr.5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/800px-Landhausstr.5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1200px-Landhausstr.5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1920px-Landhausstr.5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1920px-Landhausstr.5.jpg---
 
 ## Overview
 

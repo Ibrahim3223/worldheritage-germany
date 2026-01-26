@@ -4,13 +4,13 @@ site_name: "Burgstall"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-77-131-65 (0) in Gemünden am Main, Bavaria"
-region: "Gemünden am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Gemünden am Main"
+  - "Bavaria"
 wikidata_id: "Q1015236"
 latitude: 50.011573368
 longitude: 9.704172069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/400px-BurgsinnSchlossWest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/800px-BurgsinnSchlossWest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/1200px-BurgsinnSchlossWest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/1920px-BurgsinnSchlossWest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/1920px-BurgsinnSchlossWest.jpg---
 
 ## Overview
 

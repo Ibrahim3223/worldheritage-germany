@@ -4,13 +4,13 @@ site_name: "Mainbrücke Ginsheim-Gustavsburg"
 date: 2026-01-26
 draft: false
 description: "railway bridge in Germany"
-region: "Hochheim am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hochheim am Main"
+  - "Hesse"
 wikidata_id: "Q1311510"
 latitude: 49.9998
 longitude: 8.33916
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/400px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/800px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/1200px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/1920px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/1920px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg---
 
 ## Overview
 

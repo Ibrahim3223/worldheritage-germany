@@ -4,13 +4,13 @@ site_name: "Landschaftspolder Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bunde, Germany"
-region: "Bunde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bunde"
+  - "Lower Saxony"
 wikidata_id: "Q1803800"
 latitude: 53.2269
 longitude: 7.25099
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/400px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/800px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/1200px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/1920px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/1920px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg---
 
 ## Overview
 

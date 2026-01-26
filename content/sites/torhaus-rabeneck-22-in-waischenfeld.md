@@ -4,13 +4,13 @@ site_name: "Torhaus Rabeneck 22 in Waischenfeld"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-72-197-51 (1) in Waischenfeld, Bavaria"
-region: "Waischenfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Waischenfeld"
+  - "Bavaria"
 wikidata_id: "Q98587102"
 latitude: 49.822490206
 longitude: 11.327267496
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Rabeneck-Eingangspforte.jpg/400px-Burg_Rabeneck-Eingangspforte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Rabeneck-Eingangspforte.jpg/800px-Burg_Rabeneck-Eingangspforte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Rabeneck-Eingangspforte.jpg/1200px-Burg_Rabeneck-Eingangspforte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Rabeneck-Eingangspforte.jpg/1920px-Burg_Rabeneck-Eingangspforte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Rabeneck-Eingangspforte.jpg/1920px-Burg_Rabeneck-Eingangspforte.jpg---
 
 ## Overview
 

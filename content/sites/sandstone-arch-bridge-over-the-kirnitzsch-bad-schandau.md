@@ -4,13 +4,13 @@ site_name: "Sandstone arch bridge over the Kirnitzsch Bad Schandau"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bad Schandau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bad Schandau"
+  - "Saxony"
 wikidata_id: "Q49441158"
 latitude: 50.9294558
 longitude: 14.189816
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brücke_kirnitzsch_2022-10-23_4.jpg/400px-Brücke_kirnitzsch_2022-10-23_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brücke_kirnitzsch_2022-10-23_4.jpg/800px-Brücke_kirnitzsch_2022-10-23_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brücke_kirnitzsch_2022-10-23_4.jpg/1200px-Brücke_kirnitzsch_2022-10-23_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brücke_kirnitzsch_2022-10-23_4.jpg/1920px-Brücke_kirnitzsch_2022-10-23_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brücke_kirnitzsch_2022-10-23_4.jpg/1920px-Brücke_kirnitzsch_2022-10-23_4.jpg---
 
 ## Overview
 

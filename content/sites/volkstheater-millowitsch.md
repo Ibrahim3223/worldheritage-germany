@@ -4,13 +4,13 @@ site_name: "Volkstheater Millowitsch"
 date: 2026-01-26
 draft: false
 description: "theatre"
-region: "Neustadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Neustadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151236"
 latitude: 50.936388888
 longitude: 6.936944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/400px-Millowitsch-Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/800px-Millowitsch-Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/1200px-Millowitsch-Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/1920px-Millowitsch-Theater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/1920px-Millowitsch-Theater.jpg---
 
 ## Overview
 

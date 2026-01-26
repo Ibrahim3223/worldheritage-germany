@@ -4,13 +4,13 @@ site_name: "Juratrockenhang mit der Felsgruppe \"Zwölf Apostel\""
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Q572949"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Q572949"
+  - "Bavaria"
 wikidata_id: "Q245167"
 latitude: 48.8936
 longitude: 11.0173
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altmuehltal7.JPG/400px-Altmuehltal7.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altmuehltal7.JPG/800px-Altmuehltal7.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altmuehltal7.JPG/1200px-Altmuehltal7.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altmuehltal7.JPG/1920px-Altmuehltal7.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altmuehltal7.JPG/1920px-Altmuehltal7.JPG---
 
 ## Overview
 

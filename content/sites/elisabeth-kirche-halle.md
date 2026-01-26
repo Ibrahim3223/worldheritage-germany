@@ -4,13 +4,13 @@ site_name: "Elisabeth-Kirche (Halle)"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1701701"
 latitude: 51.4782
 longitude: 11.967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/400px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/800px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1200px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1920px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1920px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg---
 
 ## Overview
 

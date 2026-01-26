@@ -4,13 +4,13 @@ site_name: "Wormser Tor"
 date: 2026-01-26
 draft: false
 description: "triumphbogenartiges Stadttor, Relikt der Befestigung der Stadt Frankenthal in Rheinland-Pfalz"
-region: "Frankenthal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Frankenthal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1427727"
 latitude: 49.5379
 longitude: 8.35389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/400px-Frankenthal_BW_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/800px-Frankenthal_BW_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/1200px-Frankenthal_BW_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/1920px-Frankenthal_BW_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/1920px-Frankenthal_BW_1.jpg---
 
 ## Overview
 

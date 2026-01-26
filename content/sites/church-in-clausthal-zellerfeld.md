@@ -4,13 +4,13 @@ site_name: "Church in Clausthal-Zellerfeld"
 date: 2026-01-26
 draft: false
 description: "church building in Clausthal-Zellerfeld, Germany"
-region: "Clausthal-Zellerfeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Clausthal-Zellerfeld"
+  - "Lower Saxony"
 wikidata_id: "Q2321964"
 latitude: 51.8047
 longitude: 10.3384
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/400px-Clausthal_StNikolaus_Innen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/800px-Clausthal_StNikolaus_Innen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/1200px-Clausthal_StNikolaus_Innen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/1920px-Clausthal_StNikolaus_Innen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/1920px-Clausthal_StNikolaus_Innen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lukaskirche (Mannheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Mannheim, Karlsruhe Government Region, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1877002"
 latitude: 49.4602
 longitude: 8.4877
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/400px-Mannheim-Almenhof-Lukaskirche-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/800px-Mannheim-Almenhof-Lukaskirche-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/1200px-Mannheim-Almenhof-Lukaskirche-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/1920px-Mannheim-Almenhof-Lukaskirche-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/1920px-Mannheim-Almenhof-Lukaskirche-02.jpg---
 
 ## Overview
 

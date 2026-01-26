@@ -4,13 +4,13 @@ site_name: "Donauwörther Straße 165 (Augsburg)"
 date: 2026-01-26
 draft: false
 description: "Augsburg, Donauwörther Straße 165, Moschee"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q116972682"
 latitude: 48.39465
 longitude: 10.881469444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/400px-Augsburg,_Donauwörther_Straße_165_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/800px-Augsburg,_Donauwörther_Straße_165_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/1200px-Augsburg,_Donauwörther_Straße_165_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/1920px-Augsburg,_Donauwörther_Straße_165_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/1920px-Augsburg,_Donauwörther_Straße_165_(1).jpg---
 
 ## Overview
 

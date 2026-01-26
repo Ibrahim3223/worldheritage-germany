@@ -4,19 +4,18 @@ site_name: "Arboretum Lohbrügge"
 date: 2026-01-26
 draft: false
 description: "garden in Germany"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q630433"
 latitude: 53.50388889
 longitude: 10.19916667
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Patrokli, Soest"
 date: 2026-01-26
 draft: false
 description: "church building in Soest, Germany"
-region: "Soest"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Soest"
+  - "Hesse"
 wikidata_id: "Q2316646"
 latitude: 51.5715
 longitude: 8.10806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soest_st_patrokli_dom_vorderseite.jpg/400px-Soest_st_patrokli_dom_vorderseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soest_st_patrokli_dom_vorderseite.jpg/800px-Soest_st_patrokli_dom_vorderseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soest_st_patrokli_dom_vorderseite.jpg/1200px-Soest_st_patrokli_dom_vorderseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soest_st_patrokli_dom_vorderseite.jpg/1920px-Soest_st_patrokli_dom_vorderseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soest_st_patrokli_dom_vorderseite.jpg/1920px-Soest_st_patrokli_dom_vorderseite.jpg---
 
 ## Overview
 

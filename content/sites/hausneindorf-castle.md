@@ -4,13 +4,13 @@ site_name: "Hausneindorf Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Selke-Aue"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Selke-Aue"
+  - "Lower Saxony"
 wikidata_id: "Q1012236"
 latitude: 51.8401
 longitude: 11.2706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hausneindorf_12.jpg/400px-Burg_Hausneindorf_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hausneindorf_12.jpg/800px-Burg_Hausneindorf_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hausneindorf_12.jpg/1200px-Burg_Hausneindorf_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hausneindorf_12.jpg/1920px-Burg_Hausneindorf_12.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hausneindorf_12.jpg/1920px-Burg_Hausneindorf_12.jpg---
 
 ## Overview
 

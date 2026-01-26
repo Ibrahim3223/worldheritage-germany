@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Pleystein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pleystein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pleystein"
+  - "Bavaria"
 wikidata_id: "Q76629108"
 latitude: 49.644391
 longitude: 12.407053
 images:
-  []
----
+  []---
 
 ## Overview
 

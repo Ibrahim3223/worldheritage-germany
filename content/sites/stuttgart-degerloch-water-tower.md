@@ -4,13 +4,13 @@ site_name: "Stuttgart-Degerloch water tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1405699"
 latitude: 48.7539
 longitude: 9.18194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Water_Tower_Degerloch_2006-06-11.jpg/400px-Water_Tower_Degerloch_2006-06-11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Water_Tower_Degerloch_2006-06-11.jpg/800px-Water_Tower_Degerloch_2006-06-11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Water_Tower_Degerloch_2006-06-11.jpg/1200px-Water_Tower_Degerloch_2006-06-11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Water_Tower_Degerloch_2006-06-11.jpg/1920px-Water_Tower_Degerloch_2006-06-11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Water_Tower_Degerloch_2006-06-11.jpg/1920px-Water_Tower_Degerloch_2006-06-11.jpg---
 
 ## Overview
 

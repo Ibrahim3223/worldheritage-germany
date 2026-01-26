@@ -4,13 +4,13 @@ site_name: "Pfarrkirche St. Bartholomäus (Heidelberg-Wieblingen)"
 date: 2026-01-26
 draft: false
 description: "church building in Heidelberg, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2083000"
 latitude: 49.4222
 longitude: 8.64819
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/400px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/800px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/1200px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/1920px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/1920px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG---
 
 ## Overview
 

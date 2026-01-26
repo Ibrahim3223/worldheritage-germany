@@ -4,13 +4,13 @@ site_name: "Rathaus Gerlingen"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Gerlingen"
-region: "Gerlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Gerlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q124336971"
 latitude: 48.79835
 longitude: 9.06186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/400px-Rathaus_Gerlingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/800px-Rathaus_Gerlingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/1200px-Rathaus_Gerlingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/1920px-Rathaus_Gerlingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/1920px-Rathaus_Gerlingen.jpg---
 
 ## Overview
 

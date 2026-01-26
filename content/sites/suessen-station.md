@@ -4,13 +4,13 @@ site_name: "Süßen station"
 date: 2026-01-26
 draft: false
 description: "railway station in Süßen, Germany"
-region: "Süßen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Süßen"
+  - "Baden-Württemberg"
 wikidata_id: "Q224876"
 latitude: 48.683333333
 longitude: 9.76
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/400px-Süßen_Interlockings_2021-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/800px-Süßen_Interlockings_2021-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/1200px-Süßen_Interlockings_2021-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/1920px-Süßen_Interlockings_2021-09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/1920px-Süßen_Interlockings_2021-09.jpg---
 
 ## Overview
 

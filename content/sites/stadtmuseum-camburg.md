@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Camburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dornburg-Camburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dornburg-Camburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20478436"
 latitude: 51.0531497
 longitude: 11.7074643
 images:
-  []
----
+  []---
 
 ## Overview
 

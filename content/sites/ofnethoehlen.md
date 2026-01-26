@@ -4,13 +4,13 @@ site_name: "Ofnethöhlen"
 date: 2026-01-26
 draft: false
 description: "cave group in Bavaria, Germany"
-region: "Nördlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Nördlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1536412"
 latitude: 48.8185
 longitude: 10.4503
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/400px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/800px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/1200px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/1920px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/1920px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg---
 
 ## Overview
 

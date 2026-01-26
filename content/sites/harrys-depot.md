@@ -4,13 +4,13 @@ site_name: "Harrys Depot"
 date: 2026-01-26
 draft: false
 description: "theatre in Baden-Württemberg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1586922"
 latitude: 47.99444444
 longitude: 7.84088889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/400px-Harrys_Depot.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/800px-Harrys_Depot.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/1200px-Harrys_Depot.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/1920px-Harrys_Depot.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/1920px-Harrys_Depot.JPG---
 
 ## Overview
 

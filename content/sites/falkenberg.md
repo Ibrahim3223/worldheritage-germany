@@ -4,13 +4,13 @@ site_name: "Falkenberg"
 date: 2026-01-26
 draft: false
 description: "highest point of Lüneburg Heath, Germany"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q1394165"
 latitude: 52.8467
 longitude: 9.86083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/400px-Panorama_Schießbahn1A.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/800px-Panorama_Schießbahn1A.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/1200px-Panorama_Schießbahn1A.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/1920px-Panorama_Schießbahn1A.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/1920px-Panorama_Schießbahn1A.JPG---
 
 ## Overview
 

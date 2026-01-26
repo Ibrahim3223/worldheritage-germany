@@ -4,13 +4,13 @@ site_name: "Palais Brühl"
 date: 2026-01-26
 draft: false
 description: "demolished building in Schießgasse 10, Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2046921"
 latitude: 51.0498
 longitude: 13.7436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/400px-Palais_Brühl_Schießgasse_vor_1885.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/800px-Palais_Brühl_Schießgasse_vor_1885.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/1200px-Palais_Brühl_Schießgasse_vor_1885.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/1920px-Palais_Brühl_Schießgasse_vor_1885.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/1920px-Palais_Brühl_Schießgasse_vor_1885.jpg---
 
 ## Overview
 

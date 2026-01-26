@@ -4,13 +4,13 @@ site_name: "St.-Nikolaus-Kirche (Berlin-Wittenau)"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q11722075"
 latitude: 52.5918
 longitude: 13.3308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/400px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/800px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/1200px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/1920px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/1920px-Berlin-Wittenau,_St._Nikolaus_(04).jpg---
 
 ## Overview
 

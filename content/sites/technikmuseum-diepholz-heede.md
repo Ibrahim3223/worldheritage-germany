@@ -4,13 +4,13 @@ site_name: "Technikmuseum Diepholz-Heede"
 date: 2026-01-26
 draft: false
 description: "museum in Diepholz, Germany"
-region: "Diepholz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Diepholz"
+  - "Lower Saxony"
 wikidata_id: "Q27831272"
 latitude: 52.620277777
 longitude: 8.388888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TechnikmuseumGebäude1.JPG/400px-TechnikmuseumGebäude1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TechnikmuseumGebäude1.JPG/800px-TechnikmuseumGebäude1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TechnikmuseumGebäude1.JPG/1200px-TechnikmuseumGebäude1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TechnikmuseumGebäude1.JPG/1920px-TechnikmuseumGebäude1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TechnikmuseumGebäude1.JPG/1920px-TechnikmuseumGebäude1.JPG---
 
 ## Overview
 

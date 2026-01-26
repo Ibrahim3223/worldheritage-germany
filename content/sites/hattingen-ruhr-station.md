@@ -4,13 +4,13 @@ site_name: "Hattingen (Ruhr) station"
 date: 2026-01-26
 draft: false
 description: "railway station in Hattingen, Germany"
-region: "Hattingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Hattingen"
+  - "Lower Saxony"
 wikidata_id: "Q315903"
 latitude: 51.4
 longitude: 7.17306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hattingen_-_Bahnhof_06_ies.jpg/400px-Hattingen_-_Bahnhof_06_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hattingen_-_Bahnhof_06_ies.jpg/800px-Hattingen_-_Bahnhof_06_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hattingen_-_Bahnhof_06_ies.jpg/1200px-Hattingen_-_Bahnhof_06_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hattingen_-_Bahnhof_06_ies.jpg/1920px-Hattingen_-_Bahnhof_06_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hattingen_-_Bahnhof_06_ies.jpg/1920px-Hattingen_-_Bahnhof_06_ies.jpg---
 
 ## Overview
 

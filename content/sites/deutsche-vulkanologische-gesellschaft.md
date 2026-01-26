@@ -4,19 +4,18 @@ site_name: "Deutsche Vulkanologische Gesellschaft"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q42773315"
 latitude: 50.378447
 longitude: 7.284828
 images:
-  []
----
+  []---
 
 ## Overview
 

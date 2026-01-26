@@ -4,13 +4,13 @@ site_name: "Kutschenmuseum Hinterstein"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bad Hindelang"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Hindelang"
+  - "Bavaria"
 wikidata_id: "Q1324758"
 latitude: 47.4748
 longitude: 10.4084
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kutschenmuseum-Hinterstein-1.jpg/400px-Kutschenmuseum-Hinterstein-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kutschenmuseum-Hinterstein-1.jpg/800px-Kutschenmuseum-Hinterstein-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kutschenmuseum-Hinterstein-1.jpg/1200px-Kutschenmuseum-Hinterstein-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kutschenmuseum-Hinterstein-1.jpg/1920px-Kutschenmuseum-Hinterstein-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kutschenmuseum-Hinterstein-1.jpg/1920px-Kutschenmuseum-Hinterstein-1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Nicholas Church"
 date: 2026-01-26
 draft: false
 description: "church in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q694286"
 latitude: 51.340264
 longitude: 12.378564
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/400px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/800px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/1200px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/1920px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/1920px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg---
 
 ## Overview
 

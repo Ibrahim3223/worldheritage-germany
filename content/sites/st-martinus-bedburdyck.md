@@ -4,13 +4,13 @@ site_name: "St. Martinus (Bedburdyck)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Jüchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jüchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1586841"
 latitude: 51.1176
 longitude: 6.56343
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/400px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/800px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/1200px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/1920px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/1920px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg---
 
 ## Overview
 

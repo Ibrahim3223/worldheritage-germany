@@ -4,13 +4,13 @@ site_name: "St. Katharina (Köln-Niehl)"
 date: 2026-01-26
 draft: false
 description: "roman catholic church building in Cologne, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q11722128"
 latitude: 50.9878
 longitude: 6.96208
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/400px-St._Katharina_(Köln-Niehl)_(02a).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/800px-St._Katharina_(Köln-Niehl)_(02a).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/1200px-St._Katharina_(Köln-Niehl)_(02a).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/1920px-St._Katharina_(Köln-Niehl)_(02a).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/1920px-St._Katharina_(Köln-Niehl)_(02a).jpg---
 
 ## Overview
 

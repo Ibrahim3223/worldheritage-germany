@@ -4,13 +4,13 @@ site_name: "Rathaus Unterweissach"
 date: 2026-01-26
 draft: false
 description: "Rathaus Unterweissach in Weissach im Tal"
-region: "Weissach im Tal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Weissach im Tal"
+  - "Baden-Württemberg"
 wikidata_id: "Q123246931"
 latitude: 48.93036
 longitude: 9.47937
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/400px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/800px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/1200px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/1920px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/1920px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg---
 
 ## Overview
 

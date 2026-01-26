@@ -4,13 +4,13 @@ site_name: "Papiermühle Alte Dombach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bergisch Gladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bergisch Gladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2050716"
 latitude: 50.9949
 longitude: 7.15361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/400px-Papiermuseum_Alte_Dombach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/800px-Papiermuseum_Alte_Dombach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/1200px-Papiermuseum_Alte_Dombach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/1920px-Papiermuseum_Alte_Dombach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/1920px-Papiermuseum_Alte_Dombach.jpg---
 
 ## Overview
 

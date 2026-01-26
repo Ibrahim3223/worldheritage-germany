@@ -4,13 +4,13 @@ site_name: "Statue of Ditmar Koel"
 date: 2026-01-26
 draft: false
 description: "statue in Hamburg-Mitte, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q28913781"
 latitude: 53.547222222
 longitude: 9.970833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/400px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/800px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/1200px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/1920px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/1920px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg---
 
 ## Overview
 

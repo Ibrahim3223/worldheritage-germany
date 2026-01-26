@@ -4,13 +4,13 @@ site_name: "Christlieger"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Schönau am Königsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Schönau am Königsee"
+  - "Bavaria"
 wikidata_id: "Q833836"
 latitude: 47.58575
 longitude: 12.988056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/400px-Insel_Christlieger.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/800px-Insel_Christlieger.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/1200px-Insel_Christlieger.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/1920px-Insel_Christlieger.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/1920px-Insel_Christlieger.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Bonifatiuskapelle"
 date: 2026-01-26
 draft: false
 description: "church building in Bonames, Germany"
-region: "Frankfurt-Nord-Ost"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Nord-Ost"
+  - "Hesse"
 wikidata_id: "Q15107858"
 latitude: 50.18296
 longitude: 8.66314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/400px-Bonifatius-Kapelle_von_Norden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/800px-Bonifatius-Kapelle_von_Norden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/1200px-Bonifatius-Kapelle_von_Norden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/1920px-Bonifatius-Kapelle_von_Norden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/1920px-Bonifatius-Kapelle_von_Norden.JPG---
 
 ## Overview
 

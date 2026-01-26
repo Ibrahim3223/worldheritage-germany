@@ -4,13 +4,13 @@ site_name: "Prinz-Georgs-Palais (Darmstadt)"
 date: 2026-01-26
 draft: false
 description: "palace in Darmstadt"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q100741449"
 latitude: 49.879722222
 longitude: 8.653333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/400px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/800px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/1200px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/1920px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/1920px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG---
 
 ## Overview
 

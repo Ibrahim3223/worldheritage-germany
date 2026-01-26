@@ -4,13 +4,13 @@ site_name: "Saint Michael Church (Blessem)"
 date: 2026-01-26
 draft: false
 description: "church building in Erftstadt, Germany"
-region: "Erftstadt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erftstadt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q14538225"
 latitude: 50.8112
 longitude: 6.79894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/400px-Sankt_Michael_Blessem.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/800px-Sankt_Michael_Blessem.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/1200px-Sankt_Michael_Blessem.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/1920px-Sankt_Michael_Blessem.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/1920px-Sankt_Michael_Blessem.jpg---
 
 ## Overview
 

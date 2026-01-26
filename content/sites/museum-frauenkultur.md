@@ -4,13 +4,13 @@ site_name: "Museum Frauenkultur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fürth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fürth"
+  - "Bavaria"
 wikidata_id: "Q15835872"
 latitude: 49.487
 longitude: 10.9259
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Marstall_Schloss_Burgfarrnbach.jpg/400px-Marstall_Schloss_Burgfarrnbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Marstall_Schloss_Burgfarrnbach.jpg/800px-Marstall_Schloss_Burgfarrnbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Marstall_Schloss_Burgfarrnbach.jpg/1200px-Marstall_Schloss_Burgfarrnbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Marstall_Schloss_Burgfarrnbach.jpg/1920px-Marstall_Schloss_Burgfarrnbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Marstall_Schloss_Burgfarrnbach.jpg/1920px-Marstall_Schloss_Burgfarrnbach.jpg---
 
 ## Overview
 

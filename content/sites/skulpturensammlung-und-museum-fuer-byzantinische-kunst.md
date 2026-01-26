@@ -4,19 +4,18 @@ site_name: "Skulpturensammlung und Museum für Byzantinische Kunst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1650436"
 latitude: 52.52163
 longitude: 13.39499
 images:
-  []
----
+  []---
 
 ## Overview
 

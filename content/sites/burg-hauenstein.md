@@ -4,13 +4,13 @@ site_name: "Burg Hauenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Krombach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Krombach"
+  - "Bavaria"
 wikidata_id: "Q1012218"
 latitude: 50.0745
 longitude: 9.18753
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/400px-Burgruine_Hauenstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/800px-Burgruine_Hauenstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/1200px-Burgruine_Hauenstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/1920px-Burgruine_Hauenstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/1920px-Burgruine_Hauenstein.JPG---
 
 ## Overview
 

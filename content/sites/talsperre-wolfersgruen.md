@@ -4,13 +4,13 @@ site_name: "Talsperre Wolfersgrün"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Kirchberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Kirchberg"
+  - "Saxony"
 wikidata_id: "Q1348824"
 latitude: 50.6231
 longitude: 12.4814
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/400px-WolfersgrünerTalsperre&Stausee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/800px-WolfersgrünerTalsperre&Stausee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/1200px-WolfersgrünerTalsperre&Stausee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/1920px-WolfersgrünerTalsperre&Stausee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/1920px-WolfersgrünerTalsperre&Stausee.jpg---
 
 ## Overview
 

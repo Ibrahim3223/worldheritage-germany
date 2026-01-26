@@ -4,19 +4,18 @@ site_name: "Eitorf Old Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Eitorf, Germany"
-region: "Eitorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Eitorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q437871"
 latitude: 50.7686
 longitude: 7.44694
 images:
-  []
----
+  []---
 
 ## Overview
 

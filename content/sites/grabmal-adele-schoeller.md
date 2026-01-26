@@ -4,13 +4,13 @@ site_name: "Grabmal Adele Schoeller"
 date: 2026-01-26
 draft: false
 description: "tomb"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1540874"
 latitude: 50.805
 longitude: 6.49181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/400px-Adeleschoeller.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/800px-Adeleschoeller.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/1200px-Adeleschoeller.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/1920px-Adeleschoeller.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/1920px-Adeleschoeller.JPG---
 
 ## Overview
 

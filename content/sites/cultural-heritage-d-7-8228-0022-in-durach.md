@@ -4,13 +4,13 @@ site_name: "Cultural heritage D-7-8228-0022 in Durach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Durach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Durach"
+  - "Baden-Württemberg"
 wikidata_id: "Q98287053"
 latitude: 47.710462264
 longitude: 10.406053561
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/400px-Dengelstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/800px-Dengelstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/1200px-Dengelstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/1920px-Dengelstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/1920px-Dengelstein.JPG---
 
 ## Overview
 

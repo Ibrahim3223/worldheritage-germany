@@ -4,13 +4,13 @@ site_name: "Grips-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre company and theatre (a former cinema) in Hansaviertel, Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q525243"
 latitude: 52.5188564
 longitude: 13.3417348
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/400px-Grips-theater.berlin-hansaplatz.II.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/800px-Grips-theater.berlin-hansaplatz.II.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/1200px-Grips-theater.berlin-hansaplatz.II.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/1920px-Grips-theater.berlin-hansaplatz.II.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/1920px-Grips-theater.berlin-hansaplatz.II.JPG---
 
 ## Overview
 

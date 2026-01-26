@@ -4,19 +4,18 @@ site_name: "Garten Dr.-Martin-Luther-Straße 26 in Ochsenfurt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-79-170-39 (1) in Ochsenfurt, Bavaria"
-region: "Ochsenfurt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Ochsenfurt"
+  - "Baden-Württemberg"
 wikidata_id: "Q98485276"
 latitude: 49.662686479
 longitude: 10.062584085
 images:
-  []
----
+  []---
 
 ## Overview
 

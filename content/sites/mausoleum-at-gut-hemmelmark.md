@@ -4,13 +4,13 @@ site_name: "Mausoleum at Gut Hemmelmark"
 date: 2026-01-26
 draft: false
 description: "Gut Hemmelmark: Mausoleum of Prince Heinrich of Prussia (1862–1929)"
-region: "Barkelsby"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Barkelsby"
+  - "Schleswig-Holstein"
 wikidata_id: "Q136687945"
 latitude: 54.498778
 longitude: 9.886949
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/400px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/800px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/1200px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/1920px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/1920px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg---
 
 ## Overview
 

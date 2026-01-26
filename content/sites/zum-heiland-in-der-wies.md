@@ -4,13 +4,13 @@ site_name: "Zum Heiland in der Wies"
 date: 2026-01-26
 draft: false
 description: "chapel in Niederrieden, Germany"
-region: "Niederrieden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Niederrieden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1612797"
 latitude: 48.0647
 longitude: 10.185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/400px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/800px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/1200px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/1920px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/1920px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG---
 
 ## Overview
 

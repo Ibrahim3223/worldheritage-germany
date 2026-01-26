@@ -4,13 +4,13 @@ site_name: "Natural history museum Schleusingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Thuringia"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thuringia"
+  - "Bavaria"
 wikidata_id: "Q1594074"
 latitude: 50.5092
 longitude: 10.7493
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/400px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/800px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/1200px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/1920px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/1920px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg---
 
 ## Overview
 

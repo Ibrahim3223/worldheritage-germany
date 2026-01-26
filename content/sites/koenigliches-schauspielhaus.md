@@ -4,13 +4,13 @@ site_name: "Königliches Schauspielhaus"
 date: 2026-01-26
 draft: false
 description: "former theater in Potsdam, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1629292"
 latitude: 52.3987
 longitude: 13.0654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/400px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/800px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/1200px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/1920px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/1920px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Solingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Solingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Solingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1763175"
 latitude: 51.2036
 longitude: 7.07361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museum-baden.jpg/400px-Museum-baden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museum-baden.jpg/800px-Museum-baden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museum-baden.jpg/1200px-Museum-baden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museum-baden.jpg/1920px-Museum-baden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museum-baden.jpg/1920px-Museum-baden.jpg---
 
 ## Overview
 

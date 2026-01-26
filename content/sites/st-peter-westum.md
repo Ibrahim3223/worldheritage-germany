@@ -4,13 +4,13 @@ site_name: "St. Peter (Westum)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude im Stadtteil Westum in Sinzig"
-region: "Sinzig"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sinzig"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2322584"
 latitude: 50.5374
 longitude: 7.23029
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Westum(Sinzig)_St.Peter79.JPG/400px-Westum(Sinzig)_St.Peter79.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Westum(Sinzig)_St.Peter79.JPG/800px-Westum(Sinzig)_St.Peter79.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Westum(Sinzig)_St.Peter79.JPG/1200px-Westum(Sinzig)_St.Peter79.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Westum(Sinzig)_St.Peter79.JPG/1920px-Westum(Sinzig)_St.Peter79.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Westum(Sinzig)_St.Peter79.JPG/1920px-Westum(Sinzig)_St.Peter79.JPG---
 
 ## Overview
 

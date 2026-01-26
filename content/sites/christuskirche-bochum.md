@@ -4,13 +4,13 @@ site_name: "Christuskirche (Bochum)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bochum-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bochum-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q83697"
 latitude: 51.4821
 longitude: 7.213583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/400px-Bochum,_Glockenturm_der_Christuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/800px-Bochum,_Glockenturm_der_Christuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1200px-Bochum,_Glockenturm_der_Christuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1920px-Bochum,_Glockenturm_der_Christuskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1920px-Bochum,_Glockenturm_der_Christuskirche.jpg---
 
 ## Overview
 

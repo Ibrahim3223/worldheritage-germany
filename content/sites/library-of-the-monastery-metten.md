@@ -4,19 +4,18 @@ site_name: "Library of the Monastery Metten"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Metten"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Metten"
+  - "Bavaria"
 wikidata_id: "Q1776378"
 latitude: 48.8557
 longitude: 12.9184
 images:
-  []
----
+  []---
 
 ## Overview
 

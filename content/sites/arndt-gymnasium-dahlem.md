@@ -4,13 +4,13 @@ site_name: "Arndt-Gymnasium Dahlem"
 date: 2026-01-26
 draft: false
 description: "school in Berlin-Dahlem"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q692004"
 latitude: 52.459
 longitude: 13.2801
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Agd_kartusche01.jpg/400px-Agd_kartusche01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Agd_kartusche01.jpg/800px-Agd_kartusche01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Agd_kartusche01.jpg/1200px-Agd_kartusche01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Agd_kartusche01.jpg/1920px-Agd_kartusche01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Agd_kartusche01.jpg/1920px-Agd_kartusche01.jpg---
 
 ## Overview
 

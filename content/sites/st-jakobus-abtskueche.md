@@ -4,13 +4,13 @@ site_name: "St. Jakobus (Abtsküche)"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Heiligenhaus, Nordrhein-Westfalen, Deutschland"
-region: "Heiligenhaus"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Heiligenhaus"
+  - "Lower Saxony"
 wikidata_id: "Q1728425"
 latitude: 51.336678
 longitude: 6.987819
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/400px-Kapelle_St_Jakobus_Abtsküche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/800px-Kapelle_St_Jakobus_Abtsküche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/1200px-Kapelle_St_Jakobus_Abtsküche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/1920px-Kapelle_St_Jakobus_Abtsküche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/1920px-Kapelle_St_Jakobus_Abtsküche.jpg---
 
 ## Overview
 

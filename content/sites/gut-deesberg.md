@@ -4,13 +4,13 @@ site_name: "Gut Deesberg"
 date: 2026-01-26
 draft: false
 description: "manor house in Bad Oeynhausen, Germany"
-region: "Bad Oeynhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bad Oeynhausen"
+  - "Lower Saxony"
 wikidata_id: "Q1556910"
 latitude: 52.1886
 longitude: 8.86
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GutDeesberg1.jpg/400px-GutDeesberg1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GutDeesberg1.jpg/800px-GutDeesberg1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GutDeesberg1.jpg/1200px-GutDeesberg1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GutDeesberg1.jpg/1920px-GutDeesberg1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GutDeesberg1.jpg/1920px-GutDeesberg1.jpg---
 
 ## Overview
 

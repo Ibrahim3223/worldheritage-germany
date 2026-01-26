@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über die Triebisch bei der Niedermühle Blankenstein (
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wilsdruff"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wilsdruff"
+  - "Saxony"
 wikidata_id: "Q49444200"
 latitude: 51.036790453
 longitude: 13.428163951
 images:
-  []
----
+  []---
 
 ## Overview
 

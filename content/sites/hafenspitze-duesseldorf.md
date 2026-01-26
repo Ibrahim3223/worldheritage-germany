@@ -4,13 +4,13 @@ site_name: "Hafenspitze Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1567974"
 latitude: 51.2167
 longitude: 6.75303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg/400px-Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg/800px-Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg/1200px-Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg/1920px-Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg/1920px-Düsseldorf_-_Julo-Levin-Ufer-Hafenspitze_(Rheinturm)_01_ies.jpg---
 
 ## Overview
 

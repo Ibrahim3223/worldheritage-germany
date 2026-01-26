@@ -4,13 +4,13 @@ site_name: "Hauptkirche Sonnborn"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1589505"
 latitude: 51.2391
 longitude: 7.1024
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/400px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/800px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/1200px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/1920px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/1920px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg---
 
 ## Overview
 

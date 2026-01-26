@@ -4,19 +4,18 @@ site_name: "Burg Gruibingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gruibingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gruibingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012084"
 latitude: 48.5831
 longitude: 9.65027
 images:
-  []
----
+  []---
 
 ## Overview
 

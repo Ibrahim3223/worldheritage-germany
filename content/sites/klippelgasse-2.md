@@ -4,13 +4,13 @@ site_name: "Klippelgasse 2"
 date: 2026-01-26
 draft: false
 description: "Upper Lusatian house in Obercunnersdorf"
-region: "Kottmar"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kottmar"
+  - "Saxony"
 wikidata_id: "Q49437554"
 latitude: 51.034156
 longitude: 14.669256
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sachsen,_Obercunnersdorf_NIK_5552.JPG/400px-Sachsen,_Obercunnersdorf_NIK_5552.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sachsen,_Obercunnersdorf_NIK_5552.JPG/800px-Sachsen,_Obercunnersdorf_NIK_5552.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sachsen,_Obercunnersdorf_NIK_5552.JPG/1200px-Sachsen,_Obercunnersdorf_NIK_5552.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sachsen,_Obercunnersdorf_NIK_5552.JPG/1920px-Sachsen,_Obercunnersdorf_NIK_5552.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sachsen,_Obercunnersdorf_NIK_5552.JPG/1920px-Sachsen,_Obercunnersdorf_NIK_5552.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hückelhoven-Baal station"
 date: 2026-01-26
 draft: false
 description: "railway station in Baal, Germany"
-region: "Hückelhoven"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Hückelhoven"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q201611"
 latitude: 51.033082
 longitude: 6.274014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/400px-Hückelhoven-Baal_Bahnsteig_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/800px-Hückelhoven-Baal_Bahnsteig_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/1200px-Hückelhoven-Baal_Bahnsteig_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/1920px-Hückelhoven-Baal_Bahnsteig_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/1920px-Hückelhoven-Baal_Bahnsteig_1.JPG---
 
 ## Overview
 

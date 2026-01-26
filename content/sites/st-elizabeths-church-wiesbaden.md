@@ -4,13 +4,13 @@ site_name: "St. Elizabeth's Church Wiesbaden"
 date: 2026-01-26
 draft: false
 description: "Russian Orthodox church"
-region: "Nordost"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nordost"
+  - "Hesse"
 wikidata_id: "Q125229"
 latitude: 50.0975
 longitude: 8.234722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/400px-Russische_Kirche_"Griechische_Kapelle%22_auf_dem_Neroberg_in_Wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_%22Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/800px-Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/1200px-Russische_Kirche_"Griechische_Kapelle%22_auf_dem_Neroberg_in_Wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_%22Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/1920px-Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_%22Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/1920px-Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg---
 
 ## Overview
 

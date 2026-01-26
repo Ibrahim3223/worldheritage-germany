@@ -4,13 +4,13 @@ site_name: "Burg Helfenstein"
 date: 2026-01-26
 draft: false
 description: "castle in Koblenz"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012288"
 latitude: 50.3615
 longitude: 7.61306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/De_Merian_Mainz_Trier_Köln_060.jpg/400px-De_Merian_Mainz_Trier_Köln_060.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/De_Merian_Mainz_Trier_Köln_060.jpg/800px-De_Merian_Mainz_Trier_Köln_060.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/De_Merian_Mainz_Trier_Köln_060.jpg/1200px-De_Merian_Mainz_Trier_Köln_060.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/De_Merian_Mainz_Trier_Köln_060.jpg/1920px-De_Merian_Mainz_Trier_Köln_060.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/De_Merian_Mainz_Trier_Köln_060.jpg/1920px-De_Merian_Mainz_Trier_Köln_060.jpg---
 
 ## Overview
 

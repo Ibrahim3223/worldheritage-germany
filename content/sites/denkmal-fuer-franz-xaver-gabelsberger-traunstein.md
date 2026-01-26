@@ -4,19 +4,18 @@ site_name: "Denkmal für Franz Xaver Gabelsberger (Traunstein)"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Traunstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Traunstein"
+  - "Bavaria"
 wikidata_id: "Q1187998"
 latitude: 47.871
 longitude: 12.6415
 images:
-  []
----
+  []---
 
 ## Overview
 

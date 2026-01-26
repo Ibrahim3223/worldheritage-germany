@@ -4,13 +4,13 @@ site_name: "Rolandseck station"
 date: 2026-01-26
 draft: false
 description: "railway station in Remagen, Germany"
-region: "Oberwinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Oberwinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q314379"
 latitude: 50.6314
 longitude: 7.20694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/400px-Rolandseck_Bahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/800px-Rolandseck_Bahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/1200px-Rolandseck_Bahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/1920px-Rolandseck_Bahnhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/1920px-Rolandseck_Bahnhof.jpg---
 
 ## Overview
 

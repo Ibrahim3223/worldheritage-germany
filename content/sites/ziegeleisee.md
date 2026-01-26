@@ -4,13 +4,13 @@ site_name: "Ziegeleisee"
 date: 2026-01-26
 draft: false
 description: "lake in Reinickendorf, Berlin, Germany"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q198615"
 latitude: 52.616666666
 longitude: 13.333333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/400px-Lübars_Ziegeleisee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/800px-Lübars_Ziegeleisee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/1200px-Lübars_Ziegeleisee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/1920px-Lübars_Ziegeleisee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/1920px-Lübars_Ziegeleisee.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Jugend-Synagoge am Fraenkelufer"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q385091"
 latitude: 52.4958
 longitude: 13.4169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/400px-Orthodoxs_Synagoge_Fraenkelufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/800px-Orthodoxs_Synagoge_Fraenkelufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1200px-Orthodoxs_Synagoge_Fraenkelufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1920px-Orthodoxs_Synagoge_Fraenkelufer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1920px-Orthodoxs_Synagoge_Fraenkelufer.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Vehmsmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Walsrode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Walsrode"
+  - "Lower Saxony"
 wikidata_id: "Q999534"
 latitude: 52.8626
 longitude: 9.49476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/NSG_LÜ_182_Vehmsmoor_02.jpg/400px-NSG_LÜ_182_Vehmsmoor_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/NSG_LÜ_182_Vehmsmoor_02.jpg/800px-NSG_LÜ_182_Vehmsmoor_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/NSG_LÜ_182_Vehmsmoor_02.jpg/1200px-NSG_LÜ_182_Vehmsmoor_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/NSG_LÜ_182_Vehmsmoor_02.jpg/1920px-NSG_LÜ_182_Vehmsmoor_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/NSG_LÜ_182_Vehmsmoor_02.jpg/1920px-NSG_LÜ_182_Vehmsmoor_02.jpg---
 
 ## Overview
 

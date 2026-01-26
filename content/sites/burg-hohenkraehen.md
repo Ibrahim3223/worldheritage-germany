@@ -4,13 +4,13 @@ site_name: "Burg Hohenkrähen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mühlhausen-Ehingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mühlhausen-Ehingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012426"
 latitude: 47.79888889
 longitude: 8.82055556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/400px-Burgruine_Hohenkrähen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/800px-Burgruine_Hohenkrähen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/1200px-Burgruine_Hohenkrähen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/1920px-Burgruine_Hohenkrähen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/1920px-Burgruine_Hohenkrähen.jpg---
 
 ## Overview
 

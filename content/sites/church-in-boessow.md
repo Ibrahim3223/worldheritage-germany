@@ -4,13 +4,13 @@ site_name: "Church in Bössow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Warnow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Warnow"
+  - "Lower Saxony"
 wikidata_id: "Q1244199"
 latitude: 53.9185
 longitude: 11.2171
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/400px-Kirche_in_Bössow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/800px-Kirche_in_Bössow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1200px-Kirche_in_Bössow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1920px-Kirche_in_Bössow.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1920px-Kirche_in_Bössow.JPG---
 
 ## Overview
 

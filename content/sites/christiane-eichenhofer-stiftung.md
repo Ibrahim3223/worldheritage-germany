@@ -4,13 +4,13 @@ site_name: "Christiane Eichenhofer Stiftung"
 date: 2026-01-26
 draft: false
 description: "Stiftung zur Unterstützung kranker Kinder"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q20850893"
 latitude: 48.78958
 longitude: 9.64112
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tour_Ginkgo_Beinstein_2023.jpg/400px-Tour_Ginkgo_Beinstein_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tour_Ginkgo_Beinstein_2023.jpg/800px-Tour_Ginkgo_Beinstein_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tour_Ginkgo_Beinstein_2023.jpg/1200px-Tour_Ginkgo_Beinstein_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tour_Ginkgo_Beinstein_2023.jpg/1920px-Tour_Ginkgo_Beinstein_2023.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tour_Ginkgo_Beinstein_2023.jpg/1920px-Tour_Ginkgo_Beinstein_2023.jpg---
 
 ## Overview
 

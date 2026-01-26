@@ -4,19 +4,18 @@ site_name: "Marktplatz 6"
 date: 2026-01-26
 draft: false
 description: "building in Nordenham, Germany"
-region: "Nordenham"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Nordenham"
+  - "Lower Saxony"
 wikidata_id: "Q123899765"
 latitude: 53.485451
 longitude: 8.482481
 images:
-  []
----
+  []---
 
 ## Overview
 

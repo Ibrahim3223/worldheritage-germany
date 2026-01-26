@@ -4,13 +4,13 @@ site_name: "Laboe Naval Memorial"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Laboe"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Laboe"
+  - "Schleswig-Holstein"
 wikidata_id: "Q538382"
 latitude: 54.4122
 longitude: 10.2306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marine_-_Ehrenmal_Laboe.jpg/400px-Marine_-_Ehrenmal_Laboe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marine_-_Ehrenmal_Laboe.jpg/800px-Marine_-_Ehrenmal_Laboe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marine_-_Ehrenmal_Laboe.jpg/1200px-Marine_-_Ehrenmal_Laboe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marine_-_Ehrenmal_Laboe.jpg/1920px-Marine_-_Ehrenmal_Laboe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marine_-_Ehrenmal_Laboe.jpg/1920px-Marine_-_Ehrenmal_Laboe.jpg---
 
 ## Overview
 

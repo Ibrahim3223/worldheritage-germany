@@ -4,13 +4,13 @@ site_name: "Niedersächsisches Spargelmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Nienburg/Weser, Germany"
-region: "Nienburg/Weser"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nienburg/Weser"
+  - "Lower Saxony"
 wikidata_id: "Q1466755"
 latitude: 52.6376
 longitude: 9.20913
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/400px-Spargelmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/800px-Spargelmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/1200px-Spargelmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/1920px-Spargelmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/1920px-Spargelmuseum.JPG---
 
 ## Overview
 

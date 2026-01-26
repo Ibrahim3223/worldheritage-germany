@@ -4,19 +4,18 @@ site_name: "Cracauer Tor"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltenes Tor der Stadtbefestigung der Stadt Magdeburg"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1138399"
 latitude: 52.1242
 longitude: 11.6541
 images:
-  []
----
+  []---
 
 ## Overview
 

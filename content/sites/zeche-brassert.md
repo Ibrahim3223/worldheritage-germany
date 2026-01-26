@@ -4,13 +4,13 @@ site_name: "Zeche Brassert"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Marl"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Marl"
+  - "Lower Saxony"
 wikidata_id: "Q169691"
 latitude: 51.6636
 longitude: 7.08636
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/400px-Marl_Zechenstraße_Zeche_Brassert.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/800px-Marl_Zechenstraße_Zeche_Brassert.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/1200px-Marl_Zechenstraße_Zeche_Brassert.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/1920px-Marl_Zechenstraße_Zeche_Brassert.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/1920px-Marl_Zechenstraße_Zeche_Brassert.jpg---
 
 ## Overview
 

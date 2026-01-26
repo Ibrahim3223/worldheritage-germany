@@ -4,13 +4,13 @@ site_name: "Schloss Demerthin"
 date: 2026-01-26
 draft: false
 description: "renaissance castle in Brandenburg, Germany"
-region: "Gumtow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gumtow"
+  - "Brandenburg"
 wikidata_id: "Q751022"
 latitude: 52.9715
 longitude: 12.2897
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/400px-Prignitz_07-13_img15_Demerthin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/800px-Prignitz_07-13_img15_Demerthin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/1200px-Prignitz_07-13_img15_Demerthin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/1920px-Prignitz_07-13_img15_Demerthin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/1920px-Prignitz_07-13_img15_Demerthin.jpg---
 
 ## Overview
 

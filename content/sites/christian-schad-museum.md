@@ -4,19 +4,18 @@ site_name: "Christian Schad Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q23786583"
 latitude: 49.97515
 longitude: 9.14427
 images:
-  []
----
+  []---
 
 ## Overview
 

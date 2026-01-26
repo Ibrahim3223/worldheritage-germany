@@ -4,19 +4,18 @@ site_name: "Windmühle Tarmstedt"
 date: 2026-01-26
 draft: false
 description: "Windmühle im niedersächsischen Tarmstedt"
-region: "Tarmstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Tarmstedt"
+  - "Lower Saxony"
 wikidata_id: "Q136304767"
 latitude: 53.224755555
 longitude: 9.085688888
 images:
-  []
----
+  []---
 
 ## Overview
 

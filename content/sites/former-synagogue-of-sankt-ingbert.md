@@ -4,13 +4,13 @@ site_name: "former synagogue of Sankt Ingbert"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Sankt Ingbert"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Sankt Ingbert"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1261281"
 latitude: 49.2828
 longitude: 7.11391
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Synagoge_St_Ingbert.JPG/400px-Synagoge_St_Ingbert.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Synagoge_St_Ingbert.JPG/800px-Synagoge_St_Ingbert.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Synagoge_St_Ingbert.JPG/1200px-Synagoge_St_Ingbert.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Synagoge_St_Ingbert.JPG/1920px-Synagoge_St_Ingbert.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Synagoge_St_Ingbert.JPG/1920px-Synagoge_St_Ingbert.JPG---
 
 ## Overview
 

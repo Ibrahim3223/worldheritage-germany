@@ -4,13 +4,13 @@ site_name: "Asperg station"
 date: 2026-01-26
 draft: false
 description: "railway station in Asperg, Germany"
-region: "Asperg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Asperg"
+  - "Baden-Württemberg"
 wikidata_id: "Q46550"
 latitude: 48.9069
 longitude: 9.14806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Asperg_27.jpg/400px-Bahnhof_Asperg_27.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Asperg_27.jpg/800px-Bahnhof_Asperg_27.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Asperg_27.jpg/1200px-Bahnhof_Asperg_27.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Asperg_27.jpg/1920px-Bahnhof_Asperg_27.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Asperg_27.jpg/1920px-Bahnhof_Asperg_27.jpg---
 
 ## Overview
 

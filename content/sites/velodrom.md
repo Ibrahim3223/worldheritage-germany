@@ -4,13 +4,13 @@ site_name: "Velodrom"
 date: 2026-01-26
 draft: false
 description: "sports arena and velodrome in Berlin, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q464179"
 latitude: 52.530833
 longitude: 13.450833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Velodrom_Außenansicht_-_Luftaufnahme.jpg/400px-Velodrom_Außenansicht_-_Luftaufnahme.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Velodrom_Außenansicht_-_Luftaufnahme.jpg/800px-Velodrom_Außenansicht_-_Luftaufnahme.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Velodrom_Außenansicht_-_Luftaufnahme.jpg/1200px-Velodrom_Außenansicht_-_Luftaufnahme.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Velodrom_Außenansicht_-_Luftaufnahme.jpg/1920px-Velodrom_Außenansicht_-_Luftaufnahme.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Velodrom_Außenansicht_-_Luftaufnahme.jpg/1920px-Velodrom_Außenansicht_-_Luftaufnahme.jpg---
 
 ## Overview
 

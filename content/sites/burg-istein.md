@@ -4,13 +4,13 @@ site_name: "Burg Istein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Efringen-Kirchen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Efringen-Kirchen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012574"
 latitude: 47.66305556
 longitude: 7.53083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/400px-Festung_am_Isteiner_Klotz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/800px-Festung_am_Isteiner_Klotz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1200px-Festung_am_Isteiner_Klotz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1920px-Festung_am_Isteiner_Klotz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1920px-Festung_am_Isteiner_Klotz.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Friedrich-von-Bodelschwingh-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1231989"
 latitude: 53.8692
 longitude: 10.6525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/400px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/800px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1200px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1920px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1920px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg---
 
 ## Overview
 

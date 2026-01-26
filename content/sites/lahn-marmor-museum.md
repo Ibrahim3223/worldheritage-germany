@@ -4,13 +4,13 @@ site_name: "Lahn-Marmor-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Villmar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Villmar"
+  - "Hesse"
 wikidata_id: "Q47460660"
 latitude: 50.395962
 longitude: 8.18655
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/400px-Lahn-Marmor-Museum_Villmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/800px-Lahn-Marmor-Museum_Villmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/1200px-Lahn-Marmor-Museum_Villmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/1920px-Lahn-Marmor-Museum_Villmar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/1920px-Lahn-Marmor-Museum_Villmar.jpg---
 
 ## Overview
 

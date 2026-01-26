@@ -4,13 +4,13 @@ site_name: "Zinnfiguren-Museum Goslar"
 date: 2026-01-26
 draft: false
 description: "museum in Goslar, Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q49447251"
 latitude: 51.90446
 longitude: 10.42895
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goslar_asv2022-06_img10_Lohmühle.jpg/400px-Goslar_asv2022-06_img10_Lohmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goslar_asv2022-06_img10_Lohmühle.jpg/800px-Goslar_asv2022-06_img10_Lohmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goslar_asv2022-06_img10_Lohmühle.jpg/1200px-Goslar_asv2022-06_img10_Lohmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goslar_asv2022-06_img10_Lohmühle.jpg/1920px-Goslar_asv2022-06_img10_Lohmühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goslar_asv2022-06_img10_Lohmühle.jpg/1920px-Goslar_asv2022-06_img10_Lohmühle.jpg---
 
 ## Overview
 

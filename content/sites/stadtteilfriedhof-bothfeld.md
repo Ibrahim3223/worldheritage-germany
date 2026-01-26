@@ -4,13 +4,13 @@ site_name: "Stadtteilfriedhof Bothfeld"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bothfeld-Vahrenheide, Germany"
-region: "Bothfeld-Vahrenheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bothfeld-Vahrenheide"
+  - "Lower Saxony"
 wikidata_id: "Q2328162"
 latitude: 52.424
 longitude: 9.80287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/400px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/800px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/1200px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/1920px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/1920px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg---
 
 ## Overview
 

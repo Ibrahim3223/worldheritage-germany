@@ -4,13 +4,13 @@ site_name: "Windmühle Anna"
 date: 2026-01-26
 draft: false
 description: "wind mill and museum in Rieseby, Germany"
-region: "Rieseby"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rieseby"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58405034"
 latitude: 54.543063
 longitude: 9.803491
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/400px-Rieseby_Norby_5264.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/800px-Rieseby_Norby_5264.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/1200px-Rieseby_Norby_5264.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/1920px-Rieseby_Norby_5264.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/1920px-Rieseby_Norby_5264.jpg---
 
 ## Overview
 

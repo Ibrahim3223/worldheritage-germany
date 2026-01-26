@@ -4,13 +4,13 @@ site_name: "University of Ingolstadt"
 date: 2026-01-26
 draft: false
 description: "former university in Ingolstadt, Bavaria (1472–1800)"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q462039"
 latitude: 49.273888888
 longitude: 11.706666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/400px-Hohe_Schule_Ingolstadt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/800px-Hohe_Schule_Ingolstadt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/1200px-Hohe_Schule_Ingolstadt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/1920px-Hohe_Schule_Ingolstadt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/1920px-Hohe_Schule_Ingolstadt.JPG---
 
 ## Overview
 

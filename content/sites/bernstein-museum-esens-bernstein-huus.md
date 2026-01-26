@@ -4,19 +4,18 @@ site_name: "Bernstein-Museum Esens Bernstein Huus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Esens"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Esens"
+  - "Lower Saxony"
 wikidata_id: "Q76635970"
 latitude: 53.646608
 longitude: 7.610032
 images:
-  []
----
+  []---
 
 ## Overview
 

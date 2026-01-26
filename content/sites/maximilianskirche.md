@@ -4,13 +4,13 @@ site_name: "Maximilianskirche"
 date: 2026-01-26
 draft: false
 description: "filial church"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q721727"
 latitude: 49.060174809
 longitude: 10.961158446
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/400px-Ellingen_Maxkirche1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/800px-Ellingen_Maxkirche1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/1200px-Ellingen_Maxkirche1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/1920px-Ellingen_Maxkirche1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ellingen_Maxkirche1.jpg/1920px-Ellingen_Maxkirche1.jpg---
 
 ## Overview
 

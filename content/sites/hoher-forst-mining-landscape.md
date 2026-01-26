@@ -4,19 +4,18 @@ site_name: "Hoher Forst Mining Landscape"
 date: 2026-01-26
 draft: false
 description: "part of a World Heritage site in Germany"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q66054714"
 latitude: 50.6196
 longitude: 12.5688
 images:
-  []
----
+  []---
 
 ## Overview
 

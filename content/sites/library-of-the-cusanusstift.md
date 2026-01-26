@@ -4,13 +4,13 @@ site_name: "Library of the Cusanusstift"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Bernkastel-Kues"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bernkastel-Kues"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q856546"
 latitude: 49.91593
 longitude: 7.07149
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/400px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/800px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1200px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1920px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1920px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg---
 
 ## Overview
 

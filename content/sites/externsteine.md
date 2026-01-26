@@ -4,13 +4,13 @@ site_name: "Externsteine"
 date: 2026-01-26
 draft: false
 description: "rock formation in Germany"
-region: "Horn-Bad Meinberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Horn-Bad Meinberg"
+  - "Lower Saxony"
 wikidata_id: "Q319172"
 latitude: 51.868888888
 longitude: 8.9175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/400px-Externsteine_pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/800px-Externsteine_pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1200px-Externsteine_pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1920px-Externsteine_pano.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1920px-Externsteine_pano.jpg---
 
 ## Overview
 

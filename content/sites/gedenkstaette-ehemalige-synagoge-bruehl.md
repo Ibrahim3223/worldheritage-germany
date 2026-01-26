@@ -4,13 +4,13 @@ site_name: "Gedenkstätte ehemalige Synagoge Brühl"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Brühl"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Brühl"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1279593"
 latitude: 50.8315
 longitude: 6.90302
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/400px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/800px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/1200px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/1920px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/1920px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG---
 
 ## Overview
 

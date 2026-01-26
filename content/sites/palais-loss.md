@@ -4,13 +4,13 @@ site_name: "Palais Loß"
 date: 2026-01-26
 draft: false
 description: "Destroyed building in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q15838112"
 latitude: 51.04805556
 longitude: 13.74111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/400px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/800px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/1200px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/1920px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/1920px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg---
 
 ## Overview
 

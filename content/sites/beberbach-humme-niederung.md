@@ -4,13 +4,13 @@ site_name: "Beberbach-Humme-Niederung"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Aerzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Aerzen"
+  - "Lower Saxony"
 wikidata_id: "Q813538"
 latitude: 52.0611
 longitude: 9.27472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/400px-Beberbach-Humme-Niederung.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/800px-Beberbach-Humme-Niederung.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/1200px-Beberbach-Humme-Niederung.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/1920px-Beberbach-Humme-Niederung.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/1920px-Beberbach-Humme-Niederung.JPG---
 
 ## Overview
 

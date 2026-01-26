@@ -4,19 +4,18 @@ site_name: "Imai – inter media art institute"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15961651"
 latitude: 51.2270449
 longitude: 6.8025032
 images:
-  []
----
+  []---
 
 ## Overview
 

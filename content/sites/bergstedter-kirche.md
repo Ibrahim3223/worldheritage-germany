@@ -4,13 +4,13 @@ site_name: "Bergstedter Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q820252"
 latitude: 53.67219444
 longitude: 10.12633333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/400px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/800px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/1200px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/1920px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/1920px-Kirche_Hamburg-Bergstedt.1.ajb.jpg---
 
 ## Overview
 

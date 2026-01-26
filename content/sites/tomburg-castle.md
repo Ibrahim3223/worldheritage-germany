@@ -4,13 +4,13 @@ site_name: "Tomburg Castle"
 date: 2026-01-26
 draft: false
 description: "Castle near Rheinbach, Germany"
-region: "Rheinbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rheinbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151238"
 latitude: 50.59545
 longitude: 6.97373
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tomburg_2008_(2).jpg/400px-Tomburg_2008_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tomburg_2008_(2).jpg/800px-Tomburg_2008_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tomburg_2008_(2).jpg/1200px-Tomburg_2008_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tomburg_2008_(2).jpg/1920px-Tomburg_2008_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tomburg_2008_(2).jpg/1920px-Tomburg_2008_(2).jpg---
 
 ## Overview
 

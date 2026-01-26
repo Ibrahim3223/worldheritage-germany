@@ -4,13 +4,13 @@ site_name: "Lousberg"
 date: 2026-01-26
 draft: false
 description: "hill in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153664"
 latitude: 50.7869
 longitude: 6.07917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Lousberg.jpg/400px-Aachen,_Lousberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Lousberg.jpg/800px-Aachen,_Lousberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Lousberg.jpg/1200px-Aachen,_Lousberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Lousberg.jpg/1920px-Aachen,_Lousberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Lousberg.jpg/1920px-Aachen,_Lousberg.jpg---
 
 ## Overview
 

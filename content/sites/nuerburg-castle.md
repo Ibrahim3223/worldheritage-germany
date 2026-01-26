@@ -4,13 +4,13 @@ site_name: "Nürburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Nürburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nürburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q182382"
 latitude: 50.3465
 longitude: 6.95407
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nürburg_(Burg)_01.jpg/400px-Nürburg_(Burg)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nürburg_(Burg)_01.jpg/800px-Nürburg_(Burg)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nürburg_(Burg)_01.jpg/1200px-Nürburg_(Burg)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nürburg_(Burg)_01.jpg/1920px-Nürburg_(Burg)_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nürburg_(Burg)_01.jpg/1920px-Nürburg_(Burg)_01.jpg---
 
 ## Overview
 

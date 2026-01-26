@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7827-0014 in Babenhausen (Schwaben)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Babenhausen, Unterallgäu, Swabia, Bavaria, Germany"
-region: "Babenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Babenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98284735"
 latitude: 48.161478046
 longitude: 10.223509894
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ziegeleimuseum Sondernheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germersheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germersheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q15136188"
 latitude: 49.189752
 longitude: 8.380728
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/140914-Sondernheim-03.jpg/400px-140914-Sondernheim-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/140914-Sondernheim-03.jpg/800px-140914-Sondernheim-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/140914-Sondernheim-03.jpg/1200px-140914-Sondernheim-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/140914-Sondernheim-03.jpg/1920px-140914-Sondernheim-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/140914-Sondernheim-03.jpg/1920px-140914-Sondernheim-03.jpg---
 
 ## Overview
 

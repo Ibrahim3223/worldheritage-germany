@@ -4,13 +4,13 @@ site_name: "Johanneskapelle (Nehden)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Brilon"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Brilon"
+  - "Hesse"
 wikidata_id: "Q1283308"
 latitude: 51.4355
 longitude: 8.63579
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/400px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/800px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/1200px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/1920px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/1920px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Schwörstadt"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Landkreis Lörrach"
-region: "Schwörstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Schwörstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q22693896"
 latitude: 47.59277778
 longitude: 7.88027778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dischler_Schloss_Schwörstadt.jpg/400px-Dischler_Schloss_Schwörstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dischler_Schloss_Schwörstadt.jpg/800px-Dischler_Schloss_Schwörstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dischler_Schloss_Schwörstadt.jpg/1200px-Dischler_Schloss_Schwörstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dischler_Schloss_Schwörstadt.jpg/1920px-Dischler_Schloss_Schwörstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dischler_Schloss_Schwörstadt.jpg/1920px-Dischler_Schloss_Schwörstadt.jpg---
 
 ## Overview
 

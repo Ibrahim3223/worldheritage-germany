@@ -4,13 +4,13 @@ site_name: "New Chambers"
 date: 2026-01-26
 draft: false
 description: "Guest palace and museum in Sanssouci Park, Potsdam"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q314818"
 latitude: 52.4036
 longitude: 13.0356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/400px-Potsdam_neue_kammern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/800px-Potsdam_neue_kammern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/1200px-Potsdam_neue_kammern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/1920px-Potsdam_neue_kammern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/1920px-Potsdam_neue_kammern.jpg---
 
 ## Overview
 

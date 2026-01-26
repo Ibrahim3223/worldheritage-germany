@@ -4,13 +4,13 @@ site_name: "Maschenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Albstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Albstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1906814"
 latitude: 48.2557
 longitude: 9.01636
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/400px-Maschenmuseum_Tailfingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/800px-Maschenmuseum_Tailfingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/1200px-Maschenmuseum_Tailfingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/1920px-Maschenmuseum_Tailfingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/1920px-Maschenmuseum_Tailfingen.JPG---
 
 ## Overview
 

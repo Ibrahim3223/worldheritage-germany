@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Heidenheim"
 date: 2026-01-26
 draft: false
 description: "städtisches Ausstellungshaus für aktuelle Kunst in Heidenheim an der Brenz im Osten Baden-Württembergs"
-region: "Heidenheim an der Brenz"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Heidenheim an der Brenz"
+  - "Baden-Württemberg"
 wikidata_id: "Q108888268"
 latitude: 48.680466
 longitude: 10.154232
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heidenheim_dawna_laznia_9.jpg/400px-Heidenheim_dawna_laznia_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heidenheim_dawna_laznia_9.jpg/800px-Heidenheim_dawna_laznia_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heidenheim_dawna_laznia_9.jpg/1200px-Heidenheim_dawna_laznia_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heidenheim_dawna_laznia_9.jpg/1920px-Heidenheim_dawna_laznia_9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Heidenheim_dawna_laznia_9.jpg/1920px-Heidenheim_dawna_laznia_9.jpg---
 
 ## Overview
 

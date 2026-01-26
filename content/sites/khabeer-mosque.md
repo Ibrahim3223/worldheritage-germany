@@ -4,19 +4,18 @@ site_name: "Khabeer Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Pfungstadt, Germany"
-region: "Pfungstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Pfungstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q123289695"
 latitude: 49.797762704
 longitude: 8.593940354
 images:
-  []
----
+  []---
 
 ## Overview
 

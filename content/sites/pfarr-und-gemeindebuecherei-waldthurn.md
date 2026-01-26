@@ -4,19 +4,18 @@ site_name: "Pfarr- und Gemeindebücherei Waldthurn"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Waldthurn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Waldthurn"
+  - "Bavaria"
 wikidata_id: "Q28729524"
 latitude: 49.67219
 longitude: 12.33076
 images:
-  []
----
+  []---
 
 ## Overview
 

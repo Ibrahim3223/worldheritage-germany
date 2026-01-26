@@ -4,19 +4,18 @@ site_name: "Burg Horneburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Horneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Horneburg"
+  - "Lower Saxony"
 wikidata_id: "Q1012493"
 latitude: 53.5097
 longitude: 9.58778
 images:
-  []
----
+  []---
 
 ## Overview
 

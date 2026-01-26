@@ -4,13 +4,13 @@ site_name: "University of Rinteln"
 date: 2026-01-26
 draft: false
 description: "former university in Germany"
-region: "Rinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Rinteln"
+  - "Lower Saxony"
 wikidata_id: "Q2496139"
 latitude: 52.1858
 longitude: 9.07796
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/400px-Uni_Rinteln_1850.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/800px-Uni_Rinteln_1850.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/1200px-Uni_Rinteln_1850.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/1920px-Uni_Rinteln_1850.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/1920px-Uni_Rinteln_1850.jpg---
 
 ## Overview
 

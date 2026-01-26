@@ -4,19 +4,18 @@ site_name: "Arendorfer Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hanstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hanstedt"
+  - "Lower Saxony"
 wikidata_id: "Q641915"
 latitude: 53.0331
 longitude: 10.3314
 images:
-  []
----
+  []---
 
 ## Overview
 

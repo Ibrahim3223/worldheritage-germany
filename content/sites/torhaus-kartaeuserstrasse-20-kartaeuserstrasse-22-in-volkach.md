@@ -4,19 +4,18 @@ site_name: "Torhaus Kartäuserstraße 20; Kartäuserstraße 22 in Volkach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-174-158 (1) in Volkach, Bavaria"
-region: "Volkach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Volkach"
+  - "Bavaria"
 wikidata_id: "Q98495724"
 latitude: 49.862333616
 longitude: 10.216818307
 images:
-  []
----
+  []---
 
 ## Overview
 

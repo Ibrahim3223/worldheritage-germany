@@ -4,13 +4,13 @@ site_name: "Kapelle Schönberg"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Schrecksbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Schrecksbach"
+  - "Hesse"
 wikidata_id: "Q1728412"
 latitude: 50.8544
 longitude: 9.2966
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/400px-Kapelle_Schönberg_Schrecksbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/800px-Kapelle_Schönberg_Schrecksbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/1200px-Kapelle_Schönberg_Schrecksbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/1920px-Kapelle_Schönberg_Schrecksbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/1920px-Kapelle_Schönberg_Schrecksbach.jpg---
 
 ## Overview
 

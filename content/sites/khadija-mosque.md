@@ -4,13 +4,13 @@ site_name: "Khadija Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Berlin, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q328829"
 latitude: 52.5725
 longitude: 13.43055556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/400px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/800px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/1200px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/1920px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/1920px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg---
 
 ## Overview
 

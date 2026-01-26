@@ -4,19 +4,18 @@ site_name: "Der Hospital zum Heiligen Geist in Biberach"
 date: 2026-01-26
 draft: false
 description: "Einrichtung zur Absicherung bedürftiger Menschen in Biberach an der Riß in Oberschwaben"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q1194420"
 latitude: 48.09885
 longitude: 9.78869
 images:
-  []
----
+  []---
 
 ## Overview
 

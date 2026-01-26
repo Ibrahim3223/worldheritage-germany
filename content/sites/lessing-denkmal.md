@@ -4,13 +4,13 @@ site_name: "Lessing-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1479106"
 latitude: 52.2591
 longitude: 10.524
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg/400px-Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg/800px-Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg/1200px-Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg/1920px-Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg/1920px-Braunschweig,_Lessingdenkmal_(Lessingplatz)_(1).jpg---
 
 ## Overview
 

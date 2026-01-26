@@ -4,19 +4,18 @@ site_name: "Mansholter Holz und Schippstroth an der Nutteler und Bokeler Bäke"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wiefelstede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wiefelstede"
+  - "Lower Saxony"
 wikidata_id: "Q998446"
 latitude: 53.225
 longitude: 8.10667
 images:
-  []
----
+  []---
 
 ## Overview
 

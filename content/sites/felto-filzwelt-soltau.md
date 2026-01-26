@@ -4,13 +4,13 @@ site_name: "Felto - Filzwelt Soltau"
 date: 2026-01-26
 draft: false
 description: "museum in Soltau, Lower Saxony"
-region: "Soltau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Soltau"
+  - "Lower Saxony"
 wikidata_id: "Q19279619"
 latitude: 52.985113
 longitude: 9.840875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Soltau_-_Timmermanngang_-_Röders_02_ies.jpg/400px-Soltau_-_Timmermanngang_-_Röders_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Soltau_-_Timmermanngang_-_Röders_02_ies.jpg/800px-Soltau_-_Timmermanngang_-_Röders_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Soltau_-_Timmermanngang_-_Röders_02_ies.jpg/1200px-Soltau_-_Timmermanngang_-_Röders_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Soltau_-_Timmermanngang_-_Röders_02_ies.jpg/1920px-Soltau_-_Timmermanngang_-_Röders_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Soltau_-_Timmermanngang_-_Röders_02_ies.jpg/1920px-Soltau_-_Timmermanngang_-_Röders_02_ies.jpg---
 
 ## Overview
 

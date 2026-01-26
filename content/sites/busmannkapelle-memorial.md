@@ -4,13 +4,13 @@ site_name: "Busmannkapelle Memorial"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1497529"
 latitude: 51.0514
 longitude: 13.7349
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/400px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/800px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1200px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1920px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1920px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg---
 
 ## Overview
 

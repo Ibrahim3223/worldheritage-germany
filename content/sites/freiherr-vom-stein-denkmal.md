@@ -4,13 +4,13 @@ site_name: "Freiherr-vom-Stein-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Karstädt, Germany"
-region: "Karstädt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Karstädt"
+  - "Brandenburg"
 wikidata_id: "Q1454373"
 latitude: 53.1089
 longitude: 11.724
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/400px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/800px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/1200px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/1920px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/1920px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg---
 
 ## Overview
 

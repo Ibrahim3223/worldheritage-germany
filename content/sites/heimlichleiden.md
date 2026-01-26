@@ -4,13 +4,13 @@ site_name: "Heimlichleiden"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Loiching"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Loiching"
+  - "Bavaria"
 wikidata_id: "Q1595826"
 latitude: 48.60853
 longitude: 12.4666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimlichleiden1.jpg/400px-Heimlichleiden1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimlichleiden1.jpg/800px-Heimlichleiden1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimlichleiden1.jpg/1200px-Heimlichleiden1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimlichleiden1.jpg/1920px-Heimlichleiden1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimlichleiden1.jpg/1920px-Heimlichleiden1.jpg---
 
 ## Overview
 

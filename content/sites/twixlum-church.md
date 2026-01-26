@@ -4,13 +4,13 @@ site_name: "Twixlum Church"
 date: 2026-01-26
 draft: false
 description: "church building in Twixlum, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q2462363"
 latitude: 53.3707
 longitude: 7.13317
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/400px-ChurchTwixlum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/800px-ChurchTwixlum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/1200px-ChurchTwixlum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/1920px-ChurchTwixlum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/1920px-ChurchTwixlum.JPG---
 
 ## Overview
 

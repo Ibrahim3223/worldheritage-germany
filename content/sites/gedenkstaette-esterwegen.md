@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Esterwegen"
 date: 2026-01-26
 draft: false
 description: "memorial for Nazi victims in Germany"
-region: "Esterwegen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Esterwegen"
+  - "Lower Saxony"
 wikidata_id: "Q1497527"
 latitude: 53.0086
 longitude: 7.64223
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/400px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/800px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/1200px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/1920px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/1920px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg---
 
 ## Overview
 

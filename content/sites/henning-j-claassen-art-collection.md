@@ -4,19 +4,18 @@ site_name: "Henning J. Claassen art collection"
 date: 2026-01-26
 draft: false
 description: "museum of Modern Art in Lüneburg, Germany"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q115728350"
 latitude: 53.24408
 longitude: 10.4042
 images:
-  []
----
+  []---
 
 ## Overview
 

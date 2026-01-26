@@ -4,13 +4,13 @@ site_name: "Gutenfels Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Kaub"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kaub"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q164816"
 latitude: 50.0878
 longitude: 7.76561
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/400px-Burg_Gutenfels_(Kaub).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/800px-Burg_Gutenfels_(Kaub).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/1200px-Burg_Gutenfels_(Kaub).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/1920px-Burg_Gutenfels_(Kaub).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/1920px-Burg_Gutenfels_(Kaub).jpg---
 
 ## Overview
 

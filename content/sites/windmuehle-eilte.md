@@ -4,13 +4,13 @@ site_name: "Windmühle Eilte"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Eilte, Ahlden (Aller)"
-region: "Ahlden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Ahlden"
+  - "Lower Saxony"
 wikidata_id: "Q137670542"
 latitude: 52.759280079
 longitude: 9.482713177
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/400px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/800px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/1200px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/1920px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/1920px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kirche Barkow (Pripsleben)"
 date: 2026-01-26
 draft: false
 description: "church building in Pripsleben, Germany"
-region: "Pripsleben"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pripsleben"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742497"
 latitude: 53.707
 longitude: 13.1749
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Barkow_Pripsleben_Kirche_Südseite.JPG/400px-Barkow_Pripsleben_Kirche_Südseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Barkow_Pripsleben_Kirche_Südseite.JPG/800px-Barkow_Pripsleben_Kirche_Südseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Barkow_Pripsleben_Kirche_Südseite.JPG/1200px-Barkow_Pripsleben_Kirche_Südseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Barkow_Pripsleben_Kirche_Südseite.JPG/1920px-Barkow_Pripsleben_Kirche_Südseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Barkow_Pripsleben_Kirche_Südseite.JPG/1920px-Barkow_Pripsleben_Kirche_Südseite.JPG---
 
 ## Overview
 

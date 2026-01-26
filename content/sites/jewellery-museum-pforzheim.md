@@ -4,13 +4,13 @@ site_name: "jewellery museum Pforzheim"
 date: 2026-01-26
 draft: false
 description: "German jewellery-museum"
-region: "Pforzheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pforzheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2246668"
 latitude: 48.8861
 longitude: 8.69755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/400px-Reuchlinhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/800px-Reuchlinhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1200px-Reuchlinhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1920px-Reuchlinhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1920px-Reuchlinhaus.JPG---
 
 ## Overview
 

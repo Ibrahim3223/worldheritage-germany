@@ -4,13 +4,13 @@ site_name: "Marientor"
 date: 2026-01-26
 draft: false
 description: "city gate in Naumburg, Germany"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1322864"
 latitude: 51.155
 longitude: 11.8125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Naumburg_Marientor.jpg/400px-Naumburg_Marientor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Naumburg_Marientor.jpg/800px-Naumburg_Marientor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Naumburg_Marientor.jpg/1200px-Naumburg_Marientor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Naumburg_Marientor.jpg/1920px-Naumburg_Marientor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Naumburg_Marientor.jpg/1920px-Naumburg_Marientor.jpg---
 
 ## Overview
 

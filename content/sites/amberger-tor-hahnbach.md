@@ -4,13 +4,13 @@ site_name: "Amberger Tor (Hahnbach)"
 date: 2026-01-26
 draft: false
 description: "building in Hahnbach, Upper Palatinate, Germany"
-region: "Hahnbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Hahnbach"
+  - "Bavaria"
 wikidata_id: "Q41405901"
 latitude: 49.53335
 longitude: 11.80342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/400px-Amberger_Tor_in_Hahnbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/800px-Amberger_Tor_in_Hahnbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/1200px-Amberger_Tor_in_Hahnbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/1920px-Amberger_Tor_in_Hahnbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/1920px-Amberger_Tor_in_Hahnbach.jpg---
 
 ## Overview
 

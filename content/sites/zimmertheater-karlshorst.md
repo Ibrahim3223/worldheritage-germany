@@ -4,19 +4,18 @@ site_name: "Zimmertheater Karlshorst"
 date: 2026-01-26
 draft: false
 description: "Theater in Deutschland"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q203849"
 latitude: 52.4821
 longitude: 13.5251
 images:
-  []
----
+  []---
 
 ## Overview
 

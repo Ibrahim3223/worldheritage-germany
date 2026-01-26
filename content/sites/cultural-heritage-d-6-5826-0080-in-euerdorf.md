@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5826-0080 in Euerdorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Euerdorf, Bad Kissingen, Lower Franconia, Bavaria, Germany"
-region: "Euerdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Euerdorf"
+  - "Bavaria"
 wikidata_id: "Q98168610"
 latitude: 50.148655644
 longitude: 10.023318807
 images:
-  []
----
+  []---
 
 ## Overview
 

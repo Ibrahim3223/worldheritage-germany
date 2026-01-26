@@ -4,13 +4,13 @@ site_name: "Nortorf Sculpture Park"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rendsburg-Eckernförde"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rendsburg-Eckernförde"
+  - "Schleswig-Holstein"
 wikidata_id: "Q15057157"
 latitude: 54.1653
 longitude: 9.863
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Skulpturenpark-nortorf-03.jpg/400px-Skulpturenpark-nortorf-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Skulpturenpark-nortorf-03.jpg/800px-Skulpturenpark-nortorf-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Skulpturenpark-nortorf-03.jpg/1200px-Skulpturenpark-nortorf-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Skulpturenpark-nortorf-03.jpg/1920px-Skulpturenpark-nortorf-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Skulpturenpark-nortorf-03.jpg/1920px-Skulpturenpark-nortorf-03.jpg---
 
 ## Overview
 

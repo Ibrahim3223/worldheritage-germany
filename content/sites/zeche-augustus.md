@@ -4,19 +4,18 @@ site_name: "Zeche Augustus"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q169665"
 latitude: 51.4398
 longitude: 7.36468
 images:
-  []
----
+  []---
 
 ## Overview
 

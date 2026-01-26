@@ -4,13 +4,13 @@ site_name: "St. Johannes Nepomuk (Kripp)"
 date: 2026-01-26
 draft: false
 description: "parish church"
-region: "Kripp"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kripp"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1329732"
 latitude: 50.5598
 longitude: 7.27031
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/400px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/800px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/1200px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/1920px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/1920px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG---
 
 ## Overview
 

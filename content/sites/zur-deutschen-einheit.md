@@ -4,13 +4,13 @@ site_name: "Zur Deutschen Einheit"
 date: 2026-01-26
 draft: false
 description: "square in Munic"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q230276"
 latitude: 48.1511
 longitude: 11.6436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/400px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/800px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/1200px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/1920px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/1920px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg---
 
 ## Overview
 

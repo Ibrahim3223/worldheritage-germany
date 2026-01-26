@@ -4,13 +4,13 @@ site_name: "Burg Trechow"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bernitt"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bernitt"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1014277"
 latitude: 53.8688
 longitude: 11.9103
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kurzen_Trechow_Herrenhaus_3.jpg/400px-Kurzen_Trechow_Herrenhaus_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kurzen_Trechow_Herrenhaus_3.jpg/800px-Kurzen_Trechow_Herrenhaus_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kurzen_Trechow_Herrenhaus_3.jpg/1200px-Kurzen_Trechow_Herrenhaus_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kurzen_Trechow_Herrenhaus_3.jpg/1920px-Kurzen_Trechow_Herrenhaus_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kurzen_Trechow_Herrenhaus_3.jpg/1920px-Kurzen_Trechow_Herrenhaus_3.jpg---
 
 ## Overview
 

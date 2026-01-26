@@ -4,13 +4,13 @@ site_name: "Yavuz Sultan Selim Mosque"
 date: 2026-01-26
 draft: false
 description: "Mosque in Mannheim-Jungbusch (Germany)"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q573563"
 latitude: 49.4939
 longitude: 8.46139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/400px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/800px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/1200px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/1920px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/1920px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg---
 
 ## Overview
 

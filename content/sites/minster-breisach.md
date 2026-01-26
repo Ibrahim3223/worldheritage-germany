@@ -4,13 +4,13 @@ site_name: "Minster Breisach"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Breisach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Breisach"
+  - "Baden-Württemberg"
 wikidata_id: "Q905665"
 latitude: 48.02916667
 longitude: 7.57972222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/400px-BreisachAmRheinMuensterStStephan9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/800px-BreisachAmRheinMuensterStStephan9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/1200px-BreisachAmRheinMuensterStStephan9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/1920px-BreisachAmRheinMuensterStStephan9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BreisachAmRheinMuensterStStephan9.jpg/1920px-BreisachAmRheinMuensterStStephan9.jpg---
 
 ## Overview
 

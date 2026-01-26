@@ -4,13 +4,13 @@ site_name: "Burg Kempen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kempen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kempen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012638"
 latitude: 51.3668
 longitude: 6.42142
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/400px-Burg_Kempen_Suedansicht_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/800px-Burg_Kempen_Suedansicht_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/1200px-Burg_Kempen_Suedansicht_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/1920px-Burg_Kempen_Suedansicht_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/1920px-Burg_Kempen_Suedansicht_01.jpg---
 
 ## Overview
 

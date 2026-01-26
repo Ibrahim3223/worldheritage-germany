@@ -4,13 +4,13 @@ site_name: "Protestant Church Buchholz (Altmark)"
 date: 2026-01-26
 draft: false
 description: "church building in Stendal, Saxony-Anhalt, Germany"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q1244183"
 latitude: 52.5404
 longitude: 11.7873
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/400px-Dorfkirche_Buchholz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/800px-Dorfkirche_Buchholz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/1200px-Dorfkirche_Buchholz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/1920px-Dorfkirche_Buchholz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/1920px-Dorfkirche_Buchholz.JPG---
 
 ## Overview
 

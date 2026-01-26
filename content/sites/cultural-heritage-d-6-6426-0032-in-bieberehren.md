@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6426-0032 in Bieberehren"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bieberehren, Würzburg, Lower Franconia, Bavaria, Germany"
-region: "Bieberehren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bieberehren"
+  - "Baden-Württemberg"
 wikidata_id: "Q98167562"
 latitude: 49.510608683
 longitude: 10.019648509
 images:
-  []
----
+  []---
 
 ## Overview
 

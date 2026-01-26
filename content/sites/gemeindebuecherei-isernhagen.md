@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Isernhagen"
 date: 2026-01-26
 draft: false
 description: "library in Isernhagen, Germany"
-region: "Isernhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Isernhagen"
+  - "Lower Saxony"
 wikidata_id: "Q28729503"
 latitude: 52.43795
 longitude: 9.85415
 images:
-  []
----
+  []---
 
 ## Overview
 

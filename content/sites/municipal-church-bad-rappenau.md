@@ -4,13 +4,13 @@ site_name: "municipal church Bad Rappenau"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Rappenau, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Bad Rappenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Rappenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2327372"
 latitude: 49.2401
 longitude: 9.10191
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/400px-Rappenau-stadtkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/800px-Rappenau-stadtkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/1200px-Rappenau-stadtkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/1920px-Rappenau-stadtkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/1920px-Rappenau-stadtkirche.jpg---
 
 ## Overview
 

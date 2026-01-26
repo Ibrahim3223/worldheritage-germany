@@ -4,13 +4,13 @@ site_name: "Bartholomäuskirche Ilsfeld"
 date: 2026-01-26
 draft: false
 description: "church building in Ilsfeld, Heilbronn district, Baden-Württemberg, Germany"
-region: "Ilsfeld"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ilsfeld"
+  - "Baden-Württemberg"
 wikidata_id: "Q809401"
 latitude: 49.0554
 longitude: 9.24535
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/400px-IlsfeldBartholomaeuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/800px-IlsfeldBartholomaeuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1200px-IlsfeldBartholomaeuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1920px-IlsfeldBartholomaeuskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1920px-IlsfeldBartholomaeuskirche.jpg---
 
 ## Overview
 

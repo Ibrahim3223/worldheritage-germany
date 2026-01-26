@@ -4,13 +4,13 @@ site_name: "The Philippi Collection"
 date: 2026-01-26
 draft: false
 description: "private collection of religious headgear"
-region: "Tholey"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tholey"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q159556"
 latitude: 49.481972222
 longitude: 7.031027777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/400px-Sammlung_Philippi_Stuecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/800px-Sammlung_Philippi_Stuecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/1200px-Sammlung_Philippi_Stuecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/1920px-Sammlung_Philippi_Stuecke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/1920px-Sammlung_Philippi_Stuecke.jpg---
 
 ## Overview
 

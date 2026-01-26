@@ -4,13 +4,13 @@ site_name: "Heinrich Heine Monument"
 date: 2026-01-26
 draft: false
 description: "statue by Waldemar Grzimek in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1596388"
 latitude: 52.5325
 longitude: 13.4
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/400px-Heine1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/800px-Heine1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/1200px-Heine1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/1920px-Heine1a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/1920px-Heine1a.jpg---
 
 ## Overview
 

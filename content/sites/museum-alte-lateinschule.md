@@ -4,19 +4,18 @@ site_name: "Museum Alte Lateinschule"
 date: 2026-01-26
 draft: false
 description: "museum in Großenhain, Germany"
-region: "Großenhain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großenhain"
+  - "Saxony"
 wikidata_id: "Q1796069"
 latitude: 51.2929
 longitude: 13.53
 images:
-  []
----
+  []---
 
 ## Overview
 

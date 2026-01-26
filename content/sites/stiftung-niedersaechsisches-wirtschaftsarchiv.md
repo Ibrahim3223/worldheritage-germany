@@ -4,19 +4,18 @@ site_name: "Stiftung Niedersächsisches Wirtschaftsarchiv"
 date: 2026-01-26
 draft: false
 description: "regionales Wirtschaftsarchiv"
-region: "Wolfenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Wolfenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q1784746"
 latitude: 52.1818
 longitude: 10.5322
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum Auberlehaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Trossingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trossingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954402"
 latitude: 48.0769
 longitude: 8.6386
 images:
-  []
----
+  []---
 
 ## Overview
 

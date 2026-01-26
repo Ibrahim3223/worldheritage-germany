@@ -4,13 +4,13 @@ site_name: "Arnim'sche Kohlebahn Schedewitz/Geinitzsiedlung"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Zwickau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Zwickau"
+  - "Saxony"
 wikidata_id: "Q49439261"
 latitude: 50.699761033
 longitude: 12.481906014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/400px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/800px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/1200px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/1920px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/1920px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Garten Nähe Käsgasse in Rattelsdorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-71-174-16 (3) in Rattelsdorf, Bavaria"
-region: "Rattelsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Rattelsdorf"
+  - "Bavaria"
 wikidata_id: "Q98589384"
 latitude: 50.016218043
 longitude: 10.884085142
 images:
-  []
----
+  []---
 
 ## Overview
 

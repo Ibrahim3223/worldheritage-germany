@@ -4,13 +4,13 @@ site_name: "Kunsthalle Mannheim"
 date: 2026-01-26
 draft: false
 description: "art museum in Mannheim, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q468458"
 latitude: 49.482796
 longitude: 8.475263
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/400px-Kunsthalle_Mannheim_Eingangsportal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/800px-Kunsthalle_Mannheim_Eingangsportal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/1200px-Kunsthalle_Mannheim_Eingangsportal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/1920px-Kunsthalle_Mannheim_Eingangsportal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/1920px-Kunsthalle_Mannheim_Eingangsportal.jpg---
 
 ## Overview
 

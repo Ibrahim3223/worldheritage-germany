@@ -4,13 +4,13 @@ site_name: "Sender Scheidt"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1290603"
 latitude: 49.2485
 longitude: 7.04351
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/400px-Sender_Scheidt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/800px-Sender_Scheidt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/1200px-Sender_Scheidt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/1920px-Sender_Scheidt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/1920px-Sender_Scheidt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Palais Weimar (Heidelberg)"
 date: 2026-01-26
 draft: false
 description: "Barockbauwerk"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2047209"
 latitude: 49.4134
 longitude: 8.71497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Voelkerkundemuseum-Heidelberg-01.JPG/400px-Voelkerkundemuseum-Heidelberg-01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Voelkerkundemuseum-Heidelberg-01.JPG/800px-Voelkerkundemuseum-Heidelberg-01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Voelkerkundemuseum-Heidelberg-01.JPG/1200px-Voelkerkundemuseum-Heidelberg-01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Voelkerkundemuseum-Heidelberg-01.JPG/1920px-Voelkerkundemuseum-Heidelberg-01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Voelkerkundemuseum-Heidelberg-01.JPG/1920px-Voelkerkundemuseum-Heidelberg-01.JPG---
 
 ## Overview
 

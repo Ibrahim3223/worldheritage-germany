@@ -4,13 +4,13 @@ site_name: "St. Peter und Paul (Waldkirchen)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Waldkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Waldkirchen"
+  - "Bavaria"
 wikidata_id: "Q1441816"
 latitude: 48.729560171
 longitude: 13.601669669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waldkirchen_Marktplatz_2.jpg/400px-Waldkirchen_Marktplatz_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waldkirchen_Marktplatz_2.jpg/800px-Waldkirchen_Marktplatz_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waldkirchen_Marktplatz_2.jpg/1200px-Waldkirchen_Marktplatz_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waldkirchen_Marktplatz_2.jpg/1920px-Waldkirchen_Marktplatz_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waldkirchen_Marktplatz_2.jpg/1920px-Waldkirchen_Marktplatz_2.jpg---
 
 ## Overview
 

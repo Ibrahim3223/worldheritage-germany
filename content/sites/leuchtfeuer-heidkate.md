@@ -4,13 +4,13 @@ site_name: "Leuchtfeuer Heidkate"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Wisch, Plön"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Wisch, Plön"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1821373"
 latitude: 54.4342
 longitude: 10.3169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/400px-Leuchtfeuer_Heidkate_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/800px-Leuchtfeuer_Heidkate_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/1200px-Leuchtfeuer_Heidkate_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/1920px-Leuchtfeuer_Heidkate_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/1920px-Leuchtfeuer_Heidkate_1.jpg---
 
 ## Overview
 

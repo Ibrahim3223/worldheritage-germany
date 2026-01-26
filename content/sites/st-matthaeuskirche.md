@@ -4,13 +4,13 @@ site_name: "St. Matthäuskirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Tiergarten"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q320886"
 latitude: 52.507777777
 longitude: 13.367222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_StMatthewChurch_asv2018-05.jpg/400px-Berlin_StMatthewChurch_asv2018-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_StMatthewChurch_asv2018-05.jpg/800px-Berlin_StMatthewChurch_asv2018-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_StMatthewChurch_asv2018-05.jpg/1200px-Berlin_StMatthewChurch_asv2018-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_StMatthewChurch_asv2018-05.jpg/1920px-Berlin_StMatthewChurch_asv2018-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_StMatthewChurch_asv2018-05.jpg/1920px-Berlin_StMatthewChurch_asv2018-05.jpg---
 
 ## Overview
 

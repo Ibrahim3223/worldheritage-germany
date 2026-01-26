@@ -4,13 +4,13 @@ site_name: "Compagnie de Comédie Rostock"
 date: 2026-01-26
 draft: false
 description: "Theater in Deutschland"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1121077"
 latitude: 54.0939
 longitude: 12.1166
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/400px-Compagnie_de_Comédie_Rostock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/800px-Compagnie_de_Comédie_Rostock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/1200px-Compagnie_de_Comédie_Rostock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/1920px-Compagnie_de_Comédie_Rostock.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/1920px-Compagnie_de_Comédie_Rostock.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Laach Castle"
 date: 2026-01-26
 draft: false
 description: "German castle"
-region: "Kruft"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kruft"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012799"
 latitude: 50.4075
 longitude: 7.27913
 images:
-  []
----
+  []---
 
 ## Overview
 

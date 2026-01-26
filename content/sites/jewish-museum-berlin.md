@@ -4,13 +4,13 @@ site_name: "Jewish Museum Berlin"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q157003"
 latitude: 52.502312
 longitude: 13.395447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/400px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/800px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1200px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1920px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1920px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg---
 
 ## Overview
 

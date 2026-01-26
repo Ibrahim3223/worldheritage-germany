@@ -4,13 +4,13 @@ site_name: "Citadel of Münster"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q206251"
 latitude: 51.96566123
 longitude: 7.60846138
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/400px-MünsterGalenscheZitadelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/800px-MünsterGalenscheZitadelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/1200px-MünsterGalenscheZitadelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/1920px-MünsterGalenscheZitadelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/1920px-MünsterGalenscheZitadelle.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum und Archiv der Deutschen Gesellschaft für Urologie"
 date: 2026-01-26
 draft: false
 description: "museum in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1954769"
 latitude: 51.2513
 longitude: 6.76643
 images:
-  []
----
+  []---
 
 ## Overview
 

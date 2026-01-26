@@ -4,13 +4,13 @@ site_name: "Prinzengarten Ettenheim"
 date: 2026-01-26
 draft: false
 description: "garden in Ettenheim, Germany"
-region: "Ettenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Ettenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q59296756"
 latitude: 48.25400883
 longitude: 7.809770107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Prinzengarten_Ettenheim_jm87884.jpg/400px-Prinzengarten_Ettenheim_jm87884.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Prinzengarten_Ettenheim_jm87884.jpg/800px-Prinzengarten_Ettenheim_jm87884.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Prinzengarten_Ettenheim_jm87884.jpg/1200px-Prinzengarten_Ettenheim_jm87884.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Prinzengarten_Ettenheim_jm87884.jpg/1920px-Prinzengarten_Ettenheim_jm87884.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Prinzengarten_Ettenheim_jm87884.jpg/1920px-Prinzengarten_Ettenheim_jm87884.jpg---
 
 ## Overview
 

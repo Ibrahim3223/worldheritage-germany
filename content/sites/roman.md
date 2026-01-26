@@ -4,13 +4,13 @@ site_name: "Roman"
 date: 2026-01-26
 draft: false
 description: "statue by Israel von der Milla"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1603400"
 latitude: 50.9777
 longitude: 11.0287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/400px-Erfurt-Fischmrkt-Herold.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/800px-Erfurt-Fischmrkt-Herold.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/1200px-Erfurt-Fischmrkt-Herold.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/1920px-Erfurt-Fischmrkt-Herold.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/1920px-Erfurt-Fischmrkt-Herold.jpg---
 
 ## Overview
 

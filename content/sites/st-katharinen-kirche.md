@@ -4,13 +4,13 @@ site_name: "St. Katharinen-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Neuenkirchen, Lower Saxony, Germany"
-region: "Neuenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q2319890"
 latitude: 52.7743
 longitude: 8.74876
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/400px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/800px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/1200px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/1920px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/1920px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG---
 
 ## Overview
 

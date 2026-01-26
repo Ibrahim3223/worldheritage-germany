@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg/400px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle%22_gesäubert.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_%22Deutsche_Sporthalle"_gesäubert.jpg/800px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg/1200px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle%22_gesäubert.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_%22Deutsche_Sporthalle"_gesäubert.jpg/1920px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_%22Deutsche_Sporthalle"_gesäubert.jpg/1920px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg---
 
 ## Overview
 

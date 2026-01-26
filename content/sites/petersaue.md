@@ -4,13 +4,13 @@ site_name: "Petersaue"
 date: 2026-01-26
 draft: false
 description: "island in Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q768698"
 latitude: 50.0234
 longitude: 8.25803
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg/400px-Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg/800px-Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg/1200px-Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg/1920px-Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg/1920px-Mainz_Luftbild_Rhein_Petersaue_li_Mainz_Zollhafen_re_Amöneburg_Biebrich.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hohlenstein-Stadel"
 date: 2026-01-26
 draft: false
 description: "cave in the Swabian Jura"
-region: "Herbrechtingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Herbrechtingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1498134"
 latitude: 48.5493
 longitude: 10.1724
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/400px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/800px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/1200px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/1920px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/1920px-Höhle_Hohlenstein_Hohlensteinstadel.jpg---
 
 ## Overview
 

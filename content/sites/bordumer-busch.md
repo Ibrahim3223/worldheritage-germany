@@ -4,13 +4,13 @@ site_name: "Bordumer Busch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q893461"
 latitude: 53.5083
 longitude: 8.07056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg/400px-2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg/800px-2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg/1200px-2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg/1920px-2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg/1920px-2012-05-28_Fotoflug_Cuxhaven_Wilhelmshaven_DSC_3857.jpg---
 
 ## Overview
 

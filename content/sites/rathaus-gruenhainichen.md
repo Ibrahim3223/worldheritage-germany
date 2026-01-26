@@ -4,13 +4,13 @@ site_name: "Rathaus Grünhainichen"
 date: 2026-01-26
 draft: false
 description: "town hall in Grünhainichen, Saxony, Germany"
-region: "Grünhainichen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Grünhainichen"
+  - "Saxony"
 wikidata_id: "Q49494376"
 latitude: 50.767507
 longitude: 13.153245
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rathaus_Grünhainichen.jpg/400px-Rathaus_Grünhainichen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rathaus_Grünhainichen.jpg/800px-Rathaus_Grünhainichen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rathaus_Grünhainichen.jpg/1200px-Rathaus_Grünhainichen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rathaus_Grünhainichen.jpg/1920px-Rathaus_Grünhainichen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rathaus_Grünhainichen.jpg/1920px-Rathaus_Grünhainichen.jpg---
 
 ## Overview
 

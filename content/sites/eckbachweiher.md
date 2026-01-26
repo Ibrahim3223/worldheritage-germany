@@ -4,13 +4,13 @@ site_name: "Eckbachweiher"
 date: 2026-01-26
 draft: false
 description: "lake in Rhineland-Palatinate, Germany"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1281459"
 latitude: 49.5383
 longitude: 8.12944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/400px-Eckbachweiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/800px-Eckbachweiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/1200px-Eckbachweiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/1920px-Eckbachweiher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/1920px-Eckbachweiher.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burgaue"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Sachsen, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1014784"
 latitude: 51.366666666
 longitude: 12.3
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leipzig_-_Nahle_+_Burgaue_01_ies.jpg/400px-Leipzig_-_Nahle_+_Burgaue_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leipzig_-_Nahle_+_Burgaue_01_ies.jpg/800px-Leipzig_-_Nahle_+_Burgaue_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leipzig_-_Nahle_+_Burgaue_01_ies.jpg/1200px-Leipzig_-_Nahle_+_Burgaue_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leipzig_-_Nahle_+_Burgaue_01_ies.jpg/1920px-Leipzig_-_Nahle_+_Burgaue_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leipzig_-_Nahle_+_Burgaue_01_ies.jpg/1920px-Leipzig_-_Nahle_+_Burgaue_01_ies.jpg---
 
 ## Overview
 

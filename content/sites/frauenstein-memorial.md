@@ -4,13 +4,13 @@ site_name: "Frauenstein memorial"
 date: 2026-01-26
 draft: false
 description: "memorial in Schwangau, Germany"
-region: "Schwangau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Schwangau"
+  - "Bavaria"
 wikidata_id: "Q1015734"
 latitude: 47.554757939
 longitude: 10.732291891
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burgstall_Frauenstein_3.jpg/400px-Burgstall_Frauenstein_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burgstall_Frauenstein_3.jpg/800px-Burgstall_Frauenstein_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burgstall_Frauenstein_3.jpg/1200px-Burgstall_Frauenstein_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burgstall_Frauenstein_3.jpg/1920px-Burgstall_Frauenstein_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burgstall_Frauenstein_3.jpg/1920px-Burgstall_Frauenstein_3.jpg---
 
 ## Overview
 

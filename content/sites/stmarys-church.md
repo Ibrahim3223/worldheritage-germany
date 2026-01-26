@@ -4,13 +4,13 @@ site_name: "St.Mary's church"
 date: 2026-01-26
 draft: false
 description: "church building in Grundhof, Schleswig-Holstein state, Germany"
-region: "Grundhof"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Grundhof"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1239144"
 latitude: 54.773711
 longitude: 9.653947
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg/400px-Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg/800px-Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg/1200px-Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg/1920px-Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg/1920px-Grundhof_Marienkireche_spätromanische_Feldsteinkircheirche_12_Jh_mit_spätgotischem_Turm_in_Mischmauerwerk_-_Foto_2018_Wolfgang_Pehlemann_P1280581.jpg---
 
 ## Overview
 

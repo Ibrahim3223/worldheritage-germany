@@ -4,19 +4,18 @@ site_name: "Museumslandschaft Deilbachtal"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1954838"
 latitude: 51.3828
 longitude: 7.10167
 images:
-  []
----
+  []---
 
 ## Overview
 

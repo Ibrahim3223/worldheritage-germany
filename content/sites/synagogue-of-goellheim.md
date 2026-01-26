@@ -4,13 +4,13 @@ site_name: "synagogue of Göllheim"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1472883"
 latitude: 49.5956
 longitude: 8.05083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/400px-Synagoge_Göllheim567.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/800px-Synagoge_Göllheim567.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/1200px-Synagoge_Göllheim567.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/1920px-Synagoge_Göllheim567.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/1920px-Synagoge_Göllheim567.JPG---
 
 ## Overview
 

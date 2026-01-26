@@ -4,13 +4,13 @@ site_name: "Stadtfriedhof Hildburghausen"
 date: 2026-01-26
 draft: false
 description: "cemetery in Hildburghausen, Germany"
-region: "Hildburghausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Hildburghausen"
+  - "Bavaria"
 wikidata_id: "Q2327116"
 latitude: 50.4334
 longitude: 10.7327
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/400px-HIBU_Friedhof_0e.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/800px-HIBU_Friedhof_0e.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/1200px-HIBU_Friedhof_0e.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/1920px-HIBU_Friedhof_0e.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/1920px-HIBU_Friedhof_0e.jpg---
 
 ## Overview
 

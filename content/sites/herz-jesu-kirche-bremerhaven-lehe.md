@@ -4,13 +4,13 @@ site_name: "Herz-Jesu-Kirche (Bremerhaven-Lehe)"
 date: 2026-01-26
 draft: false
 description: "church building in Lehe, Germany"
-region: "Stadtbezirk 1 Nord"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stadtbezirk 1 Nord"
+  - "Bremen"
 wikidata_id: "Q1556772"
 latitude: 53.5581
 longitude: 8.57496
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/400px-Lehe_Herz-Jesu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/800px-Lehe_Herz-Jesu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/1200px-Lehe_Herz-Jesu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/1920px-Lehe_Herz-Jesu.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/1920px-Lehe_Herz-Jesu.jpg---
 
 ## Overview
 

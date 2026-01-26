@@ -4,13 +4,13 @@ site_name: "Niedermünster"
 date: 2026-01-26
 draft: false
 description: "building in Regensburg, Upper Palatinate, Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q457320"
 latitude: 49.019508333
 longitude: 12.100677777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/400px-Niedermünsterkirche_Regensburg_von_Süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/800px-Niedermünsterkirche_Regensburg_von_Süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/1200px-Niedermünsterkirche_Regensburg_von_Süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/1920px-Niedermünsterkirche_Regensburg_von_Süden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/1920px-Niedermünsterkirche_Regensburg_von_Süden.jpg---
 
 ## Overview
 

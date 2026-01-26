@@ -4,19 +4,18 @@ site_name: "Erdbachhöhle"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Breitscheid"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Breitscheid"
+  - "Hesse"
 wikidata_id: "Q1348735"
 latitude: 50.6854
 longitude: 8.19569
 images:
-  []
----
+  []---
 
 ## Overview
 

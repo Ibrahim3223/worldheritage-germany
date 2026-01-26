@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit) Rochsburg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Lunzenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Lunzenau"
+  - "Saxony"
 wikidata_id: "Q49448556"
 latitude: 50.947232782
 longitude: 12.765173521
 images:
-  []
----
+  []---
 
 ## Overview
 

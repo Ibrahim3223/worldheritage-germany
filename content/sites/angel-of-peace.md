@@ -4,13 +4,13 @@ site_name: "Angel of Peace"
 date: 2026-01-26
 draft: false
 description: "monument in the Munich suburb of Bogenhausen"
-region: "Bogenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bogenhausen"
+  - "Bavaria"
 wikidata_id: "Q504642"
 latitude: 48.1414
 longitude: 11.5969
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/400px-Muenchen-_Friedensenangel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/800px-Muenchen-_Friedensenangel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1200px-Muenchen-_Friedensenangel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1920px-Muenchen-_Friedensenangel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1920px-Muenchen-_Friedensenangel.JPG---
 
 ## Overview
 

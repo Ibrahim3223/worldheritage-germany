@@ -4,13 +4,13 @@ site_name: "Rheinisches Landesmuseum Trier"
 date: 2026-01-26
 draft: false
 description: "German archaeological museum"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q885326"
 latitude: 49.7518
 longitude: 6.6445
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Trier_Landesmuseum_BW_1.jpg/400px-Trier_Landesmuseum_BW_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Trier_Landesmuseum_BW_1.jpg/800px-Trier_Landesmuseum_BW_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Trier_Landesmuseum_BW_1.jpg/1200px-Trier_Landesmuseum_BW_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Trier_Landesmuseum_BW_1.jpg/1920px-Trier_Landesmuseum_BW_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Trier_Landesmuseum_BW_1.jpg/1920px-Trier_Landesmuseum_BW_1.jpg---
 
 ## Overview
 

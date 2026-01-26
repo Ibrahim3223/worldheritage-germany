@@ -4,13 +4,13 @@ site_name: "Städtische Galerie im Park Viersen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Viersen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Viersen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2359955"
 latitude: 51.2583
 longitude: 6.39142
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/400px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/800px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/1200px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/1920px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/1920px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg---
 
 ## Overview
 

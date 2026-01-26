@@ -4,19 +4,18 @@ site_name: "Am Südpark 49/51"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Köln"
-region: "Marienburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Marienburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q15106497"
 latitude: 50.896377
 longitude: 6.969736
 images:
-  []
----
+  []---
 
 ## Overview
 

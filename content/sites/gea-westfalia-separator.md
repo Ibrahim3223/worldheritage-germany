@@ -4,19 +4,18 @@ site_name: "GEA Westfalia Separator"
 date: 2026-01-26
 draft: false
 description: "company"
-region: "Oelde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Oelde"
+  - "Lower Saxony"
 wikidata_id: "Q320511"
 latitude: 51.829722222
 longitude: 8.132777777
 images:
-  []
----
+  []---
 
 ## Overview
 

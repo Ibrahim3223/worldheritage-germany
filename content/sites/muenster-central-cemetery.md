@@ -4,13 +4,13 @@ site_name: "Münster Central Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q190488"
 latitude: 51.9586
 longitude: 7.60958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zentralfriedhof_Muenster_8105.jpg/400px-Zentralfriedhof_Muenster_8105.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zentralfriedhof_Muenster_8105.jpg/800px-Zentralfriedhof_Muenster_8105.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zentralfriedhof_Muenster_8105.jpg/1200px-Zentralfriedhof_Muenster_8105.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zentralfriedhof_Muenster_8105.jpg/1920px-Zentralfriedhof_Muenster_8105.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zentralfriedhof_Muenster_8105.jpg/1920px-Zentralfriedhof_Muenster_8105.jpg---
 
 ## Overview
 

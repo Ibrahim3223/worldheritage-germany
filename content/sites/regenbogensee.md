@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Regenbogensee_-_2012-10-21_ama_fec_(3).JPG/400px-Regenbogensee_-_2012-10-21_ama_fec_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Regenbogensee_-_2012-10-21_ama_fec_(3).JPG/800px-Regenbogensee_-_2012-10-21_ama_fec_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Regenbogensee_-_2012-10-21_ama_fec_(3).JPG/1200px-Regenbogensee_-_2012-10-21_ama_fec_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Regenbogensee_-_2012-10-21_ama_fec_(3).JPG/1920px-Regenbogensee_-_2012-10-21_ama_fec_(3).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Regenbogensee_-_2012-10-21_ama_fec_(3).JPG/1920px-Regenbogensee_-_2012-10-21_ama_fec_(3).JPG---
 
 ## Overview
 

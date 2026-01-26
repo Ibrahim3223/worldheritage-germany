@@ -4,13 +4,13 @@ site_name: "Grenzsteinmuseum Ostrach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ostrach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ostrach"
+  - "Baden-Württemberg"
 wikidata_id: "Q19963068"
 latitude: 47.953179
 longitude: 9.379195
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/400px-Grenzsteinmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/800px-Grenzsteinmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/1200px-Grenzsteinmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/1920px-Grenzsteinmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/1920px-Grenzsteinmuseum.JPG---
 
 ## Overview
 

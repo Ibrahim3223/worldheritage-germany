@@ -4,13 +4,13 @@ site_name: "Fürstenberg Castle (Höingen)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ense"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ense"
+  - "Hesse"
 wikidata_id: "Q1011884"
 latitude: 51.4725
 longitude: 7.94208
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/400px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/800px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/1200px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/1920px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/1920px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG---
 
 ## Overview
 

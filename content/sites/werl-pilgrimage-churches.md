@@ -4,13 +4,13 @@ site_name: "Werl Pilgrimage Churches"
 date: 2026-01-26
 draft: false
 description: "Baroque pilgrimage church in Werl, North Rhine-Westphalia, Germany"
-region: "Werl"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Werl"
+  - "Hesse"
 wikidata_id: "Q436380"
 latitude: 51.553611111
 longitude: 7.915277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Wallfahrtskirche_Werl_20220609_0260.jpg/400px-Alte_Wallfahrtskirche_Werl_20220609_0260.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Wallfahrtskirche_Werl_20220609_0260.jpg/800px-Alte_Wallfahrtskirche_Werl_20220609_0260.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Wallfahrtskirche_Werl_20220609_0260.jpg/1200px-Alte_Wallfahrtskirche_Werl_20220609_0260.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Wallfahrtskirche_Werl_20220609_0260.jpg/1920px-Alte_Wallfahrtskirche_Werl_20220609_0260.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Wallfahrtskirche_Werl_20220609_0260.jpg/1920px-Alte_Wallfahrtskirche_Werl_20220609_0260.jpg---
 
 ## Overview
 

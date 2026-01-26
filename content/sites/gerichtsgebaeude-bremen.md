@@ -4,13 +4,13 @@ site_name: "Gerichtsgebäude, Bremen"
 date: 2026-01-26
 draft: false
 description: "Justizgebäude in Bremen"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q114659522"
 latitude: 53.0743
 longitude: 8.81042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/400px-LandgerichtBremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/800px-LandgerichtBremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/1200px-LandgerichtBremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/1920px-LandgerichtBremen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/1920px-LandgerichtBremen.jpg---
 
 ## Overview
 

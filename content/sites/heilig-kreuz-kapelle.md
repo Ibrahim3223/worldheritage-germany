@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Schmallenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Schmallenberg"
+  - "Hesse"
 wikidata_id: "Q1594909"
 latitude: 51.1941
 longitude: 8.31228
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/400px-Kapelle_Fredeburg-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/800px-Kapelle_Fredeburg-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/1200px-Kapelle_Fredeburg-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/1920px-Kapelle_Fredeburg-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/1920px-Kapelle_Fredeburg-3.jpg---
 
 ## Overview
 

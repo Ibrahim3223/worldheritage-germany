@@ -4,13 +4,13 @@ site_name: "Afrika-Haus Freiberg"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Freiberg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiberg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q385087"
 latitude: 48.9378
 longitude: 9.17942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/400px-AfrikahausFreiberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/800px-AfrikahausFreiberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1200px-AfrikahausFreiberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1920px-AfrikahausFreiberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1920px-AfrikahausFreiberg.jpg---
 
 ## Overview
 

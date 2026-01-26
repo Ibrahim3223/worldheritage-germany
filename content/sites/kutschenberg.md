@@ -4,13 +4,13 @@ site_name: "Kutschenberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Großkmehlen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Großkmehlen"
+  - "Saxony"
 wikidata_id: "Q118631"
 latitude: 51.3653
 longitude: 13.7272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kutschenberg_01.jpg/400px-Kutschenberg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kutschenberg_01.jpg/800px-Kutschenberg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kutschenberg_01.jpg/1200px-Kutschenberg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kutschenberg_01.jpg/1920px-Kutschenberg_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kutschenberg_01.jpg/1920px-Kutschenberg_01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Linzenich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Zülpich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Zülpich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012989"
 latitude: 50.6649
 longitude: 6.67043
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Linzenich.jpg/400px-Burg_Linzenich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Linzenich.jpg/800px-Burg_Linzenich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Linzenich.jpg/1200px-Burg_Linzenich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Linzenich.jpg/1920px-Burg_Linzenich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Linzenich.jpg/1920px-Burg_Linzenich.jpg---
 
 ## Overview
 

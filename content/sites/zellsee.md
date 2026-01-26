@@ -4,13 +4,13 @@ site_name: "Zellsee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q189104"
 latitude: 47.8625
 longitude: 11.0639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/400px-Zellsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/800px-Zellsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/1200px-Zellsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/1920px-Zellsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/1920px-Zellsee.jpg---
 
 ## Overview
 

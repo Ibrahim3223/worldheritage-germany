@@ -4,13 +4,13 @@ site_name: "Kirche Kröslin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kröslin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kröslin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1293882"
 latitude: 54.1173
 longitude: 13.752
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/400px-Kröslin,_Kirche_(2009-10-25).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/800px-Kröslin,_Kirche_(2009-10-25).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/1200px-Kröslin,_Kirche_(2009-10-25).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/1920px-Kröslin,_Kirche_(2009-10-25).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/1920px-Kröslin,_Kirche_(2009-10-25).JPG---
 
 ## Overview
 

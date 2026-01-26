@@ -4,19 +4,18 @@ site_name: "Gürzenich Catholic Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Düren, Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1299462"
 latitude: 50.7938
 longitude: 6.44732
 images:
-  []
----
+  []---
 
 ## Overview
 

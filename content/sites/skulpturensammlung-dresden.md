@@ -4,13 +4,13 @@ site_name: "Skulpturensammlung Dresden"
 date: 2026-01-26
 draft: false
 description: "collection of sculptures over 5 millennia"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q869690"
 latitude: 51.0519
 longitude: 13.7444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dresden_Albertinum_055.JPG/400px-Dresden_Albertinum_055.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dresden_Albertinum_055.JPG/800px-Dresden_Albertinum_055.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dresden_Albertinum_055.JPG/1200px-Dresden_Albertinum_055.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dresden_Albertinum_055.JPG/1920px-Dresden_Albertinum_055.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dresden_Albertinum_055.JPG/1920px-Dresden_Albertinum_055.JPG---
 
 ## Overview
 

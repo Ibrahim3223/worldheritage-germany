@@ -4,13 +4,13 @@ site_name: "Lutherkirche Berlin-Wilhelmsruh"
 date: 2026-01-26
 draft: false
 description: "church building in Pankow, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1877932"
 latitude: 52.5878
 longitude: 13.3672
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/400px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/800px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/1200px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/1920px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/1920px-Lutherkirche_(Berlin-Wilhelmsruh).jpg---
 
 ## Overview
 

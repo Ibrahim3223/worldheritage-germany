@@ -4,19 +4,18 @@ site_name: "Tisa von der Schulenburg-Stiftung"
 date: 2026-01-26
 draft: false
 description: "selbständige allgemeine Stiftung des bürgerlichen Rechts"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q2436421"
 latitude: 51.669731
 longitude: 6.986902
 images:
-  []
----
+  []---
 
 ## Overview
 

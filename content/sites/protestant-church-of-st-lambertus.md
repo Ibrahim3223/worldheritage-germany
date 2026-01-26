@@ -4,13 +4,13 @@ site_name: "Protestant Church of St. Lambertus"
 date: 2026-01-26
 draft: false
 description: "church building in Pfaffenhofen, Heilbronn district, Baden-Württemberg, Germany"
-region: "Pfaffenhofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pfaffenhofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1765045"
 latitude: 49.0643
 longitude: 8.97583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfaffenhofen-w-evang-lambertuskirche.jpg/400px-Pfaffenhofen-w-evang-lambertuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfaffenhofen-w-evang-lambertuskirche.jpg/800px-Pfaffenhofen-w-evang-lambertuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfaffenhofen-w-evang-lambertuskirche.jpg/1200px-Pfaffenhofen-w-evang-lambertuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfaffenhofen-w-evang-lambertuskirche.jpg/1920px-Pfaffenhofen-w-evang-lambertuskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfaffenhofen-w-evang-lambertuskirche.jpg/1920px-Pfaffenhofen-w-evang-lambertuskirche.jpg---
 
 ## Overview
 

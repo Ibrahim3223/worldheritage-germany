@@ -4,13 +4,13 @@ site_name: "Albert-König-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Unterlüß, Germany"
-region: "Südheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Südheide"
+  - "Lower Saxony"
 wikidata_id: "Q17122141"
 latitude: 52.832091
 longitude: 10.293605
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/400px-Albert-König-Museum_Unterlüß.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/800px-Albert-König-Museum_Unterlüß.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/1200px-Albert-König-Museum_Unterlüß.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/1920px-Albert-König-Museum_Unterlüß.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/1920px-Albert-König-Museum_Unterlüß.JPG---
 
 ## Overview
 

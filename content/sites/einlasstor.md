@@ -4,13 +4,13 @@ site_name: "Einlasstor"
 date: 2026-01-26
 draft: false
 description: "building in Old Town, Upper Bavaria, Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q1308304"
 latitude: 48.1351
 longitude: 11.575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/400px-Am_einlass_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/800px-Am_einlass_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/1200px-Am_einlass_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/1920px-Am_einlass_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/1920px-Am_einlass_01.jpg---
 
 ## Overview
 

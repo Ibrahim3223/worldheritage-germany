@@ -4,13 +4,13 @@ site_name: "Schloss Prebberede"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Prebberede"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Prebberede"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q17326092"
 latitude: 53.908955
 longitude: 12.490239
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Schloss_Prebberede.jpg/400px-Schloss_Prebberede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Schloss_Prebberede.jpg/800px-Schloss_Prebberede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Schloss_Prebberede.jpg/1200px-Schloss_Prebberede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Schloss_Prebberede.jpg/1920px-Schloss_Prebberede.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Schloss_Prebberede.jpg/1920px-Schloss_Prebberede.jpg---
 
 ## Overview
 

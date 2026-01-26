@@ -4,13 +4,13 @@ site_name: "Siebengebirgsmuseum der Stadt Königswinter"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2282339"
 latitude: 50.6745
 longitude: 7.19226
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/400px-Siebengebirgsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/800px-Siebengebirgsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/1200px-Siebengebirgsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/1920px-Siebengebirgsmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/1920px-Siebengebirgsmuseum.jpg---
 
 ## Overview
 

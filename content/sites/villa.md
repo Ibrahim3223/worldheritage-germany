@@ -4,13 +4,13 @@ site_name: "Villa"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-113-70 (0) in Bad Brückenau, Bavaria"
-region: "Bad Brückenau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Brückenau"
+  - "Bavaria"
 wikidata_id: "Q23787539"
 latitude: 50.3033
 longitude: 9.74401
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/400px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/800px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/1200px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/1920px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/1920px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg---
 
 ## Overview
 

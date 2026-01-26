@@ -4,19 +4,18 @@ site_name: "Rauhes Haus"
 date: 2026-01-26
 draft: false
 description: "social service institution in Germany founded in 1833"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1755505"
 latitude: 53.55388889
 longitude: 10.07222222
 images:
-  []
----
+  []---
 
 ## Overview
 

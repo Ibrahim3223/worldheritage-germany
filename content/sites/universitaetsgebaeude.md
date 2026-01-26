@@ -4,13 +4,13 @@ site_name: "Universitätsgebäude"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-63-000-472 (0) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q17490365"
 latitude: 49.79997134
 longitude: 9.930741957
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/400px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/800px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/1200px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/1920px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/1920px-Röntgengedächtnisstätte_in_Würzburg_05.JPG---
 
 ## Overview
 

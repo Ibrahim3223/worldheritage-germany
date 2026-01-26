@@ -4,13 +4,13 @@ site_name: "Deutsches Museum Bonn"
 date: 2026-01-26
 draft: false
 description: "technology museum in Germany"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1205841"
 latitude: 50.6997
 longitude: 7.14983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/400px-Deutsches_Museum_Bonn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/800px-Deutsches_Museum_Bonn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1200px-Deutsches_Museum_Bonn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1920px-Deutsches_Museum_Bonn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1920px-Deutsches_Museum_Bonn.jpg---
 
 ## Overview
 

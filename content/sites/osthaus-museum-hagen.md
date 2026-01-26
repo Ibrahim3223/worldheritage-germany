@@ -4,13 +4,13 @@ site_name: "Osthaus-Museum Hagen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q314559"
 latitude: 51.356033333
 longitude: 7.473036111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/400px-Hagen_Osthaus_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/800px-Hagen_Osthaus_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/1200px-Hagen_Osthaus_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/1920px-Hagen_Osthaus_Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/1920px-Hagen_Osthaus_Museum.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Denkmal für Veit Demmler"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1188021"
 latitude: 48.7554
 longitude: 9.09409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/400px-Denkmal_für_Veit_Demmler.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/800px-Denkmal_für_Veit_Demmler.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/1200px-Denkmal_für_Veit_Demmler.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/1920px-Denkmal_für_Veit_Demmler.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/1920px-Denkmal_für_Veit_Demmler.jpg---
 
 ## Overview
 

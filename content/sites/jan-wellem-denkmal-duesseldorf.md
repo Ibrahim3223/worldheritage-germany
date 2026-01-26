@@ -4,13 +4,13 @@ site_name: "Jan-Wellem-Denkmal (Düsseldorf)"
 date: 2026-01-26
 draft: false
 description: "statue in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1681554"
 latitude: 51.2262
 longitude: 6.77148
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG/400px-Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG/800px-Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG/1200px-Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG/1920px-Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG/1920px-Jan_Wellem_Statue_im_Düsseldorfer_Rathaus_-_IMGP8567.JPG---
 
 ## Overview
 

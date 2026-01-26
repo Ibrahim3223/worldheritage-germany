@@ -4,13 +4,13 @@ site_name: "Bürgerpark"
 date: 2026-01-26
 draft: false
 description: "cemetery in Dudeldorf, Germany"
-region: "Dudeldorf"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dudeldorf"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1299445"
 latitude: 49.9741
 longitude: 6.63603
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/400px-Dudeldorf_Friedhofstor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/800px-Dudeldorf_Friedhofstor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/1200px-Dudeldorf_Friedhofstor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/1920px-Dudeldorf_Friedhofstor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/1920px-Dudeldorf_Friedhofstor.jpg---
 
 ## Overview
 

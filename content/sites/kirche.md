@@ -4,13 +4,13 @@ site_name: "Kirche"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-131-16 (0) in Maßbach, Bavaria"
-region: "Maßbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Maßbach"
+  - "Bavaria"
 wikidata_id: "Q6281183"
 latitude: 50.2141
 longitude: 10.2356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poppenlauer_002.JPG/400px-Poppenlauer_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poppenlauer_002.JPG/800px-Poppenlauer_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poppenlauer_002.JPG/1200px-Poppenlauer_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poppenlauer_002.JPG/1920px-Poppenlauer_002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Poppenlauer_002.JPG/1920px-Poppenlauer_002.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kampa Halle"
 date: 2026-01-26
 draft: false
 description: "Mehrzweckhalle in der ostwestfälischen Stadt Minden"
-region: "Minden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Minden"
+  - "Lower Saxony"
 wikidata_id: "Q16303773"
 latitude: 52.2972
 longitude: 8.89222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/400px-Kampa-Halle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/800px-Kampa-Halle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/1200px-Kampa-Halle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/1920px-Kampa-Halle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/1920px-Kampa-Halle.JPG---
 
 ## Overview
 

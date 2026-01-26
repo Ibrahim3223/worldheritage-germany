@@ -4,19 +4,18 @@ site_name: "Campus Fichtenhain"
 date: 2026-01-26
 draft: false
 description: "Verbreitungsgebiet bei Krefeld, Deutschland"
-region: "Krefeld"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Krefeld"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1031671"
 latitude: 51.2895
 longitude: 6.56637
 images:
-  []
----
+  []---
 
 ## Overview
 

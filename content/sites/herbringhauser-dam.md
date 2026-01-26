@@ -4,13 +4,13 @@ site_name: "Herbringhauser Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1609486"
 latitude: 51.2289
 longitude: 7.27417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/400px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/800px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/1200px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/1920px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/1920px-Staumauer_Obere_Herbringhauser_Talsperre.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Vocational School Burgstraße"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q828746"
 latitude: 53.55666667
 longitude: 10.03888889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/400px-Schule_Burgstr._Hamburg-Borgfelde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/800px-Schule_Burgstr._Hamburg-Borgfelde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/1200px-Schule_Burgstr._Hamburg-Borgfelde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/1920px-Schule_Burgstr._Hamburg-Borgfelde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/1920px-Schule_Burgstr._Hamburg-Borgfelde.jpg---
 
 ## Overview
 

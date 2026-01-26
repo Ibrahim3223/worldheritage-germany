@@ -4,13 +4,13 @@ site_name: "Museumszentrum Burg Linn"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1467550"
 latitude: 51.3331
 longitude: 6.63472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Linn.jpg/400px-Burg_Linn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Linn.jpg/800px-Burg_Linn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Linn.jpg/1200px-Burg_Linn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Linn.jpg/1920px-Burg_Linn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Linn.jpg/1920px-Burg_Linn.jpg---
 
 ## Overview
 

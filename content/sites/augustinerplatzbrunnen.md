@@ -4,13 +4,13 @@ site_name: "Augustinerplatzbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q768697"
 latitude: 50.7761
 longitude: 6.08117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/400px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/800px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/1200px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/1920px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/1920px-Aachen_Brunnen_am_Augustinerplatz_3.jpg---
 
 ## Overview
 

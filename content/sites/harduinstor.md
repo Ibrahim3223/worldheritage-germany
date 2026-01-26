@@ -4,19 +4,18 @@ site_name: "Harduinstor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1270989"
 latitude: 50.77361
 longitude: 6.08694
 images:
-  []
----
+  []---
 
 ## Overview
 

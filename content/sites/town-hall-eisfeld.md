@@ -4,13 +4,13 @@ site_name: "Town hall Eisfeld"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Eisfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Eisfeld"
+  - "Bavaria"
 wikidata_id: "Q135240500"
 latitude: 50.426813
 longitude: 10.907141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/400px-Eisfeld-Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/800px-Eisfeld-Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/1200px-Eisfeld-Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/1920px-Eisfeld-Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/1920px-Eisfeld-Rathaus.jpg---
 
 ## Overview
 

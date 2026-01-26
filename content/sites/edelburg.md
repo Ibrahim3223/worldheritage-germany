@@ -4,13 +4,13 @@ site_name: "Edelburg"
 date: 2026-01-26
 draft: false
 description: "manor house and human settlement in Germany"
-region: "Hemer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Hemer"
+  - "Lower Saxony"
 wikidata_id: "Q1283246"
 latitude: 51.4101
 longitude: 7.79173
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hemer-Edelburg2-Bubo.JPG/400px-Hemer-Edelburg2-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hemer-Edelburg2-Bubo.JPG/800px-Hemer-Edelburg2-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hemer-Edelburg2-Bubo.JPG/1200px-Hemer-Edelburg2-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hemer-Edelburg2-Bubo.JPG/1920px-Hemer-Edelburg2-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hemer-Edelburg2-Bubo.JPG/1920px-Hemer-Edelburg2-Bubo.JPG---
 
 ## Overview
 

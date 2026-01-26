@@ -4,13 +4,13 @@ site_name: "Wieskirche"
 date: 2026-01-26
 draft: false
 description: "Roman Catholic church in the municipality of Steingaden, Bavaria, Germany"
-region: "Steingaden"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steingaden"
+  - "Bavaria"
 wikidata_id: "Q156675"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wieskirche_boenisch_okt_2003.jpg/400px-Wieskirche_boenisch_okt_2003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wieskirche_boenisch_okt_2003.jpg/800px-Wieskirche_boenisch_okt_2003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wieskirche_boenisch_okt_2003.jpg/1200px-Wieskirche_boenisch_okt_2003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wieskirche_boenisch_okt_2003.jpg/1920px-Wieskirche_boenisch_okt_2003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wieskirche_boenisch_okt_2003.jpg/1920px-Wieskirche_boenisch_okt_2003.jpg---
 
 ## Overview
 

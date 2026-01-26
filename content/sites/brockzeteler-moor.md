@@ -4,13 +4,13 @@ site_name: "Brockzeteler Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Aurich"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Aurich"
+  - "Lower Saxony"
 wikidata_id: "Q923979"
 latitude: 53.4664
 longitude: 7.61556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/400px-Brockzeteler_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/800px-Brockzeteler_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/1200px-Brockzeteler_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/1920px-Brockzeteler_Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/1920px-Brockzeteler_Moor.jpg---
 
 ## Overview
 

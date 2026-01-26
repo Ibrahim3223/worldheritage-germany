@@ -4,13 +4,13 @@ site_name: "Nibelungenbrücke Worms"
 date: 2026-01-26
 draft: false
 description: "Straßenbrücke über den Rhein in Worms"
-region: "Lampertheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Lampertheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1984625"
 latitude: 49.631599075
 longitude: 8.381056375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nibelungenbrücke_2014_von_"Hessen",_1.JPG/400px-Nibelungenbrücke_2014_von_"Hessen",_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nibelungenbrücke_2014_von_"Hessen",_1.JPG/800px-Nibelungenbrücke_2014_von_"Hessen",_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nibelungenbrücke_2014_von_"Hessen",_1.JPG/1200px-Nibelungenbrücke_2014_von_"Hessen",_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nibelungenbrücke_2014_von_"Hessen",_1.JPG/1920px-Nibelungenbrücke_2014_von_"Hessen",_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nibelungenbrücke_2014_von_"Hessen",_1.JPG/1920px-Nibelungenbrücke_2014_von_"Hessen",_1.JPG---
 
 ## Overview
 

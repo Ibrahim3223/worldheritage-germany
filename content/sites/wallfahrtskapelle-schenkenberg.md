@@ -4,13 +4,13 @@ site_name: "Wallfahrtskapelle Schenkenberg"
 date: 2026-01-26
 draft: false
 description: "church building in Emmingen-Liptingen, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Emmingen-Liptingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Emmingen-Liptingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1330990"
 latitude: 47.89804585
 longitude: 8.84991646
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/400px-Schenkenberger_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/800px-Schenkenberger_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/1200px-Schenkenberger_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/1920px-Schenkenberger_Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/1920px-Schenkenberger_Kapelle.jpg---
 
 ## Overview
 

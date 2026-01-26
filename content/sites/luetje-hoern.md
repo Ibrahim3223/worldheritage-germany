@@ -4,13 +4,13 @@ site_name: "Lütje Hörn"
 date: 2026-01-26
 draft: false
 description: "East Frisian Island"
-region: "Insel Lütje Hörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Insel Lütje Hörn"
+  - "Lower Saxony"
 wikidata_id: "Q25104"
 latitude: 53.583333333
 longitude: 6.866666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lütje_Hörn_2010-07-10.jpg/400px-Lütje_Hörn_2010-07-10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lütje_Hörn_2010-07-10.jpg/800px-Lütje_Hörn_2010-07-10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lütje_Hörn_2010-07-10.jpg/1200px-Lütje_Hörn_2010-07-10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lütje_Hörn_2010-07-10.jpg/1920px-Lütje_Hörn_2010-07-10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lütje_Hörn_2010-07-10.jpg/1920px-Lütje_Hörn_2010-07-10.jpg---
 
 ## Overview
 

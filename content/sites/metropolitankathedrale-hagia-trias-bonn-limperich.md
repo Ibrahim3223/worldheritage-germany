@@ -4,13 +4,13 @@ site_name: "Metropolitankathedrale Hagia Trias (Bonn-Limperich)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Beuel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Beuel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1411520"
 latitude: 50.7269
 longitude: 7.13445
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG/400px-Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG/800px-Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG/1200px-Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG/1920px-Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG/1920px-Bonn_Griechisch-Orthodoxe_Kathedrale_Agia_Trias_Front.JPG---
 
 ## Overview
 

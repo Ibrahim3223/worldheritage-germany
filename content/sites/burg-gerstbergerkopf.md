@@ -4,19 +4,18 @@ site_name: "Burg Gerstbergerkopf"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dahn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dahn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011950"
 latitude: 49.1624858
 longitude: 7.7759573
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dornburg palaces"
 date: 2026-01-26
 draft: false
 description: "palace ensemble in Thuringia, Germany"
-region: "Dornburg-Camburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Dornburg-Camburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1245639"
 latitude: 51.005833333
 longitude: 11.667777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg/400px-Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg/800px-Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg/1200px-Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg/1920px-Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg/1920px-Dornburg_Saale_Dornburger_Schlösser_Renaissanceschloss_Rokokoschloss_St_Jacobi-Kirche_Altes_Schloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0096.jpg---
 
 ## Overview 
 

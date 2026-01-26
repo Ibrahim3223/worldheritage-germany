@@ -4,13 +4,13 @@ site_name: "Historisches Museum & Bachgedenkstätte"
 date: 2026-01-26
 draft: false
 description: "museum in Köthen, Germany"
-region: "Köthen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Köthen"
+  - "Brandenburg"
 wikidata_id: "Q56665442"
 latitude: 51.753611
 longitude: 11.976667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2008-03_Köthen_04.jpg/400px-2008-03_Köthen_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2008-03_Köthen_04.jpg/800px-2008-03_Köthen_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2008-03_Köthen_04.jpg/1200px-2008-03_Köthen_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2008-03_Köthen_04.jpg/1920px-2008-03_Köthen_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2008-03_Köthen_04.jpg/1920px-2008-03_Köthen_04.jpg---
 
 ## Overview
 

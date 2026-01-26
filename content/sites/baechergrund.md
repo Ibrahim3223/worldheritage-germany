@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Baechergrund.jpg/400px-Baechergrund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Baechergrund.jpg/800px-Baechergrund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Baechergrund.jpg/1200px-Baechergrund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Baechergrund.jpg/1920px-Baechergrund.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Baechergrund.jpg/1920px-Baechergrund.jpg---
 
 ## Overview
 

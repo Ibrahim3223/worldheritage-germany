@@ -4,13 +4,13 @@ site_name: "Bergische Synagoge"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q819843"
 latitude: 51.27111111
 longitude: 7.19777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/400px-Bergische_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/800px-Bergische_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/1200px-Bergische_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/1920px-Bergische_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/1920px-Bergische_Synagoge.jpg---
 
 ## Overview
 

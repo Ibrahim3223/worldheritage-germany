@@ -4,13 +4,13 @@ site_name: "Schlosstheater Ludwigsburg"
 date: 2026-01-26
 draft: false
 description: "theater of Ludwigsburg Palace in Ludwisgburg, Germany"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q125790"
 latitude: 48.90022
 longitude: 9.19694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/400px-Ludwigsburg_Palace_December_2018.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/800px-Ludwigsburg_Palace_December_2018.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/1200px-Ludwigsburg_Palace_December_2018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/1920px-Ludwigsburg_Palace_December_2018.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ludwigsburg_Palace_December_2018.jpg/1920px-Ludwigsburg_Palace_December_2018.jpg---
 
 ## Overview
 

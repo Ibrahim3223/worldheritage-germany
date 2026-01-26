@@ -4,13 +4,13 @@ site_name: "Emscherquellhof"
 date: 2026-01-26
 draft: false
 description: "Fachwerk-Hofanlage im westlichen Hixterwald genannten Bereich von Holzwickede östlich von Dortmund"
-region: "Holzwickede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Holzwickede"
+  - "Lower Saxony"
 wikidata_id: "Q1339682"
 latitude: 51.4914
 longitude: 7.6125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/400px-Emscherquellhof_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/800px-Emscherquellhof_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/1200px-Emscherquellhof_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/1920px-Emscherquellhof_2006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/1920px-Emscherquellhof_2006.jpg---
 
 ## Overview
 

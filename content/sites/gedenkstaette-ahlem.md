@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Ahlem"
 date: 2026-01-26
 draft: false
 description: "memorial in Hannover, Germany"
-region: "Ahlem-Badenstedt-Davenstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ahlem-Badenstedt-Davenstedt"
+  - "Lower Saxony"
 wikidata_id: "Q76636143"
 latitude: 52.37769
 longitude: 9.67258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gedenkstätte_Ahlem_4774.jpg/400px-Gedenkstätte_Ahlem_4774.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gedenkstätte_Ahlem_4774.jpg/800px-Gedenkstätte_Ahlem_4774.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gedenkstätte_Ahlem_4774.jpg/1200px-Gedenkstätte_Ahlem_4774.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gedenkstätte_Ahlem_4774.jpg/1920px-Gedenkstätte_Ahlem_4774.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gedenkstätte_Ahlem_4774.jpg/1920px-Gedenkstätte_Ahlem_4774.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Johannes Baptist (Grotegaste)"
 date: 2026-01-26
 draft: false
 description: "church building in Grotegaste, Germany"
-region: "Westoverledingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Westoverledingen"
+  - "Lower Saxony"
 wikidata_id: "Q2319280"
 latitude: 53.1731
 longitude: 7.399
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/400px-ChurchGrotegaste.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/800px-ChurchGrotegaste.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/1200px-ChurchGrotegaste.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/1920px-ChurchGrotegaste.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/1920px-ChurchGrotegaste.JPG---
 
 ## Overview
 

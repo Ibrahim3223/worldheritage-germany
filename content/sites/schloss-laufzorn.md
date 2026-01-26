@@ -4,13 +4,13 @@ site_name: "Schloss Laufzorn"
 date: 2026-01-26
 draft: false
 description: "castle in Landkreis München"
-region: "Oberhaching"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Oberhaching"
+  - "Bavaria"
 wikidata_id: "Q61741388"
 latitude: 48.015249
 longitude: 11.55407
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Laufzorn_Oberhaching-2.jpg/400px-Laufzorn_Oberhaching-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Laufzorn_Oberhaching-2.jpg/800px-Laufzorn_Oberhaching-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Laufzorn_Oberhaching-2.jpg/1200px-Laufzorn_Oberhaching-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Laufzorn_Oberhaching-2.jpg/1920px-Laufzorn_Oberhaching-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Laufzorn_Oberhaching-2.jpg/1920px-Laufzorn_Oberhaching-2.jpg---
 
 ## Overview
 

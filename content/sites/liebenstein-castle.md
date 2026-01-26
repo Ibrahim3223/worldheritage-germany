@@ -4,13 +4,13 @@ site_name: "Liebenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Liebenstein"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Liebenstein"
+  - "Thuringia"
 wikidata_id: "Q116652"
 latitude: 50.7697
 longitude: 10.8527
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Liebenstein.JPG/400px-Burg_Liebenstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Liebenstein.JPG/800px-Burg_Liebenstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Liebenstein.JPG/1200px-Burg_Liebenstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Liebenstein.JPG/1920px-Burg_Liebenstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Liebenstein.JPG/1920px-Burg_Liebenstein.JPG---
 
 ## Overview
 

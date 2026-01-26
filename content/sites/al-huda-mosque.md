@@ -4,13 +4,13 @@ site_name: "Al-Huda Mosque"
 date: 2026-01-26
 draft: false
 description: "Mosque in Hannover, Germany"
-region: "Nord"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Nord"
+  - "Lower Saxony"
 wikidata_id: "Q91419351"
 latitude: 52.386943
 longitude: 9.724922
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hannover_Al-Huda-Moschee.jpg/400px-Hannover_Al-Huda-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hannover_Al-Huda-Moschee.jpg/800px-Hannover_Al-Huda-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hannover_Al-Huda-Moschee.jpg/1200px-Hannover_Al-Huda-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hannover_Al-Huda-Moschee.jpg/1920px-Hannover_Al-Huda-Moschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hannover_Al-Huda-Moschee.jpg/1920px-Hannover_Al-Huda-Moschee.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Würzburger Stein"
 date: 2026-01-26
 draft: false
 description: "Vineyard"
-region: "Würzburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Würzburg"
+  - "Bavaria"
 wikidata_id: "Q979822"
 latitude: 49.806666666
 longitude: 9.930555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/400px-Würzburger_Stein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/800px-Würzburger_Stein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/1200px-Würzburger_Stein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/1920px-Würzburger_Stein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/1920px-Würzburger_Stein.jpg---
 
 ## Overview
 

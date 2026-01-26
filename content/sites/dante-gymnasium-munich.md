@@ -4,13 +4,13 @@ site_name: "Dante-Gymnasium Munich"
 date: 2026-01-26
 draft: false
 description: "gymnasium in Munich, Germany"
-region: "Sendling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Sendling"
+  - "Bavaria"
 wikidata_id: "Q1164950"
 latitude: 48.115
 longitude: 11.5431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/400px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/800px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/1200px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/1920px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/1920px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Affenberg Salem"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Bodenseekreis"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Bodenseekreis"
+  - "Baden-Württemberg"
 wikidata_id: "Q382304"
 latitude: 47.75972222
 longitude: 9.24722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/400px-Affenberg_Salem_Hauptgebäude.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/800px-Affenberg_Salem_Hauptgebäude.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/1200px-Affenberg_Salem_Hauptgebäude.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/1920px-Affenberg_Salem_Hauptgebäude.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/1920px-Affenberg_Salem_Hauptgebäude.JPG---
 
 ## Overview
 

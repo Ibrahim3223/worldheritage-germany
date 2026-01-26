@@ -4,13 +4,13 @@ site_name: "Zoologischer Garten Hof"
 date: 2026-01-26
 draft: false
 description: "Zoo in Hof, Bavaria, Germany"
-region: "Hof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Hof"
+  - "Bavaria"
 wikidata_id: "Q220255"
 latitude: 50.3308
 longitude: 11.9247
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zoologischer_Garten_Hof_Eingang_2017.jpg/400px-Zoologischer_Garten_Hof_Eingang_2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zoologischer_Garten_Hof_Eingang_2017.jpg/800px-Zoologischer_Garten_Hof_Eingang_2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zoologischer_Garten_Hof_Eingang_2017.jpg/1200px-Zoologischer_Garten_Hof_Eingang_2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zoologischer_Garten_Hof_Eingang_2017.jpg/1920px-Zoologischer_Garten_Hof_Eingang_2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zoologischer_Garten_Hof_Eingang_2017.jpg/1920px-Zoologischer_Garten_Hof_Eingang_2017.jpg---
 
 ## Overview
 

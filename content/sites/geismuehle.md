@@ -4,13 +4,13 @@ site_name: "Geismühle"
 date: 2026-01-26
 draft: false
 description: "Turmwindmühle zwischen Krefeld und Meerbusch"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1498920"
 latitude: 51.3108
 longitude: 6.63289
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Krefeld,_Geismühle,_2011-04_CN-01.jpg/400px-Krefeld,_Geismühle,_2011-04_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Krefeld,_Geismühle,_2011-04_CN-01.jpg/800px-Krefeld,_Geismühle,_2011-04_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Krefeld,_Geismühle,_2011-04_CN-01.jpg/1200px-Krefeld,_Geismühle,_2011-04_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Krefeld,_Geismühle,_2011-04_CN-01.jpg/1920px-Krefeld,_Geismühle,_2011-04_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Krefeld,_Geismühle,_2011-04_CN-01.jpg/1920px-Krefeld,_Geismühle,_2011-04_CN-01.jpg---
 
 ## Overview
 

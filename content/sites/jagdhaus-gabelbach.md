@@ -4,13 +4,13 @@ site_name: "Jagdhaus Gabelbach"
 date: 2026-01-26
 draft: false
 description: "Hunting lodge in Ilmenau, Thuringia, Germany"
-region: "Ilmenau"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ilmenau"
+  - "Thuringia"
 wikidata_id: "Q1525458"
 latitude: 50.6586
 longitude: 10.8842
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/400px-Jagdhaus_Gabelbach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/800px-Jagdhaus_Gabelbach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1200px-Jagdhaus_Gabelbach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1920px-Jagdhaus_Gabelbach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1920px-Jagdhaus_Gabelbach.JPG---
 
 ## Overview
 

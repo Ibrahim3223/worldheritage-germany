@@ -4,13 +4,13 @@ site_name: "St. Martin (Stotzheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Euskirchen, Germany"
-region: "Euskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Euskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1648371"
 latitude: 50.6279
 longitude: 6.80958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/St._Martin_(Stotzheim)_003.jpg/400px-St._Martin_(Stotzheim)_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/St._Martin_(Stotzheim)_003.jpg/800px-St._Martin_(Stotzheim)_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/St._Martin_(Stotzheim)_003.jpg/1200px-St._Martin_(Stotzheim)_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/St._Martin_(Stotzheim)_003.jpg/1920px-St._Martin_(Stotzheim)_003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/St._Martin_(Stotzheim)_003.jpg/1920px-St._Martin_(Stotzheim)_003.jpg---
 
 ## Overview
 

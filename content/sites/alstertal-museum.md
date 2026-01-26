@@ -4,13 +4,13 @@ site_name: "Alstertal-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q2651515"
 latitude: 53.64333333
 longitude: 10.07305556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/400px-Torhaus_Wellingsbüttel_2006.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/800px-Torhaus_Wellingsbüttel_2006.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/1200px-Torhaus_Wellingsbüttel_2006.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/1920px-Torhaus_Wellingsbüttel_2006.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/1920px-Torhaus_Wellingsbüttel_2006.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Lakum"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q1012809"
 latitude: 51.46
 longitude: 6.75823
 images:
-  []
----
+  []---
 
 ## Overview
 

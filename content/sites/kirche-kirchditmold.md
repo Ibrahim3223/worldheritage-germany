@@ -4,13 +4,13 @@ site_name: "Kirche Kirchditmold"
 date: 2026-01-26
 draft: false
 description: "church building in Kassel, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1742598"
 latitude: 51.3229
 longitude: 9.44467
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/400px-Kirchekirchditmold.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/800px-Kirchekirchditmold.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/1200px-Kirchekirchditmold.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/1920px-Kirchekirchditmold.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/1920px-Kirchekirchditmold.JPG---
 
 ## Overview
 

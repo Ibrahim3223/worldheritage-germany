@@ -4,13 +4,13 @@ site_name: "Schomet"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Germany"
-region: "Stolberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Stolberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153887"
 latitude: 50.7239
 longitude: 6.22111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NSG_Schomet_(4).jpg/400px-NSG_Schomet_(4).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NSG_Schomet_(4).jpg/800px-NSG_Schomet_(4).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NSG_Schomet_(4).jpg/1200px-NSG_Schomet_(4).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NSG_Schomet_(4).jpg/1920px-NSG_Schomet_(4).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NSG_Schomet_(4).jpg/1920px-NSG_Schomet_(4).jpg---
 
 ## Overview
 

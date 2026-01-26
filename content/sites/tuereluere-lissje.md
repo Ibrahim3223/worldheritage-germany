@@ -4,13 +4,13 @@ site_name: "Türelüre-Lißje"
 date: 2026-01-26
 draft: false
 description: "fountain in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151421"
 latitude: 50.7746206
 longitude: 6.0813266
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/400px-Turelure-Lieschen,_Aachen,_Figuren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/800px-Turelure-Lieschen,_Aachen,_Figuren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/1200px-Turelure-Lieschen,_Aachen,_Figuren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/1920px-Turelure-Lieschen,_Aachen,_Figuren.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/1920px-Turelure-Lieschen,_Aachen,_Figuren.jpg---
 
 ## Overview
 

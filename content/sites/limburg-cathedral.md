@@ -4,13 +4,13 @@ site_name: "Limburg Cathedral"
 date: 2026-01-26
 draft: false
 description: "roman-catholic cathedral in Limburg, Germany"
-region: "Limburg an der Lahn"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Limburg an der Lahn"
+  - "Hesse"
 wikidata_id: "Q564957"
 latitude: 50.388888888
 longitude: 8.066666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Limburger_Dom_Bild_4.jpg/400px-Limburger_Dom_Bild_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Limburger_Dom_Bild_4.jpg/800px-Limburger_Dom_Bild_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Limburger_Dom_Bild_4.jpg/1200px-Limburger_Dom_Bild_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Limburger_Dom_Bild_4.jpg/1920px-Limburger_Dom_Bild_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Limburger_Dom_Bild_4.jpg/1920px-Limburger_Dom_Bild_4.jpg---
 
 ## Overview
 

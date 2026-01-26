@@ -4,13 +4,13 @@ site_name: "Lanker See"
 date: 2026-01-26
 draft: false
 description: "lake in Plön District, Schleswig-Holstein, Germany"
-region: "Plön District"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Plön District"
+  - "Schleswig-Holstein"
 wikidata_id: "Q114397"
 latitude: 54.207777777
 longitude: 10.2925
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/400px-Lanker_See_(Suedteil).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/800px-Lanker_See_(Suedteil).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/1200px-Lanker_See_(Suedteil).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/1920px-Lanker_See_(Suedteil).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/1920px-Lanker_See_(Suedteil).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Saint Stephen Westerhever"
 date: 2026-01-26
 draft: false
 description: "church building in Westerhever, Schleswig-Holstein state, Germany"
-region: "Westerhever"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Westerhever"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1607645"
 latitude: 54.3821
 longitude: 8.67598
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Westerhever_St_Stephanus-01.jpg/400px-Westerhever_St_Stephanus-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Westerhever_St_Stephanus-01.jpg/800px-Westerhever_St_Stephanus-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Westerhever_St_Stephanus-01.jpg/1200px-Westerhever_St_Stephanus-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Westerhever_St_Stephanus-01.jpg/1920px-Westerhever_St_Stephanus-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Westerhever_St_Stephanus-01.jpg/1920px-Westerhever_St_Stephanus-01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sayn Castle"
 date: 2026-01-26
 draft: false
 description: "castle ruins in Bendorf, Germany"
-region: "Bendorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bendorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q601887"
 latitude: 50.439
 longitude: 7.5793
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/400px-Sayn_mit_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/800px-Sayn_mit_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/1200px-Sayn_mit_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/1920px-Sayn_mit_Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/1920px-Sayn_mit_Burg.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Abrechen (München)"
 date: 2026-01-26
 draft: false
 description: "bridge"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q331255"
 latitude: 48.1357
 longitude: 11.5889
 images:
-  []
----
+  []---
 
 ## Overview
 

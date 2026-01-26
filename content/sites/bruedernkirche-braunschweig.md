@@ -4,13 +4,13 @@ site_name: "Brüdernkirche Braunschweig"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q996780"
 latitude: 52.26555
 longitude: 10.518497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/400px-Bruedernkirche_02_1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/800px-Bruedernkirche_02_1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/1200px-Bruedernkirche_02_1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/1920px-Bruedernkirche_02_1a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/1920px-Bruedernkirche_02_1a.jpg---
 
 ## Overview
 

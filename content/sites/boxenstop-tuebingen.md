@@ -4,13 +4,13 @@ site_name: "Boxenstop Tübingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q895571"
 latitude: 48.5238
 longitude: 9.0628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/400px-Boxenstop_Tübingen_M26.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/800px-Boxenstop_Tübingen_M26.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/1200px-Boxenstop_Tübingen_M26.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/1920px-Boxenstop_Tübingen_M26.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/1920px-Boxenstop_Tübingen_M26.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Berlin-Lichtenberg railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Berlin"
-region: "Lichtenberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Lichtenberg"
+  - "Berlin"
 wikidata_id: "Q634247"
 latitude: 52.5106
 longitude: 13.4964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/400px-Rummelsburg_Bahnhof_Lichtenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/800px-Rummelsburg_Bahnhof_Lichtenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/1200px-Rummelsburg_Bahnhof_Lichtenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/1920px-Rummelsburg_Bahnhof_Lichtenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/1920px-Rummelsburg_Bahnhof_Lichtenberg.jpg---
 
 ## Overview
 

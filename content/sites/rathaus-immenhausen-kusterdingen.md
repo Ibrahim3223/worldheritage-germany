@@ -4,13 +4,13 @@ site_name: "Rathaus Immenhausen (Kusterdingen)"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Kusterdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kusterdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q128795963"
 latitude: 48.48033
 longitude: 9.10001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/400px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/800px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/1200px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/1920px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/1920px-Kusterdingen_Immenhausen_Rathaus_(1).jpg---
 
 ## Overview
 

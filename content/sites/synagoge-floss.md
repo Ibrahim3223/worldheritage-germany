@@ -4,13 +4,13 @@ site_name: "Synagoge (Floß)"
 date: 2026-01-26
 draft: false
 description: "synagogue in Floß, Upper Palatinate, Germany"
-region: "Floß"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Floß"
+  - "Bavaria"
 wikidata_id: "Q1344735"
 latitude: 49.7256
 longitude: 12.2761
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FlossSynagoge_05.JPG/400px-FlossSynagoge_05.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FlossSynagoge_05.JPG/800px-FlossSynagoge_05.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FlossSynagoge_05.JPG/1200px-FlossSynagoge_05.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FlossSynagoge_05.JPG/1920px-FlossSynagoge_05.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FlossSynagoge_05.JPG/1920px-FlossSynagoge_05.JPG---
 
 ## Overview
 

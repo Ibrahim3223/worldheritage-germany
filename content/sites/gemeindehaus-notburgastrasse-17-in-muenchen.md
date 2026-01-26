@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Notburgastraße 17 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-4807 (3) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98740166"
 latitude: 48.156735397
 longitude: 11.511939302
 images:
-  []
----
+  []---
 
 ## Overview
 

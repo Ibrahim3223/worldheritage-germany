@@ -4,13 +4,13 @@ site_name: "Ehrenfriedhof für Gefallene der Roten Armee"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bernau bei Berlin, Germany"
-region: "Bernau bei Berlin"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bernau bei Berlin"
+  - "Berlin"
 wikidata_id: "Q1300118"
 latitude: 52.6801
 longitude: 13.5849
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bernau_Ehrenfriedhof2.JPG/400px-Bernau_Ehrenfriedhof2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bernau_Ehrenfriedhof2.JPG/800px-Bernau_Ehrenfriedhof2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bernau_Ehrenfriedhof2.JPG/1200px-Bernau_Ehrenfriedhof2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bernau_Ehrenfriedhof2.JPG/1920px-Bernau_Ehrenfriedhof2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bernau_Ehrenfriedhof2.JPG/1920px-Bernau_Ehrenfriedhof2.JPG---
 
 ## Overview
 

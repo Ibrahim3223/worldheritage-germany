@@ -4,13 +4,13 @@ site_name: "Residenzschloss Oettingen in Bayern"
 date: 2026-01-26
 draft: false
 description: "building in Donau-Ries, Swabia, Germany"
-region: "Oettingen in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oettingen in Bayern"
+  - "Bavaria"
 wikidata_id: "Q2242823"
 latitude: 48.9546
 longitude: 10.6046
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oettingen_Schloss_1.JPG/400px-Oettingen_Schloss_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oettingen_Schloss_1.JPG/800px-Oettingen_Schloss_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oettingen_Schloss_1.JPG/1200px-Oettingen_Schloss_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oettingen_Schloss_1.JPG/1920px-Oettingen_Schloss_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oettingen_Schloss_1.JPG/1920px-Oettingen_Schloss_1.JPG---
 
 ## Overview
 

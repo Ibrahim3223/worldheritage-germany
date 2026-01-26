@@ -4,13 +4,13 @@ site_name: "Bensheim station"
 date: 2026-01-26
 draft: false
 description: "railway station in Bensheim, Germany"
-region: "Bensheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Bensheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q321004"
 latitude: 49.6824
 longitude: 8.61677
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/400px-Bahnhof_Bensheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/800px-Bahnhof_Bensheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/1200px-Bahnhof_Bensheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/1920px-Bahnhof_Bensheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/1920px-Bahnhof_Bensheim.jpg---
 
 ## Overview
 

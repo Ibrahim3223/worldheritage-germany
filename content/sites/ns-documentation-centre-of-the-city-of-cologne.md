@@ -4,13 +4,13 @@ site_name: "NS Documentation Centre of the City of Cologne"
 date: 2026-01-26
 draft: false
 description: "NS Documentation Centre - Cologne"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q560033"
 latitude: 50.940615548
 longitude: 6.950177092
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/400px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/800px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/1200px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/1920px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/1920px-Cologne-EL-DE-House-UpperFloorMuseum.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zillierbach Dam"
 date: 2026-01-26
 draft: false
 description: "reservoir in Germany"
-region: "Harz District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Harz District"
+  - "Lower Saxony"
 wikidata_id: "Q896824"
 latitude: 51.7892
 longitude: 10.7767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ZillierbachtalsperrePeterstein.jpg/400px-ZillierbachtalsperrePeterstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ZillierbachtalsperrePeterstein.jpg/800px-ZillierbachtalsperrePeterstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ZillierbachtalsperrePeterstein.jpg/1200px-ZillierbachtalsperrePeterstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ZillierbachtalsperrePeterstein.jpg/1920px-ZillierbachtalsperrePeterstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ZillierbachtalsperrePeterstein.jpg/1920px-ZillierbachtalsperrePeterstein.jpg---
 
 ## Overview
 

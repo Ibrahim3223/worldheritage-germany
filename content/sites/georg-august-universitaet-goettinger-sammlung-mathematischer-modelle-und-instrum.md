@@ -4,13 +4,13 @@ site_name: "Georg-August-Universität: Göttinger Sammlung mathematischer Modell
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636049"
 latitude: 51.528447
 longitude: 9.932374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/400px-Mathematik_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/800px-Mathematik_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/1200px-Mathematik_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/1920px-Mathematik_Göttingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/1920px-Mathematik_Göttingen.jpg---
 
 ## Overview
 

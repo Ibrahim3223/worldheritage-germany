@@ -4,13 +4,13 @@ site_name: "Brandmoorwiesen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Garbsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Garbsen"
+  - "Lower Saxony"
 wikidata_id: "Q898075"
 latitude: 52.4314
 longitude: 9.52194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Brandmoorwiesen_02.jpg/400px-Brandmoorwiesen_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Brandmoorwiesen_02.jpg/800px-Brandmoorwiesen_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Brandmoorwiesen_02.jpg/1200px-Brandmoorwiesen_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Brandmoorwiesen_02.jpg/1920px-Brandmoorwiesen_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Brandmoorwiesen_02.jpg/1920px-Brandmoorwiesen_02.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rittergut Voldagsen"
 date: 2026-01-26
 draft: false
 description: "landwirtschaftlicher Gebäudekomplex mit einem Herrenhaus im Stil der Neorenaissance in Coppenbrügge, Niedersachsen"
-region: "Coppenbrügge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Coppenbrügge"
+  - "Lower Saxony"
 wikidata_id: "Q15126219"
 latitude: 52.1025
 longitude: 9.58888889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittergut_Voldagsen.jpg/400px-Rittergut_Voldagsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittergut_Voldagsen.jpg/800px-Rittergut_Voldagsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittergut_Voldagsen.jpg/1200px-Rittergut_Voldagsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittergut_Voldagsen.jpg/1920px-Rittergut_Voldagsen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittergut_Voldagsen.jpg/1920px-Rittergut_Voldagsen.jpg---
 
 ## Overview
 

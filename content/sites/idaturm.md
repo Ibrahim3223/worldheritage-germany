@@ -4,13 +4,13 @@ site_name: "Idaturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Bückeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bückeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1398596"
 latitude: 52.2469
 longitude: 9.07806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/400px-Bückeburg_Idaturm_09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/800px-Bückeburg_Idaturm_09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/1200px-Bückeburg_Idaturm_09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/1920px-Bückeburg_Idaturm_09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/1920px-Bückeburg_Idaturm_09.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Wolfsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wolfsburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Wolfsburg"
+  - "Lower Saxony"
 wikidata_id: "Q1792556"
 latitude: 52.4187
 longitude: 10.7853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/400px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/800px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/1200px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/1920px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/1920px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG---
 
 ## Overview
 

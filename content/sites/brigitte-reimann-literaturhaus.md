@@ -4,13 +4,13 @@ site_name: "Brigitte-Reimann-Literaturhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q916065"
 latitude: 53.5533
 longitude: 13.2664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/400px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/800px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/1200px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/1920px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/1920px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Charlottenplatz"
 date: 2026-01-26
 draft: false
 description: "square in Stuttgart"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1067437"
 latitude: 48.7759
 longitude: 9.18294
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/400px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/800px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/1200px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/1920px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/1920px-Stuttgart_Charlottenplatz_Verkehr_2.JPG---
 
 ## Overview
 

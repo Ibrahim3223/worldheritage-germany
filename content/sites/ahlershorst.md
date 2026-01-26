@@ -4,13 +4,13 @@ site_name: "Ahlershorst"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Geestland"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Geestland"
+  - "Bremen"
 wikidata_id: "Q400489"
 latitude: 53.6186
 longitude: 8.75472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/400px-Ahlershorst_-_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/800px-Ahlershorst_-_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/1200px-Ahlershorst_-_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/1920px-Ahlershorst_-_04.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/1920px-Ahlershorst_-_04.JPG---
 
 ## Overview
 

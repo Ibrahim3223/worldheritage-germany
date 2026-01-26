@@ -4,13 +4,13 @@ site_name: "Friedhofskapelle Welden"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Welden"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Welden"
+  - "Bavaria"
 wikidata_id: "Q1228657"
 latitude: 48.4546
 longitude: 10.6497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/400px-Welden-Friedhofskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/800px-Welden-Friedhofskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/1200px-Welden-Friedhofskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/1920px-Welden-Friedhofskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/1920px-Welden-Friedhofskapelle.jpg---
 
 ## Overview
 

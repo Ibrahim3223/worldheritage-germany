@@ -4,19 +4,18 @@ site_name: "Saalburgmuseum"
 date: 2026-01-26
 draft: false
 description: "archaeological museum in the ancient roman Castle Saalburg"
-region: "Bad Homburg vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Homburg vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q24131367"
 latitude: 50.271574738
 longitude: 8.566681303
 images:
-  []
----
+  []---
 
 ## Overview
 

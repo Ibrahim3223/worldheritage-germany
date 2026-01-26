@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5924-0086 in Karsbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Karsbach, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Karsbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Karsbach"
+  - "Bavaria"
 wikidata_id: "Q98171076"
 latitude: 50.0417116
 longitude: 9.786213412
 images:
-  []
----
+  []---
 
 ## Overview
 

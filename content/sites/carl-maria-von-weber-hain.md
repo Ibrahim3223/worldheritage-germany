@@ -4,13 +4,13 @@ site_name: "Carl-Maria-von-Weber-Hain"
 date: 2026-01-26
 draft: false
 description: "Monument in Eutin, Germany"
-region: "Eutin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Eutin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1036558"
 latitude: 54.1307
 longitude: 10.6235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/400px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/800px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/1200px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/1920px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/1920px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG---
 
 ## Overview
 

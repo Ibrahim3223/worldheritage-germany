@@ -4,13 +4,13 @@ site_name: "Remonstrantenkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Friedrichstadt, Germany"
-region: "Friedrichstadt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichstadt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q12333210"
 latitude: 54.37513
 longitude: 9.08899
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/400px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/800px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/1200px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/1920px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/1920px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg---
 
 ## Overview
 

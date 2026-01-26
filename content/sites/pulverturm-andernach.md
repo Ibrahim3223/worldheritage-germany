@@ -4,13 +4,13 @@ site_name: "Pulverturm, Andernach"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1357397"
 latitude: 50.439
 longitude: 7.40483
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/400px-Pulverturm,_Andernach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/800px-Pulverturm,_Andernach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/1200px-Pulverturm,_Andernach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/1920px-Pulverturm,_Andernach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/1920px-Pulverturm,_Andernach.jpg---
 
 ## Overview
 

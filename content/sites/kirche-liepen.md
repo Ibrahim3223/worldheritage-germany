@@ -4,13 +4,13 @@ site_name: "Kirche Liepen"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Liepen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Liepen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742606"
 latitude: 53.8858
 longitude: 13.4691
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_Liepen_Vorpommern.jpg/400px-Kirche_Liepen_Vorpommern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_Liepen_Vorpommern.jpg/800px-Kirche_Liepen_Vorpommern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_Liepen_Vorpommern.jpg/1200px-Kirche_Liepen_Vorpommern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_Liepen_Vorpommern.jpg/1920px-Kirche_Liepen_Vorpommern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_Liepen_Vorpommern.jpg/1920px-Kirche_Liepen_Vorpommern.jpg---
 
 ## Overview
 

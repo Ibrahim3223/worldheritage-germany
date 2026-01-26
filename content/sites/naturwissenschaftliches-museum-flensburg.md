@@ -4,19 +4,18 @@ site_name: "Naturwissenschaftliches Museum Flensburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1971634"
 latitude: 54.7857
 longitude: 9.43158
 images:
-  []
----
+  []---
 
 ## Overview
 

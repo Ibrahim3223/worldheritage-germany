@@ -4,19 +4,18 @@ site_name: "Völkerkundliche Sammlung der Philipps-Universität"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634054"
 latitude: 50.808258
 longitude: 8.766064
 images:
-  []
----
+  []---
 
 ## Overview
 

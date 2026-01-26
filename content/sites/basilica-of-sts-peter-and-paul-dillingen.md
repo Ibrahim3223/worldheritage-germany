@@ -4,13 +4,13 @@ site_name: "Basilica of Sts. Peter and Paul, Dillingen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dillingen an der Donau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dillingen an der Donau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1295245"
 latitude: 48.577964551
 longitude: 10.493906892
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/400px-Basilika_St._Peter_(Dillingen).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/800px-Basilika_St._Peter_(Dillingen).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1200px-Basilika_St._Peter_(Dillingen).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1920px-Basilika_St._Peter_(Dillingen).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1920px-Basilika_St._Peter_(Dillingen).JPG---
 
 ## Overview
 

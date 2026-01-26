@@ -4,13 +4,13 @@ site_name: "Langemarckhalle"
 date: 2026-01-26
 draft: false
 description: "Halle auf dem Olympiagelände Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1804961"
 latitude: 52.5142
 longitude: 13.2322
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/400px-Olympia_Glockenturm_B-Westend_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/800px-Olympia_Glockenturm_B-Westend_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1200px-Olympia_Glockenturm_B-Westend_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1920px-Olympia_Glockenturm_B-Westend_07-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1920px-Olympia_Glockenturm_B-Westend_07-2017.jpg---
 
 ## Overview
 

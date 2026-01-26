@@ -4,13 +4,13 @@ site_name: "Burg Dollnstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dollnstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Dollnstein"
+  - "Bavaria"
 wikidata_id: "Q1011475"
 latitude: 48.8754
 longitude: 11.0729
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/400px-Dollnstein_-_Burgberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/800px-Dollnstein_-_Burgberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/1200px-Dollnstein_-_Burgberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/1920px-Dollnstein_-_Burgberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/1920px-Dollnstein_-_Burgberg.jpg---
 
 ## Overview
 

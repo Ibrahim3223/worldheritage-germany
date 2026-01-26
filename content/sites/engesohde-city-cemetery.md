@@ -4,13 +4,13 @@ site_name: "Engesohde city cemetery"
 date: 2026-01-26
 draft: false
 description: "Listed cemetery in Hanover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q2327118"
 latitude: 52.349166666
 longitude: 9.754722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/400px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/800px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1200px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1920px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1920px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg---
 
 ## Overview
 

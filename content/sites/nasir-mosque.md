@@ -4,13 +4,13 @@ site_name: "Nasir Mosque"
 date: 2026-01-26
 draft: false
 description: "Mosque in Waiblingen, Germany"
-region: "Waiblingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Waiblingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q124636250"
 latitude: 48.82574
 longitude: 9.30234
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nasir-Moschee_Waiblingen_2024-04-29.jpg/400px-Nasir-Moschee_Waiblingen_2024-04-29.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nasir-Moschee_Waiblingen_2024-04-29.jpg/800px-Nasir-Moschee_Waiblingen_2024-04-29.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nasir-Moschee_Waiblingen_2024-04-29.jpg/1200px-Nasir-Moschee_Waiblingen_2024-04-29.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nasir-Moschee_Waiblingen_2024-04-29.jpg/1920px-Nasir-Moschee_Waiblingen_2024-04-29.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nasir-Moschee_Waiblingen_2024-04-29.jpg/1920px-Nasir-Moschee_Waiblingen_2024-04-29.jpg---
 
 ## Overview
 

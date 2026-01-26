@@ -4,13 +4,13 @@ site_name: "Galiläakirche (Berlin-Friedrichshain)"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Friedrichshain, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1492093"
 latitude: 52.5178
 longitude: 13.4564
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/400px-Galiläakirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/800px-Galiläakirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1200px-Galiläakirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1920px-Galiläakirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1920px-Galiläakirche.JPG---
 
 ## Overview
 

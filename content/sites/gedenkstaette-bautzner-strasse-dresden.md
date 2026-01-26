@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Bautzner Straße Dresden"
 date: 2026-01-26
 draft: false
 description: "memorial in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1497520"
 latitude: 51.0667
 longitude: 13.7833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/400px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/800px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1200px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1920px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1920px-Gedenkstätte_Bautzner_Straße_Dresden.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Staatspark Wilhelmsbad"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Hanau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Hanau"
+  - "Hesse"
 wikidata_id: "Q315398"
 latitude: 50.1481
 longitude: 8.88222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/400px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/800px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/1200px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/1920px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/1920px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg---
 
 ## Overview
 

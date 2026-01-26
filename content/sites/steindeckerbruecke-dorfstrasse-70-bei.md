@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Dorfstraße 70 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Königshain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Königshain"
+  - "Saxony"
 wikidata_id: "Q49425509"
 latitude: 51.18075153
 longitude: 14.868624255
 images:
-  []
----
+  []---
 
 ## Overview
 

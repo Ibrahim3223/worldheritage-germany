@@ -4,19 +4,18 @@ site_name: "Philatelic library Hamburg"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1705004"
 latitude: 53.571123
 longitude: 10.067044
 images:
-  []
----
+  []---
 
 ## Overview
 

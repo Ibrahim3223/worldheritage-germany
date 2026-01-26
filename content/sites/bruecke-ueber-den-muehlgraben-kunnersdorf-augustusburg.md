@@ -4,19 +4,18 @@ site_name: "Brücke über den Mühlgraben Kunnersdorf (Augustusburg)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Augustusburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Augustusburg"
+  - "Saxony"
 wikidata_id: "Q49445956"
 latitude: 50.807175305
 longitude: 13.075021779
 images:
-  []
----
+  []---
 
 ## Overview
 

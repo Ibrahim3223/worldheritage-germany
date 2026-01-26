@@ -4,19 +4,18 @@ site_name: "Beecker Flachsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wegberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wegberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q19962055"
 latitude: 51.1318
 longitude: 6.30727
 images:
-  []
----
+  []---
 
 ## Overview
 

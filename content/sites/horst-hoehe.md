@@ -4,13 +4,13 @@ site_name: "Horst Höhe"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "Minden-Lübbecke District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Minden-Lübbecke District"
+  - "Lower Saxony"
 wikidata_id: "Q1330398"
 latitude: 52.29
 longitude: 8.621
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/400px-B239_Pass.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/800px-B239_Pass.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/1200px-B239_Pass.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/1920px-B239_Pass.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/1920px-B239_Pass.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Funtensee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Schönau am Königsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schönau am Königsee"
+  - "Bavaria"
 wikidata_id: "Q314939"
 latitude: 47.493611111
 longitude: 12.939166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/400px-Funtensee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/800px-Funtensee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1200px-Funtensee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1920px-Funtensee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1920px-Funtensee.jpg---
 
 ## Overview
 

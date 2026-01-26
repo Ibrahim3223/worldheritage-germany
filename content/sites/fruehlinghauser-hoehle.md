@@ -4,19 +4,18 @@ site_name: "Frühlinghauser Höhle"
 date: 2026-01-26
 draft: false
 description: "cave"
-region: "Balve"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Balve"
+  - "Hesse"
 wikidata_id: "Q1472091"
 latitude: 51.3254
 longitude: 7.84312
 images:
-  []
----
+  []---
 
 ## Overview
 

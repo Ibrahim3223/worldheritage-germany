@@ -4,13 +4,13 @@ site_name: "Ziegenkopf"
 date: 2026-01-26
 draft: false
 description: "mountain in Saxony-Anhalt, Germany"
-region: "Blankenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Blankenburg"
+  - "Lower Saxony"
 wikidata_id: "Q198806"
 latitude: 51.7883
 longitude: 10.9342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/400px-Ziegenkopf_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/800px-Ziegenkopf_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/1200px-Ziegenkopf_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/1920px-Ziegenkopf_003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/1920px-Ziegenkopf_003.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Martini (Münster)"
 date: 2026-01-26
 draft: false
 description: "church building in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q2321289"
 latitude: 51.9654
 longitude: 7.63
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martinikirche01.jpg/400px-Martinikirche01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martinikirche01.jpg/800px-Martinikirche01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martinikirche01.jpg/1200px-Martinikirche01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martinikirche01.jpg/1920px-Martinikirche01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martinikirche01.jpg/1920px-Martinikirche01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum at the sea"
 date: 2026-01-26
 draft: false
 description: "museum in Büsum"
-region: "Büsum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Büsum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1358031"
 latitude: 54.1276
 longitude: 8.8635
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/400px-Büsum_Museum_am_Meer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/800px-Büsum_Museum_am_Meer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/1200px-Büsum_Museum_am_Meer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/1920px-Büsum_Museum_am_Meer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/1920px-Büsum_Museum_am_Meer.jpg---
 
 ## Overview
 

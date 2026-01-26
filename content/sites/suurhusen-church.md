@@ -4,13 +4,13 @@ site_name: "Suurhusen Church"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Hinte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hinte"
+  - "Lower Saxony"
 wikidata_id: "Q2370027"
 latitude: 53.413544
 longitude: 7.223356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg/400px-Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg/800px-Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg/1200px-Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg/1920px-Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg/1920px-Suurhusen_Church,_East_Frisia,_Germany._Pic_01.jpg---
 
 ## Overview
 

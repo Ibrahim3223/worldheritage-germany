@@ -4,13 +4,13 @@ site_name: "Jahn memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q1678557"
 latitude: 52.4860429
 longitude: 13.4196808
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/400px-Jahn-Denkmal_in_der_Hasenheide.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/800px-Jahn-Denkmal_in_der_Hasenheide.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/1200px-Jahn-Denkmal_in_der_Hasenheide.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/1920px-Jahn-Denkmal_in_der_Hasenheide.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/1920px-Jahn-Denkmal_in_der_Hasenheide.jpg---
 
 ## Overview
 

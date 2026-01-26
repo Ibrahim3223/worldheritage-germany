@@ -4,13 +4,13 @@ site_name: "Großer Kranichsee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Germany"
-region: "Eibenstock"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Eibenstock"
+  - "Bavaria"
 wikidata_id: "Q879323"
 latitude: 50.4168
 longitude: 12.6007
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/400px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/800px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1200px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1920px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1920px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wollheim Memorial"
 date: 2026-01-26
 draft: false
 description: "holocaust memorial site in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1748073"
 latitude: 50.125
 longitude: 8.665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/400px-Wollheim_Memorial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/800px-Wollheim_Memorial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/1200px-Wollheim_Memorial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/1920px-Wollheim_Memorial.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/1920px-Wollheim_Memorial.jpg---
 
 ## Overview
 

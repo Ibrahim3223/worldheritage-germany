@@ -4,13 +4,13 @@ site_name: "Otto-Linne-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Hamburg-Nord, Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q2037984"
 latitude: 53.62306944
 longitude: 10.06272222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/400px-Linne_denkmal_vorne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/800px-Linne_denkmal_vorne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/1200px-Linne_denkmal_vorne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/1920px-Linne_denkmal_vorne.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/1920px-Linne_denkmal_vorne.jpg---
 
 ## Overview
 

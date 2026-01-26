@@ -4,13 +4,13 @@ site_name: "Forstbotanischer Garten Köln"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Rodenkirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Rodenkirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q873964"
 latitude: 50.885
 longitude: 6.97944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/400px-Forstbot_garten_koeln-1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/800px-Forstbot_garten_koeln-1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1200px-Forstbot_garten_koeln-1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1920px-Forstbot_garten_koeln-1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1920px-Forstbot_garten_koeln-1.JPG---
 
 ## Overview
 

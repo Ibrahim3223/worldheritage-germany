@@ -4,19 +4,18 @@ site_name: "Brauerei Faust Miltenberg"
 date: 2026-01-26
 draft: false
 description: "brewery in Miltenberg, Germany"
-region: "Miltenberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Miltenberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q900176"
 latitude: 49.699333333
 longitude: 9.249055555
 images:
-  []
----
+  []---
 
 ## Overview
 

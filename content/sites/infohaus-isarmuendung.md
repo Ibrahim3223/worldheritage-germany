@@ -4,19 +4,18 @@ site_name: "Infohaus Isarmündung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Moos"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Moos"
+  - "Bavaria"
 wikidata_id: "Q1662440"
 latitude: 48.7753
 longitude: 12.9575
 images:
-  []
----
+  []---
 
 ## Overview
 

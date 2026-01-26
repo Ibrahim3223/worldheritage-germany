@@ -4,13 +4,13 @@ site_name: "Limpurg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schwäbisch Hall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schwäbisch Hall"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012977"
 latitude: 49.1067
 longitude: 9.74694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limpurg_20130413.jpg/400px-Limpurg_20130413.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limpurg_20130413.jpg/800px-Limpurg_20130413.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limpurg_20130413.jpg/1200px-Limpurg_20130413.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limpurg_20130413.jpg/1920px-Limpurg_20130413.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Limpurg_20130413.jpg/1920px-Limpurg_20130413.jpg---
 
 ## Overview
 

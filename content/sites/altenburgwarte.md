@@ -4,13 +4,13 @@ site_name: "Altenburgwarte"
 date: 2026-01-26
 draft: false
 description: "tower near Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q436938"
 latitude: 51.7827
 longitude: 11.1163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/400px-Altenburgwarte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/800px-Altenburgwarte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/1200px-Altenburgwarte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/1920px-Altenburgwarte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/1920px-Altenburgwarte.jpg---
 
 ## Overview
 

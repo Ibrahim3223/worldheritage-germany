@@ -4,19 +4,18 @@ site_name: "Bavarian State Archives"
 date: 2026-01-26
 draft: false
 description: "Bavaria (Germany)"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2324301"
 latitude: 48.14653
 longitude: 11.580807
 images:
-  []
----
+  []---
 
 ## Overview
 

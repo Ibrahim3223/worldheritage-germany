@@ -4,13 +4,13 @@ site_name: "Universität"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-63-000-624 (0) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q41313704"
 latitude: 49.78679
 longitude: 9.95156
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1_Wittel_1.jpg/400px-1_Wittel_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1_Wittel_1.jpg/800px-1_Wittel_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1_Wittel_1.jpg/1200px-1_Wittel_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1_Wittel_1.jpg/1920px-1_Wittel_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1_Wittel_1.jpg/1920px-1_Wittel_1.jpg---
 
 ## Overview
 

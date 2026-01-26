@@ -4,19 +4,18 @@ site_name: "Alt-Freden-Sammlung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Freden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freden"
+  - "Lower Saxony"
 wikidata_id: "Q76635980"
 latitude: 51.928945
 longitude: 9.89232
 images:
-  []
----
+  []---
 
 ## Overview
 

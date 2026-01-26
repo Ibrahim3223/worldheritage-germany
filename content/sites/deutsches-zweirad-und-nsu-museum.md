@@ -4,13 +4,13 @@ site_name: "Deutsches Zweirad- und NSU-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Neckarsulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neckarsulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q879055"
 latitude: 49.1916
 longitude: 9.2224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/400px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/800px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1200px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1920px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1920px-Neckarsulm-ZweiradMuseum-Innenhof.JPG---
 
 ## Overview
 

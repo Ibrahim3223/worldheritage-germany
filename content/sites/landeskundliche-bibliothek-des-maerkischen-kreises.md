@@ -4,19 +4,18 @@ site_name: "Landeskundliche Bibliothek des Märkischen Kreises"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Altena"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Altena"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1802349"
 latitude: 51.298
 longitude: 7.67095
 images:
-  []
----
+  []---
 
 ## Overview
 

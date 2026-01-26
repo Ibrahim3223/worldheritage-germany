@@ -4,13 +4,13 @@ site_name: "Schwarzenbach Dam"
 date: 2026-01-26
 draft: false
 description: "dam"
-region: "Forbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Forbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1485741"
 latitude: 48.6547
 longitude: 8.32944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/400px-Schwarzenbachtalsperre2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/800px-Schwarzenbachtalsperre2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/1200px-Schwarzenbachtalsperre2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/1920px-Schwarzenbachtalsperre2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/1920px-Schwarzenbachtalsperre2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Markt- und Schaustellermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1900942"
 latitude: 51.4515
 longitude: 7.00488
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/400px-Markt-_und_Schaustellermuseum,_Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/800px-Markt-_und_Schaustellermuseum,_Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/1200px-Markt-_und_Schaustellermuseum,_Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/1920px-Markt-_und_Schaustellermuseum,_Essen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/1920px-Markt-_und_Schaustellermuseum,_Essen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zoo Schwerin"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q220087"
 latitude: 53.605
 longitude: 11.4431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zoo_Schwerin_Eingang.jpg/400px-Zoo_Schwerin_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zoo_Schwerin_Eingang.jpg/800px-Zoo_Schwerin_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zoo_Schwerin_Eingang.jpg/1200px-Zoo_Schwerin_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zoo_Schwerin_Eingang.jpg/1920px-Zoo_Schwerin_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zoo_Schwerin_Eingang.jpg/1920px-Zoo_Schwerin_Eingang.jpg---
 
 ## Overview
 

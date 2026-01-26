@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke Döbschütz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Vierkirchen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Vierkirchen"
+  - "Saxony"
 wikidata_id: "Q49424118"
 latitude: 51.1936817
 longitude: 14.7568676
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Leipzig Zoological Garden"
 date: 2026-01-26
 draft: false
 description: "zoological garden northwest of downtown Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q220055"
 latitude: 51.34842
 longitude: 12.3706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg/400px-Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg/800px-Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg/1200px-Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg/1920px-Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg/1920px-Leipzig_-_Zoo_-_Gründer-Garten_-_Eingang_03_ies.jpg---
 
 ## Overview
 

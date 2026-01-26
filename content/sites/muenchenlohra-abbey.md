@@ -4,13 +4,13 @@ site_name: "Münchenlohra Abbey"
 date: 2026-01-26
 draft: false
 description: "church building in Thuringia, Germany"
-region: "Großlohra"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Großlohra"
+  - "Lower Saxony"
 wikidata_id: "Q630935"
 latitude: 51.421943
 longitude: 10.667553
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/400px-Münchenlohra1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/800px-Münchenlohra1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/1200px-Münchenlohra1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/1920px-Münchenlohra1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Münchenlohra1.JPG/1920px-Münchenlohra1.JPG---
 
 ## Overview
 

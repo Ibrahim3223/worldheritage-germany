@@ -4,13 +4,13 @@ site_name: "Haus der Musik"
 date: 2026-01-26
 draft: false
 description: "museum in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q25340865"
 latitude: 48.805664
 longitude: 9.213006
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/400px-Fruchtkasten_und_Schillerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/800px-Fruchtkasten_und_Schillerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/1200px-Fruchtkasten_und_Schillerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/1920px-Fruchtkasten_und_Schillerdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/1920px-Fruchtkasten_und_Schillerdenkmal.jpg---
 
 ## Overview
 

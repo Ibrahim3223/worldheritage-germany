@@ -4,13 +4,13 @@ site_name: "Markbuchener Sattel"
 date: 2026-01-26
 draft: false
 description: "Gebirgspass im Bayerischen Wald"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1900561"
 latitude: 49.006
 longitude: 12.8345
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/400px-Markbuchener.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/800px-Markbuchener.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/1200px-Markbuchener.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/1920px-Markbuchener.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/1920px-Markbuchener.jpg---
 
 ## Overview
 

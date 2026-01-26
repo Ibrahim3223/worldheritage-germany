@@ -4,13 +4,13 @@ site_name: "Bauernmuseum Lammersdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Simmerath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Simmerath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q16830582"
 latitude: 50.633136111
 longitude: 6.272406944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/400px-Bauernmuseum_Lammersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/800px-Bauernmuseum_Lammersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/1200px-Bauernmuseum_Lammersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/1920px-Bauernmuseum_Lammersdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/1920px-Bauernmuseum_Lammersdorf.jpg---
 
 ## Overview
 

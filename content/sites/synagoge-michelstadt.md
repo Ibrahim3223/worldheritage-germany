@@ -4,13 +4,13 @@ site_name: "Synagoge Michelstadt"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Michelstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Michelstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1523285"
 latitude: 49.6792
 longitude: 9.00519
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/400px-MichelstadtSynagogue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/800px-MichelstadtSynagogue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/1200px-MichelstadtSynagogue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/1920px-MichelstadtSynagogue.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/1920px-MichelstadtSynagogue.jpg---
 
 ## Overview
 

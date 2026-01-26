@@ -4,13 +4,13 @@ site_name: "Gründerzeitmuseum im Gutshaus Mahlsdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin, Germany"
-region: "Marzahn-Hellersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Marzahn-Hellersdorf"
+  - "Berlin"
 wikidata_id: "Q1551866"
 latitude: 52.5024
 longitude: 13.6139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gutshaus_Mahlsdorf.jpg/400px-Gutshaus_Mahlsdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gutshaus_Mahlsdorf.jpg/800px-Gutshaus_Mahlsdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gutshaus_Mahlsdorf.jpg/1200px-Gutshaus_Mahlsdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gutshaus_Mahlsdorf.jpg/1920px-Gutshaus_Mahlsdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gutshaus_Mahlsdorf.jpg/1920px-Gutshaus_Mahlsdorf.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Herlikofen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schwäbisch Gmünd"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schwäbisch Gmünd"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012305"
 latitude: 48.8212
 longitude: 9.83845
 images:
-  []
----
+  []---
 
 ## Overview
 

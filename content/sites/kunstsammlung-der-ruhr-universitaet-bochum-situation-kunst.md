@@ -4,19 +4,18 @@ site_name: "Kunstsammlung der Ruhr-Universität Bochum: Situation Kunst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q2290655"
 latitude: 51.4483
 longitude: 7.18948
 images:
-  []
----
+  []---
 
 ## Overview
 

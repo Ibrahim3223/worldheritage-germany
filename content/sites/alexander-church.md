@@ -4,13 +4,13 @@ site_name: "Alexander Church"
 date: 2026-01-26
 draft: false
 description: "German church"
-region: "Zweibrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zweibrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2643535"
 latitude: 49.2473
 longitude: 7.36399
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zweibrücken_Alexanderskirche_02.JPG/400px-Zweibrücken_Alexanderskirche_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zweibrücken_Alexanderskirche_02.JPG/800px-Zweibrücken_Alexanderskirche_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zweibrücken_Alexanderskirche_02.JPG/1200px-Zweibrücken_Alexanderskirche_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zweibrücken_Alexanderskirche_02.JPG/1920px-Zweibrücken_Alexanderskirche_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zweibrücken_Alexanderskirche_02.JPG/1920px-Zweibrücken_Alexanderskirche_02.JPG---
 
 ## Overview
 

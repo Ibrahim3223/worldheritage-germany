@@ -4,19 +4,18 @@ site_name: "Gedenkstätte Bernburg"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Bernburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bernburg"
+  - "Brandenburg"
 wikidata_id: "Q1497521"
 latitude: 51.7872
 longitude: 11.729
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Saxon Museum of Psychiatry"
 date: 2026-01-26
 draft: false
 description: "museum in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q32469493"
 latitude: 51.336666666
 longitude: 12.355277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mainzer_Straße_7.jpg/400px-Mainzer_Straße_7.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mainzer_Straße_7.jpg/800px-Mainzer_Straße_7.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mainzer_Straße_7.jpg/1200px-Mainzer_Straße_7.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mainzer_Straße_7.jpg/1920px-Mainzer_Straße_7.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mainzer_Straße_7.jpg/1920px-Mainzer_Straße_7.jpg---
 
 ## Overview
 

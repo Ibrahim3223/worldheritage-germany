@@ -4,13 +4,13 @@ site_name: "Accumer Mühle"
 date: 2026-01-26
 draft: false
 description: "windmill in Germany"
-region: "Schortens"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Schortens"
+  - "Lower Saxony"
 wikidata_id: "Q339651"
 latitude: 53.5465
 longitude: 8.0193
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/400px-Accumer_Mühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/800px-Accumer_Mühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/1200px-Accumer_Mühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/1920px-Accumer_Mühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/1920px-Accumer_Mühle.jpg---
 
 ## Overview
 

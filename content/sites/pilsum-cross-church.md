@@ -4,13 +4,13 @@ site_name: "Pilsum Cross Church"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in der Krummhörn, Landkreis Aurich, Niedersachsen"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1397588"
 latitude: 53.483019
 longitude: 7.062694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pilsumer_Kirche_2010.jpg/400px-Pilsumer_Kirche_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pilsumer_Kirche_2010.jpg/800px-Pilsumer_Kirche_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pilsumer_Kirche_2010.jpg/1200px-Pilsumer_Kirche_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pilsumer_Kirche_2010.jpg/1920px-Pilsumer_Kirche_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pilsumer_Kirche_2010.jpg/1920px-Pilsumer_Kirche_2010.jpg---
 
 ## Overview
 

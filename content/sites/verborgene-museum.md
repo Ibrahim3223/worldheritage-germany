@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Das_Verborgene_Museum_3.JPG/400px-Das_Verborgene_Museum_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Das_Verborgene_Museum_3.JPG/800px-Das_Verborgene_Museum_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Das_Verborgene_Museum_3.JPG/1200px-Das_Verborgene_Museum_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Das_Verborgene_Museum_3.JPG/1920px-Das_Verborgene_Museum_3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Das_Verborgene_Museum_3.JPG/1920px-Das_Verborgene_Museum_3.JPG---
 
 ## Overview
 

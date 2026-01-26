@@ -4,19 +4,18 @@ site_name: "Straßenbrücke Höllengrundweg"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Dürrhennersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Dürrhennersdorf"
+  - "Saxony"
 wikidata_id: "Q49428836"
 latitude: 51.059032
 longitude: 14.619215
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,21 +4,20 @@ site_name: "Ernst-August-Stollen"
 date: 2026-01-26
 draft: false
 description: "Wasserlösungsstollen im Harz"
-region: "Clausthal-Zellerfeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Water Drainage Gallery"
 categories:
   - "Water Drainage Gallery"
 regions:
-  - "Clausthal-Zellerfeld"
+  - "Lower Saxony"
 wikidata_id: "Q1357004"
 tags:
   - unesco
 latitude: 51.7958
 longitude: 10.1911
 images:
-  []
----
+  []---
 
 ## Overview
 

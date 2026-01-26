@@ -4,13 +4,13 @@ site_name: "Alexandra-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Ems, Rhineland-Palatinate, Germany"
-region: "Bad Ems"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Ems"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q3586108"
 latitude: 50.33025
 longitude: 7.722105555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg/400px-00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg/800px-00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg/1200px-00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg/1920px-00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg/1920px-00_1231_Bad_Ems_-_St._Alexandra_Kirche_und_Schloss_Balmoral.jpg---
 
 ## Overview
 

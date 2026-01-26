@@ -4,13 +4,13 @@ site_name: "Birkensee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Schneverdingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Schneverdingen"
+  - "Lower Saxony"
 wikidata_id: "Q865602"
 latitude: 53.0706
 longitude: 9.79194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/400px-Birkensee_im_Naturschutzgebiet.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/800px-Birkensee_im_Naturschutzgebiet.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/1200px-Birkensee_im_Naturschutzgebiet.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/1920px-Birkensee_im_Naturschutzgebiet.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/1920px-Birkensee_im_Naturschutzgebiet.JPG---
 
 ## Overview
 

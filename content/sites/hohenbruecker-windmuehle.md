@@ -4,13 +4,13 @@ site_name: "Hohenbrücker Windmühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Brandenburg"
-region: "Märkische Heide"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Märkische Heide"
+  - "Brandenburg"
 wikidata_id: "Q1623654"
 latitude: 52.0895
 longitude: 13.9027
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/400px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/800px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/1200px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/1920px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/1920px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg---
 
 ## Overview
 

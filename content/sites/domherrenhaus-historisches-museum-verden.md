@@ -4,13 +4,13 @@ site_name: "Domherrenhaus. Historisches Museum Verden"
 date: 2026-01-26
 draft: false
 description: "museum in Verden, Germany"
-region: "Verden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Verden"
+  - "Lower Saxony"
 wikidata_id: "Q26836744"
 latitude: 52.91832975
 longitude: 9.227840504
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/400px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/800px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/1200px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/1920px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/1920px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg---
 
 ## Overview
 

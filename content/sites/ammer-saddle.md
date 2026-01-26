@@ -4,13 +4,13 @@ site_name: "Ammer Saddle"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "District of Garmisch-Partenkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "District of Garmisch-Partenkirchen"
+  - "Bavaria"
 wikidata_id: "Q317652"
 latitude: 47.537778
 longitude: 10.889722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/400px-20090919_Hiking_the_Hochplatte_(82).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/800px-20090919_Hiking_the_Hochplatte_(82).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1200px-20090919_Hiking_the_Hochplatte_(82).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1920px-20090919_Hiking_the_Hochplatte_(82).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1920px-20090919_Hiking_the_Hochplatte_(82).JPG---
 
 ## Overview
 

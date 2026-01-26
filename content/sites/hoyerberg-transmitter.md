@@ -4,13 +4,13 @@ site_name: "Hoyerberg transmitter"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Lindau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Lindau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1364368"
 latitude: 47.5654
 longitude: 9.67418
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/400px-Sender-Hoyerberg-2006-06-18.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/800px-Sender-Hoyerberg-2006-06-18.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/1200px-Sender-Hoyerberg-2006-06-18.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/1920px-Sender-Hoyerberg-2006-06-18.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/1920px-Sender-Hoyerberg-2006-06-18.jpg---
 
 ## Overview
 

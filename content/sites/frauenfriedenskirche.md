@@ -4,13 +4,13 @@ site_name: "Frauenfriedenskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Frankfurt-Innenstadt II"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Innenstadt II"
+  - "Hesse"
 wikidata_id: "Q876874"
 latitude: 50.1283
 longitude: 8.64556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/400px-Frauenfriedenskirche,_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/800px-Frauenfriedenskirche,_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/1200px-Frauenfriedenskirche,_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/1920px-Frauenfriedenskirche,_Frankfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/1920px-Frauenfriedenskirche,_Frankfurt.jpg---
 
 ## Overview
 

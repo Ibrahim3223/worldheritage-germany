@@ -4,13 +4,13 @@ site_name: "Geislingen (Steige) station"
 date: 2026-01-26
 draft: false
 description: "railway station in Geislingen an der Steige, Germany"
-region: "Geislingen an der Steige"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Geislingen an der Steige"
+  - "Baden-Württemberg"
 wikidata_id: "Q322769"
 latitude: 48.6189
 longitude: 9.84222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/400px-Bahnhof_Geislingen_Steige_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/800px-Bahnhof_Geislingen_Steige_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/1200px-Bahnhof_Geislingen_Steige_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/1920px-Bahnhof_Geislingen_Steige_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/1920px-Bahnhof_Geislingen_Steige_2011.jpg---
 
 ## Overview
 

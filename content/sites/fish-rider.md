@@ -4,13 +4,13 @@ site_name: "Fish rider"
 date: 2026-01-26
 draft: false
 description: "sculpture and fountain in Berlin-Wilmersdorf, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q18624116"
 latitude: 52.497108
 longitude: 13.324467
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/400px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/800px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/1200px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/1920px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/1920px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg---
 
 ## Overview
 

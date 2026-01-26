@@ -4,13 +4,13 @@ site_name: "Palais Strousberg"
 date: 2026-01-26
 draft: false
 description: "building"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1389325"
 latitude: 52.5158
 longitude: 13.3808
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/400px-Palais_Strousberg_-_Facade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/800px-Palais_Strousberg_-_Facade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/1200px-Palais_Strousberg_-_Facade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/1920px-Palais_Strousberg_-_Facade.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/1920px-Palais_Strousberg_-_Facade.jpg---
 
 ## Overview
 

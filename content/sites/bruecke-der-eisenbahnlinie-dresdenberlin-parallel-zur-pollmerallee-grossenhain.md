@@ -4,19 +4,18 @@ site_name: "Brücke der Eisenbahnlinie Dresden–Berlin (parallel zur Pollmerall
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Großenhain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Großenhain"
+  - "Saxony"
 wikidata_id: "Q49450432"
 latitude: 51.293308051
 longitude: 13.520252694
 images:
-  []
----
+  []---
 
 ## Overview
 

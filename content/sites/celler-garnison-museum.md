@@ -4,13 +4,13 @@ site_name: "Celler Garnison-Museum"
 date: 2026-01-26
 draft: false
 description: "military museum in Celle, Germany"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q1053013"
 latitude: 52.6268
 longitude: 10.0767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/400px-Garnison_Museum_Celle_außen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/800px-Garnison_Museum_Celle_außen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/1200px-Garnison_Museum_Celle_außen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/1920px-Garnison_Museum_Celle_außen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/1920px-Garnison_Museum_Celle_außen.JPG---
 
 ## Overview
 

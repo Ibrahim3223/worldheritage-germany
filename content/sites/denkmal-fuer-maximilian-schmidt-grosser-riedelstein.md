@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Waldschmidt-Kaitersberg.jpg/400px-Waldschmidt-Kaitersberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Waldschmidt-Kaitersberg.jpg/800px-Waldschmidt-Kaitersberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Waldschmidt-Kaitersberg.jpg/1200px-Waldschmidt-Kaitersberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Waldschmidt-Kaitersberg.jpg/1920px-Waldschmidt-Kaitersberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Waldschmidt-Kaitersberg.jpg/1920px-Waldschmidt-Kaitersberg.jpg---
 
 ## Overview
 

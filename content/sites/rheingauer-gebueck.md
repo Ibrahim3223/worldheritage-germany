@@ -4,13 +4,13 @@ site_name: "Rheingauer Gebück"
 date: 2026-01-26
 draft: false
 description: "natural monument of Hesse, Germany"
-region: "Rheingau-Taunus-Kreis"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Rheingau-Taunus-Kreis"
+  - "Hesse"
 wikidata_id: "Q2147650"
 latitude: 50.0775
 longitude: 8.015
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/400px-RheingauerGebückWolfsrück3Bäume.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/800px-RheingauerGebückWolfsrück3Bäume.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/1200px-RheingauerGebückWolfsrück3Bäume.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/1920px-RheingauerGebückWolfsrück3Bäume.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/1920px-RheingauerGebückWolfsrück3Bäume.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zoo Dortmund"
 date: 2026-01-26
 draft: false
 description: "zoo in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q220014"
 latitude: 51.4744
 longitude: 7.47083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/400px-Südamerika-Wiese.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/800px-Südamerika-Wiese.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/1200px-Südamerika-Wiese.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/1920px-Südamerika-Wiese.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/1920px-Südamerika-Wiese.JPG---
 
 ## Overview
 

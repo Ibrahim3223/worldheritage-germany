@@ -4,13 +4,13 @@ site_name: "Berger Weiher"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Kressbronn am Bodensee"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kressbronn am Bodensee"
+  - "Baden-Württemberg"
 wikidata_id: "Q819591"
 latitude: 47.61083333
 longitude: 9.61083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg/400px-D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg/800px-D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg/1200px-D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg/1920px-D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg/1920px-D-BW-Kressbronn_aB-Berg_-_NSG_Berger_Weiher.jpg---
 
 ## Overview
 

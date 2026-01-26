@@ -4,13 +4,13 @@ site_name: "Friedhofskapelle Hagenbach"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bad Friedrichshall"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Friedrichshall"
+  - "Baden-Württemberg"
 wikidata_id: "Q1457506"
 latitude: 49.2429
 longitude: 9.22606
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hagenbach-frdhfkap2008.jpg/400px-Hagenbach-frdhfkap2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hagenbach-frdhfkap2008.jpg/800px-Hagenbach-frdhfkap2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hagenbach-frdhfkap2008.jpg/1200px-Hagenbach-frdhfkap2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hagenbach-frdhfkap2008.jpg/1920px-Hagenbach-frdhfkap2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hagenbach-frdhfkap2008.jpg/1920px-Hagenbach-frdhfkap2008.jpg---
 
 ## Overview
 

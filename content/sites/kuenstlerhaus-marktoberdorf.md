@@ -4,13 +4,13 @@ site_name: "Künstlerhaus Marktoberdorf"
 date: 2026-01-26
 draft: false
 description: "art museum in Germany"
-region: "Marktoberdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Marktoberdorf"
+  - "Bavaria"
 wikidata_id: "Q1797142"
 latitude: 47.7767
 longitude: 10.6159
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/400px-Künstlerhaus_Marktoberdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/800px-Künstlerhaus_Marktoberdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/1200px-Künstlerhaus_Marktoberdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/1920px-Künstlerhaus_Marktoberdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/1920px-Künstlerhaus_Marktoberdorf.jpg---
 
 ## Overview
 

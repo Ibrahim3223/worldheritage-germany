@@ -4,13 +4,13 @@ site_name: "St. Ägidius"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Wittislingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wittislingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2323814"
 latitude: 48.604900225
 longitude: 10.45646974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/400px-Schabringen_St._Ägidius_55.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/800px-Schabringen_St._Ägidius_55.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/1200px-Schabringen_St._Ägidius_55.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/1920px-Schabringen_St._Ägidius_55.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/1920px-Schabringen_St._Ägidius_55.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Märzenbecherwald bei Ettenstadt"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Ettenstatt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Ettenstatt"
+  - "Bavaria"
 wikidata_id: "Q658232"
 latitude: 49.0711
 longitude: 11.0594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2015_Märzenbecherwald_10.jpg/400px-2015_Märzenbecherwald_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2015_Märzenbecherwald_10.jpg/800px-2015_Märzenbecherwald_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2015_Märzenbecherwald_10.jpg/1200px-2015_Märzenbecherwald_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2015_Märzenbecherwald_10.jpg/1920px-2015_Märzenbecherwald_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2015_Märzenbecherwald_10.jpg/1920px-2015_Märzenbecherwald_10.jpg---
 
 ## Overview
 

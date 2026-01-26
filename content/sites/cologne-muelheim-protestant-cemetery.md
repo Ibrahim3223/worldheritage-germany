@@ -4,13 +4,13 @@ site_name: "Cologne Mülheim Protestant Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Cologne, Germany"
-region: "Mülheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Mülheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1381239"
 latitude: 50.962505555
 longitude: 7.012336111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/400px-Evfriedhof-muelheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/800px-Evfriedhof-muelheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/1200px-Evfriedhof-muelheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/1920px-Evfriedhof-muelheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/1920px-Evfriedhof-muelheim.jpg---
 
 ## Overview
 

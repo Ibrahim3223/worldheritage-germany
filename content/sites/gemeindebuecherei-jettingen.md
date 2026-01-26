@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Jettingen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Jettingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Jettingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q28729541"
 latitude: 48.57199
 longitude: 8.77861
 images:
-  []
----
+  []---
 
 ## Overview
 

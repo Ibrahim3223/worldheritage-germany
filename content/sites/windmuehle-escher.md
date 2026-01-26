@@ -4,13 +4,13 @@ site_name: "Windmühle Escher"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Escher, Auetal"
-region: "Auetal"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Auetal"
+  - "Lower Saxony"
 wikidata_id: "Q137691693"
 latitude: 52.23495075
 longitude: 9.259285351
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/400px-Windmühle_Escher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/800px-Windmühle_Escher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/1200px-Windmühle_Escher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/1920px-Windmühle_Escher.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/1920px-Windmühle_Escher.jpg---
 
 ## Overview
 

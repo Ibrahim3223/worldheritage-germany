@@ -4,19 +4,18 @@ site_name: "Einbogige Sandsteinquaderbrücke Dürrröhrsdorf-Dittersbach"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Dürrröhrsdorf-Dittersbach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Dürrröhrsdorf-Dittersbach"
+  - "Saxony"
 wikidata_id: "Q49441635"
 latitude: 51.03304272
 longitude: 13.996895127
 images:
-  []
----
+  []---
 
 ## Overview
 

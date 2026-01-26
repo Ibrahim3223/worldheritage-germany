@@ -4,13 +4,13 @@ site_name: "Mittelrhein-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1940336"
 latitude: 50.3588
 longitude: 7.59622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/400px-Forum_Confluentes_01_Koblenz_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/800px-Forum_Confluentes_01_Koblenz_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/1200px-Forum_Confluentes_01_Koblenz_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/1920px-Forum_Confluentes_01_Koblenz_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/1920px-Forum_Confluentes_01_Koblenz_2013.jpg---
 
 ## Overview
 

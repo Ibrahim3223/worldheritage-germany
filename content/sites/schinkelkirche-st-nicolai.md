@@ -4,13 +4,13 @@ site_name: "Schinkelkirche St. Nicolai"
 date: 2026-01-26
 draft: false
 description: "protestant church in Frauenwald, Thuringia, Germany"
-region: "Ilmenau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ilmenau"
+  - "Bavaria"
 wikidata_id: "Q1381394"
 latitude: 50.581418977
 longitude: 10.859633001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Frauenwald.JPG/400px-Kirche_Frauenwald.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Frauenwald.JPG/800px-Kirche_Frauenwald.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Frauenwald.JPG/1200px-Kirche_Frauenwald.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Frauenwald.JPG/1920px-Kirche_Frauenwald.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Frauenwald.JPG/1920px-Kirche_Frauenwald.JPG---
 
 ## Overview
 

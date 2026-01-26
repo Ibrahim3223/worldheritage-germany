@@ -4,13 +4,13 @@ site_name: "St. Servatius church"
 date: 2026-01-26
 draft: false
 description: "church in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1550810"
 latitude: 51.960194
 longitude: 7.632369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/400px-MuensterServatii7901.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/800px-MuensterServatii7901.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/1200px-MuensterServatii7901.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/1920px-MuensterServatii7901.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/1920px-MuensterServatii7901.jpg---
 
 ## Overview
 

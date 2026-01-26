@@ -4,13 +4,13 @@ site_name: "St. Bruder Konrad"
 date: 2026-01-26
 draft: false
 description: "church in Spexard, Gütersloh, Germany"
-region: "Gütersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gütersloh"
+  - "Lower Saxony"
 wikidata_id: "Q1563364"
 latitude: 51.8837
 longitude: 8.42023
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/400px-Gütersloh_-_Spexard_-_St._Konrad.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/800px-Gütersloh_-_Spexard_-_St._Konrad.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/1200px-Gütersloh_-_Spexard_-_St._Konrad.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/1920px-Gütersloh_-_Spexard_-_St._Konrad.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/1920px-Gütersloh_-_Spexard_-_St._Konrad.jpg---
 
 ## Overview
 

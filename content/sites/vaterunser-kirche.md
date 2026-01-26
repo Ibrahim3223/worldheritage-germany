@@ -4,13 +4,13 @@ site_name: "Vaterunser-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Wilmersdorf"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q2511241"
 latitude: 52.479
 longitude: 13.3213
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/400px-Campanile_der_Vaterunser-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/800px-Campanile_der_Vaterunser-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/1200px-Campanile_der_Vaterunser-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/1920px-Campanile_der_Vaterunser-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/1920px-Campanile_der_Vaterunser-Kirche.jpg---
 
 ## Overview
 

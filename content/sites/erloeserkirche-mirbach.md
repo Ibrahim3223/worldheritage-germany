@@ -4,13 +4,13 @@ site_name: "Erlöserkirche (Mirbach)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wiesbaum"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wiesbaum"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1355763"
 latitude: 50.3558
 longitude: 6.67834
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/400px-Erlöserkapelle_Mirbach-Eifel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/800px-Erlöserkapelle_Mirbach-Eifel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1200px-Erlöserkapelle_Mirbach-Eifel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1920px-Erlöserkapelle_Mirbach-Eifel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1920px-Erlöserkapelle_Mirbach-Eifel.jpg---
 
 ## Overview
 

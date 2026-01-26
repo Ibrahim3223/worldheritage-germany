@@ -4,13 +4,13 @@ site_name: "Friesisches Museum Niebüll-Deezbüll"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Niebüll"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Niebüll"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1464783"
 latitude: 54.78
 longitude: 8.82231
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/400px-Friesisches_Museum_Niebuell_Deezbuell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/800px-Friesisches_Museum_Niebuell_Deezbuell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/1200px-Friesisches_Museum_Niebuell_Deezbuell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/1920px-Friesisches_Museum_Niebuell_Deezbuell.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/1920px-Friesisches_Museum_Niebuell_Deezbuell.JPG---
 
 ## Overview
 

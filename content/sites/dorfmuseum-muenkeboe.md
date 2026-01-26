@@ -4,13 +4,13 @@ site_name: "Dorfmuseum Münkeboe"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q1244885"
 latitude: 53.5152
 longitude: 7.37359
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/400px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/800px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/1200px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/1920px-Münkeboe_Dorfmuseum_Galerieholländer.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Münkeboe_Dorfmuseum_Galerieholländer.JPG/1920px-Münkeboe_Dorfmuseum_Galerieholländer.JPG---
 
 ## Overview
 

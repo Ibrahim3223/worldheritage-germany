@@ -4,13 +4,13 @@ site_name: "Mosque in Sendling"
 date: 2026-01-26
 draft: false
 description: "mosque"
-region: "Sendling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Sendling"
+  - "Bavaria"
 wikidata_id: "Q328794"
 latitude: 48.118055555
 longitude: 11.551388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/400px-Schanz_gaiss300.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/800px-Schanz_gaiss300.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/1200px-Schanz_gaiss300.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/1920px-Schanz_gaiss300.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/1920px-Schanz_gaiss300.jpg---
 
 ## Overview
 

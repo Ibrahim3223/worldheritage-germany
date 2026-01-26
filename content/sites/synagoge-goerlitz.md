@@ -4,13 +4,13 @@ site_name: "Synagoge Görlitz"
 date: 2026-01-26
 draft: false
 description: "synagogue in Görlitz"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q2375079"
 latitude: 51.15277778
 longitude: 14.99111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/400px-Goerlitz_synagoge1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/800px-Goerlitz_synagoge1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/1200px-Goerlitz_synagoge1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/1920px-Goerlitz_synagoge1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/1920px-Goerlitz_synagoge1.jpg---
 
 ## Overview
 

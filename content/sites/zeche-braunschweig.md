@@ -4,13 +4,13 @@ site_name: "Zeche Braunschweig"
 date: 2026-01-26
 draft: false
 description: "former coal mine in Witten, North Rhine-Westfalia, Germany"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q169692"
 latitude: 51.4273
 longitude: 7.32628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/400px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/800px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/1200px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/1920px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/1920px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg---
 
 ## Overview
 

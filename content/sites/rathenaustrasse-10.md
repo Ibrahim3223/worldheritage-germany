@@ -4,13 +4,13 @@ site_name: "Rathenaustraße 10"
 date: 2026-01-26
 draft: false
 description: "architectural ensemble in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q17325825"
 latitude: 51.788671
 longitude: 11.157893
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Rathenaustraße_10_(Quedlinburg).jpg/400px-Rathenaustraße_10_(Quedlinburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Rathenaustraße_10_(Quedlinburg).jpg/800px-Rathenaustraße_10_(Quedlinburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Rathenaustraße_10_(Quedlinburg).jpg/1200px-Rathenaustraße_10_(Quedlinburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Rathenaustraße_10_(Quedlinburg).jpg/1920px-Rathenaustraße_10_(Quedlinburg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Rathenaustraße_10_(Quedlinburg).jpg/1920px-Rathenaustraße_10_(Quedlinburg).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Antonius (Herzfeld)"
 date: 2026-01-26
 draft: false
 description: "church building in Lippetal, Germany"
-region: "Lippetal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lippetal"
+  - "Hesse"
 wikidata_id: "Q2317278"
 latitude: 51.6836
 longitude: 8.17451
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG/400px-ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG/800px-ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG/1200px-ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG/1920px-ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG/1920px-ST._ANTONIUSKAPELLE_ZU_RASSENHÖVEL_in_Herzfeld_Ortsteil_von_Lippetal_im_Kreis_Soest_1.JPG---
 
 ## Overview
 

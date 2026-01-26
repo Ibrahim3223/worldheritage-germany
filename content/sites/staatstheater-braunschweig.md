@@ -4,13 +4,13 @@ site_name: "Staatstheater Braunschweig"
 date: 2026-01-26
 draft: false
 description: "theatre and opera house in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q884234"
 latitude: 52.2658
 longitude: 10.5317
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG/400px-Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG/800px-Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG/1200px-Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG/1920px-Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG/1920px-Braunschweig_Luftaufnahme_Staatstheater_(2011).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kerspetalsperre"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Wipperfürth"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Wipperfürth"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1565088"
 latitude: 51.1247
 longitude: 7.48944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/400px-Staumauer_der_Kerspetalsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/800px-Staumauer_der_Kerspetalsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/1200px-Staumauer_der_Kerspetalsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/1920px-Staumauer_der_Kerspetalsperre.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/1920px-Staumauer_der_Kerspetalsperre.jpg---
 
 ## Overview
 

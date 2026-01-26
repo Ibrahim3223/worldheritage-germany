@@ -4,13 +4,13 @@ site_name: "Stadttheater Aschaffenburg"
 date: 2026-01-26
 draft: false
 description: "theatre in Aschaffenburg, Bavaria"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q977483"
 latitude: 49.974132624
 longitude: 9.14404443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/400px-Karlsplatz_Aschaffenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/800px-Karlsplatz_Aschaffenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/1200px-Karlsplatz_Aschaffenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/1920px-Karlsplatz_Aschaffenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/1920px-Karlsplatz_Aschaffenburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Nassauischer Kunstverein"
 date: 2026-01-26
 draft: false
 description: "art museum in Wiesbaden, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q1774413"
 latitude: 50.0797601
 longitude: 8.2454258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/400px-NKV_Haus2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/800px-NKV_Haus2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/1200px-NKV_Haus2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/1920px-NKV_Haus2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/1920px-NKV_Haus2.jpg---
 
 ## Overview
 

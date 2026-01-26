@@ -4,13 +4,13 @@ site_name: "Ubbo-Emmius-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "school in Leer, Germany"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q1310960"
 latitude: 53.2323
 longitude: 7.45058
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/400px-Ubboemmiusgymnasium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/800px-Ubboemmiusgymnasium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/1200px-Ubboemmiusgymnasium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/1920px-Ubboemmiusgymnasium.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/1920px-Ubboemmiusgymnasium.jpg---
 
 ## Overview
 

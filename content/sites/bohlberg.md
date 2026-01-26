@@ -4,19 +4,18 @@ site_name: "Bohlberg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Grünenplan"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Grünenplan"
+  - "Lower Saxony"
 wikidata_id: "Q890797"
 latitude: 51.9186
 longitude: 9.745
 images:
-  []
----
+  []---
 
 ## Overview
 

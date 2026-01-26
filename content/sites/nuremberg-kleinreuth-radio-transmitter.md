@@ -4,19 +4,18 @@ site_name: "Nuremberg-Kleinreuth radio transmitter"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q877582"
 latitude: 49.4438
 longitude: 11.0085
 images:
-  []
----
+  []---
 
 ## Overview
 

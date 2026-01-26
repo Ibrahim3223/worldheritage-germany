@@ -4,13 +4,13 @@ site_name: "Nikolaikirche (Berlin)"
 date: 2026-01-26
 draft: false
 description: "church in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q679052"
 latitude: 52.516816
 longitude: 13.40751
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/400px-View_Berlin_TV_Tower_Jan2015_img4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/800px-View_Berlin_TV_Tower_Jan2015_img4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/1200px-View_Berlin_TV_Tower_Jan2015_img4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/1920px-View_Berlin_TV_Tower_Jan2015_img4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_Berlin_TV_Tower_Jan2015_img4.jpg/1920px-View_Berlin_TV_Tower_Jan2015_img4.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Am Tannenwäldchen 7 und 10 in Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q451500"
 latitude: 51.2542
 longitude: 6.77458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/400px-Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/800px-Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1200px-Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1920px-Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1920px-Haeuser_Am_Tannenwaeldchen_7_und_10_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg---
 
 ## Overview
 

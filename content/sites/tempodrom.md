@@ -4,13 +4,13 @@ site_name: "Tempodrom"
 date: 2026-01-26
 draft: false
 description: "event venue in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q896180"
 latitude: 52.5017
 longitude: 13.3811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/400px-Tempodrom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/800px-Tempodrom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/1200px-Tempodrom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/1920px-Tempodrom.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/1920px-Tempodrom.jpg---
 
 ## Overview
 

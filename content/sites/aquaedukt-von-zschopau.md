@@ -4,13 +4,13 @@ site_name: "Aquädukt von Zschopau"
 date: 2026-01-26
 draft: false
 description: "in fünf Bögen die Zschopau überspannende Wasserleitung, steinverkleidet, Teil der Chemnitzer Wasserversorgung, baugeschichtlich und technikgeschichtli"
-region: "Zschopau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Zschopau"
+  - "Saxony"
 wikidata_id: "Q30101168"
 latitude: 50.753532
 longitude: 13.08931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/400px-Aquädukt_von_Zschopau_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/800px-Aquädukt_von_Zschopau_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/1200px-Aquädukt_von_Zschopau_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/1920px-Aquädukt_von_Zschopau_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/1920px-Aquädukt_von_Zschopau_Westseite.jpg---
 
 ## Overview
 

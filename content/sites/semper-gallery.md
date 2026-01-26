@@ -4,13 +4,13 @@ site_name: "Semper Gallery"
 date: 2026-01-26
 draft: false
 description: "museumsbuilding in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q878784"
 latitude: 51.0535
 longitude: 13.7349
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dresden_1042012_10_Zwinger_Panorama.jpg/400px-Dresden_1042012_10_Zwinger_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dresden_1042012_10_Zwinger_Panorama.jpg/800px-Dresden_1042012_10_Zwinger_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dresden_1042012_10_Zwinger_Panorama.jpg/1200px-Dresden_1042012_10_Zwinger_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dresden_1042012_10_Zwinger_Panorama.jpg/1920px-Dresden_1042012_10_Zwinger_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dresden_1042012_10_Zwinger_Panorama.jpg/1920px-Dresden_1042012_10_Zwinger_Panorama.jpg---
 
 ## Overview
 

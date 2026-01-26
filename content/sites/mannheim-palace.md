@@ -4,13 +4,13 @@ site_name: "Mannheim Palace"
 date: 2026-01-26
 draft: false
 description: "historic castle in Mannheim, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q574723"
 latitude: 49.4829
 longitude: 8.46177
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/400px-Barockschloss_Mannheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/800px-Barockschloss_Mannheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/1200px-Barockschloss_Mannheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/1920px-Barockschloss_Mannheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/1920px-Barockschloss_Mannheim.jpg---
 
 ## Overview
 

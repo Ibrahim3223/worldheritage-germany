@@ -4,19 +4,18 @@ site_name: "Tierparkmuseum Hofgeismar"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hofgeismar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hofgeismar"
+  - "Hesse"
 wikidata_id: "Q76633919"
 latitude: 51.544916
 longitude: 9.536264
 images:
-  []
----
+  []---
 
 ## Overview
 

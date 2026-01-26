@@ -4,13 +4,13 @@ site_name: "Neue Synagoge (Erfurt)"
 date: 2026-01-26
 draft: false
 description: "New synagogue on the site of the Große Synagoge torched by Nazis in 1938"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q763159"
 latitude: 50.9709
 longitude: 11.0276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/400px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/800px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/1200px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/1920px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/1920px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg---
 
 ## Overview
 

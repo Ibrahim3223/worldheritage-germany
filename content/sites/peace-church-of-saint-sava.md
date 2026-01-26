@@ -4,13 +4,13 @@ site_name: "Peace Church of Saint Sava"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Gesundbrunnen"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1456843"
 latitude: 52.5413
 longitude: 13.397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/400px-Friedenskirche_(Gesundbrunnen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/800px-Friedenskirche_(Gesundbrunnen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/1200px-Friedenskirche_(Gesundbrunnen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/1920px-Friedenskirche_(Gesundbrunnen).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/1920px-Friedenskirche_(Gesundbrunnen).jpg---
 
 ## Overview
 

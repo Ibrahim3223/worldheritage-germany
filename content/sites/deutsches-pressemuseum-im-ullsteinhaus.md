@@ -4,13 +4,13 @@ site_name: "Deutsches Pressemuseum im Ullsteinhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q15109343"
 latitude: 52.453333
 longitude: 13.385278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/400px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/800px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/1200px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/1920px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/1920px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG---
 
 ## Overview
 

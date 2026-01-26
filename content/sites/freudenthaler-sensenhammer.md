@@ -4,13 +4,13 @@ site_name: "Freudenthaler Sensenhammer"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leverkusen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leverkusen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q23787507"
 latitude: 51.031111111
 longitude: 7.055277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/400px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/800px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/1200px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/1920px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/1920px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg---
 
 ## Overview
 

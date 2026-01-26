@@ -4,13 +4,13 @@ site_name: "Alte Bibliothek"
 date: 2026-01-26
 draft: false
 description: "library building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q435399"
 latitude: 52.5164
 longitude: 13.3933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/400px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/800px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1200px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1920px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1920px-Berlin-Mitte_Bebelplatz1_05-2014.jpg---
 
 ## Overview
 

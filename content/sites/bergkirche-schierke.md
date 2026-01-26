@@ -4,13 +4,13 @@ site_name: "Bergkirche Schierke"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Schierke (Gemeinde Wernigerode), Landkreis Harz, Sachsen-Anhalt"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q819910"
 latitude: 51.764
 longitude: 10.6643
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/400px-Schierker_Bergkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/800px-Schierker_Bergkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1200px-Schierker_Bergkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1920px-Schierker_Bergkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1920px-Schierker_Bergkirche.JPG---
 
 ## Overview
 

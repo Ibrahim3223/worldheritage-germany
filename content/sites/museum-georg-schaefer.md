@@ -4,13 +4,13 @@ site_name: "Museum Georg Schäfer"
 date: 2026-01-26
 draft: false
 description: "museum in Schweinfurt, Germany"
-region: "Schweinfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Schweinfurt"
+  - "Bavaria"
 wikidata_id: "Q880898"
 latitude: 50.0439
 longitude: 10.2361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/400px-Schweinfurt-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/800px-Schweinfurt-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/1200px-Schweinfurt-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/1920px-Schweinfurt-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/1920px-Schweinfurt-001.jpg---
 
 ## Overview
 

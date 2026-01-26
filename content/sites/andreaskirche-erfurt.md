@@ -4,13 +4,13 @@ site_name: "Andreaskirche (Erfurt)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q501528"
 latitude: 50.9804
 longitude: 11.0227
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/400px-Andreaskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/800px-Andreaskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1200px-Andreaskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1920px-Andreaskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1920px-Andreaskirche.jpg---
 
 ## Overview
 

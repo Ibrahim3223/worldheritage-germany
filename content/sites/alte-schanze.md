@@ -4,13 +4,13 @@ site_name: "Alte Schanze"
 date: 2026-01-26
 draft: false
 description: "Burg in Hessen, Deutschland"
-region: "Bad Nauheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Nauheim"
+  - "Hesse"
 wikidata_id: "Q436184"
 latitude: 50.3682
 longitude: 8.71778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/400px-Schanze_Bad_Nauheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/800px-Schanze_Bad_Nauheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/1200px-Schanze_Bad_Nauheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/1920px-Schanze_Bad_Nauheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/1920px-Schanze_Bad_Nauheim.JPG---
 
 ## Overview
 

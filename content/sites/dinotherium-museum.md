@@ -4,13 +4,13 @@ site_name: "Dinotherium-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Eppelsheim"
-region: "Eppelsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eppelsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1226717"
 latitude: 49.705716
 longitude: 8.166414
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Deinotherium_giganteum_Eppelsheim.jpg/400px-Deinotherium_giganteum_Eppelsheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Deinotherium_giganteum_Eppelsheim.jpg/800px-Deinotherium_giganteum_Eppelsheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Deinotherium_giganteum_Eppelsheim.jpg/1200px-Deinotherium_giganteum_Eppelsheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Deinotherium_giganteum_Eppelsheim.jpg/1920px-Deinotherium_giganteum_Eppelsheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Deinotherium_giganteum_Eppelsheim.jpg/1920px-Deinotherium_giganteum_Eppelsheim.jpg---
 
 ## Overview
 

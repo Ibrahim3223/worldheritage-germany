@@ -4,13 +4,13 @@ site_name: "Lauterstein Castle (Marienberg)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Marienberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Marienberg"
+  - "Saxony"
 wikidata_id: "Q1012877"
 latitude: 50.6686
 longitude: 13.2081
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/400px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/800px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/1200px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/1920px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/1920px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg---
 
 ## Overview
 

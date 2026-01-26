@@ -4,13 +4,13 @@ site_name: "Kloster Hadmersleben"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oschersleben"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oschersleben"
+  - "Lower Saxony"
 wikidata_id: "Q1775292"
 latitude: 51.991804
 longitude: 11.295031
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Klosterhof_Hadmersleben.JPG/400px-Klosterhof_Hadmersleben.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Klosterhof_Hadmersleben.JPG/800px-Klosterhof_Hadmersleben.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Klosterhof_Hadmersleben.JPG/1200px-Klosterhof_Hadmersleben.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Klosterhof_Hadmersleben.JPG/1920px-Klosterhof_Hadmersleben.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Klosterhof_Hadmersleben.JPG/1920px-Klosterhof_Hadmersleben.JPG---
 
 ## Overview
 

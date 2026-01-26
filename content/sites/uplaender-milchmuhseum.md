@@ -4,19 +4,18 @@ site_name: "Upländer Milchmuhseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634316"
 latitude: 51.301804
 longitude: 8.593379
 images:
-  []
----
+  []---
 
 ## Overview
 

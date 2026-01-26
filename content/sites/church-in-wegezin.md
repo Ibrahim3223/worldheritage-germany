@@ -4,13 +4,13 @@ site_name: "Church in Wegezin"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Krien"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krien"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742752"
 latitude: 53.803
 longitude: 13.5012
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/400px-Wegezin_Kirche_Nordwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/800px-Wegezin_Kirche_Nordwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/1200px-Wegezin_Kirche_Nordwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/1920px-Wegezin_Kirche_Nordwest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/1920px-Wegezin_Kirche_Nordwest.jpg---
 
 ## Overview
 

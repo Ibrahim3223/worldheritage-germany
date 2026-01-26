@@ -4,13 +4,13 @@ site_name: "Deutsches Drahtmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Altena"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altena"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1205594"
 latitude: 51.2942
 longitude: 7.67417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Altena_-_Deutsches_Drahtmuseum_02_ies.jpg/400px-Altena_-_Deutsches_Drahtmuseum_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Altena_-_Deutsches_Drahtmuseum_02_ies.jpg/800px-Altena_-_Deutsches_Drahtmuseum_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Altena_-_Deutsches_Drahtmuseum_02_ies.jpg/1200px-Altena_-_Deutsches_Drahtmuseum_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Altena_-_Deutsches_Drahtmuseum_02_ies.jpg/1920px-Altena_-_Deutsches_Drahtmuseum_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Altena_-_Deutsches_Drahtmuseum_02_ies.jpg/1920px-Altena_-_Deutsches_Drahtmuseum_02_ies.jpg---
 
 ## Overview
 

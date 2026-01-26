@@ -4,19 +4,18 @@ site_name: "Alte Tongrube Borstel"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Auetal"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Auetal"
+  - "Lower Saxony"
 wikidata_id: "Q436333"
 latitude: 52.2386
 longitude: 9.17972
 images:
-  []
----
+  []---
 
 ## Overview
 

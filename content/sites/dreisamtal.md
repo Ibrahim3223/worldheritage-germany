@@ -4,13 +4,13 @@ site_name: "Dreisamtal"
 date: 2026-01-26
 draft: false
 description: "valley in southern Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q1258058"
 latitude: 47.980555555
 longitude: 7.921666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/400px-Dreisamtal_in_Freiburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/800px-Dreisamtal_in_Freiburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1200px-Dreisamtal_in_Freiburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1920px-Dreisamtal_in_Freiburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1920px-Dreisamtal_in_Freiburg.jpg---
 
 ## Overview
 

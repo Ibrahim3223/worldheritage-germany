@@ -4,13 +4,13 @@ site_name: "Gutenberg Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q474841"
 latitude: 49.999722222
 longitude: 8.275277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/400px-Gutenberg-Museum_Mainz_585-vh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/800px-Gutenberg-Museum_Mainz_585-vh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1200px-Gutenberg-Museum_Mainz_585-vh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1920px-Gutenberg-Museum_Mainz_585-vh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1920px-Gutenberg-Museum_Mainz_585-vh.jpg---
 
 ## Overview
 

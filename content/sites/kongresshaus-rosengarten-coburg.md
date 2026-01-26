@@ -4,13 +4,13 @@ site_name: "Kongresshaus Rosengarten Coburg"
 date: 2026-01-26
 draft: false
 description: "concert and multi-purpose hall and convention centre in Coburg, Bavaria, Germany"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q14540771"
 latitude: 50.25408
 longitude: 10.96554
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/400px-Coburg-Kongresszentrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/800px-Coburg-Kongresszentrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/1200px-Coburg-Kongresszentrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/1920px-Coburg-Kongresszentrum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/1920px-Coburg-Kongresszentrum.jpg---
 
 ## Overview
 

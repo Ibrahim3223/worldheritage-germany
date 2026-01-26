@@ -4,13 +4,13 @@ site_name: "St. Jakobus der Ältere"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Iburg, Germany"
-region: "Bad Iburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Iburg"
+  - "Lower Saxony"
 wikidata_id: "Q1384070"
 latitude: 52.14686111
 longitude: 8.05319444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/400px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/800px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/1200px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/1920px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/1920px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg---
 
 ## Overview 
 

@@ -4,13 +4,13 @@ site_name: "Lonauer Wasserfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Herzberg am Harz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Herzberg am Harz"
+  - "Lower Saxony"
 wikidata_id: "Q1624146"
 latitude: 51.6628
 longitude: 10.3484
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lonauer_Wasserfall.jpg/400px-Lonauer_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lonauer_Wasserfall.jpg/800px-Lonauer_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lonauer_Wasserfall.jpg/1200px-Lonauer_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lonauer_Wasserfall.jpg/1920px-Lonauer_Wasserfall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lonauer_Wasserfall.jpg/1920px-Lonauer_Wasserfall.jpg---
 
 ## Overview
 

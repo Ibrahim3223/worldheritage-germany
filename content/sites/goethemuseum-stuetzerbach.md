@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/400px-Goethehaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/800px-Goethehaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/1200px-Goethehaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/1920px-Goethehaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/1920px-Goethehaus.jpg---
 
 ## Overview
 

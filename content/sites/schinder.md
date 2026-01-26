@@ -4,13 +4,13 @@ site_name: "Schinder"
 date: 2026-01-26
 draft: false
 description: "mountain in the Mangfallgebirge at the border Tyrol / Bavaria"
-region: "Brandenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Brandenberg"
+  - "Bavaria"
 wikidata_id: "Q165212"
 latitude: 47.601
 longitude: 11.8611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/400px-Schinder_von_Nordost-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/800px-Schinder_von_Nordost-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/1200px-Schinder_von_Nordost-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/1920px-Schinder_von_Nordost-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/1920px-Schinder_von_Nordost-1.jpg---
 
 ## Overview
 

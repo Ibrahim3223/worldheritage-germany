@@ -4,19 +4,18 @@ site_name: "Museum Kulturgeschichte der Hand"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wolnzach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolnzach"
+  - "Bavaria"
 wikidata_id: "Q1954455"
 latitude: 48.608611
 longitude: 11.618778
 images:
-  []
----
+  []---
 
 ## Overview
 

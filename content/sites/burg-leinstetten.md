@@ -4,13 +4,13 @@ site_name: "Burg Leinstetten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dornhan"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dornhan"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012899"
 latitude: 48.391976
 longitude: 8.540701
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/400px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/800px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/1200px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/1920px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/1920px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg---
 
 ## Overview
 

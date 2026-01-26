@@ -4,19 +4,18 @@ site_name: "Alte Aproche Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169626"
 latitude: 51.4135
 longitude: 7.1138
 images:
-  []
----
+  []---
 
 ## Overview
 

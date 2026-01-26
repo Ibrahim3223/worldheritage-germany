@@ -4,13 +4,13 @@ site_name: "Johanniter-Kirche Groß Eichsen"
 date: 2026-01-26
 draft: false
 description: "church building in Mühlen Eichsen, Germany"
-region: "Mühlen Eichsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mühlen Eichsen"
+  - "Lower Saxony"
 wikidata_id: "Q1698982"
 latitude: 53.7461
 longitude: 11.2604
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/400px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/800px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1200px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1920px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1920px-Groß_Eichsen_Kirche_2012-09-30_153.JPG---
 
 ## Overview
 

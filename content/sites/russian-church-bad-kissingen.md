@@ -4,13 +4,13 @@ site_name: "Russian church Bad Kissingen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-114-89 (0) in Bad Kissingen, Bavaria"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q822667"
 latitude: 50.2057
 longitude: 10.0747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/400px-Бад_Киссинген._Руская_церковь.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/800px-Бад_Киссинген._Руская_церковь.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/1200px-Бад_Киссинген._Руская_церковь.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/1920px-Бад_Киссинген._Руская_церковь.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/1920px-Бад_Киссинген._Руская_церковь.jpg---
 
 ## Overview
 

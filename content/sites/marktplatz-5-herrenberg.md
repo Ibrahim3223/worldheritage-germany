@@ -4,13 +4,13 @@ site_name: "Marktplatz 5 (Herrenberg)"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Herrenberg"
-region: "Herrenberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Herrenberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q136747887"
 latitude: 48.596515
 longitude: 8.870493
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Marktplatz_5_Herrenberg_20220625_0067.jpg/400px-Marktplatz_5_Herrenberg_20220625_0067.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Marktplatz_5_Herrenberg_20220625_0067.jpg/800px-Marktplatz_5_Herrenberg_20220625_0067.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Marktplatz_5_Herrenberg_20220625_0067.jpg/1200px-Marktplatz_5_Herrenberg_20220625_0067.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Marktplatz_5_Herrenberg_20220625_0067.jpg/1920px-Marktplatz_5_Herrenberg_20220625_0067.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Marktplatz_5_Herrenberg_20220625_0067.jpg/1920px-Marktplatz_5_Herrenberg_20220625_0067.jpg---
 
 ## Overview
 

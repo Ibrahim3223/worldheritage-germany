@@ -4,13 +4,13 @@ site_name: "Brauhaus Sion"
 date: 2026-01-26
 draft: false
 description: "inn"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q900504"
 latitude: 50.9394
 longitude: 6.95942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/400px-Brauhaus_Sion_Front_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/800px-Brauhaus_Sion_Front_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/1200px-Brauhaus_Sion_Front_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/1920px-Brauhaus_Sion_Front_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brauhaus_Sion_Front_1.jpg/1920px-Brauhaus_Sion_Front_1.jpg---
 
 ## Overview
 

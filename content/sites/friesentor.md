@@ -4,13 +4,13 @@ site_name: "Friesentor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1464745"
 latitude: 50.9405
 longitude: 6.94108
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/400px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/800px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/1200px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/1920px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/1920px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg---
 
 ## Overview
 

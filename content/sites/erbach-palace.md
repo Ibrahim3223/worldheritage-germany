@@ -4,13 +4,13 @@ site_name: "Erbach Palace"
 date: 2026-01-26
 draft: false
 description: "a palace in Erbach im Odeneald"
-region: "Erbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1752214"
 latitude: 49.6572
 longitude: 8.9925
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/400px-20206021_Erbach-3.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/800px-20206021_Erbach-3.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1200px-20206021_Erbach-3.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1920px-20206021_Erbach-3.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1920px-20206021_Erbach-3.tif.jpg---
 
 ## Overview
 

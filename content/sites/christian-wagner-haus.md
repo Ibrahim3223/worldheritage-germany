@@ -4,13 +4,13 @@ site_name: "Christian-Wagner-Haus"
 date: 2026-01-26
 draft: false
 description: "Poets' Museum in Warmbronn near Leonberg, Germany"
-region: "Leonberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leonberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631418"
 latitude: 48.76269
 longitude: 8.988552
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Christian-Wagner2.jpg/400px-Christian-Wagner2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Christian-Wagner2.jpg/800px-Christian-Wagner2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Christian-Wagner2.jpg/1200px-Christian-Wagner2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Christian-Wagner2.jpg/1920px-Christian-Wagner2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Christian-Wagner2.jpg/1920px-Christian-Wagner2.jpg---
 
 ## Overview
 

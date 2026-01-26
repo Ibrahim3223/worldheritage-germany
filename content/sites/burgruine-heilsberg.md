@@ -4,13 +4,13 @@ site_name: "Burgruine Heilsberg"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Wiesent"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Wiesent"
+  - "Bavaria"
 wikidata_id: "Q999172"
 latitude: 49.0402
 longitude: 12.3851
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/400px-15.03.19_Burgruine_Heilsberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/800px-15.03.19_Burgruine_Heilsberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/1200px-15.03.19_Burgruine_Heilsberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/1920px-15.03.19_Burgruine_Heilsberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/1920px-15.03.19_Burgruine_Heilsberg.JPG---
 
 ## Overview
 

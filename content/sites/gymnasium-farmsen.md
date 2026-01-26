@@ -4,19 +4,18 @@ site_name: "Gymnasium Farmsen"
 date: 2026-01-26
 draft: false
 description: "High school in Hamburg"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1558112"
 latitude: 53.6125
 longitude: 10.10969
 images:
-  []
----
+  []---
 
 ## Overview
 

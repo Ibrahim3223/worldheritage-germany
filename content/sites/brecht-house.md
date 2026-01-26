@@ -4,13 +4,13 @@ site_name: "Brecht House"
 date: 2026-01-26
 draft: false
 description: "house in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q904231"
 latitude: 52.5289
 longitude: 13.3847
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/400px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/800px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/1200px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/1920px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/1920px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg---
 
 ## Overview
 

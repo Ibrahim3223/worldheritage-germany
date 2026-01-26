@@ -4,13 +4,13 @@ site_name: "Schwarzenberg Castle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schwarzenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwarzenberg"
+  - "Bavaria"
 wikidata_id: "Q826149"
 latitude: 50.5373
 longitude: 12.7874
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/400px-Burgfried_Schloss_Schwarzenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/800px-Burgfried_Schloss_Schwarzenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/1200px-Burgfried_Schloss_Schwarzenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/1920px-Burgfried_Schloss_Schwarzenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/1920px-Burgfried_Schloss_Schwarzenberg.jpg---
 
 ## Overview
 

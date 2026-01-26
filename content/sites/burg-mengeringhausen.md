@@ -4,13 +4,13 @@ site_name: "Burg Mengeringhausen"
 date: 2026-01-26
 draft: false
 description: "cultural monument in Bad Arolsen in the Waldeck-Frankenberg district in Hesse"
-region: "Bad Arolsen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Arolsen"
+  - "Hesse"
 wikidata_id: "Q1013107"
 latitude: 51.363988648
 longitude: 8.986669257
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/400px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/800px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/1200px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/1920px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/1920px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg---
 
 ## Overview
 

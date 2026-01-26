@@ -4,13 +4,13 @@ site_name: "Ufa-Kristallpalast, Dresden"
 date: 2026-01-26
 draft: false
 description: "cinema in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q475708"
 latitude: 51.0441
 longitude: 13.7375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dresden_Ufa_Cinema_Center.jpg/400px-Dresden_Ufa_Cinema_Center.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dresden_Ufa_Cinema_Center.jpg/800px-Dresden_Ufa_Cinema_Center.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dresden_Ufa_Cinema_Center.jpg/1200px-Dresden_Ufa_Cinema_Center.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dresden_Ufa_Cinema_Center.jpg/1920px-Dresden_Ufa_Cinema_Center.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dresden_Ufa_Cinema_Center.jpg/1920px-Dresden_Ufa_Cinema_Center.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Holy Blood of Wilsnack"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Bad Wilsnack"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Wilsnack"
+  - "Brandenburg"
 wikidata_id: "Q2595009"
 latitude: 52.956
 longitude: 11.9458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/400px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/800px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/1200px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/1920px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/1920px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg---
 
 ## Overview
 

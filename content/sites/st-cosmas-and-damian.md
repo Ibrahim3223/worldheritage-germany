@@ -4,13 +4,13 @@ site_name: "St. Cosmas and Damian"
 date: 2026-01-26
 draft: false
 description: "church in Groß Düngen, Germany"
-region: "Bad Salzdetfurth"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Salzdetfurth"
+  - "Lower Saxony"
 wikidata_id: "Q1475618"
 latitude: 52.09489
 longitude: 10.01987
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/400px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/800px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/1200px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/1920px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/1920px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg---
 
 ## Overview
 

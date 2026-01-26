@@ -4,13 +4,13 @@ site_name: "Friedensglocke"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Dessau-Roßlau in Sachsen-Anhalt"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1456740"
 latitude: 51.8346
 longitude: 12.2463
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/400px-Friedensglocke_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/800px-Friedensglocke_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/1200px-Friedensglocke_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/1920px-Friedensglocke_9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/1920px-Friedensglocke_9.jpg---
 
 ## Overview
 

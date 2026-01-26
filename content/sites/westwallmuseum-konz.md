@@ -4,19 +4,18 @@ site_name: "Westwallmuseum Konz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Konz"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Konz"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q19672290"
 latitude: 49.49
 longitude: 6.572079
 images:
-  []
----
+  []---
 
 ## Overview
 

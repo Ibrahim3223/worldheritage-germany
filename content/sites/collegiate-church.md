@@ -4,13 +4,13 @@ site_name: "Collegiate Church"
 date: 2026-01-26
 draft: false
 description: "church in Neustadt on the Wine Route"
-region: "Neustadt an der Weinstraße"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustadt an der Weinstraße"
+  - "Baden-Württemberg"
 wikidata_id: "Q22603"
 latitude: 49.3541
 longitude: 8.13643
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/400px-Stiftskirche_NW,_Südweite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/800px-Stiftskirche_NW,_Südweite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/1200px-Stiftskirche_NW,_Südweite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/1920px-Stiftskirche_NW,_Südweite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/1920px-Stiftskirche_NW,_Südweite.JPG---
 
 ## Overview
 

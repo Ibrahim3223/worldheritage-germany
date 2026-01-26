@@ -4,13 +4,13 @@ site_name: "Lower Market Square"
 date: 2026-01-26
 draft: false
 description: "square in Görlitz, Germany"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q680747"
 latitude: 51.156573
 longitude: 14.991025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/400px-Rathausturm_untermarkt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/800px-Rathausturm_untermarkt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/1200px-Rathausturm_untermarkt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/1920px-Rathausturm_untermarkt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/1920px-Rathausturm_untermarkt.JPG---
 
 ## Overview
 

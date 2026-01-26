@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Forstinning"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Forstinning"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Forstinning"
+  - "Bavaria"
 wikidata_id: "Q28729501"
 latitude: 48.1663
 longitude: 11.9167
 images:
-  []
----
+  []---
 
 ## Overview
 

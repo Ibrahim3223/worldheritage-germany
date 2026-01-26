@@ -4,13 +4,13 @@ site_name: "Dankeskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Nauheim, Germany"
-region: "Bad Nauheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Nauheim"
+  - "Hesse"
 wikidata_id: "Q1164243"
 latitude: 50.3647
 longitude: 8.7417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg/400px-Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg/800px-Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg/1200px-Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg/1920px-Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg/1920px-Bad_Nauheim-Dankeskirche_von_Suedwesten-20140319.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Oberhessisches Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Gießen, Germany"
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q1225099"
 latitude: 50.587
 longitude: 8.6769
 images:
-  []
----
+  []---
 
 ## Overview
 

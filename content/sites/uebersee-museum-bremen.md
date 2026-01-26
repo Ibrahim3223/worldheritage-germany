@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HB_2016-0607_photo22_Uebersee-Museum.jpg/400px-HB_2016-0607_photo22_Uebersee-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HB_2016-0607_photo22_Uebersee-Museum.jpg/800px-HB_2016-0607_photo22_Uebersee-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HB_2016-0607_photo22_Uebersee-Museum.jpg/1200px-HB_2016-0607_photo22_Uebersee-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HB_2016-0607_photo22_Uebersee-Museum.jpg/1920px-HB_2016-0607_photo22_Uebersee-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HB_2016-0607_photo22_Uebersee-Museum.jpg/1920px-HB_2016-0607_photo22_Uebersee-Museum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rudolf-Breitscheid-Straße 4, Amtsgericht"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Verwaltungsgebäude in Ruhland, Brandenburg"
-region: "Ruhland"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Ruhland"
+  - "Brandenburg"
 wikidata_id: "Q110602222"
 latitude: 51.456414
 longitude: 13.866744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/400px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/800px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/1200px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/1920px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/1920px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ehra oder Kind mit Ball"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1299807"
 latitude: 51.2247
 longitude: 6.77093
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/400px-Statue_"Ehra_oder_Kind_mit_Ball%22_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_%22Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/800px-Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/1200px-Statue_"Ehra_oder_Kind_mit_Ball%22_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_%22Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/1920px-Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_%22Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/1920px-Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg---
 
 ## Overview
 

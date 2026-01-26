@@ -4,13 +4,13 @@ site_name: "Geißenklösterle"
 date: 2026-01-26
 draft: false
 description: "geographical object"
-region: "Alb-Donau-Kreis"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Alb-Donau-Kreis"
+  - "Baden-Württemberg"
 wikidata_id: "Q1282892"
 latitude: 48.398333333
 longitude: 9.772222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/400px-Geißenklösterle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/800px-Geißenklösterle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1200px-Geißenklösterle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1920px-Geißenklösterle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1920px-Geißenklösterle.jpg---
 
 ## Overview
 

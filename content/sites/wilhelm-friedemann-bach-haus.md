@@ -4,13 +4,13 @@ site_name: "Wilhelm-Friedemann-Bach-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2571470"
 latitude: 51.483
 longitude: 11.965
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/400px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/800px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/1200px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/1920px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/1920px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg---
 
 ## Overview
 

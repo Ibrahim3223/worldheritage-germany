@@ -4,13 +4,13 @@ site_name: "Burg Fronhofen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Fronreute"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Fronreute"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011878"
 latitude: 47.85885
 longitude: 9.520597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fronhofen_Turmruine_3.jpg/400px-Fronhofen_Turmruine_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fronhofen_Turmruine_3.jpg/800px-Fronhofen_Turmruine_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fronhofen_Turmruine_3.jpg/1200px-Fronhofen_Turmruine_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fronhofen_Turmruine_3.jpg/1920px-Fronhofen_Turmruine_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fronhofen_Turmruine_3.jpg/1920px-Fronhofen_Turmruine_3.jpg---
 
 ## Overview
 

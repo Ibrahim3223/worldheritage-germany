@@ -4,13 +4,13 @@ site_name: "Köln-Mülheim station"
 date: 2026-01-26
 draft: false
 description: "railway station in Mülheim, Germany"
-region: "Mülheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Mülheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q320345"
 latitude: 50.9587
 longitude: 7.0137
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/400px-Köln-Mülheim_Bf_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/800px-Köln-Mülheim_Bf_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/1200px-Köln-Mülheim_Bf_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/1920px-Köln-Mülheim_Bf_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/1920px-Köln-Mülheim_Bf_02.jpg---
 
 ## Overview
 

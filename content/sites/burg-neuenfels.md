@@ -4,13 +4,13 @@ site_name: "Burg Neuenfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Müllheim im Markgräflerland"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Müllheim im Markgräflerland"
+  - "Baden-Württemberg"
 wikidata_id: "Q127496"
 latitude: 47.8183
 longitude: 7.6881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/400px-Burg_Neuenfels_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/800px-Burg_Neuenfels_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/1200px-Burg_Neuenfels_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/1920px-Burg_Neuenfels_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/1920px-Burg_Neuenfels_03.JPG---
 
 ## Overview
 

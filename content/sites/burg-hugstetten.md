@@ -4,19 +4,18 @@ site_name: "Burg Hugstetten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "March"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "March"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012508"
 latitude: 48.0519
 longitude: 7.78361
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Rübezahl-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q1801800"
 latitude: 51.15459889
 longitude: 14.98851694
 images:
-  []
----
+  []---
 
 ## Overview
 

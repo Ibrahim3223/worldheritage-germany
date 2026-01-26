@@ -4,13 +4,13 @@ site_name: "Schule mit Gedenktafel für Korla Awgust Kocor (1822–1904) Warthae
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Malschwitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Malschwitz"
+  - "Saxony"
 wikidata_id: "Q49409109"
 latitude: 51.274577
 longitude: 14.584268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/400px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/800px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/1200px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/1920px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/1920px-Stróža_–_Serbski_napis_při_starej_šuli.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Michaelsberg Abbey"
 date: 2026-01-26
 draft: false
 description: "former Benedictine monastery in Bamberg, Bavaria, Germany"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q555168"
 latitude: 49.893611111
 longitude: 10.877222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/400px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/800px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/1200px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/1920px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/1920px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG---
 
 ## Overview
 

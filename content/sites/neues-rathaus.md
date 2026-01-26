@@ -4,13 +4,13 @@ site_name: "Neues Rathaus"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Gebäude in Magdeburg in Sachsen-Anhalt"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q127343976"
 latitude: 52.1324
 longitude: 11.64012
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neues_Rathaus_in_Magdeburg_01.jpg/400px-Neues_Rathaus_in_Magdeburg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neues_Rathaus_in_Magdeburg_01.jpg/800px-Neues_Rathaus_in_Magdeburg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neues_Rathaus_in_Magdeburg_01.jpg/1200px-Neues_Rathaus_in_Magdeburg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neues_Rathaus_in_Magdeburg_01.jpg/1920px-Neues_Rathaus_in_Magdeburg_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neues_Rathaus_in_Magdeburg_01.jpg/1920px-Neues_Rathaus_in_Magdeburg_01.jpg---
 
 ## Overview
 

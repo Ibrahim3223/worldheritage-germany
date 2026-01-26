@@ -4,13 +4,13 @@ site_name: "Bibliotheca Bipontina"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Zweibrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Zweibrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q856422"
 latitude: 49.2495
 longitude: 7.36659
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/400px-Bibliotheca_Bipontina.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/800px-Bibliotheca_Bipontina.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1200px-Bibliotheca_Bipontina.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1920px-Bibliotheca_Bipontina.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1920px-Bibliotheca_Bipontina.jpg---
 
 ## Overview
 

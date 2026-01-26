@@ -4,13 +4,13 @@ site_name: "Künstlermuseum Heikendorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heikendorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heikendorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1797182"
 latitude: 54.3681
 longitude: 10.2036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg/400px-Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg/800px-Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg/1200px-Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg/1920px-Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg/1920px-Kuenstlermuseum-heikendorf-msu-2021-210-4060.jpg---
 
 ## Overview
 

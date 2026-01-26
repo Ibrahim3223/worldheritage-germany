@@ -4,13 +4,13 @@ site_name: "Christuskirche (Mimbach)"
 date: 2026-01-26
 draft: false
 description: "church building in Blieskastel, Saarland, Germany"
-region: "Blieskastel"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Blieskastel"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1087372"
 latitude: 49.2268
 longitude: 7.26616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/400px-Mimbach_Christuskirche_2013-06-15.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/800px-Mimbach_Christuskirche_2013-06-15.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1200px-Mimbach_Christuskirche_2013-06-15.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1920px-Mimbach_Christuskirche_2013-06-15.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1920px-Mimbach_Christuskirche_2013-06-15.jpg---
 
 ## Overview
 

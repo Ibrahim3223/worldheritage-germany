@@ -4,13 +4,13 @@ site_name: "Eibsee"
 date: 2026-01-26
 draft: false
 description: "lake in Grainau municipality, Bavaria, Germany"
-region: "Grainau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Grainau"
+  - "Bavaria"
 wikidata_id: "Q259699"
 latitude: 47.457777777
 longitude: 10.973055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/400px-Eibsee_und_Ammergauer_Alpen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/800px-Eibsee_und_Ammergauer_Alpen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1200px-Eibsee_und_Ammergauer_Alpen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1920px-Eibsee_und_Ammergauer_Alpen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1920px-Eibsee_und_Ammergauer_Alpen.jpg---
 
 ## Overview
 

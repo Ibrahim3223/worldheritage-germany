@@ -4,13 +4,13 @@ site_name: "Rathaus Offenbach am Main"
 date: 2026-01-26
 draft: false
 description: "city hall"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q110008707"
 latitude: 50.105861545
 longitude: 8.76122117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rathaus-Foto.jpg/400px-Rathaus-Foto.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rathaus-Foto.jpg/800px-Rathaus-Foto.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rathaus-Foto.jpg/1200px-Rathaus-Foto.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rathaus-Foto.jpg/1920px-Rathaus-Foto.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rathaus-Foto.jpg/1920px-Rathaus-Foto.jpg---
 
 ## Overview
 

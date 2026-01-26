@@ -4,13 +4,13 @@ site_name: "Ibn Rushd-Goethe mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q30447692"
 latitude: 52.525
 longitude: 13.34944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/400px-Johanniskirche_B-Moabit_06-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/800px-Johanniskirche_B-Moabit_06-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1200px-Johanniskirche_B-Moabit_06-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1920px-Johanniskirche_B-Moabit_06-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1920px-Johanniskirche_B-Moabit_06-2017.jpg---
 
 ## Overview
 

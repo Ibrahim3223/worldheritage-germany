@@ -4,13 +4,13 @@ site_name: "Lebendiges Bienenmuseum Knüllwald"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Knüllwald"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Knüllwald"
+  - "Hesse"
 wikidata_id: "Q1739862"
 latitude: 51.0425
 longitude: 9.52363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/400px-Bienenmuseum_fg01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/800px-Bienenmuseum_fg01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/1200px-Bienenmuseum_fg01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/1920px-Bienenmuseum_fg01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/1920px-Bienenmuseum_fg01.jpg---
 
 ## Overview
 

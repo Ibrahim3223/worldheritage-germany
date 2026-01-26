@@ -4,13 +4,13 @@ site_name: "Neues Rathaus, Göttingen"
 date: 2026-01-26
 draft: false
 description: "City hall of Göttingen"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q105363616"
 latitude: 51.528574
 longitude: 9.940446
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/400px-New_City_Hall,_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/800px-New_City_Hall,_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/1200px-New_City_Hall,_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/1920px-New_City_Hall,_Göttingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/1920px-New_City_Hall,_Göttingen.jpg---
 
 ## Overview
 

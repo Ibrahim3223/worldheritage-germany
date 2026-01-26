@@ -4,13 +4,13 @@ site_name: "Mimar-Sinan-Moschee Lauda"
 date: 2026-01-26
 draft: false
 description: "building in Lauda-Königshofen, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Lauda-Königshofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Lauda-Königshofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q28498775"
 latitude: 49.564525
 longitude: 9.710077
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mimar-Sinan-Moschee_Lauda.jpg/400px-Mimar-Sinan-Moschee_Lauda.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mimar-Sinan-Moschee_Lauda.jpg/800px-Mimar-Sinan-Moschee_Lauda.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mimar-Sinan-Moschee_Lauda.jpg/1200px-Mimar-Sinan-Moschee_Lauda.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mimar-Sinan-Moschee_Lauda.jpg/1920px-Mimar-Sinan-Moschee_Lauda.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mimar-Sinan-Moschee_Lauda.jpg/1920px-Mimar-Sinan-Moschee_Lauda.jpg---
 
 ## Overview
 

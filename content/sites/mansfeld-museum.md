@@ -4,19 +4,18 @@ site_name: "Mansfeld-Museum"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Hettstedt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hettstedt"
+  - "Brandenburg"
 wikidata_id: "Q28737987"
 latitude: 51.62681
 longitude: 11.51268
 images:
-  []
----
+  []---
 
 ## Overview
 

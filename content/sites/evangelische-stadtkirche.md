@@ -4,13 +4,13 @@ site_name: "Evangelische Stadtkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Rastatt, Germany"
-region: "Rastatt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rastatt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1381139"
 latitude: 48.8594
 longitude: 8.20306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/400px-Evangelische_Stadtkirche_Rastatt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/800px-Evangelische_Stadtkirche_Rastatt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/1200px-Evangelische_Stadtkirche_Rastatt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/1920px-Evangelische_Stadtkirche_Rastatt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/1920px-Evangelische_Stadtkirche_Rastatt.JPG---
 
 ## Overview
 

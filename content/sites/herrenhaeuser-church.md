@@ -4,13 +4,13 @@ site_name: "Herrenhäuser Church"
 date: 2026-01-26
 draft: false
 description: "church building in Hannover, Germany"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q1614113"
 latitude: 52.3933
 longitude: 9.68989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/400px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/800px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1200px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1920px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1920px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg---
 
 ## Overview
 

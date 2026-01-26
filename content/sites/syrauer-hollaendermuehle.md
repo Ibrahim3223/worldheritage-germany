@@ -4,13 +4,13 @@ site_name: "Syrauer Holländermühle"
 date: 2026-01-26
 draft: false
 description: "Turmholländer; vollständig erhaltene und einzige Windmühle des Vogtlandes, sowie eine der höchstgelegenen Windmühlen in Sachsen von landschaftsgestalt"
-region: "Rosenbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Rosenbach"
+  - "Bavaria"
 wikidata_id: "Q1624959"
 latitude: 50.5504
 longitude: 12.0939
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rosenbach_Syrau_Windmuehle_1.jpg/400px-Rosenbach_Syrau_Windmuehle_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rosenbach_Syrau_Windmuehle_1.jpg/800px-Rosenbach_Syrau_Windmuehle_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rosenbach_Syrau_Windmuehle_1.jpg/1200px-Rosenbach_Syrau_Windmuehle_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rosenbach_Syrau_Windmuehle_1.jpg/1920px-Rosenbach_Syrau_Windmuehle_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rosenbach_Syrau_Windmuehle_1.jpg/1920px-Rosenbach_Syrau_Windmuehle_1.jpg---
 
 ## Overview
 

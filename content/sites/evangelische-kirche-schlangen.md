@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Schlangen"
 date: 2026-01-26
 draft: false
 description: "church building in Schlangen, North Rhine-Westphalia, Germany"
-region: "Schlangen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schlangen"
+  - "Lower Saxony"
 wikidata_id: "Q1380895"
 latitude: 51.8083
 longitude: 8.84499
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/400px-Kirche_Schlangen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/800px-Kirche_Schlangen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/1200px-Kirche_Schlangen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/1920px-Kirche_Schlangen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/1920px-Kirche_Schlangen.jpg---
 
 ## Overview
 

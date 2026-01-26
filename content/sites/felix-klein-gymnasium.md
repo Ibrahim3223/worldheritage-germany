@@ -4,13 +4,13 @@ site_name: "Felix-Klein-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q1403272"
 latitude: 51.5261
 longitude: 9.93108
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/400px-FKG_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/800px-FKG_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/1200px-FKG_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/1920px-FKG_Göttingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/1920px-FKG_Göttingen.jpg---
 
 ## Overview
 

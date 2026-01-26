@@ -4,13 +4,13 @@ site_name: "Fürther Tor"
 date: 2026-01-26
 draft: false
 description: "Tor durch die Nürnberger Stadtmauer"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1466366"
 latitude: 49.4497
 longitude: 11.0664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/400px-Nuremberg_-_Fuerther_Tor_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/800px-Nuremberg_-_Fuerther_Tor_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/1200px-Nuremberg_-_Fuerther_Tor_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/1920px-Nuremberg_-_Fuerther_Tor_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/1920px-Nuremberg_-_Fuerther_Tor_(aka).jpg---
 
 ## Overview
 

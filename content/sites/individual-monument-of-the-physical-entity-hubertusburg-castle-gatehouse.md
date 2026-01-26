@@ -4,13 +4,13 @@ site_name: "Individual monument of the physical entity Hubertusburg Castle: Gate
 date: 2026-01-26
 draft: false
 description: "house in Wermsdorf, Germany"
-region: "Wermsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Wermsdorf"
+  - "Saxony"
 wikidata_id: "Q49473777"
 latitude: 51.283117657
 longitude: 12.926932246
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HubertusburgTorbau.JPG/400px-HubertusburgTorbau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HubertusburgTorbau.JPG/800px-HubertusburgTorbau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HubertusburgTorbau.JPG/1200px-HubertusburgTorbau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HubertusburgTorbau.JPG/1920px-HubertusburgTorbau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HubertusburgTorbau.JPG/1920px-HubertusburgTorbau.JPG---
 
 ## Overview
 

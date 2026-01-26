@@ -4,13 +4,13 @@ site_name: "Naturkunde-Museum Lindenhof"
 date: 2026-01-26
 draft: false
 description: "Museum in Bayreuth"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q1725095"
 latitude: 49.9177
 longitude: 11.5894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/400px-Lindenhof-Bayreuth.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/800px-Lindenhof-Bayreuth.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/1200px-Lindenhof-Bayreuth.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/1920px-Lindenhof-Bayreuth.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/1920px-Lindenhof-Bayreuth.JPG---
 
 ## Overview
 

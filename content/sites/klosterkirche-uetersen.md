@@ -4,13 +4,13 @@ site_name: "Klosterkirche Uetersen"
 date: 2026-01-26
 draft: false
 description: "church building in Uetersen, Schleswig-Holstein, Germany"
-region: "Uetersen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Uetersen"
+  - "Lower Saxony"
 wikidata_id: "Q1296119"
 latitude: 53.6818
 longitude: 9.65645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Uetersen_Klosterkirche_00.jpg/400px-Uetersen_Klosterkirche_00.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Uetersen_Klosterkirche_00.jpg/800px-Uetersen_Klosterkirche_00.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Uetersen_Klosterkirche_00.jpg/1200px-Uetersen_Klosterkirche_00.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Uetersen_Klosterkirche_00.jpg/1920px-Uetersen_Klosterkirche_00.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Uetersen_Klosterkirche_00.jpg/1920px-Uetersen_Klosterkirche_00.jpg---
 
 ## Overview
 

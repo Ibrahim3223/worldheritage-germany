@@ -4,13 +4,13 @@ site_name: "Saalbau Witten"
 date: 2026-01-26
 draft: false
 description: "cultural centre in Witten"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q14626358"
 latitude: 51.4338
 longitude: 7.3344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Witten_Saalbau.jpg/400px-Witten_Saalbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Witten_Saalbau.jpg/800px-Witten_Saalbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Witten_Saalbau.jpg/1200px-Witten_Saalbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Witten_Saalbau.jpg/1920px-Witten_Saalbau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Witten_Saalbau.jpg/1920px-Witten_Saalbau.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Güstrow City Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Güstrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Güstrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q56286157"
 latitude: 53.7911
 longitude: 12.176171
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stadtmuseum_Güstrow_2011.jpg/400px-Stadtmuseum_Güstrow_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stadtmuseum_Güstrow_2011.jpg/800px-Stadtmuseum_Güstrow_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stadtmuseum_Güstrow_2011.jpg/1200px-Stadtmuseum_Güstrow_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stadtmuseum_Güstrow_2011.jpg/1920px-Stadtmuseum_Güstrow_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stadtmuseum_Güstrow_2011.jpg/1920px-Stadtmuseum_Güstrow_2011.jpg---
 
 ## Overview
 

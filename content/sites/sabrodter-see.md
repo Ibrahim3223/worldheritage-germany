@@ -4,13 +4,13 @@ site_name: "Sabrodter See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Elsterheide"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Elsterheide"
+  - "Brandenburg"
 wikidata_id: "Q161035"
 latitude: 51.5169
 longitude: 14.2494
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SabrodterSee_2004.jpg/400px-SabrodterSee_2004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SabrodterSee_2004.jpg/800px-SabrodterSee_2004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SabrodterSee_2004.jpg/1200px-SabrodterSee_2004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SabrodterSee_2004.jpg/1920px-SabrodterSee_2004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SabrodterSee_2004.jpg/1920px-SabrodterSee_2004.jpg---
 
 ## Overview
 

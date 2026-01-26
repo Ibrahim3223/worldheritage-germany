@@ -4,13 +4,13 @@ site_name: "Reformierte Kirche (Emden-Larrelt)"
 date: 2026-01-26
 draft: false
 description: "church building in Emden, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1806015"
 latitude: 53.365
 longitude: 7.14995
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kirche_Larrelt.JPG/400px-Kirche_Larrelt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kirche_Larrelt.JPG/800px-Kirche_Larrelt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kirche_Larrelt.JPG/1200px-Kirche_Larrelt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kirche_Larrelt.JPG/1920px-Kirche_Larrelt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kirche_Larrelt.JPG/1920px-Kirche_Larrelt.JPG---
 
 ## Overview
 

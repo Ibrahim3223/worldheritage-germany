@@ -4,13 +4,13 @@ site_name: "Lukaskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Germany"
-region: "Vahrenwald-List"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vahrenwald-List"
+  - "Lower Saxony"
 wikidata_id: "Q1876999"
 latitude: 52.3882
 longitude: 9.73671
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/400px-Lukaskirche_Hannover_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/800px-Lukaskirche_Hannover_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/1200px-Lukaskirche_Hannover_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/1920px-Lukaskirche_Hannover_Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/1920px-Lukaskirche_Hannover_Turm.jpg---
 
 ## Overview
 

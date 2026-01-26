@@ -4,13 +4,13 @@ site_name: "St. Mariä Himmelfahrt (Weidesheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Euskirchen, Germany"
-region: "Euskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Euskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2321000"
 latitude: 50.659
 longitude: 6.84067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/400px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/800px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/1200px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/1920px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/1920px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG---
 
 ## Overview
 

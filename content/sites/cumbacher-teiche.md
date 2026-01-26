@@ -4,13 +4,13 @@ site_name: "Cumbacher Teiche"
 date: 2026-01-26
 draft: false
 description: "lake in Gotha, Thuringia, Germany"
-region: "Gotha"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Gotha"
+  - "Thuringia"
 wikidata_id: "Q1143647"
 latitude: 50.8747
 longitude: 10.6069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cumbacher-Teich-2.JPG/400px-Cumbacher-Teich-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cumbacher-Teich-2.JPG/800px-Cumbacher-Teich-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cumbacher-Teich-2.JPG/1200px-Cumbacher-Teich-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cumbacher-Teich-2.JPG/1920px-Cumbacher-Teich-2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cumbacher-Teich-2.JPG/1920px-Cumbacher-Teich-2.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schwerin-Mueß Open Air Museum"
 date: 2026-01-26
 draft: false
 description: "museum village near Schwerin, Mecklenburg-Western Pomerania, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q1435513"
 latitude: 53.6003
 longitude: 11.4786
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Freilichtmuseum_Muess_004.jpg/400px-Freilichtmuseum_Muess_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Freilichtmuseum_Muess_004.jpg/800px-Freilichtmuseum_Muess_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Freilichtmuseum_Muess_004.jpg/1200px-Freilichtmuseum_Muess_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Freilichtmuseum_Muess_004.jpg/1920px-Freilichtmuseum_Muess_004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Freilichtmuseum_Muess_004.jpg/1920px-Freilichtmuseum_Muess_004.jpg---
 
 ## Overview
 

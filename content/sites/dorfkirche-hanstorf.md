@@ -4,13 +4,13 @@ site_name: "Dorfkirche Hanstorf"
 date: 2026-01-26
 draft: false
 description: "church building in Satow, Mecklenburg-Vorpommern, Germany"
-region: "Satow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Satow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15109654"
 latitude: 54.042782
 longitude: 11.947878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/400px-Dorfkirche_Hanstorf_Nordostansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/800px-Dorfkirche_Hanstorf_Nordostansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/1200px-Dorfkirche_Hanstorf_Nordostansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/1920px-Dorfkirche_Hanstorf_Nordostansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/1920px-Dorfkirche_Hanstorf_Nordostansicht.jpg---
 
 ## Overview
 

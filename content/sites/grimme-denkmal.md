@@ -4,13 +4,13 @@ site_name: "Grimme-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Olsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Olsberg"
+  - "Hesse"
 wikidata_id: "Q1546860"
 latitude: 51.3058
 longitude: 8.50361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Assinghausen_2011.jpg/400px-Assinghausen_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Assinghausen_2011.jpg/800px-Assinghausen_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Assinghausen_2011.jpg/1200px-Assinghausen_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Assinghausen_2011.jpg/1920px-Assinghausen_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Assinghausen_2011.jpg/1920px-Assinghausen_2011.jpg---
 
 ## Overview
 

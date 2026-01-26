@@ -4,13 +4,13 @@ site_name: "St. Marien, Boizenburg/Elbe"
 date: 2026-01-26
 draft: false
 description: "church building in Boizenburg, Germany"
-region: "Boizenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Boizenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1783699"
 latitude: 53.3753
 longitude: 10.7235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Boizenburg_Church.jpg/400px-Boizenburg_Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Boizenburg_Church.jpg/800px-Boizenburg_Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Boizenburg_Church.jpg/1200px-Boizenburg_Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Boizenburg_Church.jpg/1920px-Boizenburg_Church.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Boizenburg_Church.jpg/1920px-Boizenburg_Church.jpg---
 
 ## Overview
 

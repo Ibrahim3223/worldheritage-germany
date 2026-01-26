@@ -4,13 +4,13 @@ site_name: "Church in Schmarsow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kruckow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kruckow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1396043"
 latitude: 53.876
 longitude: 13.2145
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/400px-Schmarsow_DM_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/800px-Schmarsow_DM_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1200px-Schmarsow_DM_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1920px-Schmarsow_DM_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1920px-Schmarsow_DM_Kirche.jpg---
 
 ## Overview
 

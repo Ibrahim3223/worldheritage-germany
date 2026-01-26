@@ -4,19 +4,18 @@ site_name: "Brauereikulturmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628786"
 latitude: 48.750651
 longitude: 13.788243
 images:
-  []
----
+  []---
 
 ## Overview
 

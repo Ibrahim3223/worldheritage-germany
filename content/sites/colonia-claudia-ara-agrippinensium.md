@@ -4,13 +4,13 @@ site_name: "Colonia Claudia Ara Agrippinensium"
 date: 2026-01-26
 draft: false
 description: "Roman colony, today Cologne in Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q23048"
 latitude: 50.938055555
 longitude: 6.956944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/400px-Roman_Cologne,_reconstruction.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/800px-Roman_Cologne,_reconstruction.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1200px-Roman_Cologne,_reconstruction.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1920px-Roman_Cologne,_reconstruction.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1920px-Roman_Cologne,_reconstruction.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Lüneburg"
 date: 2026-01-26
 draft: false
 description: "museum in Lüneburg, Germany"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q21035606"
 latitude: 53.24708939
 longitude: 10.41612244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/400px-Museum_Lüneburg@20150722_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/800px-Museum_Lüneburg@20150722_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/1200px-Museum_Lüneburg@20150722_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/1920px-Museum_Lüneburg@20150722_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/1920px-Museum_Lüneburg@20150722_01.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Vellager Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Weener, Germany"
-region: "Weener"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weener"
+  - "Lower Saxony"
 wikidata_id: "Q2512498"
 latitude: 53.1156
 longitude: 7.33991
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/400px-Church_Vellage.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/800px-Church_Vellage.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/1200px-Church_Vellage.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/1920px-Church_Vellage.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/1920px-Church_Vellage.jpg---
 
 ## Overview
 

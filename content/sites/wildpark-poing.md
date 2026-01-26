@@ -4,19 +4,18 @@ site_name: "Wildpark Poing"
 date: 2026-01-26
 draft: false
 description: "Wildpark in Deutschland"
-region: "Poing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Poing"
+  - "Bavaria"
 wikidata_id: "Q2570833"
 latitude: 48.1756
 longitude: 11.8303
 images:
-  []
----
+  []---
 
 ## Overview
 

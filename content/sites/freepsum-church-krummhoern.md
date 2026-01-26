@@ -4,13 +4,13 @@ site_name: "Freepsum Church (Krummhörn)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1453606"
 latitude: 53.4174
 longitude: 7.13536
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/400px-ChurchFreepsum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/800px-ChurchFreepsum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1200px-ChurchFreepsum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1920px-ChurchFreepsum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1920px-ChurchFreepsum.jpg---
 
 ## Overview
 

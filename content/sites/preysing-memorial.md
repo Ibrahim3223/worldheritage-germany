@@ -4,13 +4,13 @@ site_name: "Preysing memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Plattling, Germany"
-region: "Plattling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Plattling"
+  - "Bavaria"
 wikidata_id: "Q1678082"
 latitude: 48.7775
 longitude: 12.8722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/400px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/800px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/1200px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/1920px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/1920px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg---
 
 ## Overview
 

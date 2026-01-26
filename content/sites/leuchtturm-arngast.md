@@ -4,13 +4,13 @@ site_name: "Leuchtturm Arngast"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Lower Saxony, Germany"
-region: "Friesland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Friesland"
+  - "Lower Saxony"
 wikidata_id: "Q990511"
 latitude: 53.481342
 longitude: 8.181597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arngast_0731.jpg/400px-Arngast_0731.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arngast_0731.jpg/800px-Arngast_0731.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arngast_0731.jpg/1200px-Arngast_0731.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arngast_0731.jpg/1920px-Arngast_0731.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arngast_0731.jpg/1920px-Arngast_0731.jpg---
 
 ## Overview
 

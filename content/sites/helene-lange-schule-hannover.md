@@ -4,13 +4,13 @@ site_name: "Helene-Lange-Schule (Hannover)"
 date: 2026-01-26
 draft: false
 description: "school in Hannover, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q1296050"
 latitude: 52.3667
 longitude: 9.71794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helene_Lange_Schule_Eingang.jpg/400px-Helene_Lange_Schule_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helene_Lange_Schule_Eingang.jpg/800px-Helene_Lange_Schule_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helene_Lange_Schule_Eingang.jpg/1200px-Helene_Lange_Schule_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helene_Lange_Schule_Eingang.jpg/1920px-Helene_Lange_Schule_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helene_Lange_Schule_Eingang.jpg/1920px-Helene_Lange_Schule_Eingang.jpg---
 
 ## Overview
 

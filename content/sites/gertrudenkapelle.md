@@ -4,13 +4,13 @@ site_name: "Gertrudenkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Wolgast"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Wolgast"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1403959"
 latitude: 54.0518
 longitude: 13.7718
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wolgast.jpg/400px-Wolgast.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wolgast.jpg/800px-Wolgast.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wolgast.jpg/1200px-Wolgast.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wolgast.jpg/1920px-Wolgast.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wolgast.jpg/1920px-Wolgast.jpg---
 
 ## Overview
 

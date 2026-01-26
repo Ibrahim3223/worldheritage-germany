@@ -4,13 +4,13 @@ site_name: "Kulturgeschichtliches Museum Osnabrück"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1388353"
 latitude: 52.2754
 longitude: 8.03858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/400px-OS-FelixNussbaumHaus-II-20071227.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/800px-OS-FelixNussbaumHaus-II-20071227.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/1200px-OS-FelixNussbaumHaus-II-20071227.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/1920px-OS-FelixNussbaumHaus-II-20071227.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/1920px-OS-FelixNussbaumHaus-II-20071227.jpg---
 
 ## Overview
 

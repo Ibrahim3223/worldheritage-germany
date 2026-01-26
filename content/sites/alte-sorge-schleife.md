@@ -4,13 +4,13 @@ site_name: "Alte Sorge-Schleife"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Erfde"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Erfde"
+  - "Schleswig-Holstein"
 wikidata_id: "Q436235"
 latitude: 54.352
 longitude: 9.33769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/400px-Alte_Sorge-Schleife_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/800px-Alte_Sorge-Schleife_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/1200px-Alte_Sorge-Schleife_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/1920px-Alte_Sorge-Schleife_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/1920px-Alte_Sorge-Schleife_2.JPG---
 
 ## Overview
 

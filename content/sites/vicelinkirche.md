@@ -4,13 +4,13 @@ site_name: "Vicelinkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Neumünster, Schleswig-Holstein, Germany"
-region: "Neumünster"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neumünster"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2521894"
 latitude: 54.07
 longitude: 9.98416667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Neumünster_Vicelinkirche_1.jpg/400px-Neumünster_Vicelinkirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Neumünster_Vicelinkirche_1.jpg/800px-Neumünster_Vicelinkirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Neumünster_Vicelinkirche_1.jpg/1200px-Neumünster_Vicelinkirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Neumünster_Vicelinkirche_1.jpg/1920px-Neumünster_Vicelinkirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Neumünster_Vicelinkirche_1.jpg/1920px-Neumünster_Vicelinkirche_1.jpg---
 
 ## Overview
 

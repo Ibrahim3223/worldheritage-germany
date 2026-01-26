@@ -4,13 +4,13 @@ site_name: "Colosseum Theater"
 date: 2026-01-26
 draft: false
 description: "theater in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1111768"
 latitude: 51.4589
 longitude: 7.0025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/400px-Colosseum_Theater_Essen_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/800px-Colosseum_Theater_Essen_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1200px-Colosseum_Theater_Essen_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1920px-Colosseum_Theater_Essen_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1920px-Colosseum_Theater_Essen_2011.jpg---
 
 ## Overview
 

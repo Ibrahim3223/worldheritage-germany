@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Augsburg"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q474085"
 latitude: 48.349769511
 longitude: 10.912423818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/400px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/800px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/1200px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/1920px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/1920px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg---
 
 ## Overview
 

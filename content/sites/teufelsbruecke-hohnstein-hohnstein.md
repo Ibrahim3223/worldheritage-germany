@@ -4,19 +4,18 @@ site_name: "Teufelsbrücke Hohnstein Hohnstein"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hohnstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hohnstein"
+  - "Saxony"
 wikidata_id: "Q49442439"
 latitude: 50.980317498
 longitude: 14.100217615
 images:
-  []
----
+  []---
 
 ## Overview
 

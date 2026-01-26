@@ -4,13 +4,13 @@ site_name: "Sender Bodenheim"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q1335811"
 latitude: 49.9162
 longitude: 8.33908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/400px-Sendeanlage_Bodenheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/800px-Sendeanlage_Bodenheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/1200px-Sendeanlage_Bodenheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/1920px-Sendeanlage_Bodenheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/1920px-Sendeanlage_Bodenheim.jpg---
 
 ## Overview
 

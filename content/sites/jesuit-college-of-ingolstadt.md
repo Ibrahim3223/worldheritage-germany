@@ -4,13 +4,13 @@ site_name: "Jesuit College of Ingolstadt"
 date: 2026-01-26
 draft: false
 description: "jesuit school in Germany"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q834398"
 latitude: 48.7653
 longitude: 11.4208
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/400px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/800px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/1200px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/1920px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/1920px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg---
 
 ## Overview
 

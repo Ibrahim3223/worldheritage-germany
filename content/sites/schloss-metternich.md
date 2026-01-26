@@ -4,13 +4,13 @@ site_name: "Schloss Metternich"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Bad Neuenahr-Ahrweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bad Neuenahr-Ahrweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2242415"
 latitude: 50.5528
 longitude: 7.16584
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Metternich03.jpg/400px-Schloss_Metternich03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Metternich03.jpg/800px-Schloss_Metternich03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Metternich03.jpg/1200px-Schloss_Metternich03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Metternich03.jpg/1920px-Schloss_Metternich03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Metternich03.jpg/1920px-Schloss_Metternich03.jpg---
 
 ## Overview
 

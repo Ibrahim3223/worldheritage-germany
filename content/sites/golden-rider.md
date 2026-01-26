@@ -4,13 +4,13 @@ site_name: "Golden Rider"
 date: 2026-01-26
 draft: false
 description: "equestrian statue in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q558537"
 latitude: 51.058114
 longitude: 13.741347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/400px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/800px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1200px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1920px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1920px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg---
 
 ## Overview
 

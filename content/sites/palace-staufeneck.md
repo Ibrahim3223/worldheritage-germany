@@ -4,13 +4,13 @@ site_name: "Palace Staufeneck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Piding"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Piding"
+  - "Bavaria"
 wikidata_id: "Q317926"
 latitude: 47.76038
 longitude: 12.89443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/400px-Palace_Staufeneck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/800px-Palace_Staufeneck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/1200px-Palace_Staufeneck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/1920px-Palace_Staufeneck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/1920px-Palace_Staufeneck.jpg---
 
 ## Overview
 

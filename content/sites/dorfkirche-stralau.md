@@ -4,13 +4,13 @@ site_name: "Dorfkirche Stralau"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin-Friedrichshain, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1244746"
 latitude: 52.4911
 longitude: 13.4792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/400px-Stralauer_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/800px-Stralauer_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1200px-Stralauer_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1920px-Stralauer_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1920px-Stralauer_Dorfkirche.jpg---
 
 ## Overview
 

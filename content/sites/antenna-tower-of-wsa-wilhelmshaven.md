@@ -4,13 +4,13 @@ site_name: "Antenna tower of WSA Wilhelmshaven"
 date: 2026-01-26
 draft: false
 description: "tower in Wilhelmshaven, Germany"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q571937"
 latitude: 53.515856
 longitude: 8.145339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Turm_WSA_Wilhelmshaven.jpg/400px-Turm_WSA_Wilhelmshaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Turm_WSA_Wilhelmshaven.jpg/800px-Turm_WSA_Wilhelmshaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Turm_WSA_Wilhelmshaven.jpg/1200px-Turm_WSA_Wilhelmshaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Turm_WSA_Wilhelmshaven.jpg/1920px-Turm_WSA_Wilhelmshaven.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Turm_WSA_Wilhelmshaven.jpg/1920px-Turm_WSA_Wilhelmshaven.jpg---
 
 ## Overview
 

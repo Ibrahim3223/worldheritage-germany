@@ -4,13 +4,13 @@ site_name: "Burg Degelstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lindau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Lindau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011417"
 latitude: 47.557
 longitude: 9.65927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/400px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/800px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/1200px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/1920px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/1920px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG---
 
 ## Overview
 

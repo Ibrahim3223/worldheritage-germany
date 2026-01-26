@@ -4,13 +4,13 @@ site_name: "Ahekapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Nettersheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Nettersheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q400201"
 latitude: 50.4856
 longitude: 6.66028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ahekapelle_im_Genfbachtal-2209.jpg/400px-Ahekapelle_im_Genfbachtal-2209.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ahekapelle_im_Genfbachtal-2209.jpg/800px-Ahekapelle_im_Genfbachtal-2209.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ahekapelle_im_Genfbachtal-2209.jpg/1200px-Ahekapelle_im_Genfbachtal-2209.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ahekapelle_im_Genfbachtal-2209.jpg/1920px-Ahekapelle_im_Genfbachtal-2209.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ahekapelle_im_Genfbachtal-2209.jpg/1920px-Ahekapelle_im_Genfbachtal-2209.jpg---
 
 ## Overview
 

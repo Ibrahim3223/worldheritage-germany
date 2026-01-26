@@ -4,13 +4,13 @@ site_name: "Leonardo library"
 date: 2026-01-26
 draft: false
 description: "library in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1819068"
 latitude: 52.0767
 longitude: 11.6691
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/400px-Alte_Schule_Salbke_Straßenseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/800px-Alte_Schule_Salbke_Straßenseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/1200px-Alte_Schule_Salbke_Straßenseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/1920px-Alte_Schule_Salbke_Straßenseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Schule_Salbke_Straßenseite.JPG/1920px-Alte_Schule_Salbke_Straßenseite.JPG---
 
 ## Overview
 

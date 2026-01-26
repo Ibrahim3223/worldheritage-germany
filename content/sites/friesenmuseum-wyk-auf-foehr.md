@@ -4,13 +4,13 @@ site_name: "Friesenmuseum Wyk auf Föhr"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wyk auf Föhr"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wyk auf Föhr"
+  - "Schleswig-Holstein"
 wikidata_id: "Q613228"
 latitude: 54.6872
 longitude: 8.56194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/400px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/800px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1200px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1920px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1920px-Foehr_Wyk_Panorama_Friesenmuseum.jpg---
 
 ## Overview
 

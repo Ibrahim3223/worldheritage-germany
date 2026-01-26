@@ -4,13 +4,13 @@ site_name: "St. Achatius"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q828587"
 latitude: 49.9886
 longitude: 8.25333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/400px-St_Achatius_Zahlbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/800px-St_Achatius_Zahlbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/1200px-St_Achatius_Zahlbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/1920px-St_Achatius_Zahlbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/1920px-St_Achatius_Zahlbach.jpg---
 
 ## Overview
 

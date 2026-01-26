@@ -4,19 +4,18 @@ site_name: "Kaiserpfalz mit St. Ulrichkapelle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q76636026"
 latitude: 51.903282
 longitude: 10.426724
 images:
-  []
----
+  []---
 
 ## Overview
 

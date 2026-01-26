@@ -4,13 +4,13 @@ site_name: "Heimatstube Reichenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Liberec/Reichenberg (Czech Republic)"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1349004"
 latitude: 48.3611
 longitude: 10.8975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/400px-Heimatkreis_Reichenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/800px-Heimatkreis_Reichenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/1200px-Heimatkreis_Reichenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/1920px-Heimatkreis_Reichenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/1920px-Heimatkreis_Reichenberg.jpg---
 
 ## Overview
 

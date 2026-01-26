@@ -4,13 +4,13 @@ site_name: "Heimerzheim Castle"
 date: 2026-01-26
 draft: false
 description: "castle in North Rhine-Westphalia, Germany"
-region: "Swisttal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Swisttal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012263"
 latitude: 50.7128
 longitude: 6.91667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Heimerzheim_002.JPG/400px-Burg_Heimerzheim_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Heimerzheim_002.JPG/800px-Burg_Heimerzheim_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Heimerzheim_002.JPG/1200px-Burg_Heimerzheim_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Heimerzheim_002.JPG/1920px-Burg_Heimerzheim_002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Heimerzheim_002.JPG/1920px-Burg_Heimerzheim_002.JPG---
 
 ## Overview
 

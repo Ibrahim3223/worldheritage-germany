@@ -4,13 +4,13 @@ site_name: "Samendarre Laußnitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Laußnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Laußnitz"
+  - "Saxony"
 wikidata_id: "Q49407432"
 latitude: 51.2457
 longitude: 13.875934
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/400px-Samendarre_laußnitz_2020-05-09_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/800px-Samendarre_laußnitz_2020-05-09_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/1200px-Samendarre_laußnitz_2020-05-09_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/1920px-Samendarre_laußnitz_2020-05-09_12.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/1920px-Samendarre_laußnitz_2020-05-09_12.jpg---
 
 ## Overview
 

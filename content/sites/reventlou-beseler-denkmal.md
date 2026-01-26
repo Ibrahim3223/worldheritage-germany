@@ -4,13 +4,13 @@ site_name: "Reventlou-Beseler-Denkmal"
 date: 2026-01-26
 draft: false
 description: "memorial in Germany"
-region: "Schleswig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Schleswig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q28921927"
 latitude: 54.513583
 longitude: 9.550002
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/400px-Obelisk_Schleswig_cropped.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/800px-Obelisk_Schleswig_cropped.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/1200px-Obelisk_Schleswig_cropped.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/1920px-Obelisk_Schleswig_cropped.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/1920px-Obelisk_Schleswig_cropped.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Werra-Kalibergbau-Museum (WKM)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633905"
 latitude: 50.886835
 longitude: 10.00654
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Brauhaus Döbler"
 date: 2026-01-26
 draft: false
 description: "Brauerei aus Bad Windsheim, Bayern"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q900481"
 latitude: 49.501918405
 longitude: 10.415995993
 images:
-  []
----
+  []---
 
 ## Overview
 

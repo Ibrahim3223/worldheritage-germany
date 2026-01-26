@@ -4,13 +4,13 @@ site_name: "Bethanienkirche, Berlin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q831182"
 latitude: 52.55277778
 longitude: 13.44916667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/400px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/800px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/1200px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/1920px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/1920px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg---
 
 ## Overview
 

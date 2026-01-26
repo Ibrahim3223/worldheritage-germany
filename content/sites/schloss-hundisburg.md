@@ -4,13 +4,13 @@ site_name: "Schloss Hundisburg"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Haldensleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Haldensleben"
+  - "Brandenburg"
 wikidata_id: "Q1770148"
 latitude: 52.249344
 longitude: 11.400247
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/400px-100600_Hundisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/800px-100600_Hundisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/1200px-100600_Hundisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/1920px-100600_Hundisburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/1920px-100600_Hundisburg.jpg---
 
 ## Overview
 

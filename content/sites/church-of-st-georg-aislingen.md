@@ -4,13 +4,13 @@ site_name: "Church of St. Georg, Aislingen"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Aislingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aislingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2318363"
 latitude: 48.508
 longitude: 10.4595
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/400px-Aislingen_St._Georg_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/800px-Aislingen_St._Georg_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/1200px-Aislingen_St._Georg_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/1920px-Aislingen_St._Georg_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/1920px-Aislingen_St._Georg_01.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mariä Himmelfahrt (Pappenheim)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Q503763"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Q503763"
+  - "Bavaria"
 wikidata_id: "Q1227688"
 latitude: 48.931829657
 longitude: 10.972604099
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/400px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/800px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/1200px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/1920px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/1920px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg---
 
 ## Overview
 

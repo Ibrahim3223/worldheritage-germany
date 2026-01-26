@@ -4,13 +4,13 @@ site_name: "Gut Hohen Luckow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Satow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Satow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1614072"
 latitude: 53.98361111
 longitude: 11.96194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hohen_Luckow_Gutshaus_2009-08-04_043.jpg/400px-Hohen_Luckow_Gutshaus_2009-08-04_043.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hohen_Luckow_Gutshaus_2009-08-04_043.jpg/800px-Hohen_Luckow_Gutshaus_2009-08-04_043.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hohen_Luckow_Gutshaus_2009-08-04_043.jpg/1200px-Hohen_Luckow_Gutshaus_2009-08-04_043.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hohen_Luckow_Gutshaus_2009-08-04_043.jpg/1920px-Hohen_Luckow_Gutshaus_2009-08-04_043.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hohen_Luckow_Gutshaus_2009-08-04_043.jpg/1920px-Hohen_Luckow_Gutshaus_2009-08-04_043.jpg---
 
 ## Overview
 

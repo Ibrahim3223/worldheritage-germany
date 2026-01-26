@@ -4,19 +4,18 @@ site_name: "Aline Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169620"
 latitude: 51.3861
 longitude: 7.03102
 images:
-  []
----
+  []---
 
 ## Overview
 

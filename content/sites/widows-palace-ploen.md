@@ -4,13 +4,13 @@ site_name: "Widow's Palace, Plön"
 date: 2026-01-26
 draft: false
 description: "Castle in Plön, Schleswig-Holstein"
-region: "Plön"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Plön"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1689715"
 latitude: 54.1581
 longitude: 10.4124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ploen,_Witwenpalais-2.JPG/400px-Ploen,_Witwenpalais-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ploen,_Witwenpalais-2.JPG/800px-Ploen,_Witwenpalais-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ploen,_Witwenpalais-2.JPG/1200px-Ploen,_Witwenpalais-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ploen,_Witwenpalais-2.JPG/1920px-Ploen,_Witwenpalais-2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ploen,_Witwenpalais-2.JPG/1920px-Ploen,_Witwenpalais-2.JPG---
 
 ## Overview
 

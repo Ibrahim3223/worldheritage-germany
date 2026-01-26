@@ -4,13 +4,13 @@ site_name: "Evangelische Stadtkirche Ellwangen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ellwangen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ellwangen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1381127"
 latitude: 48.9622
 longitude: 10.1314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/400px-Ellwangen_Evangel-Stadtkirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/800px-Ellwangen_Evangel-Stadtkirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/1200px-Ellwangen_Evangel-Stadtkirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/1920px-Ellwangen_Evangel-Stadtkirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/1920px-Ellwangen_Evangel-Stadtkirche_01.jpg---
 
 ## Overview
 

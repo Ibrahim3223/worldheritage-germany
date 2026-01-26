@@ -4,13 +4,13 @@ site_name: "Synagoge Bayreuth"
 date: 2026-01-26
 draft: false
 description: "former opera house, then Redoutenhaus, then synagogue in Bayreuth, Germany"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q1478191"
 latitude: 49.9446
 longitude: 11.5788
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bayreuth_Synagoge_2019-07-25.jpg/400px-Bayreuth_Synagoge_2019-07-25.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bayreuth_Synagoge_2019-07-25.jpg/800px-Bayreuth_Synagoge_2019-07-25.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bayreuth_Synagoge_2019-07-25.jpg/1200px-Bayreuth_Synagoge_2019-07-25.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bayreuth_Synagoge_2019-07-25.jpg/1920px-Bayreuth_Synagoge_2019-07-25.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bayreuth_Synagoge_2019-07-25.jpg/1920px-Bayreuth_Synagoge_2019-07-25.jpg---
 
 ## Overview
 

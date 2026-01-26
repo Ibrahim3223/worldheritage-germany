@@ -4,13 +4,13 @@ site_name: "Ansgar Church"
 date: 2026-01-26
 draft: false
 description: "Danish church in Flensburg"
-region: "Flensburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Flensburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q12301923"
 latitude: 54.80238
 longitude: 9.42392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG/400px-Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG/800px-Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG/1200px-Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG/1920px-Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG/1920px-Ansgar_Kirche,_Ansgar_Kirke,_Flensburg,_Flensborg,_Apenrader_Straße.JPG---
 
 ## Overview
 

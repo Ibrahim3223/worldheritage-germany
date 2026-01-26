@@ -4,13 +4,13 @@ site_name: "Hirschwirtscheuer"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Künzelsau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Künzelsau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1620529"
 latitude: 49.2784
 longitude: 9.69034
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/400px-Hirschwirtscheuer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/800px-Hirschwirtscheuer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/1200px-Hirschwirtscheuer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/1920px-Hirschwirtscheuer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/1920px-Hirschwirtscheuer.jpg---
 
 ## Overview
 

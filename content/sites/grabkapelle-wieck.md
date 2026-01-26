@@ -4,13 +4,13 @@ site_name: "Grabkapelle Wieck"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Gützkow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Gützkow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1540847"
 latitude: 53.9402
 longitude: 13.4037
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/400px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/800px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/1200px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/1920px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/1920px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg---
 
 ## Overview
 

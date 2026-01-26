@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Seebarn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628765"
 latitude: 49.331076
 longitude: 12.456505
 images:
-  []
----
+  []---
 
 ## Overview
 

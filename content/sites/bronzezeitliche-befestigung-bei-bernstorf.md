@@ -4,13 +4,13 @@ site_name: "Bronzezeitliche Befestigung bei Bernstorf"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q928591"
 latitude: 48.4189
 longitude: 11.6098
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/400px-Bernsteingesicht_von_Bernstorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/800px-Bernsteingesicht_von_Bernstorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/1200px-Bernsteingesicht_von_Bernstorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/1920px-Bernsteingesicht_von_Bernstorf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/1920px-Bernsteingesicht_von_Bernstorf.JPG---
 
 ## Overview
 

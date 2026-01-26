@@ -4,13 +4,13 @@ site_name: "Berlin-Dahlem Museum Centre"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q469234"
 latitude: 52.456111
 longitude: 13.292222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/400px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/800px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/1200px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/1920px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/1920px-Museen_Dahlem_Berlin_Mai_2006_002.jpg---
 
 ## Overview
 

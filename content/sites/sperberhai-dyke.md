@@ -4,13 +4,13 @@ site_name: "Sperberhai Dyke"
 date: 2026-01-26
 draft: false
 description: "Aquädukt des Oberharzer Wasserregals"
-region: "Clausthal-Zellerfeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Clausthal-Zellerfeld"
+  - "Lower Saxony"
 wikidata_id: "Q2309130"
 latitude: 51.7803
 longitude: 10.42
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SperberhaierDammOst2.jpg/400px-SperberhaierDammOst2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SperberhaierDammOst2.jpg/800px-SperberhaierDammOst2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SperberhaierDammOst2.jpg/1200px-SperberhaierDammOst2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SperberhaierDammOst2.jpg/1920px-SperberhaierDammOst2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SperberhaierDammOst2.jpg/1920px-SperberhaierDammOst2.jpg---
 
 ## Overview
 

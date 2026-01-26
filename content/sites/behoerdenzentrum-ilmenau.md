@@ -4,19 +4,18 @@ site_name: "Behördenzentrum Ilmenau"
 date: 2026-01-26
 draft: false
 description: "Behördenzentrum am Rand der Altstadt von Ilmenau (Thüringen)"
-region: "Ilmenau"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Ilmenau"
+  - "Thuringia"
 wikidata_id: "Q814602"
 latitude: 50.6881
 longitude: 10.9151
 images:
-  []
----
+  []---
 
 ## Overview
 

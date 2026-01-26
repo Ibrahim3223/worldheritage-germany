@@ -4,19 +4,18 @@ site_name: "Brodauer Mühle"
 date: 2026-01-26
 draft: false
 description: "abgebrannte Windmühle bei Brodau in der Gemeinde Schashagen im Kreis Ostholstein in Schleswig-Holstein"
-region: "Schashagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Schashagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q924191"
 latitude: 54.1205
 longitude: 10.8659
 images:
-  []
----
+  []---
 
 ## Overview
 

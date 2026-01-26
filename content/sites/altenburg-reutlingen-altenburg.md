@@ -4,19 +4,18 @@ site_name: "Altenburg (Reutlingen-Altenburg)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Altenburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Altenburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q436903"
 latitude: 48.5475
 longitude: 9.18411
 images:
-  []
----
+  []---
 
 ## Overview
 

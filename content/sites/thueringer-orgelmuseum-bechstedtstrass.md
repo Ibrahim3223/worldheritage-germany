@@ -4,13 +4,13 @@ site_name: "Thüringer Orgelmuseum Bechstedtstraß"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Thuringia"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thuringia"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2430878"
 latitude: 50.9574
 longitude: 11.1958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bechstedtstraß_-_Orgelmuseum_1.jpg/400px-Bechstedtstraß_-_Orgelmuseum_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bechstedtstraß_-_Orgelmuseum_1.jpg/800px-Bechstedtstraß_-_Orgelmuseum_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bechstedtstraß_-_Orgelmuseum_1.jpg/1200px-Bechstedtstraß_-_Orgelmuseum_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bechstedtstraß_-_Orgelmuseum_1.jpg/1920px-Bechstedtstraß_-_Orgelmuseum_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bechstedtstraß_-_Orgelmuseum_1.jpg/1920px-Bechstedtstraß_-_Orgelmuseum_1.jpg---
 
 ## Overview
 

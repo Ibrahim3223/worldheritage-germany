@@ -4,19 +4,18 @@ site_name: "WBG-Museum Augsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q2536891"
 latitude: 48.367
 longitude: 10.881
 images:
-  []
----
+  []---
 
 ## Overview
 

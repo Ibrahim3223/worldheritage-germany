@@ -4,13 +4,13 @@ site_name: "Heilenbecker Talsperre"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Ennepetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Ennepetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1278793"
 latitude: 51.2561
 longitude: 7.37111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilenbecker_Talsperre_2.jpg/400px-Heilenbecker_Talsperre_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilenbecker_Talsperre_2.jpg/800px-Heilenbecker_Talsperre_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilenbecker_Talsperre_2.jpg/1200px-Heilenbecker_Talsperre_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilenbecker_Talsperre_2.jpg/1920px-Heilenbecker_Talsperre_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilenbecker_Talsperre_2.jpg/1920px-Heilenbecker_Talsperre_2.jpg---
 
 ## Overview
 

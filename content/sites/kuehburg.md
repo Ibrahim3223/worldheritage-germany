@@ -4,19 +4,18 @@ site_name: "Kühburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wiesenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wiesenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012781"
 latitude: 49.3565
 longitude: 8.81612
 images:
-  []
----
+  []---
 
 ## Overview
 

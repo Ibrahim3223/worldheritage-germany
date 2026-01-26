@@ -4,13 +4,13 @@ site_name: "St. Vitus (Gammelsdorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Gammelsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gammelsdorf"
+  - "Bavaria"
 wikidata_id: "Q14506044"
 latitude: 48.554227493
 longitude: 11.946050855
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/400px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/800px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/1200px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/1920px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/1920px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg---
 
 ## Overview
 

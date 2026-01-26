@@ -4,13 +4,13 @@ site_name: "Burg Friesack"
 date: 2026-01-26
 draft: false
 description: "castle in Friesack, Germany"
-region: "Friesack"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Friesack"
+  - "Brandenburg"
 wikidata_id: "Q1011869"
 latitude: 52.7425
 longitude: 12.5783
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Friesack,_Burg,_1894.jpg/400px-Friesack,_Burg,_1894.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Friesack,_Burg,_1894.jpg/800px-Friesack,_Burg,_1894.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Friesack,_Burg,_1894.jpg/1200px-Friesack,_Burg,_1894.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Friesack,_Burg,_1894.jpg/1920px-Friesack,_Burg,_1894.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Friesack,_Burg,_1894.jpg/1920px-Friesack,_Burg,_1894.jpg---
 
 ## Overview
 

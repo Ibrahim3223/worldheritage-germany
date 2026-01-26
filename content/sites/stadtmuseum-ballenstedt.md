@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Ballenstedt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ballenstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ballenstedt"
+  - "Lower Saxony"
 wikidata_id: "Q36253940"
 latitude: 51.719111111
 longitude: 11.220972222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/400px-Ballenstedt_Allee_37.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/800px-Ballenstedt_Allee_37.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/1200px-Ballenstedt_Allee_37.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/1920px-Ballenstedt_Allee_37.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/1920px-Ballenstedt_Allee_37.JPG---
 
 ## Overview
 

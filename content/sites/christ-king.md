@@ -4,13 +4,13 @@ site_name: "Christ King"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Oberkassel, Germany"
-region: "Oberkassel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oberkassel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1087200"
 latitude: 51.2391
 longitude: 6.73783
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/400px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/800px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/1200px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/1920px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/1920px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG---
 
 ## Overview
 

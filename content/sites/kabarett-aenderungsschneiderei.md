@@ -4,19 +4,18 @@ site_name: "Kabarett Änderungsschneiderei"
 date: 2026-01-26
 draft: false
 description: "deutsch-türkisches Kabarett"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1241632"
 latitude: 50.1196
 longitude: 8.70028
 images:
-  []
----
+  []---
 
 ## Overview
 

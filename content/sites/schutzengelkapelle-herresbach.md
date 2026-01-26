@@ -4,13 +4,13 @@ site_name: "Schutzengelkapelle (Herresbach)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Herresbach"
-region: "Herresbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Herresbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1734805"
 latitude: 50.3569
 longitude: 7.02021
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Herresbach-Schutzengelkapelle134.JPG/400px-Herresbach-Schutzengelkapelle134.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Herresbach-Schutzengelkapelle134.JPG/800px-Herresbach-Schutzengelkapelle134.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Herresbach-Schutzengelkapelle134.JPG/1200px-Herresbach-Schutzengelkapelle134.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Herresbach-Schutzengelkapelle134.JPG/1920px-Herresbach-Schutzengelkapelle134.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Herresbach-Schutzengelkapelle134.JPG/1920px-Herresbach-Schutzengelkapelle134.JPG---
 
 ## Overview
 

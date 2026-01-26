@@ -4,13 +4,13 @@ site_name: "Martin-Gropius-Bau"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q569445"
 latitude: 52.5066
 longitude: 13.3818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Martin-Gropius-Bau_Berlin_cropped.jpg/400px-Martin-Gropius-Bau_Berlin_cropped.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Martin-Gropius-Bau_Berlin_cropped.jpg/800px-Martin-Gropius-Bau_Berlin_cropped.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Martin-Gropius-Bau_Berlin_cropped.jpg/1200px-Martin-Gropius-Bau_Berlin_cropped.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Martin-Gropius-Bau_Berlin_cropped.jpg/1920px-Martin-Gropius-Bau_Berlin_cropped.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Martin-Gropius-Bau_Berlin_cropped.jpg/1920px-Martin-Gropius-Bau_Berlin_cropped.jpg---
 
 ## Overview
 

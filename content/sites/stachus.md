@@ -4,13 +4,13 @@ site_name: "Stachus"
 date: 2026-01-26
 draft: false
 description: "square in Munich"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q152974"
 latitude: 48.1392
 longitude: 11.5658
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stachus_2014-08-02_pseudo-pano.jpg/400px-Stachus_2014-08-02_pseudo-pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stachus_2014-08-02_pseudo-pano.jpg/800px-Stachus_2014-08-02_pseudo-pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stachus_2014-08-02_pseudo-pano.jpg/1200px-Stachus_2014-08-02_pseudo-pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stachus_2014-08-02_pseudo-pano.jpg/1920px-Stachus_2014-08-02_pseudo-pano.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stachus_2014-08-02_pseudo-pano.jpg/1920px-Stachus_2014-08-02_pseudo-pano.jpg---
 
 ## Overview
 

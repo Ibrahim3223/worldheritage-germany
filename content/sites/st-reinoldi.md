@@ -4,13 +4,13 @@ site_name: "St. Reinoldi"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dortmund Innenstadt-West"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund Innenstadt-West"
+  - "Lower Saxony"
 wikidata_id: "Q471310"
 latitude: 51.514722222
 longitude: 7.467222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Reinoldi_turm.jpg/400px-Reinoldi_turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Reinoldi_turm.jpg/800px-Reinoldi_turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Reinoldi_turm.jpg/1200px-Reinoldi_turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Reinoldi_turm.jpg/1920px-Reinoldi_turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Reinoldi_turm.jpg/1920px-Reinoldi_turm.jpg---
 
 ## Overview
 

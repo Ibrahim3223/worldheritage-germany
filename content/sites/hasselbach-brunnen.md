@@ -4,13 +4,13 @@ site_name: "Hasselbach-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q29547964"
 latitude: 52.141617
 longitude: 11.639514
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hasselbachbrunnen_Portrait.jpg/400px-Hasselbachbrunnen_Portrait.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hasselbachbrunnen_Portrait.jpg/800px-Hasselbachbrunnen_Portrait.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hasselbachbrunnen_Portrait.jpg/1200px-Hasselbachbrunnen_Portrait.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hasselbachbrunnen_Portrait.jpg/1920px-Hasselbachbrunnen_Portrait.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hasselbachbrunnen_Portrait.jpg/1920px-Hasselbachbrunnen_Portrait.jpg---
 
 ## Overview
 

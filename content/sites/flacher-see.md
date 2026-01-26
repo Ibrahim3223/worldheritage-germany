@@ -4,13 +4,13 @@ site_name: "Flacher See"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1266097"
 latitude: 53.622777777
 longitude: 12.540277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flacher_See.jpg/400px-Flacher_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flacher_See.jpg/800px-Flacher_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flacher_See.jpg/1200px-Flacher_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flacher_See.jpg/1920px-Flacher_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flacher_See.jpg/1920px-Flacher_See.jpg---
 
 ## Overview
 

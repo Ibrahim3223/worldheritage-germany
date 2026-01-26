@@ -4,13 +4,13 @@ site_name: "Fangelturm (Friedland)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Friedland"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Friedland"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1395593"
 latitude: 53.6702
 longitude: 13.5484
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/400px-FangelturmFriedland.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/800px-FangelturmFriedland.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/1200px-FangelturmFriedland.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/1920px-FangelturmFriedland.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/1920px-FangelturmFriedland.JPG---
 
 ## Overview
 

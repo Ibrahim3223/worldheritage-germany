@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Wintersweiler"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Efringen-Kirchen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Efringen-Kirchen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1380977"
 latitude: 47.6744292
 longitude: 7.56813169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/400px-Wintersweiler_-_Evangelische_Kirche9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/800px-Wintersweiler_-_Evangelische_Kirche9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/1200px-Wintersweiler_-_Evangelische_Kirche9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/1920px-Wintersweiler_-_Evangelische_Kirche9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/1920px-Wintersweiler_-_Evangelische_Kirche9.jpg---
 
 ## Overview
 

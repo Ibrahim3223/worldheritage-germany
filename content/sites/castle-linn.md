@@ -4,13 +4,13 @@ site_name: "Castle Linn"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1012990"
 latitude: 51.3331
 longitude: 6.63444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/400px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/800px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "New Palace"
 date: 2026-01-26
 draft: false
 description: "Palace in Sanssouci, Potsdam, Brandenburg, Germany"
-region: "Brandenburger Vorstadt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Brandenburger Vorstadt"
+  - "Brandenburg"
 wikidata_id: "Q677383"
 latitude: 52.401301
 longitude: 13.01603
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Potsdam_Sanssouci_07-2017_img4.jpg/400px-Potsdam_Sanssouci_07-2017_img4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Potsdam_Sanssouci_07-2017_img4.jpg/800px-Potsdam_Sanssouci_07-2017_img4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Potsdam_Sanssouci_07-2017_img4.jpg/1200px-Potsdam_Sanssouci_07-2017_img4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Potsdam_Sanssouci_07-2017_img4.jpg/1920px-Potsdam_Sanssouci_07-2017_img4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Potsdam_Sanssouci_07-2017_img4.jpg/1920px-Potsdam_Sanssouci_07-2017_img4.jpg---
 
 ## Overview
 

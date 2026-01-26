@@ -4,13 +4,13 @@ site_name: "Erdöl-Erdgas-Museum Twist"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Twist"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Twist"
+  - "Lower Saxony"
 wikidata_id: "Q1349581"
 latitude: 52.6473
 longitude: 7.09511
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/400px-Erdölmuseum_Twist.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/800px-Erdölmuseum_Twist.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1200px-Erdölmuseum_Twist.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1920px-Erdölmuseum_Twist.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1920px-Erdölmuseum_Twist.jpg---
 
 ## Overview
 

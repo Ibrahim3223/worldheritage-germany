@@ -4,13 +4,13 @@ site_name: "Hiltpoltstein Castle"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-138-6 (0) in Hiltpoltstein, Bavaria"
-region: "Hiltpoltstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hiltpoltstein"
+  - "Bavaria"
 wikidata_id: "Q1012335"
 latitude: 49.659758606
 longitude: 11.32172202
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/400px-Burg_Hiltpoltstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/800px-Burg_Hiltpoltstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/1200px-Burg_Hiltpoltstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/1920px-Burg_Hiltpoltstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/1920px-Burg_Hiltpoltstein.jpg---
 
 ## Overview
 

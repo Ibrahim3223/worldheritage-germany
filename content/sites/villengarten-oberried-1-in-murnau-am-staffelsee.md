@@ -4,19 +4,18 @@ site_name: "Villengarten Oberried 1 in Murnau am Staffelsee"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-80-124-123 (2) in Murnau am Staffelsee, Bavaria"
-region: "Murnau am Staffelsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Murnau am Staffelsee"
+  - "Bavaria"
 wikidata_id: "Q98744253"
 latitude: 47.671901119
 longitude: 11.176151964
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bradford Sammelteller-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Rödermark"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rödermark"
+  - "Hesse"
 wikidata_id: "Q896954"
 latitude: 49.9648
 longitude: 8.82239
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Museum_lang1.jpg/400px-Museum_lang1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Museum_lang1.jpg/800px-Museum_lang1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Museum_lang1.jpg/1200px-Museum_lang1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Museum_lang1.jpg/1920px-Museum_lang1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Museum_lang1.jpg/1920px-Museum_lang1.jpg---
 
 ## Overview
 

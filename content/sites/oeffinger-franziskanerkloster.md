@@ -4,19 +4,18 @@ site_name: "Oeffinger Franziskanerkloster"
 date: 2026-01-26
 draft: false
 description: "building in Fellbach, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Fellbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Fellbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q2014976"
 latitude: 48.8427
 longitude: 9.26153
 images:
-  []
----
+  []---
 
 ## Overview
 

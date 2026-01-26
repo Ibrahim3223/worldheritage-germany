@@ -4,13 +4,13 @@ site_name: "Ibbenbüren station"
 date: 2026-01-26
 draft: false
 description: "railway station in Ibbenbüren, Germany"
-region: "Ibbenbüren"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Ibbenbüren"
+  - "Lower Saxony"
 wikidata_id: "Q322526"
 latitude: 52.2769
 longitude: 7.72139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/400px-Bahnhof_Ibbenburen2007.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/800px-Bahnhof_Ibbenburen2007.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/1200px-Bahnhof_Ibbenburen2007.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/1920px-Bahnhof_Ibbenburen2007.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/1920px-Bahnhof_Ibbenburen2007.JPG---
 
 ## Overview
 

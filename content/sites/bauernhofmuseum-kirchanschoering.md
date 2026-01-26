@@ -4,13 +4,13 @@ site_name: "Bauernhofmuseum Kirchanschöring"
 date: 2026-01-26
 draft: false
 description: "museum in Kirchanschöring, Bavaria, Germany"
-region: "Kirchanschöring"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kirchanschöring"
+  - "Bavaria"
 wikidata_id: "Q41266450"
 latitude: 47.951197104
 longitude: 12.862776051
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bauernhofmuseum_Hof-Kirchanschöring_1.jpg/400px-Bauernhofmuseum_Hof-Kirchanschöring_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bauernhofmuseum_Hof-Kirchanschöring_1.jpg/800px-Bauernhofmuseum_Hof-Kirchanschöring_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bauernhofmuseum_Hof-Kirchanschöring_1.jpg/1200px-Bauernhofmuseum_Hof-Kirchanschöring_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bauernhofmuseum_Hof-Kirchanschöring_1.jpg/1920px-Bauernhofmuseum_Hof-Kirchanschöring_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bauernhofmuseum_Hof-Kirchanschöring_1.jpg/1920px-Bauernhofmuseum_Hof-Kirchanschöring_1.jpg---
 
 ## Overview
 

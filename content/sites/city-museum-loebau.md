@@ -4,13 +4,13 @@ site_name: "City Museum Löbau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Löbau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Löbau"
+  - "Saxony"
 wikidata_id: "Q24043970"
 latitude: 51.09508333
 longitude: 14.66794444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/400px-Loebau_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/800px-Loebau_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/1200px-Loebau_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/1920px-Loebau_Stadtmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/1920px-Loebau_Stadtmuseum.jpg---
 
 ## Overview
 

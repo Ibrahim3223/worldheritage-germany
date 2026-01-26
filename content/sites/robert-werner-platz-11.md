@@ -4,13 +4,13 @@ site_name: "Robert-Werner-Platz 11"
 date: 2026-01-26
 draft: false
 description: "buildings in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q811274"
 latitude: 51.0979
 longitude: 13.6767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG/400px-Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG/800px-Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG/1200px-Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG/1920px-Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG/1920px-Radebeul_Bauernhof_Robert-Werner-Platz_11.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sankt-Johann-Baptist-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q2221942"
 latitude: 52.0741
 longitude: 11.6717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/400px-St-Joh-Baptist-Salbke2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/800px-St-Joh-Baptist-Salbke2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/1200px-St-Joh-Baptist-Salbke2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/1920px-St-Joh-Baptist-Salbke2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/1920px-St-Joh-Baptist-Salbke2.JPG---
 
 ## Overview
 

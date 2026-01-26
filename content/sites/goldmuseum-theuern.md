@@ -4,13 +4,13 @@ site_name: "Goldmuseum Theuern"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Thuringia"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thuringia"
+  - "Bavaria"
 wikidata_id: "Q1458988"
 latitude: 50.4267
 longitude: 11.0391
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/400px-Theuern-Goldmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/800px-Theuern-Goldmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/1200px-Theuern-Goldmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/1920px-Theuern-Goldmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/1920px-Theuern-Goldmuseum.jpg---
 
 ## Overview
 

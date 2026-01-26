@@ -4,19 +4,18 @@ site_name: "Fachhochschule Augsburg"
 date: 2026-01-26
 draft: false
 description: "Universität in Deutschland"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q32000608"
 latitude: 48.3555
 longitude: 10.90553
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mödrath castle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mödrath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mödrath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q47461274"
 latitude: 50.8851184
 longitude: 6.7198768
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/400px-Haus_Mödrath.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/800px-Haus_Mödrath.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/1200px-Haus_Mödrath.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/1920px-Haus_Mödrath.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/1920px-Haus_Mödrath.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Erstes Deutsches Historic-Actien-Museum (EDHAM)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kürnbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kürnbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q28549938"
 latitude: 49.076613
 longitude: 8.844775
 images:
-  []
----
+  []---
 
 ## Overview
 

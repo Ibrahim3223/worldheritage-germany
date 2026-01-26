@@ -4,13 +4,13 @@ site_name: "Leopoldsäule"
 date: 2026-01-26
 draft: false
 description: "monument in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1819999"
 latitude: 50.1597
 longitude: 8.73829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/400px-Denkmal-Leopoldsäule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/800px-Denkmal-Leopoldsäule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/1200px-Denkmal-Leopoldsäule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/1920px-Denkmal-Leopoldsäule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/1920px-Denkmal-Leopoldsäule.jpg---
 
 ## Overview
 

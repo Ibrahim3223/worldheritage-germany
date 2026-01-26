@@ -4,13 +4,13 @@ site_name: "Christ Church, Neunkirchen (Saar)"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Neunkirchen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neunkirchen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2669396"
 latitude: 49.3468
 longitude: 7.1759
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/400px-Neunkirchen_Saar_Christuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/800px-Neunkirchen_Saar_Christuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/1200px-Neunkirchen_Saar_Christuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/1920px-Neunkirchen_Saar_Christuskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/1920px-Neunkirchen_Saar_Christuskirche.jpg---
 
 ## Overview
 

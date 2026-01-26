@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Silberbergtunnel"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte bei Bad Neuenahr-Ahrweiler in Rheinland-Pfalz"
-region: "Bad Neuenahr-Ahrweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bad Neuenahr-Ahrweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q58440333"
 latitude: 50.54515
 longitude: 7.08948
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/400px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/800px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/1200px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/1920px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/1920px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg---
 
 ## Overview
 

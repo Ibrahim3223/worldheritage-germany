@@ -4,19 +4,18 @@ site_name: "Museum Terra Triassica Euerdorf"
 date: 2026-01-26
 draft: false
 description: "Earth History Museum (Triassic)"
-region: "Euerdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Euerdorf"
+  - "Bavaria"
 wikidata_id: "Q15835874"
 latitude: 50.148911111
 longitude: 10.021711111
 images:
-  []
----
+  []---
 
 ## Overview
 

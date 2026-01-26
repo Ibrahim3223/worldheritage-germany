@@ -4,19 +4,18 @@ site_name: "Augustinerkloster Königsberg"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Königsberg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Königsberg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q768516"
 latitude: 50.084
 longitude: 10.5682
 images:
-  []
----
+  []---
 
 ## Overview
 

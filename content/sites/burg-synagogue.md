@@ -4,13 +4,13 @@ site_name: "Burg synagogue"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Burg, Germany"
-region: "Burg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Burg"
+  - "Brandenburg"
 wikidata_id: "Q1589443"
 latitude: 52.2721
 longitude: 11.858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/400px-Synagoge_Burg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/800px-Synagoge_Burg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/1200px-Synagoge_Burg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/1920px-Synagoge_Burg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/1920px-Synagoge_Burg.JPG---
 
 ## Overview
 

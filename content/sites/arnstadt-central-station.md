@@ -4,13 +4,13 @@ site_name: "Arnstadt central station"
 date: 2026-01-26
 draft: false
 description: "railway station in Thuringia, Germany"
-region: "Arnstadt"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Arnstadt"
+  - "Thuringia"
 wikidata_id: "Q320554"
 latitude: 50.8417
 longitude: 10.9483
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/400px-Bf_Arnstadt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/800px-Bf_Arnstadt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1200px-Bf_Arnstadt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1920px-Bf_Arnstadt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1920px-Bf_Arnstadt.JPG---
 
 ## Overview
 

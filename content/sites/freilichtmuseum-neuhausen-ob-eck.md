@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum Neuhausen ob Eck"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Neuhausen ob Eck"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuhausen ob Eck"
+  - "Baden-Württemberg"
 wikidata_id: "Q1454522"
 latitude: 47.98006
 longitude: 8.92872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/400px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/800px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/1200px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/1920px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/1920px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg---
 
 ## Overview
 

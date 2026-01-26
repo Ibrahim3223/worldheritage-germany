@@ -4,13 +4,13 @@ site_name: "Zeche Auguste Victoria"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Marl"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Marl"
+  - "Lower Saxony"
 wikidata_id: "Q169664"
 latitude: 51.6851
 longitude: 7.11056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auguste_Victoria_8.jpg/400px-Auguste_Victoria_8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auguste_Victoria_8.jpg/800px-Auguste_Victoria_8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auguste_Victoria_8.jpg/1200px-Auguste_Victoria_8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auguste_Victoria_8.jpg/1920px-Auguste_Victoria_8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auguste_Victoria_8.jpg/1920px-Auguste_Victoria_8.jpg---
 
 ## Overview
 

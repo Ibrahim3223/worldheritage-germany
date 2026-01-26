@@ -4,13 +4,13 @@ site_name: "Burg Neuhaus (Neuhaus-Schierschnitz)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Föritztal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Föritztal"
+  - "Bavaria"
 wikidata_id: "Q1013285"
 latitude: 50.3144
 longitude: 11.2444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schlossberg-Neuhaus-Schierschnitz.jpg/400px-Schlossberg-Neuhaus-Schierschnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schlossberg-Neuhaus-Schierschnitz.jpg/800px-Schlossberg-Neuhaus-Schierschnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schlossberg-Neuhaus-Schierschnitz.jpg/1200px-Schlossberg-Neuhaus-Schierschnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schlossberg-Neuhaus-Schierschnitz.jpg/1920px-Schlossberg-Neuhaus-Schierschnitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schlossberg-Neuhaus-Schierschnitz.jpg/1920px-Schlossberg-Neuhaus-Schierschnitz.jpg---
 
 ## Overview
 

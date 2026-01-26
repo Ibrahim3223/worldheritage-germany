@@ -4,13 +4,13 @@ site_name: "Ernestiner Hof"
 date: 2026-01-26
 draft: false
 description: "historisches Gebäudeensemble in der Altstadt der thüringischen Kreisstadt Meiningen"
-region: "Meiningen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Meiningen"
+  - "Bavaria"
 wikidata_id: "Q1356650"
 latitude: 50.5696
 longitude: 10.4146
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/400px-Ernestiner_Hof1_Meiningen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/800px-Ernestiner_Hof1_Meiningen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/1200px-Ernestiner_Hof1_Meiningen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/1920px-Ernestiner_Hof1_Meiningen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/1920px-Ernestiner_Hof1_Meiningen.jpg---
 
 ## Overview
 

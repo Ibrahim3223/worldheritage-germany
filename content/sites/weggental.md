@@ -4,13 +4,13 @@ site_name: "Weggental"
 date: 2026-01-26
 draft: false
 description: "church building in Rottenburg am Neckar, Tübingen Government Region, Baden-Württemberg, Germany"
-region: "Rottenburg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rottenburg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q2554276"
 latitude: 48.48
 longitude: 8.92083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weggentalkirche_(5492747678).jpg/400px-Weggentalkirche_(5492747678).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weggentalkirche_(5492747678).jpg/800px-Weggentalkirche_(5492747678).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weggentalkirche_(5492747678).jpg/1200px-Weggentalkirche_(5492747678).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weggentalkirche_(5492747678).jpg/1920px-Weggentalkirche_(5492747678).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weggentalkirche_(5492747678).jpg/1920px-Weggentalkirche_(5492747678).jpg---
 
 ## Overview
 

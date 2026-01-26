@@ -4,13 +4,13 @@ site_name: "Burg Kempe"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Roßwein, Saxony, Germany"
-region: "Roßwein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Roßwein"
+  - "Saxony"
 wikidata_id: "Q1012632"
 latitude: 51.0876
 longitude: 13.1463
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/KempeMahlitzsch1.JPG/400px-KempeMahlitzsch1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/KempeMahlitzsch1.JPG/800px-KempeMahlitzsch1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/KempeMahlitzsch1.JPG/1200px-KempeMahlitzsch1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/KempeMahlitzsch1.JPG/1920px-KempeMahlitzsch1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/KempeMahlitzsch1.JPG/1920px-KempeMahlitzsch1.JPG---
 
 ## Overview
 

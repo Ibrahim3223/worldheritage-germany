@@ -4,13 +4,13 @@ site_name: "Laurentiuskirche"
 date: 2026-01-26
 draft: false
 description: "church in Hemmingen"
-region: "Hemmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hemmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1808223"
 latitude: 48.8659
 longitude: 9.03521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/400px-Ansicht_composit1068x1024blau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/800px-Ansicht_composit1068x1024blau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1200px-Ansicht_composit1068x1024blau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1920px-Ansicht_composit1068x1024blau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1920px-Ansicht_composit1068x1024blau.jpg---
 
 ## Overview
 

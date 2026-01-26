@@ -4,13 +4,13 @@ site_name: "tomb of Züschen"
 date: 2026-01-26
 draft: false
 description: "dolmen"
-region: "Fritzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Fritzlar"
+  - "Hesse"
 wikidata_id: "Q317680"
 latitude: 51.1739
 longitude: 9.24056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Züschen_tomb1.JPG/400px-Züschen_tomb1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Züschen_tomb1.JPG/800px-Züschen_tomb1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Züschen_tomb1.JPG/1200px-Züschen_tomb1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Züschen_tomb1.JPG/1920px-Züschen_tomb1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Züschen_tomb1.JPG/1920px-Züschen_tomb1.JPG---
 
 ## Overview
 

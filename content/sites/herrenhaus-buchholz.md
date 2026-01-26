@@ -4,13 +4,13 @@ site_name: "Herrenhaus Buchholz"
 date: 2026-01-26
 draft: false
 description: "building in Alfter, Germany"
-region: "Alfter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Alfter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q22674578"
 latitude: 50.74339294
 longitude: 6.99552107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/400px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/800px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/1200px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/1920px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/1920px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg---
 
 ## Overview
 

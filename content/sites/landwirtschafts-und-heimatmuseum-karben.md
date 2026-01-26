@@ -4,19 +4,18 @@ site_name: "Landwirtschafts- und Heimatmuseum Karben"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633930"
 latitude: 50.23841
 longitude: 8.770395
 images:
-  []
----
+  []---
 
 ## Overview
 

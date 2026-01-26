@@ -4,13 +4,13 @@ site_name: "Rönn windmill"
 date: 2026-01-26
 draft: false
 description: "windmill in Osterholz-Scharmbeck, Germany"
-region: "Osterholz-Scharmbeck"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Osterholz-Scharmbeck"
+  - "Bremen"
 wikidata_id: "Q1615009"
 latitude: 53.2297
 longitude: 8.79063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/400px-Scharmbecker_Muehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/800px-Scharmbecker_Muehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/1200px-Scharmbecker_Muehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/1920px-Scharmbecker_Muehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/1920px-Scharmbecker_Muehle.jpg---
 
 ## Overview
 

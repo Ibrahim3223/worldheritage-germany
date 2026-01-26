@@ -4,13 +4,13 @@ site_name: "Quedlinburg railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q187367"
 latitude: 51.7853
 longitude: 11.1527
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quedlinburg_asv2018-10_img44_railway_station.jpg/400px-Quedlinburg_asv2018-10_img44_railway_station.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quedlinburg_asv2018-10_img44_railway_station.jpg/800px-Quedlinburg_asv2018-10_img44_railway_station.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quedlinburg_asv2018-10_img44_railway_station.jpg/1200px-Quedlinburg_asv2018-10_img44_railway_station.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quedlinburg_asv2018-10_img44_railway_station.jpg/1920px-Quedlinburg_asv2018-10_img44_railway_station.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quedlinburg_asv2018-10_img44_railway_station.jpg/1920px-Quedlinburg_asv2018-10_img44_railway_station.jpg---
 
 ## Overview
 

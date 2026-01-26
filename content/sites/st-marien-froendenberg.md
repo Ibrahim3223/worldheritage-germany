@@ -4,13 +4,13 @@ site_name: "St. Marien (Fröndenberg)"
 date: 2026-01-26
 draft: false
 description: "church building in Fröndenberg, Germany"
-region: "Fröndenberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Fröndenberg"
+  - "Lower Saxony"
 wikidata_id: "Q2320813"
 latitude: 51.4738
 longitude: 7.76447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/400px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/800px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/1200px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/1920px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/1920px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg---
 
 ## Overview
 

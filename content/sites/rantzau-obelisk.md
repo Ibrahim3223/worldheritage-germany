@@ -4,13 +4,13 @@ site_name: "Rantzau-Obelisk"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Bad Segeberg in Schleswig-Holstein"
-region: "Bad Segeberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Segeberg"
+  - "Lower Saxony"
 wikidata_id: "Q1700255"
 latitude: 53.936784
 longitude: 10.30031
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/400px-Rantzau_Obelisk.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/800px-Rantzau_Obelisk.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/1200px-Rantzau_Obelisk.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/1920px-Rantzau_Obelisk.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/1920px-Rantzau_Obelisk.JPG---
 
 ## Overview
 

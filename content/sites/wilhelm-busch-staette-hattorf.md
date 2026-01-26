@@ -4,13 +4,13 @@ site_name: "Wilhelm-Busch-Stätte Hattorf"
 date: 2026-01-26
 draft: false
 description: "museum in Hattorf am Harz, Lower Saxony, Germany"
-region: "Hattorf am Harz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hattorf am Harz"
+  - "Hesse"
 wikidata_id: "Q76636191"
 latitude: 51.6532407
 longitude: 10.2365173
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hattorf_Wilhelm_Busch_Staette.jpg/400px-Hattorf_Wilhelm_Busch_Staette.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hattorf_Wilhelm_Busch_Staette.jpg/800px-Hattorf_Wilhelm_Busch_Staette.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hattorf_Wilhelm_Busch_Staette.jpg/1200px-Hattorf_Wilhelm_Busch_Staette.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hattorf_Wilhelm_Busch_Staette.jpg/1920px-Hattorf_Wilhelm_Busch_Staette.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hattorf_Wilhelm_Busch_Staette.jpg/1920px-Hattorf_Wilhelm_Busch_Staette.jpg---
 
 ## Overview
 

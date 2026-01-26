@@ -4,13 +4,13 @@ site_name: "Brunnentheater"
 date: 2026-01-26
 draft: false
 description: "theatre in Bad Helmstedt, Germany"
-region: "Helmstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Helmstedt"
+  - "Lower Saxony"
 wikidata_id: "Q992847"
 latitude: 52.2366
 longitude: 11.0633
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/400px-Helmstedt_Brunnentheater.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/800px-Helmstedt_Brunnentheater.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/1200px-Helmstedt_Brunnentheater.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/1920px-Helmstedt_Brunnentheater.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/1920px-Helmstedt_Brunnentheater.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Düsseldorf Botanical Garden"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q879081"
 latitude: 51.1869
 longitude: 6.8025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg/400px-Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg/800px-Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg/1200px-Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg/1920px-Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg/1920px-Kuppelgewächshaus_im_Botanischer_Garten_Düsseldorf_Juli_2020.jpg---
 
 ## Overview
 

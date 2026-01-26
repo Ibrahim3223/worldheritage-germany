@@ -4,13 +4,13 @@ site_name: "Moorlose Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Burglesum"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Burglesum"
+  - "Bremen"
 wikidata_id: "Q1542040"
 latitude: 53.1285
 longitude: 8.654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moorlose_Kirche_01.jpg/400px-Moorlose_Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moorlose_Kirche_01.jpg/800px-Moorlose_Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moorlose_Kirche_01.jpg/1200px-Moorlose_Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moorlose_Kirche_01.jpg/1920px-Moorlose_Kirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moorlose_Kirche_01.jpg/1920px-Moorlose_Kirche_01.jpg---
 
 ## Overview
 

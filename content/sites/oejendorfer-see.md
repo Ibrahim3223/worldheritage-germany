@@ -4,13 +4,13 @@ site_name: "Öjendorfer See"
 date: 2026-01-26
 draft: false
 description: "lake in Billstedt, Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q248992"
 latitude: 53.558333333
 longitude: 10.138888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oejendorfer_See_01.jpg/400px-Oejendorfer_See_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oejendorfer_See_01.jpg/800px-Oejendorfer_See_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oejendorfer_See_01.jpg/1200px-Oejendorfer_See_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oejendorfer_See_01.jpg/1920px-Oejendorfer_See_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oejendorfer_See_01.jpg/1920px-Oejendorfer_See_01.jpg---
 
 ## Overview
 

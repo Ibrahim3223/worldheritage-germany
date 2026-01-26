@@ -4,13 +4,13 @@ site_name: "Museum Bünde"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bünde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bünde"
+  - "Lower Saxony"
 wikidata_id: "Q1775547"
 latitude: 52.1955
 longitude: 8.58161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/400px-Bünde_x1x_154.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/800px-Bünde_x1x_154.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/1200px-Bünde_x1x_154.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/1920px-Bünde_x1x_154.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/1920px-Bünde_x1x_154.jpg---
 
 ## Overview
 

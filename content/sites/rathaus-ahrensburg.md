@@ -4,13 +4,13 @@ site_name: "Rathaus Ahrensburg"
 date: 2026-01-26
 draft: false
 description: "Verwaltungsbau der Nachkriegsmoderne in Ahrensburg, Kreis Stormarn, Schleswig-Holstein, Deutschland"
-region: "Ahrensburg"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Ahrensburg"
+  - "Hamburg"
 wikidata_id: "Q126113952"
 latitude: 53.67348
 longitude: 10.235802
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/400px-Ahrensburg_-_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/800px-Ahrensburg_-_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/1200px-Ahrensburg_-_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/1920px-Ahrensburg_-_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/1920px-Ahrensburg_-_Rathaus.jpg---
 
 ## Overview
 

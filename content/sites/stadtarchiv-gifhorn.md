@@ -4,19 +4,18 @@ site_name: "Stadtarchiv Gifhorn"
 date: 2026-01-26
 draft: false
 description: "archive organization in Gifhorn, Germany"
-region: "Gifhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Gifhorn"
+  - "Lower Saxony"
 wikidata_id: "Q30261289"
 latitude: 52.488251
 longitude: 10.544697
 images:
-  []
----
+  []---
 
 ## Overview
 

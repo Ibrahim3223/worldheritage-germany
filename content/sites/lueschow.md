@@ -4,13 +4,13 @@ site_name: "Lüschow"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Dobbertin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Dobbertin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1267363"
 latitude: 53.6286
 longitude: 12.1064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg/400px-Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg/800px-Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg/1200px-Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg/1920px-Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg/1920px-Jasenitz_-_Ausfluss_aus_der_Lüschow.jpg---
 
 ## Overview
 

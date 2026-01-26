@@ -4,13 +4,13 @@ site_name: "St. Peter"
 date: 2026-01-26
 draft: false
 description: "church in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2079690"
 latitude: 51.3305
 longitude: 12.3757
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/400px-Peterskirche_Leipzig_easyHDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/800px-Peterskirche_Leipzig_easyHDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/1200px-Peterskirche_Leipzig_easyHDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/1920px-Peterskirche_Leipzig_easyHDR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/1920px-Peterskirche_Leipzig_easyHDR.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Christuskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hannover, Germany"
-region: "Nord"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nord"
+  - "Lower Saxony"
 wikidata_id: "Q1087332"
 latitude: 52.3812
 longitude: 9.72618
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/400px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/800px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/1200px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/1920px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/1920px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg---
 
 ## Overview
 

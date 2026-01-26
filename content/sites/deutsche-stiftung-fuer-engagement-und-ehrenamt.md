@@ -4,19 +4,18 @@ site_name: "Deutsche Stiftung für Engagement und Ehrenamt"
 date: 2026-01-26
 draft: false
 description: "Stiftung des öffentlichen Rechts des Bundes mit Sitz in Neustrelitz"
-region: "Germany"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Brandenburg"
 wikidata_id: "Q85338368"
 latitude: 53.3488648
 longitude: 13.1065638
 images:
-  []
----
+  []---
 
 ## Overview
 

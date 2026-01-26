@@ -4,13 +4,13 @@ site_name: "Synagogue in Eichtersheim"
 date: 2026-01-26
 draft: false
 description: "building in Angelbachtal, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Angelbachtal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Angelbachtal"
+  - "Baden-Württemberg"
 wikidata_id: "Q2375031"
 latitude: 49.2366
 longitude: 8.773
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/400px-Eichtersheim-synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/800px-Eichtersheim-synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/1200px-Eichtersheim-synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/1920px-Eichtersheim-synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/1920px-Eichtersheim-synagoge.jpg---
 
 ## Overview
 

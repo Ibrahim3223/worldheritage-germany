@@ -4,13 +4,13 @@ site_name: "Martinstor"
 date: 2026-01-26
 draft: false
 description: "city gate in Freiburg im Breisgau"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q328965"
 latitude: 47.99361111
 longitude: 7.84888889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/400px-St_Martin_(Freiburg)_3034_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/800px-St_Martin_(Freiburg)_3034_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/1200px-St_Martin_(Freiburg)_3034_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/1920px-St_Martin_(Freiburg)_3034_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/1920px-St_Martin_(Freiburg)_3034_(cropped).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Old chapel in Leegebruch"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Leegebruch"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Leegebruch"
+  - "Brandenburg"
 wikidata_id: "Q435655"
 latitude: 52.724166666
 longitude: 13.198138888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/400px-Leegebruch_chapel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/800px-Leegebruch_chapel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/1200px-Leegebruch_chapel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/1920px-Leegebruch_chapel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/1920px-Leegebruch_chapel.jpg---
 
 ## Overview
 

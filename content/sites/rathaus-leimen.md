@@ -4,13 +4,13 @@ site_name: "Rathaus Leimen"
 date: 2026-01-26
 draft: false
 description: "Palais in Deutschland"
-region: "Leimen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Leimen"
+  - "Baden-Württemberg"
 wikidata_id: "Q65952189"
 latitude: 49.348857
 longitude: 8.690909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rathaus_Leimen.jpg/400px-Rathaus_Leimen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rathaus_Leimen.jpg/800px-Rathaus_Leimen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rathaus_Leimen.jpg/1200px-Rathaus_Leimen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rathaus_Leimen.jpg/1920px-Rathaus_Leimen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rathaus_Leimen.jpg/1920px-Rathaus_Leimen.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5824-0052 in Gräfendorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gräfendorf, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Gräfendorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Gräfendorf"
+  - "Bavaria"
 wikidata_id: "Q98169540"
 latitude: 50.102011271
 longitude: 9.792405298
 images:
-  []
----
+  []---
 
 ## Overview
 

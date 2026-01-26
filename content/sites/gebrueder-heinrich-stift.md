@@ -4,13 +4,13 @@ site_name: "Gebrüder-Heinrich-Stift"
 date: 2026-01-26
 draft: false
 description: "former social foundation in Luckenwalde"
-region: "Luckenwalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Luckenwalde"
+  - "Brandenburg"
 wikidata_id: "Q1497175"
 latitude: 52.0937815
 longitude: 13.1793749
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lindenstraße_3-5_Luckenwalde.jpg/400px-Lindenstraße_3-5_Luckenwalde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lindenstraße_3-5_Luckenwalde.jpg/800px-Lindenstraße_3-5_Luckenwalde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lindenstraße_3-5_Luckenwalde.jpg/1200px-Lindenstraße_3-5_Luckenwalde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lindenstraße_3-5_Luckenwalde.jpg/1920px-Lindenstraße_3-5_Luckenwalde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lindenstraße_3-5_Luckenwalde.jpg/1920px-Lindenstraße_3-5_Luckenwalde.jpg---
 
 ## Overview
 

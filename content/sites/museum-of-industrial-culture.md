@@ -4,13 +4,13 @@ site_name: "Museum of Industrial Culture"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1423672"
 latitude: 49.4611
 longitude: 11.1108
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Museum_Industriekultur_Nürnberg_2.jpg/400px-Museum_Industriekultur_Nürnberg_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Museum_Industriekultur_Nürnberg_2.jpg/800px-Museum_Industriekultur_Nürnberg_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Museum_Industriekultur_Nürnberg_2.jpg/1200px-Museum_Industriekultur_Nürnberg_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Museum_Industriekultur_Nürnberg_2.jpg/1920px-Museum_Industriekultur_Nürnberg_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Museum_Industriekultur_Nürnberg_2.jpg/1920px-Museum_Industriekultur_Nürnberg_2.jpg---
 
 ## Overview
 

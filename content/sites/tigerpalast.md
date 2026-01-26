@@ -4,13 +4,13 @@ site_name: "tigerpalast"
 date: 2026-01-26
 draft: false
 description: "Varieté-Theater in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q977826"
 latitude: 50.1154
 longitude: 8.69156
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/400px-Tigerpalast_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/800px-Tigerpalast_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/1200px-Tigerpalast_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/1920px-Tigerpalast_Frankfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/1920px-Tigerpalast_Frankfurt.jpg---
 
 ## Overview
 

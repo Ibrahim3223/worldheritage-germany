@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6326-0355 in Gaukönigshofen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Gaukönigshofen, Würzburg, Lower Franconia, Bavaria, Germany"
-region: "Gaukönigshofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Gaukönigshofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98168964"
 latitude: 49.646161629
 longitude: 9.999065452
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Haseldorf manor"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Haseldorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Haseldorf"
+  - "Lower Saxony"
 wikidata_id: "Q1614066"
 latitude: 53.632630555
 longitude: 9.597725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/400px-Haseldorf_Herrenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/800px-Haseldorf_Herrenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1200px-Haseldorf_Herrenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1920px-Haseldorf_Herrenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1920px-Haseldorf_Herrenhaus.jpg---
 
 ## Overview
 

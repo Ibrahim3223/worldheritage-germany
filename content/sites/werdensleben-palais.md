@@ -4,13 +4,13 @@ site_name: "Werdensleben palais"
 date: 2026-01-26
 draft: false
 description: "building in Staßfurt, Germany"
-region: "Staßfurt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Staßfurt"
+  - "Brandenburg"
 wikidata_id: "Q1689010"
 latitude: 51.8521
 longitude: 11.5844
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Stadtpalais_Werdensleben.JPG/400px-Stadtpalais_Werdensleben.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Stadtpalais_Werdensleben.JPG/800px-Stadtpalais_Werdensleben.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Stadtpalais_Werdensleben.JPG/1200px-Stadtpalais_Werdensleben.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Stadtpalais_Werdensleben.JPG/1920px-Stadtpalais_Werdensleben.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Stadtpalais_Werdensleben.JPG/1920px-Stadtpalais_Werdensleben.JPG---
 
 ## Overview
 

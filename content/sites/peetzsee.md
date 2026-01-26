@@ -4,13 +4,13 @@ site_name: "Peetzsee"
 date: 2026-01-26
 draft: false
 description: "lake in Oder-Spree District, Brandenburg, Germany"
-region: "Oder-Spree District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Oder-Spree District"
+  - "Brandenburg"
 wikidata_id: "Q247353"
 latitude: 52.423861111
 longitude: 13.833666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/400px-Peetzsee_vom_Südufer_nach_links.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/800px-Peetzsee_vom_Südufer_nach_links.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/1200px-Peetzsee_vom_Südufer_nach_links.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/1920px-Peetzsee_vom_Südufer_nach_links.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/1920px-Peetzsee_vom_Südufer_nach_links.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Der Hartkamp"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Ostrhauderfehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Ostrhauderfehn"
+  - "Lower Saxony"
 wikidata_id: "Q1194118"
 latitude: 53.1908
 longitude: 7.62194
 images:
-  []
----
+  []---
 
 ## Overview
 

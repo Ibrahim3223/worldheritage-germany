@@ -4,13 +4,13 @@ site_name: "Fahlhorst church"
 date: 2026-01-26
 draft: false
 description: "listed church and school building in Fahlhorst, Nuthetal, Brandenburg state of Germany"
-region: "Nuthetal"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Nuthetal"
+  - "Berlin"
 wikidata_id: "Q1244264"
 latitude: 52.3079333
 longitude: 13.1611607
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/400px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/800px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/1200px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/1920px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/1920px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg---
 
 ## Overview
 

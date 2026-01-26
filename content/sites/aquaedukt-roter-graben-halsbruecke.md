@@ -4,19 +4,18 @@ site_name: "Aquädukt (Roter Graben) Halsbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Halsbrücke"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Halsbrücke"
+  - "Saxony"
 wikidata_id: "Q49447843"
 latitude: 50.9562527
 longitude: 13.3489417
 images:
-  []
----
+  []---
 
 ## Overview
 

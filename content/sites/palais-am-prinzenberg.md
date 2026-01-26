@@ -4,13 +4,13 @@ site_name: "Palais am Prinzenberg"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Meiningen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Meiningen"
+  - "Bavaria"
 wikidata_id: "Q19298170"
 latitude: 50.56958333
 longitude: 10.40763889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/400px-PalaisPrinzenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/800px-PalaisPrinzenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/1200px-PalaisPrinzenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/1920px-PalaisPrinzenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/1920px-PalaisPrinzenberg.jpg---
 
 ## Overview
 

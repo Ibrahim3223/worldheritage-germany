@@ -4,13 +4,13 @@ site_name: "Evangelisch-reformierte Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Blumenthal"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Blumenthal"
+  - "Bremen"
 wikidata_id: "Q1380077"
 latitude: 53.1825
 longitude: 8.58333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg/400px-Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg/800px-Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg/1200px-Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg/1920px-Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg/1920px-Bremen-Blumenthal_evang-reformierte-Kirche_01.jpg---
 
 ## Overview
 

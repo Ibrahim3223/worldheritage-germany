@@ -4,13 +4,13 @@ site_name: "Altenwaldeck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Irschenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Irschenberg"
+  - "Bavaria"
 wikidata_id: "Q437684"
 latitude: 47.7953
 longitude: 11.9425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altenwaldeck_Nov_2008.jpg/400px-Altenwaldeck_Nov_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altenwaldeck_Nov_2008.jpg/800px-Altenwaldeck_Nov_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altenwaldeck_Nov_2008.jpg/1200px-Altenwaldeck_Nov_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altenwaldeck_Nov_2008.jpg/1920px-Altenwaldeck_Nov_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altenwaldeck_Nov_2008.jpg/1920px-Altenwaldeck_Nov_2008.jpg---
 
 ## Overview
 

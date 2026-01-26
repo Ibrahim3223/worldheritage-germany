@@ -4,13 +4,13 @@ site_name: "Berliner Tor (Templin)"
 date: 2026-01-26
 draft: false
 description: "city gate in Templin, Brandenburg state, Germany"
-region: "Templin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Templin"
+  - "Brandenburg"
 wikidata_id: "Q821823"
 latitude: 53.1181
 longitude: 13.4986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/400px-2016-09-23_Berliner_Tor_Templin_027.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/800px-2016-09-23_Berliner_Tor_Templin_027.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/1200px-2016-09-23_Berliner_Tor_Templin_027.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/1920px-2016-09-23_Berliner_Tor_Templin_027.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/1920px-2016-09-23_Berliner_Tor_Templin_027.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Aquädukt Obernau"
 date: 2026-01-26
 draft: false
 description: "Römischer Aquädukt"
-region: "Neustetten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Neustetten"
+  - "Baden-Württemberg"
 wikidata_id: "Q115928040"
 latitude: 48.463573
 longitude: 8.862285
 images:
-  []
----
+  []---
 
 ## Overview
 

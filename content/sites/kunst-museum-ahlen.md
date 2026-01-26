@@ -4,13 +4,13 @@ site_name: "Kunst-Museum Ahlen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ahlen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ahlen"
+  - "Lower Saxony"
 wikidata_id: "Q15824604"
 latitude: 51.763212
 longitude: 7.885973
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kunstmuseum_Ahlen.nnw.jpg/400px-Kunstmuseum_Ahlen.nnw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kunstmuseum_Ahlen.nnw.jpg/800px-Kunstmuseum_Ahlen.nnw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kunstmuseum_Ahlen.nnw.jpg/1200px-Kunstmuseum_Ahlen.nnw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kunstmuseum_Ahlen.nnw.jpg/1920px-Kunstmuseum_Ahlen.nnw.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kunstmuseum_Ahlen.nnw.jpg/1920px-Kunstmuseum_Ahlen.nnw.jpg---
 
 ## Overview
 

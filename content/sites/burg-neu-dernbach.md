@@ -4,13 +4,13 @@ site_name: "Burg Neu-Dernbach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Endbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Endbach"
+  - "Hesse"
 wikidata_id: "Q1013229"
 latitude: 50.7806
 longitude: 8.50583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dernbach_Burgmauer_086.jpg/400px-Dernbach_Burgmauer_086.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dernbach_Burgmauer_086.jpg/800px-Dernbach_Burgmauer_086.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dernbach_Burgmauer_086.jpg/1200px-Dernbach_Burgmauer_086.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dernbach_Burgmauer_086.jpg/1920px-Dernbach_Burgmauer_086.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dernbach_Burgmauer_086.jpg/1920px-Dernbach_Burgmauer_086.jpg---
 
 ## Overview
 

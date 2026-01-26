@@ -4,13 +4,13 @@ site_name: "Feldbahnmuseum Oekoven"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Rommerskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rommerskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1402333"
 latitude: 51.0621
 longitude: 6.65125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/400px-Neue_Museumshalle_Gillbachbahn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/800px-Neue_Museumshalle_Gillbachbahn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/1200px-Neue_Museumshalle_Gillbachbahn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/1920px-Neue_Museumshalle_Gillbachbahn.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/1920px-Neue_Museumshalle_Gillbachbahn.JPG---
 
 ## Overview
 

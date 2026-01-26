@@ -4,13 +4,13 @@ site_name: "Capitol Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Flingern, Düsseldorf, North Rhine-Westphalia, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1034700"
 latitude: 51.2236
 longitude: 6.79939
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/400px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/800px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/1200px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/1920px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/1920px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg---
 
 ## Overview
 

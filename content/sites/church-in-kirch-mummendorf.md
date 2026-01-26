@@ -4,13 +4,13 @@ site_name: "Church in Kirch Mummendorf"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stepenitztal"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stepenitztal"
+  - "Lower Saxony"
 wikidata_id: "Q1244410"
 latitude: 53.8705
 longitude: 11.047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/400px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/800px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1200px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1920px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1920px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg---
 
 ## Overview
 

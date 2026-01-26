@@ -4,13 +4,13 @@ site_name: "Schloss Nöthnitz"
 date: 2026-01-26
 draft: false
 description: "château near Dresden, Germany"
-region: "Bannewitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bannewitz"
+  - "Saxony"
 wikidata_id: "Q873650"
 latitude: 51.0039
 longitude: 13.7304
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/400px-Schloss-Noethnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/800px-Schloss-Noethnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/1200px-Schloss-Noethnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/1920px-Schloss-Noethnitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/1920px-Schloss-Noethnitz.jpg---
 
 ## Overview
 

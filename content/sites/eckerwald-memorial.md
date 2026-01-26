@@ -4,13 +4,13 @@ site_name: "Eckerwald Memorial"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Schömberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Schömberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1497523"
 latitude: 48.1798
 longitude: 8.72057
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/400px-Gedenkstaette_Eckerwald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/800px-Gedenkstaette_Eckerwald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1200px-Gedenkstaette_Eckerwald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1920px-Gedenkstaette_Eckerwald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1920px-Gedenkstaette_Eckerwald.jpg---
 
 ## Overview
 

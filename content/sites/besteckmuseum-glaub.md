@@ -4,13 +4,13 @@ site_name: "Besteckmuseum Glaub"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q24203138"
 latitude: 50.94144
 longitude: 6.95161
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/400px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/800px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/1200px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/1920px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/1920px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg---
 
 ## Overview
 

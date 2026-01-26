@@ -4,13 +4,13 @@ site_name: "Augusteum"
 date: 2026-01-26
 draft: false
 description: "art museum in Oldenburg founded in 1876 by Peter II, Grand Duke of Oldenburg and named after his father the art collector"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q767473"
 latitude: 53.1362
 longitude: 8.21659
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/400px-Augusteum_Oldenburg_20141230.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/800px-Augusteum_Oldenburg_20141230.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1200px-Augusteum_Oldenburg_20141230.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1920px-Augusteum_Oldenburg_20141230.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1920px-Augusteum_Oldenburg_20141230.jpg---
 
 ## Overview
 

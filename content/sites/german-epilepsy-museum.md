@@ -4,19 +4,18 @@ site_name: "German Epilepsy Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Kehl, Germany"
-region: "Kehl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kehl"
+  - "Baden-Württemberg"
 wikidata_id: "Q36413521"
 latitude: 48.565411
 longitude: 7.871753
 images:
-  []
----
+  []---
 
 ## Overview
 

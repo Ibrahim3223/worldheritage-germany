@@ -4,13 +4,13 @@ site_name: "Amselgrund"
 date: 2026-01-26
 draft: false
 description: "valley"
-region: "Lohmen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Lohmen"
+  - "Saxony"
 wikidata_id: "Q477974"
 latitude: 50.969166666
 longitude: 14.079166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/400px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/800px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1200px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1920px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1920px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg---
 
 ## Overview
 

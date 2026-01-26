@@ -4,13 +4,13 @@ site_name: "Christian Weise Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Zittau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Zittau"
+  - "Saxony"
 wikidata_id: "Q1078672"
 latitude: 50.8957
 longitude: 14.8104
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/400px-Christian-Weise-Bibliothek_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/800px-Christian-Weise-Bibliothek_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/1200px-Christian-Weise-Bibliothek_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/1920px-Christian-Weise-Bibliothek_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/1920px-Christian-Weise-Bibliothek_1.jpg---
 
 ## Overview
 

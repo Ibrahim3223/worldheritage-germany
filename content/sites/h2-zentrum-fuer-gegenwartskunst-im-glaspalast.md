@@ -4,19 +4,18 @@ site_name: "H2--Zentrum für Gegenwartskunst im Glaspalast"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1562673"
 latitude: 48.3675
 longitude: 10.9197
 images:
-  []
----
+  []---
 
 ## Overview
 

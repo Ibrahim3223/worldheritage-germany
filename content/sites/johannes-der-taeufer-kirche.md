@@ -4,13 +4,13 @@ site_name: "Johannes-der-Täufer-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Wiesens, Germany"
-region: "Aurich"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aurich"
+  - "Lower Saxony"
 wikidata_id: "Q1697136"
 latitude: 53.4525
 longitude: 7.55588
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/400px-Kirche_Wiesens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/800px-Kirche_Wiesens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/1200px-Kirche_Wiesens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/1920px-Kirche_Wiesens.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/1920px-Kirche_Wiesens.jpg---
 
 ## Overview
 

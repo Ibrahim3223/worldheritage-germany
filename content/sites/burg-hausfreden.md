@@ -4,13 +4,13 @@ site_name: "Burg Hausfreden"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Lower Saxony, Germany"
-region: "Freden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Freden"
+  - "Lower Saxony"
 wikidata_id: "Q1012234"
 latitude: 51.9165
 longitude: 9.91813
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/400px-Hausfreden_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/800px-Hausfreden_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/1200px-Hausfreden_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/1920px-Hausfreden_Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/1920px-Hausfreden_Panorama.jpg---
 
 ## Overview
 

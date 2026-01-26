@@ -4,13 +4,13 @@ site_name: "Haidhausen-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Au-Haidhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Au-Haidhausen"
+  - "Bavaria"
 wikidata_id: "Q1569133"
 latitude: 48.1338
 longitude: 11.6014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/400px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/800px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/1200px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/1920px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/1920px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg---
 
 ## Overview
 

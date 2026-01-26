@@ -4,19 +4,18 @@ site_name: "Syker Vorwerk"
 date: 2026-01-26
 draft: false
 description: "art museum in Syke, Germany"
-region: "Syke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Syke"
+  - "Lower Saxony"
 wikidata_id: "Q76636613"
 latitude: 52.913394
 longitude: 8.842014
 images:
-  []
----
+  []---
 
 ## Overview
 

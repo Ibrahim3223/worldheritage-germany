@@ -4,13 +4,13 @@ site_name: "Christus-König-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
-region: "Brackenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brackenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1087174"
 latitude: 49.0778
 longitude: 9.07422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/400px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/800px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/1200px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/1920px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/1920px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg---
 
 ## Overview
 

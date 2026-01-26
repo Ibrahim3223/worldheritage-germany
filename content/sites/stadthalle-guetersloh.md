@@ -4,13 +4,13 @@ site_name: "Stadthalle Gütersloh"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall, arts and convention centre in Gütersloh, Germany"
-region: "Gütersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Gütersloh"
+  - "Lower Saxony"
 wikidata_id: "Q15130095"
 latitude: 51.90648
 longitude: 8.37171
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/400px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/800px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/1200px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/1920px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/1920px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg---
 
 ## Overview
 

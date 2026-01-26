@@ -4,13 +4,13 @@ site_name: "Freiligrathstraße 8"
 date: 2026-01-26
 draft: false
 description: "town hall in Oybin"
-region: "Oybin"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Oybin"
+  - "Saxony"
 wikidata_id: "Q49351000"
 latitude: 50.840872
 longitude: 14.746597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/400px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/800px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/1200px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/1920px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/1920px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg---
 
 ## Overview
 

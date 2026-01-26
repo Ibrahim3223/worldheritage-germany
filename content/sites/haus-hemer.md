@@ -4,13 +4,13 @@ site_name: "Haus Hemer"
 date: 2026-01-26
 draft: false
 description: "manor house in Hemer, Germany"
-region: "Hemer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Hemer"
+  - "Lower Saxony"
 wikidata_id: "Q1526675"
 latitude: 51.3956
 longitude: 7.76009
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/400px-Hemer-HausHemer1-Asio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/800px-Hemer-HausHemer1-Asio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/1200px-Hemer-HausHemer1-Asio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/1920px-Hemer-HausHemer1-Asio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/1920px-Hemer-HausHemer1-Asio.jpg---
 
 ## Overview
 

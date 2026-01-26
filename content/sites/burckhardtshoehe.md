@@ -4,13 +4,13 @@ site_name: "Burckhardtshöhe"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hoyerhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hoyerhagen"
+  - "Lower Saxony"
 wikidata_id: "Q1010407"
 latitude: 52.8141
 longitude: 9.0578
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/400px-Burckhardtshöhe_-_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/800px-Burckhardtshöhe_-_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/1200px-Burckhardtshöhe_-_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/1920px-Burckhardtshöhe_-_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/1920px-Burckhardtshöhe_-_01.jpg---
 
 ## Overview
 

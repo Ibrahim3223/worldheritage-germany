@@ -4,19 +4,18 @@ site_name: "Bogenbrücke mit Geländer Heeselicht"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Stolpen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Stolpen"
+  - "Saxony"
 wikidata_id: "Q49443915"
 latitude: 50.99641375
 longitude: 14.10328236
 images:
-  []
----
+  []---
 
 ## Overview
 

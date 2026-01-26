@@ -4,13 +4,13 @@ site_name: "St. Nikolai"
 date: 2026-01-26
 draft: false
 description: "church building in Quedlinburg, Saxony-Anhalt, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q472554"
 latitude: 51.789561
 longitude: 11.149628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/400px-Quedlinburg_St._Nikolai_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/800px-Quedlinburg_St._Nikolai_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/1200px-Quedlinburg_St._Nikolai_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/1920px-Quedlinburg_St._Nikolai_10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/1920px-Quedlinburg_St._Nikolai_10.jpg---
 
 ## Overview
 

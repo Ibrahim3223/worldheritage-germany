@@ -4,13 +4,13 @@ site_name: "Teatro Solln"
 date: 2026-01-26
 draft: false
 description: "German restaurant and theatre"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1533092"
 latitude: 48.070932992
 longitude: 11.514669118
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/400px-Gaststätte_Iberl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/800px-Gaststätte_Iberl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/1200px-Gaststätte_Iberl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/1920px-Gaststätte_Iberl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/1920px-Gaststätte_Iberl.jpg---
 
 ## Overview
 

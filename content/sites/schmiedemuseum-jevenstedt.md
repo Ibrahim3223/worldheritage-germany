@@ -4,19 +4,18 @@ site_name: "Schmiedemuseum Jevenstedt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Jevenstedt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jevenstedt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q27866025"
 latitude: 54.2341
 longitude: 9.6693
 images:
-  []
----
+  []---
 
 ## Overview
 

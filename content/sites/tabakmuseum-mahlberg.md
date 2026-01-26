@@ -4,19 +4,18 @@ site_name: "Tabakmuseum Mahlberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mahlberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mahlberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2386256"
 latitude: 48.2855
 longitude: 7.80716
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Mark"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hamm"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hamm"
+  - "Hesse"
 wikidata_id: "Q1013072"
 latitude: 51.6822
 longitude: 7.84667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Hamm_2013.jpg/400px-Burghügel_Hamm_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Hamm_2013.jpg/800px-Burghügel_Hamm_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Hamm_2013.jpg/1200px-Burghügel_Hamm_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Hamm_2013.jpg/1920px-Burghügel_Hamm_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Hamm_2013.jpg/1920px-Burghügel_Hamm_2013.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dampf- und Traktorentreffen im Freilichtmuseum am Kiekeberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rosengarten"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rosengarten"
+  - "Hamburg"
 wikidata_id: "Q1158755"
 latitude: 53.4398
 longitude: 9.9038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/400px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/800px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/1200px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/1920px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/1920px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Königshof (Krempe)"
 date: 2026-01-26
 draft: false
 description: "Wohnhaus in Krempe in Schleswig-Holstein"
-region: "Krempe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Krempe"
+  - "Lower Saxony"
 wikidata_id: "Q1796375"
 latitude: 53.8359
 longitude: 9.48731
 images:
-  []
----
+  []---
 
 ## Overview
 

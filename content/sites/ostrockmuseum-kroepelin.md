@@ -4,13 +4,13 @@ site_name: "Ostrockmuseum Kröpelin"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kröpelin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kröpelin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q22693398"
 latitude: 54.07153171
 longitude: 11.79322377
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/400px-ORM_151016_Hauptstrasse5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/800px-ORM_151016_Hauptstrasse5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/1200px-ORM_151016_Hauptstrasse5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/1920px-ORM_151016_Hauptstrasse5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/1920px-ORM_151016_Hauptstrasse5.jpg---
 
 ## Overview
 

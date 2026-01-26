@@ -4,13 +4,13 @@ site_name: "Bungsberg"
 date: 2026-01-26
 draft: false
 description: "highest point in the German state of Schleswig-Holstein"
-region: "Schönwalde am Bungsberg"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Schönwalde am Bungsberg"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q3428"
 latitude: 54.21083333
 longitude: 10.72388889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/400px-Bungsberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/800px-Bungsberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1200px-Bungsberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1920px-Bungsberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1920px-Bungsberg.JPG---
 
 ## Overview
 

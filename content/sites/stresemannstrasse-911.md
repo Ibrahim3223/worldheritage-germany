@@ -4,13 +4,13 @@ site_name: "Stresemannstraße 9–11"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q1146286"
 latitude: 51.7802
 longitude: 11.1533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/400px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/800px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/1200px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/1920px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/1920px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG---
 
 ## Overview
 

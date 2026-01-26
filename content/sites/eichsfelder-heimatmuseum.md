@@ -4,19 +4,18 @@ site_name: "Eichsfelder Heimatmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heilbad Heiligenstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heilbad Heiligenstadt"
+  - "Hesse"
 wikidata_id: "Q20482100"
 latitude: 51.3778566
 longitude: 10.1363024
 images:
-  []
----
+  []---
 
 ## Overview
 

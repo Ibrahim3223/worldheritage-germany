@@ -4,13 +4,13 @@ site_name: "Hildesheim cathedral library"
 date: 2026-01-26
 draft: false
 description: "Library of the Bishopric of Hildesheim (Germany)"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q1236928"
 latitude: 52.15
 longitude: 9.9475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/400px-Hildesheim_Dombibliothek_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/800px-Hildesheim_Dombibliothek_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1200px-Hildesheim_Dombibliothek_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1920px-Hildesheim_Dombibliothek_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1920px-Hildesheim_Dombibliothek_02.jpg---
 
 ## Overview
 

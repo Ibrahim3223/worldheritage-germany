@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ostertor_-_Bremen_-_1810.jpg/400px-Ostertor_-_Bremen_-_1810.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ostertor_-_Bremen_-_1810.jpg/800px-Ostertor_-_Bremen_-_1810.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ostertor_-_Bremen_-_1810.jpg/1200px-Ostertor_-_Bremen_-_1810.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ostertor_-_Bremen_-_1810.jpg/1920px-Ostertor_-_Bremen_-_1810.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ostertor_-_Bremen_-_1810.jpg/1920px-Ostertor_-_Bremen_-_1810.jpg---
 
 ## Overview
 

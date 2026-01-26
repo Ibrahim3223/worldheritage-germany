@@ -4,13 +4,13 @@ site_name: "Burg Hohentrüdingen"
 date: 2026-01-26
 draft: false
 description: "building in Heidenheim, Middle Franconia, Germany"
-region: "Q548982"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Q548982"
+  - "Bavaria"
 wikidata_id: "Q1012451"
 latitude: 49.0012
 longitude: 10.6975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hohentrüdingen_St._Johannes_d._Täufer_004.jpg/400px-Hohentrüdingen_St._Johannes_d._Täufer_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hohentrüdingen_St._Johannes_d._Täufer_004.jpg/800px-Hohentrüdingen_St._Johannes_d._Täufer_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hohentrüdingen_St._Johannes_d._Täufer_004.jpg/1200px-Hohentrüdingen_St._Johannes_d._Täufer_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hohentrüdingen_St._Johannes_d._Täufer_004.jpg/1920px-Hohentrüdingen_St._Johannes_d._Täufer_004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hohentrüdingen_St._Johannes_d._Täufer_004.jpg/1920px-Hohentrüdingen_St._Johannes_d._Täufer_004.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kirche (Berlin-Kreuzberg)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1594935"
 latitude: 52.496336
 longitude: 13.395986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/400px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/800px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1200px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1920px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1920px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg---
 
 ## Overview
 

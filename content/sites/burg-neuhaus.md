@@ -4,13 +4,13 @@ site_name: "Burg Neuhaus"
 date: 2026-01-26
 draft: false
 description: "castle ruin near Igersheim, Germany"
-region: "Igersheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Igersheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013280"
 latitude: 49.4875
 longitude: 9.81028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg/400px-Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg/800px-Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg/1200px-Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg/1920px-Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg/1920px-Burg_Neuhaus_(Igersheim)_Luftaufnahme_2005.jpg---
 
 ## Overview
 

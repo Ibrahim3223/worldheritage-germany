@@ -4,19 +4,18 @@ site_name: "Klingendes Museum Riedenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629282"
 latitude: 48.962269
 longitude: 11.683608
 images:
-  []
----
+  []---
 
 ## Overview
 

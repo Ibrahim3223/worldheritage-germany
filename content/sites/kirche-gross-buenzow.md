@@ -4,13 +4,13 @@ site_name: "Kirche Groß Bünzow"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Deutschland"
-region: "Klein Bünzow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Klein Bünzow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742543"
 latitude: 53.9344
 longitude: 13.6589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/400px-Groß_Bünzow_Kirche_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/800px-Groß_Bünzow_Kirche_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/1200px-Groß_Bünzow_Kirche_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/1920px-Groß_Bünzow_Kirche_Südseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/1920px-Groß_Bünzow_Kirche_Südseite.jpg---
 
 ## Overview
 

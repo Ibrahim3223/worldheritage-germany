@@ -4,13 +4,13 @@ site_name: "E.T.A.-Hoffmann-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Bamberg, Germany"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q869649"
 latitude: 49.8906
 longitude: 10.8915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/400px-Bamberg_Theater_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/800px-Bamberg_Theater_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/1200px-Bamberg_Theater_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/1920px-Bamberg_Theater_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/1920px-Bamberg_Theater_Eingang.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Montclair"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mettlach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mettlach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013137"
 latitude: 49.4956
 longitude: 6.55778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/400px-Montclair_neu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/800px-Montclair_neu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/1200px-Montclair_neu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/1920px-Montclair_neu.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/1920px-Montclair_neu.jpg---
 
 ## Overview
 

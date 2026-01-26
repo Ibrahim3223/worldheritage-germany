@@ -4,13 +4,13 @@ site_name: "Alpsee"
 date: 2026-01-26
 draft: false
 description: "lake in Ostallgäu, Bavaria, Germany"
-region: "Ostallgäu"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ostallgäu"
+  - "Bavaria"
 wikidata_id: "Q175404"
 latitude: 47.551111111
 longitude: 10.723611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg---
 
 ## Overview
 

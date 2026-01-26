@@ -4,13 +4,13 @@ site_name: "Osterather Windmühle"
 date: 2026-01-26
 draft: false
 description: "stillgelegte Holländerwindmühle im Meerbuscher Stadtteil Osterath"
-region: "Meerbusch"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Meerbusch"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1399763"
 latitude: 51.2677
 longitude: 6.60892
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/400px-Osterrather_Windmühle_West.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/800px-Osterrather_Windmühle_West.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/1200px-Osterrather_Windmühle_West.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/1920px-Osterrather_Windmühle_West.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/1920px-Osterrather_Windmühle_West.JPG---
 
 ## Overview
 

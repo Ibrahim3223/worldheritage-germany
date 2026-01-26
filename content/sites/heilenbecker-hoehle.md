@@ -4,19 +4,18 @@ site_name: "Heilenbecker Höhle"
 date: 2026-01-26
 draft: false
 description: "cave"
-region: "Ennepetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Ennepetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1594817"
 latitude: 51.2936
 longitude: 7.345
 images:
-  []
----
+  []---
 
 ## Overview
 

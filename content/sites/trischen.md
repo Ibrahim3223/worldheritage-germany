@@ -4,13 +4,13 @@ site_name: "Trischen"
 date: 2026-01-26
 draft: false
 description: "uninhabited island in the Meldorf Bay"
-region: "Friedrichskoog"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Friedrichskoog"
+  - "Schleswig-Holstein"
 wikidata_id: "Q20666"
 latitude: 54.059444444
 longitude: 8.683333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg/400px-13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg/800px-13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg/1200px-13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg/1920px-13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg/1920px-13-09-29-nordfriesisches-wattenmeer-RalfR-11.jpg---
 
 ## Overview
 

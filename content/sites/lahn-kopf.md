@@ -4,19 +4,18 @@ site_name: "Lahn-Kopf"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "North Rhine-Westphalia"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "North Rhine-Westphalia"
+  - "Hesse"
 wikidata_id: "Q1396361"
 latitude: 50.896111111
 longitude: 8.245833333
 images:
-  []
----
+  []---
 
 ## Overview
 

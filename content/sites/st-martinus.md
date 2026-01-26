@@ -4,13 +4,13 @@ site_name: "St. Martinus"
 date: 2026-01-26
 draft: false
 description: "church building in Qualburg, Bedburg-Hau, North Rhine-Westphalia, Germany"
-region: "Bedburg-Hau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bedburg-Hau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2321326"
 latitude: 51.7776
 longitude: 6.17828
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St_martinus_qualburg_2.jpg/400px-St_martinus_qualburg_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St_martinus_qualburg_2.jpg/800px-St_martinus_qualburg_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St_martinus_qualburg_2.jpg/1200px-St_martinus_qualburg_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St_martinus_qualburg_2.jpg/1920px-St_martinus_qualburg_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St_martinus_qualburg_2.jpg/1920px-St_martinus_qualburg_2.jpg---
 
 ## Overview
 

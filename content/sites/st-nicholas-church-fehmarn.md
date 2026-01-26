@@ -4,13 +4,13 @@ site_name: "St. Nicholas Church, Fehmarn"
 date: 2026-01-26
 draft: false
 description: "church building in Schleswig-Holstein state, Germany"
-region: "Fehmarn"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Fehmarn"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2321874"
 latitude: 54.4358
 longitude: 11.1961
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_StNicolai_n_O.JPG/400px-Burg_StNicolai_n_O.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_StNicolai_n_O.JPG/800px-Burg_StNicolai_n_O.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_StNicolai_n_O.JPG/1200px-Burg_StNicolai_n_O.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_StNicolai_n_O.JPG/1920px-Burg_StNicolai_n_O.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_StNicolai_n_O.JPG/1920px-Burg_StNicolai_n_O.JPG---
 
 ## Overview
 

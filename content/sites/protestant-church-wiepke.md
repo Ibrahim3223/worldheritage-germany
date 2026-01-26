@@ -4,13 +4,13 @@ site_name: "Protestant Church (Wiepke)"
 date: 2026-01-26
 draft: false
 description: "church building in Gardelegen, Altmarkkreis Salzwedel, Saxony-Anhalt, Germany"
-region: "Gardelegen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gardelegen"
+  - "Brandenburg"
 wikidata_id: "Q1244815"
 latitude: 52.5996
 longitude: 11.3335
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dorfkirche_Wiepke.JPG/400px-Dorfkirche_Wiepke.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dorfkirche_Wiepke.JPG/800px-Dorfkirche_Wiepke.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dorfkirche_Wiepke.JPG/1200px-Dorfkirche_Wiepke.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dorfkirche_Wiepke.JPG/1920px-Dorfkirche_Wiepke.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dorfkirche_Wiepke.JPG/1920px-Dorfkirche_Wiepke.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Library of Contemporary History"
 date: 2026-01-26
 draft: false
 description: "Specialist libraries for contemporary history, part of the Württembergische Landesbibliothek Stuttgart"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q856554"
 latitude: 48.7744278
 longitude: 9.186869
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/400px-Wuerttembergische_landesbibliothek_2005_05a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/800px-Wuerttembergische_landesbibliothek_2005_05a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1200px-Wuerttembergische_landesbibliothek_2005_05a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1920px-Wuerttembergische_landesbibliothek_2005_05a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1920px-Wuerttembergische_landesbibliothek_2005_05a.jpg---
 
 ## Overview
 

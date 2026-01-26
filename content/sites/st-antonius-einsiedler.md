@@ -4,13 +4,13 @@ site_name: "St. Antonius Einsiedler"
 date: 2026-01-26
 draft: false
 description: "church building in Finnentrop, Germany"
-region: "Finnentrop"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Finnentrop"
+  - "Hesse"
 wikidata_id: "Q2317321"
 latitude: 51.1556
 longitude: 7.95198
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kirche-Heggen-1.jpg/400px-Kirche-Heggen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kirche-Heggen-1.jpg/800px-Kirche-Heggen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kirche-Heggen-1.jpg/1200px-Kirche-Heggen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kirche-Heggen-1.jpg/1920px-Kirche-Heggen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kirche-Heggen-1.jpg/1920px-Kirche-Heggen-1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Manor house in Ralow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus auf der Insel Rügen"
-region: "Dreschvitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Dreschvitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1557014"
 latitude: 54.4027
 longitude: 13.2386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/400px-Ralow_2017_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/800px-Ralow_2017_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/1200px-Ralow_2017_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/1920px-Ralow_2017_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/1920px-Ralow_2017_Osten.jpg---
 
 ## Overview
 

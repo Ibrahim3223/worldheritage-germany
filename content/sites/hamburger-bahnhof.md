@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg/400px-Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg/800px-Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg/1200px-Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg/1920px-Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg/1920px-Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg---
 
 ## Overview
 

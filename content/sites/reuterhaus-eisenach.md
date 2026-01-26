@@ -4,13 +4,13 @@ site_name: "Reuterhaus Eisenach"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1351312"
 latitude: 50.968
 longitude: 10.3196
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/400px-Eisenach_Reuterhaus_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/800px-Eisenach_Reuterhaus_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/1200px-Eisenach_Reuterhaus_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/1920px-Eisenach_Reuterhaus_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/1920px-Eisenach_Reuterhaus_2009.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Aquädukt von Krumhermersdorf"
 date: 2026-01-26
 draft: false
 description: "imposante Wasserbaubrücke, baugeschichtlich, technikgeschichtlich und ortsbildprägend von Bedeutung, dient der Trinkwasserzuführung von den Neunzehnha"
-region: "Zschopau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Zschopau"
+  - "Saxony"
 wikidata_id: "Q30101167"
 latitude: 50.744531
 longitude: 13.106443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/400px-Krumhermersdorf_wasserbruecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/800px-Krumhermersdorf_wasserbruecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/1200px-Krumhermersdorf_wasserbruecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/1920px-Krumhermersdorf_wasserbruecke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/1920px-Krumhermersdorf_wasserbruecke.jpg---
 
 ## Overview
 

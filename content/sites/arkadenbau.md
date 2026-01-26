@@ -4,13 +4,13 @@ site_name: "Arkadenbau"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-114-6 (0) in Bad Kissingen, Bavaria"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q14550942"
 latitude: 50.197577777
 longitude: 10.075388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/00_2669_Arkadenbau_in_Bad_Kissingen.jpg/400px-00_2669_Arkadenbau_in_Bad_Kissingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/00_2669_Arkadenbau_in_Bad_Kissingen.jpg/800px-00_2669_Arkadenbau_in_Bad_Kissingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/00_2669_Arkadenbau_in_Bad_Kissingen.jpg/1200px-00_2669_Arkadenbau_in_Bad_Kissingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/00_2669_Arkadenbau_in_Bad_Kissingen.jpg/1920px-00_2669_Arkadenbau_in_Bad_Kissingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/00_2669_Arkadenbau_in_Bad_Kissingen.jpg/1920px-00_2669_Arkadenbau_in_Bad_Kissingen.jpg---
 
 ## Overview
 

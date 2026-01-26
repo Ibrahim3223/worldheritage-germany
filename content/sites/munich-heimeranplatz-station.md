@@ -4,13 +4,13 @@ site_name: "Munich Heimeranplatz station"
 date: 2026-01-26
 draft: false
 description: "train and metro station in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q318733"
 latitude: 48.132961
 longitude: 11.5315
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/400px-Heimeranplatz_-_Subway,_platform.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/800px-Heimeranplatz_-_Subway,_platform.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/1200px-Heimeranplatz_-_Subway,_platform.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/1920px-Heimeranplatz_-_Subway,_platform.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/1920px-Heimeranplatz_-_Subway,_platform.JPG---
 
 ## Overview
 

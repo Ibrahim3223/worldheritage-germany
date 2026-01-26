@@ -4,13 +4,13 @@ site_name: "Zeche Brockhauser Tiefbau"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169697"
 latitude: 51.4313
 longitude: 7.20472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zeche_Brockhauser_Tiefbau01.jpg/400px-Zeche_Brockhauser_Tiefbau01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zeche_Brockhauser_Tiefbau01.jpg/800px-Zeche_Brockhauser_Tiefbau01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zeche_Brockhauser_Tiefbau01.jpg/1200px-Zeche_Brockhauser_Tiefbau01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zeche_Brockhauser_Tiefbau01.jpg/1920px-Zeche_Brockhauser_Tiefbau01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zeche_Brockhauser_Tiefbau01.jpg/1920px-Zeche_Brockhauser_Tiefbau01.jpg---
 
 ## Overview
 

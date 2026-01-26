@@ -4,19 +4,18 @@ site_name: "Rathausplatz 1"
 date: 2026-01-26
 draft: false
 description: "building in Elsfleth, Germany"
-region: "Elsfleth"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Elsfleth"
+  - "Lower Saxony"
 wikidata_id: "Q123465765"
 latitude: 53.235953
 longitude: 8.463551
 images:
-  []
----
+  []---
 
 ## Overview
 

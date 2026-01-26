@@ -4,13 +4,13 @@ site_name: "Erbbegräbnisstätte Schede"
 date: 2026-01-26
 draft: false
 description: "cemetery in Herdecke, Germany"
-region: "Herdecke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Herdecke"
+  - "Lower Saxony"
 wikidata_id: "Q1233200"
 latitude: 51.3953
 longitude: 7.37799
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/400px-HerdeckeErbbgrSchedeHarkort.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/800px-HerdeckeErbbgrSchedeHarkort.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/1200px-HerdeckeErbbgrSchedeHarkort.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/1920px-HerdeckeErbbgrSchedeHarkort.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/1920px-HerdeckeErbbgrSchedeHarkort.jpg---
 
 ## Overview
 

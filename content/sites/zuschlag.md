@@ -4,19 +4,18 @@ site_name: "Zuschlag"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Rahden, North Rhine-Westphalia, Germany"
-region: "Rahden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rahden"
+  - "Lower Saxony"
 wikidata_id: "Q230746"
 latitude: 52.4016
 longitude: 8.70303
 images:
-  []
----
+  []---
 
 ## Overview
 

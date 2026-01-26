@@ -4,13 +4,13 @@ site_name: "Bauhaus-Archiv"
 date: 2026-01-26
 draft: false
 description: "museum and archive in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q811389"
 latitude: 52.5061
 longitude: 13.3542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/400px-Bauhaus_archiv_berlijn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/800px-Bauhaus_archiv_berlijn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/1200px-Bauhaus_archiv_berlijn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/1920px-Bauhaus_archiv_berlijn.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/1920px-Bauhaus_archiv_berlijn.JPG---
 
 ## Overview
 

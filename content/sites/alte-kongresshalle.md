@@ -4,13 +4,13 @@ site_name: "Alte Kongresshalle"
 date: 2026-01-26
 draft: false
 description: "convention and multi-purpose hall in Munich, Germany"
-region: "Schwanthalerhöhe"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Schwanthalerhöhe"
+  - "Bavaria"
 wikidata_id: "Q435833"
 latitude: 48.1321
 longitude: 11.5444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/400px-Alte_Kongresshalle_Onlinestar2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/800px-Alte_Kongresshalle_Onlinestar2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1200px-Alte_Kongresshalle_Onlinestar2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1920px-Alte_Kongresshalle_Onlinestar2008.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1920px-Alte_Kongresshalle_Onlinestar2008.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Altenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle ruin in Maroldsweisach, Bavaria"
-region: "Maroldsweisach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Maroldsweisach"
+  - "Bavaria"
 wikidata_id: "Q1010752"
 latitude: 50.1715
 longitude: 10.7341
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HsBerge_AltensteinKernburg_2012.jpg/400px-HsBerge_AltensteinKernburg_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HsBerge_AltensteinKernburg_2012.jpg/800px-HsBerge_AltensteinKernburg_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HsBerge_AltensteinKernburg_2012.jpg/1200px-HsBerge_AltensteinKernburg_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HsBerge_AltensteinKernburg_2012.jpg/1920px-HsBerge_AltensteinKernburg_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HsBerge_AltensteinKernburg_2012.jpg/1920px-HsBerge_AltensteinKernburg_2012.jpg---
 
 ## Overview
 

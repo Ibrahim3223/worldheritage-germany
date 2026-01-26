@@ -4,13 +4,13 @@ site_name: "Schillerhaus Weimar"
 date: 2026-01-26
 draft: false
 description: "museum in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1325723"
 latitude: 50.9789
 longitude: 11.3278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/400px-Schiller_Weimar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/800px-Schiller_Weimar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/1200px-Schiller_Weimar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/1920px-Schiller_Weimar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/1920px-Schiller_Weimar.jpg---
 
 ## Overview
 

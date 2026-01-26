@@ -4,13 +4,13 @@ site_name: "St. Johann von Capistran"
 date: 2026-01-26
 draft: false
 description: "church building in Bogenhausen, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2319174"
 latitude: 48.14
 longitude: 11.6241
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/400px-St_Capistran_Muenchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/800px-St_Capistran_Muenchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/1200px-St_Capistran_Muenchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/1920px-St_Capistran_Muenchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/1920px-St_Capistran_Muenchen.jpg---
 
 ## Overview
 

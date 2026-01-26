@@ -4,19 +4,18 @@ site_name: "Youth Hostel Museum Altena Germany"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altena"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altena"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q16854753"
 latitude: 51.298654
 longitude: 7.6752
 images:
-  []
----
+  []---
 
 ## Overview
 

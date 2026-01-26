@@ -4,13 +4,13 @@ site_name: "St. Mary's Church, Mühlhausen"
 date: 2026-01-26
 draft: false
 description: "church building in Thuringia, Germany"
-region: "Mühlhausen/Thuringia"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mühlhausen/Thuringia"
+  - "Thuringia"
 wikidata_id: "Q1897837"
 latitude: 51.2101867
 longitude: 10.455193657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/400px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/800px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/1200px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/1920px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/1920px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg---
 
 ## Overview
 

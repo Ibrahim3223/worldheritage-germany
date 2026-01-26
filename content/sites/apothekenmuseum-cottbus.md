@@ -4,13 +4,13 @@ site_name: "Apothekenmuseum, Cottbus"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q897945"
 latitude: 51.7604
 longitude: 14.3344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/400px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/800px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1200px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1920px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1920px-Cottbus_07-2017_img31_Apothekenmuseum.jpg---
 
 ## Overview
 

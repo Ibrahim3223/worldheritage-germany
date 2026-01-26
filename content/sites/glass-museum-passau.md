@@ -4,13 +4,13 @@ site_name: "Glass Museum, Passau"
 date: 2026-01-26
 draft: false
 description: "Glass museum in Passau, Germany"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q1711655"
 latitude: 48.5753
 longitude: 13.4686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/400px-Glasmuseum_Passau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/800px-Glasmuseum_Passau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1200px-Glasmuseum_Passau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1920px-Glasmuseum_Passau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1920px-Glasmuseum_Passau.JPG---
 
 ## Overview
 

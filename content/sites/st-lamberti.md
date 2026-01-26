@@ -4,13 +4,13 @@ site_name: "St. Lamberti"
 date: 2026-01-26
 draft: false
 description: "church in Münster, Germany"
-region: "Münster-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q896612"
 latitude: 51.9629
 longitude: 7.62861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg/400px-Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg/800px-Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg/1200px-Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg/1920px-Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg/1920px-Münster,_St.-Lamberti-Kirche_--_2014_--_6860.jpg---
 
 ## Overview
 

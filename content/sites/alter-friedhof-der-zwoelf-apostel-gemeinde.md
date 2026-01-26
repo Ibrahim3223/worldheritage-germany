@@ -4,13 +4,13 @@ site_name: "Alter Friedhof der Zwölf-Apostel-Gemeinde"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q438234"
 latitude: 52.483661111
 longitude: 13.36545
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/400px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/800px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/1200px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/1920px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/1920px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg---
 
 ## Overview
 

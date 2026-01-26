@@ -4,13 +4,13 @@ site_name: "Grenzdenkmal Berkach"
 date: 2026-01-26
 draft: false
 description: "monument in Grabfeld, Thuringia, Germany"
-region: "Grabfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Grabfeld"
+  - "Bavaria"
 wikidata_id: "Q1281663"
 latitude: 50.4321
 longitude: 10.3905
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg/400px-Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg/800px-Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg/1200px-Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg/1920px-Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg/1920px-Grabfeld,_Berkach,_Grenzturm_BTv_2x2-20151102-010.jpg---
 
 ## Overview
 

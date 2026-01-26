@@ -4,13 +4,13 @@ site_name: "Kunsthaus Essen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1792439"
 latitude: 51.4258
 longitude: 7.05222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/400px-Kunsthaus_essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/800px-Kunsthaus_essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/1200px-Kunsthaus_essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/1920px-Kunsthaus_essen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/1920px-Kunsthaus_essen.jpg---
 
 ## Overview
 

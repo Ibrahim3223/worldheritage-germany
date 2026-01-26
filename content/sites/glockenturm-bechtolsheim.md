@@ -4,13 +4,13 @@ site_name: "Glockenturm Bechtolsheim"
 date: 2026-01-26
 draft: false
 description: "bell tower and later museum in Bechtolsheim"
-region: "Bechtolsheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bechtolsheim"
+  - "Hesse"
 wikidata_id: "Q1531937"
 latitude: 49.8021
 longitude: 8.1922
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/400px-Glockenturm-Bechtolsheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/800px-Glockenturm-Bechtolsheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/1200px-Glockenturm-Bechtolsheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/1920px-Glockenturm-Bechtolsheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/1920px-Glockenturm-Bechtolsheim.JPG---
 
 ## Overview
 

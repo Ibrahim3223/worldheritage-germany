@@ -4,13 +4,13 @@ site_name: "English building"
 date: 2026-01-26
 draft: false
 description: "Palace building in Heidelberg Castle"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q131639526"
 latitude: 49.4108306
 longitude: 8.7144722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heidelberger_Schloss_2017_6.jpg/400px-Heidelberger_Schloss_2017_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heidelberger_Schloss_2017_6.jpg/800px-Heidelberger_Schloss_2017_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heidelberger_Schloss_2017_6.jpg/1200px-Heidelberger_Schloss_2017_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heidelberger_Schloss_2017_6.jpg/1920px-Heidelberger_Schloss_2017_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Heidelberger_Schloss_2017_6.jpg/1920px-Heidelberger_Schloss_2017_6.jpg---
 
 ## Overview
 

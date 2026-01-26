@@ -4,13 +4,13 @@ site_name: "Ducal Museum Gotha"
 date: 2026-01-26
 draft: false
 description: "museum at Friedenstein Castle in Gotha, Thuringia, Germany"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1615331"
 latitude: 50.94354
 longitude: 10.70572
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Museum_in_Gotha_22.jpg/400px-Ducal_Museum_in_Gotha_22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Museum_in_Gotha_22.jpg/800px-Ducal_Museum_in_Gotha_22.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Museum_in_Gotha_22.jpg/1200px-Ducal_Museum_in_Gotha_22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Museum_in_Gotha_22.jpg/1920px-Ducal_Museum_in_Gotha_22.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Museum_in_Gotha_22.jpg/1920px-Ducal_Museum_in_Gotha_22.jpg---
 
 ## Overview
 

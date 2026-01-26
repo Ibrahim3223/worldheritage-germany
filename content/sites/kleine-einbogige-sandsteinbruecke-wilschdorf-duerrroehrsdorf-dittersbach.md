@@ -4,19 +4,18 @@ site_name: "Kleine einbogige Sandsteinbrücke Wilschdorf (Dürrröhrsdorf-Ditter
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Dürrröhrsdorf-Dittersbach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Dürrröhrsdorf-Dittersbach"
+  - "Saxony"
 wikidata_id: "Q49441660"
 latitude: 51.055799352
 longitude: 14.00273631
 images:
-  []
----
+  []---
 
 ## Overview
 

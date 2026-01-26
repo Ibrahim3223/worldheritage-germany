@@ -4,19 +4,18 @@ site_name: "Sowjetische Kriegsgräberstätte Bergen-Lohheide (Hörsten)"
 date: 2026-01-26
 draft: false
 description: "POW cemetery"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q2305016"
 latitude: 52.7633
 longitude: 9.89508
 images:
-  []
----
+  []---
 
 ## Overview
 

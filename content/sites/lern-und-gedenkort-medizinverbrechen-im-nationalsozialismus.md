@@ -4,19 +4,18 @@ site_name: "Lern- und Gedenkort „Medizinverbrechen im Nationalsozialismus“"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q50808648"
 latitude: 53.59374
 longitude: 9.97725
 images:
-  []
----
+  []---
 
 ## Overview
 

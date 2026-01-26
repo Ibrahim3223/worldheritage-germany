@@ -4,13 +4,13 @@ site_name: "Alte Stuhlfabrik"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuhausen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuhausen"
+  - "Saxony"
 wikidata_id: "Q27890110"
 latitude: 50.67673
 longitude: 13.4668
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stuhlabrik_002.JPG/400px-Stuhlabrik_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stuhlabrik_002.JPG/800px-Stuhlabrik_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stuhlabrik_002.JPG/1200px-Stuhlabrik_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stuhlabrik_002.JPG/1920px-Stuhlabrik_002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Stuhlabrik_002.JPG/1920px-Stuhlabrik_002.JPG---
 
 ## Overview
 

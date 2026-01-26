@@ -4,13 +4,13 @@ site_name: "Gürzenich"
 date: 2026-01-26
 draft: false
 description: "architectural structure in Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153450"
 latitude: 50.936672
 longitude: 6.958461
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/400px-Gürzenich_(9096-98).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/800px-Gürzenich_(9096-98).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/1200px-Gürzenich_(9096-98).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/1920px-Gürzenich_(9096-98).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/1920px-Gürzenich_(9096-98).jpg---
 
 ## Overview
 

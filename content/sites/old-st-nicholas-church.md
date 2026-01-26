@@ -4,13 +4,13 @@ site_name: "Old St. Nicholas church"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt (Frankfurt/Main), Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q436054"
 latitude: 50.110041666
 longitude: 8.682444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/400px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/800px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1200px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1920px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1920px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg---
 
 ## Overview
 

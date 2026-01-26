@@ -4,13 +4,13 @@ site_name: "Hagendenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Worms, Germany"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q1568502"
 latitude: 49.6332
 longitude: 8.37698
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/400px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/800px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/1200px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/1920px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/1920px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg---
 
 ## Overview
 

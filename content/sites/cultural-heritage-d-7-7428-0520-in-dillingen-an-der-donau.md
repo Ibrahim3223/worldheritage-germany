@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7428-0520 in Dillingen an der Donau"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Dillingen an der Donau, Dillingen, Swabia, Bavaria, Germany"
-region: "Dillingen an der Donau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Dillingen an der Donau"
+  - "Baden-Württemberg"
 wikidata_id: "Q98286582"
 latitude: 48.577168649
 longitude: 10.494244835
 images:
-  []
----
+  []---
 
 ## Overview
 

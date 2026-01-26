@@ -4,13 +4,13 @@ site_name: "Alte Schule"
 date: 2026-01-26
 draft: false
 description: "former school building in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q436219"
 latitude: 51.0834
 longitude: 13.6719
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/400px-Alte_Schule_Kaditz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/800px-Alte_Schule_Kaditz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/1200px-Alte_Schule_Kaditz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/1920px-Alte_Schule_Kaditz1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/1920px-Alte_Schule_Kaditz1.jpg---
 
 ## Overview
 

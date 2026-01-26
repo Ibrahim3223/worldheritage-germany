@@ -4,13 +4,13 @@ site_name: "Amtsvenn - Hündfelder Moor"
 date: 2026-01-26
 draft: false
 description: "protected area in Germany"
-region: "Ahaus"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Ahaus"
+  - "Lower Saxony"
 wikidata_id: "Q481383"
 latitude: 52.182219444
 longitude: 6.951938888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aamsveen.jpg/400px-Aamsveen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aamsveen.jpg/800px-Aamsveen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aamsveen.jpg/1200px-Aamsveen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aamsveen.jpg/1920px-Aamsveen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aamsveen.jpg/1920px-Aamsveen.jpg---
 
 ## Overview
 

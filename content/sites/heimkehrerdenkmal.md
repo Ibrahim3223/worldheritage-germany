@@ -4,19 +4,18 @@ site_name: "Heimkehrerdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Friedland, Germany"
-region: "Friedland"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Friedland"
+  - "Hesse"
 wikidata_id: "Q1457593"
 latitude: 51.4158
 longitude: 9.90876
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Haus Ruhrnatur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q1590486"
 latitude: 51.420777777
 longitude: 6.876083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/400px-Haus_Ruhrnatur_Schiff.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/800px-Haus_Ruhrnatur_Schiff.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/1200px-Haus_Ruhrnatur_Schiff.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/1920px-Haus_Ruhrnatur_Schiff.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/1920px-Haus_Ruhrnatur_Schiff.JPG---
 
 ## Overview
 

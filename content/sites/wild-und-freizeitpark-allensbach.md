@@ -4,19 +4,18 @@ site_name: "Wild- und Freizeitpark Allensbach"
 date: 2026-01-26
 draft: false
 description: "Park in Allensbach, Baden-Württemberg, Deutschland"
-region: "Allensbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Allensbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q2570242"
 latitude: 47.74194444
 longitude: 9.04611111
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Langweiler"
 date: 2026-01-26
 draft: false
 description: "archaeological site in the Merzbach Valley of Western Germany"
-region: "Aldenhoven"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Aldenhoven"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q316372"
 latitude: 50.88166667
 longitude: 6.25277778
 images:
-  []
----
+  []---
 
 ## Overview
 

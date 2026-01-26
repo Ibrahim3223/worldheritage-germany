@@ -4,19 +4,18 @@ site_name: "Hardthöhlen"
 date: 2026-01-26
 draft: false
 description: "caves in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1585172"
 latitude: 51.2622
 longitude: 7.16889
 images:
-  []
----
+  []---
 
 ## Overview
 

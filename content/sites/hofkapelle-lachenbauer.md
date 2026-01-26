@@ -4,13 +4,13 @@ site_name: "Hofkapelle Lachenbauer"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bad Wurzach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Wurzach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1623140"
 latitude: 47.962198
 longitude: 9.900312
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/400px-Hofkapelle_Lachenbauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/800px-Hofkapelle_Lachenbauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/1200px-Hofkapelle_Lachenbauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/1920px-Hofkapelle_Lachenbauer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/1920px-Hofkapelle_Lachenbauer.jpg---
 
 ## Overview
 

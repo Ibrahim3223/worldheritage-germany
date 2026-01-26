@@ -4,13 +4,13 @@ site_name: "Capitol"
 date: 2026-01-26
 draft: false
 description: "theatre and event venue in Offenbach, Germany, originally a synagogue"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q1034687"
 latitude: 50.1094
 longitude: 8.75658
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/400px-Capitol_Offenbach_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/800px-Capitol_Offenbach_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/1200px-Capitol_Offenbach_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/1920px-Capitol_Offenbach_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/1920px-Capitol_Offenbach_04.jpg---
 
 ## Overview
 

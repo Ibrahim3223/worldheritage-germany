@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Bayreuth"
 date: 2026-01-26
 draft: false
 description: "museum of modern art in Bayreuth, Bavaria, Germany"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q1359068"
 latitude: 49.9438899
 longitude: 11.5746336
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bayreuth_altes_rathaus.jpg/400px-Bayreuth_altes_rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bayreuth_altes_rathaus.jpg/800px-Bayreuth_altes_rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bayreuth_altes_rathaus.jpg/1200px-Bayreuth_altes_rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bayreuth_altes_rathaus.jpg/1920px-Bayreuth_altes_rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bayreuth_altes_rathaus.jpg/1920px-Bayreuth_altes_rathaus.jpg---
 
 ## Overview
 

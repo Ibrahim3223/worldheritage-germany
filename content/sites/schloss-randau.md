@@ -4,13 +4,13 @@ site_name: "Schloss Randau"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1776634"
 latitude: 52.0586
 longitude: 11.7279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schloss_Randau_Vorderseite.jpg/400px-Schloss_Randau_Vorderseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schloss_Randau_Vorderseite.jpg/800px-Schloss_Randau_Vorderseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schloss_Randau_Vorderseite.jpg/1200px-Schloss_Randau_Vorderseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schloss_Randau_Vorderseite.jpg/1920px-Schloss_Randau_Vorderseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schloss_Randau_Vorderseite.jpg/1920px-Schloss_Randau_Vorderseite.jpg---
 
 ## Overview
 

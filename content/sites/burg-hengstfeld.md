@@ -4,19 +4,18 @@ site_name: "Burg Hengstfeld"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wallhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wallhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012307"
 latitude: 49.2176
 longitude: 10.0948
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Bärenfels"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Wehr"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Wehr"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011269"
 latitude: 47.6405
 longitude: 7.9253
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/400px-Baerenfels_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/800px-Baerenfels_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1200px-Baerenfels_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1920px-Baerenfels_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1920px-Baerenfels_01.jpg---
 
 ## Overview
 

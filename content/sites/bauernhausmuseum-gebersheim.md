@@ -4,19 +4,18 @@ site_name: "Bauernhausmuseum Gebersheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631411"
 latitude: 48.812809
 longitude: 8.976464
 images:
-  []
----
+  []---
 
 ## Overview
 

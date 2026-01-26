@@ -4,13 +4,13 @@ site_name: "Flößermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Lechbruck am See, Bavaria, Germany"
-region: "Lechbruck am See"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lechbruck am See"
+  - "Bavaria"
 wikidata_id: "Q16319029"
 latitude: 47.698041666
 longitude: 10.796294444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/400px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/800px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/1200px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/1920px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/1920px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG---
 
 ## Overview
 

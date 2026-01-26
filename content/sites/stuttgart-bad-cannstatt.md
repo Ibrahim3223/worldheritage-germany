@@ -4,13 +4,13 @@ site_name: "Stuttgart-Bad Cannstatt"
 date: 2026-01-26
 draft: false
 description: "railway halt in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q321680"
 latitude: 48.8017
 longitude: 9.21778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/400px-Bahnhof_Bad_Cannstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/800px-Bahnhof_Bad_Cannstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/1200px-Bahnhof_Bad_Cannstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/1920px-Bahnhof_Bad_Cannstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/1920px-Bahnhof_Bad_Cannstadt.jpg---
 
 ## Overview
 

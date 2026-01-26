@@ -4,13 +4,13 @@ site_name: "Remscheid Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Remscheid, Germany"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q321599"
 latitude: 51.1772
 longitude: 7.19944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/400px-Bf-rs-hbf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/800px-Bf-rs-hbf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/1200px-Bf-rs-hbf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/1920px-Bf-rs-hbf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/1920px-Bf-rs-hbf.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Müglitztalbahn (Sachgesamtheit); Brücke Mühlbach"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Müglitztal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Müglitztal"
+  - "Saxony"
 wikidata_id: "Q49442956"
 latitude: 50.9158
 longitude: 13.82541
 images:
-  []
----
+  []---
 
 ## Overview
 

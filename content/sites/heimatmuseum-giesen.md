@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Giesen"
 date: 2026-01-26
 draft: false
 description: "museum in Landkreis Hildesheim, Germany"
-region: "Giesen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Giesen"
+  - "Lower Saxony"
 wikidata_id: "Q76635995"
 latitude: 52.221233
 longitude: 9.877835
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Cottbus"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q1386986"
 latitude: 51.72
 longitude: 14.3416
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/400px-FunkturmCB.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/800px-FunkturmCB.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/1200px-FunkturmCB.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/1920px-FunkturmCB.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/1920px-FunkturmCB.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Saarland University & State Library"
 date: 2026-01-26
 draft: false
 description: "university library"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1518713"
 latitude: 49.25346
 longitude: 7.03866
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sulb_turm.jpg/400px-Sulb_turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sulb_turm.jpg/800px-Sulb_turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sulb_turm.jpg/1200px-Sulb_turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sulb_turm.jpg/1920px-Sulb_turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sulb_turm.jpg/1920px-Sulb_turm.jpg---
 
 ## Overview
 

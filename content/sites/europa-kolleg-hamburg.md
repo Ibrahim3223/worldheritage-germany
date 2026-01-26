@@ -4,19 +4,18 @@ site_name: "Europa-Kolleg Hamburg"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Germany"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Hamburg"
 wikidata_id: "Q1375148"
 latitude: 53.567820072
 longitude: 9.870906068
 images:
-  []
----
+  []---
 
 ## Overview
 

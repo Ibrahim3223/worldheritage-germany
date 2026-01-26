@@ -4,13 +4,13 @@ site_name: "State Museum Nature and Human Oldenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1802381"
 latitude: 53.1337
 longitude: 8.21949
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/400px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/800px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/1200px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/1920px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/1920px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg---
 
 ## Overview
 

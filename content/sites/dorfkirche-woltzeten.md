@@ -4,13 +4,13 @@ site_name: "Dorfkirche Woltzeten"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1331057"
 latitude: 53.411409
 longitude: 7.090885
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/400px-ChurchWoltzeten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/800px-ChurchWoltzeten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1200px-ChurchWoltzeten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1920px-ChurchWoltzeten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1920px-ChurchWoltzeten.JPG---
 
 ## Overview
 

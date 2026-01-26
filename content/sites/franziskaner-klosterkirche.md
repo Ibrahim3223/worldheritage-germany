@@ -4,13 +4,13 @@ site_name: "Franziskaner-Klosterkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1450212"
 latitude: 52.5183
 longitude: 13.4128
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/400px-Graues_Kloster_Langhaus_schraeg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/800px-Graues_Kloster_Langhaus_schraeg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/1200px-Graues_Kloster_Langhaus_schraeg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/1920px-Graues_Kloster_Langhaus_schraeg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/1920px-Graues_Kloster_Langhaus_schraeg.jpg---
 
 ## Overview
 

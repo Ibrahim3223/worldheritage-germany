@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Kitzingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kitzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kitzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q18460982"
 latitude: 49.735553412
 longitude: 10.16482424
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/400px-Landwehrstraße_23_(Kitzingen).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/800px-Landwehrstraße_23_(Kitzingen).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/1200px-Landwehrstraße_23_(Kitzingen).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/1920px-Landwehrstraße_23_(Kitzingen).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/1920px-Landwehrstraße_23_(Kitzingen).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Gleuel"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gleuel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gleuel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011977"
 latitude: 50.891455
 longitude: 6.83568
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/400px-Wasserburg_Gleuel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/800px-Wasserburg_Gleuel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/1200px-Wasserburg_Gleuel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/1920px-Wasserburg_Gleuel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/1920px-Wasserburg_Gleuel.jpg---
 
 ## Overview
 

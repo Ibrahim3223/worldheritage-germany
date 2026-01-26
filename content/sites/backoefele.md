@@ -4,13 +4,13 @@ site_name: "Backöfele"
 date: 2026-01-26
 draft: false
 description: "Aussichtsturm in auf dem Schneeberg, Fichtelgebirge, Deutschland"
-region: "Weißenstadter Forst-Süd"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Weißenstadter Forst-Süd"
+  - "Bavaria"
 wikidata_id: "Q798565"
 latitude: 50.0524
 longitude: 11.8534
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/400px-Backoefele_Schneeberg_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/800px-Backoefele_Schneeberg_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/1200px-Backoefele_Schneeberg_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/1920px-Backoefele_Schneeberg_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/1920px-Backoefele_Schneeberg_1.JPG---
 
 ## Overview
 

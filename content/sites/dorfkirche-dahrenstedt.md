@@ -4,13 +4,13 @@ site_name: "Dorfkirche Dahrenstedt"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q1244218"
 latitude: 52.5417
 longitude: 11.832
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/400px-Dahrenstedt_Dorfkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/800px-Dahrenstedt_Dorfkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1200px-Dahrenstedt_Dorfkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1920px-Dahrenstedt_Dorfkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1920px-Dahrenstedt_Dorfkirche.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schlossbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q2244452"
 latitude: 52.3706
 longitude: 9.7342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/400px-Schlossbrunnen_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/800px-Schlossbrunnen_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/1200px-Schlossbrunnen_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/1920px-Schlossbrunnen_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/1920px-Schlossbrunnen_Hannover.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Konrad und Elisabeth (Freiburg)"
 date: 2026-01-26
 draft: false
 description: "church building in Freiburg im Breisgau, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2319969"
 latitude: 48.0087
 longitude: 7.84958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/400px-St._Konrad_und_Elisabeth_(Freiburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/800px-St._Konrad_und_Elisabeth_(Freiburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1200px-St._Konrad_und_Elisabeth_(Freiburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1920px-St._Konrad_und_Elisabeth_(Freiburg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1920px-St._Konrad_und_Elisabeth_(Freiburg).jpg---
 
 ## Overview
 

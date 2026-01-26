@@ -4,13 +4,13 @@ site_name: "Liebfrauenkirche"
 date: 2026-01-26
 draft: false
 description: "Parish church in Trier, Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q530208"
 latitude: 49.7558
 longitude: 6.64306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liebfrauen_Trier_aussen_BW_1.jpg/400px-Liebfrauen_Trier_aussen_BW_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liebfrauen_Trier_aussen_BW_1.jpg/800px-Liebfrauen_Trier_aussen_BW_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liebfrauen_Trier_aussen_BW_1.jpg/1200px-Liebfrauen_Trier_aussen_BW_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liebfrauen_Trier_aussen_BW_1.jpg/1920px-Liebfrauen_Trier_aussen_BW_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liebfrauen_Trier_aussen_BW_1.jpg/1920px-Liebfrauen_Trier_aussen_BW_1.jpg---
 
 ## Overview
 

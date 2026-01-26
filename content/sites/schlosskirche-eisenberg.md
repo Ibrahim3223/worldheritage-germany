@@ -4,13 +4,13 @@ site_name: "Schlosskirche Eisenberg"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Eisenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eisenberg"
+  - "Saxony"
 wikidata_id: "Q1733954"
 latitude: 50.9658
 longitude: 11.9053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/400px-Schlosskirche_Eisenberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/800px-Schlosskirche_Eisenberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/1200px-Schlosskirche_Eisenberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/1920px-Schlosskirche_Eisenberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/1920px-Schlosskirche_Eisenberg.JPG---
 
 ## Overview
 

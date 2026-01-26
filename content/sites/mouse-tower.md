@@ -4,13 +4,13 @@ site_name: "Mouse Tower"
 date: 2026-01-26
 draft: false
 description: "tower on island in the Rhine, Bingen am Rhein, Germany"
-region: "Bingen am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bingen am Rhein"
+  - "Hesse"
 wikidata_id: "Q521497"
 latitude: 49.9719
 longitude: 7.88083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/400px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/800px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/1200px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/1920px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/1920px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg---
 
 ## Overview
 

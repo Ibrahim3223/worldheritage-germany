@@ -4,13 +4,13 @@ site_name: "Torhaus Venatoriusstraße 2 in Nürnberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-64-000-2018 (2) in Nürnberg, Bavaria"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q98628776"
 latitude: 49.355418956
 longitude: 11.099756765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/400px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/800px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/1200px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/1920px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/1920px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zwiefalten Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Zwiefalten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Zwiefalten"
+  - "Baden-Württemberg"
 wikidata_id: "Q460308"
 latitude: 48.232
 longitude: 9.46135
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/400px-Zwiefalten_1826.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/800px-Zwiefalten_1826.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/1200px-Zwiefalten_1826.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/1920px-Zwiefalten_1826.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/1920px-Zwiefalten_1826.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Billetal"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Aumühle"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Aumühle"
+  - "Hamburg"
 wikidata_id: "Q862810"
 latitude: 53.5564
 longitude: 10.3239
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/400px-RK_1506_30639_Bille_Reinbek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/800px-RK_1506_30639_Bille_Reinbek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/1200px-RK_1506_30639_Bille_Reinbek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/1920px-RK_1506_30639_Bille_Reinbek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/1920px-RK_1506_30639_Bille_Reinbek.jpg---
 
 ## Overview
 

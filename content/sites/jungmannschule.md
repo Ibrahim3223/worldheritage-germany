@@ -4,13 +4,13 @@ site_name: "Jungmannschule"
 date: 2026-01-26
 draft: false
 description: "school in Eckernförde, Germany"
-region: "Eckernförde"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Eckernförde"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1591093"
 latitude: 54.46895
 longitude: 9.835452
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/400px-Eckernförde_Reeperbahn_50_1958.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/800px-Eckernförde_Reeperbahn_50_1958.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/1200px-Eckernförde_Reeperbahn_50_1958.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/1920px-Eckernförde_Reeperbahn_50_1958.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/1920px-Eckernförde_Reeperbahn_50_1958.jpg---
 
 ## Overview
 

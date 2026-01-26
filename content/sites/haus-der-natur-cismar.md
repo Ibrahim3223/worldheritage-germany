@@ -4,13 +4,13 @@ site_name: "Haus der Natur Cismar"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Grömitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grömitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q996430"
 latitude: 54.1882
 longitude: 10.9828
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg/400px-Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg/800px-Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg/1200px-Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg/1920px-Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg/1920px-Cismar_Baederstrasse_26_Haus_der_Natur_01.jpg---
 
 ## Overview
 

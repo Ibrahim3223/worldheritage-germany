@@ -4,19 +4,18 @@ site_name: "Bauernmuseum Bamberger Land"
 date: 2026-01-26
 draft: false
 description: "archive organization in Frensdorf, Germany"
-region: "Frensdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Frensdorf"
+  - "Bavaria"
 wikidata_id: "Q30261378"
 latitude: 49.821255
 longitude: 10.863624
 images:
-  []
----
+  []---
 
 ## Overview
 

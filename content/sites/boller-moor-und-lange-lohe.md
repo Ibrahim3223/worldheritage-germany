@@ -4,13 +4,13 @@ site_name: "Boller Moor und Lange Lohe"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Drebber"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Drebber"
+  - "Lower Saxony"
 wikidata_id: "Q891440"
 latitude: 52.6814
 longitude: 8.34528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/400px-Boller_Moor_und_Lange_Lohe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/800px-Boller_Moor_und_Lange_Lohe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/1200px-Boller_Moor_und_Lange_Lohe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/1920px-Boller_Moor_und_Lange_Lohe.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/1920px-Boller_Moor_und_Lange_Lohe.JPG---
 
 ## Overview
 

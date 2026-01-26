@@ -4,13 +4,13 @@ site_name: "Trier garden"
 date: 2026-01-26
 draft: false
 description: "former park in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q72274468"
 latitude: 51.333673
 longitude: 12.370052
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/400px-Trierscher_Garten_Insel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/800px-Trierscher_Garten_Insel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/1200px-Trierscher_Garten_Insel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/1920px-Trierscher_Garten_Insel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/1920px-Trierscher_Garten_Insel.jpg---
 
 ## Overview
 

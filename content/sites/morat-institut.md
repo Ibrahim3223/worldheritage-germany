@@ -4,19 +4,18 @@ site_name: "Morat-Institut"
 date: 2026-01-26
 draft: false
 description: "arts foundation in Freiburg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q18631721"
 latitude: 47.980895
 longitude: 7.825354
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Märkisches Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Witten"
-region: "Witten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Witten"
+  - "Lower Saxony"
 wikidata_id: "Q1957463"
 latitude: 51.4346
 longitude: 7.3385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Witten_Märkisches_Museum_2.jpg/400px-Witten_Märkisches_Museum_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Witten_Märkisches_Museum_2.jpg/800px-Witten_Märkisches_Museum_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Witten_Märkisches_Museum_2.jpg/1200px-Witten_Märkisches_Museum_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Witten_Märkisches_Museum_2.jpg/1920px-Witten_Märkisches_Museum_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Witten_Märkisches_Museum_2.jpg/1920px-Witten_Märkisches_Museum_2.jpg---
 
 ## Overview
 

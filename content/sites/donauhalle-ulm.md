@@ -4,19 +4,18 @@ site_name: "Donauhalle Ulm"
 date: 2026-01-26
 draft: false
 description: "architectural structure in Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q5295457"
 latitude: 48.412569
 longitude: 10.012138
 images:
-  []
----
+  []---
 
 ## Overview
 

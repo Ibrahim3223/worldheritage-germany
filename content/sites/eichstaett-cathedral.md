@@ -4,13 +4,13 @@ site_name: "Eichstätt Cathedral"
 date: 2026-01-26
 draft: false
 description: "parish church"
-region: "Q252772"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Q252772"
+  - "Bavaria"
 wikidata_id: "Q252555"
 latitude: 48.891922876
 longitude: 11.183382303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/400px-Eichstaett_Cathedral.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/800px-Eichstaett_Cathedral.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1200px-Eichstaett_Cathedral.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1920px-Eichstaett_Cathedral.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1920px-Eichstaett_Cathedral.JPG---
 
 ## Overview
 

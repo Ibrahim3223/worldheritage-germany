@@ -4,19 +4,18 @@ site_name: "Zeche Alte Mißgunst"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169633"
 latitude: 51.449
 longitude: 7.25157
 images:
-  []
----
+  []---
 
 ## Overview
 

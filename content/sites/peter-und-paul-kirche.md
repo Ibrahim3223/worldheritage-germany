@@ -4,13 +4,13 @@ site_name: "Peter-und-Paul-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Westoverledingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Westoverledingen"
+  - "Lower Saxony"
 wikidata_id: "Q1456554"
 latitude: 53.1089
 longitude: 7.38486
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/400px-ChurchVöllen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/800px-ChurchVöllen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/1200px-ChurchVöllen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/1920px-ChurchVöllen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/1920px-ChurchVöllen.JPG---
 
 ## Overview
 

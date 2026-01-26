@@ -4,19 +4,18 @@ site_name: "Woterfitzsee"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q1269252"
 latitude: 53.368055555
 longitude: 12.823888888
 images:
-  []
----
+  []---
 
 ## Overview
 

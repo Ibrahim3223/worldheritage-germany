@@ -4,13 +4,13 @@ site_name: "Die Rampe"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1215645"
 latitude: 51.3238
 longitude: 9.50631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/400px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/800px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/1200px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/1920px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/1920px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg---
 
 ## Overview
 

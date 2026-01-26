@@ -4,13 +4,13 @@ site_name: "Museum Barberini"
 date: 2026-01-26
 draft: false
 description: "art museum in Potsdam"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q23785329"
 latitude: 52.395169
 longitude: 13.062282
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg/400px-Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg/800px-Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg/1200px-Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg/1920px-Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg/1920px-Museum_Barberini_&_Alter_Markt_in_Potsdam_2.jpg---
 
 ## Overview
 

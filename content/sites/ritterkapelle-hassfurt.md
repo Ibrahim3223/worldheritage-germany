@@ -4,13 +4,13 @@ site_name: "Ritterkapelle Haßfurt"
 date: 2026-01-26
 draft: false
 description: "building in Haßfurt, Lower Franconia, Germany"
-region: "Haßfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Haßfurt"
+  - "Bavaria"
 wikidata_id: "Q1569864"
 latitude: 50.0318
 longitude: 10.5117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ritterkapelle_Haßfurt.jpg/400px-Ritterkapelle_Haßfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ritterkapelle_Haßfurt.jpg/800px-Ritterkapelle_Haßfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ritterkapelle_Haßfurt.jpg/1200px-Ritterkapelle_Haßfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ritterkapelle_Haßfurt.jpg/1920px-Ritterkapelle_Haßfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ritterkapelle_Haßfurt.jpg/1920px-Ritterkapelle_Haßfurt.jpg---
 
 ## Overview
 

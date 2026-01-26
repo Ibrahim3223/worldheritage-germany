@@ -4,13 +4,13 @@ site_name: "Samian Hoplite"
 date: 2026-01-26
 draft: false
 description: "ancient Greek statue, preserved in parts, today at the Antikensammlung Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2217193"
 latitude: 52.5194
 longitude: 13.3983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/400px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/800px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/1200px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/1920px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/1920px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg---
 
 ## Overview
 

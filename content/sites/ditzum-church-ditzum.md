@@ -4,13 +4,13 @@ site_name: "Ditzum Church (Ditzum)"
 date: 2026-01-26
 draft: false
 description: "church building in Lower Saxony, Germany"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q195354"
 latitude: 53.3151
 longitude: 7.27974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/400px-ChurchDitzum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/800px-ChurchDitzum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/1200px-ChurchDitzum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/1920px-ChurchDitzum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/1920px-ChurchDitzum.jpg---
 
 ## Overview
 

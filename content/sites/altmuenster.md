@@ -4,19 +4,18 @@ site_name: "Altmünster"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q333805"
 latitude: 49.9989
 longitude: 8.26302
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St.Johns church Meldorf"
 date: 2026-01-26
 draft: false
 description: "church church building in Schleswig-Holstein state, Germany"
-region: "Meldorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Meldorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2221955"
 latitude: 54.09051
 longitude: 9.071669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/400px-Meldorfer_Dom,_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/800px-Meldorfer_Dom,_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/1200px-Meldorfer_Dom,_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/1920px-Meldorfer_Dom,_Südseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/1920px-Meldorfer_Dom,_Südseite.jpg---
 
 ## Overview
 

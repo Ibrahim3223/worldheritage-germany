@@ -4,13 +4,13 @@ site_name: "Besenhorster Sandberge und Elbsandwiesen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Geesthacht"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Geesthacht"
+  - "Hamburg"
 wikidata_id: "Q829773"
 latitude: 53.4433
 longitude: 10.3292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/400px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen%22_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_%22Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/800px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/1200px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen%22_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_%22Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/1920px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_%22Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/1920px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg---
 
 ## Overview
 

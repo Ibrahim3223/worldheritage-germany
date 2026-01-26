@@ -4,13 +4,13 @@ site_name: "Zeppelin Museum Meersburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Meersburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meersburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q191397"
 latitude: 47.69392
 longitude: 9.27168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/400px-Zeppelinmuseum_Schild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/800px-Zeppelinmuseum_Schild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/1200px-Zeppelinmuseum_Schild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/1920px-Zeppelinmuseum_Schild.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/1920px-Zeppelinmuseum_Schild.jpg---
 
 ## Overview
 

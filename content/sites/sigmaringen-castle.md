@@ -4,13 +4,13 @@ site_name: "Sigmaringen Castle"
 date: 2026-01-26
 draft: false
 description: "building in Sigmaringen, Tübingen Government Region, Baden-Württemberg, Germany"
-region: "Sigmaringen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sigmaringen"
+  - "Baden-Württemberg"
 wikidata_id: "Q569546"
 latitude: 48.087777777
 longitude: 9.216944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/400px-Schloss_Sigmaringen_2022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/800px-Schloss_Sigmaringen_2022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/1200px-Schloss_Sigmaringen_2022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/1920px-Schloss_Sigmaringen_2022.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloss_Sigmaringen_2022.jpg/1920px-Schloss_Sigmaringen_2022.jpg---
 
 ## Overview
 

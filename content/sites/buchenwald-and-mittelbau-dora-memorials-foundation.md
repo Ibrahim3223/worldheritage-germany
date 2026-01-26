@@ -4,19 +4,18 @@ site_name: "Buchenwald and Mittelbau-Dora Memorials Foundation"
 date: 2026-01-26
 draft: false
 description: "German Holocaust memorial"
-region: "Germany"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Saxony-Anhalt"
 wikidata_id: "Q60500503"
 latitude: 51.0215077
 longitude: 11.2492387
 images:
-  []
----
+  []---
 
 ## Overview
 

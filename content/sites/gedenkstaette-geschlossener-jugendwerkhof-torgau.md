@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Geschlossener Jugendwerkhof Torgau"
 date: 2026-01-26
 draft: false
 description: "Museum and memorial in Torgau (Saxony)"
-region: "Torgau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Torgau"
+  - "Brandenburg"
 wikidata_id: "Q23786878"
 latitude: 51.556102
 longitude: 13.009105
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/400px-Gedenkstätte_Torgau_2016_xy4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/800px-Gedenkstätte_Torgau_2016_xy4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/1200px-Gedenkstätte_Torgau_2016_xy4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/1920px-Gedenkstätte_Torgau_2016_xy4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/1920px-Gedenkstätte_Torgau_2016_xy4.JPG---
 
 ## Overview
 

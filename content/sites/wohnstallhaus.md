@@ -4,19 +4,18 @@ site_name: "Wohnstallhaus"
 date: 2026-01-26
 draft: false
 description: "Museum in Neudorf in Bayern"
-region: "Schauenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schauenstein"
+  - "Bavaria"
 wikidata_id: "Q22694562"
 latitude: 50.27479
 longitude: 11.76823
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Goßfelden"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lahntal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lahntal"
+  - "Hesse"
 wikidata_id: "Q1012005"
 latitude: 50.8656
 longitude: 8.73972
 images:
-  []
----
+  []---
 
 ## Overview
 

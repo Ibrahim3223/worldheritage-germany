@@ -4,19 +4,18 @@ site_name: "Alt-Saarbrücken"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Stadtbezirk Mitte"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Stadtbezirk Mitte"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q432982"
 latitude: 49.2301
 longitude: 6.9925
 images:
-  []
----
+  []---
 
 ## Overview
 

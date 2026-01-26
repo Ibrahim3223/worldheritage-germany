@@ -4,13 +4,13 @@ site_name: "Saxon Pharmacy Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q42332387"
 latitude: 51.338885
 longitude: 12.372923
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sächsisches_Apothekenmuseum_Leipzig.jpg/400px-Sächsisches_Apothekenmuseum_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sächsisches_Apothekenmuseum_Leipzig.jpg/800px-Sächsisches_Apothekenmuseum_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sächsisches_Apothekenmuseum_Leipzig.jpg/1200px-Sächsisches_Apothekenmuseum_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sächsisches_Apothekenmuseum_Leipzig.jpg/1920px-Sächsisches_Apothekenmuseum_Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sächsisches_Apothekenmuseum_Leipzig.jpg/1920px-Sächsisches_Apothekenmuseum_Leipzig.jpg---
 
 ## Overview
 

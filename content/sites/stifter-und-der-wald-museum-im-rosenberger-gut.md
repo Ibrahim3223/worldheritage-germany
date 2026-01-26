@@ -4,19 +4,18 @@ site_name: "Stifter und der Wald - Museum im Rosenberger Gut"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628800"
 latitude: 48.751698
 longitude: 13.815999
 images:
-  []
----
+  []---
 
 ## Overview
 

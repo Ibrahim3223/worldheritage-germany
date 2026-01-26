@@ -4,13 +4,13 @@ site_name: "Carlsplatz Markt"
 date: 2026-01-26
 draft: false
 description: "marketplace in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Marketplace"
 categories:
   - "Marketplace"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q125957262"
 latitude: 51.22343
 longitude: 6.77356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/400px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/800px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/1200px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/1920px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/1920px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG---
 
 ## Overview
 

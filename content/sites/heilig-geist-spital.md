@@ -4,13 +4,13 @@ site_name: "Heilig-Geist-Spital"
 date: 2026-01-26
 draft: false
 description: "former hospital in medieval Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1594900"
 latitude: 52.520786
 longitude: 13.403212
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/400px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/800px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/1200px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/1920px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/1920px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg---
 
 ## Overview
 

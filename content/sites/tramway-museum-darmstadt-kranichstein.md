@@ -4,13 +4,13 @@ site_name: "Tramway Museum Darmstadt-Kranichstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q19964481"
 latitude: 49.90447998
 longitude: 8.67763996
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg/400px-Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg/800px-Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg/1200px-Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg/1920px-Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg/1920px-Historische_Straßenbahn_in_Darmstadt-Kranichstein_05.jpg---
 
 ## Overview
 

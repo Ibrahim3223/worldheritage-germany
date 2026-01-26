@@ -4,13 +4,13 @@ site_name: "Schloss Eggersberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Q503693"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Q503693"
+  - "Bavaria"
 wikidata_id: "Q1623190"
 latitude: 48.971980555
 longitude: 11.648566666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Obereggersberg_Neues_Schloss.jpg/400px-Obereggersberg_Neues_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Obereggersberg_Neues_Schloss.jpg/800px-Obereggersberg_Neues_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Obereggersberg_Neues_Schloss.jpg/1200px-Obereggersberg_Neues_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Obereggersberg_Neues_Schloss.jpg/1920px-Obereggersberg_Neues_Schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Obereggersberg_Neues_Schloss.jpg/1920px-Obereggersberg_Neues_Schloss.jpg---
 
 ## Overview
 

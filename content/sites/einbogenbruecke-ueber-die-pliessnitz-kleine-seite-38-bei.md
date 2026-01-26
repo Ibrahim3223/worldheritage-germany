@@ -4,19 +4,18 @@ site_name: "Einbogenbrücke über die Pließnitz Kleine Seite 38 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bernstadt auf dem Eigen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bernstadt auf dem Eigen"
+  - "Saxony"
 wikidata_id: "Q49430405"
 latitude: 51.049673
 longitude: 14.854987
 images:
-  []
----
+  []---
 
 ## Overview
 

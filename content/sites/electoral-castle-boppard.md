@@ -4,13 +4,13 @@ site_name: "Electoral castle Boppard"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Boppard"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Boppard"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q435432"
 latitude: 50.2327
 longitude: 7.59365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/400px-Alte_Burg_Boppard.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/800px-Alte_Burg_Boppard.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/1200px-Alte_Burg_Boppard.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/1920px-Alte_Burg_Boppard.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/1920px-Alte_Burg_Boppard.jpg---
 
 ## Overview
 

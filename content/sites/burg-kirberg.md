@@ -4,13 +4,13 @@ site_name: "Burg Kirberg"
 date: 2026-01-26
 draft: false
 description: "Burgruine in Deutschland"
-region: "Kirberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kirberg"
+  - "Hesse"
 wikidata_id: "Q1012659"
 latitude: 50.3106
 longitude: 8.15583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/400px-Kirberg_-_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/800px-Kirberg_-_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1200px-Kirberg_-_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1920px-Kirberg_-_Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1920px-Kirberg_-_Burg.jpg---
 
 ## Overview
 

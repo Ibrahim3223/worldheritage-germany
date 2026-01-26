@@ -4,13 +4,13 @@ site_name: "Mozart Monument, Frankfurt"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1322919"
 latitude: 50.1172
 longitude: 8.67481
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/400px-Frankfurt,_Mozartdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/800px-Frankfurt,_Mozartdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/1200px-Frankfurt,_Mozartdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/1920px-Frankfurt,_Mozartdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/1920px-Frankfurt,_Mozartdenkmal.jpg---
 
 ## Overview
 

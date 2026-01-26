@@ -4,13 +4,13 @@ site_name: "Amerika-Gedenkbibliothek"
 date: 2026-01-26
 draft: false
 description: "public library in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q467903"
 latitude: 52.4965968
 longitude: 13.3925104
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/400px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/800px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1200px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1920px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1920px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg---
 
 ## Overview
 

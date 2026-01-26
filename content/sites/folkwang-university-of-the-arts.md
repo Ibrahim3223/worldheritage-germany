@@ -4,13 +4,13 @@ site_name: "Folkwang University of the Arts"
 date: 2026-01-26
 draft: false
 description: "German university for music, theater, dance, design, and academic studies"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q521612"
 latitude: 51.3875
 longitude: 7.00444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/400px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/800px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1200px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1920px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1920px-Essen_Kloster_Werden_Innenhof_2_2005.jpg---
 
 ## Overview
 

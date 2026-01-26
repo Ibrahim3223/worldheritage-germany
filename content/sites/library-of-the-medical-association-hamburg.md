@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stabi_Fassade_Altbau.jpg/400px-Stabi_Fassade_Altbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stabi_Fassade_Altbau.jpg/800px-Stabi_Fassade_Altbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stabi_Fassade_Altbau.jpg/1200px-Stabi_Fassade_Altbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stabi_Fassade_Altbau.jpg/1920px-Stabi_Fassade_Altbau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stabi_Fassade_Altbau.jpg/1920px-Stabi_Fassade_Altbau.jpg---
 
 ## Overview
 

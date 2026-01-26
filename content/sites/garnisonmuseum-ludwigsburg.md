@@ -4,13 +4,13 @@ site_name: "Garnisonmuseum Ludwigsburg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1494393"
 latitude: 48.8975
 longitude: 9.18304
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Asperger_Torhaus_2.jpg/400px-Asperger_Torhaus_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Asperger_Torhaus_2.jpg/800px-Asperger_Torhaus_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Asperger_Torhaus_2.jpg/1200px-Asperger_Torhaus_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Asperger_Torhaus_2.jpg/1920px-Asperger_Torhaus_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Asperger_Torhaus_2.jpg/1920px-Asperger_Torhaus_2.jpg---
 
 ## Overview
 

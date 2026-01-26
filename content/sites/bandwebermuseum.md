@@ -4,19 +4,18 @@ site_name: "Bandwebermuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q806381"
 latitude: 51.265512
 longitude: 7.138151
 images:
-  []
----
+  []---
 
 ## Overview
 

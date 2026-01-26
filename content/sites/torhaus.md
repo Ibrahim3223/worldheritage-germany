@@ -4,13 +4,13 @@ site_name: "Torhaus"
 date: 2026-01-26
 draft: false
 description: "city gate in Muhr am See, Middle Franconia, Germany"
-region: "Muhr am See"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Muhr am See"
+  - "Bavaria"
 wikidata_id: "Q721785"
 latitude: 49.155201175
 longitude: 10.71078735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/400px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/800px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/1200px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/1920px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/1920px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg---
 
 ## Overview
 

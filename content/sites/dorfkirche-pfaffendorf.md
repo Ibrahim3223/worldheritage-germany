@@ -4,13 +4,13 @@ site_name: "Dorfkirche Pfaffendorf"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Maroldsweisach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Maroldsweisach"
+  - "Bavaria"
 wikidata_id: "Q1244608"
 latitude: 50.1705
 longitude: 10.7183
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/400px-Pfaffendorf-Kath-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/800px-Pfaffendorf-Kath-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1200px-Pfaffendorf-Kath-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1920px-Pfaffendorf-Kath-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1920px-Pfaffendorf-Kath-Kirche.jpg---
 
 ## Overview 
 

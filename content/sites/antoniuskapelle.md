@@ -4,13 +4,13 @@ site_name: "Antoniuskapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wachtberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Wachtberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q606908"
 latitude: 50.6089
 longitude: 7.08833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arzdorf(Wachtberg)Antoniuskapelle397.JPG/400px-Arzdorf(Wachtberg)Antoniuskapelle397.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arzdorf(Wachtberg)Antoniuskapelle397.JPG/800px-Arzdorf(Wachtberg)Antoniuskapelle397.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arzdorf(Wachtberg)Antoniuskapelle397.JPG/1200px-Arzdorf(Wachtberg)Antoniuskapelle397.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arzdorf(Wachtberg)Antoniuskapelle397.JPG/1920px-Arzdorf(Wachtberg)Antoniuskapelle397.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arzdorf(Wachtberg)Antoniuskapelle397.JPG/1920px-Arzdorf(Wachtberg)Antoniuskapelle397.JPG---
 
 ## Overview
 

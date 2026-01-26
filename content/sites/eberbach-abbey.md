@@ -4,13 +4,13 @@ site_name: "Eberbach Abbey"
 date: 2026-01-26
 draft: false
 description: "former monastery in the Rheingau"
-region: "Eltville am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eltville am Rhein"
+  - "Hesse"
 wikidata_id: "Q697766"
 latitude: 50.0425
 longitude: 8.046666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/400px-Kloster_Eberbach_fg01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/800px-Kloster_Eberbach_fg01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1200px-Kloster_Eberbach_fg01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1920px-Kloster_Eberbach_fg01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1920px-Kloster_Eberbach_fg01.JPG---
 
 ## Overview
 

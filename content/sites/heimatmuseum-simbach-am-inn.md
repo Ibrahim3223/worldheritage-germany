@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Simbach am Inn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629492"
 latitude: 48.266467
 longitude: 13.028108
 images:
-  []
----
+  []---
 
 ## Overview
 

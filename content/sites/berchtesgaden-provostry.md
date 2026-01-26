@@ -4,19 +4,18 @@ site_name: "Berchtesgaden Provostry"
 date: 2026-01-26
 draft: false
 description: "monastery in Bavaria"
-region: "Bavarian Circle"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Bavarian Circle"
+  - "Bavaria"
 wikidata_id: "Q683488"
 latitude: 47.63333333
 longitude: 13.00361111
 images:
-  []
----
+  []---
 
 ## Overview
 

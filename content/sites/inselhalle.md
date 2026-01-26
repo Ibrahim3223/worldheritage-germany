@@ -4,13 +4,13 @@ site_name: "Inselhalle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall and conference centre in Lindau (Lake Constance), Swabia, Germany"
-region: "Lindau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Lindau"
+  - "Baden-Württemberg"
 wikidata_id: "Q17576021"
 latitude: 47.54846954
 longitude: 9.68519974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/400px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/800px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/1200px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/1920px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/1920px-Inselhalle_Lindau_(IMG_20220429_143216).jpg---
 
 ## Overview
 

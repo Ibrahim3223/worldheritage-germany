@@ -4,13 +4,13 @@ site_name: "Kunstquartier Hagen"
 date: 2026-01-26
 draft: false
 description: "quarter of Hagen (Westfalen), Germany"
-region: "Hagen-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hagen-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1792590"
 latitude: 51.3557
 longitude: 7.47331
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/400px-Hagener_Museumsquartier.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/800px-Hagener_Museumsquartier.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/1200px-Hagener_Museumsquartier.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/1920px-Hagener_Museumsquartier.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/1920px-Hagener_Museumsquartier.JPG---
 
 ## Overview
 

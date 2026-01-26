@@ -4,13 +4,13 @@ site_name: "Martin Luther memorial"
 date: 2026-01-26
 draft: false
 description: "monument with statue in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1877875"
 latitude: 52.3716
 longitude: 9.735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/400px-Hannover_-_Martin_Luther.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/800px-Hannover_-_Martin_Luther.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/1200px-Hannover_-_Martin_Luther.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/1920px-Hannover_-_Martin_Luther.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/1920px-Hannover_-_Martin_Luther.jpg---
 
 ## Overview
 

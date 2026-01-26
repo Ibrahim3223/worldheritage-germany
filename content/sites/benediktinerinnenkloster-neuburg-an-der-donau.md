@@ -4,19 +4,18 @@ site_name: "Benediktinerinnenkloster Neuburg an der Donau"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Neuburg an der Donau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Neuburg an der Donau"
+  - "Bavaria"
 wikidata_id: "Q817047"
 latitude: 48.7359
 longitude: 11.1757
 images:
-  []
----
+  []---
 
 ## Overview
 

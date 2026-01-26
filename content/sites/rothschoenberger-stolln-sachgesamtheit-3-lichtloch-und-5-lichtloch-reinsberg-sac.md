@@ -4,19 +4,18 @@ site_name: "Rothschönberger Stolln (Sachgesamtheit); 3. Lichtloch und 5. Lichtl
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Reinsberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Reinsberg"
+  - "Saxony"
 wikidata_id: "Q49449366"
 latitude: 50.993602309
 longitude: 13.358741748
 images:
-  []
----
+  []---
 
 ## Overview
 

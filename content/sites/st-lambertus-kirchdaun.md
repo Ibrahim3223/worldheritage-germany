@@ -4,13 +4,13 @@ site_name: "St. Lambertus (Kirchdaun)"
 date: 2026-01-26
 draft: false
 description: "parish church"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1283680"
 latitude: 50.5717
 longitude: 7.16611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/400px-Kirchdaun_St.Lambertus914.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/800px-Kirchdaun_St.Lambertus914.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/1200px-Kirchdaun_St.Lambertus914.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/1920px-Kirchdaun_St.Lambertus914.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/1920px-Kirchdaun_St.Lambertus914.JPG---
 
 ## Overview
 

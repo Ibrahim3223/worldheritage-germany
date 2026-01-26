@@ -4,13 +4,13 @@ site_name: "Granitz Hunting Lodge"
 date: 2026-01-26
 draft: false
 description: "castle on Rugia"
-region: "Binz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Binz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q315676"
 latitude: 54.380555555
 longitude: 13.627222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/400px-Jagdschloss_Granitz_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/800px-Jagdschloss_Granitz_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/1200px-Jagdschloss_Granitz_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/1920px-Jagdschloss_Granitz_06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/1920px-Jagdschloss_Granitz_06.jpg---
 
 ## Overview
 

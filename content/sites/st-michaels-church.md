@@ -4,13 +4,13 @@ site_name: "St. Michael's Church"
 date: 2026-01-26
 draft: false
 description: "church in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q158324"
 latitude: 52.1529
 longitude: 9.9435
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/400px-St_Michaels_Church_Hildesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/800px-St_Michaels_Church_Hildesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/1200px-St_Michaels_Church_Hildesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/1920px-St_Michaels_Church_Hildesheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/1920px-St_Michaels_Church_Hildesheim.jpg---
 
 ## Overview
 

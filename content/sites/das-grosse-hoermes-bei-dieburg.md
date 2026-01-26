@@ -4,13 +4,13 @@ site_name: "Das große Hörmes bei Dieburg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Dieburg, Hesse, Germany"
-region: "Dieburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Dieburg"
+  - "Hesse"
 wikidata_id: "Q1198804"
 latitude: 49.905833333
 longitude: 8.821111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/400px-Das_grosse_Hoermes_bei_Dieburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/800px-Das_grosse_Hoermes_bei_Dieburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/1200px-Das_grosse_Hoermes_bei_Dieburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/1920px-Das_grosse_Hoermes_bei_Dieburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/1920px-Das_grosse_Hoermes_bei_Dieburg.jpg---
 
 ## Overview
 

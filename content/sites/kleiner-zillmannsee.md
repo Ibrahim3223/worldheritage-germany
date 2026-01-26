@@ -4,13 +4,13 @@ site_name: "Kleiner Zillmannsee"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q186700"
 latitude: 53.423611111
 longitude: 12.863888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2012_Kleiner_Zillmannsee.JPG/400px-2012_Kleiner_Zillmannsee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2012_Kleiner_Zillmannsee.JPG/800px-2012_Kleiner_Zillmannsee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2012_Kleiner_Zillmannsee.JPG/1200px-2012_Kleiner_Zillmannsee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2012_Kleiner_Zillmannsee.JPG/1920px-2012_Kleiner_Zillmannsee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2012_Kleiner_Zillmannsee.JPG/1920px-2012_Kleiner_Zillmannsee.JPG---
 
 ## Overview
 

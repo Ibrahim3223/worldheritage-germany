@@ -4,13 +4,13 @@ site_name: "St.-Maria-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Marienchor, Germany"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q2316427"
 latitude: 53.255
 longitude: 7.31524
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/400px-ChurchMarienchor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/800px-ChurchMarienchor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/1200px-ChurchMarienchor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/1920px-ChurchMarienchor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/1920px-ChurchMarienchor.jpg---
 
 ## Overview
 

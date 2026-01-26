@@ -4,13 +4,13 @@ site_name: "Nebel Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Nebel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Nebel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1821439"
 latitude: 54.6453
 longitude: 8.36124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/400px-Leuchtturm_Nebel270.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/800px-Leuchtturm_Nebel270.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/1200px-Leuchtturm_Nebel270.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/1920px-Leuchtturm_Nebel270.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/1920px-Leuchtturm_Nebel270.jpg---
 
 ## Overview
 

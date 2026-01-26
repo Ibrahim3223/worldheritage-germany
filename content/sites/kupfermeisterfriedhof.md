@@ -4,13 +4,13 @@ site_name: "Kupfermeisterfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Stolberg, Germany"
-region: "Stolberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Stolberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q140011"
 latitude: 50.7658
 longitude: 6.23442
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kupfermeisterfriedhof_010.jpg/400px-Kupfermeisterfriedhof_010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kupfermeisterfriedhof_010.jpg/800px-Kupfermeisterfriedhof_010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kupfermeisterfriedhof_010.jpg/1200px-Kupfermeisterfriedhof_010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kupfermeisterfriedhof_010.jpg/1920px-Kupfermeisterfriedhof_010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kupfermeisterfriedhof_010.jpg/1920px-Kupfermeisterfriedhof_010.jpg---
 
 ## Overview
 

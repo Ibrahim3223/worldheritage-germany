@@ -4,13 +4,13 @@ site_name: "Burg Hahnenkamm"
 date: 2026-01-26
 draft: false
 description: "castle in Bissingen an der Teck"
-region: "Bissingen an der Teck"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bissingen an der Teck"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012158"
 latitude: 48.5878
 longitude: 9.4975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/400px-Burg_Hahnenkamm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/800px-Burg_Hahnenkamm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/1200px-Burg_Hahnenkamm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/1920px-Burg_Hahnenkamm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/1920px-Burg_Hahnenkamm.jpg---
 
 ## Overview
 

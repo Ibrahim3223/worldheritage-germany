@@ -4,19 +4,18 @@ site_name: "Brahms-Haus"
 date: 2026-01-26
 draft: false
 description: "museum on Johannes Brahms in Heide, Germany"
-region: "Heide"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heide"
+  - "Schleswig-Holstein"
 wikidata_id: "Q28739853"
 latitude: 54.19343
 longitude: 9.096
 images:
-  []
----
+  []---
 
 ## Overview
 

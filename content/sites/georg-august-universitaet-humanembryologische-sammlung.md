@@ -4,19 +4,18 @@ site_name: "Georg-August-Universität: Humanembryologische Sammlung"
 date: 2026-01-26
 draft: false
 description: "museum in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636053"
 latitude: 51.543927
 longitude: 9.938844
 images:
-  []
----
+  []---
 
 ## Overview
 

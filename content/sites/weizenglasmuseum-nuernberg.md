@@ -4,19 +4,18 @@ site_name: "Weizenglasmuseum Nürnberg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1278601"
 latitude: 49.464726
 longitude: 11.172473
 images:
-  []
----
+  []---
 
 ## Overview
 

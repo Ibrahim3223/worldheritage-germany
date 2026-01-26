@@ -4,19 +4,18 @@ site_name: "Kunstraum of Lüneburg University"
 date: 2026-01-26
 draft: false
 description: "Contemporary art gallery in Germany"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q1792600"
 latitude: 53.2278
 longitude: 10.4021
 images:
-  []
----
+  []---
 
 ## Overview
 

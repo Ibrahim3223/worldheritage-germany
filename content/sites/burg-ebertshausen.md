@@ -4,13 +4,13 @@ site_name: "Burg Ebertshausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gmund am Tegernsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Gmund am Tegernsee"
+  - "Bavaria"
 wikidata_id: "Q1011519"
 latitude: 47.7445
 longitude: 11.7211
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Ebertshausen_GO-3.jpg/400px-Burg_Ebertshausen_GO-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Ebertshausen_GO-3.jpg/800px-Burg_Ebertshausen_GO-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Ebertshausen_GO-3.jpg/1200px-Burg_Ebertshausen_GO-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Ebertshausen_GO-3.jpg/1920px-Burg_Ebertshausen_GO-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Ebertshausen_GO-3.jpg/1920px-Burg_Ebertshausen_GO-3.jpg---
 
 ## Overview
 

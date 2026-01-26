@@ -4,13 +4,13 @@ site_name: "Graureihersee"
 date: 2026-01-26
 draft: false
 description: "lake"
-region: "Hoyerswerda"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Hoyerswerda"
+  - "Saxony"
 wikidata_id: "Q160150"
 latitude: 51.393055555
 longitude: 14.334166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Graureihersee_2.JPG/400px-Graureihersee_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Graureihersee_2.JPG/800px-Graureihersee_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Graureihersee_2.JPG/1200px-Graureihersee_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Graureihersee_2.JPG/1920px-Graureihersee_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Graureihersee_2.JPG/1920px-Graureihersee_2.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Köllnischer Park"
 date: 2026-01-26
 draft: false
 description: "public park near the River Spree in Mitte, Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q95640"
 latitude: 52.5131
 longitude: 13.4147
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Koellnischer_Park_Berlin_1.jpg/400px-Koellnischer_Park_Berlin_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Koellnischer_Park_Berlin_1.jpg/800px-Koellnischer_Park_Berlin_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Koellnischer_Park_Berlin_1.jpg/1200px-Koellnischer_Park_Berlin_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Koellnischer_Park_Berlin_1.jpg/1920px-Koellnischer_Park_Berlin_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Koellnischer_Park_Berlin_1.jpg/1920px-Koellnischer_Park_Berlin_1.jpg---
 
 ## Overview
 

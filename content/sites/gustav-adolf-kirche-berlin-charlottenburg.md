@@ -4,13 +4,13 @@ site_name: "Gustav-Adolf-Kirche (Berlin-Charlottenburg)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1555459"
 latitude: 52.5283
 longitude: 13.2989
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/400px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/800px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1200px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1920px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1920px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg---
 
 ## Overview
 

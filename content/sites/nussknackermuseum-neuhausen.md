@@ -4,13 +4,13 @@ site_name: "Nussknackermuseum Neuhausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuhausen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuhausen"
+  - "Saxony"
 wikidata_id: "Q27973174"
 latitude: 50.676661
 longitude: 13.466858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/400px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/800px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/1200px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/1920px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/1920px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG---
 
 ## Overview
 

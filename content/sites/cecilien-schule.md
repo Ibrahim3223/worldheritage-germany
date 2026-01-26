@@ -4,13 +4,13 @@ site_name: "Cecilien-Schule"
 date: 2026-01-26
 draft: false
 description: "school in Berlin-Wilmersdorf"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1052439"
 latitude: 52.49344
 longitude: 13.3276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/400px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/800px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/1200px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/1920px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/1920px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg---
 
 ## Overview
 

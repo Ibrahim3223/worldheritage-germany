@@ -4,13 +4,13 @@ site_name: "Gottfried-Silbermann-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Frauenstein, Saxony, Germany"
-region: "Frauenstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frauenstein"
+  - "Saxony"
 wikidata_id: "Q56703252"
 latitude: 50.8036
 longitude: 13.538956
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Markt_4_frauenstein_Museum_2023-02-04_5.jpg/400px-Markt_4_frauenstein_Museum_2023-02-04_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Markt_4_frauenstein_Museum_2023-02-04_5.jpg/800px-Markt_4_frauenstein_Museum_2023-02-04_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Markt_4_frauenstein_Museum_2023-02-04_5.jpg/1200px-Markt_4_frauenstein_Museum_2023-02-04_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Markt_4_frauenstein_Museum_2023-02-04_5.jpg/1920px-Markt_4_frauenstein_Museum_2023-02-04_5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Markt_4_frauenstein_Museum_2023-02-04_5.jpg/1920px-Markt_4_frauenstein_Museum_2023-02-04_5.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brandberge"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Sachsen-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q897821"
 latitude: 51.5097
 longitude: 11.9281
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/400px-Brandberge-Herbst.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/800px-Brandberge-Herbst.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1200px-Brandberge-Herbst.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1920px-Brandberge-Herbst.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1920px-Brandberge-Herbst.JPG---
 
 ## Overview
 

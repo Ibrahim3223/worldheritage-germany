@@ -4,13 +4,13 @@ site_name: "Christ-the-King church Lauchhammer"
 date: 2026-01-26
 draft: false
 description: "church building in Oberspreewald district, Brandenburg state, Germany"
-region: "Lauchhammer"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lauchhammer"
+  - "Brandenburg"
 wikidata_id: "Q1087189"
 latitude: 51.491583333
 longitude: 13.762555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/400px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/800px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1200px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1920px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1920px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg---
 
 ## Overview
 

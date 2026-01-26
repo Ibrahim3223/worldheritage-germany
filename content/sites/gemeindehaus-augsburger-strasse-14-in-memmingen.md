@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Augsburger Straße 14 in Memmingen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-7-64-000-320 (2) in Memmingen, Bavaria"
-region: "Memmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Memmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98722983"
 latitude: 47.987011856
 longitude: 10.189667447
 images:
-  []
----
+  []---
 
 ## Overview
 

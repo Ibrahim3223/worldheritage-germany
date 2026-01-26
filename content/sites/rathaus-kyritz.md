@@ -4,13 +4,13 @@ site_name: "Rathaus Kyritz"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Kyritz, Landkreis Ostprignitz-Ruppin, Brandenburg"
-region: "Kyritz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kyritz"
+  - "Brandenburg"
 wikidata_id: "Q136411527"
 latitude: 52.942346
 longitude: 12.398857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kyritz_Rathaus-01.jpg/400px-Kyritz_Rathaus-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kyritz_Rathaus-01.jpg/800px-Kyritz_Rathaus-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kyritz_Rathaus-01.jpg/1200px-Kyritz_Rathaus-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kyritz_Rathaus-01.jpg/1920px-Kyritz_Rathaus-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kyritz_Rathaus-01.jpg/1920px-Kyritz_Rathaus-01.jpg---
 
 ## Overview
 

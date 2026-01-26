@@ -4,13 +4,13 @@ site_name: "Römisches Museum mit Archäologischem Park Köngen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Köngen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Köngen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2202633"
 latitude: 48.6772
 longitude: 9.36028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/400px-Roemerpark_Koengen-2418.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/800px-Roemerpark_Koengen-2418.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/1200px-Roemerpark_Koengen-2418.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/1920px-Roemerpark_Koengen-2418.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/1920px-Roemerpark_Koengen-2418.jpg---
 
 ## Overview
 

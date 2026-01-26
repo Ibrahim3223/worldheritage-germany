@@ -4,13 +4,13 @@ site_name: "Neues Schloss Rauenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frankenblick"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankenblick"
+  - "Bavaria"
 wikidata_id: "Q18629298"
 latitude: 50.419655
 longitude: 11.052953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/400px-Rauenstein-Neues-Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/800px-Rauenstein-Neues-Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/1200px-Rauenstein-Neues-Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/1920px-Rauenstein-Neues-Schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/1920px-Rauenstein-Neues-Schloss.jpg---
 
 ## Overview
 

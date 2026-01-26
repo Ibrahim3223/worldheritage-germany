@@ -4,13 +4,13 @@ site_name: "Julius-Wolff-Brunnen"
 date: 2026-01-26
 draft: false
 description: "former fountain in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q1316386"
 latitude: 52.1448
 longitude: 9.960268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/400px-Renatabrunnen.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/800px-Renatabrunnen.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/1200px-Renatabrunnen.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/1920px-Renatabrunnen.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/1920px-Renatabrunnen.jpeg---
 
 ## Overview
 

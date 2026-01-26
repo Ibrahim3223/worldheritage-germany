@@ -4,13 +4,13 @@ site_name: "SieMatic"
 date: 2026-01-26
 draft: false
 description: "German kitchen manufacturer"
-region: "Löhne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Löhne"
+  - "Lower Saxony"
 wikidata_id: "Q2282079"
 latitude: 52.198611111
 longitude: 8.730555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/400px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/800px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/1200px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/1920px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/1920px-August-Wilhelm-Siekmann-Forum_Löhne.jpg---
 
 ## Overview
 

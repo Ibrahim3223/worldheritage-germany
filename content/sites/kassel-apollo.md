@@ -4,13 +4,13 @@ site_name: "Kassel Apollo"
 date: 2026-01-26
 draft: false
 description: "statue"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1607707"
 latitude: 51.31583333
 longitude: 9.49805556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Apollo_Kassel_type_Louvre_Ma884.jpg/400px-Apollo_Kassel_type_Louvre_Ma884.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Apollo_Kassel_type_Louvre_Ma884.jpg/800px-Apollo_Kassel_type_Louvre_Ma884.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Apollo_Kassel_type_Louvre_Ma884.jpg/1200px-Apollo_Kassel_type_Louvre_Ma884.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Apollo_Kassel_type_Louvre_Ma884.jpg/1920px-Apollo_Kassel_type_Louvre_Ma884.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Apollo_Kassel_type_Louvre_Ma884.jpg/1920px-Apollo_Kassel_type_Louvre_Ma884.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum für Mineralogie und Geologie Dresden"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1343014"
 latitude: 51.1289
 longitude: 13.79
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/400px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/800px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/1200px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/1920px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/1920px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg---
 
 ## Overview
 

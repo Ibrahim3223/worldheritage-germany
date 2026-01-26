@@ -4,13 +4,13 @@ site_name: "Langenberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Willingen (Upland)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Willingen (Upland)"
+  - "Hesse"
 wikidata_id: "Q314228"
 latitude: 51.276388888
 longitude: 8.558333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/400px-Langenberg_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/800px-Langenberg_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/1200px-Langenberg_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/1920px-Langenberg_von_Nordwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/1920px-Langenberg_von_Nordwesten.jpg---
 
 ## Overview
 

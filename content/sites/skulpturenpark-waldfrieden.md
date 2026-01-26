@@ -4,13 +4,13 @@ site_name: "Skulpturenpark Waldfrieden"
 date: 2026-01-26
 draft: false
 description: "sculpture garden"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q829830"
 latitude: 51.2528
 longitude: 7.16861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cragg_Skulpturenpark_05.JPG/400px-Cragg_Skulpturenpark_05.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cragg_Skulpturenpark_05.JPG/800px-Cragg_Skulpturenpark_05.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cragg_Skulpturenpark_05.JPG/1200px-Cragg_Skulpturenpark_05.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cragg_Skulpturenpark_05.JPG/1920px-Cragg_Skulpturenpark_05.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cragg_Skulpturenpark_05.JPG/1920px-Cragg_Skulpturenpark_05.JPG---
 
 ## Overview
 

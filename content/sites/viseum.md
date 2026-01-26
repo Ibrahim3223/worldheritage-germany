@@ -4,19 +4,18 @@ site_name: "Viseum"
 date: 2026-01-26
 draft: false
 description: "Science Centre in Germany"
-region: "Wetzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wetzlar"
+  - "Hesse"
 wikidata_id: "Q1803621"
 latitude: 50.555
 longitude: 8.50416
 images:
-  []
----
+  []---
 
 ## Overview
 

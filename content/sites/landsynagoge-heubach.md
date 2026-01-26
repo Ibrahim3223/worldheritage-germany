@@ -4,13 +4,13 @@ site_name: "Landsynagoge Heubach"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Heubach, Germany"
-region: "Kalbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kalbach"
+  - "Bavaria"
 wikidata_id: "Q1296155"
 latitude: 50.3839
 longitude: 9.71794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Synagoge_heubach.jpg/400px-Synagoge_heubach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Synagoge_heubach.jpg/800px-Synagoge_heubach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Synagoge_heubach.jpg/1200px-Synagoge_heubach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Synagoge_heubach.jpg/1920px-Synagoge_heubach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Synagoge_heubach.jpg/1920px-Synagoge_heubach.jpg---
 
 ## Overview
 

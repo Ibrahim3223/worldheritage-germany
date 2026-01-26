@@ -4,13 +4,13 @@ site_name: "Neuenburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Freyburg (Unstrut), Burgenlandkreis, Saxony-Anhalt, Germany"
-region: "Freyburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freyburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q895668"
 latitude: 51.2085
 longitude: 11.7755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg/400px-Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg/800px-Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Neuenburg_Castle_in_Freyburg_(view_from_the_southeast).jpg---
 
 ## Overview
 

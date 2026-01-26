@@ -4,13 +4,13 @@ site_name: "Schloss Seehof"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-71-159-52 (0) in Memmelsdorf, Bavaria"
-region: "Memmelsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Memmelsdorf"
+  - "Bavaria"
 wikidata_id: "Q883810"
 latitude: 49.926972325
 longitude: 10.947638527
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg/400px-Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg/800px-Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Schloss_Seehof_(view_from_the_southeast).jpg---
 
 ## Overview
 

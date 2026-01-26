@@ -4,13 +4,13 @@ site_name: "Museum St. Ingbert"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Sankt Ingbert"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sankt Ingbert"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1954493"
 latitude: 49.2789
 longitude: 7.1124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Museum_IGB.jpg/400px-Museum_IGB.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Museum_IGB.jpg/800px-Museum_IGB.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Museum_IGB.jpg/1200px-Museum_IGB.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Museum_IGB.jpg/1920px-Museum_IGB.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Museum_IGB.jpg/1920px-Museum_IGB.jpg---
 
 ## Overview
 

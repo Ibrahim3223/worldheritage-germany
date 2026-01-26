@@ -4,13 +4,13 @@ site_name: "Burg Holtzbrinck"
 date: 2026-01-26
 draft: false
 description: "castle in Altena, Germany"
-region: "Altena"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Altena"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012471"
 latitude: 51.2955
 longitude: 7.67379
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/400px-Burg_Holtzbrinck_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/800px-Burg_Holtzbrinck_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1200px-Burg_Holtzbrinck_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1920px-Burg_Holtzbrinck_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1920px-Burg_Holtzbrinck_02.JPG---
 
 ## Overview
 

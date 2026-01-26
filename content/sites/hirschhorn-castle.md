@@ -4,13 +4,13 @@ site_name: "Hirschhorn Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hirschhorn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hirschhorn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012353"
 latitude: 49.4494
 longitude: 8.89833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/400px-Burg_Hirschhorn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/800px-Burg_Hirschhorn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1200px-Burg_Hirschhorn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1920px-Burg_Hirschhorn.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1920px-Burg_Hirschhorn.JPG---
 
 ## Overview
 

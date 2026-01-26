@@ -4,13 +4,13 @@ site_name: "evangelische"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-61-000-398 (0) in Bamberg, Bavaria"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q1744548"
 latitude: 49.89
 longitude: 10.8856
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bamberg_Christuskirche_(Judenstraße_1).jpg/400px-Bamberg_Christuskirche_(Judenstraße_1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bamberg_Christuskirche_(Judenstraße_1).jpg/800px-Bamberg_Christuskirche_(Judenstraße_1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bamberg_Christuskirche_(Judenstraße_1).jpg/1200px-Bamberg_Christuskirche_(Judenstraße_1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bamberg_Christuskirche_(Judenstraße_1).jpg/1920px-Bamberg_Christuskirche_(Judenstraße_1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bamberg_Christuskirche_(Judenstraße_1).jpg/1920px-Bamberg_Christuskirche_(Judenstraße_1).jpg---
 
 ## Overview
 

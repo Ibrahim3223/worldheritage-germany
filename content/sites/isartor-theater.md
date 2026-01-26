@@ -4,13 +4,13 @@ site_name: "Isartor-Theater"
 date: 2026-01-26
 draft: false
 description: "former theatre and cinema in Munich, Germany"
-region: "Ludwigsvorstadt-Isarvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Ludwigsvorstadt-Isarvorstadt"
+  - "Bavaria"
 wikidata_id: "Q1468168"
 latitude: 48.1349
 longitude: 11.5812
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/400px-Leb_053.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/800px-Leb_053.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/1200px-Leb_053.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/1920px-Leb_053.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/1920px-Leb_053.jpg---
 
 ## Overview
 

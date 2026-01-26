@@ -4,13 +4,13 @@ site_name: "Marburger Kunstverein"
 date: 2026-01-26
 draft: false
 description: "voluntary association"
-region: "Marburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Marburg"
+  - "Hesse"
 wikidata_id: "Q1270251"
 latitude: 50.808738
 longitude: 8.773141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marburger_Kunstverein_BoogyBoogy_2008.jpg/400px-Marburger_Kunstverein_BoogyBoogy_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marburger_Kunstverein_BoogyBoogy_2008.jpg/800px-Marburger_Kunstverein_BoogyBoogy_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marburger_Kunstverein_BoogyBoogy_2008.jpg/1200px-Marburger_Kunstverein_BoogyBoogy_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marburger_Kunstverein_BoogyBoogy_2008.jpg/1920px-Marburger_Kunstverein_BoogyBoogy_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marburger_Kunstverein_BoogyBoogy_2008.jpg/1920px-Marburger_Kunstverein_BoogyBoogy_2008.jpg---
 
 ## Overview
 

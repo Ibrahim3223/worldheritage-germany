@@ -4,19 +4,18 @@ site_name: "Ensemble Eigenes Heim"
 date: 2026-01-26
 draft: false
 description: "Gebäudeensemble in Fürth"
-region: "Fürth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Fürth"
+  - "Bavaria"
 wikidata_id: "Q1344244"
 latitude: 49.487994
 longitude: 10.977803
 images:
-  []
----
+  []---
 
 ## Overview
 

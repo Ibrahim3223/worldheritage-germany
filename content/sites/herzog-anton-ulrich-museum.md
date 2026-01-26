@@ -4,13 +4,13 @@ site_name: "Herzog Anton Ulrich Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Braunschweig, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q678082"
 latitude: 52.2635
 longitude: 10.533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/400px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/800px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/1200px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/1920px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/1920px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg---
 
 ## Overview
 

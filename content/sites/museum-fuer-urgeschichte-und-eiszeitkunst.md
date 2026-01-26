@@ -4,13 +4,13 @@ site_name: "Museum für Urgeschichte und Eiszeitkunst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Blaubeuren"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Blaubeuren"
+  - "Baden-Württemberg"
 wikidata_id: "Q26836738"
 latitude: 48.4117324
 longitude: 9.7850221
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/400px-Urgeschichtliches_Museum_Blaubeuren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/800px-Urgeschichtliches_Museum_Blaubeuren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/1200px-Urgeschichtliches_Museum_Blaubeuren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/1920px-Urgeschichtliches_Museum_Blaubeuren.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/1920px-Urgeschichtliches_Museum_Blaubeuren.jpg---
 
 ## Overview
 

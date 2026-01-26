@@ -4,13 +4,13 @@ site_name: "Burg Naumburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bärenbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bärenbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013202"
 latitude: 49.7519
 longitude: 7.4321
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/400px-Burg_Naumburg,_Bärenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/800px-Burg_Naumburg,_Bärenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/1200px-Burg_Naumburg,_Bärenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/1920px-Burg_Naumburg,_Bärenbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/1920px-Burg_Naumburg,_Bärenbach.jpg---
 
 ## Overview
 

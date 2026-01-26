@@ -4,13 +4,13 @@ site_name: "Baitul-Jame"
 date: 2026-01-26
 draft: false
 description: "mosque in Offenbach am Main, Germany"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q3408742"
 latitude: 50.09888889
 longitude: 8.79083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/400px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/800px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1200px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1920px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1920px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg---
 
 ## Overview
 

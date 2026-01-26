@@ -4,13 +4,13 @@ site_name: "St. Georg, Lübeck"
 date: 2026-01-26
 draft: false
 description: "church building in Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1755503"
 latitude: 53.84091
 longitude: 10.65011
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/400px-StGeorgLübeckKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/800px-StGeorgLübeckKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/1200px-StGeorgLübeckKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/1920px-StGeorgLübeckKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/1920px-StGeorgLübeckKirche.jpg---
 
 ## Overview
 

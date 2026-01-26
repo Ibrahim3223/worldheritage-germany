@@ -4,13 +4,13 @@ site_name: "Ballplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q805346"
 latitude: 49.9976
 longitude: 8.26932
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ballplatz1.jpg/400px-Ballplatz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ballplatz1.jpg/800px-Ballplatz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ballplatz1.jpg/1200px-Ballplatz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ballplatz1.jpg/1920px-Ballplatz1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ballplatz1.jpg/1920px-Ballplatz1.jpg---
 
 ## Overview
 

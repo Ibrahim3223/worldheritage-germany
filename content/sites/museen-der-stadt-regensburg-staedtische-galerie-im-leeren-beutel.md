@@ -4,19 +4,18 @@ site_name: "Museen der Stadt Regensburg / Städtische Galerie im Leeren Beutel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629238"
 latitude: 49.018348
 longitude: 12.103128
 images:
-  []
----
+  []---
 
 ## Overview
 

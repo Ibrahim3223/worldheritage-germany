@@ -4,13 +4,13 @@ site_name: "Church in Alt Bukow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Alt Bukow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Alt Bukow"
+  - "Lower Saxony"
 wikidata_id: "Q1380463"
 latitude: 53.9963
 longitude: 11.6079
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/400px-Alt_Bukow_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/800px-Alt_Bukow_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1200px-Alt_Bukow_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1920px-Alt_Bukow_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1920px-Alt_Bukow_3.jpg---
 
 ## Overview
 

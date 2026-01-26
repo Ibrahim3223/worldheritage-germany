@@ -4,13 +4,13 @@ site_name: "Volkswagenwerk Braunschweig"
 date: 2026-01-26
 draft: false
 description: "Supplier plant for chassis parts within VW group of companies"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q977598"
 latitude: 52.29361111
 longitude: 10.52305556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/400px-BS_VW_Werk_VerWGeb_P.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/800px-BS_VW_Werk_VerWGeb_P.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/1200px-BS_VW_Werk_VerWGeb_P.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/1920px-BS_VW_Werk_VerWGeb_P.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/1920px-BS_VW_Werk_VerWGeb_P.JPG---
 
 ## Overview
 

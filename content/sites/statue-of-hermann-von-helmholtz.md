@@ -4,13 +4,13 @@ site_name: "Statue of Hermann von Helmholtz"
 date: 2026-01-26
 draft: false
 description: "monument by Ernst Herter"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24976702"
 latitude: 52.51785
 longitude: 13.39374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg/400px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg/800px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg/1200px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg/1920px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg/1920px-Berlin,_Mitte,_Humboldt-Universitaet,_Standbild_Hermann_von_Helmholtz_04.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gustav-Schwab-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Gomaringen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gomaringen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1480930"
 latitude: 48.4529
 longitude: 9.09582
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gomaringer_Schloss.jpg/400px-Gomaringer_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gomaringer_Schloss.jpg/800px-Gomaringer_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gomaringer_Schloss.jpg/1200px-Gomaringer_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gomaringer_Schloss.jpg/1920px-Gomaringer_Schloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gomaringer_Schloss.jpg/1920px-Gomaringer_Schloss.jpg---
 
 ## Overview
 

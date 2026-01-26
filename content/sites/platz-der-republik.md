@@ -4,13 +4,13 @@ site_name: "Platz der Republik"
 date: 2026-01-26
 draft: false
 description: "public square in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q131995"
 latitude: 52.5186
 longitude: 13.3725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reichstag_mit_Wiese2.jpg/400px-Reichstag_mit_Wiese2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reichstag_mit_Wiese2.jpg/800px-Reichstag_mit_Wiese2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reichstag_mit_Wiese2.jpg/1200px-Reichstag_mit_Wiese2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reichstag_mit_Wiese2.jpg/1920px-Reichstag_mit_Wiese2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reichstag_mit_Wiese2.jpg/1920px-Reichstag_mit_Wiese2.jpg---
 
 ## Overview
 

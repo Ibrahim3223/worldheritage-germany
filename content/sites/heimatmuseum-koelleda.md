@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Kölleda"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kölleda"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kölleda"
+  - "Saxony-Anhalt"
 wikidata_id: "Q25474068"
 latitude: 51.1879795
 longitude: 11.2488756
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/400px-Museum_Kölleda.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/800px-Museum_Kölleda.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/1200px-Museum_Kölleda.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/1920px-Museum_Kölleda.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/1920px-Museum_Kölleda.JPG---
 
 ## Overview
 

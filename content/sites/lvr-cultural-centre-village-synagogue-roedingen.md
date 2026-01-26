@@ -4,13 +4,13 @@ site_name: "LVR-Cultural Centre Village Synagogue Rödingen"
 date: 2026-01-26
 draft: false
 description: "historic synagogue in North Rhine-Westphalia, Germany"
-region: "Titz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Titz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1785183"
 latitude: 50.9655
 longitude: 6.4612
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/400px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/800px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/1200px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/1920px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/1920px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg---
 
 ## Overview
 

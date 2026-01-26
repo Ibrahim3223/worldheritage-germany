@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Wadern"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wadern"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wadern"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q44549195"
 latitude: 49.53893
 longitude: 6.889308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/400px-OettingerSchloesschenWadern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/800px-OettingerSchloesschenWadern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/1200px-OettingerSchloesschenWadern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/1920px-OettingerSchloesschenWadern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/1920px-OettingerSchloesschenWadern.jpg---
 
 ## Overview
 

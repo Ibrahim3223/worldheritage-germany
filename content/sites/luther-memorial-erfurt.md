@@ -4,13 +4,13 @@ site_name: "Luther memorial Erfurt"
 date: 2026-01-26
 draft: false
 description: "Memorial for Martin Luther in Erfurt"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1877873"
 latitude: 50.9776
 longitude: 11.0352
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/400px-Lutherdenkmal_Erfurt2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/800px-Lutherdenkmal_Erfurt2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/1200px-Lutherdenkmal_Erfurt2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/1920px-Lutherdenkmal_Erfurt2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/1920px-Lutherdenkmal_Erfurt2.JPG---
 
 ## Overview
 

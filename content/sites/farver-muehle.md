@@ -4,13 +4,13 @@ site_name: "Farver Mühle"
 date: 2026-01-26
 draft: false
 description: "Die Windmühle wurde 1828 als Mühle des Gutes Farve als Ersatz für eine Wassermühle errichtet (mit Segelflügeln und „Steert“). In den 1930er Jahren wur"
-region: "Wangels"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Wangels"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1397236"
 latitude: 54.2894
 longitude: 10.7933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/400px-Farver_Muehle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/800px-Farver_Muehle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/1200px-Farver_Muehle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/1920px-Farver_Muehle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/1920px-Farver_Muehle.JPG---
 
 ## Overview
 

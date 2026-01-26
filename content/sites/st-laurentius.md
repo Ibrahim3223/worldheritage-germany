@@ -4,13 +4,13 @@ site_name: "St. Laurentius"
 date: 2026-01-26
 draft: false
 description: "church building in Schönberg, Germany"
-region: "Schönberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schönberg"
+  - "Lower Saxony"
 wikidata_id: "Q1462340"
 latitude: 53.845
 longitude: 10.9334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LaurentiusSchönberg03.JPG/400px-LaurentiusSchönberg03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LaurentiusSchönberg03.JPG/800px-LaurentiusSchönberg03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LaurentiusSchönberg03.JPG/1200px-LaurentiusSchönberg03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LaurentiusSchönberg03.JPG/1920px-LaurentiusSchönberg03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LaurentiusSchönberg03.JPG/1920px-LaurentiusSchönberg03.JPG---
 
 ## Overview
 

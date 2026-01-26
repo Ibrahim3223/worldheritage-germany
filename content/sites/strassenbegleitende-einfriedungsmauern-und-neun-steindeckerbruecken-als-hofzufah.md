@@ -4,19 +4,18 @@ site_name: "Straßenbegleitende Einfriedungsmauern und neun Steindeckerbrücken 
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Laußnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Laußnitz"
+  - "Saxony"
 wikidata_id: "Q49407480"
 latitude: 51.225379
 longitude: 13.900828
 images:
-  []
----
+  []---
 
 ## Overview
 

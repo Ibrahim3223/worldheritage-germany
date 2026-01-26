@@ -4,19 +4,18 @@ site_name: "Burg Kranzenau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bötzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bötzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012727"
 latitude: 48.0602
 longitude: 7.72052
 images:
-  []
----
+  []---
 
 ## Overview
 

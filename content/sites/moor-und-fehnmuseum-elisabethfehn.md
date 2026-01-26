@@ -4,13 +4,13 @@ site_name: "Moor- und Fehnmuseum Elisabethfehn"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Barßel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Barßel"
+  - "Lower Saxony"
 wikidata_id: "Q973927"
 latitude: 53.15
 longitude: 7.71
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg/400px-Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg/800px-Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg/1200px-Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg/1920px-Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg/1920px-Barßel_-_Moor-_und_Fehnmuseum_(Aussichtsturm)_03_ies.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Felsberg"
 date: 2026-01-26
 draft: false
 description: "Odenwald mountain in Germany"
-region: "Hesse"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Hesse"
+  - "Baden-Württemberg"
 wikidata_id: "Q185281"
 latitude: 49.7306
 longitude: 8.684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Felsberg_(Odenwald).JPG/400px-Felsberg_(Odenwald).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Felsberg_(Odenwald).JPG/800px-Felsberg_(Odenwald).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Felsberg_(Odenwald).JPG/1200px-Felsberg_(Odenwald).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Felsberg_(Odenwald).JPG/1920px-Felsberg_(Odenwald).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Felsberg_(Odenwald).JPG/1920px-Felsberg_(Odenwald).JPG---
 
 ## Overview
 

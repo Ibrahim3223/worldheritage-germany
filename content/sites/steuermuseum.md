@@ -4,19 +4,18 @@ site_name: "Steuermuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Brühl"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brühl"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1295010"
 latitude: 50.8316
 longitude: 6.88317
 images:
-  []
----
+  []---
 
 ## Overview
 

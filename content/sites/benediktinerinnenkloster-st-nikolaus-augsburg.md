@@ -4,19 +4,18 @@ site_name: "Benediktinerinnenkloster St. Nikolaus, Augsburg"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q817049"
 latitude: 48.319591
 longitude: 10.893649
 images:
-  []
----
+  []---
 
 ## Overview
 

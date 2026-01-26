@@ -4,13 +4,13 @@ site_name: "Kirchenruine Käcklitz"
 date: 2026-01-26
 draft: false
 description: "church building in Hohenberg-Krusemark, Saxony-Anhalt, Germany"
-region: "Hohenberg-Krusemark"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hohenberg-Krusemark"
+  - "Brandenburg"
 wikidata_id: "Q1743228"
 latitude: 52.7752
 longitude: 12.0151
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/400px-Kirchenruine_Käcklitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/800px-Kirchenruine_Käcklitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/1200px-Kirchenruine_Käcklitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/1920px-Kirchenruine_Käcklitz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/1920px-Kirchenruine_Käcklitz.JPG---
 
 ## Overview
 

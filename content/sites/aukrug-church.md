@@ -4,13 +4,13 @@ site_name: "Aukrug church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Aukrug"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aukrug"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1380500"
 latitude: 54.0797
 longitude: 9.78564
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/400px-Kirche-quardratisch-2018.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/800px-Kirche-quardratisch-2018.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1200px-Kirche-quardratisch-2018.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1920px-Kirche-quardratisch-2018.gif
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1920px-Kirche-quardratisch-2018.gif---
 
 ## Overview
 

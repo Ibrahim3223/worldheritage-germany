@@ -4,19 +4,18 @@ site_name: "Norderneyer Fischerhausmuseum"
 date: 2026-01-26
 draft: false
 description: "local museum in Norderney, Germany"
-region: "Norderney"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Norderney"
+  - "Lower Saxony"
 wikidata_id: "Q20646181"
 latitude: 53.703027777
 longitude: 7.144111111
 images:
-  []
----
+  []---
 
 ## Overview
 

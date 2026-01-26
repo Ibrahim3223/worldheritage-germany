@@ -4,13 +4,13 @@ site_name: "Hans-Fallada-Haus (Carwitz, Germany)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Feldberger Seenlandschaft"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Feldberger Seenlandschaft"
+  - "Brandenburg"
 wikidata_id: "Q1576940"
 latitude: 53.3018
 longitude: 13.4449
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/400px-Fallada-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/800px-Fallada-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/1200px-Fallada-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/1920px-Fallada-Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/1920px-Fallada-Haus.jpg---
 
 ## Overview
 

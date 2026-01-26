@@ -4,19 +4,18 @@ site_name: "Römermuseum Schwarzenacker"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Homburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Homburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2179623"
 latitude: 49.2828
 longitude: 7.31663
 images:
-  []
----
+  []---
 
 ## Overview
 

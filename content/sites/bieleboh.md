@@ -4,13 +4,13 @@ site_name: "Bieleboh"
 date: 2026-01-26
 draft: false
 description: "mountain in Upper Lusatia"
-region: "Beiersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Beiersdorf"
+  - "Saxony"
 wikidata_id: "Q160195"
 latitude: 51.080833333
 longitude: 14.521388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/400px-Běłobóh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/800px-Běłobóh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1200px-Běłobóh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1920px-Běłobóh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1920px-Běłobóh.jpg---
 
 ## Overview
 

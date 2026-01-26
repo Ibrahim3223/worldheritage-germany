@@ -4,13 +4,13 @@ site_name: "Synagoge (Bad Orb)"
 date: 2026-01-26
 draft: false
 description: "Synagoge in Bad Orb"
-region: "Bad Orb"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bad Orb"
+  - "Bavaria"
 wikidata_id: "Q1532005"
 latitude: 50.2254
 longitude: 9.3483
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ehemalige_Synagoge_Bad_Orb.jpg/400px-Ehemalige_Synagoge_Bad_Orb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ehemalige_Synagoge_Bad_Orb.jpg/800px-Ehemalige_Synagoge_Bad_Orb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ehemalige_Synagoge_Bad_Orb.jpg/1200px-Ehemalige_Synagoge_Bad_Orb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ehemalige_Synagoge_Bad_Orb.jpg/1920px-Ehemalige_Synagoge_Bad_Orb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ehemalige_Synagoge_Bad_Orb.jpg/1920px-Ehemalige_Synagoge_Bad_Orb.jpg---
 
 ## Overview
 

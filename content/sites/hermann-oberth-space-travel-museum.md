@@ -4,13 +4,13 @@ site_name: "Hermann Oberth Space Travel Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Museum im Landkreis Nürnberger Land in Bavaria"
-region: "Feucht"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Feucht"
+  - "Bavaria"
 wikidata_id: "Q1610464"
 latitude: 49.375
 longitude: 11.211666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/400px-Raumfahrtmuseum_Feucht_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/800px-Raumfahrtmuseum_Feucht_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/1200px-Raumfahrtmuseum_Feucht_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/1920px-Raumfahrtmuseum_Feucht_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/1920px-Raumfahrtmuseum_Feucht_05.jpg---
 
 ## Overview
 

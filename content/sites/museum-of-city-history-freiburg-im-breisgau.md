@@ -4,13 +4,13 @@ site_name: "Museum of City History (Freiburg-im-Breisgau)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954675"
 latitude: 47.99493
 longitude: 7.85315
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/400px-Münsterplatz_(Freiburg)_jm3211.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/800px-Münsterplatz_(Freiburg)_jm3211.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/1200px-Münsterplatz_(Freiburg)_jm3211.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/1920px-Münsterplatz_(Freiburg)_jm3211.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/1920px-Münsterplatz_(Freiburg)_jm3211.jpg---
 
 ## Overview
 

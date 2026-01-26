@@ -4,13 +4,13 @@ site_name: "Gottesackerkapelle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gutenzell-Hürbel"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gutenzell-Hürbel"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012123"
 latitude: 48.127
 longitude: 9.99243
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gottesackerkapelle_(Gutenzell)-f.jpg/400px-Gottesackerkapelle_(Gutenzell)-f.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gottesackerkapelle_(Gutenzell)-f.jpg/800px-Gottesackerkapelle_(Gutenzell)-f.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gottesackerkapelle_(Gutenzell)-f.jpg/1200px-Gottesackerkapelle_(Gutenzell)-f.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gottesackerkapelle_(Gutenzell)-f.jpg/1920px-Gottesackerkapelle_(Gutenzell)-f.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gottesackerkapelle_(Gutenzell)-f.jpg/1920px-Gottesackerkapelle_(Gutenzell)-f.jpg---
 
 ## Overview
 

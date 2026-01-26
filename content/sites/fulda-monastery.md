@@ -4,13 +4,13 @@ site_name: "Fulda monastery"
 date: 2026-01-26
 draft: false
 description: "Abbey in Germany"
-region: "Fulda"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Fulda"
+  - "Bavaria"
 wikidata_id: "Q661240"
 latitude: 50.554027777
 longitude: 9.67175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/400px-Fulda-abt2.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/800px-Fulda-abt2.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1200px-Fulda-abt2.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1920px-Fulda-abt2.PNG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1920px-Fulda-abt2.PNG---
 
 ## Overview
 

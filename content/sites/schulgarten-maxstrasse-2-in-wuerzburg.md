@@ -4,19 +4,18 @@ site_name: "Schulgarten Maxstraße 2 in Würzburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-63-000-754 (1) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q98497105"
 latitude: 49.793784141
 longitude: 9.936058465
 images:
-  []
----
+  []---
 
 ## Overview
 

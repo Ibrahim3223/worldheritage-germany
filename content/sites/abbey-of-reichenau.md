@@ -4,13 +4,13 @@ site_name: "Abbey of Reichenau"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Reichenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "State In The Holy Roman Empire"
 categories:
   - "State In The Holy Roman Empire"
 regions:
-  - "Reichenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q679114"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/400px-Kloster_Reichenau_(Foto_Hilarmont).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/800px-Kloster_Reichenau_(Foto_Hilarmont).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/1200px-Kloster_Reichenau_(Foto_Hilarmont).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/1920px-Kloster_Reichenau_(Foto_Hilarmont).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/1920px-Kloster_Reichenau_(Foto_Hilarmont).jpg---
 
 ## Overview
 

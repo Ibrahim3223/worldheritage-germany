@@ -4,13 +4,13 @@ site_name: "Museum für Bodenschätzung"
 date: 2026-01-26
 draft: false
 description: "museum in Eickendorf, Germany"
-region: "Bördeland"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bördeland"
+  - "Brandenburg"
 wikidata_id: "Q1693493"
 latitude: 51.9486
 longitude: 11.6752
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/400px-Eickendorf_Museum_Vorderseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/800px-Eickendorf_Museum_Vorderseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/1200px-Eickendorf_Museum_Vorderseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/1920px-Eickendorf_Museum_Vorderseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/1920px-Eickendorf_Museum_Vorderseite.JPG---
 
 ## Overview
 

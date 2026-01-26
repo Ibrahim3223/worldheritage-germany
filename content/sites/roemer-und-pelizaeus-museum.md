@@ -4,13 +4,13 @@ site_name: "Roemer- und Pelizaeus-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Hildesheim, Germany, among others with collection of ancient Egypt"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q896935"
 latitude: 52.149326805
 longitude: 9.9441505
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/400px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/800px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/1200px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/1920px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/1920px-Hildesheim_Roemer.Pelizaeus.Museum.JPG---
 
 ## Overview
 

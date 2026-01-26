@@ -4,19 +4,18 @@ site_name: "Städtische Gemäldegalerie"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q27938137"
 latitude: 51.314444444
 longitude: 9.496388888
 images:
-  []
----
+  []---
 
 ## Overview
 

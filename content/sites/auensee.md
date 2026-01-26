@@ -4,13 +4,13 @@ site_name: "Auensee"
 date: 2026-01-26
 draft: false
 description: "lake in Aichach-Friedberg, Bavaria, Germany"
-region: "Aichach-Friedberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Aichach-Friedberg"
+  - "Bavaria"
 wikidata_id: "Q281196"
 latitude: 48.312086111
 longitude: 10.951588888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/400px-Auensee_Kissing.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/800px-Auensee_Kissing.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/1200px-Auensee_Kissing.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/1920px-Auensee_Kissing.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/1920px-Auensee_Kissing.JPG---
 
 ## Overview
 

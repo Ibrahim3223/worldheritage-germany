@@ -4,13 +4,13 @@ site_name: "Egelsbergmühle"
 date: 2026-01-26
 draft: false
 description: "Turmwindmühle in Nordrhein-Westfalen"
-region: "Krefeld"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Krefeld"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1297095"
 latitude: 51.3861
 longitude: 6.59535
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg/400px-Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg/800px-Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg/1200px-Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg/1920px-Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg/1920px-Krefeld,_Egelsbergmühle,_2011-08_CN-01.jpg---
 
 ## Overview
 

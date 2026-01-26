@@ -4,19 +4,18 @@ site_name: "Berliner Motorwagen-Fabrik"
 date: 2026-01-26
 draft: false
 description: "former automobile manufacturer"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q821656"
 latitude: 52.568214894
 longitude: 13.384284266
 images:
-  []
----
+  []---
 
 ## Overview
 

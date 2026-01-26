@@ -4,19 +4,18 @@ site_name: "Antoniterkloster Bamberg"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q606487"
 latitude: 49.8921
 longitude: 10.8913
 images:
-  []
----
+  []---
 
 ## Overview
 

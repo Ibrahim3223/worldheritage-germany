@@ -4,13 +4,13 @@ site_name: "Maria-Magdalenkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1616118"
 latitude: 53.873111111
 longitude: 10.690111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/400px-EhemMagdalenkircheHL.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/800px-EhemMagdalenkircheHL.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/1200px-EhemMagdalenkircheHL.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/1920px-EhemMagdalenkircheHL.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/1920px-EhemMagdalenkircheHL.JPG---
 
 ## Overview
 

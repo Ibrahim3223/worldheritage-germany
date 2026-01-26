@@ -4,19 +4,18 @@ site_name: "Zeche Backwinkler Erbstolln"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169669"
 latitude: 51.4525
 longitude: 7.21882
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fritz-Reuter-Literaturmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Stavenhagen"
-region: "Stavenhagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stavenhagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1465416"
 latitude: 53.6953
 longitude: 12.9088
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/400px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/800px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/1200px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/1920px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/1920px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg---
 
 ## Overview
 

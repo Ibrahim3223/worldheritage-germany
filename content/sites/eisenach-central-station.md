@@ -4,13 +4,13 @@ site_name: "Eisenach Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Thuringia, Germany"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q319908"
 latitude: 50.97678
 longitude: 10.332013
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/400px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/800px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/1200px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/1920px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/1920px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg---
 
 ## Overview
 

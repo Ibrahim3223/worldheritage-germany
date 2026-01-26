@@ -4,13 +4,13 @@ site_name: "Murg aqueduct"
 date: 2026-01-26
 draft: false
 description: "bridge in Forbach, Germany"
-region: "Forbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Forbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q29561598"
 latitude: 48.70752
 longitude: 8.36115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/400px-Stampfbetonbrücke-Murg_IMGP2346.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/800px-Stampfbetonbrücke-Murg_IMGP2346.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/1200px-Stampfbetonbrücke-Murg_IMGP2346.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/1920px-Stampfbetonbrücke-Murg_IMGP2346.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/1920px-Stampfbetonbrücke-Murg_IMGP2346.jpg---
 
 ## Overview
 

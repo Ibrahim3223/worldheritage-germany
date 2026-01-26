@@ -4,13 +4,13 @@ site_name: "Grimersum Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1546833"
 latitude: 53.4776
 longitude: 7.17089
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/400px-ChurchGrimersum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/800px-ChurchGrimersum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1200px-ChurchGrimersum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1920px-ChurchGrimersum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1920px-ChurchGrimersum.jpg---
 
 ## Overview
 

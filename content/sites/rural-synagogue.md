@@ -4,13 +4,13 @@ site_name: "rural synagogue"
 date: 2026-01-26
 draft: false
 description: "former german synagogue"
-region: "Weimar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Weimar"
+  - "Hesse"
 wikidata_id: "Q1742803"
 latitude: 50.7278
 longitude: 8.72667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/400px-Roth_Synagogues.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/800px-Roth_Synagogues.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/1200px-Roth_Synagogues.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/1920px-Roth_Synagogues.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/1920px-Roth_Synagogues.jpg---
 
 ## Overview
 

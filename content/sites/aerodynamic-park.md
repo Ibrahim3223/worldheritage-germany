@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/400px-Aerodynamic_park_Berlin_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/800px-Aerodynamic_park_Berlin_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/1200px-Aerodynamic_park_Berlin_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/1920px-Aerodynamic_park_Berlin_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/1920px-Aerodynamic_park_Berlin_1.JPG---
 
 ## Overview
 

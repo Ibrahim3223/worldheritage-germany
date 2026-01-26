@@ -4,13 +4,13 @@ site_name: "Church in Müsselmow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kuhlen-Wendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kuhlen-Wendorf"
+  - "Lower Saxony"
 wikidata_id: "Q1244555"
 latitude: 53.681
 longitude: 11.6245
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/400px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/800px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1200px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1920px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1920px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum für dörfliche Alltagskultur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Gersheim"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gersheim"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1954707"
 latitude: 49.17377778
 longitude: 7.20719444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/400px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/800px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/1200px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/1920px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/1920px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG---
 
 ## Overview
 

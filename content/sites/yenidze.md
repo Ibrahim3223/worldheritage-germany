@@ -4,13 +4,13 @@ site_name: "Yenidze"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q512953"
 latitude: 51.059019
 longitude: 13.726853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dresden_Yenidze02.jpg/400px-Dresden_Yenidze02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dresden_Yenidze02.jpg/800px-Dresden_Yenidze02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dresden_Yenidze02.jpg/1200px-Dresden_Yenidze02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dresden_Yenidze02.jpg/1920px-Dresden_Yenidze02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dresden_Yenidze02.jpg/1920px-Dresden_Yenidze02.jpg---
 
 ## Overview
 

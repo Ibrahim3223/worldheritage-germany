@@ -4,19 +4,18 @@ site_name: "Zinnschützweiher"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q205128"
 latitude: 50.0264
 longitude: 11.9014
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Friedrichshafen school museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Friedrichshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q10000136"
 latitude: 47.652177
 longitude: 9.469365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/400px-FN_Schulmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/800px-FN_Schulmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/1200px-FN_Schulmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/1920px-FN_Schulmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/1920px-FN_Schulmuseum.jpg---
 
 ## Overview
 

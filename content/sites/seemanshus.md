@@ -4,13 +4,13 @@ site_name: "Seemanshus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Langeoog"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Langeoog"
+  - "Lower Saxony"
 wikidata_id: "Q19958399"
 latitude: 53.74618
 longitude: 7.47795
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/400px-Standesamt_Langeoog_altes_Seemanshus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/800px-Standesamt_Langeoog_altes_Seemanshus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/1200px-Standesamt_Langeoog_altes_Seemanshus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/1920px-Standesamt_Langeoog_altes_Seemanshus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/1920px-Standesamt_Langeoog_altes_Seemanshus.jpg---
 
 ## Overview
 

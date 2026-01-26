@@ -4,13 +4,13 @@ site_name: "Dankes-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1164248"
 latitude: 52.5412
 longitude: 13.3696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dankeskirche_Berlin-Wedding.jpg/400px-Dankeskirche_Berlin-Wedding.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dankeskirche_Berlin-Wedding.jpg/800px-Dankeskirche_Berlin-Wedding.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dankeskirche_Berlin-Wedding.jpg/1200px-Dankeskirche_Berlin-Wedding.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dankeskirche_Berlin-Wedding.jpg/1920px-Dankeskirche_Berlin-Wedding.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dankeskirche_Berlin-Wedding.jpg/1920px-Dankeskirche_Berlin-Wedding.jpg---
 
 ## Overview
 

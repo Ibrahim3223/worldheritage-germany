@@ -4,13 +4,13 @@ site_name: "Grimm National Monument Hanau"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q996681"
 latitude: 50.133
 longitude: 8.91699
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/400px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/800px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/1200px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/1920px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/1920px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG---
 
 ## Overview
 

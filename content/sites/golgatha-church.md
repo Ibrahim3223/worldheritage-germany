@@ -4,13 +4,13 @@ site_name: "Golgatha church"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q11722061"
 latitude: 52.529049
 longitude: 13.390713
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/400px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/800px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/1200px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/1920px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/1920px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg---
 
 ## Overview
 

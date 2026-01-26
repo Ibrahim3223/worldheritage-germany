@@ -4,13 +4,13 @@ site_name: "Blasiuskapelle"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Dornburg"
-region: "Dornburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Dornburg"
+  - "Hesse"
 wikidata_id: "Q881917"
 latitude: 50.5151
 longitude: 8.01153
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Frickhofen_-_Blasiuskapelle.jpg/400px-Frickhofen_-_Blasiuskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Frickhofen_-_Blasiuskapelle.jpg/800px-Frickhofen_-_Blasiuskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Frickhofen_-_Blasiuskapelle.jpg/1200px-Frickhofen_-_Blasiuskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Frickhofen_-_Blasiuskapelle.jpg/1920px-Frickhofen_-_Blasiuskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Frickhofen_-_Blasiuskapelle.jpg/1920px-Frickhofen_-_Blasiuskapelle.jpg---
 
 ## Overview
 

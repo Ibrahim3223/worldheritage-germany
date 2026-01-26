@@ -4,13 +4,13 @@ site_name: "Georgium"
 date: 2026-01-26
 draft: false
 description: "castle and sculpture garden in Dessau, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q322046"
 latitude: 51.8444
 longitude: 12.2308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/400px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/800px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1200px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1920px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1920px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg---
 
 ## Overview
 

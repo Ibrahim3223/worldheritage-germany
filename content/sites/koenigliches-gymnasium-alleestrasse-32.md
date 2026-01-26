@@ -4,13 +4,13 @@ site_name: "Königliches Gymnasium, Alleestraße 32"
 date: 2026-01-26
 draft: false
 description: "school building"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1419424"
 latitude: 51.226
 longitude: 6.77794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/400px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/800px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/1200px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/1920px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/1920px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg---
 
 ## Overview
 

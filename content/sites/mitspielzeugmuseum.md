@@ -4,13 +4,13 @@ site_name: "Mitspielzeugmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stötteritz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stötteritz"
+  - "Saxony"
 wikidata_id: "Q1762268"
 latitude: 51.31489
 longitude: 12.40712
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/400px-Mitspielzeugmuseum_Leipzig.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/800px-Mitspielzeugmuseum_Leipzig.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/1200px-Mitspielzeugmuseum_Leipzig.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/1920px-Mitspielzeugmuseum_Leipzig.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/1920px-Mitspielzeugmuseum_Leipzig.JPG---
 
 ## Overview
 

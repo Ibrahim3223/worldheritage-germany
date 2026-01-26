@@ -4,13 +4,13 @@ site_name: "Rathaus Luckau"
 date: 2026-01-26
 draft: false
 description: "Verwaltungsgebäude der Stadt Luckau im Landkreis Dahme-Spreewald in Brandenburg"
-region: "Luckau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Luckau"
+  - "Brandenburg"
 wikidata_id: "Q120468409"
 latitude: 51.852594
 longitude: 13.714828
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Luckau_Rathaus-01.jpg/400px-Luckau_Rathaus-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Luckau_Rathaus-01.jpg/800px-Luckau_Rathaus-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Luckau_Rathaus-01.jpg/1200px-Luckau_Rathaus-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Luckau_Rathaus-01.jpg/1920px-Luckau_Rathaus-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Luckau_Rathaus-01.jpg/1920px-Luckau_Rathaus-01.jpg---
 
 ## Overview
 

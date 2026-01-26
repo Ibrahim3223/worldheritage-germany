@@ -4,13 +4,13 @@ site_name: "Omar Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Düsseldorf, North Rhine-Westphalia, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q130249524"
 latitude: 51.217694444
 longitude: 6.788583333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/400px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/800px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/1200px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/1920px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/1920px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg---
 
 ## Overview
 

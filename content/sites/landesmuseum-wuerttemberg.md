@@ -4,13 +4,13 @@ site_name: "Landesmuseum Württemberg"
 date: 2026-01-26
 draft: false
 description: "museum in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1332706"
 latitude: 48.777
 longitude: 9.17947
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/400px-Stuttgart_AltesSchloss03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/800px-Stuttgart_AltesSchloss03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/1200px-Stuttgart_AltesSchloss03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/1920px-Stuttgart_AltesSchloss03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/1920px-Stuttgart_AltesSchloss03.JPG---
 
 ## Overview
 

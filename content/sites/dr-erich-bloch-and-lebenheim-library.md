@@ -4,13 +4,13 @@ site_name: "Dr. Erich-Bloch and Lebenheim Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q1253734"
 latitude: 47.65843
 longitude: 9.17542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/400px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/800px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/1200px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/1920px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/1920px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg---
 
 ## Overview
 

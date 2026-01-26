@@ -4,13 +4,13 @@ site_name: "Museum Biberach"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Biberach an der Riss"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Biberach an der Riss"
+  - "Baden-Württemberg"
 wikidata_id: "Q897462"
 latitude: 48.0979
 longitude: 9.79015
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/400px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/800px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/1200px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/1920px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/1920px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg---
 
 ## Overview
 

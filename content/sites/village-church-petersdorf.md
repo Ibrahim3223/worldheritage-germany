@@ -4,13 +4,13 @@ site_name: "Village church Petersdorf"
 date: 2026-01-26
 draft: false
 description: "listed hall church in Jacobsdorf, district of Petersdorf, Brandenburg state of Germany"
-region: "Jacobsdorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jacobsdorf"
+  - "Brandenburg"
 wikidata_id: "Q1244603"
 latitude: 52.3609009
 longitude: 14.3443053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Petersdorf_Kirche.jpg/400px-Petersdorf_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Petersdorf_Kirche.jpg/800px-Petersdorf_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Petersdorf_Kirche.jpg/1200px-Petersdorf_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Petersdorf_Kirche.jpg/1920px-Petersdorf_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Petersdorf_Kirche.jpg/1920px-Petersdorf_Kirche.jpg---
 
 ## Overview
 

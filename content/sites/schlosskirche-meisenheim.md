@@ -4,13 +4,13 @@ site_name: "Schlosskirche Meisenheim"
 date: 2026-01-26
 draft: false
 description: "church building in Rhineland-Palatinate, Germany"
-region: "Meisenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Meisenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2244574"
 latitude: 49.7052
 longitude: 7.67185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/400px-MeisenheimSchlosskirche2a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/800px-MeisenheimSchlosskirche2a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/1200px-MeisenheimSchlosskirche2a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/1920px-MeisenheimSchlosskirche2a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/1920px-MeisenheimSchlosskirche2a.jpg---
 
 ## Overview
 

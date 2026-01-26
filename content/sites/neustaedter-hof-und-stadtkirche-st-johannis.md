@@ -4,13 +4,13 @@ site_name: "Neustädter Hof- und Stadtkirche St. Johannis"
 date: 2026-01-26
 draft: false
 description: "church in Hanover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1981782"
 latitude: 52.371165206
 longitude: 9.728522065
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/400px-Neustädter_Kirche_St._Johannes_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/800px-Neustädter_Kirche_St._Johannes_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/1200px-Neustädter_Kirche_St._Johannes_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/1920px-Neustädter_Kirche_St._Johannes_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neustädter_Kirche_St._Johannes_Hannover.jpg/1920px-Neustädter_Kirche_St._Johannes_Hannover.jpg---
 
 ## Overview
 

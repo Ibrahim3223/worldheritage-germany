@@ -4,13 +4,13 @@ site_name: "Schlossgarten in Altdorf bei Nürnberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Grünsberg (Altdorf bei Nürnberg)"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Grünsberg (Altdorf bei Nürnberg)"
+  - "Bavaria"
 wikidata_id: "Q41390388"
 latitude: 49.37101
 longitude: 11.32614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grünsberg_02.jpg/400px-Grünsberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grünsberg_02.jpg/800px-Grünsberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grünsberg_02.jpg/1200px-Grünsberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grünsberg_02.jpg/1920px-Grünsberg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grünsberg_02.jpg/1920px-Grünsberg_02.jpg---
 
 ## Overview
 

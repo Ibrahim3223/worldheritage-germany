@@ -4,13 +4,13 @@ site_name: "Lion"
 date: 2026-01-26
 draft: false
 description: "sculpture by August Gaul in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q25212621"
 latitude: 52.5202376
 longitude: 13.3985728
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/400px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/800px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/1200px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg---
 
 ## Overview
 

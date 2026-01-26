@@ -4,13 +4,13 @@ site_name: "Blutwiese"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Löhne, North Rhine-Westphalia, Germany"
-region: "Löhne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Löhne"
+  - "Lower Saxony"
 wikidata_id: "Q886850"
 latitude: 52.2153
 longitude: 8.75444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/400px-NSG-Blutwiese_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/800px-NSG-Blutwiese_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/1200px-NSG-Blutwiese_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/1920px-NSG-Blutwiese_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/1920px-NSG-Blutwiese_01.jpg---
 
 ## Overview
 

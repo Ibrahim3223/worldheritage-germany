@@ -4,19 +4,18 @@ site_name: "Saarländisches Psychiatriemuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q35387385"
 latitude: 49.45708
 longitude: 6.63241
 images:
-  []
----
+  []---
 
 ## Overview
 

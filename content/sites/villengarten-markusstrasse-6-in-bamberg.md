@@ -4,19 +4,18 @@ site_name: "Villengarten Markusstraße 6 in Bamberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-61-000-933 (1) in Bamberg, Bavaria"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q98589432"
 latitude: 49.895193991
 longitude: 10.883483633
 images:
-  []
----
+  []---
 
 ## Overview
 

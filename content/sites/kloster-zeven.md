@@ -4,13 +4,13 @@ site_name: "Kloster Zeven"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Zeven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Zeven"
+  - "Lower Saxony"
 wikidata_id: "Q426895"
 latitude: 53.2970051
 longitude: 9.280726
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/400px-Zeven_St_Viti_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/800px-Zeven_St_Viti_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/1200px-Zeven_St_Viti_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/1920px-Zeven_St_Viti_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/1920px-Zeven_St_Viti_Kirche.jpg---
 
 ## Overview
 

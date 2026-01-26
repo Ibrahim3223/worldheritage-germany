@@ -4,13 +4,13 @@ site_name: "Castle Lemberg"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Lemberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lemberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q22621"
 latitude: 49.173888888
 longitude: 7.661388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lemberg_0047.JPG/400px-Lemberg_0047.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lemberg_0047.JPG/800px-Lemberg_0047.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lemberg_0047.JPG/1200px-Lemberg_0047.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lemberg_0047.JPG/1920px-Lemberg_0047.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lemberg_0047.JPG/1920px-Lemberg_0047.JPG---
 
 ## Overview
 

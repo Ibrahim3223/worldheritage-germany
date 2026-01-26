@@ -4,13 +4,13 @@ site_name: "President Friedrich Ebert Memorial"
 date: 2026-01-26
 draft: false
 description: "Museum in Baden-Württemberg"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2139635"
 latitude: 49.4127
 longitude: 8.7082
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/President_Friedrich_Ebert_Memorial.jpg/400px-President_Friedrich_Ebert_Memorial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/President_Friedrich_Ebert_Memorial.jpg/800px-President_Friedrich_Ebert_Memorial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/President_Friedrich_Ebert_Memorial.jpg/1200px-President_Friedrich_Ebert_Memorial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/President_Friedrich_Ebert_Memorial.jpg/1920px-President_Friedrich_Ebert_Memorial.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/President_Friedrich_Ebert_Memorial.jpg/1920px-President_Friedrich_Ebert_Memorial.jpg---
 
 ## Overview
 

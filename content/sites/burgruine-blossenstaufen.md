@@ -4,13 +4,13 @@ site_name: "Burgruine Bloßenstaufen"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Syrgenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Syrgenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1015250"
 latitude: 48.662823671
 longitude: 10.304466912
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burgruine_Bloßenstaufen_02.jpg/400px-Burgruine_Bloßenstaufen_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burgruine_Bloßenstaufen_02.jpg/800px-Burgruine_Bloßenstaufen_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burgruine_Bloßenstaufen_02.jpg/1200px-Burgruine_Bloßenstaufen_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burgruine_Bloßenstaufen_02.jpg/1920px-Burgruine_Bloßenstaufen_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burgruine_Bloßenstaufen_02.jpg/1920px-Burgruine_Bloßenstaufen_02.jpg---
 
 ## Overview
 

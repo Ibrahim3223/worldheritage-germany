@@ -4,13 +4,13 @@ site_name: "Robert Schumann House"
 date: 2026-01-26
 draft: false
 description: "birthplace of Robert Schumann"
-region: "Zwickau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zwickau"
+  - "Saxony"
 wikidata_id: "Q2156263"
 latitude: 50.717361111
 longitude: 12.496111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/400px-Zwickau_Robert_Schumann_Birth_House.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/800px-Zwickau_Robert_Schumann_Birth_House.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/1200px-Zwickau_Robert_Schumann_Birth_House.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/1920px-Zwickau_Robert_Schumann_Birth_House.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/1920px-Zwickau_Robert_Schumann_Birth_House.jpg---
 
 ## Overview
 

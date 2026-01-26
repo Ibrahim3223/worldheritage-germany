@@ -4,19 +4,18 @@ site_name: "Schader-Stiftung"
 date: 2026-01-26
 draft: false
 description: "Förderung der Gesellschaftswissenschaften zum gesellschaftlichen Wandel"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q1799128"
 latitude: 49.86301041
 longitude: 8.65377998
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Sulzbach-Rosenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629548"
 latitude: 49.505905
 longitude: 11.740499
 images:
-  []
----
+  []---
 
 ## Overview
 

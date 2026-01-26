@@ -4,13 +4,13 @@ site_name: "Holy-Trinity-Church"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Derendorf, Germany"
-region: "Derendorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Derendorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1595042"
 latitude: 51.2429
 longitude: 6.789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/400px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/800px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1200px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1920px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1920px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kampenwand_1669_m.jpg/400px-Kampenwand_1669_m.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kampenwand_1669_m.jpg/800px-Kampenwand_1669_m.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kampenwand_1669_m.jpg/1200px-Kampenwand_1669_m.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kampenwand_1669_m.jpg/1920px-Kampenwand_1669_m.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kampenwand_1669_m.jpg/1920px-Kampenwand_1669_m.jpg---
 
 ## Overview
 

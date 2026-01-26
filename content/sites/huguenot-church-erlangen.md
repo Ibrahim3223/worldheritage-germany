@@ -4,13 +4,13 @@ site_name: "Huguenot Church (Erlangen)"
 date: 2026-01-26
 draft: false
 description: "church building in Franconia, Germany"
-region: "Erlangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erlangen"
+  - "Bavaria"
 wikidata_id: "Q1634151"
 latitude: 49.5963
 longitude: 11.0035
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/400px-Erlangen-Hugenotten-Kirche-front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/800px-Erlangen-Hugenotten-Kirche-front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1200px-Erlangen-Hugenotten-Kirche-front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1920px-Erlangen-Hugenotten-Kirche-front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1920px-Erlangen-Hugenotten-Kirche-front.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Cologne Cathedral Treasury"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1238676"
 latitude: 50.94171
 longitude: 6.95853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/400px-Koeln_domschatzkammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/800px-Koeln_domschatzkammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1200px-Koeln_domschatzkammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1920px-Koeln_domschatzkammer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1920px-Koeln_domschatzkammer.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Memorial to the Murdered Members of the Reichstag"
 date: 2026-01-26
 draft: false
 description: "memorial in Berlin-Tiergarten, Germany in front of the Reichstag building"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q999862"
 latitude: 52.5179
 longitude: 13.3746
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Reichstag_members_1933_memorial_2.jpg/400px-Reichstag_members_1933_memorial_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Reichstag_members_1933_memorial_2.jpg/800px-Reichstag_members_1933_memorial_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Reichstag_members_1933_memorial_2.jpg/1200px-Reichstag_members_1933_memorial_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Reichstag_members_1933_memorial_2.jpg/1920px-Reichstag_members_1933_memorial_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Reichstag_members_1933_memorial_2.jpg/1920px-Reichstag_members_1933_memorial_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Beckerturm St. Ingbert"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Sankt Ingbert"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Sankt Ingbert"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q813715"
 latitude: 49.2815
 longitude: 7.12141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St.Ingbert_Beckerturm_3.1.jpg/400px-St.Ingbert_Beckerturm_3.1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St.Ingbert_Beckerturm_3.1.jpg/800px-St.Ingbert_Beckerturm_3.1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St.Ingbert_Beckerturm_3.1.jpg/1200px-St.Ingbert_Beckerturm_3.1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St.Ingbert_Beckerturm_3.1.jpg/1920px-St.Ingbert_Beckerturm_3.1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St.Ingbert_Beckerturm_3.1.jpg/1920px-St.Ingbert_Beckerturm_3.1.jpg---
 
 ## Overview
 

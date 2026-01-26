@@ -4,13 +4,13 @@ site_name: "Grafik Museum Stiftung Schreiner"
 date: 2026-01-26
 draft: false
 description: "museum in Bad Steben, Bavaria, Germany"
-region: "Bad Steben"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Steben"
+  - "Bavaria"
 wikidata_id: "Q1541549"
 latitude: 50.36536
 longitude: 11.635613
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kurhaus_Bad_Steben_1.jpg/400px-Kurhaus_Bad_Steben_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kurhaus_Bad_Steben_1.jpg/800px-Kurhaus_Bad_Steben_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kurhaus_Bad_Steben_1.jpg/1200px-Kurhaus_Bad_Steben_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kurhaus_Bad_Steben_1.jpg/1920px-Kurhaus_Bad_Steben_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kurhaus_Bad_Steben_1.jpg/1920px-Kurhaus_Bad_Steben_1.jpg---
 
 ## Overview
 

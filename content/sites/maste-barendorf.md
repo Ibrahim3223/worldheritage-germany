@@ -4,13 +4,13 @@ site_name: "Maste-Barendorf"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1620850"
 latitude: 51.4086
 longitude: 7.69333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/400px-Fabrikenanlage_Maste-Barendorf_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/800px-Fabrikenanlage_Maste-Barendorf_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/1200px-Fabrikenanlage_Maste-Barendorf_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/1920px-Fabrikenanlage_Maste-Barendorf_2011.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/1920px-Fabrikenanlage_Maste-Barendorf_2011.jpg---
 
 ## Overview
 

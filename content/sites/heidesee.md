@@ -4,13 +4,13 @@ site_name: "Heidesee"
 date: 2026-01-26
 draft: false
 description: "lake in Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1262802"
 latitude: 51.4854
 longitude: 11.8958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heidesee_Halle_-_Hauptsee.JPG/400px-Heidesee_Halle_-_Hauptsee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heidesee_Halle_-_Hauptsee.JPG/800px-Heidesee_Halle_-_Hauptsee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heidesee_Halle_-_Hauptsee.JPG/1200px-Heidesee_Halle_-_Hauptsee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heidesee_Halle_-_Hauptsee.JPG/1920px-Heidesee_Halle_-_Hauptsee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heidesee_Halle_-_Hauptsee.JPG/1920px-Heidesee_Halle_-_Hauptsee.JPG---
 
 ## Overview
 

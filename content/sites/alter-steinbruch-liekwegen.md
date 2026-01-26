@@ -4,13 +4,13 @@ site_name: "Alter Steinbruch Liekwegen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Nienstädt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Nienstädt"
+  - "Lower Saxony"
 wikidata_id: "Q438191"
 latitude: 52.2836
 longitude: 9.18556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg/400px-3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg/800px-3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg/1200px-3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg/1920px-3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg/1920px-3-Steinbruch_Liekwegen_HA_212_Landkreis_Schaumburg.jpg---
 
 ## Overview
 

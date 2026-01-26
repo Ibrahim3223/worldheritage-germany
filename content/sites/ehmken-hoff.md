@@ -4,13 +4,13 @@ site_name: "Ehmken Hoff"
 date: 2026-01-26
 draft: false
 description: "group of buildings in Dörverden, Germany"
-region: "Dörverden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Dörverden"
+  - "Lower Saxony"
 wikidata_id: "Q1299757"
 latitude: 52.8439
 longitude: 9.22678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/400px-Ehmken_Hoff_5043.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/800px-Ehmken_Hoff_5043.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/1200px-Ehmken_Hoff_5043.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/1920px-Ehmken_Hoff_5043.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/1920px-Ehmken_Hoff_5043.jpg---
 
 ## Overview
 

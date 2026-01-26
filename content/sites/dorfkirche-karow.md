@@ -4,13 +4,13 @@ site_name: "Dorfkirche Karow"
 date: 2026-01-26
 draft: false
 description: "church building in Pankow, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1244398"
 latitude: 52.611944444
 longitude: 13.483888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/400px-Clp_20060628_Dorfkirche_Karow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/800px-Clp_20060628_Dorfkirche_Karow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/1200px-Clp_20060628_Dorfkirche_Karow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/1920px-Clp_20060628_Dorfkirche_Karow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/1920px-Clp_20060628_Dorfkirche_Karow.jpg---
 
 ## Overview
 

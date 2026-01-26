@@ -4,13 +4,13 @@ site_name: "Fürstenhäusle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Meersburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meersburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1294333"
 latitude: 47.69453611
 longitude: 9.27540278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/400px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/800px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1200px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1920px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1920px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Merten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eitorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eitorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013117"
 latitude: 50.7657
 longitude: 7.39527
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/400px-Burg_Merten-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/800px-Burg_Merten-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/1200px-Burg_Merten-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/1920px-Burg_Merten-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/1920px-Burg_Merten-.jpg---
 
 ## Overview
 

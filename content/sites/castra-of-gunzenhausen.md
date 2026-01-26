@@ -4,13 +4,13 @@ site_name: "Castra of Gunzenhausen"
 date: 2026-01-26
 draft: false
 description: "Roman fort"
-region: "Gunzenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castrum"
 categories:
   - "Castrum"
 regions:
-  - "Gunzenhausen"
+  - "Bavaria"
 wikidata_id: "Q1466202"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/400px-AMG_-_Rekonstruktion_Römerlager.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/800px-AMG_-_Rekonstruktion_Römerlager.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/1200px-AMG_-_Rekonstruktion_Römerlager.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/1920px-AMG_-_Rekonstruktion_Römerlager.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/1920px-AMG_-_Rekonstruktion_Römerlager.jpg---
 
 ## Overview
 

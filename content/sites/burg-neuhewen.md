@@ -4,13 +4,13 @@ site_name: "Burg Neuhewen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Engen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Engen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013295"
 latitude: 47.8791
 longitude: 8.7174
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/400px-Neuhewen_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/800px-Neuhewen_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/1200px-Neuhewen_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/1920px-Neuhewen_06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/1920px-Neuhewen_06.jpg---
 
 ## Overview
 

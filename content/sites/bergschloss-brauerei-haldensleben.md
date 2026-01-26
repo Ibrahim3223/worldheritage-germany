@@ -4,13 +4,13 @@ site_name: "Bergschloß-Brauerei Haldensleben"
 date: 2026-01-26
 draft: false
 description: "ehemalige Bierbrauerei in der Stadt Haldensleben in Sachsen-Anhalt"
-region: "Haldensleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Haldensleben"
+  - "Brandenburg"
 wikidata_id: "Q820160"
 latitude: 52.30058333
 longitude: 11.42052778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/400px-Bergschlößchen_Brauerei_Haldensleben.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/800px-Bergschlößchen_Brauerei_Haldensleben.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/1200px-Bergschlößchen_Brauerei_Haldensleben.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/1920px-Bergschlößchen_Brauerei_Haldensleben.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/1920px-Bergschlößchen_Brauerei_Haldensleben.JPG---
 
 ## Overview
 

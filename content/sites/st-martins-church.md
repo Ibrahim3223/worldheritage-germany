@@ -4,13 +4,13 @@ site_name: "St. Martin's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Landshut, Bavaria, Germany"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q560855"
 latitude: 48.534141666
 longitude: 12.151086111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/400px-Landshut_altstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/800px-Landshut_altstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/1200px-Landshut_altstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/1920px-Landshut_altstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/1920px-Landshut_altstadt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bussmühle"
 date: 2026-01-26
 draft: false
 description: "wind mill in Krefeld, Germany"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1017660"
 latitude: 51.3581
 longitude: 6.6334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/400px-11Buss-Muehle_1200.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/800px-11Buss-Muehle_1200.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/1200px-11Buss-Muehle_1200.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/1920px-11Buss-Muehle_1200.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/1920px-11Buss-Muehle_1200.jpg---
 
 ## Overview
 

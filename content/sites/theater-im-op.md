@@ -4,13 +4,13 @@ site_name: "Theater im OP"
 date: 2026-01-26
 draft: false
 description: "community theater at the Georg-August-university Göttingen"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q676733"
 latitude: 51.5418
 longitude: 9.94001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/400px-ThOP_front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/800px-ThOP_front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/1200px-ThOP_front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/1920px-ThOP_front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/1920px-ThOP_front.jpg---
 
 ## Overview
 

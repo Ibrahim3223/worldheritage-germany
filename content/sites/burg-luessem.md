@@ -4,19 +4,18 @@ site_name: "Burg Lüssem"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Zülpich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Zülpich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013056"
 latitude: 50.6932
 longitude: 6.68969
 images:
-  []
----
+  []---
 
 ## Overview
 

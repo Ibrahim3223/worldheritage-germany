@@ -4,13 +4,13 @@ site_name: "Burg Nideggen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nideggen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nideggen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013312"
 latitude: 50.688511
 longitude: 6.476642
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/400px-Burg_Nideggen_007-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/800px-Burg_Nideggen_007-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/1200px-Burg_Nideggen_007-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/1920px-Burg_Nideggen_007-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/1920px-Burg_Nideggen_007-.jpg---
 
 ## Overview
 

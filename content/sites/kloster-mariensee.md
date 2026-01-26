@@ -4,13 +4,13 @@ site_name: "Kloster Mariensee"
 date: 2026-01-26
 draft: false
 description: "Evangelical Lutheran women's convent in Mariensee close to Hanover, Germany"
-region: "Neustadt am Rübenberge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neustadt am Rübenberge"
+  - "Lower Saxony"
 wikidata_id: "Q1419394"
 latitude: 52.5586
 longitude: 9.48667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/400px-Kloster_Mariensee_IMG_1754.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/800px-Kloster_Mariensee_IMG_1754.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/1200px-Kloster_Mariensee_IMG_1754.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/1920px-Kloster_Mariensee_IMG_1754.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/1920px-Kloster_Mariensee_IMG_1754.jpg---
 
 ## Overview
 

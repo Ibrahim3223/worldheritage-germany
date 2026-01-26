@@ -4,13 +4,13 @@ site_name: "Evangelical Apostle Paul Church"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q619821"
 latitude: 52.4893
 longitude: 13.3527
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/400px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/800px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/1200px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/1920px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/1920px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg---
 
 ## Overview
 

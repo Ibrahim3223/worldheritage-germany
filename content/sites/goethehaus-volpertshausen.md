@@ -4,13 +4,13 @@ site_name: "Goethehaus Volpertshausen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hüttenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hüttenberg"
+  - "Hesse"
 wikidata_id: "Q1386666"
 latitude: 50.5033
 longitude: 8.54581
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Volpertshausen_Goethehaus01_2013-04-25.jpg/400px-Volpertshausen_Goethehaus01_2013-04-25.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Volpertshausen_Goethehaus01_2013-04-25.jpg/800px-Volpertshausen_Goethehaus01_2013-04-25.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Volpertshausen_Goethehaus01_2013-04-25.jpg/1200px-Volpertshausen_Goethehaus01_2013-04-25.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Volpertshausen_Goethehaus01_2013-04-25.jpg/1920px-Volpertshausen_Goethehaus01_2013-04-25.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Volpertshausen_Goethehaus01_2013-04-25.jpg/1920px-Volpertshausen_Goethehaus01_2013-04-25.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Marienstatt Abbey"
 date: 2026-01-26
 draft: false
 description: "Cistercian monastery"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q334038"
 latitude: 50.685
 longitude: 7.803055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abtei_Marienstatt_008.jpg/400px-Abtei_Marienstatt_008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abtei_Marienstatt_008.jpg/800px-Abtei_Marienstatt_008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abtei_Marienstatt_008.jpg/1200px-Abtei_Marienstatt_008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abtei_Marienstatt_008.jpg/1920px-Abtei_Marienstatt_008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abtei_Marienstatt_008.jpg/1920px-Abtei_Marienstatt_008.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hute in Bühren"
 date: 2026-01-26
 draft: false
 description: "Silvopasture in Bühren, district Göttingen, Lower Saxony, Germany"
-region: "Dransfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Dransfeld"
+  - "Hesse"
 wikidata_id: "Q101094315"
 latitude: 51.481
 longitude: 9.674388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/400px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/800px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/1200px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/1920px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/1920px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg---
 
 ## Overview
 

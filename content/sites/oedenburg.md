@@ -4,13 +4,13 @@ site_name: "Ödenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q293934"
 latitude: 48.5071
 longitude: 9.02726
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ödenburg_near_Tübingen.jpg/400px-Ödenburg_near_Tübingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ödenburg_near_Tübingen.jpg/800px-Ödenburg_near_Tübingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ödenburg_near_Tübingen.jpg/1200px-Ödenburg_near_Tübingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ödenburg_near_Tübingen.jpg/1920px-Ödenburg_near_Tübingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ödenburg_near_Tübingen.jpg/1920px-Ödenburg_near_Tübingen.jpg---
 
 ## Overview
 

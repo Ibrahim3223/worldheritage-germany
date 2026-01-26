@@ -4,13 +4,13 @@ site_name: "Rautenstrauch-Joest Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Cologne"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2133582"
 latitude: 50.93464
 longitude: 6.95053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg/400px-Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg/800px-Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg/1200px-Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg/1920px-Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg/1920px-Kulturquartier_Köln_-_Rautenstrauch-Joest-Museum_-_Vorderseite_(6904-06).jpg---
 
 ## Overview
 

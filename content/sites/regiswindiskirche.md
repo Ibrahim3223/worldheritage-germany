@@ -4,13 +4,13 @@ site_name: "Regiswindiskirche"
 date: 2026-01-26
 draft: false
 description: "church in Lauffen am Neckar, Heilbronn district, Baden-Württemberg, Germany"
-region: "Lauffen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lauffen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1429019"
 latitude: 49.0761
 longitude: 9.15443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg/400px-Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg/800px-Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg/1200px-Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg/1920px-Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg/1920px-Lauffen_a.N._-_Dorf_-_Regiswindiskirche_-_Ansicht_von_SO_über_den_Neckar_(2).jpg---
 
 ## Overview
 

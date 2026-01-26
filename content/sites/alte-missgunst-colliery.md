@@ -4,19 +4,18 @@ site_name: "Alte Mißgunst Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Sprockhövel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Sprockhövel"
+  - "Lower Saxony"
 wikidata_id: "Q169634"
 latitude: 51.3776
 longitude: 7.26185
 images:
-  []
----
+  []---
 
 ## Overview
 

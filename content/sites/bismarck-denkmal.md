@@ -4,13 +4,13 @@ site_name: "Bismarck-Denkmal"
 date: 2026-01-26
 draft: false
 description: "Bismarck monument in the Wuppertal district of Elberfeld"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q866412"
 latitude: 51.2559
 longitude: 7.14465
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/400px-Elberfeld_Bismarckdenkmal_1898.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/800px-Elberfeld_Bismarckdenkmal_1898.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/1200px-Elberfeld_Bismarckdenkmal_1898.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/1920px-Elberfeld_Bismarckdenkmal_1898.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/1920px-Elberfeld_Bismarckdenkmal_1898.jpg---
 
 ## Overview
 

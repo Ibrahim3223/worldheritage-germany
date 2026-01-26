@@ -4,13 +4,13 @@ site_name: "Auferstehungskirche (Glücksburg)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Glücksburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Glücksburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q759616"
 latitude: 54.8331
 longitude: 9.54985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/400px-Glücksburg_evangelische_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/800px-Glücksburg_evangelische_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/1200px-Glücksburg_evangelische_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/1920px-Glücksburg_evangelische_Kirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/1920px-Glücksburg_evangelische_Kirche_1.jpg---
 
 ## Overview
 

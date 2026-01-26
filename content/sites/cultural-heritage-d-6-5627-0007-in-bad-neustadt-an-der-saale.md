@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5627-0007 in Bad Neustadt an der Saale"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Bad Neustadt an der Saale"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bad Neustadt an der Saale"
+  - "Bavaria"
 wikidata_id: "Q98167354"
 latitude: 50.313532421
 longitude: 10.187652276
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schwäbische Alb"
 date: 2026-01-26
 draft: false
 description: "biosphere reserve in Baden-Württemberg, Germany"
-region: "Weilheim an der Teck"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Biosphere Reserve"
 categories:
   - "Biosphere Reserve"
 regions:
-  - "Weilheim an der Teck"
+  - "Baden-Württemberg"
 wikidata_id: "Q864720"
 latitude: 48.4345
 longitude: 9.4787
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg/400px-Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg/800px-Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg/1200px-Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg/1920px-Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg/1920px-Neidlinger_Tal_im_Biosphärengebiet_Schwäbische_Alb.jpg---
 
 ## Overview
 

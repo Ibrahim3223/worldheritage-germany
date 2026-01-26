@@ -4,19 +4,18 @@ site_name: "Haustierhof Reutemühle"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Überlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Überlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1591327"
 latitude: 47.78472222
 longitude: 9.19888889
 images:
-  []
----
+  []---
 
 ## Overview
 

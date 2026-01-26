@@ -4,13 +4,13 @@ site_name: "Slawenburg Raddusch"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Vetschau/Spreewald"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Vetschau/Spreewald"
+  - "Brandenburg"
 wikidata_id: "Q320134"
 latitude: 51.8049
 longitude: 14.0304
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Slawenburg_Raddusch_(Raduš)_01.JPG/400px-Slawenburg_Raddusch_(Raduš)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Slawenburg_Raddusch_(Raduš)_01.JPG/800px-Slawenburg_Raddusch_(Raduš)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Slawenburg_Raddusch_(Raduš)_01.JPG/1200px-Slawenburg_Raddusch_(Raduš)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Slawenburg_Raddusch_(Raduš)_01.JPG/1920px-Slawenburg_Raddusch_(Raduš)_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Slawenburg_Raddusch_(Raduš)_01.JPG/1920px-Slawenburg_Raddusch_(Raduš)_01.JPG---
 
 ## Overview
 

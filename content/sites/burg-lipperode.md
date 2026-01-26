@@ -4,13 +4,13 @@ site_name: "Burg Lipperode"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lippstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lippstadt"
+  - "Hesse"
 wikidata_id: "Q1012992"
 latitude: 51.6881
 longitude: 8.37689
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burgruine_Lipperode.jpg/400px-Burgruine_Lipperode.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burgruine_Lipperode.jpg/800px-Burgruine_Lipperode.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burgruine_Lipperode.jpg/1200px-Burgruine_Lipperode.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burgruine_Lipperode.jpg/1920px-Burgruine_Lipperode.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burgruine_Lipperode.jpg/1920px-Burgruine_Lipperode.jpg---
 
 ## Overview
 

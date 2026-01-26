@@ -4,13 +4,13 @@ site_name: "St. George's Chapel"
 date: 2026-01-26
 draft: false
 description: "Protestant chapel in Bad Schwartau, Germany"
-region: "Bad Schwartau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Schwartau"
+  - "Lower Saxony"
 wikidata_id: "Q1509521"
 latitude: 53.9225
 longitude: 10.698
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/400px-Bad_Schwartau_Georgskapelle_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/800px-Bad_Schwartau_Georgskapelle_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/1200px-Bad_Schwartau_Georgskapelle_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/1920px-Bad_Schwartau_Georgskapelle_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/1920px-Bad_Schwartau_Georgskapelle_01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kulturfabrik"
 date: 2026-01-26
 draft: false
 description: "Koblenz"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1392882"
 latitude: 50.3728
 longitude: 7.59778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kulturfabrik_Koblenz.jpg/400px-Kulturfabrik_Koblenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kulturfabrik_Koblenz.jpg/800px-Kulturfabrik_Koblenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kulturfabrik_Koblenz.jpg/1200px-Kulturfabrik_Koblenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kulturfabrik_Koblenz.jpg/1920px-Kulturfabrik_Koblenz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kulturfabrik_Koblenz.jpg/1920px-Kulturfabrik_Koblenz.jpg---
 
 ## Overview
 

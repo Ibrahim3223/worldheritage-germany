@@ -4,13 +4,13 @@ site_name: "Kranich Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Saal"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Saal"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q386517"
 latitude: 54.3005
 longitude: 12.5467
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg/400px-Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg/800px-Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg/1200px-Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg/1920px-Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg/1920px-Schloss_Hessenburg,_Saal_(LRM_20200606_165131).jpg---
 
 ## Overview
 

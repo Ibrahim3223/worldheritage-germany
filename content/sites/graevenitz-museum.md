@@ -4,13 +4,13 @@ site_name: "Graevenitz-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1541344"
 latitude: 48.7858
 longitude: 9.08694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/400px-Fritz_von_Graevenitz_Museum_Solitude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/800px-Fritz_von_Graevenitz_Museum_Solitude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/1200px-Fritz_von_Graevenitz_Museum_Solitude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/1920px-Fritz_von_Graevenitz_Museum_Solitude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/1920px-Fritz_von_Graevenitz_Museum_Solitude.jpg---
 
 ## Overview
 

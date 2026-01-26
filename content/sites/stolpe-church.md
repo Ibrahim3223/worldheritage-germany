@@ -4,13 +4,13 @@ site_name: "Stolpe church"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1742780"
 latitude: 52.4119
 longitude: 13.1412
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirchestölchensee02.jpg/400px-Kirchestölchensee02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirchestölchensee02.jpg/800px-Kirchestölchensee02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirchestölchensee02.jpg/1200px-Kirchestölchensee02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirchestölchensee02.jpg/1920px-Kirchestölchensee02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirchestölchensee02.jpg/1920px-Kirchestölchensee02.jpg---
 
 ## Overview
 

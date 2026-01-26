@@ -4,13 +4,13 @@ site_name: "Haus der Geschichte Wittenberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lutherstadt Wittenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lutherstadt Wittenberg"
+  - "Brandenburg"
 wikidata_id: "Q1590762"
 latitude: 51.8663
 longitude: 12.6415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/400px-Haus-Geschichte-WB.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/800px-Haus-Geschichte-WB.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/1200px-Haus-Geschichte-WB.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/1920px-Haus-Geschichte-WB.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/1920px-Haus-Geschichte-WB.jpg---
 
 ## Overview
 

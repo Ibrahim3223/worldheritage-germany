@@ -4,13 +4,13 @@ site_name: "Kinzigtalsperre"
 date: 2026-01-26
 draft: false
 description: "reservoir in Germany"
-region: "Main-Kinzig-Kreis"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Main-Kinzig-Kreis"
+  - "Bavaria"
 wikidata_id: "Q1742317"
 latitude: 50.3
 longitude: 9.41667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/400px-Kinzigtalsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/800px-Kinzigtalsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/1200px-Kinzigtalsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/1920px-Kinzigtalsperre.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/1920px-Kinzigtalsperre.jpg---
 
 ## Overview
 

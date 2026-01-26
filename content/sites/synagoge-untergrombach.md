@@ -4,13 +4,13 @@ site_name: "Synagoge Untergrombach"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Bruchsal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bruchsal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1549588"
 latitude: 49.0846
 longitude: 8.55322
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/400px-UntergrombachSynagogenstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/800px-UntergrombachSynagogenstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/1200px-UntergrombachSynagogenstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/1920px-UntergrombachSynagogenstraße.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/1920px-UntergrombachSynagogenstraße.jpg---
 
 ## Overview
 

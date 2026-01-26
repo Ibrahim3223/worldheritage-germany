@@ -4,13 +4,13 @@ site_name: "Torhaus Ost"
 date: 2026-01-26
 draft: false
 description: "Östliches Torhaus der Domäne Karthaus in der Bauerschaft Weddern in Dülmen"
-region: "Dülmen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Dülmen"
+  - "Lower Saxony"
 wikidata_id: "Q95679165"
 latitude: 51.874615
 longitude: 7.314932
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg/400px-Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg/800px-Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg/1200px-Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg/1920px-Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg/1920px-Dülmen,_Kirchspiel,_Karthaus,_Torhaus_--_2015_--_5363.jpg---
 
 ## Overview
 

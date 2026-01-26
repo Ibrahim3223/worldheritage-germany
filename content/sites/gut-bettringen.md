@@ -4,13 +4,13 @@ site_name: "Gut Bettringen"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Ortsteil Winterscheid der Gemeinde Ruppichteroth im Rhein-Sieg-Kreis"
-region: "Ruppichteroth"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Ruppichteroth"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1556899"
 latitude: 50.8197
 longitude: 7.39306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/400px-GutBettringenMauer2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/800px-GutBettringenMauer2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/1200px-GutBettringenMauer2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/1920px-GutBettringenMauer2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/1920px-GutBettringenMauer2.JPG---
 
 ## Overview
 

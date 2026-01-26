@@ -4,19 +4,18 @@ site_name: "Edelstetten Abbey"
 date: 2026-01-26
 draft: false
 description: "former secularized canonesses' stift in the Roman Catholic Diocese of Augsburg, Germany"
-region: "Neuburg an der Kammel"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Neuburg an der Kammel"
+  - "Baden-Württemberg"
 wikidata_id: "Q277105"
 latitude: 48.2986
 longitude: 10.3948
 images:
-  []
----
+  []---
 
 ## Overview
 

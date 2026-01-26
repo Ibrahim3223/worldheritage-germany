@@ -4,13 +4,13 @@ site_name: "Schloss Söder"
 date: 2026-01-26
 draft: false
 description: "château in Germany"
-region: "Holle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Holle"
+  - "Lower Saxony"
 wikidata_id: "Q2243668"
 latitude: 52.0564
 longitude: 10.0894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg/400px-Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg/800px-Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg/1200px-Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg/1920px-Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg/1920px-Aerial_image_of_Schloss_Söder_(view_from_the_south).jpg---
 
 ## Overview
 

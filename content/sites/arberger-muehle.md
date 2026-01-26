@@ -4,13 +4,13 @@ site_name: "Arberger Mühle"
 date: 2026-01-26
 draft: false
 description: "windmill in Bremen, Germany"
-region: "Hemelingen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Hemelingen"
+  - "Bremen"
 wikidata_id: "Q629621"
 latitude: 53.038
 longitude: 8.92271
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/400px-Arberger_Windmühle_(2012).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/800px-Arberger_Windmühle_(2012).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/1200px-Arberger_Windmühle_(2012).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/1920px-Arberger_Windmühle_(2012).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/1920px-Arberger_Windmühle_(2012).jpg---
 
 ## Overview
 

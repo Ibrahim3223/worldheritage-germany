@@ -4,13 +4,13 @@ site_name: "Lake Starnberg"
 date: 2026-01-26
 draft: false
 description: "lake in Bavaria, Germany"
-region: "Starnberger See"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Starnberger See"
+  - "Bavaria"
 wikidata_id: "Q131615"
 latitude: 47.903888888
 longitude: 11.307222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/400px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/800px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/1200px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/1920px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/1920px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg---
 
 ## Overview
 

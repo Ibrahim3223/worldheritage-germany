@@ -4,13 +4,13 @@ site_name: "Deutsches Goldschmiedehaus"
 date: 2026-01-26
 draft: false
 description: "museum in Hanau (Germany)"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q1205666"
 latitude: 50.1367
 longitude: 8.91778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/400px-Altstädter_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/800px-Altstädter_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1200px-Altstädter_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1920px-Altstädter_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1920px-Altstädter_Rathaus.jpg---
 
 ## Overview
 

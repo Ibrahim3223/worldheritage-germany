@@ -4,13 +4,13 @@ site_name: "Markt 1"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Ostritz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Ostritz"
+  - "Saxony"
 wikidata_id: "Q116918037"
 latitude: 51.014638882
 longitude: 14.93356347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Markt_1_(1).jpg/400px-Markt_1_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Markt_1_(1).jpg/800px-Markt_1_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Markt_1_(1).jpg/1200px-Markt_1_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Markt_1_(1).jpg/1920px-Markt_1_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Markt_1_(1).jpg/1920px-Markt_1_(1).jpg---
 
 ## Overview
 

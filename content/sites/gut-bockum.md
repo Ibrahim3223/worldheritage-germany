@@ -4,13 +4,13 @@ site_name: "Gut Bockum"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Rittergut in Meschede, Hochsauerlandkreis, Nordrhein-Westfalen"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1556901"
 latitude: 51.3592
 longitude: 8.18333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/400px-Gut_Bockum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/800px-Gut_Bockum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/1200px-Gut_Bockum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/1920px-Gut_Bockum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/1920px-Gut_Bockum.jpg---
 
 ## Overview
 

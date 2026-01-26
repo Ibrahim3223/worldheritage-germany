@@ -4,13 +4,13 @@ site_name: "Bleckriede"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Varrel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Varrel"
+  - "Lower Saxony"
 wikidata_id: "Q883388"
 latitude: 52.5689
 longitude: 8.70361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/400px-Bleckriede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/800px-Bleckriede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/1200px-Bleckriede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/1920px-Bleckriede.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/1920px-Bleckriede.jpg---
 
 ## Overview
 

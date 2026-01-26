@@ -4,13 +4,13 @@ site_name: "Hermann-Hesse-Höri-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Calw"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Calw"
+  - "Baden-Württemberg"
 wikidata_id: "Q1610410"
 latitude: 48.7151
 longitude: 8.73768
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/400px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/800px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/1200px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/1920px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/1920px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg---
 
 ## Overview
 

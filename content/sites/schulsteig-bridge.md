@@ -4,13 +4,13 @@ site_name: "Schulsteig bridge"
 date: 2026-01-26
 draft: false
 description: "bridge in Bispingen-Haverbeck"
-region: "Bispingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bispingen"
+  - "Lower Saxony"
 wikidata_id: "Q27732559"
 latitude: 53.149238888
 longitude: 9.914436111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/400px-Schulsteig-Brücke_Niederhaverbeck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/800px-Schulsteig-Brücke_Niederhaverbeck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/1200px-Schulsteig-Brücke_Niederhaverbeck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/1920px-Schulsteig-Brücke_Niederhaverbeck.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/1920px-Schulsteig-Brücke_Niederhaverbeck.JPG---
 
 ## Overview
 

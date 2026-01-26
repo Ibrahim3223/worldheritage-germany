@@ -4,19 +4,18 @@ site_name: "Stadttheater Heilbronn"
 date: 2026-01-26
 draft: false
 description: "former theatre in Heilbronn, Germany, destroyed in World War II"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q439723"
 latitude: 49.1457
 longitude: 9.22319
 images:
-  []
----
+  []---
 
 ## Overview
 

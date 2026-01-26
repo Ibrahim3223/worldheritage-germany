@@ -4,13 +4,13 @@ site_name: "Schutzengelkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Q252772"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Q252772"
+  - "Bavaria"
 wikidata_id: "Q2252252"
 latitude: 48.8906
 longitude: 11.1858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/400px-Schutzengelkirche_Eichstätt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/800px-Schutzengelkirche_Eichstätt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/1200px-Schutzengelkirche_Eichstätt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/1920px-Schutzengelkirche_Eichstätt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/1920px-Schutzengelkirche_Eichstätt.JPG---
 
 ## Overview
 

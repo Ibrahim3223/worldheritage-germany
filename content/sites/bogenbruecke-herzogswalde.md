@@ -4,19 +4,18 @@ site_name: "Bogenbrücke Herzogswalde"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wilsdruff"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wilsdruff"
+  - "Saxony"
 wikidata_id: "Q49444268"
 latitude: 51.013032971
 longitude: 13.482022484
 images:
-  []
----
+  []---
 
 ## Overview
 

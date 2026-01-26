@@ -4,19 +4,18 @@ site_name: "Fleetstreet"
 date: 2026-01-26
 draft: false
 description: "Theatre in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1313651"
 latitude: 53.548503
 longitude: 9.984298
 images:
-  []
----
+  []---
 
 ## Overview
 

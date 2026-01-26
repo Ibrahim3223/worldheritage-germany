@@ -4,19 +4,18 @@ site_name: "Burg Grebenhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Möttau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Möttau"
+  - "Hesse"
 wikidata_id: "Q1012022"
 latitude: 50.4692
 longitude: 8.43194
 images:
-  []
----
+  []---
 
 ## Overview
 

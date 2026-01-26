@@ -4,19 +4,18 @@ site_name: "Museum für Brandenburgische Kirchen- und Kulturgeschichte des Mitte
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ziesar"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ziesar"
+  - "Brandenburg"
 wikidata_id: "Q1954699"
 latitude: 52.2627
 longitude: 12.2868
 images:
-  []
----
+  []---
 
 ## Overview
 

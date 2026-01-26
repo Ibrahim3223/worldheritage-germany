@@ -4,13 +4,13 @@ site_name: "Alte Nationalgalerie"
 date: 2026-01-26
 draft: false
 description: "art museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q162111"
 latitude: 52.52081
 longitude: 13.398353
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/400px-AlteNationalgalerie_1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/800px-AlteNationalgalerie_1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1200px-AlteNationalgalerie_1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1920px-AlteNationalgalerie_1a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1920px-AlteNationalgalerie_1a.jpg---
 
 ## Overview
 

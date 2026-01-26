@@ -4,13 +4,13 @@ site_name: "Immanuelkirche"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Friedrichstadt, Germany"
-region: "Friedrichstadt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichstadt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1659951"
 latitude: 51.2146
 longitude: 6.78528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/400px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/800px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/1200px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/1920px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/1920px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg---
 
 ## Overview
 

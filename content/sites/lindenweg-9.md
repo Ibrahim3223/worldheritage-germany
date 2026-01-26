@@ -4,13 +4,13 @@ site_name: "Lindenweg 9"
 date: 2026-01-26
 draft: false
 description: "Upper Lusatian house in Jonsdorf"
-region: "Jonsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jonsdorf"
+  - "Saxony"
 wikidata_id: "Q49423275"
 latitude: 50.852733
 longitude: 14.698656
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg/400px-Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg/800px-Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg/1200px-Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg/1920px-Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg/1920px-Umgebinde-Weberstube_Lindenweg_9_Jonsdorf_(02).jpg---
 
 ## Overview
 

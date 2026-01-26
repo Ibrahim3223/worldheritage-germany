@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirche, Hamburg-Harburg"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Harburg"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Harburg"
+  - "Hamburg"
 wikidata_id: "Q1257678"
 latitude: 53.4633575
 longitude: 9.980302
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/400px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/800px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/1200px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/1920px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/1920px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg---
 
 ## Overview
 

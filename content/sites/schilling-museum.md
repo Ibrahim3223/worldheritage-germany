@@ -4,13 +4,13 @@ site_name: "Schilling-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2235841"
 latitude: 51.04971
 longitude: 13.759
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/400px-Schilling-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/800px-Schilling-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/1200px-Schilling-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/1920px-Schilling-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/1920px-Schilling-Museum.jpg---
 
 ## Overview
 

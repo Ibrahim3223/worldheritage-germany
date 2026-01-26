@@ -4,19 +4,18 @@ site_name: "Altes Palais (Hannover)"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Gebäude in Hannover"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q439300"
 latitude: 52.3708
 longitude: 9.73393
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alte Dorfkirche"
 date: 2026-01-26
 draft: false
 description: "former church and now chapel in Cologne-Junkersdorf, Germany"
-region: "Junkersdorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Junkersdorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q435524"
 latitude: 50.9308
 longitude: 6.85603
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alte_Dorfkirche_Köln-Junkersdorf_2.jpg/400px-Alte_Dorfkirche_Köln-Junkersdorf_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alte_Dorfkirche_Köln-Junkersdorf_2.jpg/800px-Alte_Dorfkirche_Köln-Junkersdorf_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alte_Dorfkirche_Köln-Junkersdorf_2.jpg/1200px-Alte_Dorfkirche_Köln-Junkersdorf_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alte_Dorfkirche_Köln-Junkersdorf_2.jpg/1920px-Alte_Dorfkirche_Köln-Junkersdorf_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alte_Dorfkirche_Köln-Junkersdorf_2.jpg/1920px-Alte_Dorfkirche_Köln-Junkersdorf_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lindelskopf"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Fischbach bei Dahn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Fischbach bei Dahn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012974"
 latitude: 49.0755
 longitude: 7.6791
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/400px-Lindelskopf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/800px-Lindelskopf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/1200px-Lindelskopf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/1920px-Lindelskopf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/1920px-Lindelskopf.jpg---
 
 ## Overview
 

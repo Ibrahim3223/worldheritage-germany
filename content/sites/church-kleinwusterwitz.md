@@ -4,13 +4,13 @@ site_name: "Church Kleinwusterwitz"
 date: 2026-01-26
 draft: false
 description: "church building in Jerichow, Saxony-Anhalt, Germany"
-region: "Jerichow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jerichow"
+  - "Brandenburg"
 wikidata_id: "Q1244429"
 latitude: 52.4571
 longitude: 12.2465
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/400px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/800px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/1200px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/1920px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/1920px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg---
 
 ## Overview
 

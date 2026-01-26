@@ -4,13 +4,13 @@ site_name: "St. Willibald (Weißenburg in Bayern)"
 date: 2026-01-26
 draft: false
 description: "church building in Weißenburg in Bayern, Middle Franconia, Germany"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q1773687"
 latitude: 49.0273
 longitude: 10.9703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Weißenburg,_St._Willibald-002.jpg/400px-Weißenburg,_St._Willibald-002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Weißenburg,_St._Willibald-002.jpg/800px-Weißenburg,_St._Willibald-002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Weißenburg,_St._Willibald-002.jpg/1200px-Weißenburg,_St._Willibald-002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Weißenburg,_St._Willibald-002.jpg/1920px-Weißenburg,_St._Willibald-002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Weißenburg,_St._Willibald-002.jpg/1920px-Weißenburg,_St._Willibald-002.jpg---
 
 ## Overview
 

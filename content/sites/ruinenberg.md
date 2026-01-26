@@ -4,13 +4,13 @@ site_name: "Ruinenberg"
 date: 2026-01-26
 draft: false
 description: "Hill between Potsdam-Bornstedt and Potsdamer Jägervorstadt"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q895622"
 latitude: 52.409722222
 longitude: 13.038611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ruinenberg_Potsdam_2.JPG/400px-Ruinenberg_Potsdam_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ruinenberg_Potsdam_2.JPG/800px-Ruinenberg_Potsdam_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ruinenberg_Potsdam_2.JPG/1200px-Ruinenberg_Potsdam_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ruinenberg_Potsdam_2.JPG/1920px-Ruinenberg_Potsdam_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ruinenberg_Potsdam_2.JPG/1920px-Ruinenberg_Potsdam_2.JPG---
 
 ## Overview
 

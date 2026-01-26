@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5427-0009 in Fladungen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Fladungen, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Fladungen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Fladungen"
+  - "Bavaria"
 wikidata_id: "Q98168827"
 latitude: 50.506608323
 longitude: 10.169583212
 images:
-  []
----
+  []---
 
 ## Overview
 

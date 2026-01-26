@@ -4,13 +4,13 @@ site_name: "Altes Schloss"
 date: 2026-01-26
 draft: false
 description: "building in Bad Berneck im Fichtelgebirge, Upper Franconia, Germany"
-region: "Bad Berneck im Fichtelgebirge"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Bad Berneck im Fichtelgebirge"
+  - "Bavaria"
 wikidata_id: "Q1015242"
 latitude: 50.0507
 longitude: 11.675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/400px-BurgruineAltesSchloss-PlanHelfrecht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/800px-BurgruineAltesSchloss-PlanHelfrecht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/1200px-BurgruineAltesSchloss-PlanHelfrecht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/1920px-BurgruineAltesSchloss-PlanHelfrecht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/1920px-BurgruineAltesSchloss-PlanHelfrecht.jpg---
 
 ## Overview
 

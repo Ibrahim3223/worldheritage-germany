@@ -4,13 +4,13 @@ site_name: "Brockdorff-Palais"
 date: 2026-01-26
 draft: false
 description: "building in Glückstadt, Germany"
-region: "Glückstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Glückstadt"
+  - "Lower Saxony"
 wikidata_id: "Q923629"
 latitude: 53.7889
 longitude: 9.42204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/400px-Brockdorffpalais_Glückstadt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/800px-Brockdorffpalais_Glückstadt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/1200px-Brockdorffpalais_Glückstadt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/1920px-Brockdorffpalais_Glückstadt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/1920px-Brockdorffpalais_Glückstadt.JPG---
 
 ## Overview
 

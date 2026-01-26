@@ -4,19 +4,18 @@ site_name: "Burg Kutten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wiggensbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wiggensbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012760"
 latitude: 47.7484
 longitude: 10.2028
 images:
-  []
----
+  []---
 
 ## Overview
 

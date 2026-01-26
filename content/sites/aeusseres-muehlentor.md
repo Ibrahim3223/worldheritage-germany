@@ -4,13 +4,13 @@ site_name: "Äußeres Mühlentor"
 date: 2026-01-26
 draft: false
 description: "former city gate in Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q258364"
 latitude: 53.8596094
 longitude: 10.6904947
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/400px-WP_Äußeres_Mühlentor_1552.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/800px-WP_Äußeres_Mühlentor_1552.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/1200px-WP_Äußeres_Mühlentor_1552.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/1920px-WP_Äußeres_Mühlentor_1552.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/1920px-WP_Äußeres_Mühlentor_1552.jpg---
 
 ## Overview
 

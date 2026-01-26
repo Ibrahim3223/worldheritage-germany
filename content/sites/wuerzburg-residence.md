@@ -4,13 +4,13 @@ site_name: "Würzburg Residence"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-63-000-454 (0) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q156316"
 latitude: 49.792797617
 longitude: 9.938889043
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/400px-Wuerzburger_Residenz_vom_Hofgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/800px-Wuerzburger_Residenz_vom_Hofgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/1200px-Wuerzburger_Residenz_vom_Hofgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/1920px-Wuerzburger_Residenz_vom_Hofgarten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/1920px-Wuerzburger_Residenz_vom_Hofgarten.jpg---
 
 ## Overview
 

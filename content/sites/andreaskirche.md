@@ -4,13 +4,13 @@ site_name: "Andreaskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q11722054"
 latitude: 52.4251
 longitude: 13.1541
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/400px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/800px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/1200px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/1920px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/1920px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg---
 
 ## Overview
 

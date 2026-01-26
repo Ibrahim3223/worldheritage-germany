@@ -4,19 +4,18 @@ site_name: "Castrum Burginatium"
 date: 2026-01-26
 draft: false
 description: "castrum"
-region: "Germania Inferior"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Germania Inferior"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1015090"
 latitude: 51.71388889
 longitude: 6.31888889
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Adam Opel AG Werke Bochum II/III"
 date: 2026-01-26
 draft: false
 description: "Produktionsstandort von Opel"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q2634219"
 latitude: 51.483333
 longitude: 7.330556
 images:
-  []
----
+  []---
 
 ## Overview
 

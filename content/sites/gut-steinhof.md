@@ -4,13 +4,13 @@ site_name: "Gut Steinhof"
 date: 2026-01-26
 draft: false
 description: "museum in Braunschweig, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1557049"
 latitude: 52.3169
 longitude: 10.4456
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BS_Gut_Steinhof_Speicher.JPG/400px-BS_Gut_Steinhof_Speicher.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BS_Gut_Steinhof_Speicher.JPG/800px-BS_Gut_Steinhof_Speicher.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BS_Gut_Steinhof_Speicher.JPG/1200px-BS_Gut_Steinhof_Speicher.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BS_Gut_Steinhof_Speicher.JPG/1920px-BS_Gut_Steinhof_Speicher.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BS_Gut_Steinhof_Speicher.JPG/1920px-BS_Gut_Steinhof_Speicher.JPG---
 
 ## Overview
 

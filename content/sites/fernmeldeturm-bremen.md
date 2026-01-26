@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Bremen"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1407029"
 latitude: 53.0803
 longitude: 8.79901
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fernmeldeturm_Bremen_(1961)_-_1.jpg/400px-Fernmeldeturm_Bremen_(1961)_-_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fernmeldeturm_Bremen_(1961)_-_1.jpg/800px-Fernmeldeturm_Bremen_(1961)_-_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fernmeldeturm_Bremen_(1961)_-_1.jpg/1200px-Fernmeldeturm_Bremen_(1961)_-_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fernmeldeturm_Bremen_(1961)_-_1.jpg/1920px-Fernmeldeturm_Bremen_(1961)_-_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fernmeldeturm_Bremen_(1961)_-_1.jpg/1920px-Fernmeldeturm_Bremen_(1961)_-_1.jpg---
 
 ## Overview
 

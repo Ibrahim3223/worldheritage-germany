@@ -4,13 +4,13 @@ site_name: "Kehdinger Küstenschiffahrts-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wischhafen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wischhafen"
+  - "Lower Saxony"
 wikidata_id: "Q17124034"
 latitude: 53.774739
 longitude: 9.320428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/400px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/800px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/1200px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/1920px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/1920px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG---
 
 ## Overview
 

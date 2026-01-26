@@ -4,13 +4,13 @@ site_name: "Ostenfriedhof Dortmund"
 date: 2026-01-26
 draft: false
 description: "cemetery in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1255892"
 latitude: 51.5098
 longitude: 7.49253
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/400px-IMG_6380-Ostfriedhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/800px-IMG_6380-Ostfriedhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/1200px-IMG_6380-Ostfriedhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/1920px-IMG_6380-Ostfriedhof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/1920px-IMG_6380-Ostfriedhof.JPG---
 
 ## Overview
 

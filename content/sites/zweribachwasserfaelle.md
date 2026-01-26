@@ -4,13 +4,13 @@ site_name: "Zweribachwasserfälle"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Emmendingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Emmendingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q244450"
 latitude: 48.0431
 longitude: 8.09294
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Zweribachwasserfälle_Obere_Stufe_01.jpg/400px-Zweribachwasserfälle_Obere_Stufe_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Zweribachwasserfälle_Obere_Stufe_01.jpg/800px-Zweribachwasserfälle_Obere_Stufe_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Zweribachwasserfälle_Obere_Stufe_01.jpg/1200px-Zweribachwasserfälle_Obere_Stufe_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Zweribachwasserfälle_Obere_Stufe_01.jpg/1920px-Zweribachwasserfälle_Obere_Stufe_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Zweribachwasserfälle_Obere_Stufe_01.jpg/1920px-Zweribachwasserfälle_Obere_Stufe_01.jpg---
 
 ## Overview
 

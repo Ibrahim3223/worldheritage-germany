@@ -4,19 +4,18 @@ site_name: "Johanneskapelle (Waldershof)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Waldershof"
-region: "Waldershof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Waldershof"
+  - "Bavaria"
 wikidata_id: "Q1698813"
 latitude: 49.976882499
 longitude: 12.059008579
 images:
-  []
----
+  []---
 
 ## Overview
 

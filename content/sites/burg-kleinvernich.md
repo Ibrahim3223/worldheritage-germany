@@ -4,13 +4,13 @@ site_name: "Burg Kleinvernich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Weilerswist"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Weilerswist"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012678"
 latitude: 50.7424
 longitude: 6.82911
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Kleinvernich_008x.jpg/400px-Burg_Kleinvernich_008x.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Kleinvernich_008x.jpg/800px-Burg_Kleinvernich_008x.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Kleinvernich_008x.jpg/1200px-Burg_Kleinvernich_008x.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Kleinvernich_008x.jpg/1920px-Burg_Kleinvernich_008x.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Kleinvernich_008x.jpg/1920px-Burg_Kleinvernich_008x.jpg---
 
 ## Overview
 

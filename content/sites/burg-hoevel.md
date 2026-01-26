@@ -4,19 +4,18 @@ site_name: "Burg Hövel"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hamm"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hamm"
+  - "Lower Saxony"
 wikidata_id: "Q1012533"
 latitude: 51.7027
 longitude: 7.76195
 images:
-  []
----
+  []---
 
 ## Overview
 

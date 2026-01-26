@@ -4,13 +4,13 @@ site_name: "Freilandmuseum Grassemann"
 date: 2026-01-26
 draft: false
 description: "building in Warmensteinach, Upper Franconia, Germany"
-region: "Warmensteinach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Warmensteinach"
+  - "Bavaria"
 wikidata_id: "Q19963217"
 latitude: 50.0189
 longitude: 11.789
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/400px-Freilandmuseum_Grassemann_2015_xy3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/800px-Freilandmuseum_Grassemann_2015_xy3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/1200px-Freilandmuseum_Grassemann_2015_xy3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/1920px-Freilandmuseum_Grassemann_2015_xy3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/1920px-Freilandmuseum_Grassemann_2015_xy3.JPG---
 
 ## Overview
 

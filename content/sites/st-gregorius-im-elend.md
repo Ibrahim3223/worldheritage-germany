@@ -4,13 +4,13 @@ site_name: "St. Gregorius im Elend"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt-Süd, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1252241"
 latitude: 50.9286
 longitude: 6.95911
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/400px-St._Gregorius_im_Elend,_Köln-0398.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/800px-St._Gregorius_im_Elend,_Köln-0398.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/1200px-St._Gregorius_im_Elend,_Köln-0398.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/1920px-St._Gregorius_im_Elend,_Köln-0398.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/1920px-St._Gregorius_im_Elend,_Köln-0398.jpg---
 
 ## Overview
 

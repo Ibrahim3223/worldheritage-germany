@@ -4,13 +4,13 @@ site_name: "Gerichtshöfe"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1272189"
 latitude: 52.5437
 longitude: 13.3758
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/400px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/800px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/1200px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/1920px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/1920px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg---
 
 ## Overview
 

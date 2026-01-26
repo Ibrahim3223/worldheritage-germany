@@ -4,13 +4,13 @@ site_name: "Viktoriapark"
 date: 2026-01-26
 draft: false
 description: "park in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q566495"
 latitude: 52.488888888
 longitude: 13.380555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Viktoriapark_B-Kreuzberg_06-2017_img1.jpg/400px-Viktoriapark_B-Kreuzberg_06-2017_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Viktoriapark_B-Kreuzberg_06-2017_img1.jpg/800px-Viktoriapark_B-Kreuzberg_06-2017_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Viktoriapark_B-Kreuzberg_06-2017_img1.jpg/1200px-Viktoriapark_B-Kreuzberg_06-2017_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Viktoriapark_B-Kreuzberg_06-2017_img1.jpg/1920px-Viktoriapark_B-Kreuzberg_06-2017_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Viktoriapark_B-Kreuzberg_06-2017_img1.jpg/1920px-Viktoriapark_B-Kreuzberg_06-2017_img1.jpg---
 
 ## Overview
 

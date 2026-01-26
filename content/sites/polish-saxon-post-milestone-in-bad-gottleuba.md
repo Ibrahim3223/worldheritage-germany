@@ -4,13 +4,13 @@ site_name: "Polish-Saxon Post Milestone in Bad Gottleuba"
 date: 2026-01-26
 draft: false
 description: "Saxon post milestone in Bad Gottleuba-Berggießhübel in Germany"
-region: "Bad Gottleuba-Berggießhübel"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Gottleuba-Berggießhübel"
+  - "Saxony"
 wikidata_id: "Q1467412"
 latitude: 50.849253
 longitude: 13.941614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/400px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/800px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/1200px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/1920px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/1920px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg---
 
 ## Overview
 

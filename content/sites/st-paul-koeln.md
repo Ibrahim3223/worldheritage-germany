@@ -4,13 +4,13 @@ site_name: "St. Paul (Köln)"
 date: 2026-01-26
 draft: false
 description: "church building in Neustadt-Süd, Germany"
-region: "Neustadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neustadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1259172"
 latitude: 50.9227
 longitude: 6.95143
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/400px-St._Paul,_Köln-7108.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/800px-St._Paul,_Köln-7108.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/1200px-St._Paul,_Köln-7108.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/1920px-St._Paul,_Köln-7108.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/1920px-St._Paul,_Köln-7108.jpg---
 
 ## Overview
 

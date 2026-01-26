@@ -4,13 +4,13 @@ site_name: "Tuchmacherbrunnen"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q1396261"
 latitude: 51.7619
 longitude: 14.3392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/400px-Tuchmacherbrunnen_Cottbus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/800px-Tuchmacherbrunnen_Cottbus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/1200px-Tuchmacherbrunnen_Cottbus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/1920px-Tuchmacherbrunnen_Cottbus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/1920px-Tuchmacherbrunnen_Cottbus.jpg---
 
 ## Overview
 

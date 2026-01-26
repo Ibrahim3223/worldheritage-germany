@@ -4,13 +4,13 @@ site_name: "Opernbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2026645"
 latitude: 50.938
 longitude: 6.95258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Offenbachplatz-Köln-Brunnen.JPG/400px-Offenbachplatz-Köln-Brunnen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Offenbachplatz-Köln-Brunnen.JPG/800px-Offenbachplatz-Köln-Brunnen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Offenbachplatz-Köln-Brunnen.JPG/1200px-Offenbachplatz-Köln-Brunnen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Offenbachplatz-Köln-Brunnen.JPG/1920px-Offenbachplatz-Köln-Brunnen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Offenbachplatz-Köln-Brunnen.JPG/1920px-Offenbachplatz-Köln-Brunnen.JPG---
 
 ## Overview
 

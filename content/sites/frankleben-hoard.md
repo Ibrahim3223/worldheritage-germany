@@ -4,19 +4,18 @@ site_name: "Frankleben hoard"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Germany"
-region: "Braunsbedra"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Braunsbedra"
+  - "Saxony"
 wikidata_id: "Q928445"
 latitude: 51.3
 longitude: 11.93
 images:
-  []
----
+  []---
 
 ## Overview
 

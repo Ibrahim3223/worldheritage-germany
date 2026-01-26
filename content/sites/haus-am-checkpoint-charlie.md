@@ -4,13 +4,13 @@ site_name: "Haus am Checkpoint Charlie"
 date: 2026-01-26
 draft: false
 description: "building in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1590714"
 latitude: 52.5069
 longitude: 13.3907
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/400px-Haus_am_Checkpoint_Charlie.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/800px-Haus_am_Checkpoint_Charlie.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/1200px-Haus_am_Checkpoint_Charlie.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/1920px-Haus_am_Checkpoint_Charlie.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/1920px-Haus_am_Checkpoint_Charlie.JPG---
 
 ## Overview
 

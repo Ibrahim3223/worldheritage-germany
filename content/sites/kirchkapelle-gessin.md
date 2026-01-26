@@ -4,13 +4,13 @@ site_name: "Kirchkapelle Gessin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Basedow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Basedow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244295"
 latitude: 53.6979
 longitude: 12.7125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/400px-Gessin-Kapelle2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/800px-Gessin-Kapelle2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/1200px-Gessin-Kapelle2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/1920px-Gessin-Kapelle2011.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/1920px-Gessin-Kapelle2011.JPG---
 
 ## Overview
 

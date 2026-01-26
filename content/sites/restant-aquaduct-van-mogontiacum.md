@@ -4,13 +4,13 @@ site_name: "Restant aquaduct van Mogontiacum"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Rhineland-Palatinate, Germany"
-region: "Rhineland-Palatinate"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Rhineland-Palatinate"
+  - "Hesse"
 wikidata_id: "Q896423"
 latitude: 49.9894
 longitude: 8.25361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Römersteine_05.JPG/400px-Römersteine_05.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Römersteine_05.JPG/800px-Römersteine_05.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Römersteine_05.JPG/1200px-Römersteine_05.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Römersteine_05.JPG/1920px-Römersteine_05.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Römersteine_05.JPG/1920px-Römersteine_05.JPG---
 
 ## Overview
 

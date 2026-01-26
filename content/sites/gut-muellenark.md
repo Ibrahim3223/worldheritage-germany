@@ -4,13 +4,13 @@ site_name: "Gut Müllenark"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Inden"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Inden"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1556989"
 latitude: 50.8744
 longitude: 6.40294
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/400px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/800px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/1200px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/1920px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/1920px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg---
 
 ## Overview
 

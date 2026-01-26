@@ -4,19 +4,18 @@ site_name: "Katholische Stiftungshochschule München"
 date: 2026-01-26
 draft: false
 description: "staatlich anerkannte Hochschule mit Standorten in München und Benediktbeuern"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1632429"
 latitude: 48.1322
 longitude: 11.6013
 images:
-  []
----
+  []---
 
 ## Overview
 

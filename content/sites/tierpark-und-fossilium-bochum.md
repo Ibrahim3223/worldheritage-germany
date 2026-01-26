@@ -4,13 +4,13 @@ site_name: "Tierpark und Fossilium Bochum"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1621348"
 latitude: 51.4906
 longitude: 7.22722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg/400px-Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg/800px-Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg/1200px-Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg/1920px-Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg/1920px-Bochum_-_Klinikstraße_-_Tierpark_10_ies.jpg---
 
 ## Overview
 

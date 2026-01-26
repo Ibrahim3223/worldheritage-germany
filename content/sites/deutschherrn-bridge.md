@@ -4,13 +4,13 @@ site_name: "Deutschherrn bridge"
 date: 2026-01-26
 draft: false
 description: "railway bridge in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q958287"
 latitude: 50.106666666
 longitude: 8.705277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/400px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/800px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/1200px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/1920px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/1920px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg---
 
 ## Overview
 

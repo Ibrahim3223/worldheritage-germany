@@ -4,13 +4,13 @@ site_name: "Harkort’sche Fabrik"
 date: 2026-01-26
 draft: false
 description: "factory"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q206114"
 latitude: 51.344722222
 longitude: 7.408333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/400px-Harkort’sche_Fabrik.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/800px-Harkort’sche_Fabrik.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1200px-Harkort’sche_Fabrik.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1920px-Harkort’sche_Fabrik.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1920px-Harkort’sche_Fabrik.jpg---
 
 ## Overview
 

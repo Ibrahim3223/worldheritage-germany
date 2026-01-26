@@ -4,13 +4,13 @@ site_name: "Belginum Archaeological Park"
 date: 2026-01-26
 draft: false
 description: "Archaeological site near Wederath in Germany"
-region: "Wederath"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wederath"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q636568"
 latitude: 49.8554
 longitude: 7.16454
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Archaeologiepark_Belginum.jpg/400px-Archaeologiepark_Belginum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Archaeologiepark_Belginum.jpg/800px-Archaeologiepark_Belginum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Archaeologiepark_Belginum.jpg/1200px-Archaeologiepark_Belginum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Archaeologiepark_Belginum.jpg/1920px-Archaeologiepark_Belginum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Archaeologiepark_Belginum.jpg/1920px-Archaeologiepark_Belginum.jpg---
 
 ## Overview
 

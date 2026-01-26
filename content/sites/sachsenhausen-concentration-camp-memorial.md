@@ -4,13 +4,13 @@ site_name: "Sachsenhausen concentration camp memorial"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oranienburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oranienburg"
+  - "Brandenburg"
 wikidata_id: "Q60322749"
 latitude: 52.7667647
 longitude: 13.2634915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg/400px-Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg/800px-Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg/1200px-Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg/1920px-Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg/1920px-Sachsenhausen_Gedenkstätte_asv2024-08_img15.jpg---
 
 ## Overview
 

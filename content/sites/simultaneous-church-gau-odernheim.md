@@ -4,13 +4,13 @@ site_name: "Simultaneous Church Gau-Odernheim"
 date: 2026-01-26
 draft: false
 description: "church building in Gau-Odernheim, Germany"
-region: "Gau-Odernheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gau-Odernheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1431068"
 latitude: 49.784
 longitude: 8.19062
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gau_Odernheim_Simultankirche_ganz.jpg/400px-Gau_Odernheim_Simultankirche_ganz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gau_Odernheim_Simultankirche_ganz.jpg/800px-Gau_Odernheim_Simultankirche_ganz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gau_Odernheim_Simultankirche_ganz.jpg/1200px-Gau_Odernheim_Simultankirche_ganz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gau_Odernheim_Simultankirche_ganz.jpg/1920px-Gau_Odernheim_Simultankirche_ganz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gau_Odernheim_Simultankirche_ganz.jpg/1920px-Gau_Odernheim_Simultankirche_ganz.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Helmstätter Herrenhaus"
 date: 2026-01-26
 draft: false
 description: "Baudenkmal in Heidelberg"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q15815048"
 latitude: 49.42805
 longitude: 8.68693
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg/400px-2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg/800px-2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg/1200px-2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg/1920px-2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg/1920px-2011.09.25.163319_Helmstätter_Herrenhaus_Handschuhsheim_Heidelberg.jpg---
 
 ## Overview
 

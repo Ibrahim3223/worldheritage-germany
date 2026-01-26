@@ -4,19 +4,18 @@ site_name: "Amtsgerichtsgebäude Lauterbach"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Lauterbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Lauterbach"
+  - "Hesse"
 wikidata_id: "Q116921199"
 latitude: 50.634022
 longitude: 9.396899
 images:
-  []
----
+  []---
 
 ## Overview
 

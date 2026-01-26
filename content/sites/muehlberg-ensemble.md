@@ -4,19 +4,18 @@ site_name: "Mühlberg-Ensemble"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschützte Häusergruppe in Kempten"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q15717218"
 latitude: 47.725925
 longitude: 10.319596
 images:
-  []
----
+  []---
 
 ## Overview
 

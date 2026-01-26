@@ -4,13 +4,13 @@ site_name: "Elstermühle Plessa"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Plessa"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Plessa"
+  - "Brandenburg"
 wikidata_id: "Q1315993"
 latitude: 51.4628
 longitude: 13.63
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/400px-Elstermühle7_2012b_I2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/800px-Elstermühle7_2012b_I2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/1200px-Elstermühle7_2012b_I2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/1920px-Elstermühle7_2012b_I2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/1920px-Elstermühle7_2012b_I2.jpg---
 
 ## Overview
 

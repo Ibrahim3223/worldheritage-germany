@@ -4,13 +4,13 @@ site_name: "Grabmal Familie Schmitt"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Darmstadt"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q27478842"
 latitude: 49.8712
 longitude: 8.61526
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/400px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/800px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/1200px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/1920px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/1920px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg---
 
 ## Overview
 

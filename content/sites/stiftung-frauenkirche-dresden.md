@@ -4,19 +4,18 @@ site_name: "Stiftung Frauenkirche Dresden"
 date: 2026-01-26
 draft: false
 description: "German foundation"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q101067494"
 latitude: 51.052132
 longitude: 13.742968
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Hundheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neckarhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neckarhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012509"
 latitude: 49.4179
 longitude: 8.87336
 images:
-  []
----
+  []---
 
 ## Overview
 

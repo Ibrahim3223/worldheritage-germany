@@ -4,13 +4,13 @@ site_name: "Kaufmannskirche (Erfurt)"
 date: 2026-01-26
 draft: false
 description: "church building in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1699230"
 latitude: 50.97799735
 longitude: 11.035113971
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg/400px-Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg/800px-Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg/1200px-Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg/1920px-Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg/1920px-Anger_80,_Kaufmannskirche_Erfurt_20250427_0002.jpg---
 
 ## Overview
 

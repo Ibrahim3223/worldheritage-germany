@@ -4,13 +4,13 @@ site_name: "Sankt Peter Frankfurt"
 date: 2026-01-26
 draft: false
 description: "church in Hesse, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1247627"
 latitude: 50.1174
 longitude: 8.68378
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt_Peterskirche.20130817.jpg/400px-Frankfurt_Peterskirche.20130817.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt_Peterskirche.20130817.jpg/800px-Frankfurt_Peterskirche.20130817.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt_Peterskirche.20130817.jpg/1200px-Frankfurt_Peterskirche.20130817.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt_Peterskirche.20130817.jpg/1920px-Frankfurt_Peterskirche.20130817.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Frankfurt_Peterskirche.20130817.jpg/1920px-Frankfurt_Peterskirche.20130817.jpg---
 
 ## Overview
 

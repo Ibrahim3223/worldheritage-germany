@@ -4,13 +4,13 @@ site_name: "Museum Zitadelle Jülich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Jülich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jülich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1954510"
 latitude: 50.9255
 longitude: 6.36006
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/400px-Zitadelle-Pulvermagazin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/800px-Zitadelle-Pulvermagazin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/1200px-Zitadelle-Pulvermagazin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/1920px-Zitadelle-Pulvermagazin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/1920px-Zitadelle-Pulvermagazin.jpg---
 
 ## Overview
 

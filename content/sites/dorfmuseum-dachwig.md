@@ -4,19 +4,18 @@ site_name: "Dorfmuseum Dachwig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dachwig"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dachwig"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20479681"
 latitude: 51.077468445
 longitude: 10.856576084
 images:
-  []
----
+  []---
 
 ## Overview
 

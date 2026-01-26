@@ -4,13 +4,13 @@ site_name: "Church in Tessin"
 date: 2026-01-26
 draft: false
 description: "church building in Tessin, Germany"
-region: "Tessin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tessin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2327476"
 latitude: 54.0281
 longitude: 12.4683
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/400px-Tessin_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/800px-Tessin_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1200px-Tessin_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1920px-Tessin_Kirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1920px-Tessin_Kirche_1.jpg---
 
 ## Overview
 

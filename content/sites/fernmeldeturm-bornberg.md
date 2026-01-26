@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Bornberg"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1407024"
 latitude: 49.5611
 longitude: 7.54285
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fernmeldeturm_Bornberg.jpg/400px-Fernmeldeturm_Bornberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fernmeldeturm_Bornberg.jpg/800px-Fernmeldeturm_Bornberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fernmeldeturm_Bornberg.jpg/1200px-Fernmeldeturm_Bornberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fernmeldeturm_Bornberg.jpg/1920px-Fernmeldeturm_Bornberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fernmeldeturm_Bornberg.jpg/1920px-Fernmeldeturm_Bornberg.jpg---
 
 ## Overview
 

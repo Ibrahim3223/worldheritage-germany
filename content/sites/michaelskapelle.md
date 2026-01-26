@@ -4,13 +4,13 @@ site_name: "Michaelskapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bruchsal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bruchsal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1292307"
 latitude: 49.0878
 longitude: 8.56128
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/400px-MichaelsbergKapelle7-Okt2007.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/800px-MichaelsbergKapelle7-Okt2007.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1200px-MichaelsbergKapelle7-Okt2007.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1920px-MichaelsbergKapelle7-Okt2007.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1920px-MichaelsbergKapelle7-Okt2007.JPG---
 
 ## Overview
 

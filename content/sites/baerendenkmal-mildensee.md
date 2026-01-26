@@ -4,13 +4,13 @@ site_name: "Bärendenkmal (Mildensee)"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1019088"
 latitude: 51.8257
 longitude: 12.2887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dessau-Mildensee,Bärendenkmal_3.jpg/400px-Dessau-Mildensee,Bärendenkmal_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dessau-Mildensee,Bärendenkmal_3.jpg/800px-Dessau-Mildensee,Bärendenkmal_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dessau-Mildensee,Bärendenkmal_3.jpg/1200px-Dessau-Mildensee,Bärendenkmal_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dessau-Mildensee,Bärendenkmal_3.jpg/1920px-Dessau-Mildensee,Bärendenkmal_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dessau-Mildensee,Bärendenkmal_3.jpg/1920px-Dessau-Mildensee,Bärendenkmal_3.jpg---
 
 ## Overview
 

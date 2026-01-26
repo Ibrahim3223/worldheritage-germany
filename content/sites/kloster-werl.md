@@ -4,13 +4,13 @@ site_name: "Kloster Werl"
 date: 2026-01-26
 draft: false
 description: "monastery in North Rhine-Westphalia, Germany"
-region: "Werl"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Werl"
+  - "Hesse"
 wikidata_id: "Q831646"
 latitude: 51.5537
 longitude: 7.91564
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Werl-Kloster1-Bubo.JPG/400px-Werl-Kloster1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Werl-Kloster1-Bubo.JPG/800px-Werl-Kloster1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Werl-Kloster1-Bubo.JPG/1200px-Werl-Kloster1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Werl-Kloster1-Bubo.JPG/1920px-Werl-Kloster1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Werl-Kloster1-Bubo.JPG/1920px-Werl-Kloster1-Bubo.JPG---
 
 ## Overview
 

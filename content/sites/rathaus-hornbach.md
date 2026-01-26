@@ -4,13 +4,13 @@ site_name: "Rathaus Hornbach"
 date: 2026-01-26
 draft: false
 description: "town hall and former church in Hornbach"
-region: "Hornbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Hornbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q135211001"
 latitude: 49.185899
 longitude: 7.369815
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024_Rathaus_(Hornbach).jpg/400px-2024_Rathaus_(Hornbach).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024_Rathaus_(Hornbach).jpg/800px-2024_Rathaus_(Hornbach).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024_Rathaus_(Hornbach).jpg/1200px-2024_Rathaus_(Hornbach).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024_Rathaus_(Hornbach).jpg/1920px-2024_Rathaus_(Hornbach).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024_Rathaus_(Hornbach).jpg/1920px-2024_Rathaus_(Hornbach).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ballhaus Naunynstrasse"
 date: 2026-01-26
 draft: false
 description: "theatre in Kreuzberg, Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q805250"
 latitude: 52.502271
 longitude: 13.421489
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/400px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/800px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1200px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1920px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1920px-Naunynstraße_27_(Berlin-Kreuzberg).JPG---
 
 ## Overview
 

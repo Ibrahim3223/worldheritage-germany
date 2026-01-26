@@ -4,13 +4,13 @@ site_name: "Cultural heritage D-6-6024-0064 in Karlstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Karlstadt am Main, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Karlstadt am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Karlstadt am Main"
+  - "Bavaria"
 wikidata_id: "Q98170858"
 latitude: 49.962641894
 longitude: 9.756128123
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/400px-2020_Ruine_Karlburg_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/800px-2020_Ruine_Karlburg_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/1200px-2020_Ruine_Karlburg_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/1920px-2020_Ruine_Karlburg_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/1920px-2020_Ruine_Karlburg_03.jpg---
 
 ## Overview
 

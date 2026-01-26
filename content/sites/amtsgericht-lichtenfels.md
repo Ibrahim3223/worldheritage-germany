@@ -4,13 +4,13 @@ site_name: "Amtsgericht Lichtenfels"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-78-139-60 (0) in Lichtenfels (Oberfranken), Bavaria"
-region: "Lichtenfels"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Lichtenfels"
+  - "Bavaria"
 wikidata_id: "Q110153265"
 latitude: 50.147499
 longitude: 11.069562
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/400px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/800px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/1200px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/1920px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/1920px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg---
 
 ## Overview
 

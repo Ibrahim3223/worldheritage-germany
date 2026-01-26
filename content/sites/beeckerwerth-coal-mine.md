@@ -4,13 +4,13 @@ site_name: "Beeckerwerth coal mine"
 date: 2026-01-26
 draft: false
 description: "former coal mine in Duisburg, Germany"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q169671"
 latitude: 51.488
 longitude: 6.71123
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zeche_Beeckerwerth.jpg/400px-Zeche_Beeckerwerth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zeche_Beeckerwerth.jpg/800px-Zeche_Beeckerwerth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zeche_Beeckerwerth.jpg/1200px-Zeche_Beeckerwerth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zeche_Beeckerwerth.jpg/1920px-Zeche_Beeckerwerth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zeche_Beeckerwerth.jpg/1920px-Zeche_Beeckerwerth.jpg---
 
 ## Overview
 

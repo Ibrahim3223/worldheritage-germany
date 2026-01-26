@@ -4,13 +4,13 @@ site_name: "Church in Boltenhagen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Boltenhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Boltenhagen"
+  - "Lower Saxony"
 wikidata_id: "Q1381008"
 latitude: 53.9885
 longitude: 11.2012
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/400px-Boltenhagen_Kirche_2009-01-02_028.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/800px-Boltenhagen_Kirche_2009-01-02_028.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1200px-Boltenhagen_Kirche_2009-01-02_028.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1920px-Boltenhagen_Kirche_2009-01-02_028.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1920px-Boltenhagen_Kirche_2009-01-02_028.jpg---
 
 ## Overview
 

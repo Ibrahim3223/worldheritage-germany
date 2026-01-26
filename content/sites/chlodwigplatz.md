@@ -4,13 +4,13 @@ site_name: "Chlodwigplatz"
 date: 2026-01-26
 draft: false
 description: "square in Düren, Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1075167"
 latitude: 50.7978
 longitude: 6.49258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/400px-Choldwigplatz_Dueren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/800px-Choldwigplatz_Dueren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/1200px-Choldwigplatz_Dueren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/1920px-Choldwigplatz_Dueren.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/1920px-Choldwigplatz_Dueren.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alter Kurpark (Bad Soden)"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Bad Soden am Taunus"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Bad Soden am Taunus"
+  - "Hesse"
 wikidata_id: "Q438063"
 latitude: 50.1454
 longitude: 8.50226
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/400px-Bad_Soden_Taunus_Alter_Kurpark.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/800px-Bad_Soden_Taunus_Alter_Kurpark.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/1200px-Bad_Soden_Taunus_Alter_Kurpark.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/1920px-Bad_Soden_Taunus_Alter_Kurpark.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/1920px-Bad_Soden_Taunus_Alter_Kurpark.JPG---
 
 ## Overview
 

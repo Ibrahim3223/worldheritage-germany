@@ -4,13 +4,13 @@ site_name: "Erika-Fuchs-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Schwarzenbach an der Saale, Germany"
-region: "Schwarzenbach an der Saale"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwarzenbach an der Saale"
+  - "Bavaria"
 wikidata_id: "Q20744828"
 latitude: 50.2224
 longitude: 11.93521
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/400px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/800px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1200px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1920px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1920px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Petruskirche (Berlin-Lichterfelde)"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q2080869"
 latitude: 52.4252
 longitude: 13.328
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/400px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/800px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/1200px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/1920px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/1920px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg---
 
 ## Overview
 

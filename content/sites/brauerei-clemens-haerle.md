@@ -4,19 +4,18 @@ site_name: "Brauerei Clemens Härle"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q900156"
 latitude: 47.823611
 longitude: 10.024167
 images:
-  []
----
+  []---
 
 ## Overview
 

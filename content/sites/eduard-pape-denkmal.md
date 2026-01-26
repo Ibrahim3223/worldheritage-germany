@@ -4,13 +4,13 @@ site_name: "Eduard-Pape-Denkmal"
 date: 2026-01-26
 draft: false
 description: "former monument in Brilon, Germany"
-region: "Brilon"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Brilon"
+  - "Hesse"
 wikidata_id: "Q1287808"
 latitude: 51.3958
 longitude: 8.56781
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Papedenkmal_in_Brilon_1.JPG/400px-Papedenkmal_in_Brilon_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Papedenkmal_in_Brilon_1.JPG/800px-Papedenkmal_in_Brilon_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Papedenkmal_in_Brilon_1.JPG/1200px-Papedenkmal_in_Brilon_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Papedenkmal_in_Brilon_1.JPG/1920px-Papedenkmal_in_Brilon_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Papedenkmal_in_Brilon_1.JPG/1920px-Papedenkmal_in_Brilon_1.JPG---
 
 ## Overview
 

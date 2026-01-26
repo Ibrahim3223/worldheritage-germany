@@ -4,19 +4,18 @@ site_name: "Württembergisches Psychiatriemuseum Zwiefalten/Bad Schussenried"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q32469488"
 latitude: 48.2325
 longitude: 9.46569
 images:
-  []
----
+  []---
 
 ## Overview
 

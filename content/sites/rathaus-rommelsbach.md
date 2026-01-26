@@ -4,13 +4,13 @@ site_name: "Rathaus Rommelsbach"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Reutlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Reutlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q131732841"
 latitude: 48.534469857
 longitude: 9.202390909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/400px-Rommelsbach_Rathaus_2025_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/800px-Rommelsbach_Rathaus_2025_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/1200px-Rommelsbach_Rathaus_2025_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/1920px-Rommelsbach_Rathaus_2025_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/1920px-Rommelsbach_Rathaus_2025_01.jpg---
 
 ## Overview
 

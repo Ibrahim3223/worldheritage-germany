@@ -4,13 +4,13 @@ site_name: "Sanssouci Picture Gallery"
 date: 2026-01-26
 draft: false
 description: "art museum in Sanssouci, Potsdam"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q451555"
 latitude: 52.4038
 longitude: 13.041
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bildergalerie_Sanssouci,_Potsdam-7506.jpg/400px-Bildergalerie_Sanssouci,_Potsdam-7506.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bildergalerie_Sanssouci,_Potsdam-7506.jpg/800px-Bildergalerie_Sanssouci,_Potsdam-7506.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bildergalerie_Sanssouci,_Potsdam-7506.jpg/1200px-Bildergalerie_Sanssouci,_Potsdam-7506.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bildergalerie_Sanssouci,_Potsdam-7506.jpg/1920px-Bildergalerie_Sanssouci,_Potsdam-7506.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bildergalerie_Sanssouci,_Potsdam-7506.jpg/1920px-Bildergalerie_Sanssouci,_Potsdam-7506.jpg---
 
 ## Overview
 

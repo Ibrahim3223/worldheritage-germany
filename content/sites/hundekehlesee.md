@@ -4,13 +4,13 @@ site_name: "Hundekehlesee"
 date: 2026-01-26
 draft: false
 description: "lake in Charlottenburg-Wilmersdorf, Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1263106"
 latitude: 52.4822
 longitude: 13.2589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/400px-Hundekehlesee1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/800px-Hundekehlesee1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/1200px-Hundekehlesee1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/1920px-Hundekehlesee1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/1920px-Hundekehlesee1.jpg---
 
 ## Overview
 

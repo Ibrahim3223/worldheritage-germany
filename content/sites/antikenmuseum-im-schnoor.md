@@ -4,13 +4,13 @@ site_name: "Antikenmuseum im Schnoor"
 date: 2026-01-26
 draft: false
 description: "former museum in Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q576077"
 latitude: 53.0731
 longitude: 8.81169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/400px-Antikenmuseum-Schnoor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/800px-Antikenmuseum-Schnoor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/1200px-Antikenmuseum-Schnoor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/1920px-Antikenmuseum-Schnoor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/1920px-Antikenmuseum-Schnoor.jpg---
 
 ## Overview
 

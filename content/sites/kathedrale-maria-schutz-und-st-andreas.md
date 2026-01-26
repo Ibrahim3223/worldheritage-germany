@@ -4,13 +4,13 @@ site_name: "Kathedrale Maria Schutz und St. Andreas"
 date: 2026-01-26
 draft: false
 description: "cathedral"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q835542"
 latitude: 48.1063
 longitude: 11.5646
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Muenchen-Maria-Schutz-bjs2007-01.jpg/400px-Muenchen-Maria-Schutz-bjs2007-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Muenchen-Maria-Schutz-bjs2007-01.jpg/800px-Muenchen-Maria-Schutz-bjs2007-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Muenchen-Maria-Schutz-bjs2007-01.jpg/1200px-Muenchen-Maria-Schutz-bjs2007-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Muenchen-Maria-Schutz-bjs2007-01.jpg/1920px-Muenchen-Maria-Schutz-bjs2007-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Muenchen-Maria-Schutz-bjs2007-01.jpg/1920px-Muenchen-Maria-Schutz-bjs2007-01.jpg---
 
 ## Overview
 

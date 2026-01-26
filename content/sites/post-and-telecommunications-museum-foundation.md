@@ -4,19 +4,18 @@ site_name: "Post and Telecommunications Museum Foundation"
 date: 2026-01-26
 draft: false
 description: "museum operator in Germany"
-region: "Heusenstamm"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heusenstamm"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1232935"
 latitude: 50.706573055
 longitude: 7.138551944
 images:
-  []
----
+  []---
 
 ## Overview
 

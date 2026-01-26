@@ -4,19 +4,18 @@ site_name: "Boulemuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Rinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rinteln"
+  - "Lower Saxony"
 wikidata_id: "Q895061"
 latitude: 52.1744
 longitude: 9.14607
 images:
-  []
----
+  []---
 
 ## Overview
 

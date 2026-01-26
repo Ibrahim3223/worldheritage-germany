@@ -4,19 +4,18 @@ site_name: "Freilicht- und Erlebnismuseum Ostfalen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Königslutter am Elm"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Königslutter am Elm"
+  - "Lower Saxony"
 wikidata_id: "Q1454485"
 latitude: 52.137145
 longitude: 10.649317
 images:
-  []
----
+  []---
 
 ## Overview
 

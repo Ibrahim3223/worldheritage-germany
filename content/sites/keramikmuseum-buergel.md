@@ -4,13 +4,13 @@ site_name: "Keramikmuseum Bürgel"
 date: 2026-01-26
 draft: false
 description: "Museum for History of Pottery Producers in Bürgel"
-region: "Bürgel"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bürgel"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20480220"
 latitude: 50.942463
 longitude: 11.755186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/400px-Bürgel_(Thüringen),_the_pottery_museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/800px-Bürgel_(Thüringen),_the_pottery_museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/1200px-Bürgel_(Thüringen),_the_pottery_museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/1920px-Bürgel_(Thüringen),_the_pottery_museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/1920px-Bürgel_(Thüringen),_the_pottery_museum.jpg---
 
 ## Overview
 

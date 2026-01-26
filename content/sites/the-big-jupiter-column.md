@@ -4,13 +4,13 @@ site_name: "The Big Jupiter column"
 date: 2026-01-26
 draft: false
 description: "monument in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q322417"
 latitude: 50.005361111
 longitude: 8.270527777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/400px-Stuttgart-jupitergigantensaeule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/800px-Stuttgart-jupitergigantensaeule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/1200px-Stuttgart-jupitergigantensaeule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/1920px-Stuttgart-jupitergigantensaeule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/1920px-Stuttgart-jupitergigantensaeule.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Schau- und Sichtungsgarten Hermannshof"
 date: 2026-01-26
 draft: false
 description: "garden in Germany"
-region: "Weinheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Weinheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1644473"
 latitude: 49.5477
 longitude: 8.6697
 images:
-  []
----
+  []---
 
 ## Overview
 

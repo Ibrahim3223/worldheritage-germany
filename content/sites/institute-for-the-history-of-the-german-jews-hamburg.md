@@ -4,19 +4,18 @@ site_name: "Institute for the History of the German Jews, Hamburg"
 date: 2026-01-26
 draft: false
 description: "Stiftung bürgerlichen Rechts in Trägerschaft der Freien und Hansestadt Hamburg"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q1665068"
 latitude: 53.569879248
 longitude: 9.975692041
 images:
-  []
----
+  []---
 
 ## Overview
 

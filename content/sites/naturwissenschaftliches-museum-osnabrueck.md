@@ -4,13 +4,13 @@ site_name: "Naturwissenschaftliches Museum Osnabrück"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q27821987"
 latitude: 52.249444444
 longitude: 8.069722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/400px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/800px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/1200px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/1920px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/1920px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg---
 
 ## Overview
 

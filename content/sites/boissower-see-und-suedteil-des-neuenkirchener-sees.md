@@ -4,13 +4,13 @@ site_name: "Boissower See und Südteil des Neuenkirchener Sees"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Mecklenburg-Vorpommern, Germany"
-region: "Zarrentin am Schaalsee"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Zarrentin am Schaalsee"
+  - "Lower Saxony"
 wikidata_id: "Q679890"
 latitude: 53.567
 longitude: 10.9765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/400px-Bach_vom_Boissower_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/800px-Bach_vom_Boissower_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1200px-Bach_vom_Boissower_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1920px-Bach_vom_Boissower_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1920px-Bach_vom_Boissower_See.jpg---
 
 ## Overview
 

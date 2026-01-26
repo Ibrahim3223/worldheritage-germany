@@ -4,13 +4,13 @@ site_name: "Botanischer Garten der Ruhr-Universität Bochum"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q882377"
 latitude: 51.4419
 longitude: 7.2675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/400px-Ruhr-Uni-Bochum-0089.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/800px-Ruhr-Uni-Bochum-0089.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/1200px-Ruhr-Uni-Bochum-0089.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/1920px-Ruhr-Uni-Bochum-0089.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/1920px-Ruhr-Uni-Bochum-0089.JPG---
 
 ## Overview
 

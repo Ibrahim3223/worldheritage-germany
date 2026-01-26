@@ -4,13 +4,13 @@ site_name: "Burg Dießenstein"
 date: 2026-01-26
 draft: false
 description: "castle ruin"
-region: "Saldenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Saldenburg"
+  - "Bavaria"
 wikidata_id: "Q1015263"
 latitude: 48.767737872
 longitude: 13.402023796
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg-Diessenstein.jpg/400px-Burg-Diessenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg-Diessenstein.jpg/800px-Burg-Diessenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg-Diessenstein.jpg/1200px-Burg-Diessenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg-Diessenstein.jpg/1920px-Burg-Diessenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg-Diessenstein.jpg/1920px-Burg-Diessenstein.jpg---
 
 ## Overview
 

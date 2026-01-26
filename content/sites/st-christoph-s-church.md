@@ -4,13 +4,13 @@ site_name: "St. Christoph 's Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q871057"
 latitude: 50.0019
 longitude: 8.27217
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/400px-MAINZ_CHRISTOFFEL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/800px-MAINZ_CHRISTOFFEL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/1200px-MAINZ_CHRISTOFFEL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/1920px-MAINZ_CHRISTOFFEL.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/1920px-MAINZ_CHRISTOFFEL.jpg---
 
 ## Overview
 

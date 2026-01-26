@@ -4,13 +4,13 @@ site_name: "Windmühle Ahrenshoop"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Ahrenshoop, Mecklenburg-Vorpommern"
-region: "Ahrenshoop"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Ahrenshoop"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q136368192"
 latitude: 54.379145
 longitude: 12.421221
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/400px-Ahrenshoop_Windmühle_2025.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/800px-Ahrenshoop_Windmühle_2025.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/1200px-Ahrenshoop_Windmühle_2025.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/1920px-Ahrenshoop_Windmühle_2025.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/1920px-Ahrenshoop_Windmühle_2025.jpg---
 
 ## Overview
 

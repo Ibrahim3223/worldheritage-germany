@@ -4,13 +4,13 @@ site_name: "Theater at Potsdamer Platz"
 date: 2026-01-26
 draft: false
 description: "theatre and cinema in Tiergarten, Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q328706"
 latitude: 52.507
 longitude: 13.372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/400px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/800px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/1200px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/1920px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/1920px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg---
 
 ## Overview
 

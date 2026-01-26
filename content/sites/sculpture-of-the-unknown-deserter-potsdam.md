@@ -4,13 +4,13 @@ site_name: "Sculpture of the Unknown Deserter, Potsdam"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1200604"
 latitude: 52.3977
 longitude: 13.0587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/400px-Potsdam_Human_Shape-20-09-2009-54.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/800px-Potsdam_Human_Shape-20-09-2009-54.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/1200px-Potsdam_Human_Shape-20-09-2009-54.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/1920px-Potsdam_Human_Shape-20-09-2009-54.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/1920px-Potsdam_Human_Shape-20-09-2009-54.jpg---
 
 ## Overview
 

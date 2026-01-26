@@ -4,13 +4,13 @@ site_name: "Zentaurenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Neustadt"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Neustadt"
+  - "Bremen"
 wikidata_id: "Q18747025"
 latitude: 53.06891
 longitude: 8.798069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Centaurenbrunnen-1.jpg/400px-Centaurenbrunnen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Centaurenbrunnen-1.jpg/800px-Centaurenbrunnen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Centaurenbrunnen-1.jpg/1200px-Centaurenbrunnen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Centaurenbrunnen-1.jpg/1920px-Centaurenbrunnen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Centaurenbrunnen-1.jpg/1920px-Centaurenbrunnen-1.jpg---
 
 ## Overview
 

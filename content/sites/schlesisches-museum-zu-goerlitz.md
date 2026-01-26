@@ -4,13 +4,13 @@ site_name: "Schlesisches Museum zu Görlitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Görlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Görlitz"
+  - "Saxony"
 wikidata_id: "Q2239236"
 latitude: 51.15611314
 longitude: 14.99059796
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Goerlitz_Schlesisches_Museum_05.jpg/400px-Goerlitz_Schlesisches_Museum_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Goerlitz_Schlesisches_Museum_05.jpg/800px-Goerlitz_Schlesisches_Museum_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Goerlitz_Schlesisches_Museum_05.jpg/1200px-Goerlitz_Schlesisches_Museum_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Goerlitz_Schlesisches_Museum_05.jpg/1920px-Goerlitz_Schlesisches_Museum_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Goerlitz_Schlesisches_Museum_05.jpg/1920px-Goerlitz_Schlesisches_Museum_05.jpg---
 
 ## Overview
 

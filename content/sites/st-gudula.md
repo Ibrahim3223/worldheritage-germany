@@ -4,13 +4,13 @@ site_name: "St. Gudula"
 date: 2026-01-26
 draft: false
 description: "church building in Rhede"
-region: "Rhede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rhede"
+  - "Lower Saxony"
 wikidata_id: "Q1244596"
 latitude: 51.8406
 longitude: 6.69693
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rhede,_St._Gudula_(04).jpg/400px-Rhede,_St._Gudula_(04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rhede,_St._Gudula_(04).jpg/800px-Rhede,_St._Gudula_(04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rhede,_St._Gudula_(04).jpg/1200px-Rhede,_St._Gudula_(04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rhede,_St._Gudula_(04).jpg/1920px-Rhede,_St._Gudula_(04).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rhede,_St._Gudula_(04).jpg/1920px-Rhede,_St._Gudula_(04).jpg---
 
 ## Overview
 

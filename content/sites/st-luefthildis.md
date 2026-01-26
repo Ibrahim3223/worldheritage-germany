@@ -4,13 +4,13 @@ site_name: "St. Lüfthildis"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kesseling"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kesseling"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1359944"
 latitude: 50.482809
 longitude: 7.05385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Staffel_St._Lüfthildis_938.JPG/400px-Staffel_St._Lüfthildis_938.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Staffel_St._Lüfthildis_938.JPG/800px-Staffel_St._Lüfthildis_938.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Staffel_St._Lüfthildis_938.JPG/1200px-Staffel_St._Lüfthildis_938.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Staffel_St._Lüfthildis_938.JPG/1920px-Staffel_St._Lüfthildis_938.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Staffel_St._Lüfthildis_938.JPG/1920px-Staffel_St._Lüfthildis_938.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Calenberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Schulenburg, Region Hannover, Germany"
-region: "Pattensen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Pattensen"
+  - "Lower Saxony"
 wikidata_id: "Q884268"
 latitude: 52.1964
 longitude: 9.79639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/400px-Calenberg_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/800px-Calenberg_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/1200px-Calenberg_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/1920px-Calenberg_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/1920px-Calenberg_1.JPG---
 
 ## Overview
 

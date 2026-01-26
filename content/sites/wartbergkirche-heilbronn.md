@@ -4,13 +4,13 @@ site_name: "Wartbergkirche (Heilbronn)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1279725"
 latitude: 49.1538
 longitude: 9.22889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/400px-HN-Wartbergkirche-Tuer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/800px-HN-Wartbergkirche-Tuer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/1200px-HN-Wartbergkirche-Tuer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/1920px-HN-Wartbergkirche-Tuer.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/1920px-HN-Wartbergkirche-Tuer.JPG---
 
 ## Overview
 

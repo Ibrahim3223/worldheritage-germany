@@ -4,13 +4,13 @@ site_name: "Vogelfreistätte Flachwasser- und Inselzone im Altmühlsee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Gunzenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Gunzenhausen"
+  - "Bavaria"
 wikidata_id: "Q658817"
 latitude: 49.141666666
 longitude: 10.708888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/400px-Altmühlsee12.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/800px-Altmühlsee12.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/1200px-Altmühlsee12.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/1920px-Altmühlsee12.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/1920px-Altmühlsee12.JPG---
 
 ## Overview
 

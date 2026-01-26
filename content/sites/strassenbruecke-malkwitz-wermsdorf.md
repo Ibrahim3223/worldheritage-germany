@@ -4,19 +4,18 @@ site_name: "Straßenbrücke Malkwitz (Wermsdorf)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wermsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wermsdorf"
+  - "Saxony"
 wikidata_id: "Q49445770"
 latitude: 51.33121265
 longitude: 12.989294928
 images:
-  []
----
+  []---
 
 ## Overview
 

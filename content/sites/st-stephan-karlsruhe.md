@@ -4,13 +4,13 @@ site_name: "St. Stephan (Karlsruhe)"
 date: 2026-01-26
 draft: false
 description: "church building in Innenstadt-West, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q2323225"
 latitude: 49.0086
 longitude: 8.39944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karlsruhe_asv2022-10_img04_StStephan.jpg/400px-Karlsruhe_asv2022-10_img04_StStephan.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karlsruhe_asv2022-10_img04_StStephan.jpg/800px-Karlsruhe_asv2022-10_img04_StStephan.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karlsruhe_asv2022-10_img04_StStephan.jpg/1200px-Karlsruhe_asv2022-10_img04_StStephan.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karlsruhe_asv2022-10_img04_StStephan.jpg/1920px-Karlsruhe_asv2022-10_img04_StStephan.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karlsruhe_asv2022-10_img04_StStephan.jpg/1920px-Karlsruhe_asv2022-10_img04_StStephan.jpg---
 
 ## Overview
 

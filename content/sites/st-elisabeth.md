@@ -4,13 +4,13 @@ site_name: "St. Elisabeth"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1451607"
 latitude: 48.0177
 longitude: 7.85452
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/400px-St._Elisabeth_(Freiburg)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/800px-St._Elisabeth_(Freiburg)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/1200px-St._Elisabeth_(Freiburg)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/1920px-St._Elisabeth_(Freiburg)_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/1920px-St._Elisabeth_(Freiburg)_2.jpg---
 
 ## Overview
 

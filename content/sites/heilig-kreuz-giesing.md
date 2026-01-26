@@ -4,13 +4,13 @@ site_name: "Heilig Kreuz (Giesing)"
 date: 2026-01-26
 draft: false
 description: "church in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1594945"
 latitude: 48.116311
 longitude: 11.577817
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/400px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/800px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1200px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1920px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1920px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg---
 
 ## Overview
 

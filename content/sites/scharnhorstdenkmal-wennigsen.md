@@ -4,13 +4,13 @@ site_name: "Scharnhorstdenkmal Wennigsen"
 date: 2026-01-26
 draft: false
 description: "monument in Wennigsen, Germany"
-region: "Wennigsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Wennigsen"
+  - "Lower Saxony"
 wikidata_id: "Q1120467"
 latitude: 52.2676
 longitude: 9.56189
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/400px-Wennigsen_Scharnhorstdenkmal_NE.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/800px-Wennigsen_Scharnhorstdenkmal_NE.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/1200px-Wennigsen_Scharnhorstdenkmal_NE.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/1920px-Wennigsen_Scharnhorstdenkmal_NE.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/1920px-Wennigsen_Scharnhorstdenkmal_NE.jpg---
 
 ## Overview
 

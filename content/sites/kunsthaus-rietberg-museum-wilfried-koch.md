@@ -4,13 +4,13 @@ site_name: "Kunsthaus Rietberg – Museum Wilfried Koch"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rietberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rietberg"
+  - "Lower Saxony"
 wikidata_id: "Q4566486"
 latitude: 51.809
 longitude: 8.42908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/400px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/800px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/1200px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/1920px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/1920px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG---
 
 ## Overview
 

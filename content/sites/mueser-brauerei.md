@@ -4,13 +4,13 @@ site_name: "Müser-Brauerei"
 date: 2026-01-26
 draft: false
 description: "ehemalige Brauerei in Bochum-Langendreer, Nordrhein-Westfalen, Deutschland"
-region: "Bochum-Ost"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Bochum-Ost"
+  - "Lower Saxony"
 wikidata_id: "Q1109975"
 latitude: 51.471613888
 longitude: 7.32415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/400px-Muser_Brauerei01.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/800px-Muser_Brauerei01.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/1200px-Muser_Brauerei01.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/1920px-Muser_Brauerei01.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/1920px-Muser_Brauerei01.jpeg---
 
 ## Overview
 

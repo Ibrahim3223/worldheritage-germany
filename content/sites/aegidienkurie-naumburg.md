@@ -4,13 +4,13 @@ site_name: "Ägidienkurie (Naumburg)"
 date: 2026-01-26
 draft: false
 description: "church building in Naumburg (Saale), Saxony-Anhalt, Germany"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q252911"
 latitude: 51.1553
 longitude: 11.8029
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/400px-Naumburg_Ägidienkurie_Rückseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/800px-Naumburg_Ägidienkurie_Rückseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/1200px-Naumburg_Ägidienkurie_Rückseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/1920px-Naumburg_Ägidienkurie_Rückseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/1920px-Naumburg_Ägidienkurie_Rückseite.JPG---
 
 ## Overview
 

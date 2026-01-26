@@ -4,13 +4,13 @@ site_name: "Georg Herwegh Gymnasium"
 date: 2026-01-26
 draft: false
 description: "gymnasium (school) in Berlin-Hermsdorf"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q1503398"
 latitude: 52.6167
 longitude: 13.303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Georg_herwegh_oberschule.jpg/400px-Georg_herwegh_oberschule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Georg_herwegh_oberschule.jpg/800px-Georg_herwegh_oberschule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Georg_herwegh_oberschule.jpg/1200px-Georg_herwegh_oberschule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Georg_herwegh_oberschule.jpg/1920px-Georg_herwegh_oberschule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Georg_herwegh_oberschule.jpg/1920px-Georg_herwegh_oberschule.jpg---
 
 ## Overview
 

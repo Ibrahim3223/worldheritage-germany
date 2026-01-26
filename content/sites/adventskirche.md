@@ -4,13 +4,13 @@ site_name: "Adventskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q379865"
 latitude: 53.6315
 longitude: 9.91383333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche_Hamburg-Schnelsen,_Westseite.jpg/400px-Adventskirche_Hamburg-Schnelsen,_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche_Hamburg-Schnelsen,_Westseite.jpg/800px-Adventskirche_Hamburg-Schnelsen,_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche_Hamburg-Schnelsen,_Westseite.jpg/1200px-Adventskirche_Hamburg-Schnelsen,_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche_Hamburg-Schnelsen,_Westseite.jpg/1920px-Adventskirche_Hamburg-Schnelsen,_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche_Hamburg-Schnelsen,_Westseite.jpg/1920px-Adventskirche_Hamburg-Schnelsen,_Westseite.jpg---
 
 ## Overview
 

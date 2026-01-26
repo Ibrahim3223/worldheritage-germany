@@ -4,13 +4,13 @@ site_name: "Keppgrund"
 date: 2026-01-26
 draft: false
 description: "valley in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1287431"
 latitude: 51.0225
 longitude: 13.8718
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/400px-Keppgrund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/800px-Keppgrund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/1200px-Keppgrund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/1920px-Keppgrund.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/1920px-Keppgrund.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "University of Helmstedt"
 date: 2026-01-26
 draft: false
 description: "university"
-region: "Helmstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Helmstedt"
+  - "Lower Saxony"
 wikidata_id: "Q314466"
 latitude: 52.2293
 longitude: 11.0087
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/400px-Juleum_Helmstedt_Collegium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/800px-Juleum_Helmstedt_Collegium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/1200px-Juleum_Helmstedt_Collegium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/1920px-Juleum_Helmstedt_Collegium.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/1920px-Juleum_Helmstedt_Collegium.jpg---
 
 ## Overview
 

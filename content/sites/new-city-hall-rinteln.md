@@ -4,13 +4,13 @@ site_name: "New city hall, Rinteln"
 date: 2026-01-26
 draft: false
 description: "listed building in Rinteln, Lower Saxony, Germany"
-region: "Rinteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Rinteln"
+  - "Lower Saxony"
 wikidata_id: "Q113815002"
 latitude: 52.18468
 longitude: 9.07851
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/400px-Rinteln_Rathaus_from_the_south.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/800px-Rinteln_Rathaus_from_the_south.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/1200px-Rinteln_Rathaus_from_the_south.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/1920px-Rinteln_Rathaus_from_the_south.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/1920px-Rinteln_Rathaus_from_the_south.jpg---
 
 ## Overview
 

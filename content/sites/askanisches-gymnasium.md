@@ -4,13 +4,13 @@ site_name: "Askanisches Gymnasium"
 date: 2026-01-26
 draft: false
 description: "school building in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q731110"
 latitude: 52.501
 longitude: 13.3848
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/400px-Askanisches_Gymnasium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/800px-Askanisches_Gymnasium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/1200px-Askanisches_Gymnasium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/1920px-Askanisches_Gymnasium.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/1920px-Askanisches_Gymnasium.jpg---
 
 ## Overview
 

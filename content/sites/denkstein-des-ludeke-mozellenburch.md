@@ -4,13 +4,13 @@ site_name: "Denkstein des Ludeke Mozellenburch"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Grevesmühlen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Grevesmühlen"
+  - "Lower Saxony"
 wikidata_id: "Q1188684"
 latitude: 53.877
 longitude: 11.2575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/400px-Mordwange.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/800px-Mordwange.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/1200px-Mordwange.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/1920px-Mordwange.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/1920px-Mordwange.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Grafschaftsdenkmal"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1541854"
 latitude: 52.0963
 longitude: 8.5215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/400px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/800px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/1200px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/1920px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/1920px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg---
 
 ## Overview
 

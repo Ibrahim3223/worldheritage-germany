@@ -4,19 +4,18 @@ site_name: "Trias Museum an der Ochsenfurt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76629007"
 latitude: 49.673419
 longitude: 10.047947
 images:
-  []
----
+  []---
 
 ## Overview
 

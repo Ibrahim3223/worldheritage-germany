@@ -4,13 +4,13 @@ site_name: "Market church Poppenbüttel"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg, Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1901084"
 latitude: 53.658789
 longitude: 10.086115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/400px-Hamburg-Poppenbüttel,_Marktkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/800px-Hamburg-Poppenbüttel,_Marktkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1200px-Hamburg-Poppenbüttel,_Marktkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1920px-Hamburg-Poppenbüttel,_Marktkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1920px-Hamburg-Poppenbüttel,_Marktkirche.jpg---
 
 ## Overview
 

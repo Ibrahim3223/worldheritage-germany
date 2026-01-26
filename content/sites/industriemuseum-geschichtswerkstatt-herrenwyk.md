@@ -4,13 +4,13 @@ site_name: "Industriemuseum Geschichtswerkstatt Herrenwyk"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1662094"
 latitude: 53.9036
 longitude: 10.8047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/400px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/800px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/1200px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/1920px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/1920px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St.-Agnes-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Kreuzberg, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q2316884"
 latitude: 52.5008
 longitude: 13.401
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/400px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/800px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1200px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1920px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1920px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Karl and Magdelene Haberstock Bequest"
 date: 2026-01-26
 draft: false
 description: "foundation for art collection gathered by Karl Haberstock"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1496088"
 latitude: 48.365
 longitude: 10.8992
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Werthmann-Heyne-Stiftung"
 date: 2026-01-26
 draft: false
 description: "Skulpturensammlung der abstrakt-informellen Kunstrichtung"
-region: "Düsseldorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Düsseldorf"
+  - "Lower Saxony"
 wikidata_id: "Q64739704"
 latitude: 51.303055555
 longitude: 6.742777777
 images:
-  []
----
+  []---
 
 ## Overview
 

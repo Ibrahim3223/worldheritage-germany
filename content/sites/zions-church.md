@@ -4,13 +4,13 @@ site_name: "Zion's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Worpswede, Lower Saxony, Germany"
-region: "Worpswede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Worpswede"
+  - "Bremen"
 wikidata_id: "Q8072471"
 latitude: 53.220432
 longitude: 8.922454
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/400px-Zionskirche_Worpswede_South.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/800px-Zionskirche_Worpswede_South.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/1200px-Zionskirche_Worpswede_South.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/1920px-Zionskirche_Worpswede_South.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/1920px-Zionskirche_Worpswede_South.JPG---
 
 ## Overview
 

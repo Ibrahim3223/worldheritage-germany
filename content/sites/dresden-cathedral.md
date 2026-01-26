@@ -4,13 +4,13 @@ site_name: "Dresden Cathedral"
 date: 2026-01-26
 draft: false
 description: "Catholic cathedral in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q666935"
 latitude: 51.05349
 longitude: 13.73735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hoki.JPG/400px-Dresden_Hoki.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hoki.JPG/800px-Dresden_Hoki.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hoki.JPG/1200px-Dresden_Hoki.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hoki.JPG/1920px-Dresden_Hoki.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hoki.JPG/1920px-Dresden_Hoki.JPG---
 
 ## Overview
 

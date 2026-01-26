@@ -4,13 +4,13 @@ site_name: "Uenglinger Tor"
 date: 2026-01-26
 draft: false
 description: "spätmittelalterliches Stadttor in Stendal"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q2473644"
 latitude: 52.6081
 longitude: 11.8522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Uenglinger_Tor.jpg/400px-Uenglinger_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Uenglinger_Tor.jpg/800px-Uenglinger_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Uenglinger_Tor.jpg/1200px-Uenglinger_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Uenglinger_Tor.jpg/1920px-Uenglinger_Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Uenglinger_Tor.jpg/1920px-Uenglinger_Tor.jpg---
 
 ## Overview
 

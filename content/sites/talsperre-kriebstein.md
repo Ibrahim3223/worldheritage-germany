@@ -4,19 +4,18 @@ site_name: "Talsperre Kriebstein"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Kriebstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Kriebstein"
+  - "Saxony"
 wikidata_id: "Q2390874"
 latitude: 51.035
 longitude: 13.0136
 images:
-  []
----
+  []---
 
 ## Overview
 

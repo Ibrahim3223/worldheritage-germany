@@ -4,13 +4,13 @@ site_name: "Hohler Fels"
 date: 2026-01-26
 draft: false
 description: "cave in Landkreis Nürnberger Land in Bavaria"
-region: "Happurg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Happurg"
+  - "Bavaria"
 wikidata_id: "Q1559860"
 latitude: 49.4845
 longitude: 11.4923
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Houbirg_06.jpg/400px-Houbirg_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Houbirg_06.jpg/800px-Houbirg_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Houbirg_06.jpg/1200px-Houbirg_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Houbirg_06.jpg/1920px-Houbirg_06.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Houbirg_06.jpg/1920px-Houbirg_06.jpg---
 
 ## Overview
 

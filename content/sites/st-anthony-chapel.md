@@ -4,13 +4,13 @@ site_name: "St. Anthony-Chapel"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153371"
 latitude: 50.728
 longitude: 6.18827
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/400px-Antoniuskapelle_(Kornelimünster)_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/800px-Antoniuskapelle_(Kornelimünster)_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/1200px-Antoniuskapelle_(Kornelimünster)_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/1920px-Antoniuskapelle_(Kornelimünster)_30.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/1920px-Antoniuskapelle_(Kornelimünster)_30.jpg---
 
 ## Overview
 

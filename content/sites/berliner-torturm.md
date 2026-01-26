@@ -4,13 +4,13 @@ site_name: "Berliner Torturm"
 date: 2026-01-26
 draft: false
 description: "tower of the historic city fortifications of the town of Burg"
-region: "Burg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Burg"
+  - "Brandenburg"
 wikidata_id: "Q821828"
 latitude: 52.2735
 longitude: 11.8645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/400px-Burg_Berliner_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/800px-Burg_Berliner_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/1200px-Burg_Berliner_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/1920px-Burg_Berliner_Turm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/1920px-Burg_Berliner_Turm.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Evangelical Church Großkühnau"
 date: 2026-01-26
 draft: false
 description: "church building in Großkühnau, Dessau-Roßlau, Saxony-Anhalt, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1380312"
 latitude: 51.8535
 longitude: 12.1808
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/400px-Dessau,Großkühnau_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/800px-Dessau,Großkühnau_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1200px-Dessau,Großkühnau_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1920px-Dessau,Großkühnau_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1920px-Dessau,Großkühnau_Kirche.jpg---
 
 ## Overview
 

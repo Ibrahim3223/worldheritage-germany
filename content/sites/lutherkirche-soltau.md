@@ -4,13 +4,13 @@ site_name: "Lutherkirche Soltau"
 date: 2026-01-26
 draft: false
 description: "church in Soltau"
-region: "Soltau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Soltau"
+  - "Lower Saxony"
 wikidata_id: "Q1877960"
 latitude: 52.9865
 longitude: 9.84778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luther-Kirche_Soltau_IMG_2159.jpg/400px-Luther-Kirche_Soltau_IMG_2159.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luther-Kirche_Soltau_IMG_2159.jpg/800px-Luther-Kirche_Soltau_IMG_2159.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luther-Kirche_Soltau_IMG_2159.jpg/1200px-Luther-Kirche_Soltau_IMG_2159.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luther-Kirche_Soltau_IMG_2159.jpg/1920px-Luther-Kirche_Soltau_IMG_2159.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luther-Kirche_Soltau_IMG_2159.jpg/1920px-Luther-Kirche_Soltau_IMG_2159.jpg---
 
 ## Overview
 

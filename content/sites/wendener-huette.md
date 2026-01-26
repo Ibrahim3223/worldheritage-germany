@@ -4,13 +4,13 @@ site_name: "Wendener Hütte"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wenden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wenden"
+  - "Hesse"
 wikidata_id: "Q876521"
 latitude: 50.9708
 longitude: 7.82799
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wenden-WendenerHuette2-Bubo.JPG/400px-Wenden-WendenerHuette2-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wenden-WendenerHuette2-Bubo.JPG/800px-Wenden-WendenerHuette2-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wenden-WendenerHuette2-Bubo.JPG/1200px-Wenden-WendenerHuette2-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wenden-WendenerHuette2-Bubo.JPG/1920px-Wenden-WendenerHuette2-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wenden-WendenerHuette2-Bubo.JPG/1920px-Wenden-WendenerHuette2-Bubo.JPG---
 
 ## Overview
 

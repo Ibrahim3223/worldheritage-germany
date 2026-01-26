@@ -4,13 +4,13 @@ site_name: "Kammergericht"
 date: 2026-01-26
 draft: false
 description: "courthouse in Berlin-Schöneberg, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q314104"
 latitude: 52.4925
 longitude: 13.357222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_kammergericht.jpg/400px-Berlin_kammergericht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_kammergericht.jpg/800px-Berlin_kammergericht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_kammergericht.jpg/1200px-Berlin_kammergericht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_kammergericht.jpg/1920px-Berlin_kammergericht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_kammergericht.jpg/1920px-Berlin_kammergericht.jpg---
 
 ## Overview
 

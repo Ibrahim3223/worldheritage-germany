@@ -4,13 +4,13 @@ site_name: "The Badisches Landesmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q799168"
 latitude: 49.0136
 longitude: 8.40444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20130605Schloss_Karlsruhe05.jpg/400px-20130605Schloss_Karlsruhe05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20130605Schloss_Karlsruhe05.jpg/800px-20130605Schloss_Karlsruhe05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20130605Schloss_Karlsruhe05.jpg/1200px-20130605Schloss_Karlsruhe05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20130605Schloss_Karlsruhe05.jpg/1920px-20130605Schloss_Karlsruhe05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20130605Schloss_Karlsruhe05.jpg/1920px-20130605Schloss_Karlsruhe05.jpg---
 
 ## Overview
 

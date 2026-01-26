@@ -4,13 +4,13 @@ site_name: "Salem Abbey"
 date: 2026-01-26
 draft: false
 description: "building in Salem, Tübingen Government Region, Baden-Württemberg, Germany"
-region: "Salem"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Salem"
+  - "Baden-Württemberg"
 wikidata_id: "Q652382"
 latitude: 47.77611111
 longitude: 9.27722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg---
 
 ## Overview
 

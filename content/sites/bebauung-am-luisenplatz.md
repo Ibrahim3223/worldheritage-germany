@@ -4,13 +4,13 @@ site_name: "Bebauung am Luisenplatz"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q813513"
 latitude: 52.5208
 longitude: 13.2999
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Otto-Suhr-Allee_144.jpg/400px-Berlin_Otto-Suhr-Allee_144.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Otto-Suhr-Allee_144.jpg/800px-Berlin_Otto-Suhr-Allee_144.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Otto-Suhr-Allee_144.jpg/1200px-Berlin_Otto-Suhr-Allee_144.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Otto-Suhr-Allee_144.jpg/1920px-Berlin_Otto-Suhr-Allee_144.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Otto-Suhr-Allee_144.jpg/1920px-Berlin_Otto-Suhr-Allee_144.jpg---
 
 ## Overview
 

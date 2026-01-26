@@ -4,13 +4,13 @@ site_name: "Heidenkeller"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ettenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ettenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012250"
 latitude: 48.2375
 longitude: 7.87131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/400px-04_Heidenkeller.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/800px-04_Heidenkeller.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/1200px-04_Heidenkeller.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/1920px-04_Heidenkeller.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/1920px-04_Heidenkeller.JPG---
 
 ## Overview
 

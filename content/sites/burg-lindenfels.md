@@ -4,13 +4,13 @@ site_name: "Burg Lindenfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lindenfels"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lindenfels"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012985"
 latitude: 49.682235067
 longitude: 8.776988386
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/400px-BurgLindenfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/800px-BurgLindenfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/1200px-BurgLindenfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/1920px-BurgLindenfels.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/1920px-BurgLindenfels.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Frauenzell Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Brennberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Brennberg"
+  - "Bavaria"
 wikidata_id: "Q610507"
 latitude: 49.0557
 longitude: 12.3706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/400px-Brennberg,_Kloster_Frauenzell_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/800px-Brennberg,_Kloster_Frauenzell_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/1200px-Brennberg,_Kloster_Frauenzell_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/1920px-Brennberg,_Kloster_Frauenzell_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/1920px-Brennberg,_Kloster_Frauenzell_001.JPG---
 
 ## Overview
 

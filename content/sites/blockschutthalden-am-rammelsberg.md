@@ -4,13 +4,13 @@ site_name: "Blockschutthalden am Rammelsberg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q884790"
 latitude: 51.8889
 longitude: 10.4244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schlackehalden_Rammelsberg2.jpg/400px-Schlackehalden_Rammelsberg2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schlackehalden_Rammelsberg2.jpg/800px-Schlackehalden_Rammelsberg2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schlackehalden_Rammelsberg2.jpg/1200px-Schlackehalden_Rammelsberg2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schlackehalden_Rammelsberg2.jpg/1920px-Schlackehalden_Rammelsberg2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schlackehalden_Rammelsberg2.jpg/1920px-Schlackehalden_Rammelsberg2.jpg---
 
 ## Overview
 

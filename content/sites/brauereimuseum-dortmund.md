@@ -4,13 +4,13 @@ site_name: "Brauereimuseum Dortmund"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q900094"
 latitude: 51.529586111
 longitude: 7.467097222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brauereimuseum_Dortmund_Eingang.jpg/400px-Brauereimuseum_Dortmund_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brauereimuseum_Dortmund_Eingang.jpg/800px-Brauereimuseum_Dortmund_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brauereimuseum_Dortmund_Eingang.jpg/1200px-Brauereimuseum_Dortmund_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brauereimuseum_Dortmund_Eingang.jpg/1920px-Brauereimuseum_Dortmund_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brauereimuseum_Dortmund_Eingang.jpg/1920px-Brauereimuseum_Dortmund_Eingang.jpg---
 
 ## Overview
 

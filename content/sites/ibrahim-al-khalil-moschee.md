@@ -4,19 +4,18 @@ site_name: "Ibrahim-al-Khalil-Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee in Berlin-Tempelhof"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q23785369"
 latitude: 52.4572128
 longitude: 13.3940943
 images:
-  []
----
+  []---
 
 ## Overview
 

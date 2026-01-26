@@ -4,13 +4,13 @@ site_name: "Village church Hammelspring"
 date: 2026-01-26
 draft: false
 description: "listed hall church in Hammelspring, Templin, Brandenburg state of Germany"
-region: "Templin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Templin"
+  - "Brandenburg"
 wikidata_id: "Q1244359"
 latitude: 53.0710599
 longitude: 13.4325587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/400px-Dorfkirche_Hammelspring_2020_S.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/800px-Dorfkirche_Hammelspring_2020_S.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/1200px-Dorfkirche_Hammelspring_2020_S.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/1920px-Dorfkirche_Hammelspring_2020_S.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/1920px-Dorfkirche_Hammelspring_2020_S.jpg---
 
 ## Overview
 

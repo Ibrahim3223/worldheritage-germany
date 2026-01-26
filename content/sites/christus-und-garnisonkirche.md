@@ -4,13 +4,13 @@ site_name: "Christus- und Garnisonkirche"
 date: 2026-01-26
 draft: false
 description: "church in Wilhelmshaven, Germany"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q1087195"
 latitude: 53.5175
 longitude: 8.12106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/400px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/800px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1200px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1920px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1920px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg---
 
 ## Overview
 

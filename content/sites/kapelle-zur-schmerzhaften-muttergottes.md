@@ -4,13 +4,13 @@ site_name: "Kapelle zur Schmerzhaften Muttergottes"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Unteregg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Unteregg"
+  - "Bavaria"
 wikidata_id: "Q1624796"
 latitude: 48.1228
 longitude: 10.5509
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/400px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/800px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/1200px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/1920px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/1920px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg---
 
 ## Overview
 

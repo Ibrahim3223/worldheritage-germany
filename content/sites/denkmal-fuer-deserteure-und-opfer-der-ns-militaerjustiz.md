@@ -4,13 +4,13 @@ site_name: "Denkmal für Deserteure und Opfer der NS-Militärjustiz"
 date: 2026-01-26
 draft: false
 description: "artwork in public space by Ruedi Baur in Köln, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1200606"
 latitude: 50.941052
 longitude: 6.950593
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/400px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/800px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/1200px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/1920px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/1920px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg---
 
 ## Overview
 

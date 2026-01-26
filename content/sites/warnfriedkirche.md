@@ -4,13 +4,13 @@ site_name: "Warnfriedkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Osteel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Osteel"
+  - "Lower Saxony"
 wikidata_id: "Q1285759"
 latitude: 53.533
 longitude: 7.26431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/400px-Warnfried-Kirche_Seitenansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/800px-Warnfried-Kirche_Seitenansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/1200px-Warnfried-Kirche_Seitenansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/1920px-Warnfried-Kirche_Seitenansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/1920px-Warnfried-Kirche_Seitenansicht.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Stadtmuseum Leimen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631384"
 latitude: 49.334294
 longitude: 8.672344
 images:
-  []
----
+  []---
 
 ## Overview
 

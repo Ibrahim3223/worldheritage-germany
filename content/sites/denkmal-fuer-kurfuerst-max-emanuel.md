@@ -4,13 +4,13 @@ site_name: "Denkmal für Kurfürst Max Emanuel"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q1188001"
 latitude: 48.1402
 longitude: 11.5728
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/400px-Denkmal_Max_Emanuel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/800px-Denkmal_Max_Emanuel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/1200px-Denkmal_Max_Emanuel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/1920px-Denkmal_Max_Emanuel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/1920px-Denkmal_Max_Emanuel.jpg---
 
 ## Overview
 

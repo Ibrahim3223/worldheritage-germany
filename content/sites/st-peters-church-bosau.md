@@ -4,13 +4,13 @@ site_name: "St. Peters Church (Bosau)"
 date: 2026-01-26
 draft: false
 description: "church building in Bosau, Germany"
-region: "Bosau"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bosau"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1668146"
 latitude: 54.10687
 longitude: 10.42501
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/400px-Bosau_Petrikirche_N.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/800px-Bosau_Petrikirche_N.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/1200px-Bosau_Petrikirche_N.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/1920px-Bosau_Petrikirche_N.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/1920px-Bosau_Petrikirche_N.JPG---
 
 ## Overview
 

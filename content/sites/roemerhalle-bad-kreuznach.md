@@ -4,13 +4,13 @@ site_name: "Roemerhalle Bad Kreuznach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Kreuznach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Kreuznach"
+  - "Hesse"
 wikidata_id: "Q2179565"
 latitude: 49.8457
 longitude: 7.84679
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/400px-Roemerhalle_Kreuznach_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/800px-Roemerhalle_Kreuznach_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/1200px-Roemerhalle_Kreuznach_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/1920px-Roemerhalle_Kreuznach_Aussenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/1920px-Roemerhalle_Kreuznach_Aussenansicht.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Dahmshöhe"
 date: 2026-01-26
 draft: false
 description: "listed manor house in Fürstenberg/Havel district of Altthymen, Brandenburg state, Germany"
-region: "Fürstenberg/Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Fürstenberg/Havel"
+  - "Brandenburg"
 wikidata_id: "Q1510311"
 latitude: 53.229396
 longitude: 13.138049
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/400px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/800px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/1200px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/1920px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/1920px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG---
 
 ## Overview
 

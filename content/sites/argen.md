@@ -4,13 +4,13 @@ site_name: "Argen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Wangen im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wangen im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q644729"
 latitude: 47.61083333
 longitude: 9.61083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg/400px-D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg/800px-D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg/1200px-D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg/1920px-D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg/1920px-D-BW-Kressbronn_aB_-_Argensteilufer_oberhalb_Gießenbrücke.jpg---
 
 ## Overview
 

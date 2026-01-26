@@ -4,13 +4,13 @@ site_name: "Wachturm"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-77-124-23 (0) in Kasendorf, Bavaria"
-region: "Kasendorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kasendorf"
+  - "Bavaria"
 wikidata_id: "Q1012616"
 latitude: 50.0318
 longitude: 11.3522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Magnusturm_Kasendorf_x4.JPG/400px-Magnusturm_Kasendorf_x4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Magnusturm_Kasendorf_x4.JPG/800px-Magnusturm_Kasendorf_x4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Magnusturm_Kasendorf_x4.JPG/1200px-Magnusturm_Kasendorf_x4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Magnusturm_Kasendorf_x4.JPG/1920px-Magnusturm_Kasendorf_x4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Magnusturm_Kasendorf_x4.JPG/1920px-Magnusturm_Kasendorf_x4.JPG---
 
 ## Overview
 

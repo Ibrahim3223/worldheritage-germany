@@ -4,19 +4,18 @@ site_name: "Museum im Zwinger"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q76636029"
 latitude: 51.902838
 longitude: 10.431411
 images:
-  []
----
+  []---
 
 ## Overview
 

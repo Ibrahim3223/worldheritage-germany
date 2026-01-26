@@ -4,13 +4,13 @@ site_name: "Burg Moritzstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wenings"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wenings"
+  - "Bavaria"
 wikidata_id: "Q1013149"
 latitude: 50.3862
 longitude: 9.1972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/400px-Wenings-Burg-Moritzstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/800px-Wenings-Burg-Moritzstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/1200px-Wenings-Burg-Moritzstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/1920px-Wenings-Burg-Moritzstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/1920px-Wenings-Burg-Moritzstein.jpg---
 
 ## Overview
 

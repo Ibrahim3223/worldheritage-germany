@@ -4,13 +4,13 @@ site_name: "Papierfabrik Widmann"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q1145737"
 latitude: 49.1634
 longitude: 9.18467
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/400px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/800px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/1200px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/1920px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/1920px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg---
 
 ## Overview
 

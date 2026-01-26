@@ -4,13 +4,13 @@ site_name: "Umar Ibn Al Khattab Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1430748"
 latitude: 52.4989
 longitude: 13.4268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/200806_Berlin_608.JPG/400px-200806_Berlin_608.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/200806_Berlin_608.JPG/800px-200806_Berlin_608.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/200806_Berlin_608.JPG/1200px-200806_Berlin_608.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/200806_Berlin_608.JPG/1920px-200806_Berlin_608.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/200806_Berlin_608.JPG/1920px-200806_Berlin_608.JPG---
 
 ## Overview
 

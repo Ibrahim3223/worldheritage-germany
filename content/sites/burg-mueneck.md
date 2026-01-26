@@ -4,13 +4,13 @@ site_name: "Burg Müneck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ammerbuch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ammerbuch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013181"
 latitude: 48.5739
 longitude: 8.96917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/BurgMueneckSchoenbuch1.JPG/400px-BurgMueneckSchoenbuch1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/BurgMueneckSchoenbuch1.JPG/800px-BurgMueneckSchoenbuch1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/BurgMueneckSchoenbuch1.JPG/1200px-BurgMueneckSchoenbuch1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/BurgMueneckSchoenbuch1.JPG/1920px-BurgMueneckSchoenbuch1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/BurgMueneckSchoenbuch1.JPG/1920px-BurgMueneckSchoenbuch1.JPG---
 
 ## Overview
 

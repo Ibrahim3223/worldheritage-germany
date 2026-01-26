@@ -4,19 +4,18 @@ site_name: "Museum im Klosterhof"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631362"
 latitude: 49.079619
 longitude: 9.151659
 images:
-  []
----
+  []---
 
 ## Overview
 

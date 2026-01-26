@@ -4,13 +4,13 @@ site_name: "Ringwall Buchenberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Parsberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Parsberg"
+  - "Bavaria"
 wikidata_id: "Q90495060"
 latitude: 49.172384
 longitude: 11.714213
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ringwall_Buchenberg01.JPG/400px-Ringwall_Buchenberg01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ringwall_Buchenberg01.JPG/800px-Ringwall_Buchenberg01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ringwall_Buchenberg01.JPG/1200px-Ringwall_Buchenberg01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ringwall_Buchenberg01.JPG/1920px-Ringwall_Buchenberg01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ringwall_Buchenberg01.JPG/1920px-Ringwall_Buchenberg01.JPG---
 
 ## Overview
 

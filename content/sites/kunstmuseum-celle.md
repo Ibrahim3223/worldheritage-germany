@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Celle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q1792540"
 latitude: 52.6241
 longitude: 10.0794
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/400px-Celle-Kunstmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/800px-Celle-Kunstmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/1200px-Celle-Kunstmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/1920px-Celle-Kunstmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/1920px-Celle-Kunstmuseum.jpg---
 
 ## Overview
 

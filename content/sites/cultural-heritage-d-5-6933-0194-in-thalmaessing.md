@@ -4,13 +4,13 @@ site_name: "Cultural heritage D-5-6933-0194 in Thalmässing"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Thalmässing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Thalmässing"
+  - "Bavaria"
 wikidata_id: "Q98117247"
 latitude: 49.071249389
 longitude: 11.255547657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2016_Reuther_Platte_02.jpg/400px-2016_Reuther_Platte_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2016_Reuther_Platte_02.jpg/800px-2016_Reuther_Platte_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2016_Reuther_Platte_02.jpg/1200px-2016_Reuther_Platte_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2016_Reuther_Platte_02.jpg/1920px-2016_Reuther_Platte_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2016_Reuther_Platte_02.jpg/1920px-2016_Reuther_Platte_02.jpg---
 
 ## Overview
 

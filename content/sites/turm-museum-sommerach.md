@@ -4,19 +4,18 @@ site_name: "Turm-Museum Sommerach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629499"
 latitude: 49.828066
 longitude: 10.204158
 images:
-  []
----
+  []---
 
 ## Overview
 

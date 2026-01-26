@@ -4,13 +4,13 @@ site_name: "Wildpark Diedrichsburg"
 date: 2026-01-26
 draft: false
 description: "Wildpark und Jagdgehege auf dem Gebiet der Stadt Melle (Niedersachsen)"
-region: "Melle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Melle"
+  - "Lower Saxony"
 wikidata_id: "Q2570794"
 latitude: 52.2324
 longitude: 8.35133
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/400px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/800px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/1200px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/1920px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/1920px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG---
 
 ## Overview
 

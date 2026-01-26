@@ -4,13 +4,13 @@ site_name: "Anklamer Tor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Friedland"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Friedland"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q557349"
 latitude: 53.6715
 longitude: 13.5554
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/400px-AnklamerTorFriedland.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/800px-AnklamerTorFriedland.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/1200px-AnklamerTorFriedland.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/1920px-AnklamerTorFriedland.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/1920px-AnklamerTorFriedland.JPG---
 
 ## Overview
 

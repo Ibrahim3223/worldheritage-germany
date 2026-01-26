@@ -4,13 +4,13 @@ site_name: "Bergwaldtheater"
 date: 2026-01-26
 draft: false
 description: "open-air theatre in Weißenburg in Bayern, Middle Franconia, Germany"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q637746"
 latitude: 49.01605
 longitude: 10.97999
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/400px-Bergwaldtheater.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/800px-Bergwaldtheater.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/1200px-Bergwaldtheater.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/1920px-Bergwaldtheater.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/1920px-Bergwaldtheater.JPG---
 
 ## Overview
 

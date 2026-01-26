@@ -4,19 +4,18 @@ site_name: "Forschungsstiftung Bayerische Geschichte"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1438146"
 latitude: 48.14673
 longitude: 11.57978
 images:
-  []
----
+  []---
 
 ## Overview
 

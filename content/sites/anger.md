@@ -4,13 +4,13 @@ site_name: "Anger"
 date: 2026-01-26
 draft: false
 description: "street in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q537840"
 latitude: 50.9761
 longitude: 11.0342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/400px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/800px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/1200px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/1920px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/1920px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg---
 
 ## Overview
 

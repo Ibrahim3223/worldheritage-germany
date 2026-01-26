@@ -4,19 +4,18 @@ site_name: "Burg Leineck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Alfdorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Alfdorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012897"
 latitude: 48.8438
 longitude: 9.69853
 images:
-  []
----
+  []---
 
 ## Overview
 

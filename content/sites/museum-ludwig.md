@@ -4,13 +4,13 @@ site_name: "Museum Ludwig"
 date: 2026-01-26
 draft: false
 description: "museum in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q703640"
 latitude: 50.94083333
 longitude: 6.96027778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/400px-Museum_Ludwig_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/800px-Museum_Ludwig_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/1200px-Museum_Ludwig_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/1920px-Museum_Ludwig_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/1920px-Museum_Ludwig_001.jpg---
 
 ## Overview
 

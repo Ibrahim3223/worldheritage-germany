@@ -4,13 +4,13 @@ site_name: "Nietzsche-Haus"
 date: 2026-01-26
 draft: false
 description: "building in Naumburg, Germany"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q821594"
 latitude: 51.15
 longitude: 11.8126
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BD_Nitzsche_Haus,_Naumburg_(1).jpg/400px-BD_Nitzsche_Haus,_Naumburg_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BD_Nitzsche_Haus,_Naumburg_(1).jpg/800px-BD_Nitzsche_Haus,_Naumburg_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BD_Nitzsche_Haus,_Naumburg_(1).jpg/1200px-BD_Nitzsche_Haus,_Naumburg_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BD_Nitzsche_Haus,_Naumburg_(1).jpg/1920px-BD_Nitzsche_Haus,_Naumburg_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BD_Nitzsche_Haus,_Naumburg_(1).jpg/1920px-BD_Nitzsche_Haus,_Naumburg_(1).jpg---
 
 ## Overview
 

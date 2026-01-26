@@ -4,13 +4,13 @@ site_name: "Aachener Tierpark Euregiozoo"
 date: 2026-01-26
 draft: false
 description: "zoo in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q300758"
 latitude: 50.76311
 longitude: 6.1153
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/400px-Tierpark-aachen-eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/800px-Tierpark-aachen-eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1200px-Tierpark-aachen-eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1920px-Tierpark-aachen-eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1920px-Tierpark-aachen-eingang.jpg---
 
 ## Overview
 

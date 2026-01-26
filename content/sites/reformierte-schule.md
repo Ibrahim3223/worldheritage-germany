@@ -4,13 +4,13 @@ site_name: "Reformierte Schule"
 date: 2026-01-26
 draft: false
 description: "timber framed house"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1392519"
 latitude: 51.2302
 longitude: 7.19655
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg/400px-Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg/800px-Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg/1200px-Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg/1920px-Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg/1920px-Wuppertal_Ronsdorf_-_Reformierte_Schule_04_ies.jpg---
 
 ## Overview
 

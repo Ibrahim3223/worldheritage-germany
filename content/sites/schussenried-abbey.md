@@ -4,13 +4,13 @@ site_name: "Schussenried Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery i Germany"
-region: "Bad Schussenried"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Schussenried"
+  - "Baden-Württemberg"
 wikidata_id: "Q450048"
 latitude: 48.0073
 longitude: 9.65858
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/400px-Schussenried_Klosteransicht_1721.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/800px-Schussenried_Klosteransicht_1721.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/1200px-Schussenried_Klosteransicht_1721.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/1920px-Schussenried_Klosteransicht_1721.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/1920px-Schussenried_Klosteransicht_1721.jpg---
 
 ## Overview
 

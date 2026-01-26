@@ -4,13 +4,13 @@ site_name: "St. Nikolai (Altefähr)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Altefähr, Mecklenburg-Western Pomerania, Germany"
-region: "Altefähr"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altefähr"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316603"
 latitude: 54.33
 longitude: 13.12527778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2024_Altefähr-3.tif.jpg/400px-2024_Altefähr-3.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2024_Altefähr-3.tif.jpg/800px-2024_Altefähr-3.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2024_Altefähr-3.tif.jpg/1200px-2024_Altefähr-3.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2024_Altefähr-3.tif.jpg/1920px-2024_Altefähr-3.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2024_Altefähr-3.tif.jpg/1920px-2024_Altefähr-3.tif.jpg---
 
 ## Overview
 

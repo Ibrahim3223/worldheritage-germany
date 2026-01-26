@@ -4,13 +4,13 @@ site_name: "Bergbaumuseum des Kreises Altenkirchen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Herdorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Herdorf"
+  - "Hesse"
 wikidata_id: "Q819431"
 latitude: 50.7701
 longitude: 7.91692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bergbaumuseum_Sassenroth.jpg/400px-Bergbaumuseum_Sassenroth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bergbaumuseum_Sassenroth.jpg/800px-Bergbaumuseum_Sassenroth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bergbaumuseum_Sassenroth.jpg/1200px-Bergbaumuseum_Sassenroth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bergbaumuseum_Sassenroth.jpg/1920px-Bergbaumuseum_Sassenroth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bergbaumuseum_Sassenroth.jpg/1920px-Bergbaumuseum_Sassenroth.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bilal-Moschee Heilbronn"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q19275403"
 latitude: 49.15145
 longitude: 9.2239
 images:
-  []
----
+  []---
 
 ## Overview
 

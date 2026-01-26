@@ -4,13 +4,13 @@ site_name: "Goldener Turm"
 date: 2026-01-26
 draft: false
 description: "tower in Regensburg, Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q679796"
 latitude: 49.019244227
 longitude: 12.095259704
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/400px-Goldener_Turm_(Regensburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/800px-Goldener_Turm_(Regensburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1200px-Goldener_Turm_(Regensburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1920px-Goldener_Turm_(Regensburg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1920px-Goldener_Turm_(Regensburg).jpg---
 
 ## Overview
 

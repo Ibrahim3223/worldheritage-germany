@@ -4,13 +4,13 @@ site_name: "Amtsgerichtgebäude Fürstenfeldbruck"
 date: 2026-01-26
 draft: false
 description: "Gerichtsgebäude in Fürstenfeldbruck, Bayern"
-region: "Fürstenfeldbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Fürstenfeldbruck"
+  - "Bavaria"
 wikidata_id: "Q110205936"
 latitude: 48.18229
 longitude: 11.25779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/400px-Amtsgericht_FFB_(HDR).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/800px-Amtsgericht_FFB_(HDR).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/1200px-Amtsgericht_FFB_(HDR).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/1920px-Amtsgericht_FFB_(HDR).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/1920px-Amtsgericht_FFB_(HDR).jpg---
 
 ## Overview
 

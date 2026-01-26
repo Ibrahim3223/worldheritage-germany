@@ -4,13 +4,13 @@ site_name: "Borderlandmuseum Eichsfeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heilbad Heiligenstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heilbad Heiligenstadt"
+  - "Hesse"
 wikidata_id: "Q14210361"
 latitude: 51.48166
 longitude: 10.2631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/400px-Grenzlandmuseum_Teistungen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/800px-Grenzlandmuseum_Teistungen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1200px-Grenzlandmuseum_Teistungen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1920px-Grenzlandmuseum_Teistungen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1920px-Grenzlandmuseum_Teistungen.jpg---
 
 ## Overview
 

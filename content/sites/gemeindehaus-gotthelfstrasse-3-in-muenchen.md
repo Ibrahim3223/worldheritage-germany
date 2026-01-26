@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Gotthelfstraße 3 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-6432-0029 (2) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98739560"
 latitude: 48.139436925
 longitude: 11.624218224
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Zwiesel Forest Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Zwiesel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zwiesel"
+  - "Bavaria"
 wikidata_id: "Q1720764"
 latitude: 49.0141
 longitude: 13.2312
 images:
-  []
----
+  []---
 
 ## Overview
 

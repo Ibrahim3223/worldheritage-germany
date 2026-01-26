@@ -4,13 +4,13 @@ site_name: "Sankt Ingbert station"
 date: 2026-01-26
 draft: false
 description: "railway station in Sankt Ingbert, Germany"
-region: "Sankt Ingbert"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Sankt Ingbert"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q322404"
 latitude: 49.2745
 longitude: 7.11059
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/400px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/800px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/1200px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/1920px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/1920px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg---
 
 ## Overview
 

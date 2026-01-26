@@ -4,13 +4,13 @@ site_name: "Dreiweiberner See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Lohsa"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Lohsa"
+  - "Saxony"
 wikidata_id: "Q1258208"
 latitude: 51.3997
 longitude: 14.4125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/400px-Dreiweiberner-See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/800px-Dreiweiberner-See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/1200px-Dreiweiberner-See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/1920px-Dreiweiberner-See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/1920px-Dreiweiberner-See.jpg---
 
 ## Overview
 

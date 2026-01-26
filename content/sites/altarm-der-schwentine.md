@@ -4,13 +4,13 @@ site_name: "Altarm der Schwentine"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Schönkirchen"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Schönkirchen"
+  - "Schleswig-Holstein"
 wikidata_id: "Q434621"
 latitude: 54.2967
 longitude: 10.2342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/400px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/800px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/1200px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/1920px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/1920px-Naturschutzgebiet_Altarm_der_Schwentine.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Bogenbrücke Waltersdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Liebstadt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Liebstadt"
+  - "Saxony"
 wikidata_id: "Q49442864"
 latitude: 50.81894546
 longitude: 13.839116938
 images:
-  []
----
+  []---
 
 ## Overview
 

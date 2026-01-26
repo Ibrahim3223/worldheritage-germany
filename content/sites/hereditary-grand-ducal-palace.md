@@ -4,13 +4,13 @@ site_name: "Hereditary Grand Ducal Palace"
 date: 2026-01-26
 draft: false
 description: "building in Karlsruhe, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1348348"
 latitude: 49.006111111
 longitude: 8.396388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/400px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/800px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1200px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1920px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1920px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg---
 
 ## Overview
 

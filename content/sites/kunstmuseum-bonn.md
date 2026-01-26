@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Bonn"
 date: 2026-01-26
 draft: false
 description: "art museum"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q318859"
 latitude: 50.715056
 longitude: 7.121028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/400px-Kunstmuseum_Bonn-9592.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/800px-Kunstmuseum_Bonn-9592.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/1200px-Kunstmuseum_Bonn-9592.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/1920px-Kunstmuseum_Bonn-9592.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/1920px-Kunstmuseum_Bonn-9592.jpg---
 
 ## Overview
 

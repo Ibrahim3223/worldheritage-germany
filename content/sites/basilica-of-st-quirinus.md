@@ -4,13 +4,13 @@ site_name: "Basilica of St. Quirinus"
 date: 2026-01-26
 draft: false
 description: "roman-catholic church in Neuss, Northrhine-Westphalia, Germany"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q896410"
 latitude: 51.1991
 longitude: 6.69321
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/400px-2009_Turm_Quirinusmünster_Neuss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/800px-2009_Turm_Quirinusmünster_Neuss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/1200px-2009_Turm_Quirinusmünster_Neuss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/1920px-2009_Turm_Quirinusmünster_Neuss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/1920px-2009_Turm_Quirinusmünster_Neuss.jpg---
 
 ## Overview
 

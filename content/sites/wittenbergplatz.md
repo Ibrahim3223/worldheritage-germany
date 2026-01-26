@@ -4,13 +4,13 @@ site_name: "Wittenbergplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q700043"
 latitude: 52.5019
 longitude: 13.3428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berlin_Wittenbergplatz.jpg/400px-Berlin_Wittenbergplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berlin_Wittenbergplatz.jpg/800px-Berlin_Wittenbergplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berlin_Wittenbergplatz.jpg/1200px-Berlin_Wittenbergplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berlin_Wittenbergplatz.jpg/1920px-Berlin_Wittenbergplatz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Berlin_Wittenbergplatz.jpg/1920px-Berlin_Wittenbergplatz.jpg---
 
 ## Overview
 

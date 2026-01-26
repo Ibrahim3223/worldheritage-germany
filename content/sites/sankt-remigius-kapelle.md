@@ -4,13 +4,13 @@ site_name: "Sankt-Remigius-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel in Rottenburg am Neckar"
-region: "Rottenburg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Rottenburg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1523041"
 latitude: 48.5063
 longitude: 8.9825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/400px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/800px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/1200px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/1920px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/1920px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg---
 
 ## Overview
 

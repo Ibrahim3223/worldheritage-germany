@@ -4,13 +4,13 @@ site_name: "Jesuitenkolleg Erfurt"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Kloster in Deutschland"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q517668"
 latitude: 50.9764
 longitude: 11.0333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schlösserstraße_5_Erfurt_20200909_0265.jpg/400px-Schlösserstraße_5_Erfurt_20200909_0265.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schlösserstraße_5_Erfurt_20200909_0265.jpg/800px-Schlösserstraße_5_Erfurt_20200909_0265.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schlösserstraße_5_Erfurt_20200909_0265.jpg/1200px-Schlösserstraße_5_Erfurt_20200909_0265.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schlösserstraße_5_Erfurt_20200909_0265.jpg/1920px-Schlösserstraße_5_Erfurt_20200909_0265.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schlösserstraße_5_Erfurt_20200909_0265.jpg/1920px-Schlösserstraße_5_Erfurt_20200909_0265.jpg---
 
 ## Overview
 

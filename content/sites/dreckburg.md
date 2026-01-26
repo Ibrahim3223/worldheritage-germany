@@ -4,13 +4,13 @@ site_name: "Dreckburg"
 date: 2026-01-26
 draft: false
 description: "castle in Salzkotten, Germany"
-region: "Salzkotten"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Salzkotten"
+  - "Hesse"
 wikidata_id: "Q1011490"
 latitude: 51.6746
 longitude: 8.62197
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/400px-Salzkotten-Dreckburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/800px-Salzkotten-Dreckburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/1200px-Salzkotten-Dreckburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/1920px-Salzkotten-Dreckburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/1920px-Salzkotten-Dreckburg.jpg---
 
 ## Overview
 

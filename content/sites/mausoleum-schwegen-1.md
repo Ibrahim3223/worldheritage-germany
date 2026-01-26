@@ -4,19 +4,18 @@ site_name: "Mausoleum Schwegen 1"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Loxstedt"
-region: "Loxstedt"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Loxstedt"
+  - "Bremen"
 wikidata_id: "Q125253901"
 latitude: 53.41909
 longitude: 8.569574
 images:
-  []
----
+  []---
 
 ## Overview
 

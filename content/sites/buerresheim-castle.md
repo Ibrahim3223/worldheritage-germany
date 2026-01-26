@@ -4,13 +4,13 @@ site_name: "Bürresheim Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Sankt Johann"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sankt Johann"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q322433"
 latitude: 50.3528
 longitude: 7.17971
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/400px-Buerresheim_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/800px-Buerresheim_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/1200px-Buerresheim_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/1920px-Buerresheim_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/1920px-Buerresheim_1.jpg---
 
 ## Overview
 

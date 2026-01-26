@@ -4,19 +4,18 @@ site_name: "Deutsches Tabakpfeifenmuseum Oberelsbach-Rhön"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628943"
 latitude: 50.441842
 longitude: 10.118334
 images:
-  []
----
+  []---
 
 ## Overview
 

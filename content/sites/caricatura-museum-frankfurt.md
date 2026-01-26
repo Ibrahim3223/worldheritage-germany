@@ -4,13 +4,13 @@ site_name: "Caricatura Museum Frankfurt"
 date: 2026-01-26
 draft: false
 description: "museum for comic art"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1525564"
 latitude: 50.1102
 longitude: 8.68511
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/400px-Eingang_Caricatura_Leinwandhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/800px-Eingang_Caricatura_Leinwandhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/1200px-Eingang_Caricatura_Leinwandhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/1920px-Eingang_Caricatura_Leinwandhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/1920px-Eingang_Caricatura_Leinwandhaus.jpg---
 
 ## Overview
 

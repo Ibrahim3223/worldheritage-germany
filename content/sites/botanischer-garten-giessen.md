@@ -4,19 +4,18 @@ site_name: "Botanischer Garten Gießen"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q834198"
 latitude: 50.5864
 longitude: 8.67889
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Black Garden"
 date: 2026-01-26
 draft: false
 description: "Memorial in Nordhorn"
-region: "Nordhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Nordhorn"
+  - "Lower Saxony"
 wikidata_id: "Q15846820"
 latitude: 52.43389
 longitude: 7.06333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/400px-Schwarzer_Garten_15.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/800px-Schwarzer_Garten_15.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/1200px-Schwarzer_Garten_15.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/1920px-Schwarzer_Garten_15.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/1920px-Schwarzer_Garten_15.JPG---
 
 ## Overview
 

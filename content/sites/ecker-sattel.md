@@ -4,13 +4,13 @@ site_name: "Ecker Sattel"
 date: 2026-01-26
 draft: false
 description: "mountain pass"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1281561"
 latitude: 49.1633
 longitude: 12.9908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/400px-Ecker_Sattel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/800px-Ecker_Sattel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/1200px-Ecker_Sattel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/1920px-Ecker_Sattel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/1920px-Ecker_Sattel.jpg---
 
 ## Overview
 

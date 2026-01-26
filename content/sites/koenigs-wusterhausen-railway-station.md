@@ -4,13 +4,13 @@ site_name: "Königs Wusterhausen railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Königs Wusterhausen, Germany"
-region: "Königs Wusterhausen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Königs Wusterhausen"
+  - "Brandenburg"
 wikidata_id: "Q178002"
 latitude: 52.2966
 longitude: 13.6311
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/400px-Koenigswusterhausen_bahnhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/800px-Koenigswusterhausen_bahnhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/1200px-Koenigswusterhausen_bahnhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/1920px-Koenigswusterhausen_bahnhof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/1920px-Koenigswusterhausen_bahnhof.JPG---
 
 ## Overview
 

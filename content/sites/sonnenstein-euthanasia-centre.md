@@ -4,13 +4,13 @@ site_name: "Sonnenstein Euthanasia Centre"
 date: 2026-01-26
 draft: false
 description: "Nazi killing facility at Sonnenstein Castle"
-region: "Pirna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pirna"
+  - "Saxony"
 wikidata_id: "Q324139"
 latitude: 50.9615
 longitude: 13.9509
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/400px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/800px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/1200px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/1920px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/1920px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg---
 
 ## Overview
 

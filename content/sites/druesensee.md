@@ -4,19 +4,18 @@ site_name: "Drüsensee"
 date: 2026-01-26
 draft: false
 description: "lake in Lehmrade, Schleswig-Holstein, Germany"
-region: "Lehmrade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Lehmrade"
+  - "Lower Saxony"
 wikidata_id: "Q1261789"
 latitude: 53.590555555
 longitude: 10.716666666
 images:
-  []
----
+  []---
 
 ## Overview
 

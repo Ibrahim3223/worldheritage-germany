@@ -4,13 +4,13 @@ site_name: "Harmonie"
 date: 2026-01-26
 draft: false
 description: "former multi-purpose hall in Heilbronn, destroyed in World War II"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q435604"
 latitude: 49.1425
 longitude: 9.22333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Heilbronn_Harmonie_1905_94216.jpg/400px-Heilbronn_Harmonie_1905_94216.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Heilbronn_Harmonie_1905_94216.jpg/800px-Heilbronn_Harmonie_1905_94216.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Heilbronn_Harmonie_1905_94216.jpg/1200px-Heilbronn_Harmonie_1905_94216.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Heilbronn_Harmonie_1905_94216.jpg/1920px-Heilbronn_Harmonie_1905_94216.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Heilbronn_Harmonie_1905_94216.jpg/1920px-Heilbronn_Harmonie_1905_94216.jpg---
 
 ## Overview
 

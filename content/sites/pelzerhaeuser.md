@@ -4,13 +4,13 @@ site_name: "Pelzerhäuser"
 date: 2026-01-26
 draft: false
 description: "buildings and museum in Emden, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q2068415"
 latitude: 53.3648
 longitude: 7.20451
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pelzerhäuser_Emden64.jpg/400px-Pelzerhäuser_Emden64.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pelzerhäuser_Emden64.jpg/800px-Pelzerhäuser_Emden64.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pelzerhäuser_Emden64.jpg/1200px-Pelzerhäuser_Emden64.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pelzerhäuser_Emden64.jpg/1920px-Pelzerhäuser_Emden64.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pelzerhäuser_Emden64.jpg/1920px-Pelzerhäuser_Emden64.jpg---
 
 ## Overview
 

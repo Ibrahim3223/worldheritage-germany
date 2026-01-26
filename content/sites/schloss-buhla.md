@@ -4,13 +4,13 @@ site_name: "Schloss Buhla"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus eines Rittergutes in der Gemeinde Buhla im Landkreis Eichsfeld in Thüringen"
-region: "Buhla"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Buhla"
+  - "Lower Saxony"
 wikidata_id: "Q18630534"
 latitude: 51.44216
 longitude: 10.48942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/400px-Buhla_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/800px-Buhla_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/1200px-Buhla_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/1920px-Buhla_Herrenhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/1920px-Buhla_Herrenhaus.JPG---
 
 ## Overview
 

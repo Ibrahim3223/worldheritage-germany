@@ -4,13 +4,13 @@ site_name: "Abteiberg Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Mönchengladbach, Germany"
-region: "Mönchengladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Mönchengladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q206346"
 latitude: 51.192778
 longitude: 6.433056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/400px-Mönchengladbach_museum_mit_skulpturengarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/800px-Mönchengladbach_museum_mit_skulpturengarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1200px-Mönchengladbach_museum_mit_skulpturengarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1920px-Mönchengladbach_museum_mit_skulpturengarten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1920px-Mönchengladbach_museum_mit_skulpturengarten.jpg---
 
 ## Overview
 

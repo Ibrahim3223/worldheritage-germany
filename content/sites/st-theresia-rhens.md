@@ -4,13 +4,13 @@ site_name: "St. Theresia (Rhens)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Rhens"
-region: "Rhens"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rhens"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2323353"
 latitude: 50.2808
 longitude: 7.61856
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rhens,_St._Theresiakerk.jpg/400px-Rhens,_St._Theresiakerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rhens,_St._Theresiakerk.jpg/800px-Rhens,_St._Theresiakerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rhens,_St._Theresiakerk.jpg/1200px-Rhens,_St._Theresiakerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rhens,_St._Theresiakerk.jpg/1920px-Rhens,_St._Theresiakerk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rhens,_St._Theresiakerk.jpg/1920px-Rhens,_St._Theresiakerk.jpg---
 
 ## Overview
 

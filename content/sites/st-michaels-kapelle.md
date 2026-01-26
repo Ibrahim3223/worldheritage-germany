@@ -4,13 +4,13 @@ site_name: "St. Michaels-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1648480"
 latitude: 51.3475
 longitude: 8.27444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meschede-Klausenkapelle1-Bubo.JPG/400px-Meschede-Klausenkapelle1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meschede-Klausenkapelle1-Bubo.JPG/800px-Meschede-Klausenkapelle1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meschede-Klausenkapelle1-Bubo.JPG/1200px-Meschede-Klausenkapelle1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meschede-Klausenkapelle1-Bubo.JPG/1920px-Meschede-Klausenkapelle1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meschede-Klausenkapelle1-Bubo.JPG/1920px-Meschede-Klausenkapelle1-Bubo.JPG---
 
 ## Overview
 

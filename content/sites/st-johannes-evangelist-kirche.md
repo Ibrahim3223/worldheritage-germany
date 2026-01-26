@@ -4,13 +4,13 @@ site_name: "St. Johannes-Evangelist-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2319168"
 latitude: 52.5261
 longitude: 13.3908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/400px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/800px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/1200px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/1920px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/1920px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stones Fan Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Lüchow, Germany"
-region: "Lüchow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lüchow"
+  - "Lower Saxony"
 wikidata_id: "Q1769820"
 latitude: 52.968016
 longitude: 11.154526
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/400px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/800px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/1200px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/1920px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/1920px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG---
 
 ## Overview
 

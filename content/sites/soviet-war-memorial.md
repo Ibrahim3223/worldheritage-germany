@@ -4,13 +4,13 @@ site_name: "Soviet War Memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Berlin-Buch, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1113123"
 latitude: 52.6354784
 longitude: 13.4956102
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ehrenmal_Berlin-Buch_02.jpg/400px-Ehrenmal_Berlin-Buch_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ehrenmal_Berlin-Buch_02.jpg/800px-Ehrenmal_Berlin-Buch_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ehrenmal_Berlin-Buch_02.jpg/1200px-Ehrenmal_Berlin-Buch_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ehrenmal_Berlin-Buch_02.jpg/1920px-Ehrenmal_Berlin-Buch_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ehrenmal_Berlin-Buch_02.jpg/1920px-Ehrenmal_Berlin-Buch_02.jpg---
 
 ## Overview
 

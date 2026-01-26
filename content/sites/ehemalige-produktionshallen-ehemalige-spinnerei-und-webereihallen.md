@@ -4,13 +4,13 @@ site_name: "Ehemalige Produktionshallen, ehemalige Spinnerei- und Webereihallen"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Düren, Nordrhein-Westfalen, Deutschland"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1299411"
 latitude: 50.796
 longitude: 6.47
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IMG_3793.JPG/400px-IMG_3793.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IMG_3793.JPG/800px-IMG_3793.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IMG_3793.JPG/1200px-IMG_3793.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IMG_3793.JPG/1920px-IMG_3793.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IMG_3793.JPG/1920px-IMG_3793.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Hohenerpfingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sonnenbühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sonnenbühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012404"
 latitude: 48.348
 longitude: 9.1862
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Hohenerpfingen_9.jpg/400px-Burg_Hohenerpfingen_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Hohenerpfingen_9.jpg/800px-Burg_Hohenerpfingen_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Hohenerpfingen_9.jpg/1200px-Burg_Hohenerpfingen_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Hohenerpfingen_9.jpg/1920px-Burg_Hohenerpfingen_9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Hohenerpfingen_9.jpg/1920px-Burg_Hohenerpfingen_9.jpg---
 
 ## Overview
 

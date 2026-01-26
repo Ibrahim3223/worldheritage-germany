@@ -4,13 +4,13 @@ site_name: "Jesus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q14541068"
 latitude: 52.4892
 longitude: 13.3755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/400px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/800px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/1200px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/1920px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/1920px-Jesus-Kirche_(Berlin-Kreuzberg).jpg---
 
 ## Overview
 

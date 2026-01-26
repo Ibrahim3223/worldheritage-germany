@@ -4,19 +4,18 @@ site_name: "Franziskanerbibliothek"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Brandenburg an der Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Brandenburg an der Havel"
+  - "Brandenburg"
 wikidata_id: "Q1339309"
 latitude: 52.4115
 longitude: 12.5545
 images:
-  []
----
+  []---
 
 ## Overview
 

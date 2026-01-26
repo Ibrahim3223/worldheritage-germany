@@ -4,13 +4,13 @@ site_name: "Abwasser- und Sielmuseum"
 date: 2026-01-26
 draft: false
 description: "former museum in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q336153"
 latitude: 53.54611111
 longitude: 9.96388889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/400px-Fundstücke_Hamburger_Stadtenwässerung.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/800px-Fundstücke_Hamburger_Stadtenwässerung.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/1200px-Fundstücke_Hamburger_Stadtenwässerung.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/1920px-Fundstücke_Hamburger_Stadtenwässerung.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/1920px-Fundstücke_Hamburger_Stadtenwässerung.JPG---
 
 ## Overview
 

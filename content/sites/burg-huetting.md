@@ -4,13 +4,13 @@ site_name: "Burg Hütting"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rennertshofen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rennertshofen"
+  - "Bavaria"
 wikidata_id: "Q1012547"
 latitude: 48.799461
 longitude: 11.103712
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/400px-Hütting_bei_Rennertshofen,_Burgruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/800px-Hütting_bei_Rennertshofen,_Burgruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/1200px-Hütting_bei_Rennertshofen,_Burgruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/1920px-Hütting_bei_Rennertshofen,_Burgruine.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/1920px-Hütting_bei_Rennertshofen,_Burgruine.jpg---
 
 ## Overview
 

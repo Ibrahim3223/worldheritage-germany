@@ -4,19 +4,18 @@ site_name: "Stiftung Deutsche Depressionshilfe"
 date: 2026-01-26
 draft: false
 description: "German charitable organization"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q15849272"
 latitude: 51.324255
 longitude: 12.39781
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burgmuseum Schlitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634183"
 latitude: 50.674237
 longitude: 9.560529
 images:
-  []
----
+  []---
 
 ## Overview
 

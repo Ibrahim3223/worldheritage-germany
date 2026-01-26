@@ -4,19 +4,18 @@ site_name: "Torhaus Kirchgasse 4 in Gemünden am Main"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-77-131-1 (1) in Gemünden am Main, Bavaria"
-region: "Gemünden am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Gemünden am Main"
+  - "Bavaria"
 wikidata_id: "Q98495714"
 latitude: 50.05576031
 longitude: 9.68965558
 images:
-  []
----
+  []---
 
 ## Overview
 

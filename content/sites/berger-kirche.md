@@ -4,13 +4,13 @@ site_name: "Berger Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q819573"
 latitude: 51.2244
 longitude: 6.77328
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg/400px-Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg/800px-Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg/1200px-Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg/1920px-Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg/1920px-Berger_Kirche_in_Duesseldorf-Altstadt,_von_Westen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Peter Gehring"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q27831271"
 latitude: 48.1741
 longitude: 11.48985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/400px-Im_Eichgehölz15_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/800px-Im_Eichgehölz15_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/1200px-Im_Eichgehölz15_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/1920px-Im_Eichgehölz15_München.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/1920px-Im_Eichgehölz15_München.jpg---
 
 ## Overview
 

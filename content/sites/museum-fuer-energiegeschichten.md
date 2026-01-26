@@ -4,13 +4,13 @@ site_name: "Museum für Energiegeschichte(n)"
 date: 2026-01-26
 draft: false
 description: "former museum in Hannover"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q40387600"
 latitude: 52.369166666
 longitude: 9.722777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Museum_für_Energiegeschichte(n),_Hannover.jpg/400px-Museum_für_Energiegeschichte(n),_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Museum_für_Energiegeschichte(n),_Hannover.jpg/800px-Museum_für_Energiegeschichte(n),_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Museum_für_Energiegeschichte(n),_Hannover.jpg/1200px-Museum_für_Energiegeschichte(n),_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Museum_für_Energiegeschichte(n),_Hannover.jpg/1920px-Museum_für_Energiegeschichte(n),_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Museum_für_Energiegeschichte(n),_Hannover.jpg/1920px-Museum_für_Energiegeschichte(n),_Hannover.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Erlöserkirche, Hamburg-Borgfelde"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1355744"
 latitude: 53.55513889
 longitude: 10.02694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/400px-Erlöserkirche_HH-Borgfelde_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/800px-Erlöserkirche_HH-Borgfelde_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/1200px-Erlöserkirche_HH-Borgfelde_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/1920px-Erlöserkirche_HH-Borgfelde_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/1920px-Erlöserkirche_HH-Borgfelde_04.jpg---
 
 ## Overview
 

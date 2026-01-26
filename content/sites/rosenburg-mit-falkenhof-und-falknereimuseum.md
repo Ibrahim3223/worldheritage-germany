@@ -4,19 +4,18 @@ site_name: "Rosenburg mit Falkenhof und Falknereimuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629297"
 latitude: 48.921292
 longitude: 11.682194
 images:
-  []
----
+  []---
 
 ## Overview
 

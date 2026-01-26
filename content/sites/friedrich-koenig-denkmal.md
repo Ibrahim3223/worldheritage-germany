@@ -4,13 +4,13 @@ site_name: "Friedrich-Koenig-Denkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Lutherstadt Eisleben, Germany"
-region: "Eisleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Eisleben"
+  - "Brandenburg"
 wikidata_id: "Q1457790"
 latitude: 51.5248
 longitude: 11.5496
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Denkmal_Friedrich_Koenig.JPG/400px-Denkmal_Friedrich_Koenig.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Denkmal_Friedrich_Koenig.JPG/800px-Denkmal_Friedrich_Koenig.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Denkmal_Friedrich_Koenig.JPG/1200px-Denkmal_Friedrich_Koenig.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Denkmal_Friedrich_Koenig.JPG/1920px-Denkmal_Friedrich_Koenig.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Denkmal_Friedrich_Koenig.JPG/1920px-Denkmal_Friedrich_Koenig.JPG---
 
 ## Overview
 

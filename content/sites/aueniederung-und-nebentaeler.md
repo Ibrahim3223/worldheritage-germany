@@ -4,13 +4,13 @@ site_name: "Aueniederung und Nebentäler"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Harsefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Harsefeld"
+  - "Lower Saxony"
 wikidata_id: "Q759115"
 latitude: 53.4858
 longitude: 9.54611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/400px-Aueniederung_bei_Harsefeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/800px-Aueniederung_bei_Harsefeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/1200px-Aueniederung_bei_Harsefeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/1920px-Aueniederung_bei_Harsefeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/1920px-Aueniederung_bei_Harsefeld.jpg---
 
 ## Overview
 

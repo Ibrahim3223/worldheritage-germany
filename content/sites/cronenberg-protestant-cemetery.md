@@ -4,13 +4,13 @@ site_name: "Cronenberg Protestant Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1381238"
 latitude: 51.206952777
 longitude: 7.131425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/400px-Grab-wille-cronenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/800px-Grab-wille-cronenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1200px-Grab-wille-cronenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1920px-Grab-wille-cronenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1920px-Grab-wille-cronenberg.jpg---
 
 ## Overview
 

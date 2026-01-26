@@ -4,13 +4,13 @@ site_name: "Fatih-Moschee, Bremen"
 date: 2026-01-26
 draft: false
 description: "Moschee in Bremen-Gröpelingen"
-region: "Gröpelingen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Gröpelingen"
+  - "Bremen"
 wikidata_id: "Q1398071"
 latitude: 53.1155
 longitude: 8.75308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fatih-Moschee_Bremen.png/400px-Fatih-Moschee_Bremen.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fatih-Moschee_Bremen.png/800px-Fatih-Moschee_Bremen.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fatih-Moschee_Bremen.png/1200px-Fatih-Moschee_Bremen.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fatih-Moschee_Bremen.png/1920px-Fatih-Moschee_Bremen.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fatih-Moschee_Bremen.png/1920px-Fatih-Moschee_Bremen.png---
 
 ## Overview
 

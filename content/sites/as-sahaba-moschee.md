@@ -4,13 +4,13 @@ site_name: "As-Sahaba-Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee im Berliner Ortsteil Wedding"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24237616"
 latitude: 52.54118
 longitude: 13.35116
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/400px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/800px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/1200px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/1920px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/1920px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg---
 
 ## Overview
 

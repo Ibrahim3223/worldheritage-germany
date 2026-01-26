@@ -4,13 +4,13 @@ site_name: "Burg Geyen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Pulheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Pulheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011952"
 latitude: 50.9831
 longitude: 6.78694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/400px-BurgGeyen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/800px-BurgGeyen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/1200px-BurgGeyen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/1920px-BurgGeyen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/1920px-BurgGeyen1.JPG---
 
 ## Overview
 

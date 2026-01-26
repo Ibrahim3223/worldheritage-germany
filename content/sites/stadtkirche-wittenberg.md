@@ -4,13 +4,13 @@ site_name: "Stadtkirche Wittenberg"
 date: 2026-01-26
 draft: false
 description: "civic church of Lutherstadt Wittenberg, Germany"
-region: "Lutherstadt Wittenberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lutherstadt Wittenberg"
+  - "Brandenburg"
 wikidata_id: "Q458821"
 latitude: 51.8665
 longitude: 12.6448
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/400px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/800px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/1200px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/1920px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/1920px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg---
 
 ## Overview
 

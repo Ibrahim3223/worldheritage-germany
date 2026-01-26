@@ -4,13 +4,13 @@ site_name: "Village church Kirchdorf"
 date: 2026-01-26
 draft: false
 description: "church building in Kirchdorf, Poel Island, Germany"
-region: "Kirchdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kirchdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1244417"
 latitude: 53.994298
 longitude: 11.43782
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20180919_Poel-38.tif.jpg/400px-20180919_Poel-38.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20180919_Poel-38.tif.jpg/800px-20180919_Poel-38.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20180919_Poel-38.tif.jpg/1200px-20180919_Poel-38.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20180919_Poel-38.tif.jpg/1920px-20180919_Poel-38.tif.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20180919_Poel-38.tif.jpg/1920px-20180919_Poel-38.tif.jpg---
 
 ## Overview
 

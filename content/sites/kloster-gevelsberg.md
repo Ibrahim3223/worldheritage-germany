@@ -4,19 +4,18 @@ site_name: "Kloster Gevelsberg"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Kloster in Gevelsberg, Deutschland"
-region: "Gevelsberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Gevelsberg"
+  - "Lower Saxony"
 wikidata_id: "Q1775263"
 latitude: 51.314136111
 longitude: 7.327230555
 images:
-  []
----
+  []---
 
 ## Overview
 

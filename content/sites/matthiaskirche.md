@@ -4,13 +4,13 @@ site_name: "Matthiaskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hannover, Germany"
-region: "Buchholz-Kleefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Buchholz-Kleefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1910452"
 latitude: 52.39838889
 longitude: 9.80386111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/400px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/800px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/1200px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/1920px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/1920px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg---
 
 ## Overview
 

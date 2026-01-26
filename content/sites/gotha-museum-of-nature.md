@@ -4,13 +4,13 @@ site_name: "Gotha Museum of Nature"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Thuringia"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thuringia"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1592349"
 latitude: 50.9433
 longitude: 10.7058
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/400px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/800px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/1200px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/1920px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/1920px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Alban's Abbey"
 date: 2026-01-26
 draft: false
 description: "former abbey in Mainz, Germany"
-region: "Oberstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Oberstadt"
+  - "Hesse"
 wikidata_id: "Q320189"
 latitude: 49.99
 longitude: 8.28
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/400px-Mainz1631.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/800px-Mainz1631.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/1200px-Mainz1631.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/1920px-Mainz1631.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/1920px-Mainz1631.jpg---
 
 ## Overview
 

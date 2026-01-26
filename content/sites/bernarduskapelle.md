@@ -4,13 +4,13 @@ site_name: "Bernarduskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Vettelschoß"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Vettelschoß"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q823108"
 latitude: 50.6226
 longitude: 7.33275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/400px-Bernhardskapelle_(Vettelschoss).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/800px-Bernhardskapelle_(Vettelschoss).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/1200px-Bernhardskapelle_(Vettelschoss).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/1920px-Bernhardskapelle_(Vettelschoss).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/1920px-Bernhardskapelle_(Vettelschoss).jpg---
 
 ## Overview
 

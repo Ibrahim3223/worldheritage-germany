@@ -4,13 +4,13 @@ site_name: "village church Ladeburg (Bernau bei Berlin)"
 date: 2026-01-26
 draft: false
 description: "Listed hall church in Ladeburg (Bernau bei Berlin), Brandenburg state of Germany"
-region: "Bernau bei Berlin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bernau bei Berlin"
+  - "Brandenburg"
 wikidata_id: "Q1244448"
 latitude: 52.7020493
 longitude: 13.5875936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/400px-Dorfkirche_Ladeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/800px-Dorfkirche_Ladeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/1200px-Dorfkirche_Ladeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/1920px-Dorfkirche_Ladeburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/1920px-Dorfkirche_Ladeburg.jpg---
 
 ## Overview
 

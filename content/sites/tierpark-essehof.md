@@ -4,13 +4,13 @@ site_name: "Tierpark Essehof"
 date: 2026-01-26
 draft: false
 description: "zoo in Lehre, Landkreis Helmstedt, Germany"
-region: "Lehre"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Lehre"
+  - "Lower Saxony"
 wikidata_id: "Q2803487"
 latitude: 52.3061
 longitude: 10.665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tierpark_Essehehof_Eingang.jpg/400px-Tierpark_Essehehof_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tierpark_Essehehof_Eingang.jpg/800px-Tierpark_Essehehof_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tierpark_Essehehof_Eingang.jpg/1200px-Tierpark_Essehehof_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tierpark_Essehehof_Eingang.jpg/1920px-Tierpark_Essehehof_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tierpark_Essehehof_Eingang.jpg/1920px-Tierpark_Essehehof_Eingang.jpg---
 
 ## Overview
 

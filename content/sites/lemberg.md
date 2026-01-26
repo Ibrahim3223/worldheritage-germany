@@ -4,13 +4,13 @@ site_name: "Lemberg"
 date: 2026-01-26
 draft: false
 description: "highest mountain of the Swabian Jura in Baden-Württemberg, Germany"
-region: "Tuttlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Tuttlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q186527"
 latitude: 48.1505042
 longitude: 8.7503824
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/400px-Lemberg_1015_m.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/800px-Lemberg_1015_m.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/1200px-Lemberg_1015_m.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/1920px-Lemberg_1015_m.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/1920px-Lemberg_1015_m.jpg---
 
 ## Overview
 

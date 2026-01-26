@@ -4,13 +4,13 @@ site_name: "Baumann's Cave"
 date: 2026-01-26
 draft: false
 description: "cave in Rübeland, Oberharz am Brocken, Saxony-Anhalt, Germany"
-region: "Oberharz am Brocken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Oberharz am Brocken"
+  - "Lower Saxony"
 wikidata_id: "Q811511"
 latitude: 51.755
 longitude: 10.843333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/400px-Baumannshoehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/800px-Baumannshoehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/1200px-Baumannshoehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/1920px-Baumannshoehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/1920px-Baumannshoehle.jpg---
 
 ## Overview
 

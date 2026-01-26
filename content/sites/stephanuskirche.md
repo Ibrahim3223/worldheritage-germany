@@ -4,13 +4,13 @@ site_name: "Stephanuskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Munich, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2344446"
 latitude: 48.153311601
 longitude: 11.518783363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/400px-Stephanuskirche_Muenchen_-_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/800px-Stephanuskirche_Muenchen_-_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/1200px-Stephanuskirche_Muenchen_-_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/1920px-Stephanuskirche_Muenchen_-_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/1920px-Stephanuskirche_Muenchen_-_2.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Brücke Rudelsdorf (Waldheim)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Waldheim"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Waldheim"
+  - "Saxony"
 wikidata_id: "Q49449875"
 latitude: 51.083096178
 longitude: 13.077047772
 images:
-  []
----
+  []---
 
 ## Overview
 

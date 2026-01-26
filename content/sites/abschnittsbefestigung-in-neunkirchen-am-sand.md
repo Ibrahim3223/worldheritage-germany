@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung in Neunkirchen am Sand"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.533586/E11.367450"
-region: "Neunkirchen am Sand"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Neunkirchen am Sand"
+  - "Bavaria"
 wikidata_id: "Q58339579"
 latitude: 49.533586
 longitude: 11.36745
 images:
-  []
----
+  []---
 
 ## Overview
 

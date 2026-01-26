@@ -4,13 +4,13 @@ site_name: "Nolde Museum Seebüll"
 date: 2026-01-26
 draft: false
 description: "museum in Seebüll"
-region: "Neukirchen"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Neukirchen"
+  - "Schleswig-Holstein"
 wikidata_id: "Q14399994"
 latitude: 54.8837
 longitude: 8.7731
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Noldemuseum-msu-2020-9620-9645.jpg/400px-Noldemuseum-msu-2020-9620-9645.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Noldemuseum-msu-2020-9620-9645.jpg/800px-Noldemuseum-msu-2020-9620-9645.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Noldemuseum-msu-2020-9620-9645.jpg/1200px-Noldemuseum-msu-2020-9620-9645.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Noldemuseum-msu-2020-9620-9645.jpg/1920px-Noldemuseum-msu-2020-9620-9645.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Noldemuseum-msu-2020-9620-9645.jpg/1920px-Noldemuseum-msu-2020-9620-9645.jpg---
 
 ## Overview
 

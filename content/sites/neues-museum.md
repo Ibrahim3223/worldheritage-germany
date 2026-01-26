@@ -4,13 +4,13 @@ site_name: "Neues Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q157316"
 latitude: 52.5202
 longitude: 13.3976
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/400px-Neues_Museum_-_Joy_of_Museums.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/800px-Neues_Museum_-_Joy_of_Museums.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/1200px-Neues_Museum_-_Joy_of_Museums.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/1920px-Neues_Museum_-_Joy_of_Museums.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Neues_Museum_-_Joy_of_Museums.jpg/1920px-Neues_Museum_-_Joy_of_Museums.jpg---
 
 ## Overview
 

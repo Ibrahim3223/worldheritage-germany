@@ -4,13 +4,13 @@ site_name: "Römermuseum Obernburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Obernburg am Main"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Obernburg am Main"
+  - "Bavaria"
 wikidata_id: "Q2179612"
 latitude: 49.840152
 longitude: 9.14828
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Roemermuseum_Obernburg_Aussenansicht.jpg/400px-Roemermuseum_Obernburg_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Roemermuseum_Obernburg_Aussenansicht.jpg/800px-Roemermuseum_Obernburg_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Roemermuseum_Obernburg_Aussenansicht.jpg/1200px-Roemermuseum_Obernburg_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Roemermuseum_Obernburg_Aussenansicht.jpg/1920px-Roemermuseum_Obernburg_Aussenansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Roemermuseum_Obernburg_Aussenansicht.jpg/1920px-Roemermuseum_Obernburg_Aussenansicht.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lindenbrauerei"
 date: 2026-01-26
 draft: false
 description: "Braustätte in Unna"
-region: "Unna"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Unna"
+  - "Lower Saxony"
 wikidata_id: "Q1145709"
 latitude: 51.5347
 longitude: 7.68528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/400px-Unna_lindenbrauerei_front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/800px-Unna_lindenbrauerei_front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/1200px-Unna_lindenbrauerei_front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/1920px-Unna_lindenbrauerei_front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/1920px-Unna_lindenbrauerei_front.jpg---
 
 ## Overview
 

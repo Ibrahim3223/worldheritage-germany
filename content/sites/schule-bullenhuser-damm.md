@@ -4,13 +4,13 @@ site_name: "Schule Bullenhuser Damm"
 date: 2026-01-26
 draft: false
 description: "school building in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1004271"
 latitude: 53.54194444
 longitude: 10.04777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg/400px-Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg/800px-Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg/1200px-Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg/1920px-Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg/1920px-Schule_Bullenhuser_Damm_in_Hamburg-Rothenburgsort_(1).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Haus der kleinen Wunder"
 date: 2026-01-26
 draft: false
 description: "Museum in Germany"
-region: "Bischofsheim in der Rhön"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bischofsheim in der Rhön"
+  - "Bavaria"
 wikidata_id: "Q1590863"
 latitude: 50.4025
 longitude: 10.0048
 images:
-  []
----
+  []---
 
 ## Overview
 

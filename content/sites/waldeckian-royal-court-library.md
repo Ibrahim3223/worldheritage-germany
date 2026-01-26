@@ -4,19 +4,18 @@ site_name: "Waldeckian Royal Court Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Bad Arolsen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bad Arolsen"
+  - "Hesse"
 wikidata_id: "Q1296257"
 latitude: 51.38045
 longitude: 9.02117
 images:
-  []
----
+  []---
 
 ## Overview
 

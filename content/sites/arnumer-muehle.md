@@ -4,13 +4,13 @@ site_name: "Arnumer Mühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Arnum"
-region: "Hemmingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Hemmingen"
+  - "Lower Saxony"
 wikidata_id: "Q137667715"
 latitude: 52.307025356
 longitude: 9.732560038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Arnumer_Mühle.jpg/400px-Arnumer_Mühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Arnumer_Mühle.jpg/800px-Arnumer_Mühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Arnumer_Mühle.jpg/1200px-Arnumer_Mühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Arnumer_Mühle.jpg/1920px-Arnumer_Mühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Arnumer_Mühle.jpg/1920px-Arnumer_Mühle.jpg---
 
 ## Overview
 

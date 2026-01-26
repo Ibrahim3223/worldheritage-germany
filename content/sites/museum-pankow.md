@@ -4,13 +4,13 @@ site_name: "Museum Pankow"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q17353863"
 latitude: 52.53308
 longitude: 13.42024
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/400px-Luftbild_vom_Wasserturm_aus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/800px-Luftbild_vom_Wasserturm_aus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/1200px-Luftbild_vom_Wasserturm_aus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/1920px-Luftbild_vom_Wasserturm_aus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/1920px-Luftbild_vom_Wasserturm_aus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zweite Heilbronner Synagoge"
 date: 2026-01-26
 draft: false
 description: "building in Heilbronn, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q233228"
 latitude: 49.1428
 longitude: 9.21972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heilbronn_Rathaus_Ausschnitt.jpg/400px-Heilbronn_Rathaus_Ausschnitt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heilbronn_Rathaus_Ausschnitt.jpg/800px-Heilbronn_Rathaus_Ausschnitt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heilbronn_Rathaus_Ausschnitt.jpg/1200px-Heilbronn_Rathaus_Ausschnitt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heilbronn_Rathaus_Ausschnitt.jpg/1920px-Heilbronn_Rathaus_Ausschnitt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heilbronn_Rathaus_Ausschnitt.jpg/1920px-Heilbronn_Rathaus_Ausschnitt.jpg---
 
 ## Overview
 

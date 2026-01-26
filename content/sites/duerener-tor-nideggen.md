@@ -4,13 +4,13 @@ site_name: "Dürener Tor (Nideggen)"
 date: 2026-01-26
 draft: false
 description: "Stadttor von Nideggen"
-region: "Nideggen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Nideggen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1272018"
 latitude: 50.6918
 longitude: 6.48414
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/400px-Nideggen_-_panoramio_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/800px-Nideggen_-_panoramio_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/1200px-Nideggen_-_panoramio_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/1920px-Nideggen_-_panoramio_(3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/1920px-Nideggen_-_panoramio_(3).jpg---
 
 ## Overview
 

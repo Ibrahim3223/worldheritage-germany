@@ -4,13 +4,13 @@ site_name: "Wasserturm Hamburg-Bergedorf"
 date: 2026-01-26
 draft: false
 description: "Wasserturm in Hamburg"
-region: "Bergedorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bergedorf"
+  - "Hamburg"
 wikidata_id: "Q600946"
 latitude: 53.49219444
 longitude: 10.22852778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/400px-Bergedorf_Wasserturm_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/800px-Bergedorf_Wasserturm_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/1200px-Bergedorf_Wasserturm_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/1920px-Bergedorf_Wasserturm_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/1920px-Bergedorf_Wasserturm_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "synagogue of Rexingen"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Horb am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Horb am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1290622"
 latitude: 48.4399
 longitude: 8.64886
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/400px-Synagoge_Rexingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/800px-Synagoge_Rexingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/1200px-Synagoge_Rexingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/1920px-Synagoge_Rexingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/1920px-Synagoge_Rexingen.jpg---
 
 ## Overview
 

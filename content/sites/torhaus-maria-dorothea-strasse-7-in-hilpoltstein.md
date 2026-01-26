@@ -4,19 +4,18 @@ site_name: "Torhaus Maria-Dorothea-Straße 7 in Hilpoltstein"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-76-127-43 (2) in Hilpoltstein, Bavaria"
-region: "Hilpoltstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Hilpoltstein"
+  - "Bavaria"
 wikidata_id: "Q98628079"
 latitude: 49.189491317
 longitude: 11.194173543
 images:
-  []
----
+  []---
 
 ## Overview
 

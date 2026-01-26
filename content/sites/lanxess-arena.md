@@ -4,13 +4,13 @@ site_name: "Lanxess Arena"
 date: 2026-01-26
 draft: false
 description: "music venue and hockey stadium in Cologne, Germany"
-region: "Deutz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Deutz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q310525"
 latitude: 50.93843
 longitude: 6.9829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/400px-Köln_deutz_kölnarena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/800px-Köln_deutz_kölnarena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/1200px-Köln_deutz_kölnarena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/1920px-Köln_deutz_kölnarena.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/1920px-Köln_deutz_kölnarena.jpg---
 
 ## Overview
 

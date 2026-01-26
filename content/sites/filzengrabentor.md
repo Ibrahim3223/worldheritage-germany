@@ -4,13 +4,13 @@ site_name: "Filzengrabentor"
 date: 2026-01-26
 draft: false
 description: "former city gate in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1415716"
 latitude: 50.9338
 longitude: 6.96273
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg/400px-Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg/800px-Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg/1200px-Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg/1920px-Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg/1920px-Köln_Rheinmauer_nit_Filzengrabentor_bei_Lyskirchen_1840.jpg---
 
 ## Overview
 

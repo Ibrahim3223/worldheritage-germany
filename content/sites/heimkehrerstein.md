@@ -4,13 +4,13 @@ site_name: "Heimkehrerstein"
 date: 2026-01-26
 draft: false
 description: "memorial stone in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1595816"
 latitude: 51.0956
 longitude: 13.6762
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/400px-Radebeul_Heimkehrerstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/800px-Radebeul_Heimkehrerstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/1200px-Radebeul_Heimkehrerstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/1920px-Radebeul_Heimkehrerstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/1920px-Radebeul_Heimkehrerstein.jpg---
 
 ## Overview
 

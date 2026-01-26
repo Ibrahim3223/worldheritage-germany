@@ -4,13 +4,13 @@ site_name: "Gustav Adolf Memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Lützen, Germany"
-region: "Lützen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Lützen"
+  - "Saxony"
 wikidata_id: "Q1555458"
 latitude: 51.26777778
 longitude: 12.15666667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg/400px-Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg/800px-Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg/1200px-Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg/1920px-Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg/1920px-Gustav-Adolf-Gedenkstätte_Lützen_(5).jpg---
 
 ## Overview
 

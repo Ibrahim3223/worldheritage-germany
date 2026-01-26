@@ -4,13 +4,13 @@ site_name: "Brändbach Dam"
 date: 2026-01-26
 draft: false
 description: "dam"
-region: "Bräunlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Bräunlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q995532"
 latitude: 47.92777778
 longitude: 8.36944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/400px-Brändbachtalsperre_1040786.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/800px-Brändbachtalsperre_1040786.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/1200px-Brändbachtalsperre_1040786.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/1920px-Brändbachtalsperre_1040786.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/1920px-Brändbachtalsperre_1040786.jpg---
 
 ## Overview
 

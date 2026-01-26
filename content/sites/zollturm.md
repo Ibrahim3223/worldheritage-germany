@@ -4,13 +4,13 @@ site_name: "Zollturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Rheinberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rheinberg"
+  - "Lower Saxony"
 wikidata_id: "Q218788"
 latitude: 51.5485
 longitude: 6.605
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rheinberg,_Zollturm,_2012-04_CN-01.JPG/400px-Rheinberg,_Zollturm,_2012-04_CN-01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rheinberg,_Zollturm,_2012-04_CN-01.JPG/800px-Rheinberg,_Zollturm,_2012-04_CN-01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rheinberg,_Zollturm,_2012-04_CN-01.JPG/1200px-Rheinberg,_Zollturm,_2012-04_CN-01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rheinberg,_Zollturm,_2012-04_CN-01.JPG/1920px-Rheinberg,_Zollturm,_2012-04_CN-01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rheinberg,_Zollturm,_2012-04_CN-01.JPG/1920px-Rheinberg,_Zollturm,_2012-04_CN-01.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Waldgeschichtliches Museum St. Oswald"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629522"
 latitude: 48.891743
 longitude: 13.42702
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/400px-Waldgeschichtliches_Museum_St._Oswald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/800px-Waldgeschichtliches_Museum_St._Oswald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/1200px-Waldgeschichtliches_Museum_St._Oswald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/1920px-Waldgeschichtliches_Museum_St._Oswald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/1920px-Waldgeschichtliches_Museum_St._Oswald.jpg---
 
 ## Overview
 

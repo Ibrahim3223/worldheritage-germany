@@ -4,13 +4,13 @@ site_name: "Tahir Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2388280"
 latitude: 50.3753
 longitude: 7.59208
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/400px-Tahir-Moschee_(Koblenz).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/800px-Tahir-Moschee_(Koblenz).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/1200px-Tahir-Moschee_(Koblenz).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/1920px-Tahir-Moschee_(Koblenz).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/1920px-Tahir-Moschee_(Koblenz).jpg---
 
 ## Overview
 

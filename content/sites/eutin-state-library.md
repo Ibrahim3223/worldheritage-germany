@@ -4,13 +4,13 @@ site_name: "Eutin state library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Eutin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Eutin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1378928"
 latitude: 54.13746
 longitude: 10.618211
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg/400px-00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg/800px-00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg/1200px-00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg/1920px-00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg/1920px-00_7432_Marstall_des_Schlosses_Eutin_-_Landesbibliothek_Eutin.jpg---
 
 ## Overview
 

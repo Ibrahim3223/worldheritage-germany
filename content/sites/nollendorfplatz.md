@@ -4,13 +4,13 @@ site_name: "Nollendorfplatz"
 date: 2026-01-26
 draft: false
 description: "square in Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q181132"
 latitude: 52.4992
 longitude: 13.3539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/400px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/800px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/1200px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/1920px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/1920px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg---
 
 ## Overview
 

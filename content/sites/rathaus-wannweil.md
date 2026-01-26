@@ -4,13 +4,13 @@ site_name: "Rathaus Wannweil"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Wannweil"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Wannweil"
+  - "Baden-Württemberg"
 wikidata_id: "Q124260795"
 latitude: 48.515552529
 longitude: 9.151182174
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wannweil_Rathaus_1.jpg/400px-Wannweil_Rathaus_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wannweil_Rathaus_1.jpg/800px-Wannweil_Rathaus_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wannweil_Rathaus_1.jpg/1200px-Wannweil_Rathaus_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wannweil_Rathaus_1.jpg/1920px-Wannweil_Rathaus_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wannweil_Rathaus_1.jpg/1920px-Wannweil_Rathaus_1.jpg---
 
 ## Overview
 

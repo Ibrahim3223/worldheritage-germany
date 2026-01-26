@@ -4,13 +4,13 @@ site_name: "Deutsches Stuhlmuseum Eimbeckhausen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bad Münder am Deister"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Münder am Deister"
+  - "Lower Saxony"
 wikidata_id: "Q1206028"
 latitude: 52.2359
 longitude: 9.4098
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eimbeckhausen,_Stuhlmuseum.jpg/400px-Eimbeckhausen,_Stuhlmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eimbeckhausen,_Stuhlmuseum.jpg/800px-Eimbeckhausen,_Stuhlmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eimbeckhausen,_Stuhlmuseum.jpg/1200px-Eimbeckhausen,_Stuhlmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eimbeckhausen,_Stuhlmuseum.jpg/1920px-Eimbeckhausen,_Stuhlmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eimbeckhausen,_Stuhlmuseum.jpg/1920px-Eimbeckhausen,_Stuhlmuseum.jpg---
 
 ## Overview
 

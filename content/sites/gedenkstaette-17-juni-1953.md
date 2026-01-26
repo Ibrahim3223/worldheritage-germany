@@ -4,19 +4,18 @@ site_name: "Gedenkstätte 17. Juni 1953"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1497516"
 latitude: 52.4216
 longitude: 13.1984
 images:
-  []
----
+  []---
 
 ## Overview
 

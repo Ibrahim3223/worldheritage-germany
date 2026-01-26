@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Brackenheim 1"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Cleebronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Cleebronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1407026"
 latitude: 49.0345
 longitude: 8.99753
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brackenheim1.jpg/400px-Brackenheim1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brackenheim1.jpg/800px-Brackenheim1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brackenheim1.jpg/1200px-Brackenheim1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brackenheim1.jpg/1920px-Brackenheim1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Brackenheim1.jpg/1920px-Brackenheim1.jpg---
 
 ## Overview
 

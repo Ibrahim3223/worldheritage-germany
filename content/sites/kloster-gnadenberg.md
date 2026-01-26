@@ -4,13 +4,13 @@ site_name: "Kloster Gnadenberg"
 date: 2026-01-26
 draft: false
 description: "monastery in Germany"
-region: "Berg bei Neumarkt in der Oberpfalz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Berg bei Neumarkt in der Oberpfalz"
+  - "Bavaria"
 wikidata_id: "Q1775266"
 latitude: 49.3689
 longitude: 11.411
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/D-3-73-113-11_04.jpg/400px-D-3-73-113-11_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/D-3-73-113-11_04.jpg/800px-D-3-73-113-11_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/D-3-73-113-11_04.jpg/1200px-D-3-73-113-11_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/D-3-73-113-11_04.jpg/1920px-D-3-73-113-11_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/D-3-73-113-11_04.jpg/1920px-D-3-73-113-11_04.jpg---
 
 ## Overview
 

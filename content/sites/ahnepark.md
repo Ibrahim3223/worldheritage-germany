@@ -4,13 +4,13 @@ site_name: "Ahnepark"
 date: 2026-01-26
 draft: false
 description: "park in Vellmar, Germany"
-region: "Vellmar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Vellmar"
+  - "Hesse"
 wikidata_id: "Q402288"
 latitude: 51.3625
 longitude: 9.46167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/400px-AhneparkVellmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/800px-AhneparkVellmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/1200px-AhneparkVellmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/1920px-AhneparkVellmar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/1920px-AhneparkVellmar.jpg---
 
 ## Overview
 

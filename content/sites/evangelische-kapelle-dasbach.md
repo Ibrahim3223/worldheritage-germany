@@ -4,13 +4,13 @@ site_name: "Evangelische Kapelle Dasbach"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Idstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Idstein"
+  - "Hesse"
 wikidata_id: "Q1380258"
 latitude: 50.1991
 longitude: 8.29324
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/400px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/800px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/1200px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/1920px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/1920px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG---
 
 ## Overview
 

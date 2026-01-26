@@ -4,13 +4,13 @@ site_name: "memorial to the victims of fascism (Bernau bei Berlin)"
 date: 2026-01-26
 draft: false
 description: "monument in Brandenburg, Germany"
-region: "Bernau bei Berlin"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bernau bei Berlin"
+  - "Berlin"
 wikidata_id: "Q1188035"
 latitude: 52.6767
 longitude: 13.5922
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg/400px-Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg/800px-Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg/1200px-Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg/1920px-Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg/1920px-Bernau_bei_Berlin_Denkmal_fuer_die_Opfer_des_Faschismus.jpg---
 
 ## Overview
 

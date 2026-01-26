@@ -4,19 +4,18 @@ site_name: "Veterinärmedizinhistorisches Museum der Tierärztlichen Hochschule 
 date: 2026-01-26
 draft: false
 description: "museum in Hannover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q28939753"
 latitude: 52.36885
 longitude: 9.76508
 images:
-  []
----
+  []---
 
 ## Overview
 

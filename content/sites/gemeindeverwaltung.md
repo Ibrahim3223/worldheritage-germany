@@ -4,19 +4,18 @@ site_name: "Gemeindeverwaltung"
 date: 2026-01-26
 draft: false
 description: "Verwaltung der Ortschaft Taucha, Hohenmölsen"
-region: "Hohenmölsen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Hohenmölsen"
+  - "Saxony"
 wikidata_id: "Q126018259"
 latitude: 51.193151138
 longitude: 12.077796024
 images:
-  []
----
+  []---
 
 ## Overview
 

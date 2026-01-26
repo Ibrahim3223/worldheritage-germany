@@ -4,13 +4,13 @@ site_name: "Rottenburg Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral"
-region: "Rottenburg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Rottenburg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q872821"
 latitude: 48.4774
 longitude: 8.93424
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rottenburg_Dom_(2739749832).jpg/400px-Rottenburg_Dom_(2739749832).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rottenburg_Dom_(2739749832).jpg/800px-Rottenburg_Dom_(2739749832).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rottenburg_Dom_(2739749832).jpg/1200px-Rottenburg_Dom_(2739749832).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rottenburg_Dom_(2739749832).jpg/1920px-Rottenburg_Dom_(2739749832).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rottenburg_Dom_(2739749832).jpg/1920px-Rottenburg_Dom_(2739749832).jpg---
 
 ## Overview
 

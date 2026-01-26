@@ -4,13 +4,13 @@ site_name: "St.-Peter-Kirche in Altentreptow"
 date: 2026-01-26
 draft: false
 description: "church building in Altentreptow, Germany"
-region: "Altentreptow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altentreptow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316660"
 latitude: 53.6917
 longitude: 13.2528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/400px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/800px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/1200px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/1920px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/1920px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bauhaus and its Sites in Weimar, Dessau and Bernau"
 date: 2026-01-26
 draft: false
 description: "Joint World Heritage Site, comprising six separate sites associated with Bauhaus art school, designated in 1996, extended 2017"
-region: "Germany"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"
 categories:
   - "Group Of Structures Or Buildings"
 regions:
-  - "Germany"
+  - "Saxony-Anhalt"
 wikidata_id: "Q14863645"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/400px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/800px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/1200px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/1920px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg/1920px-Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg---
 
 ## Overview
 

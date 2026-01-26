@@ -4,13 +4,13 @@ site_name: "Zoologischer Garten Eberswalde"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Eberswalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Eberswalde"
+  - "Brandenburg"
 wikidata_id: "Q220243"
 latitude: 52.8222
 longitude: 13.7822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/400px-2018_04_ZooEberswalde_IMG_1232.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/800px-2018_04_ZooEberswalde_IMG_1232.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/1200px-2018_04_ZooEberswalde_IMG_1232.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/1920px-2018_04_ZooEberswalde_IMG_1232.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/1920px-2018_04_ZooEberswalde_IMG_1232.JPG---
 
 ## Overview
 

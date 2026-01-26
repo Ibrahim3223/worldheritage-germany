@@ -4,13 +4,13 @@ site_name: "Bethlehemkirche Hannover"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q831347"
 latitude: 52.3725
 longitude: 9.70203
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/400px-Bethlehemkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/800px-Bethlehemkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1200px-Bethlehemkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1920px-Bethlehemkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1920px-Bethlehemkirche.jpg---
 
 ## Overview
 

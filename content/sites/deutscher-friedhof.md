@@ -4,13 +4,13 @@ site_name: "Deutscher Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Hanau, Germany"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q1204869"
 latitude: 50.1359
 longitude: 8.91117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/400px-Hanau_Alter_Deutscher_Friedhof02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/800px-Hanau_Alter_Deutscher_Friedhof02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/1200px-Hanau_Alter_Deutscher_Friedhof02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/1920px-Hanau_Alter_Deutscher_Friedhof02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/1920px-Hanau_Alter_Deutscher_Friedhof02.jpg---
 
 ## Overview
 

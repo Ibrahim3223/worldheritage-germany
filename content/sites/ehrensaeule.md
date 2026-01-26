@@ -4,13 +4,13 @@ site_name: "Ehrensäule"
 date: 2026-01-26
 draft: false
 description: "monument in Hanau, Germany"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q1300626"
 latitude: 50.1264
 longitude: 8.92828
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/400px-Hanau_Ehrensäule.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/800px-Hanau_Ehrensäule.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/1200px-Hanau_Ehrensäule.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/1920px-Hanau_Ehrensäule.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/1920px-Hanau_Ehrensäule.JPG---
 
 ## Overview
 

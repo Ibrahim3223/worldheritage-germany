@@ -4,13 +4,13 @@ site_name: "Baitul Huda Mosque"
 date: 2026-01-26
 draft: false
 description: "mosque in Germany"
-region: "Usingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Usingen"
+  - "Hesse"
 wikidata_id: "Q803985"
 latitude: 50.3328
 longitude: 8.51944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/400px-Baitul-Huda-Moschee_Usingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/800px-Baitul-Huda-Moschee_Usingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1200px-Baitul-Huda-Moschee_Usingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1920px-Baitul-Huda-Moschee_Usingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1920px-Baitul-Huda-Moschee_Usingen.JPG---
 
 ## Overview
 

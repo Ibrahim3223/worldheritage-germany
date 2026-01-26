@@ -4,19 +4,18 @@ site_name: "Ehemalige Synagogen (Unna)"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Unna"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Unna"
+  - "Lower Saxony"
 wikidata_id: "Q1299423"
 latitude: 51.5363
 longitude: 7.68799
 images:
-  []
----
+  []---
 
 ## Overview
 

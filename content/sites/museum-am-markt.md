@@ -4,13 +4,13 @@ site_name: "Museum am Markt"
 date: 2026-01-26
 draft: false
 description: "museum in Schiltach, Germany"
-region: "Schiltach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schiltach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1514593"
 latitude: 48.2904
 longitude: 8.34318
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Museum_at_the_Market,_Schiltach.JPG/400px-Museum_at_the_Market,_Schiltach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Museum_at_the_Market,_Schiltach.JPG/800px-Museum_at_the_Market,_Schiltach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Museum_at_the_Market,_Schiltach.JPG/1200px-Museum_at_the_Market,_Schiltach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Museum_at_the_Market,_Schiltach.JPG/1920px-Museum_at_the_Market,_Schiltach.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Museum_at_the_Market,_Schiltach.JPG/1920px-Museum_at_the_Market,_Schiltach.JPG---
 
 ## Overview
 

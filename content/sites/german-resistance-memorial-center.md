@@ -4,13 +4,13 @@ site_name: "German Resistance Memorial Center"
 date: 2026-01-26
 draft: false
 description: "memorial and museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q880798"
 latitude: 52.5078
 longitude: 13.3625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/400px-Bendlerblock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/800px-Bendlerblock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1200px-Bendlerblock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1920px-Bendlerblock.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1920px-Bendlerblock.jpg---
 
 ## Overview
 

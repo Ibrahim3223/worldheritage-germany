@@ -4,13 +4,13 @@ site_name: "Schloss Velen"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Velen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Velen"
+  - "Lower Saxony"
 wikidata_id: "Q1319639"
 latitude: 51.8933
 longitude: 6.98361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/400px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/800px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/1200px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/1920px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/1920px-Velen,_Schloss_Velen_--_2015_--_1341.jpg---
 
 ## Overview
 

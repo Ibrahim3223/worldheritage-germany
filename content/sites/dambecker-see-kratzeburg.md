@@ -4,13 +4,13 @@ site_name: "Dambecker See (Kratzeburg)"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Kratzeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Kratzeburg"
+  - "Brandenburg"
 wikidata_id: "Q1158305"
 latitude: 53.448
 longitude: 12.9465
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Havel-Dambecker-See-11-IV-2007-198.jpg/400px-Havel-Dambecker-See-11-IV-2007-198.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Havel-Dambecker-See-11-IV-2007-198.jpg/800px-Havel-Dambecker-See-11-IV-2007-198.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Havel-Dambecker-See-11-IV-2007-198.jpg/1200px-Havel-Dambecker-See-11-IV-2007-198.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Havel-Dambecker-See-11-IV-2007-198.jpg/1920px-Havel-Dambecker-See-11-IV-2007-198.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Havel-Dambecker-See-11-IV-2007-198.jpg/1920px-Havel-Dambecker-See-11-IV-2007-198.jpg---
 
 ## Overview
 

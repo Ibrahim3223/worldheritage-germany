@@ -4,13 +4,13 @@ site_name: "Kreuzkirche (Ottensen)"
 date: 2026-01-26
 draft: false
 description: "church building in Ottensen, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q1788345"
 latitude: 53.55333333
 longitude: 9.91805556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/400px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/800px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/1200px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/1920px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/1920px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg---
 
 ## Overview
 

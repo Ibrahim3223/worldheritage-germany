@@ -4,13 +4,13 @@ site_name: "Museum Eisenheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oberhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberhausen"
+  - "Lower Saxony"
 wikidata_id: "Q1954423"
 latitude: 51.5037
 longitude: 6.86366
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eisenheim4708.jpg/400px-Eisenheim4708.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eisenheim4708.jpg/800px-Eisenheim4708.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eisenheim4708.jpg/1200px-Eisenheim4708.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eisenheim4708.jpg/1920px-Eisenheim4708.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eisenheim4708.jpg/1920px-Eisenheim4708.jpg---
 
 ## Overview
 

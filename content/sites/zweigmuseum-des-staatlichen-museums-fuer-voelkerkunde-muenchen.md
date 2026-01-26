@@ -4,19 +4,18 @@ site_name: "Zweigmuseum des Staatlichen Museums für Völkerkunde München"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629021"
 latitude: 48.954284
 longitude: 10.6047
 images:
-  []
----
+  []---
 
 ## Overview
 

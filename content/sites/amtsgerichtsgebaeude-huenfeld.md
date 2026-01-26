@@ -4,13 +4,13 @@ site_name: "Amtsgerichtsgebäude Hünfeld"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Hünfeld in Hessen, Hauptstraße 24"
-region: "Hünfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Hünfeld"
+  - "Hesse"
 wikidata_id: "Q116510782"
 latitude: 50.674619004
 longitude: 9.764901829
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/400px-Amtsgericht_Hünfeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/800px-Amtsgericht_Hünfeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/1200px-Amtsgericht_Hünfeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/1920px-Amtsgericht_Hünfeld.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/1920px-Amtsgericht_Hünfeld.JPG---
 
 ## Overview
 

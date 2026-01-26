@@ -4,13 +4,13 @@ site_name: "Berlin-Spandau railway station"
 date: 2026-01-26
 draft: false
 description: "railway station situated in the Spandau district of Berlin, Germany"
-region: "Spandau"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Spandau"
+  - "Berlin"
 wikidata_id: "Q654980"
 latitude: 52.5347
 longitude: 13.1958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/400px-2013-08_View_from_Rathaus_Spandau_08.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/800px-2013-08_View_from_Rathaus_Spandau_08.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/1200px-2013-08_View_from_Rathaus_Spandau_08.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/1920px-2013-08_View_from_Rathaus_Spandau_08.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/1920px-2013-08_View_from_Rathaus_Spandau_08.jpg---
 
 ## Overview
 

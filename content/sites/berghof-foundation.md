@@ -4,19 +4,18 @@ site_name: "Berghof Foundation"
 date: 2026-01-26
 draft: false
 description: "nonprofit organization in Berlin, Germany"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q64143663"
 latitude: 52.50649
 longitude: 13.398014
 images:
-  []
----
+  []---
 
 ## Overview
 

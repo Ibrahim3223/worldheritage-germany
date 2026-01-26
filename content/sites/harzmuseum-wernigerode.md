@@ -4,13 +4,13 @@ site_name: "Harzmuseum Wernigerode"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q19284990"
 latitude: 51.832788
 longitude: 10.78336
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/400px-WR_Harzmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/800px-WR_Harzmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/1200px-WR_Harzmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/1920px-WR_Harzmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/1920px-WR_Harzmuseum.JPG---
 
 ## Overview
 

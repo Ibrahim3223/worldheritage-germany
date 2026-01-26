@@ -4,13 +4,13 @@ site_name: "Kirche am Südstern"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1524163"
 latitude: 52.4892
 longitude: 13.4064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Suedstern_UAV_04-2017.jpg/400px-Berlin_Suedstern_UAV_04-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Suedstern_UAV_04-2017.jpg/800px-Berlin_Suedstern_UAV_04-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Suedstern_UAV_04-2017.jpg/1200px-Berlin_Suedstern_UAV_04-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Suedstern_UAV_04-2017.jpg/1920px-Berlin_Suedstern_UAV_04-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_Suedstern_UAV_04-2017.jpg/1920px-Berlin_Suedstern_UAV_04-2017.jpg---
 
 ## Overview
 

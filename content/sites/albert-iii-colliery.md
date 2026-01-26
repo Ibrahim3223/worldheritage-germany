@@ -4,19 +4,18 @@ site_name: "Albert III Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169618"
 latitude: 51.4208
 longitude: 7.24564
 images:
-  []
----
+  []---
 
 ## Overview
 

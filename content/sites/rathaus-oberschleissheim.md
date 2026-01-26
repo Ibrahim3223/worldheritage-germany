@@ -4,13 +4,13 @@ site_name: "Rathaus Oberschleißheim"
 date: 2026-01-26
 draft: false
 description: "Rathaus von Oberschleißheim"
-region: "Oberschleißheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Oberschleißheim"
+  - "Bavaria"
 wikidata_id: "Q111344638"
 latitude: 48.25133
 longitude: 11.56249
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/400px-20220320_Rathaus_Oberschleißheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/800px-20220320_Rathaus_Oberschleißheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/1200px-20220320_Rathaus_Oberschleißheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/1920px-20220320_Rathaus_Oberschleißheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/1920px-20220320_Rathaus_Oberschleißheim.jpg---
 
 # Rathaus Oberschleißheim: A Glimpse into Local Governance and Community Spirit
 

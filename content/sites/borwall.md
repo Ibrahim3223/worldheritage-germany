@@ -4,13 +4,13 @@ site_name: "Borwall"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q894294"
 latitude: 52.3013
 longitude: 10.5827
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/400px-Borwall_Modell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/800px-Borwall_Modell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/1200px-Borwall_Modell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/1920px-Borwall_Modell.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/1920px-Borwall_Modell.jpg---
 
 ## Overview
 

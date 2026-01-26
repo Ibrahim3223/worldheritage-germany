@@ -4,13 +4,13 @@ site_name: "Blücherturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q887173"
 latitude: 51.4248
 longitude: 7.04149
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/400px-Essen-Rellinghausen_Bluecherturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/800px-Essen-Rellinghausen_Bluecherturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/1200px-Essen-Rellinghausen_Bluecherturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/1920px-Essen-Rellinghausen_Bluecherturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/1920px-Essen-Rellinghausen_Bluecherturm.jpg---
 
 ## Overview
 

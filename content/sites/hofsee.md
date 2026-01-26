@@ -4,19 +4,18 @@ site_name: "Hofsee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Kargow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Kargow"
+  - "Brandenburg"
 wikidata_id: "Q1274215"
 latitude: 53.5014
 longitude: 12.7689
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Dorfkirche Hohenseeden"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Elbe-Parey"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Elbe-Parey"
+  - "Brandenburg"
 wikidata_id: "Q1244377"
 latitude: 52.3131
 longitude: 12.007
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/400px-Dorfkirche_Hohenseeden_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/800px-Dorfkirche_Hohenseeden_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/1200px-Dorfkirche_Hohenseeden_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/1920px-Dorfkirche_Hohenseeden_3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/1920px-Dorfkirche_Hohenseeden_3.JPG---
 
 ## Overview
 

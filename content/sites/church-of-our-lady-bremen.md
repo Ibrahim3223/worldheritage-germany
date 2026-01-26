@@ -4,13 +4,13 @@ site_name: "Church of Our Lady (Bremen)"
 date: 2026-01-26
 draft: false
 description: "church building in Mitte, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1756463"
 latitude: 53.076339
 longitude: 8.807542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/400px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/800px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/1200px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/1920px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/1920px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg---
 
 ## Overview
 

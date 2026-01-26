@@ -4,19 +4,18 @@ site_name: "Villengarten Maria-Theresia-Straße 23 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-6516 (1) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98740448"
 latitude: 48.143569263
 longitude: 11.598899056
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Stiftung Hensoltshöhe"
 date: 2026-01-26
 draft: false
 description: "Diakoniewerk und Geistliches Zentrum mit Hauptsitz in Gunzenhausen, Mittelfranken, Bayern"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q33747515"
 latitude: 49.11722222
 longitude: 10.76527778
 images:
-  []
----
+  []---
 
 ## Overview
 

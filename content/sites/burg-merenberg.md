@@ -4,13 +4,13 @@ site_name: "Burg Merenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Merenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Merenberg"
+  - "Hesse"
 wikidata_id: "Q1013112"
 latitude: 50.5084
 longitude: 8.1893
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/400px-Merenberg_Burg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/800px-Merenberg_Burg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/1200px-Merenberg_Burg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/1920px-Merenberg_Burg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/1920px-Merenberg_Burg.JPG---
 
 ## Overview
 

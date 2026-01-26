@@ -4,13 +4,13 @@ site_name: "Metternich Castle"
 date: 2026-01-26
 draft: false
 description: "ruins of castle in Beilstein"
-region: "Beilstein"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Beilstein"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013124"
 latitude: 50.1089
 longitude: 7.2392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/400px-Beilstein_mosel_burg_metternich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/800px-Beilstein_mosel_burg_metternich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/1200px-Beilstein_mosel_burg_metternich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/1920px-Beilstein_mosel_burg_metternich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/1920px-Beilstein_mosel_burg_metternich.jpg---
 
 ## Overview
 

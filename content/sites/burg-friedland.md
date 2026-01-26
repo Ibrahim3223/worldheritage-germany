@@ -4,13 +4,13 @@ site_name: "Burg Friedland"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Friedland"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Friedland"
+  - "Brandenburg"
 wikidata_id: "Q1011865"
 latitude: 52.1065
 longitude: 14.2612
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/400px-Friedland_Niederlausitz_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/800px-Friedland_Niederlausitz_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/1200px-Friedland_Niederlausitz_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/1920px-Friedland_Niederlausitz_Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/1920px-Friedland_Niederlausitz_Burg.jpg---
 
 ## Overview
 

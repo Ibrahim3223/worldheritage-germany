@@ -4,21 +4,20 @@ site_name: "Römerkastell Halheim"
 date: 2026-01-26
 draft: false
 description: "protected landscape area in Baden-Württemberg, Germany"
-region: "Ostalbkreis"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Protected Area"
 categories:
   - "Protected Area"
 regions:
-  - "Ostalbkreis"
+  - "Baden-Württemberg"
 wikidata_id: "Q62069250"
 tags:
   - unesco
 latitude: 48.9832
 longitude: 10.2856
 images:
-  []
----
+  []---
 
 ## Overview
 

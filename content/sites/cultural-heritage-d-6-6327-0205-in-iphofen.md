@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6327-0205 in Iphofen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Iphofen, Kitzingen, Lower Franconia, Bavaria, Germany"
-region: "Iphofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Iphofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98170509"
 latitude: 49.653023987
 longitude: 10.329533218
 images:
-  []
----
+  []---
 
 ## Overview
 

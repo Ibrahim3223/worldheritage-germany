@@ -4,13 +4,13 @@ site_name: "Japanisches Kulturinstitut"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Neustadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Neustadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1464236"
 latitude: 50.9352
 longitude: 6.92554
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/400px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/800px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1200px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1920px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1920px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg---
 
 ## Overview
 

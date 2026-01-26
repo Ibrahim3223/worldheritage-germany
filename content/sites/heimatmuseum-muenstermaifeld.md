@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Münstermaifeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Münstermaifeld"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münstermaifeld"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1443527"
 latitude: 50.247
 longitude: 7.3624
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/400px-DE-münstermaifeld-heimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/800px-DE-münstermaifeld-heimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/1200px-DE-münstermaifeld-heimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/1920px-DE-münstermaifeld-heimatmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/1920px-DE-münstermaifeld-heimatmuseum.jpg---
 
 ## Overview
 

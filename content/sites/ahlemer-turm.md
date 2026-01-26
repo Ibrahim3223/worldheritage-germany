@@ -4,13 +4,13 @@ site_name: "Ahlemer Turm"
 date: 2026-01-26
 draft: false
 description: "building with tower in Hannover, current Buddhist temple, Germany"
-region: "Ahlem-Badenstedt-Davenstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Ahlem-Badenstedt-Davenstedt"
+  - "Lower Saxony"
 wikidata_id: "Q400432"
 latitude: 52.3832
 longitude: 9.65752
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/400px-Ahlemer_Turm_Hanover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/800px-Ahlemer_Turm_Hanover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/1200px-Ahlemer_Turm_Hanover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/1920px-Ahlemer_Turm_Hanover_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/1920px-Ahlemer_Turm_Hanover_Germany.jpg---
 
 ## Overview
 

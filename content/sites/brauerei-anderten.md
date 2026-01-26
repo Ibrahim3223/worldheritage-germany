@@ -4,19 +4,18 @@ site_name: "Brauerei Anderten"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q491736"
 latitude: 52.363498
 longitude: 9.856979
 images:
-  []
----
+  []---
 
 ## Overview
 

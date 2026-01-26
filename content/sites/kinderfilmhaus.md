@@ -4,13 +4,13 @@ site_name: "Kinderfilmhaus"
 date: 2026-01-26
 draft: false
 description: "film education institution in Ludwigsburg, Germany, operated by Filmakademie Ludwigsburg"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q50935617"
 latitude: 48.8869
 longitude: 9.20326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aldinger_Torhaus.JPG/400px-Aldinger_Torhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aldinger_Torhaus.JPG/800px-Aldinger_Torhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aldinger_Torhaus.JPG/1200px-Aldinger_Torhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aldinger_Torhaus.JPG/1920px-Aldinger_Torhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aldinger_Torhaus.JPG/1920px-Aldinger_Torhaus.JPG---
 
 ## Overview
 

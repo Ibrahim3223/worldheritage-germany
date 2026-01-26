@@ -4,19 +4,18 @@ site_name: "Buttersee"
 date: 2026-01-26
 draft: false
 description: "lake in Neustrelitz, Mecklenburg-Vorpommern, Germany"
-region: "Neustrelitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Neustrelitz"
+  - "Brandenburg"
 wikidata_id: "Q1018142"
 latitude: 53.279
 longitude: 13.114
 images:
-  []
----
+  []---
 
 ## Overview
 

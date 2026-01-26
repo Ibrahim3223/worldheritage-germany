@@ -4,19 +4,18 @@ site_name: "Garten Frühmeßleite 1 in Kronach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-76-145-411 (1) in Kronach, Bavaria"
-region: "Kronach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Kronach"
+  - "Bavaria"
 wikidata_id: "Q98589406"
 latitude: 50.243420469
 longitude: 11.31921002
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Irsee Abbey"
 date: 2026-01-26
 draft: false
 description: "former abbey in Germany, nowadays conference and training center"
-region: "Irsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Irsee"
+  - "Bavaria"
 wikidata_id: "Q461372"
 latitude: 47.910435022
 longitude: 10.574434776
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/400px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/800px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg---
 
 ## Overview
 

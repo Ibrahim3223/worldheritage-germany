@@ -4,13 +4,13 @@ site_name: "Walsrode Abbey"
 date: 2026-01-26
 draft: false
 description: "lutheran women's convent in Walsrode, Germany"
-region: "Walsrode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Walsrode"
+  - "Lower Saxony"
 wikidata_id: "Q1776260"
 latitude: 52.8605
 longitude: 9.59659
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/400px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/800px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/1200px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/1920px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/1920px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg---
 
 ## Overview
 

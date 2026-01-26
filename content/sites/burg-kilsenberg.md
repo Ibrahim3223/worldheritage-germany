@@ -4,19 +4,18 @@ site_name: "Burg Kilsenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hohenbodman"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hohenbodman"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012654"
 latitude: 47.81888889
 longitude: 9.21936111
 images:
-  []
----
+  []---
 
 ## Overview
 

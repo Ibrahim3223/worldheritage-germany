@@ -4,13 +4,13 @@ site_name: "Village Church in Dambeck"
 date: 2026-01-26
 draft: false
 description: "church building in Bobitz, Mecklenburg-Hither Pomerania, Germany"
-region: "Bobitz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bobitz"
+  - "Lower Saxony"
 wikidata_id: "Q1244215"
 latitude: 53.7858
 longitude: 11.372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/400px-Kirche_in_Dambeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/800px-Kirche_in_Dambeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/1200px-Kirche_in_Dambeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/1920px-Kirche_in_Dambeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/1920px-Kirche_in_Dambeck.jpg---
 
 ## Overview
 

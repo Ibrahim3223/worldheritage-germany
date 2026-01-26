@@ -4,13 +4,13 @@ site_name: "Altes Brauhaus zu Fallersleben"
 date: 2026-01-26
 draft: false
 description: "brewery in Wolfsburg, Germany"
-region: "Wolfsburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Wolfsburg"
+  - "Lower Saxony"
 wikidata_id: "Q439166"
 latitude: 52.4167
 longitude: 10.7172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/400px-Brauhaus_Fallersleben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/800px-Brauhaus_Fallersleben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/1200px-Brauhaus_Fallersleben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/1920px-Brauhaus_Fallersleben.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/1920px-Brauhaus_Fallersleben.jpg---
 
 ## Overview
 

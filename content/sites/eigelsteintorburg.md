@@ -4,13 +4,13 @@ site_name: "Eigelsteintorburg"
 date: 2026-01-26
 draft: false
 description: "Stadttorburg der mittelalterlichen Stadtmauer von Köln"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153131"
 latitude: 50.9493
 longitude: 6.95681
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/400px-Köln_eigelsteintorburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/800px-Köln_eigelsteintorburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1200px-Köln_eigelsteintorburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1920px-Köln_eigelsteintorburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1920px-Köln_eigelsteintorburg.jpg---
 
 ## Overview
 

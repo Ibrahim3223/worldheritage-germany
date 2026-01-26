@@ -4,13 +4,13 @@ site_name: "St. Adolfus"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf, Germany"
-region: "Pempelfort"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pempelfort"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2316838"
 latitude: 51.2392
 longitude: 6.77635
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/400px-Duesseldorf_St_Adolfus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/800px-Duesseldorf_St_Adolfus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/1200px-Duesseldorf_St_Adolfus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/1920px-Duesseldorf_St_Adolfus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/1920px-Duesseldorf_St_Adolfus.JPG---
 
 ## Overview
 

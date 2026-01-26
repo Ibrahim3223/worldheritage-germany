@@ -4,13 +4,13 @@ site_name: "Hamburg-Altona station"
 date: 2026-01-26
 draft: false
 description: "railway station in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q650270"
 latitude: 53.55194444
 longitude: 9.935
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/400px-Bahnhof_Altona_(Einfahrt).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/800px-Bahnhof_Altona_(Einfahrt).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1200px-Bahnhof_Altona_(Einfahrt).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1920px-Bahnhof_Altona_(Einfahrt).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1920px-Bahnhof_Altona_(Einfahrt).jpg---
 
 ## Overview
 

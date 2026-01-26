@@ -4,13 +4,13 @@ site_name: "Allgäuhalle"
 date: 2026-01-26
 draft: false
 description: "Veranstaltungshalle in Kempten (Allgäu) in Bayern"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q16054302"
 latitude: 47.719919513
 longitude: 10.318213609
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/400px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/800px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/1200px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/1920px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/1920px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg---
 
 ## Overview
 

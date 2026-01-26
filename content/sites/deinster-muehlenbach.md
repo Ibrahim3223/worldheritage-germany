@@ -4,13 +4,13 @@ site_name: "Deinster Mühlenbach"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Deinste"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Deinste"
+  - "Lower Saxony"
 wikidata_id: "Q1183333"
 latitude: 53.5397
 longitude: 9.41861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/400px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/800px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/1200px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/1920px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/1920px-Naturschutzgebiet_Deinster_Mühlenbach.jpg---
 
 ## Overview
 

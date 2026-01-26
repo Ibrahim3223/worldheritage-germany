@@ -4,13 +4,13 @@ site_name: "Gedenkstein für die Erhebung Schleswig-Holsteins"
 date: 2026-01-26
 draft: false
 description: "monument in Hamburg-Blankenese, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q1497510"
 latitude: 53.561641
 longitude: 9.812033
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/400px-Hamburg,_Blankenese_Gedenkstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/800px-Hamburg,_Blankenese_Gedenkstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/1200px-Hamburg,_Blankenese_Gedenkstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/1920px-Hamburg,_Blankenese_Gedenkstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/1920px-Hamburg,_Blankenese_Gedenkstein.JPG---
 
 ## Overview
 

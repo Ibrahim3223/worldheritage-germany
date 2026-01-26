@@ -4,13 +4,13 @@ site_name: "Langenwerder"
 date: 2026-01-26
 draft: false
 description: "island in Mecklenburg-Vorpommern, Germany"
-region: "Poel"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Poel"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q122129"
 latitude: 54.027561111
 longitude: 11.4936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Langenwerder2.jpg/400px-Langenwerder2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Langenwerder2.jpg/800px-Langenwerder2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Langenwerder2.jpg/1200px-Langenwerder2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Langenwerder2.jpg/1920px-Langenwerder2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Langenwerder2.jpg/1920px-Langenwerder2.jpg---
 
 ## Overview
 

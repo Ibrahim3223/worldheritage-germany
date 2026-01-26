@@ -4,13 +4,13 @@ site_name: "All Saints Waterfalls"
 date: 2026-01-26
 draft: false
 description: "German waterfalls"
-region: "Oppenau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Oppenau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2648518"
 latitude: 48.5303
 longitude: 8.18896
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/400px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/800px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/1200px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/1920px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/1920px-Allerheiligen-Wasserfaelle_IMG_3010.jpg---
 
 ## Overview
 

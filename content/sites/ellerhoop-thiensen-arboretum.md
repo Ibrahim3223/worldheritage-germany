@@ -4,19 +4,18 @@ site_name: "Ellerhoop-Thiensen Arboretum"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Ellerhoop"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Ellerhoop"
+  - "Hamburg"
 wikidata_id: "Q630410"
 latitude: 53.7173
 longitude: 9.77642
 images:
-  []
----
+  []---
 
 ## Overview
 

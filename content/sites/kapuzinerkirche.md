@@ -4,13 +4,13 @@ site_name: "Kapuzinerkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Brakel, Germany"
-region: "Brakel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brakel"
+  - "Lower Saxony"
 wikidata_id: "Q1728790"
 latitude: 51.7159
 longitude: 9.18711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/400px-Brakel_Kapuzinerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/800px-Brakel_Kapuzinerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/1200px-Brakel_Kapuzinerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/1920px-Brakel_Kapuzinerkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/1920px-Brakel_Kapuzinerkirche.jpg---
 
 ## Overview
 

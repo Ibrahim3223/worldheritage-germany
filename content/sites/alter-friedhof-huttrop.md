@@ -4,13 +4,13 @@ site_name: "Alter Friedhof Huttrop"
 date: 2026-01-26
 draft: false
 description: "cemetery in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q437909"
 latitude: 51.4464
 longitude: 7.045
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/400px-Alter_Friedhof_Huttrop.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/800px-Alter_Friedhof_Huttrop.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/1200px-Alter_Friedhof_Huttrop.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/1920px-Alter_Friedhof_Huttrop.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/1920px-Alter_Friedhof_Huttrop.JPG---
 
 ## Overview
 

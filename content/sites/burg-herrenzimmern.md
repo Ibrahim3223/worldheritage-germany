@@ -4,13 +4,13 @@ site_name: "Burg Herrenzimmern"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rottweil"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rottweil"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012316"
 latitude: 48.2239
 longitude: 8.58778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/400px-Ruine_Herrenzimmern4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/800px-Ruine_Herrenzimmern4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/1200px-Ruine_Herrenzimmern4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/1920px-Ruine_Herrenzimmern4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/1920px-Ruine_Herrenzimmern4.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Theater Ulüm"
 date: 2026-01-26
 draft: false
 description: "building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q285608"
 latitude: 48.3924
 longitude: 9.9851
 images:
-  []
----
+  []---
 
 ## Overview
 

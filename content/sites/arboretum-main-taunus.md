@@ -4,13 +4,13 @@ site_name: "Arboretum Main-Taunus"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Hesse, Germany"
-region: "Schwalbach am Taunus"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Schwalbach am Taunus"
+  - "Hesse"
 wikidata_id: "Q630447"
 latitude: 50.1356
 longitude: 8.54972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/400px-HainbucheArboretumMTK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/800px-HainbucheArboretumMTK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1200px-HainbucheArboretumMTK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1920px-HainbucheArboretumMTK.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1920px-HainbucheArboretumMTK.jpg---
 
 ## Overview
 

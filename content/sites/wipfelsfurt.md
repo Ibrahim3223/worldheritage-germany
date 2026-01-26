@@ -4,13 +4,13 @@ site_name: "Wipfelsfurt"
 date: 2026-01-26
 draft: false
 description: "valley"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1400075"
 latitude: 48.9039
 longitude: 11.8439
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/400px-Wipfelsfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/800px-Wipfelsfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/1200px-Wipfelsfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/1920px-Wipfelsfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/1920px-Wipfelsfurt.jpg---
 
 ## Overview
 

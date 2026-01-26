@@ -4,13 +4,13 @@ site_name: "Zweites Ellinger Römerlager"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q243635"
 latitude: 49.0646
 longitude: 10.981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/400px-EllingenII_Luftbild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/800px-EllingenII_Luftbild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/1200px-EllingenII_Luftbild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/1920px-EllingenII_Luftbild.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/1920px-EllingenII_Luftbild.jpg---
 
 ## Overview
 

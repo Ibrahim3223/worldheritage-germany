@@ -4,13 +4,13 @@ site_name: "Struckmeier-Brunnen"
 date: 2026-01-26
 draft: false
 description: "Listed fountain in Hannover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q1389430"
 latitude: 52.3658
 longitude: 9.75586
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/400px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/800px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/1200px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/1920px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/1920px-Struckmeier_Brunnen_Hannover_Südstadt.jpg---
 
 ## Overview 
 

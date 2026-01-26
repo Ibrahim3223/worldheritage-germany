@@ -4,13 +4,13 @@ site_name: "St. Marien am Behnitz"
 date: 2026-01-26
 draft: false
 description: "church building in Spandau, Germany"
-region: "Spandau"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Spandau"
+  - "Berlin"
 wikidata_id: "Q2320905"
 latitude: 52.5391
 longitude: 13.2079
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/400px-St._Marien_am_Behnitz_Inneres.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/800px-St._Marien_am_Behnitz_Inneres.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/1200px-St._Marien_am_Behnitz_Inneres.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/1920px-St._Marien_am_Behnitz_Inneres.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/1920px-St._Marien_am_Behnitz_Inneres.jpg---
 
 ## Overview
 

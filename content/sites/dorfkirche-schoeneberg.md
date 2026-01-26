@@ -4,13 +4,13 @@ site_name: "Dorfkirche Schöneberg"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q1244723"
 latitude: 52.482916666
 longitude: 13.349444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/400px-Dorfkirche_B-Schoeneberg_10-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/800px-Dorfkirche_B-Schoeneberg_10-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/1200px-Dorfkirche_B-Schoeneberg_10-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/1920px-Dorfkirche_B-Schoeneberg_10-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/1920px-Dorfkirche_B-Schoeneberg_10-2014.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ortsstraße 35"
 date: 2026-01-26
 draft: false
 description: "two and a half storey, symmetrically constructed half-timbered building, former town hall or gatehouse in the center of Ober-Bessingen, a district of "
-region: "Lich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Lich"
+  - "Bavaria"
 wikidata_id: "Q20660851"
 latitude: 50.539481
 longitude: 8.903368
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/400px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/800px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/1200px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/1920px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/1920px-Ortsstraße_35_(Ober-Bessingen)_01.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Jahrtausendturm"
 date: 2026-01-26
 draft: false
 description: "tower in Magdeburg"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q895677"
 latitude: 52.138777777
 longitude: 11.666416666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/400px-Jahrtausendturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/800px-Jahrtausendturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1200px-Jahrtausendturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1920px-Jahrtausendturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1920px-Jahrtausendturm.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Münzkabinett"
 date: 2026-01-26
 draft: false
 description: "museum in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q324263"
 latitude: 51.0527
 longitude: 13.7369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Münzkabinett_Dresden.JPG/400px-Münzkabinett_Dresden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Münzkabinett_Dresden.JPG/800px-Münzkabinett_Dresden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Münzkabinett_Dresden.JPG/1200px-Münzkabinett_Dresden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Münzkabinett_Dresden.JPG/1920px-Münzkabinett_Dresden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Münzkabinett_Dresden.JPG/1920px-Münzkabinett_Dresden.JPG---
 
 ## Overview
 

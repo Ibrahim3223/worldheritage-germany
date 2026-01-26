@@ -4,13 +4,13 @@ site_name: "former synagogue Vöhl"
 date: 2026-01-26
 draft: false
 description: "ehemalige jüdische Gemeinde mit Synagoge und Friedhof in Vöhl in Hessen"
-region: "Vöhl"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Vöhl"
+  - "Hesse"
 wikidata_id: "Q1715982"
 latitude: 51.2068
 longitude: 8.9458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/400px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/800px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/1200px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/1920px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/1920px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg---
 
 ## Overview
 

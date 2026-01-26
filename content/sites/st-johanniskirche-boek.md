@@ -4,13 +4,13 @@ site_name: "St. Johanniskirche Boek"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Boek"
-region: "Rechlin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rechlin"
+  - "Brandenburg"
 wikidata_id: "Q2319459"
 latitude: 53.3937
 longitude: 12.7942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/400px-Kirche_in_Boek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/800px-Kirche_in_Boek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/1200px-Kirche_in_Boek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/1920px-Kirche_in_Boek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/1920px-Kirche_in_Boek.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "NaturZoo Rheine"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Rheine"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Rheine"
+  - "Lower Saxony"
 wikidata_id: "Q165073"
 latitude: 52.297
 longitude: 7.42239
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/400px-Rheine_Tierpark_Stoerche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/800px-Rheine_Tierpark_Stoerche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/1200px-Rheine_Tierpark_Stoerche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/1920px-Rheine_Tierpark_Stoerche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/1920px-Rheine_Tierpark_Stoerche.jpg---
 
 ## Overview
 

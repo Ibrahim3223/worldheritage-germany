@@ -4,13 +4,13 @@ site_name: "St. Matthew"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1260885"
 latitude: 51.34138889
 longitude: 12.37111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg/400px-Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg/800px-Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg/1200px-Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg/1920px-Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg/1920px-Fotothek_df_roe-neg_0000535_002_Ruine_der_Matthäikirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mecklenburg Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Dorf Mecklenburg, Mecklenburg-Vorpommern, Germany"
-region: "Dorf Mecklenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dorf Mecklenburg"
+  - "Lower Saxony"
 wikidata_id: "Q318146"
 latitude: 53.8372
 longitude: 11.4711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/400px-Burg_Mecklenburg_Findling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/800px-Burg_Mecklenburg_Findling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/1200px-Burg_Mecklenburg_Findling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/1920px-Burg_Mecklenburg_Findling.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/1920px-Burg_Mecklenburg_Findling.jpg---
 
 ## Overview
 

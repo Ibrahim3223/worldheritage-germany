@@ -4,13 +4,13 @@ site_name: "Sankt Blasien Abbey in the Black Forest"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Further Austria"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Further Austria"
+  - "Baden-Württemberg"
 wikidata_id: "Q532367"
 latitude: 47.76
 longitude: 8.13
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/400px-Dom_zu_St._Blasien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/800px-Dom_zu_St._Blasien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/1200px-Dom_zu_St._Blasien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/1920px-Dom_zu_St._Blasien.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/1920px-Dom_zu_St._Blasien.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Trinitatis Church"
 date: 2026-01-26
 draft: false
 description: "church in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1315224"
 latitude: 52.5084
 longitude: 13.3105
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/400px-Trinitatiskirche_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/800px-Trinitatiskirche_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/1200px-Trinitatiskirche_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/1920px-Trinitatiskirche_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/1920px-Trinitatiskirche_-_panoramio.jpg---
 
 ## Overview
 

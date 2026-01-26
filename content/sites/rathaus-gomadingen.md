@@ -4,13 +4,13 @@ site_name: "Rathaus Gomadingen"
 date: 2026-01-26
 draft: false
 description: "Rathaus der Gemeinde Gomadingen"
-region: "Gomadingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Gomadingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q124993162"
 latitude: 48.39959
 longitude: 9.39219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gomadingen_Rathaus_(1).jpg/400px-Gomadingen_Rathaus_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gomadingen_Rathaus_(1).jpg/800px-Gomadingen_Rathaus_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gomadingen_Rathaus_(1).jpg/1200px-Gomadingen_Rathaus_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gomadingen_Rathaus_(1).jpg/1920px-Gomadingen_Rathaus_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gomadingen_Rathaus_(1).jpg/1920px-Gomadingen_Rathaus_(1).jpg---
 
 ## Overview
 

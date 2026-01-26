@@ -4,19 +4,18 @@ site_name: "Burg Großer Felsen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Orsingen-Nenzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Orsingen-Nenzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012072"
 latitude: 47.847612
 longitude: 8.909966
 images:
-  []
----
+  []---
 
 ## Overview
 

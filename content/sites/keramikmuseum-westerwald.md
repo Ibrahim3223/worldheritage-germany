@@ -4,13 +4,13 @@ site_name: "Keramikmuseum Westerwald"
 date: 2026-01-26
 draft: false
 description: "museum in Höhr-Grenzhausen, Rhineland-Palatinate, Germany"
-region: "Höhr-Grenzhausen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Höhr-Grenzhausen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1739170"
 latitude: 50.442737
 longitude: 7.656928
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/400px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/800px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/1200px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/1920px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/1920px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg---
 
 ## Overview
 

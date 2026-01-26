@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Ahrenshoop"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ahrenshoop"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Ahrenshoop"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q18410545"
 latitude: 54.3751
 longitude: 12.415921
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/400px-Das_Kunstmuseum_Ahrenshoop.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/800px-Das_Kunstmuseum_Ahrenshoop.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/1200px-Das_Kunstmuseum_Ahrenshoop.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/1920px-Das_Kunstmuseum_Ahrenshoop.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/1920px-Das_Kunstmuseum_Ahrenshoop.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Statue of Albrecht von Roon"
 date: 2026-01-26
 draft: false
 description: "statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q20745510"
 latitude: 52.515332396
 longitude: 13.349165571
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/400px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/800px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/1200px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/1920px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/1920px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG---
 
 ## Overview
 

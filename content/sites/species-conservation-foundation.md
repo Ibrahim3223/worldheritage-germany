@@ -4,19 +4,18 @@ site_name: "Species Conservation Foundation"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1373598"
 latitude: 51.949225
 longitude: 7.586744
 images:
-  []
----
+  []---
 
 ## Overview
 

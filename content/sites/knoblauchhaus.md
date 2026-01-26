@@ -4,13 +4,13 @@ site_name: "Knoblauchhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1777246"
 latitude: 52.516434
 longitude: 13.406988
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/400px-Nikolaiviertel_7a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/800px-Nikolaiviertel_7a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/1200px-Nikolaiviertel_7a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/1920px-Nikolaiviertel_7a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/1920px-Nikolaiviertel_7a.jpg---
 
 ## Overview
 

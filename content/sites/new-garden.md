@@ -4,13 +4,13 @@ site_name: "New Garden"
 date: 2026-01-26
 draft: false
 description: "park"
-region: "Nördliche Vorstädte"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Nördliche Vorstädte"
+  - "Brandenburg"
 wikidata_id: "Q314807"
 latitude: 52.415555555
 longitude: 13.069444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heiligersee-1.jpg/400px-Heiligersee-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heiligersee-1.jpg/800px-Heiligersee-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heiligersee-1.jpg/1200px-Heiligersee-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heiligersee-1.jpg/1920px-Heiligersee-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heiligersee-1.jpg/1920px-Heiligersee-1.jpg---
 
 ## Overview
 

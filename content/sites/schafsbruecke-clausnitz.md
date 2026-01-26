@@ -4,19 +4,18 @@ site_name: "Schafsbrücke Clausnitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rechenberg-Bienenmühle"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rechenberg-Bienenmühle"
+  - "Saxony"
 wikidata_id: "Q49449219"
 latitude: 50.721667438
 longitude: 13.495408856
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Mariä Heimsuchung"
 date: 2026-01-26
 draft: false
 description: "church building in Overath, Germany"
-region: "Overath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Overath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2320958"
 latitude: 50.933
 longitude: 7.32314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/400px-Marialinden_St._Mariae_Heimsuchung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/800px-Marialinden_St._Mariae_Heimsuchung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/1200px-Marialinden_St._Mariae_Heimsuchung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/1920px-Marialinden_St._Mariae_Heimsuchung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/1920px-Marialinden_St._Mariae_Heimsuchung.jpg---
 
 ## Overview
 

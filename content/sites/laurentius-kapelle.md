@@ -4,13 +4,13 @@ site_name: "Laurentius-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Medebach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Medebach"
+  - "Hesse"
 wikidata_id: "Q1618698"
 latitude: 51.2227
 longitude: 8.60476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KüstelbergLaurentiuskapelle.jpg/400px-KüstelbergLaurentiuskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KüstelbergLaurentiuskapelle.jpg/800px-KüstelbergLaurentiuskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KüstelbergLaurentiuskapelle.jpg/1200px-KüstelbergLaurentiuskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KüstelbergLaurentiuskapelle.jpg/1920px-KüstelbergLaurentiuskapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/KüstelbergLaurentiuskapelle.jpg/1920px-KüstelbergLaurentiuskapelle.jpg---
 
 ## Overview
 

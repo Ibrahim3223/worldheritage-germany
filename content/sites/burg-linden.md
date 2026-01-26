@@ -4,19 +4,18 @@ site_name: "Burg Linden"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hochdorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hochdorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012978"
 latitude: 48.0209
 longitude: 9.7596
 images:
-  []
----
+  []---
 
 ## Overview
 

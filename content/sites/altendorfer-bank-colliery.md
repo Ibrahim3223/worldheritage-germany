@@ -4,19 +4,18 @@ site_name: "Altendorfer Bank Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169643"
 latitude: 51.4191
 longitude: 7.13601
 images:
-  []
----
+  []---
 
 ## Overview
 

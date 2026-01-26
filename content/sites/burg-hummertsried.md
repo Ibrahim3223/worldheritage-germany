@@ -4,19 +4,18 @@ site_name: "Burg Hummertsried"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eberhardzell"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eberhardzell"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012504"
 latitude: 47.9653
 longitude: 9.8454
 images:
-  []
----
+  []---
 
 ## Overview
 

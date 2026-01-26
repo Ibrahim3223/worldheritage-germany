@@ -4,13 +4,13 @@ site_name: "Eldena Abbey"
 date: 2026-01-26
 draft: false
 description: "former Cistercian monastery in Mecklenburg-Vorpommern, Germany, in ruins"
-region: "Greifswald"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Greifswald"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q455794"
 latitude: 54.0892
 longitude: 13.452219444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/400px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/800px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1200px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1920px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1920px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg---
 
 ## Overview
 

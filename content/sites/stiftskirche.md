@@ -4,13 +4,13 @@ site_name: "Stiftskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Baden-Baden, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q2348753"
 latitude: 48.763
 longitude: 8.24119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/400px-Baden-Baden_Stiftskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/800px-Baden-Baden_Stiftskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/1200px-Baden-Baden_Stiftskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/1920px-Baden-Baden_Stiftskirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/1920px-Baden-Baden_Stiftskirche.JPG---
 
 ## Overview
 

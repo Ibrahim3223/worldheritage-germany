@@ -4,13 +4,13 @@ site_name: "Krippenmuseum Oberstadion"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oberstadion"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberstadion"
+  - "Baden-Württemberg"
 wikidata_id: "Q1779336"
 latitude: 48.1863
 longitude: 9.69188
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/400px-Krippenmuseum_Oberstadion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/800px-Krippenmuseum_Oberstadion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/1200px-Krippenmuseum_Oberstadion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/1920px-Krippenmuseum_Oberstadion.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/1920px-Krippenmuseum_Oberstadion.jpg---
 
 ## Overview
 

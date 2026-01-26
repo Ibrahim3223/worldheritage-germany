@@ -4,13 +4,13 @@ site_name: "Lutternsche Egge (Pass)"
 date: 2026-01-26
 draft: false
 description: "Gebirgspass in Deutschland"
-region: "Minden-Lübbecke District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "Minden-Lübbecke District"
+  - "Lower Saxony"
 wikidata_id: "Q1878018"
 latitude: 52.2597
 longitude: 8.80449
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lutternsche_Egge_Passstraße.jpg/400px-Lutternsche_Egge_Passstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lutternsche_Egge_Passstraße.jpg/800px-Lutternsche_Egge_Passstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lutternsche_Egge_Passstraße.jpg/1200px-Lutternsche_Egge_Passstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lutternsche_Egge_Passstraße.jpg/1920px-Lutternsche_Egge_Passstraße.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lutternsche_Egge_Passstraße.jpg/1920px-Lutternsche_Egge_Passstraße.jpg---
 
 ## Overview
 

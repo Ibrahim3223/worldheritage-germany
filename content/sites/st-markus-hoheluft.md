@@ -4,19 +4,18 @@ site_name: "St. Markus-Hoheluft"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q2321011"
 latitude: 53.58216667
 longitude: 9.97388889
 images:
-  []
----
+  []---
 
 ## Overview
 

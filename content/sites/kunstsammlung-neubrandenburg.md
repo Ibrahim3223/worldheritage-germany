@@ -4,13 +4,13 @@ site_name: "Kunstsammlung Neubrandenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q1724627"
 latitude: 53.5553
 longitude: 13.2564
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/400px-Neubrandenburg-Kunstsammlung-01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/800px-Neubrandenburg-Kunstsammlung-01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/1200px-Neubrandenburg-Kunstsammlung-01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/1920px-Neubrandenburg-Kunstsammlung-01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/1920px-Neubrandenburg-Kunstsammlung-01.JPG---
 
 ## Overview
 

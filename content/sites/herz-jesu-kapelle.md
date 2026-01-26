@@ -4,13 +4,13 @@ site_name: "Herz-Jesu-Kapelle"
 date: 2026-01-26
 draft: false
 description: "chapel in Heiligendamm, Bad Doberan, Mecklenburg-Vorpommern, Germany"
-region: "Bad Doberan"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Doberan"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1262168"
 latitude: 54.1413
 longitude: 11.8472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/400px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/800px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/1200px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/1920px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/1920px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Colditz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Colditz"
+  - "Saxony"
 wikidata_id: "Q49452211"
 latitude: 51.144528519
 longitude: 12.783296104
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Aldegrever-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Soest"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Soest"
+  - "Hesse"
 wikidata_id: "Q2640406"
 latitude: 51.5712
 longitude: 8.10708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/400px-SoestBrunnen-IMG_0783.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/800px-SoestBrunnen-IMG_0783.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/1200px-SoestBrunnen-IMG_0783.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/1920px-SoestBrunnen-IMG_0783.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/1920px-SoestBrunnen-IMG_0783.JPG---
 
 ## Overview
 

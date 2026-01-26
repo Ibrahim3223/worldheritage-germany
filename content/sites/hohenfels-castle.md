@@ -4,13 +4,13 @@ site_name: "Hohenfels Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Imsbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Imsbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012409"
 latitude: 49.6009
 longitude: 7.8962
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/400px-Hohenfels3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/800px-Hohenfels3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/1200px-Hohenfels3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/1920px-Hohenfels3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/1920px-Hohenfels3.JPG---
 
 ## Overview
 

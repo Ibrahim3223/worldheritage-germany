@@ -4,13 +4,13 @@ site_name: "Ludwig Galerie Schloss Oberhausen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Oberhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberhausen"
+  - "Lower Saxony"
 wikidata_id: "Q1411982"
 latitude: 51.4919
 longitude: 6.86083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/400px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/800px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/1200px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/1920px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/1920px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg---
 
 ## Overview
 

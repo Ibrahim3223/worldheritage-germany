@@ -4,13 +4,13 @@ site_name: "Osthofentor"
 date: 2026-01-26
 draft: false
 description: "city gate and museum in Germany"
-region: "Soest"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Soest"
+  - "Hesse"
 wikidata_id: "Q2035602"
 latitude: 51.5736
 longitude: 8.11583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/400px-Osthofentor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/800px-Osthofentor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/1200px-Osthofentor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/1920px-Osthofentor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/1920px-Osthofentor.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Ellinger Tor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q49597"
 latitude: 49.032509196
 longitude: 10.971497436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/400px-Weissenburg-003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/800px-Weissenburg-003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/1200px-Weissenburg-003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/1920px-Weissenburg-003.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/1920px-Weissenburg-003.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Frankfurt (Main) Süd"
 date: 2026-01-26
 draft: false
 description: "railway halt in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q285550"
 latitude: 50.099204
 longitude: 8.686163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/400px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/800px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/1200px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/1920px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/1920px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kaiser-Wilhelm- und Ratsgymnasium (Hannover)"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1525475"
 latitude: 52.3781
 longitude: 9.76222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/400px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/800px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1200px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1920px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1920px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg---
 
 ## Overview
 

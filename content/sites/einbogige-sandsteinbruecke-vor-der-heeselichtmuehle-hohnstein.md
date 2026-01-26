@@ -4,19 +4,18 @@ site_name: "Einbogige Sandsteinbrücke vor der Heeselichtmühle Hohnstein"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hohnstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hohnstein"
+  - "Saxony"
 wikidata_id: "Q49442435"
 latitude: 50.996370798
 longitude: 14.102371519
 images:
-  []
----
+  []---
 
 ## Overview
 

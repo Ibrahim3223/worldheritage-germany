@@ -4,13 +4,13 @@ site_name: "church and cemetery Obercunnersdorf"
 date: 2026-01-26
 draft: false
 description: "church building and cemetery in Obercunnersdorf, Saxony, Germany"
-region: "Kottmar"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Kottmar"
+  - "Saxony"
 wikidata_id: "Q49436758"
 latitude: 51.036014
 longitude: 14.670003
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/400px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/800px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/1200px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/1920px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/1920px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg---
 
 ## Overview
 

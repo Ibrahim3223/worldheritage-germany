@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Lackenhäuser"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628795"
 latitude: 48.742282
 longitude: 13.812381
 images:
-  []
----
+  []---
 
 ## Overview
 

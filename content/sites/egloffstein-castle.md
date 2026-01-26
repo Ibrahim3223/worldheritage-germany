@@ -4,13 +4,13 @@ site_name: "Egloffstein Castle"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-124-1 (0) in Egloffstein, Bavaria"
-region: "Egloffstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Egloffstein"
+  - "Bavaria"
 wikidata_id: "Q1011534"
 latitude: 49.7026
 longitude: 11.2574
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/400px-Burg_Egloffstein01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/800px-Burg_Egloffstein01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/1200px-Burg_Egloffstein01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/1920px-Burg_Egloffstein01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/1920px-Burg_Egloffstein01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Comoedienhaus Wilhelmsbad"
 date: 2026-01-26
 draft: false
 description: "theatre in Wilhelmsbad, Hanau, Germany"
-region: "Hanau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hanau"
+  - "Hesse"
 wikidata_id: "Q1120754"
 latitude: 50.1483
 longitude: 8.88453
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/400px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/800px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/1200px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/1920px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/1920px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg---
 
 ## Overview
 

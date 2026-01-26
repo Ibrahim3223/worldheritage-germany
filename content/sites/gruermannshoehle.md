@@ -4,13 +4,13 @@ site_name: "Grürmannshöhle"
 date: 2026-01-26
 draft: false
 description: "cave"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1420965"
 latitude: 51.3644
 longitude: 7.63194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Letmathe-PaterundNonne2-Asio.JPG/400px-Letmathe-PaterundNonne2-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Letmathe-PaterundNonne2-Asio.JPG/800px-Letmathe-PaterundNonne2-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Letmathe-PaterundNonne2-Asio.JPG/1200px-Letmathe-PaterundNonne2-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Letmathe-PaterundNonne2-Asio.JPG/1920px-Letmathe-PaterundNonne2-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Letmathe-PaterundNonne2-Asio.JPG/1920px-Letmathe-PaterundNonne2-Asio.JPG---
 
 ## Overview
 

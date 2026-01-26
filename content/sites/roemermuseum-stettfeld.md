@@ -4,13 +4,13 @@ site_name: "Römermuseum Stettfeld"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ubstadt-Weiher"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ubstadt-Weiher"
+  - "Baden-Württemberg"
 wikidata_id: "Q1110620"
 latitude: 49.182
 longitude: 8.64281
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/400px-Roemermuseum_Stettfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/800px-Roemermuseum_Stettfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/1200px-Roemermuseum_Stettfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/1920px-Roemermuseum_Stettfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/1920px-Roemermuseum_Stettfeld.jpg---
 
 ## Overview
 

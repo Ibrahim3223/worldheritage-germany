@@ -4,13 +4,13 @@ site_name: "St.-Martins-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Remels, Germany"
-region: "Uplengen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Uplengen"
+  - "Lower Saxony"
 wikidata_id: "Q2316496"
 latitude: 53.3057
 longitude: 7.75178
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/400px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/800px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/1200px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/1920px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/1920px-Remels,_kerk_foto5_2010-05-15_13.23.JPG---
 
 ## Overview
 

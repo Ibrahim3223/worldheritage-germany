@@ -4,19 +4,18 @@ site_name: "Freiberg Mining Landscape"
 date: 2026-01-26
 draft: false
 description: "part of a World Heritage site in Germany"
-region: "Freiberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Freiberg"
+  - "Saxony"
 wikidata_id: "Q64824434"
 latitude: 50.9183
 longitude: 13.3445
 images:
-  []
----
+  []---
 
 ## Overview
 

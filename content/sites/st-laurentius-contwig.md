@@ -4,13 +4,13 @@ site_name: "St. Laurentius (Contwig)"
 date: 2026-01-26
 draft: false
 description: "church building in Contwig, Germany"
-region: "Contwig"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Contwig"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2320067"
 latitude: 49.2498
 longitude: 7.42841
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/400px-Contwig-St_Laurentius-16-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/800px-Contwig-St_Laurentius-16-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/1200px-Contwig-St_Laurentius-16-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/1920px-Contwig-St_Laurentius-16-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/1920px-Contwig-St_Laurentius-16-gje.jpg---
 
 ## Overview
 

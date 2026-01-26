@@ -4,13 +4,13 @@ site_name: "Marienkapelle (Würzburg)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-63-000-321 (0) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q220038"
 latitude: 49.7948
 longitude: 9.92958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/400px-Marienkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/800px-Marienkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1200px-Marienkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1920px-Marienkapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1920px-Marienkapelle.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bergmannsglück mine"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q169673"
 latitude: 51.604
 longitude: 7.03591
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/400px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/800px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/1200px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/1920px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/1920px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg---
 
 ## Overview
 

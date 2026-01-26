@@ -4,19 +4,18 @@ site_name: "Zeller Valley"
 date: 2026-01-26
 draft: false
 description: "valley"
-region: "Regen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Regen"
+  - "Bavaria"
 wikidata_id: "Q189019"
 latitude: 49.12089
 longitude: 12.98858
 images:
-  []
----
+  []---
 
 ## Overview
 

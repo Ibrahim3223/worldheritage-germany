@@ -4,13 +4,13 @@ site_name: "Renaissanceschloss Dornburg"
 date: 2026-01-26
 draft: false
 description: "palace in Dornburg, Thuringia, Germany"
-region: "Dornburg-Camburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dornburg-Camburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q79024165"
 latitude: 51.005079
 longitude: 11.66685
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg/400px-Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg/800px-Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg/1200px-Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg/1920px-Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg/1920px-Dornburg_an_der_Saale_Dornburger_Schlösser_Renaissanceschloss_Foto_2008_Wolfgang_Pehlemann_Wiesbaden_IMG_0106.jpg---
 
 ## Overview 
 

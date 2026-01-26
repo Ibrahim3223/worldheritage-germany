@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Schacht Schermen"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte für zehn polnische Opfer des nationalsozialistischen Regimes"
-region: "Möser"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Möser"
+  - "Brandenburg"
 wikidata_id: "Q15811459"
 latitude: 52.225118
 longitude: 11.81354
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Schacht_Schermen_1.jpg/400px-Schacht_Schermen_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Schacht_Schermen_1.jpg/800px-Schacht_Schermen_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Schacht_Schermen_1.jpg/1200px-Schacht_Schermen_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Schacht_Schermen_1.jpg/1920px-Schacht_Schermen_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Schacht_Schermen_1.jpg/1920px-Schacht_Schermen_1.jpg---
 
 ## Overview
 

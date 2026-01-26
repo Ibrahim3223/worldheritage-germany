@@ -4,13 +4,13 @@ site_name: "Stadtkirche St. Jakobus"
 date: 2026-01-26
 draft: false
 description: "church building in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
-region: "Brackenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brackenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2327436"
 latitude: 49.079
 longitude: 9.06628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/400px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/800px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/1200px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/1920px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/1920px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg---
 
 ## Overview
 

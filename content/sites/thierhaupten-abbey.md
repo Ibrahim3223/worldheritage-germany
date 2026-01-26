@@ -4,13 +4,13 @@ site_name: "Thierhaupten Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Thierhaupten"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Thierhaupten"
+  - "Bavaria"
 wikidata_id: "Q290566"
 latitude: 48.561497222
 longitude: 10.911369444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Thierhaupten_Kloster_77.jpg/400px-Thierhaupten_Kloster_77.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Thierhaupten_Kloster_77.jpg/800px-Thierhaupten_Kloster_77.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Thierhaupten_Kloster_77.jpg/1200px-Thierhaupten_Kloster_77.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Thierhaupten_Kloster_77.jpg/1920px-Thierhaupten_Kloster_77.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Thierhaupten_Kloster_77.jpg/1920px-Thierhaupten_Kloster_77.jpg---
 
 ## Overview
 

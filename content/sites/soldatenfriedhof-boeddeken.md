@@ -4,13 +4,13 @@ site_name: "Soldatenfriedhof Böddeken"
 date: 2026-01-26
 draft: false
 description: "cemetery in Büren, Germany"
-region: "Büren"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Büren"
+  - "Hesse"
 wikidata_id: "Q2298577"
 latitude: 51.584
 longitude: 8.67
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/400px-Soldatenfriedhof_Böddeken_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/800px-Soldatenfriedhof_Böddeken_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/1200px-Soldatenfriedhof_Böddeken_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/1920px-Soldatenfriedhof_Böddeken_003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/1920px-Soldatenfriedhof_Böddeken_003.jpg---
 
 ## Overview
 

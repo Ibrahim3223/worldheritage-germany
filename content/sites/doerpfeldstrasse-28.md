@@ -4,13 +4,13 @@ site_name: "Dörpfeldstraße 28"
 date: 2026-01-26
 draft: false
 description: "Schule in Deutschland"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1660024"
 latitude: 51.2178
 longitude: 7.18746
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wuppertal_Dörpfeldstr_0004.jpg/400px-Wuppertal_Dörpfeldstr_0004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wuppertal_Dörpfeldstr_0004.jpg/800px-Wuppertal_Dörpfeldstr_0004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wuppertal_Dörpfeldstr_0004.jpg/1200px-Wuppertal_Dörpfeldstr_0004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wuppertal_Dörpfeldstr_0004.jpg/1920px-Wuppertal_Dörpfeldstr_0004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wuppertal_Dörpfeldstr_0004.jpg/1920px-Wuppertal_Dörpfeldstr_0004.jpg---
 
 ## Overview
 

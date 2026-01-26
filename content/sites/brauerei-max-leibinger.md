@@ -4,13 +4,13 @@ site_name: "Brauerei Max Leibinger"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q900320"
 latitude: 47.781452777
 longitude: 9.621844444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/400px-Ravensburg_Brauerei_Leibinger.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/800px-Ravensburg_Brauerei_Leibinger.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/1200px-Ravensburg_Brauerei_Leibinger.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/1920px-Ravensburg_Brauerei_Leibinger.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/1920px-Ravensburg_Brauerei_Leibinger.jpg---
 
 ## Overview
 

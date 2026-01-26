@@ -4,13 +4,13 @@ site_name: "St.-Jakobi-Kirche (Stralsund)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q882586"
 latitude: 54.3132
 longitude: 13.0928
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/400px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/800px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/1200px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/1920px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/1920px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg---
 
 ## Overview
 

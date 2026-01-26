@@ -4,19 +4,18 @@ site_name: "Dorf- und Burgmuseum Greifenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633855"
 latitude: 50.622787
 longitude: 8.29539
 images:
-  []
----
+  []---
 
 ## Overview
 

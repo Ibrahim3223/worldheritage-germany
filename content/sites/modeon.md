@@ -4,13 +4,13 @@ site_name: "Modeon"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall and event venue in Marktoberdorf, Bavaria, Germany"
-region: "Marktoberdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Marktoberdorf"
+  - "Bavaria"
 wikidata_id: "Q100354938"
 latitude: 47.7884369
 longitude: 10.6215944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/400px-MOD_-_Modeon_v_SO_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/800px-MOD_-_Modeon_v_SO_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/1200px-MOD_-_Modeon_v_SO_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/1920px-MOD_-_Modeon_v_SO_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/1920px-MOD_-_Modeon_v_SO_(cropped).jpg---
 
 ## Overview
 

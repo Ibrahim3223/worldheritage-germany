@@ -4,13 +4,13 @@ site_name: "Rathaus Gengenbach"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Gengenbach, einer Stadt im Ortenaukreis in Baden-Württemberg"
-region: "Gengenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Gengenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q123144312"
 latitude: 48.404037
 longitude: 8.015668
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Baden-Württemberg_Gegenbach_Gegenbach_01.jpg/400px-Baden-Württemberg_Gegenbach_Gegenbach_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Baden-Württemberg_Gegenbach_Gegenbach_01.jpg/800px-Baden-Württemberg_Gegenbach_Gegenbach_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Baden-Württemberg_Gegenbach_Gegenbach_01.jpg/1200px-Baden-Württemberg_Gegenbach_Gegenbach_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Baden-Württemberg_Gegenbach_Gegenbach_01.jpg/1920px-Baden-Württemberg_Gegenbach_Gegenbach_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Baden-Württemberg_Gegenbach_Gegenbach_01.jpg/1920px-Baden-Württemberg_Gegenbach_Gegenbach_01.jpg---
 
 ## Overview
 

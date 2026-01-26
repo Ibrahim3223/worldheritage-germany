@@ -4,13 +4,13 @@ site_name: "Alter Ringelstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Moorgrund"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Moorgrund"
+  - "Thuringia"
 wikidata_id: "Q438155"
 latitude: 50.8711
 longitude: 10.3086
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/400px-WAK_MOORGR_Alter_Ringelst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/800px-WAK_MOORGR_Alter_Ringelst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/1200px-WAK_MOORGR_Alter_Ringelst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/1920px-WAK_MOORGR_Alter_Ringelst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/1920px-WAK_MOORGR_Alter_Ringelst.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Tollensesee"
 date: 2026-01-26
 draft: false
 description: "lake in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q324084"
 latitude: 53.507222222
 longitude: 13.211388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/400px-Tollensesee-02-06-2008-202.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/800px-Tollensesee-02-06-2008-202.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/1200px-Tollensesee-02-06-2008-202.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/1920px-Tollensesee-02-06-2008-202.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/1920px-Tollensesee-02-06-2008-202.jpg---
 
 ## Overview
 

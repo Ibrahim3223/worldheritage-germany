@@ -4,13 +4,13 @@ site_name: "Marienkapelle Hohenberneck"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Berneck im Fichtelgebirge, Upper Franconia, Germany"
-region: "Bad Berneck im Fichtelgebirge"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Berneck im Fichtelgebirge"
+  - "Bavaria"
 wikidata_id: "Q1111203"
 latitude: 50.0524
 longitude: 11.6754
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/400px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/800px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/1200px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/1920px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/1920px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg---
 
 ## Overview
 

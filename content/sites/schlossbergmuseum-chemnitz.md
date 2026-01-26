@@ -4,13 +4,13 @@ site_name: "Schloßbergmuseum Chemnitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schloßchemnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schloßchemnitz"
+  - "Saxony"
 wikidata_id: "Q2244892"
 latitude: 50.8451
 longitude: 12.9151
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg/400px-Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg/800px-Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg/1200px-Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg/1920px-Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg/1920px-Ehemalige_Klosteranlage_St._Marien_mit_Schloßkirche_und_Schloßbergmuseum_in_Chemnitz,_2015.jpg---
 
 ## Overview
 

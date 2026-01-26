@@ -4,13 +4,13 @@ site_name: "Lambert Steinwich memorial"
 date: 2026-01-26
 draft: false
 description: "statue in Stralsund, Germany"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q14907057"
 latitude: 54.307222222
 longitude: 13.092055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/400px-Stralsund_Lambert_Steinwich_memorial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/800px-Stralsund_Lambert_Steinwich_memorial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/1200px-Stralsund_Lambert_Steinwich_memorial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/1920px-Stralsund_Lambert_Steinwich_memorial.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/1920px-Stralsund_Lambert_Steinwich_memorial.jpg---
 
 ## Overview
 

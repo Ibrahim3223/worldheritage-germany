@@ -4,13 +4,13 @@ site_name: "Amrumer Dünen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Norddorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Norddorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q477864"
 latitude: 54.6594
 longitude: 8.32194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/400px-Amrumer_Dünen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/800px-Amrumer_Dünen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1200px-Amrumer_Dünen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1920px-Amrumer_Dünen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1920px-Amrumer_Dünen.jpg---
 
 ## Overview
 

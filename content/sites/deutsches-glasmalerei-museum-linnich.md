@@ -4,13 +4,13 @@ site_name: "Deutsches Glasmalerei-Museum Linnich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Linnich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Linnich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1205661"
 latitude: 50.9797
 longitude: 6.26917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Deutsches_Glasmalerei-Museum_Linnich-0762.jpg/400px-Deutsches_Glasmalerei-Museum_Linnich-0762.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Deutsches_Glasmalerei-Museum_Linnich-0762.jpg/800px-Deutsches_Glasmalerei-Museum_Linnich-0762.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Deutsches_Glasmalerei-Museum_Linnich-0762.jpg/1200px-Deutsches_Glasmalerei-Museum_Linnich-0762.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Deutsches_Glasmalerei-Museum_Linnich-0762.jpg/1920px-Deutsches_Glasmalerei-Museum_Linnich-0762.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Deutsches_Glasmalerei-Museum_Linnich-0762.jpg/1920px-Deutsches_Glasmalerei-Museum_Linnich-0762.jpg---
 
 ## Overview
 

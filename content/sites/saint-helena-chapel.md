@@ -4,13 +4,13 @@ site_name: "Saint Helena Chapel"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Inden"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Inden"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q112549"
 latitude: 50.8522
 longitude: 6.41268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vilvenich_Helenakapelle_HDR.jpg/400px-Vilvenich_Helenakapelle_HDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vilvenich_Helenakapelle_HDR.jpg/800px-Vilvenich_Helenakapelle_HDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vilvenich_Helenakapelle_HDR.jpg/1200px-Vilvenich_Helenakapelle_HDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vilvenich_Helenakapelle_HDR.jpg/1920px-Vilvenich_Helenakapelle_HDR.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vilvenich_Helenakapelle_HDR.jpg/1920px-Vilvenich_Helenakapelle_HDR.jpg---
 
 ## Overview
 

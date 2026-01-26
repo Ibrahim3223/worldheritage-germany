@@ -4,13 +4,13 @@ site_name: "Vierzehn Nothelferkapelle"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Grevenstein, Meschede, Hochsauerlandkreis, Nordrhein-Westfalen"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1762856"
 latitude: 51.2974
 longitude: 8.13945
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kapelle_Grevenstein.jpg/400px-Kapelle_Grevenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kapelle_Grevenstein.jpg/800px-Kapelle_Grevenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kapelle_Grevenstein.jpg/1200px-Kapelle_Grevenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kapelle_Grevenstein.jpg/1920px-Kapelle_Grevenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kapelle_Grevenstein.jpg/1920px-Kapelle_Grevenstein.jpg---
 
 ## Overview
 

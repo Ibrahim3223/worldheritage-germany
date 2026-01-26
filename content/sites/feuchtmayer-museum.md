@@ -4,13 +4,13 @@ site_name: "Feuchtmayer Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Salem"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Salem"
+  - "Baden-Württemberg"
 wikidata_id: "Q1409387"
 latitude: 47.761531
 longitude: 9.283664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Feuchtmayer_Museum.jpg/400px-Feuchtmayer_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Feuchtmayer_Museum.jpg/800px-Feuchtmayer_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Feuchtmayer_Museum.jpg/1200px-Feuchtmayer_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Feuchtmayer_Museum.jpg/1920px-Feuchtmayer_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Feuchtmayer_Museum.jpg/1920px-Feuchtmayer_Museum.jpg---
 
 ## Overview
 

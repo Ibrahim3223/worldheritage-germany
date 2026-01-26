@@ -4,13 +4,13 @@ site_name: "Föhr"
 date: 2026-01-26
 draft: false
 description: "island in North Frisia, Germany"
-region: "Föhr-Amrum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Föhr-Amrum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q3127"
 latitude: 54.716666666
 longitude: 8.5
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/400px-Föhr_satellite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/800px-Föhr_satellite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1200px-Föhr_satellite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1920px-Föhr_satellite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1920px-Föhr_satellite.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Turenbusch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Spenge, North Rhine-Westphalia, Germany"
-region: "Spenge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Spenge"
+  - "Lower Saxony"
 wikidata_id: "Q1167254"
 latitude: 52.12017901
 longitude: 8.40986382
 images:
-  []
----
+  []---
 
 ## Overview
 

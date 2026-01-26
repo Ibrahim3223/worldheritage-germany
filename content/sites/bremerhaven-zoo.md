@@ -4,13 +4,13 @@ site_name: "Bremerhaven Zoo"
 date: 2026-01-26
 draft: false
 description: "zoo in Bremerhaven, Germany"
-region: "Bremerhaven"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Bremerhaven"
+  - "Bremen"
 wikidata_id: "Q220116"
 latitude: 53.5447
 longitude: 8.57028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/400px-Bremerhaven-Zoo_am_Meer_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/800px-Bremerhaven-Zoo_am_Meer_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/1200px-Bremerhaven-Zoo_am_Meer_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/1920px-Bremerhaven-Zoo_am_Meer_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/1920px-Bremerhaven-Zoo_am_Meer_01.jpg---
 
 ## Overview
 

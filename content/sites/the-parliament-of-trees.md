@@ -4,13 +4,13 @@ site_name: "The Parliament of Trees"
 date: 2026-01-26
 draft: false
 description: "memorial"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2052841"
 latitude: 52.5211
 longitude: 13.3776
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/400px-Parlament_der_Bäume.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/800px-Parlament_der_Bäume.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/1200px-Parlament_der_Bäume.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/1920px-Parlament_der_Bäume.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/1920px-Parlament_der_Bäume.jpg---
 
 ## Overview
 

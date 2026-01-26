@@ -4,13 +4,13 @@ site_name: "Fürstenberg Collection"
 date: 2026-01-26
 draft: false
 description: "art collection in Donaueschingen,Germany"
-region: "Donaueschingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Donaueschingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q18753934"
 latitude: 47.953035
 longitude: 8.503015
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Donaueschingen_Fürstenberger_Sammlung_041.jpg/400px-Donaueschingen_Fürstenberger_Sammlung_041.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Donaueschingen_Fürstenberger_Sammlung_041.jpg/800px-Donaueschingen_Fürstenberger_Sammlung_041.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Donaueschingen_Fürstenberger_Sammlung_041.jpg/1200px-Donaueschingen_Fürstenberger_Sammlung_041.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Donaueschingen_Fürstenberger_Sammlung_041.jpg/1920px-Donaueschingen_Fürstenberger_Sammlung_041.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Donaueschingen_Fürstenberger_Sammlung_041.jpg/1920px-Donaueschingen_Fürstenberger_Sammlung_041.jpg---
 
 ## Overview
 

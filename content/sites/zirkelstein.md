@@ -4,13 +4,13 @@ site_name: "Zirkelstein"
 date: 2026-01-26
 draft: false
 description: "mountain in Germany"
-region: "Reinhardtsdorf-Schöna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Reinhardtsdorf-Schöna"
+  - "Saxony"
 wikidata_id: "Q205820"
 latitude: 50.878333333
 longitude: 14.220555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/400px-Zirkelstein002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/800px-Zirkelstein002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/1200px-Zirkelstein002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/1920px-Zirkelstein002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/1920px-Zirkelstein002.jpg---
 
 ## Overview
 

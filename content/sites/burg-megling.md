@@ -4,13 +4,13 @@ site_name: "Burg Megling"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gars"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gars"
+  - "Bavaria"
 wikidata_id: "Q1013100"
 latitude: 48.1721
 longitude: 12.322
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Megling-GO-2.jpg/400px-Burg_Megling-GO-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Megling-GO-2.jpg/800px-Burg_Megling-GO-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Megling-GO-2.jpg/1200px-Burg_Megling-GO-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Megling-GO-2.jpg/1920px-Burg_Megling-GO-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Megling-GO-2.jpg/1920px-Burg_Megling-GO-2.jpg---
 
 ## Overview
 

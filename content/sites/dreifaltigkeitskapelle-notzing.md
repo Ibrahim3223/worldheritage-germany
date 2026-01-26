@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskapelle (Notzing)"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Oberding"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Oberding"
+  - "Bavaria"
 wikidata_id: "Q1257608"
 latitude: 48.3096
 longitude: 11.8452
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/400px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/800px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/1200px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/1920px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/1920px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Reichenschwand Castle"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Reichenschwand"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Reichenschwand"
+  - "Bavaria"
 wikidata_id: "Q1628650"
 latitude: 49.5101
 longitude: 11.3766
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/400px-01_Schloss_Reichenschwand_klein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/800px-01_Schloss_Reichenschwand_klein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/1200px-01_Schloss_Reichenschwand_klein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/1920px-01_Schloss_Reichenschwand_klein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/1920px-01_Schloss_Reichenschwand_klein.jpg---
 
 ## Overview
 

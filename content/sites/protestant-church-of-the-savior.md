@@ -4,13 +4,13 @@ site_name: "Protestant Church of the Savior"
 date: 2026-01-26
 draft: false
 description: "Church building in Dresden-Cotta, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1594748"
 latitude: 51.0566
 longitude: 13.6817
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20080113060DR_Dresden-Cotta_Heilandskirche.jpg/400px-20080113060DR_Dresden-Cotta_Heilandskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20080113060DR_Dresden-Cotta_Heilandskirche.jpg/800px-20080113060DR_Dresden-Cotta_Heilandskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20080113060DR_Dresden-Cotta_Heilandskirche.jpg/1200px-20080113060DR_Dresden-Cotta_Heilandskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20080113060DR_Dresden-Cotta_Heilandskirche.jpg/1920px-20080113060DR_Dresden-Cotta_Heilandskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20080113060DR_Dresden-Cotta_Heilandskirche.jpg/1920px-20080113060DR_Dresden-Cotta_Heilandskirche.jpg---
 
 ## Overview
 

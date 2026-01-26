@@ -4,13 +4,13 @@ site_name: "Altstadt"
 date: 2026-01-26
 draft: false
 description: "quarter of Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q880555"
 latitude: 49.998611111
 longitude: 8.269444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/400px-MzKirschgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/800px-MzKirschgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/1200px-MzKirschgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/1920px-MzKirschgarten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/1920px-MzKirschgarten.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Evangelical Church Centre Kronsberg"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kirchrode-Bemerode-Wülferode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kirchrode-Bemerode-Wülferode"
+  - "Lower Saxony"
 wikidata_id: "Q1381332"
 latitude: 52.3392
 longitude: 9.83582
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/400px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/800px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/1200px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/1920px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/1920px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG---
 
 ## Overview
 

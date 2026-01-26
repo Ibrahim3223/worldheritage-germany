@@ -4,13 +4,13 @@ site_name: "Rhododendron-Park Bremen"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Horn-Lehe"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Horn-Lehe"
+  - "Bremen"
 wikidata_id: "Q328729"
 latitude: 53.0917
 longitude: 8.88611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/400px-Rhododendronpark_Bremen_20090513_040.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/800px-Rhododendronpark_Bremen_20090513_040.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/1200px-Rhododendronpark_Bremen_20090513_040.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/1920px-Rhododendronpark_Bremen_20090513_040.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/1920px-Rhododendronpark_Bremen_20090513_040.JPG---
 
 ## Overview
 

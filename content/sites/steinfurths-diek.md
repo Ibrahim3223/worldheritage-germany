@@ -4,13 +4,13 @@ site_name: "Steinfurths Diek"
 date: 2026-01-26
 draft: false
 description: "lake in Billstedt, Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1272996"
 latitude: 53.53555556
 longitude: 10.15027778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/400px-Steinfurths_Diek_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/800px-Steinfurths_Diek_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/1200px-Steinfurths_Diek_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/1920px-Steinfurths_Diek_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/1920px-Steinfurths_Diek_1.jpg---
 
 ## Overview
 

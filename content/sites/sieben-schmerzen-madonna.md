@@ -4,13 +4,13 @@ site_name: "Sieben-Schmerzen-Madonna"
 date: 2026-01-26
 draft: false
 description: "Statue aus Sandstein in Ostbevern in Nordrhein-Westfalen"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q15128494"
 latitude: 52.030145
 longitude: 7.904019
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kloster_Rengering1.JPG/400px-Kloster_Rengering1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kloster_Rengering1.JPG/800px-Kloster_Rengering1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kloster_Rengering1.JPG/1200px-Kloster_Rengering1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kloster_Rengering1.JPG/1920px-Kloster_Rengering1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kloster_Rengering1.JPG/1920px-Kloster_Rengering1.JPG---
 
 ## Overview
 

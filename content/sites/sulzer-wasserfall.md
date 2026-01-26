@@ -4,13 +4,13 @@ site_name: "Sulzer Wasserfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q2365118"
 latitude: 47.6746
 longitude: 13.0147
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Almbachklamm_8_Wasserfall_1.jpg/400px-Almbachklamm_8_Wasserfall_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Almbachklamm_8_Wasserfall_1.jpg/800px-Almbachklamm_8_Wasserfall_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Almbachklamm_8_Wasserfall_1.jpg/1200px-Almbachklamm_8_Wasserfall_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Almbachklamm_8_Wasserfall_1.jpg/1920px-Almbachklamm_8_Wasserfall_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Almbachklamm_8_Wasserfall_1.jpg/1920px-Almbachklamm_8_Wasserfall_1.jpg---
 
 ## Overview
 

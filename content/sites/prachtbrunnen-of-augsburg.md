@@ -4,19 +4,18 @@ site_name: "Prachtbrunnen of Augsburg"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q760556"
 latitude: 48.367069816
 longitude: 10.898652914
 images:
-  []
----
+  []---
 
 ## Overview
 

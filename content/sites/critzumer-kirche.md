@@ -4,13 +4,13 @@ site_name: "Critzumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q348395"
 latitude: 53.2899
 longitude: 7.35806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/400px-Critzum_kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/800px-Critzum_kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/1200px-Critzum_kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/1920px-Critzum_kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/1920px-Critzum_kirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church of Our Lady"
 date: 2026-01-26
 draft: false
 description: "Lutheran church in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q157229"
 latitude: 51.051944444
 longitude: 13.741666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/400px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/800px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/1200px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/1920px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/1920px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg---
 
 ## Overview
 

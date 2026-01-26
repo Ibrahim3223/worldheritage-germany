@@ -4,13 +4,13 @@ site_name: "Archabbey of St. Ottilien Mission Museum"
 date: 2026-01-26
 draft: false
 description: "museum in St. Ottilien near Eresing, Bavaria, Germany"
-region: "Eresing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eresing"
+  - "Bavaria"
 wikidata_id: "Q1939100"
 latitude: 48.094608333
 longitude: 11.043694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Missions-Museum-St-Ottilien-b.JPG/400px-Missions-Museum-St-Ottilien-b.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Missions-Museum-St-Ottilien-b.JPG/800px-Missions-Museum-St-Ottilien-b.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Missions-Museum-St-Ottilien-b.JPG/1200px-Missions-Museum-St-Ottilien-b.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Missions-Museum-St-Ottilien-b.JPG/1920px-Missions-Museum-St-Ottilien-b.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Missions-Museum-St-Ottilien-b.JPG/1920px-Missions-Museum-St-Ottilien-b.JPG---
 
 ## Overview
 

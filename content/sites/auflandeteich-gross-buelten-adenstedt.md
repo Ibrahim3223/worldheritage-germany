@@ -4,13 +4,13 @@ site_name: "Auflandeteich Groß Bülten-Adenstedt"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Ilsede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Ilsede"
+  - "Lower Saxony"
 wikidata_id: "Q759814"
 latitude: 52.25387
 longitude: 10.18295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/400px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/800px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/1200px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/1920px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/1920px-Rauhreif_am_Auflandeteich_-_panoramio.jpg---
 
 ## Overview
 

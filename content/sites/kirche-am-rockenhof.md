@@ -4,13 +4,13 @@ site_name: "Kirche am Rockenhof"
 date: 2026-01-26
 draft: false
 description: "church building in Volksdorf, Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1742778"
 latitude: 53.65083333
 longitude: 10.16472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/400px-Rock_ansicht_von_süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/800px-Rock_ansicht_von_süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1200px-Rock_ansicht_von_süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1920px-Rock_ansicht_von_süden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1920px-Rock_ansicht_von_süden.jpg---
 
 ## Overview
 

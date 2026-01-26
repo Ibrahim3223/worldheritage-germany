@@ -4,13 +4,13 @@ site_name: "Ehrenhain"
 date: 2026-01-26
 draft: false
 description: "German memorial"
-region: "Bad Schwartau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Bad Schwartau"
+  - "Lower Saxony"
 wikidata_id: "Q1300138"
 latitude: 53.9287
 longitude: 10.7056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/400px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/800px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/1200px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/1920px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/1920px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG---
 
 ## Overview
 

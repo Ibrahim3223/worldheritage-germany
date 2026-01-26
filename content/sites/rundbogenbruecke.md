@@ -4,13 +4,13 @@ site_name: "Rundbogenbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403752"
 latitude: 51.251883
 longitude: 13.987863
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/400px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/800px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/1200px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/1920px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/1920px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg---
 
 ## Overview
 

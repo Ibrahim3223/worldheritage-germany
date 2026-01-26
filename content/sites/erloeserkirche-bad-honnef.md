@@ -4,13 +4,13 @@ site_name: "Erlöserkirche (Bad Honnef)"
 date: 2026-01-26
 draft: false
 description: "church in Bad Honnef, Germany"
-region: "Bad Honnef"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Honnef"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1355707"
 latitude: 50.64597
 longitude: 7.222099
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/400px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/800px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/1200px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/1920px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/1920px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Town hall in Krakow am See"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Krakow am See"
-region: "Krakow am See"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Krakow am See"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q117184896"
 latitude: 53.652542
 longitude: 12.269695
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/400px-Markt_(Krakow_am_See)_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/800px-Markt_(Krakow_am_See)_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/1200px-Markt_(Krakow_am_See)_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/1920px-Markt_(Krakow_am_See)_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/1920px-Markt_(Krakow_am_See)_Rathaus.jpg---
 
 ## Overview
 

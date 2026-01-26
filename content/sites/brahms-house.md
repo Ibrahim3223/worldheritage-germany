@@ -4,13 +4,13 @@ site_name: "Brahms House"
 date: 2026-01-26
 draft: false
 description: "museum over Johannes Brahms in Baden-Baden"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q28736347"
 latitude: 48.744497
 longitude: 8.261013
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/400px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/800px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1920px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1920px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg---
 
 ## Overview
 

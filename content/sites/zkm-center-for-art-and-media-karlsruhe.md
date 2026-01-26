@@ -4,13 +4,13 @@ site_name: "ZKM Center for Art and Media Karlsruhe"
 date: 2026-01-26
 draft: false
 description: "cultural institution in Karlsruhe, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q191228"
 latitude: 49.001388888
 longitude: 8.383611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/400px-ZKM_Kubus_.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/800px-ZKM_Kubus_.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/1200px-ZKM_Kubus_.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/1920px-ZKM_Kubus_.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/1920px-ZKM_Kubus_.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Pelzfach-Museum der Reichsmessestadt Leipzig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q28378907"
 latitude: 51.3396
 longitude: 12.369782
 images:
-  []
----
+  []---
 
 ## Overview
 

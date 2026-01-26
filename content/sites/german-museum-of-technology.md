@@ -4,13 +4,13 @@ site_name: "German Museum of Technology"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q706530"
 latitude: 52.498611111
 longitude: 13.3775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/400px-Deutsches_Technikmuseum_Berlin-49410.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/800px-Deutsches_Technikmuseum_Berlin-49410.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1200px-Deutsches_Technikmuseum_Berlin-49410.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1920px-Deutsches_Technikmuseum_Berlin-49410.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1920px-Deutsches_Technikmuseum_Berlin-49410.jpg---
 
 ## Overview
 

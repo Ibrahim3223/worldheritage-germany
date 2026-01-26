@@ -4,13 +4,13 @@ site_name: "Wittdün lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Wittdün auf Amrum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Wittdün auf Amrum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1739921"
 latitude: 54.62511111
 longitude: 8.39091667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtfeuer_Wittdün_0448.jpg/400px-Leuchtfeuer_Wittdün_0448.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtfeuer_Wittdün_0448.jpg/800px-Leuchtfeuer_Wittdün_0448.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtfeuer_Wittdün_0448.jpg/1200px-Leuchtfeuer_Wittdün_0448.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtfeuer_Wittdün_0448.jpg/1920px-Leuchtfeuer_Wittdün_0448.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtfeuer_Wittdün_0448.jpg/1920px-Leuchtfeuer_Wittdün_0448.jpg---
 
 ## Overview
 

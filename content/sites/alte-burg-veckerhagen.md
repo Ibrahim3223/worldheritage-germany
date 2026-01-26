@@ -4,13 +4,13 @@ site_name: "Alte Burg Veckerhagen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Reinhardshagen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Reinhardshagen"
+  - "Hesse"
 wikidata_id: "Q435477"
 latitude: 51.4932
 longitude: 9.6063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veckerhagen_Schloss.JPG/400px-Veckerhagen_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veckerhagen_Schloss.JPG/800px-Veckerhagen_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veckerhagen_Schloss.JPG/1200px-Veckerhagen_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veckerhagen_Schloss.JPG/1920px-Veckerhagen_Schloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veckerhagen_Schloss.JPG/1920px-Veckerhagen_Schloss.JPG---
 
 ## Overview
 

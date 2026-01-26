@@ -4,13 +4,13 @@ site_name: "Hauptsynagoge"
 date: 2026-01-26
 draft: false
 description: "in Frankfurt"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q195207"
 latitude: 50.1136
 longitude: 8.68778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Frankfurt_Hauptsynagoge_1885.jpg/400px-Frankfurt_Hauptsynagoge_1885.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Frankfurt_Hauptsynagoge_1885.jpg/800px-Frankfurt_Hauptsynagoge_1885.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Frankfurt_Hauptsynagoge_1885.jpg/1200px-Frankfurt_Hauptsynagoge_1885.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Frankfurt_Hauptsynagoge_1885.jpg/1920px-Frankfurt_Hauptsynagoge_1885.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Frankfurt_Hauptsynagoge_1885.jpg/1920px-Frankfurt_Hauptsynagoge_1885.jpg---
 
 ## Overview
 

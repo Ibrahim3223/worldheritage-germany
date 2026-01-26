@@ -4,13 +4,13 @@ site_name: "Territorial-Museum in Babenhausen"
 date: 2026-01-26
 draft: false
 description: "Museum in Germany"
-region: "Babenhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Babenhausen"
+  - "Bavaria"
 wikidata_id: "Q23787268"
 latitude: 49.961770359
 longitude: 8.950714069
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/400px-Amtsgasse32.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/800px-Amtsgasse32.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/1200px-Amtsgasse32.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/1920px-Amtsgasse32.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/1920px-Amtsgasse32.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Barniner See"
 date: 2026-01-26
 draft: false
 description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
-region: "Ludwigslust-Parchim District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ludwigslust-Parchim District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q187105"
 latitude: 53.608333333
 longitude: 11.705833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/400px-Barnin_Barniner_See_2009-04-16_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/800px-Barnin_Barniner_See_2009-04-16_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/1200px-Barnin_Barniner_See_2009-04-16_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/1920px-Barnin_Barniner_See_2009-04-16_004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/1920px-Barnin_Barniner_See_2009-04-16_004.jpg---
 
 ## Overview
 

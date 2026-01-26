@@ -4,13 +4,13 @@ site_name: "Leonhardskirche"
 date: 2026-01-26
 draft: false
 description: "church in Stuttgart"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q1819339"
 latitude: 48.7734
 longitude: 9.18054
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stuttgart_Leonhardskirche.JPG/400px-Stuttgart_Leonhardskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stuttgart_Leonhardskirche.JPG/800px-Stuttgart_Leonhardskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stuttgart_Leonhardskirche.JPG/1200px-Stuttgart_Leonhardskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stuttgart_Leonhardskirche.JPG/1920px-Stuttgart_Leonhardskirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stuttgart_Leonhardskirche.JPG/1920px-Stuttgart_Leonhardskirche.JPG---
 
 ## Overview
 

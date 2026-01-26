@@ -4,13 +4,13 @@ site_name: "Ostermann-Arena"
 date: 2026-01-26
 draft: false
 description: "indoor sporting arena in Leverkusen, Germany"
-region: "Leverkusen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Leverkusen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q871510"
 latitude: 51.039463
 longitude: 7.004058
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/400px-SMIDT-Arena_Feb2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/800px-SMIDT-Arena_Feb2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/1200px-SMIDT-Arena_Feb2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/1920px-SMIDT-Arena_Feb2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/1920px-SMIDT-Arena_Feb2012.jpg---
 
 ## Overview
 

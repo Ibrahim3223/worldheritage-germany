@@ -4,13 +4,13 @@ site_name: "Haus Empte (Kirchspiel)"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q15814492"
 latitude: 51.87515
 longitude: 7.28541
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/400px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/800px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/1200px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/1920px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/1920px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg---
 
 ## Overview
 

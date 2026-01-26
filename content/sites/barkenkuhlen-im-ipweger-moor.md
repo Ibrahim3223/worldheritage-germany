@@ -4,13 +4,13 @@ site_name: "Barkenkuhlen im Ipweger Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Rastede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rastede"
+  - "Lower Saxony"
 wikidata_id: "Q808250"
 latitude: 53.2125
 longitude: 8.30611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barkenkuhlen_im_Ipweger_Moor_-_01.JPG/400px-Barkenkuhlen_im_Ipweger_Moor_-_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barkenkuhlen_im_Ipweger_Moor_-_01.JPG/800px-Barkenkuhlen_im_Ipweger_Moor_-_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barkenkuhlen_im_Ipweger_Moor_-_01.JPG/1200px-Barkenkuhlen_im_Ipweger_Moor_-_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barkenkuhlen_im_Ipweger_Moor_-_01.JPG/1920px-Barkenkuhlen_im_Ipweger_Moor_-_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barkenkuhlen_im_Ipweger_Moor_-_01.JPG/1920px-Barkenkuhlen_im_Ipweger_Moor_-_01.JPG---
 
 ## Overview
 

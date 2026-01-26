@@ -4,19 +4,18 @@ site_name: "Colombstein"
 date: 2026-01-26
 draft: false
 description: "monument in Zwickau, Germany"
-region: "Zwickau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Zwickau"
+  - "Saxony"
 wikidata_id: "Q1110465"
 latitude: 50.7238
 longitude: 12.551371
 images:
-  []
----
+  []---
 
 ## Overview
 

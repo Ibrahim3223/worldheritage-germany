@@ -4,13 +4,13 @@ site_name: "Deutsches Märchen- und Wesersagenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany, Bad Oeynhausen"
-region: "Bad Oeynhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Oeynhausen"
+  - "Lower Saxony"
 wikidata_id: "Q1205854"
 latitude: 52.2036
 longitude: 8.79583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/400px-BadO-Denkmal-072-2012-06-21-0992.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/800px-BadO-Denkmal-072-2012-06-21-0992.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/1200px-BadO-Denkmal-072-2012-06-21-0992.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/1920px-BadO-Denkmal-072-2012-06-21-0992.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/1920px-BadO-Denkmal-072-2012-06-21-0992.jpg---
 
 ## Overview
 

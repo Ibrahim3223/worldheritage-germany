@@ -4,13 +4,13 @@ site_name: "Gößweinstein Castle"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-129-10 (0) in Gößweinstein, Bavaria"
-region: "Gößweinstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gößweinstein"
+  - "Bavaria"
 wikidata_id: "Q1012138"
 latitude: 49.770152549
 longitude: 11.334333216
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/400px-Burg_Gößweinstein,_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/800px-Burg_Gößweinstein,_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/1200px-Burg_Gößweinstein,_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/1920px-Burg_Gößweinstein,_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/1920px-Burg_Gößweinstein,_2.jpg---
 
 ## Overview
 

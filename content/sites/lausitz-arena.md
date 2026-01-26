@@ -4,13 +4,13 @@ site_name: "Lausitz-Arena"
 date: 2026-01-26
 draft: false
 description: "Sportmehrzweckhalle im Sportzentrum Cottbus, Brandenburg, Deutschland"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q15965073"
 latitude: 51.73968
 longitude: 14.34214
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/400px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/800px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/1200px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/1920px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/1920px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png---
 
 ## Overview
 

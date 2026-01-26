@@ -4,13 +4,13 @@ site_name: "Museum Altes Rathaus Leingarten - Altes Rathaus Schluchtern"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Leingarten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leingarten"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631400"
 latitude: 49.148686
 longitude: 9.102519
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Leingarten-schl-rathaus.jpg/400px-Leingarten-schl-rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Leingarten-schl-rathaus.jpg/800px-Leingarten-schl-rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Leingarten-schl-rathaus.jpg/1200px-Leingarten-schl-rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Leingarten-schl-rathaus.jpg/1920px-Leingarten-schl-rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Leingarten-schl-rathaus.jpg/1920px-Leingarten-schl-rathaus.jpg---
 
 ## Overview
 

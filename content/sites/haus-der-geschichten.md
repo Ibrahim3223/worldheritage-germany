@@ -4,19 +4,18 @@ site_name: "Haus der Geschichten"
 date: 2026-01-26
 draft: false
 description: "deutsche Organisation"
-region: "Marienheide"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Marienheide"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1590765"
 latitude: 51.067
 longitude: 7.579
 images:
-  []
----
+  []---
 
 ## Overview
 

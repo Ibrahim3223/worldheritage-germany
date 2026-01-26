@@ -4,13 +4,13 @@ site_name: "Baab and Schorn tomb"
 date: 2026-01-26
 draft: false
 description: "tomb of the merchant families Baab and Schorn in Dießen am Ammersee, Germany"
-region: "Dießen am Ammersee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Dießen am Ammersee"
+  - "Bavaria"
 wikidata_id: "Q98744395"
 latitude: 47.944232864
 longitude: 11.0880147
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/400px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/800px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/1200px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/1920px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/1920px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG---
 
 ## Overview
 

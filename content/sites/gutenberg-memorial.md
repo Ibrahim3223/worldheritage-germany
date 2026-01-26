@@ -4,13 +4,13 @@ site_name: "Gutenberg memorial"
 date: 2026-01-26
 draft: false
 description: "Memorial in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1557143"
 latitude: 49.9988
 longitude: 8.27162
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/400px-Gutenberg_monument.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/800px-Gutenberg_monument.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/1200px-Gutenberg_monument.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/1920px-Gutenberg_monument.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/1920px-Gutenberg_monument.jpg---
 
 ## Overview
 

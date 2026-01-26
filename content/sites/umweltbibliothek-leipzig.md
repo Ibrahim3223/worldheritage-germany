@@ -4,13 +4,13 @@ site_name: "Umweltbibliothek Leipzig"
 date: 2026-01-26
 draft: false
 description: "library in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1714417"
 latitude: 51.311
 longitude: 12.3762
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/400px-Leipzig_Haus_der_Demokratie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/800px-Leipzig_Haus_der_Demokratie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/1200px-Leipzig_Haus_der_Demokratie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/1920px-Leipzig_Haus_der_Demokratie.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/1920px-Leipzig_Haus_der_Demokratie.jpg---
 
 ## Overview
 

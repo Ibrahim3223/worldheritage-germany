@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Nietleben"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1256631"
 latitude: 51.4837
 longitude: 11.9014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/400px-Kirche_Nietleben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/800px-Kirche_Nietleben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/1200px-Kirche_Nietleben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/1920px-Kirche_Nietleben.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/1920px-Kirche_Nietleben.jpg---
 
 ## Overview
 

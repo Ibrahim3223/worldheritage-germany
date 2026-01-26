@@ -4,19 +4,18 @@ site_name: "Dorfmuseum Oedelsheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wesertal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wesertal"
+  - "Hesse"
 wikidata_id: "Q76634129"
 latitude: 51.589398
 longitude: 9.596277
 images:
-  []
----
+  []---
 
 ## Overview
 

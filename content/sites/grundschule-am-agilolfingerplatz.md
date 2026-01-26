@@ -4,13 +4,13 @@ site_name: "Grundschule am Agilolfingerplatz"
 date: 2026-01-26
 draft: false
 description: "primary school and architectural structure in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1550678"
 latitude: 48.1151
 longitude: 11.5657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Agilolfingerplatz_1_Muenchen-4.jpg/400px-Agilolfingerplatz_1_Muenchen-4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Agilolfingerplatz_1_Muenchen-4.jpg/800px-Agilolfingerplatz_1_Muenchen-4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Agilolfingerplatz_1_Muenchen-4.jpg/1200px-Agilolfingerplatz_1_Muenchen-4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Agilolfingerplatz_1_Muenchen-4.jpg/1920px-Agilolfingerplatz_1_Muenchen-4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Agilolfingerplatz_1_Muenchen-4.jpg/1920px-Agilolfingerplatz_1_Muenchen-4.jpg---
 
 ## Overview
 

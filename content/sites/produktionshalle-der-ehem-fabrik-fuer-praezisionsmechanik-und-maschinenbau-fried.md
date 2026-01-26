@@ -4,13 +4,13 @@ site_name: "Produktionshalle der ehem. Fabrik für Präzisionsmechanik und Masch
 date: 2026-01-26
 draft: false
 description: "1958–60 von dem Architekten Walter Henn (Architekt) als zweigeschossiger Flachbau innerhalb des Werksgeländes errichtet; Hallenkomplex in der Größe vo"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q41184250"
 latitude: 48.1023
 longitude: 11.5393
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/400px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/800px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/1200px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/1920px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/1920px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg---
 
 ## Overview
 

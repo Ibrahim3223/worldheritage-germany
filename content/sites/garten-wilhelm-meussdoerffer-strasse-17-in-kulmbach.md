@@ -4,19 +4,18 @@ site_name: "Garten Wilhelm-Meußdoerffer-Straße 17 in Kulmbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-77-128-196 (1) in Kulmbach, Bavaria"
-region: "Kulmbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Kulmbach"
+  - "Bavaria"
 wikidata_id: "Q98589405"
 latitude: 50.100435262
 longitude: 11.445882599
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St.Luke (Graal-Müritz)"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Westpomerania"
-region: "Graal-Müritz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Graal-Müritz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1349016"
 latitude: 54.2526
 longitude: 12.2449
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/400px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/800px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/1200px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/1920px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/1920px-Graal-Müritz_Lukaskirche_Juli_2012.JPG---
 
 ## Overview
 

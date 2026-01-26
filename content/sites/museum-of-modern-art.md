@@ -4,13 +4,13 @@ site_name: "Museum of Modern Art"
 date: 2026-01-26
 draft: false
 description: "museum in Freiburg im Breisgau, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954668"
 latitude: 47.99277778
 longitude: 7.8525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/400px-Museum_für_neue_Kunst_Freiburg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/800px-Museum_für_neue_Kunst_Freiburg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/1200px-Museum_für_neue_Kunst_Freiburg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/1920px-Museum_für_neue_Kunst_Freiburg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/1920px-Museum_für_neue_Kunst_Freiburg_1.jpg---
 
 ## Overview
 

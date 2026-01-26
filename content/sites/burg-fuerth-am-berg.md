@@ -4,13 +4,13 @@ site_name: "Burg Fürth am Berg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Neustadt bei Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neustadt bei Coburg"
+  - "Bavaria"
 wikidata_id: "Q1011900"
 latitude: 50.2791
 longitude: 11.1509
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Burg-Fürth-am-Berg2.jpg/400px-Burg-Fürth-am-Berg2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Burg-Fürth-am-Berg2.jpg/800px-Burg-Fürth-am-Berg2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Burg-Fürth-am-Berg2.jpg/1200px-Burg-Fürth-am-Berg2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Burg-Fürth-am-Berg2.jpg/1920px-Burg-Fürth-am-Berg2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Burg-Fürth-am-Berg2.jpg/1920px-Burg-Fürth-am-Berg2.jpg---
 
 ## Overview
 

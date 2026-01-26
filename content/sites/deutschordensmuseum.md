@@ -4,13 +4,13 @@ site_name: "Deutschordensmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Mergentheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Mergentheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q18620409"
 latitude: 49.49124
 longitude: 9.77665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/400px-Deutschordensmuseum_06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/800px-Deutschordensmuseum_06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/1200px-Deutschordensmuseum_06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/1920px-Deutschordensmuseum_06.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/1920px-Deutschordensmuseum_06.JPG---
 
 ## Overview
 

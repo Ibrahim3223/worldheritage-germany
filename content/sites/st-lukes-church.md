@@ -4,13 +4,13 @@ site_name: "St. Luke's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1615061"
 latitude: 51.0317
 longitude: 13.7342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dresden_Lukaskirche_2.jpg/400px-Dresden_Lukaskirche_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dresden_Lukaskirche_2.jpg/800px-Dresden_Lukaskirche_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dresden_Lukaskirche_2.jpg/1200px-Dresden_Lukaskirche_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dresden_Lukaskirche_2.jpg/1920px-Dresden_Lukaskirche_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dresden_Lukaskirche_2.jpg/1920px-Dresden_Lukaskirche_2.jpg---
 
 ## Overview
 

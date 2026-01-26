@@ -4,13 +4,13 @@ site_name: "Samland museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pinneberg"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pinneberg"
+  - "Hamburg"
 wikidata_id: "Q2217216"
 latitude: 53.6595
 longitude: 9.80313
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/400px-Pinneberg_Fahltskamp_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/800px-Pinneberg_Fahltskamp_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/1200px-Pinneberg_Fahltskamp_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/1920px-Pinneberg_Fahltskamp_30.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/1920px-Pinneberg_Fahltskamp_30.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mühlenkanalbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Einbeck, Germany"
-region: "Einbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"
 categories:
   - "Aqueduct"
 regions:
-  - "Einbeck"
+  - "Lower Saxony"
 wikidata_id: "Q111803615"
 latitude: 51.8142595
 longitude: 9.8645318
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/400px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/800px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/1200px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/1920px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/1920px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gut Rosenkrantz Gate House"
 date: 2026-01-26
 draft: false
 description: "gate house in Schinkel, Germany"
-region: "Schinkel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Schinkel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58398347"
 latitude: 54.34457
 longitude: 9.94677
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/400px-Schinkel_Gut_Rosenkranz_0542.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/800px-Schinkel_Gut_Rosenkranz_0542.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/1200px-Schinkel_Gut_Rosenkranz_0542.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/1920px-Schinkel_Gut_Rosenkranz_0542.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/1920px-Schinkel_Gut_Rosenkranz_0542.jpg---
 
 ## Overview
 

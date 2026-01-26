@@ -4,13 +4,13 @@ site_name: "gatehouse"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-76-113-32 (2) in Allersberg, Bavaria"
-region: "Q588957"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Q588957"
+  - "Bavaria"
 wikidata_id: "Q98141716"
 latitude: 49.251458366
 longitude: 11.236993805
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/400px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/800px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/1200px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/1920px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/1920px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg---
 
 ## Overview
 

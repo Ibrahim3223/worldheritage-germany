@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg/400px-Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg/800px-Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg/1200px-Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img02_Arms_Museum.jpg---
 
 ## Overview
 

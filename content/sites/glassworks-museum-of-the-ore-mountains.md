@@ -4,13 +4,13 @@ site_name: "Glassworks Museum of the Ore Mountains"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuhausen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuhausen"
+  - "Saxony"
 wikidata_id: "Q1529609"
 latitude: 50.6775
 longitude: 13.4622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/400px-Glashuettenmuseum_001_Museum_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/800px-Glashuettenmuseum_001_Museum_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1200px-Glashuettenmuseum_001_Museum_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1920px-Glashuettenmuseum_001_Museum_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1920px-Glashuettenmuseum_001_Museum_2009.jpg---
 
 ## Overview
 

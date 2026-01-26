@@ -4,13 +4,13 @@ site_name: "Herrenhaus Büttelkow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Mecklenburg-Vorpommern"
-region: "Biendorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Biendorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q474583"
 latitude: 54.0893
 longitude: 11.7118
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/400px-Herrenhausbüttelkowwiki.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/800px-Herrenhausbüttelkowwiki.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/1200px-Herrenhausbüttelkowwiki.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/1920px-Herrenhausbüttelkowwiki.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/1920px-Herrenhausbüttelkowwiki.JPG---
 
 ## Overview
 

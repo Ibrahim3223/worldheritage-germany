@@ -4,13 +4,13 @@ site_name: "Spiegler’sches Haus"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2309930"
 latitude: 51.0904
 longitude: 13.7324
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/400px-Spieglersches_Haus_Dresden_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/800px-Spieglersches_Haus_Dresden_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/1200px-Spieglersches_Haus_Dresden_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/1920px-Spieglersches_Haus_Dresden_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/1920px-Spieglersches_Haus_Dresden_2013.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Böttcher Moor"
 date: 2026-01-26
 draft: false
 description: "bog in Germany"
-region: "Weyhe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Weyhe"
+  - "Lower Saxony"
 wikidata_id: "Q1020146"
 latitude: 52.9725
 longitude: 8.82167
 images:
-  []
----
+  []---
 
 ## Overview
 

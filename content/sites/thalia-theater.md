@@ -4,13 +4,13 @@ site_name: "Thalia Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q456499"
 latitude: 53.55197222
 longitude: 9.99827778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/400px-Hh-thalia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/800px-Hh-thalia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/1200px-Hh-thalia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/1920px-Hh-thalia.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/1920px-Hh-thalia.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Die Säule"
 date: 2026-01-26
 draft: false
 description: "Die Säule is a theatre in Duisburg, North Rhine-Westphalia, Germany."
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q1216625"
 latitude: 51.4306
 longitude: 6.76056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/400px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/800px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1200px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1920px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1920px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg---
 
 ## Overview
 

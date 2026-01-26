@@ -4,13 +4,13 @@ site_name: "Burg Neurandsberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rattenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rattenberg"
+  - "Bavaria"
 wikidata_id: "Q1013298"
 latitude: 49.1011
 longitude: 12.7589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Neurandsberg1.jpg/400px-Burg_Neurandsberg1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Neurandsberg1.jpg/800px-Burg_Neurandsberg1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Neurandsberg1.jpg/1200px-Burg_Neurandsberg1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Neurandsberg1.jpg/1920px-Burg_Neurandsberg1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Neurandsberg1.jpg/1920px-Burg_Neurandsberg1.jpg---
 
 ## Overview
 

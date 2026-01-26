@@ -4,13 +4,13 @@ site_name: "St. Antonius (Niederwelschenbach)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Niederwelschenbach"
-region: "Welschenbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Welschenbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1773844"
 latitude: 50.3589
 longitude: 7.07173
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/400px-Niederwelschenbach_St.AntoniusEremit144.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/800px-Niederwelschenbach_St.AntoniusEremit144.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/1200px-Niederwelschenbach_St.AntoniusEremit144.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/1920px-Niederwelschenbach_St.AntoniusEremit144.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/1920px-Niederwelschenbach_St.AntoniusEremit144.JPG---
 
 ## Overview
 

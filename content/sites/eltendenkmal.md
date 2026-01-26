@@ -4,13 +4,13 @@ site_name: "Eltendenkmal"
 date: 2026-01-26
 draft: false
 description: "monument near Hannover, Germany"
-region: "Wennigsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Wennigsen"
+  - "Lower Saxony"
 wikidata_id: "Q1334029"
 latitude: 52.2506
 longitude: 9.53333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Elten-Denkmal_im_Deister.jpg/400px-Elten-Denkmal_im_Deister.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Elten-Denkmal_im_Deister.jpg/800px-Elten-Denkmal_im_Deister.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Elten-Denkmal_im_Deister.jpg/1200px-Elten-Denkmal_im_Deister.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Elten-Denkmal_im_Deister.jpg/1920px-Elten-Denkmal_im_Deister.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Elten-Denkmal_im_Deister.jpg/1920px-Elten-Denkmal_im_Deister.jpg---
 
 ## Overview
 

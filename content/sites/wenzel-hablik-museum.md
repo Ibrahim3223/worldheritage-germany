@@ -4,13 +4,13 @@ site_name: "Wenzel-Hablik-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Itzehoe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Itzehoe"
+  - "Lower Saxony"
 wikidata_id: "Q2559714"
 latitude: 53.9196
 longitude: 9.51599
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/400px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/800px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/1200px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/1920px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/1920px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg---
 
 ## Overview
 

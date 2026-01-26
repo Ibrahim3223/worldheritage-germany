@@ -4,13 +4,13 @@ site_name: "Marienkapelle Burtscheid"
 date: 2026-01-26
 draft: false
 description: "church building in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1897758"
 latitude: 50.7597
 longitude: 6.09232
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/400px-Marienkapelle_Aachen-Burtscheid.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/800px-Marienkapelle_Aachen-Burtscheid.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/1200px-Marienkapelle_Aachen-Burtscheid.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/1920px-Marienkapelle_Aachen-Burtscheid.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/1920px-Marienkapelle_Aachen-Burtscheid.jpg---
 
 ## Overview
 

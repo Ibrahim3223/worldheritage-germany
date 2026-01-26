@@ -4,13 +4,13 @@ site_name: "Neubrandenburg Regional Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mecklenburg-Vorpommern"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mecklenburg-Vorpommern"
+  - "Brandenburg"
 wikidata_id: "Q2138427"
 latitude: 53.5569
 longitude: 13.255
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NB-Treptower-Tor-11-IV-2007-060.jpg/400px-NB-Treptower-Tor-11-IV-2007-060.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NB-Treptower-Tor-11-IV-2007-060.jpg/800px-NB-Treptower-Tor-11-IV-2007-060.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NB-Treptower-Tor-11-IV-2007-060.jpg/1200px-NB-Treptower-Tor-11-IV-2007-060.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NB-Treptower-Tor-11-IV-2007-060.jpg/1920px-NB-Treptower-Tor-11-IV-2007-060.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NB-Treptower-Tor-11-IV-2007-060.jpg/1920px-NB-Treptower-Tor-11-IV-2007-060.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Immenhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Immenhausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Immenhausen"
+  - "Hesse"
 wikidata_id: "Q1012557"
 latitude: 51.4276
 longitude: 9.47846
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Immenhausen_(04).jpg/400px-Burg_Immenhausen_(04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Immenhausen_(04).jpg/800px-Burg_Immenhausen_(04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Immenhausen_(04).jpg/1200px-Burg_Immenhausen_(04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Immenhausen_(04).jpg/1920px-Burg_Immenhausen_(04).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Immenhausen_(04).jpg/1920px-Burg_Immenhausen_(04).jpg---
 
 ## Overview
 

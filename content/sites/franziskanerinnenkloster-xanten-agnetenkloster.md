@@ -4,19 +4,18 @@ site_name: "Franziskanerinnenkloster Xanten (Agnetenkloster)"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Xanten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Xanten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q394845"
 latitude: 51.6614
 longitude: 6.45639
 images:
-  []
----
+  []---
 
 ## Overview
 

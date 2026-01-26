@@ -4,13 +4,13 @@ site_name: "Museum des Kapitalismus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q27975079"
 latitude: 52.488444444
 longitude: 13.442944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Museum_des_Kapitalismus_20_14_20_381000.jpeg/400px-Museum_des_Kapitalismus_20_14_20_381000.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Museum_des_Kapitalismus_20_14_20_381000.jpeg/800px-Museum_des_Kapitalismus_20_14_20_381000.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Museum_des_Kapitalismus_20_14_20_381000.jpeg/1200px-Museum_des_Kapitalismus_20_14_20_381000.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Museum_des_Kapitalismus_20_14_20_381000.jpeg/1920px-Museum_des_Kapitalismus_20_14_20_381000.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Museum_des_Kapitalismus_20_14_20_381000.jpeg/1920px-Museum_des_Kapitalismus_20_14_20_381000.jpeg---
 
 ## Overview
 

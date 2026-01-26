@@ -4,13 +4,13 @@ site_name: "Clevertor"
 date: 2026-01-26
 draft: false
 description: "former city gate in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q1100843"
 latitude: 52.3744
 longitude: 9.7289
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/400px-Clevertor_Karte_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/800px-Clevertor_Karte_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/1200px-Clevertor_Karte_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/1920px-Clevertor_Karte_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/1920px-Clevertor_Karte_Hannover.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Zoologischer Garten Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "former zoo in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q220238"
 latitude: 51.24194444
 longitude: 6.80527778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/400px-Zoologischer_Garten_Duesseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/800px-Zoologischer_Garten_Duesseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/1200px-Zoologischer_Garten_Duesseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/1920px-Zoologischer_Garten_Duesseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/1920px-Zoologischer_Garten_Duesseldorf.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Odilia"
 date: 2026-01-26
 draft: false
 description: "church building in Dormagen, Germany"
-region: "Dormagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dormagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2322159"
 latitude: 51.1036
 longitude: 6.71888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/400px-Gohr_St_Odilia.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/800px-Gohr_St_Odilia.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/1200px-Gohr_St_Odilia.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/1920px-Gohr_St_Odilia.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/1920px-Gohr_St_Odilia.JPG---
 
 ## Overview
 

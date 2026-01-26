@@ -4,13 +4,13 @@ site_name: "Synagoge Gelsenkirchen"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q1326669"
 latitude: 51.5102
 longitude: 7.09717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/400px-Neue_Synagoge_Gelsenkirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/800px-Neue_Synagoge_Gelsenkirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/1200px-Neue_Synagoge_Gelsenkirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/1920px-Neue_Synagoge_Gelsenkirchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/1920px-Neue_Synagoge_Gelsenkirchen.jpg---
 
 ## Overview
 

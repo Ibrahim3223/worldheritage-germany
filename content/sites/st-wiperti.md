@@ -4,13 +4,13 @@ site_name: "St. Wiperti"
 date: 2026-01-26
 draft: false
 description: "church building in Quedlinburg, Saxony-Anhalt, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q2323760"
 latitude: 51.785
 longitude: 11.1303
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiperti1.jpg/400px-Wiperti1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiperti1.jpg/800px-Wiperti1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiperti1.jpg/1200px-Wiperti1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiperti1.jpg/1920px-Wiperti1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiperti1.jpg/1920px-Wiperti1.jpg---
 
 ## Overview
 

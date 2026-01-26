@@ -4,13 +4,13 @@ site_name: "Schlosspark Theater"
 date: 2026-01-26
 draft: false
 description: "theatre and former cinema in Steglitz, Berlin, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q2244661"
 latitude: 52.4547
 longitude: 13.3181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/400px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/800px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/1200px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/1920px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/1920px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg---
 
 ## Overview
 

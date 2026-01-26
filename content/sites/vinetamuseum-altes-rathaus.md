@@ -4,13 +4,13 @@ site_name: "Vinetamuseum (Altes Rathaus)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Barth, Mecklenburg-Vorpommern, Germany"
-region: "Barth"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Barth"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q47897011"
 latitude: 54.36816
 longitude: 12.7251
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/400px-Barth-Museum-140904-032.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/800px-Barth-Museum-140904-032.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/1200px-Barth-Museum-140904-032.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/1920px-Barth-Museum-140904-032.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/1920px-Barth-Museum-140904-032.JPG---
 
 ## Overview
 

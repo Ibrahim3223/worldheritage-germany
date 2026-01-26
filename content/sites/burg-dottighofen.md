@@ -4,19 +4,18 @@ site_name: "Burg Dottighofen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Biengen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Biengen"
+  - "Baden-Württemberg"
 wikidata_id: "Q203213"
 latitude: 47.9325
 longitude: 7.69027778
 images:
-  []
----
+  []---
 
 ## Overview
 

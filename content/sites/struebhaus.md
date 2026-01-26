@@ -4,13 +4,13 @@ site_name: "Strübhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Veringenstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Veringenstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q25089288"
 latitude: 48.178551
 longitude: 9.213691
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/400px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/800px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/1200px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/1920px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/1920px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg---
 
 ## Overview
 

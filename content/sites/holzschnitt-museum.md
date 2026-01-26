@@ -4,13 +4,13 @@ site_name: "Holzschnitt-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mössingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mössingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q38063659"
 latitude: 48.415074
 longitude: 9.108769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/400px-Holzschnitt-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/800px-Holzschnitt-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/1200px-Holzschnitt-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/1920px-Holzschnitt-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/1920px-Holzschnitt-Museum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "German Mining Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q896952"
 latitude: 51.4892
 longitude: 7.21722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/400px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/800px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/1200px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/1920px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/1920px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg---
 
 ## Overview
 

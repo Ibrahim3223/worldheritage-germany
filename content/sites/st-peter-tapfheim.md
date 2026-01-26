@@ -4,13 +4,13 @@ site_name: "St. Peter (Tapfheim)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Tapfheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tapfheim"
+  - "Bavaria"
 wikidata_id: "Q1606035"
 latitude: 48.67123
 longitude: 10.678779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tapfheim_St._Peter_97.JPG/400px-Tapfheim_St._Peter_97.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tapfheim_St._Peter_97.JPG/800px-Tapfheim_St._Peter_97.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tapfheim_St._Peter_97.JPG/1200px-Tapfheim_St._Peter_97.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tapfheim_St._Peter_97.JPG/1920px-Tapfheim_St._Peter_97.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tapfheim_St._Peter_97.JPG/1920px-Tapfheim_St._Peter_97.JPG---
 
 ## Overview
 

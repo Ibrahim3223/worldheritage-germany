@@ -4,13 +4,13 @@ site_name: "Castle Keppenbach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Freiamt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Freiamt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012643"
 latitude: 48.1647
 longitude: 7.9168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/400px-Castle_Keppenbach_–_view_from_north.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/800px-Castle_Keppenbach_–_view_from_north.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/1200px-Castle_Keppenbach_–_view_from_north.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/1920px-Castle_Keppenbach_–_view_from_north.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/1920px-Castle_Keppenbach_–_view_from_north.jpg---
 
 ## Overview
 

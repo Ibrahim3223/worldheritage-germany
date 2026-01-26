@@ -4,19 +4,18 @@ site_name: "Horchheimer Torbefestigung"
 date: 2026-01-26
 draft: false
 description: "fortification in Koblenz, Germany"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1601225"
 latitude: 50.3522
 longitude: 7.60806
 images:
-  []
----
+  []---
 
 ## Overview
 

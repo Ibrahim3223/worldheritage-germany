@@ -4,13 +4,13 @@ site_name: "Wasmer-Palais"
 date: 2026-01-26
 draft: false
 description: "building in Glückstadt (Germany)"
-region: "Glückstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Glückstadt"
+  - "Lower Saxony"
 wikidata_id: "Q1771066"
 latitude: 53.7875
 longitude: 9.41745
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/400px-Wasmer-Palais.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/800px-Wasmer-Palais.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/1200px-Wasmer-Palais.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/1920px-Wasmer-Palais.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/1920px-Wasmer-Palais.JPG---
 
 ## Overview
 

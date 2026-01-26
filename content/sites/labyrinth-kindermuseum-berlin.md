@@ -4,13 +4,13 @@ site_name: "Labyrinth Kindermuseum Berlin"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q15824945"
 latitude: 52.556128
 longitude: 13.385998
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Labyrinth_Ausstellungshalle.jpg/400px-Labyrinth_Ausstellungshalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Labyrinth_Ausstellungshalle.jpg/800px-Labyrinth_Ausstellungshalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Labyrinth_Ausstellungshalle.jpg/1200px-Labyrinth_Ausstellungshalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Labyrinth_Ausstellungshalle.jpg/1920px-Labyrinth_Ausstellungshalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Labyrinth_Ausstellungshalle.jpg/1920px-Labyrinth_Ausstellungshalle.jpg---
 
 ## Overview
 

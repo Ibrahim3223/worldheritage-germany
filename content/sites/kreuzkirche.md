@@ -4,13 +4,13 @@ site_name: "Kreuzkirche"
 date: 2026-01-26
 draft: false
 description: "church in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q301607"
 latitude: 51.04872
 longitude: 13.73919
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/400px-Dresden_Kreuzkirche_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/800px-Dresden_Kreuzkirche_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/1200px-Dresden_Kreuzkirche_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/1920px-Dresden_Kreuzkirche_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/1920px-Dresden_Kreuzkirche_2008.jpg---
 
 ## Overview
 

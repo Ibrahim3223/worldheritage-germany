@@ -4,13 +4,13 @@ site_name: "Gedenkstätte für NS-Opfer in Neustadt"
 date: 2026-01-26
 draft: false
 description: "memorial in Germany"
-region: "Neustadt an der Weinstraße"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Neustadt an der Weinstraße"
+  - "Baden-Württemberg"
 wikidata_id: "Q15111366"
 latitude: 49.34206935
 longitude: 8.16676855
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/400px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/800px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/1200px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/1920px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/1920px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg---
 
 ## Overview
 

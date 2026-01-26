@@ -4,13 +4,13 @@ site_name: "Segenskirche (Berlin-Reinickendorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q2266083"
 latitude: 52.5702
 longitude: 13.3234
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Segenskirche_Südseite.JPG/400px-Segenskirche_Südseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Segenskirche_Südseite.JPG/800px-Segenskirche_Südseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Segenskirche_Südseite.JPG/1200px-Segenskirche_Südseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Segenskirche_Südseite.JPG/1920px-Segenskirche_Südseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Segenskirche_Südseite.JPG/1920px-Segenskirche_Südseite.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gutshaus Weisdin"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Weisdin, einem Ortsteil von Blumenholz (Mecklenburg-Vorpommern)"
-region: "Blumenholz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Blumenholz"
+  - "Brandenburg"
 wikidata_id: "Q17322042"
 latitude: 53.399518
 longitude: 13.109697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Weisdin_(Blumenholz),_das_Herrenhaus.jpg/400px-Weisdin_(Blumenholz),_das_Herrenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Weisdin_(Blumenholz),_das_Herrenhaus.jpg/800px-Weisdin_(Blumenholz),_das_Herrenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Weisdin_(Blumenholz),_das_Herrenhaus.jpg/1200px-Weisdin_(Blumenholz),_das_Herrenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Weisdin_(Blumenholz),_das_Herrenhaus.jpg/1920px-Weisdin_(Blumenholz),_das_Herrenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Weisdin_(Blumenholz),_das_Herrenhaus.jpg/1920px-Weisdin_(Blumenholz),_das_Herrenhaus.jpg---
 
 ## Overview
 

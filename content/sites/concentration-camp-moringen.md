@@ -4,13 +4,13 @@ site_name: "Concentration Camp Moringen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Moringen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Moringen"
+  - "Lower Saxony"
 wikidata_id: "Q1719323"
 latitude: 51.7024
 longitude: 9.87184
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/400px-Lange_Straße_53_Moringen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/800px-Lange_Straße_53_Moringen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/1200px-Lange_Straße_53_Moringen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/1920px-Lange_Straße_53_Moringen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/1920px-Lange_Straße_53_Moringen.jpg---
 
 ## Overview
 

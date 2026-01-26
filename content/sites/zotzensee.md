@@ -4,13 +4,13 @@ site_name: "Zotzensee"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q226992"
 latitude: 53.242413888
 longitude: 12.812633333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/400px-Zotzensee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/800px-Zotzensee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/1200px-Zotzensee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/1920px-Zotzensee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/1920px-Zotzensee.jpg---
 
 ## Overview
 

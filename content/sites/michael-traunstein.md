@@ -4,13 +4,13 @@ site_name: "Michael Traunstein"
 date: 2026-01-26
 draft: false
 description: "Erzbischofliches Studienseminar St"
-region: "Traunstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Traunstein"
+  - "Bavaria"
 wikidata_id: "Q1756261"
 latitude: 47.863611111
 longitude: 12.6335
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/400px-Studienseminar_St._Michael_Aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/800px-Studienseminar_St._Michael_Aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/1200px-Studienseminar_St._Michael_Aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/1920px-Studienseminar_St._Michael_Aussen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/1920px-Studienseminar_St._Michael_Aussen.jpg---
 
 ## Overview
 

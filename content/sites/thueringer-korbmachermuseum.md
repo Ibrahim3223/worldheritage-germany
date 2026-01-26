@@ -4,19 +4,18 @@ site_name: "Thüringer Korbmachermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Berka"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Berka"
+  - "Thuringia"
 wikidata_id: "Q20480899"
 latitude: 50.8591481
 longitude: 11.2445537
 images:
-  []
----
+  []---
 
 ## Overview
 

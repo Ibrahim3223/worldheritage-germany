@@ -4,13 +4,13 @@ site_name: "Church in Kagenow"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Kagenow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kagenow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742591"
 latitude: 53.9003
 longitude: 13.4135
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/400px-Kagenow_Kirche_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/800px-Kagenow_Kirche_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/1200px-Kagenow_Kirche_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/1920px-Kagenow_Kirche_Südseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/1920px-Kagenow_Kirche_Südseite.jpg---
 
 ## Overview
 

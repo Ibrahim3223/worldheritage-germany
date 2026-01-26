@@ -4,13 +4,13 @@ site_name: "Delphinbrunnen in Dresden, Germany"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1184660"
 latitude: 51.05307
 longitude: 13.74434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/400px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/800px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/1200px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/1920px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/1920px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg---
 
 ## Overview
 

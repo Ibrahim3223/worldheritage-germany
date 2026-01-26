@@ -4,13 +4,13 @@ site_name: "Mannheim Main Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Mannheim, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q428622"
 latitude: 49.4908
 longitude: 8.49196
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/400px-Hauptfriedhof_Mannheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/800px-Hauptfriedhof_Mannheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/1200px-Hauptfriedhof_Mannheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/1920px-Hauptfriedhof_Mannheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/1920px-Hauptfriedhof_Mannheim.JPG---
 
 ## Overview
 

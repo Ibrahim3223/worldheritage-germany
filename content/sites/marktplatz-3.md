@@ -4,13 +4,13 @@ site_name: "Marktplatz 3"
 date: 2026-01-26
 draft: false
 description: "building in Herrieden, Middle Franconia, Germany"
-region: "Herrieden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Herrieden"
+  - "Baden-Württemberg"
 wikidata_id: "Q41366620"
 latitude: 49.23241
 longitude: 10.49757
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/400px-Herrieden,_Marktplatz_3-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/800px-Herrieden,_Marktplatz_3-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/1200px-Herrieden,_Marktplatz_3-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/1920px-Herrieden,_Marktplatz_3-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/1920px-Herrieden,_Marktplatz_3-001.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Old Niendorf Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Hamburg, Germany"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q438118"
 latitude: 53.61611111
 longitude: 9.94972222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hamburg_Alter_Niendorfer_Friedhof_01.jpg/400px-Hamburg_Alter_Niendorfer_Friedhof_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hamburg_Alter_Niendorfer_Friedhof_01.jpg/800px-Hamburg_Alter_Niendorfer_Friedhof_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hamburg_Alter_Niendorfer_Friedhof_01.jpg/1200px-Hamburg_Alter_Niendorfer_Friedhof_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hamburg_Alter_Niendorfer_Friedhof_01.jpg/1920px-Hamburg_Alter_Niendorfer_Friedhof_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hamburg_Alter_Niendorfer_Friedhof_01.jpg/1920px-Hamburg_Alter_Niendorfer_Friedhof_01.jpg---
 
 ## Overview
 

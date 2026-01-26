@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8127-0035 in Dietmannsried"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Dietmannsried, Oberallgäu, Swabia, Bavaria, Germany"
-region: "Dietmannsried"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Dietmannsried"
+  - "Baden-Württemberg"
 wikidata_id: "Q98286438"
 latitude: 47.828517618
 longitude: 10.237269185
 images:
-  []
----
+  []---
 
 ## Overview
 

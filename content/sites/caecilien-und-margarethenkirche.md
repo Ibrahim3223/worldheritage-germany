@@ -4,13 +4,13 @@ site_name: "Cäcilien- und Margarethenkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wittmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wittmund"
+  - "Lower Saxony"
 wikidata_id: "Q1149972"
 latitude: 53.5293
 longitude: 7.78332
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/400px-Kirche_Leerhafe_(Nordseite).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/800px-Kirche_Leerhafe_(Nordseite).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1200px-Kirche_Leerhafe_(Nordseite).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1920px-Kirche_Leerhafe_(Nordseite).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1920px-Kirche_Leerhafe_(Nordseite).JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church in Demern"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Königsfeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Königsfeld"
+  - "Lower Saxony"
 wikidata_id: "Q1244226"
 latitude: 53.7417
 longitude: 10.9857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/400px-Demern_Kirche_2009-01-02_067.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/800px-Demern_Kirche_2009-01-02_067.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1200px-Demern_Kirche_2009-01-02_067.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1920px-Demern_Kirche_2009-01-02_067.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1920px-Demern_Kirche_2009-01-02_067.jpg---
 
 ## Overview
 

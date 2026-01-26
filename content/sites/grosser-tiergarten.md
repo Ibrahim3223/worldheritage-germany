@@ -4,13 +4,13 @@ site_name: "Großer Tiergarten"
 date: 2026-01-26
 draft: false
 description: "park in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q694020"
 latitude: 52.516666666
 longitude: 13.366666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/400px-Bln_Tiergtn8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/800px-Bln_Tiergtn8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/1200px-Bln_Tiergtn8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/1920px-Bln_Tiergtn8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/1920px-Bln_Tiergtn8.jpg---
 
 ## Overview
 

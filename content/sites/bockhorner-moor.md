@@ -4,13 +4,13 @@ site_name: "Bockhorner Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bockhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bockhorn"
+  - "Lower Saxony"
 wikidata_id: "Q889206"
 latitude: 53.3331
 longitude: 7.99889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bockhorner_Moor_02.jpg/400px-Bockhorner_Moor_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bockhorner_Moor_02.jpg/800px-Bockhorner_Moor_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bockhorner_Moor_02.jpg/1200px-Bockhorner_Moor_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bockhorner_Moor_02.jpg/1920px-Bockhorner_Moor_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bockhorner_Moor_02.jpg/1920px-Bockhorner_Moor_02.jpg---
 
 ## Overview
 

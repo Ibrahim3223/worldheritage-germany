@@ -4,13 +4,13 @@ site_name: "Invalids' Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q643891"
 latitude: 52.531944444
 longitude: 13.371111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/400px-Invalidenfriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/800px-Invalidenfriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1200px-Invalidenfriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1920px-Invalidenfriedhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1920px-Invalidenfriedhof.jpg---
 
 ## Overview
 

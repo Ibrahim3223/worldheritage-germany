@@ -4,19 +4,18 @@ site_name: "Pestalozzi-Fröbel Haus"
 date: 2026-01-26
 draft: false
 description: "pestalozzi-Fröbel-Haus, Germany"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q1587608"
 latitude: 52.490895
 longitude: 13.351444
 images:
-  []
----
+  []---
 
 ## Overview
 

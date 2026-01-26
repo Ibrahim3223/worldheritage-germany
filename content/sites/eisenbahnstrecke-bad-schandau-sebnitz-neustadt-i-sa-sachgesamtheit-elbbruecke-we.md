@@ -4,19 +4,18 @@ site_name: "Eisenbahnstrecke Bad Schandau -Sebnitz -Neustadt i. Sa. (Sachgesamth
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rathmannsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rathmannsdorf"
+  - "Saxony"
 wikidata_id: "Q49443511"
 latitude: 50.927111562
 longitude: 14.131270599
 images:
-  []
----
+  []---
 
 ## Overview
 

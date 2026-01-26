@@ -4,19 +4,18 @@ site_name: "Jesuitennoviziat (Mainz)"
 date: 2026-01-26
 draft: false
 description: "demolished school building in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1688339"
 latitude: 50.001509
 longitude: 8.271941
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Maria am Wasser Church"
 date: 2026-01-26
 draft: false
 description: "church building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1896443"
 latitude: 51.0148
 longitude: 13.8568
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/400px-Maria_am_Wasser_in_Hosterwitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/800px-Maria_am_Wasser_in_Hosterwitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/1200px-Maria_am_Wasser_in_Hosterwitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/1920px-Maria_am_Wasser_in_Hosterwitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/1920px-Maria_am_Wasser_in_Hosterwitz.jpg---
 
 ## Overview
 

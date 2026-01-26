@@ -4,19 +4,18 @@ site_name: "Mikado"
 date: 2026-01-26
 draft: false
 description: "library in Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1664372"
 latitude: 50.76171
 longitude: 6.07549
 images:
-  []
----
+  []---
 
 ## Overview
 

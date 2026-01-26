@@ -4,19 +4,18 @@ site_name: "Sangerberger Heimatstube"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629250"
 latitude: 49.121551
 longitude: 12.125534
 images:
-  []
----
+  []---
 
 ## Overview
 

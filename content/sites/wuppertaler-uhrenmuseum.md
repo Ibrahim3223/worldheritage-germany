@@ -4,19 +4,18 @@ site_name: "Wuppertaler Uhrenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2595182"
 latitude: 51.2577
 longitude: 7.14774
 images:
-  []
----
+  []---
 
 ## Overview
 

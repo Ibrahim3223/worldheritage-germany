@@ -4,13 +4,13 @@ site_name: "Neue Pfarrkirche St. Martin (Moosach)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1565400"
 latitude: 48.1799
 longitude: 11.5186
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NeuStMartin.jpg/400px-NeuStMartin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NeuStMartin.jpg/800px-NeuStMartin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NeuStMartin.jpg/1200px-NeuStMartin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NeuStMartin.jpg/1920px-NeuStMartin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NeuStMartin.jpg/1920px-NeuStMartin.jpg---
 
 ## Overview
 

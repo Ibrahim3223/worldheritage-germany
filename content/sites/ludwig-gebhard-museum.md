@@ -4,13 +4,13 @@ site_name: "Ludwig Gebhard Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Tiefenbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tiefenbach"
+  - "Bavaria"
 wikidata_id: "Q76629574"
 latitude: 49.436422
 longitude: 12.587622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/400px-Bild_Museum_Gebhard_01_4c.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/800px-Bild_Museum_Gebhard_01_4c.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/1200px-Bild_Museum_Gebhard_01_4c.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/1920px-Bild_Museum_Gebhard_01_4c.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/1920px-Bild_Museum_Gebhard_01_4c.jpg---
 
 ## Overview
 

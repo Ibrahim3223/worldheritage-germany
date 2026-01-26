@@ -4,13 +4,13 @@ site_name: "Dorfkirche Altglienicke"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Treptow-Köpenick"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Treptow-Köpenick"
+  - "Berlin"
 wikidata_id: "Q2082522"
 latitude: 52.421861111
 longitude: 13.539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/400px-Altglienicke_kirche-2010-09-19-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/800px-Altglienicke_kirche-2010-09-19-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/1200px-Altglienicke_kirche-2010-09-19-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/1920px-Altglienicke_kirche-2010-09-19-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/1920px-Altglienicke_kirche-2010-09-19-1.jpg---
 
 ## Overview
 

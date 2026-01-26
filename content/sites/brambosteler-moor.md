@@ -4,13 +4,13 @@ site_name: "Brambosteler Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wriedel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wriedel"
+  - "Lower Saxony"
 wikidata_id: "Q897555"
 latitude: 52.939
 longitude: 10.2456
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Brambosteler_Moor_2008@03.jpg/400px-Brambosteler_Moor_2008@03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Brambosteler_Moor_2008@03.jpg/800px-Brambosteler_Moor_2008@03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Brambosteler_Moor_2008@03.jpg/1200px-Brambosteler_Moor_2008@03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Brambosteler_Moor_2008@03.jpg/1920px-Brambosteler_Moor_2008@03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Brambosteler_Moor_2008@03.jpg/1920px-Brambosteler_Moor_2008@03.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Natur- und Landschaftsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Münstereifel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Münstereifel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1969872"
 latitude: 50.557
 longitude: 6.76447
 images:
-  []
----
+  []---
 
 ## Overview
 

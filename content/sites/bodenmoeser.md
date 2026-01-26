@@ -4,13 +4,13 @@ site_name: "Bodenmöser"
 date: 2026-01-26
 draft: false
 description: "nature reserve in the municipalities of Isny im Allgäu and Argenbühl, Baden-Württemberg, Germany"
-region: "Argenbühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Argenbühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q889597"
 latitude: 47.6924
 longitude: 10.0002
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/400px-Bodenmoeser1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/800px-Bodenmoeser1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/1200px-Bodenmoeser1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/1920px-Bodenmoeser1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/1920px-Bodenmoeser1.jpg---
 
 ## Overview
 

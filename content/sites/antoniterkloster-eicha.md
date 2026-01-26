@@ -4,19 +4,18 @@ site_name: "Antoniterkloster Eicha"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Naunhof"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Naunhof"
+  - "Saxony"
 wikidata_id: "Q606496"
 latitude: 51.2955
 longitude: 12.5695
 images:
-  []
----
+  []---
 
 ## Overview
 

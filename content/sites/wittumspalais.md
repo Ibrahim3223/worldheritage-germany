@@ -4,13 +4,13 @@ site_name: "Wittumspalais"
 date: 2026-01-26
 draft: false
 description: "building in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1730975"
 latitude: 50.9797
 longitude: 11.3266
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weimar_Wittumspalais.jpg/400px-Weimar_Wittumspalais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weimar_Wittumspalais.jpg/800px-Weimar_Wittumspalais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weimar_Wittumspalais.jpg/1200px-Weimar_Wittumspalais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weimar_Wittumspalais.jpg/1920px-Weimar_Wittumspalais.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weimar_Wittumspalais.jpg/1920px-Weimar_Wittumspalais.jpg---
 
 ## Overview
 

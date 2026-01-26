@@ -4,13 +4,13 @@ site_name: "Tretstein waterfall"
 date: 2026-01-26
 draft: false
 description: "waterfall in Germany"
-region: "Gräfendorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Gräfendorf"
+  - "Bavaria"
 wikidata_id: "Q1271971"
 latitude: 50.1352
 longitude: 9.747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/400px-Tretstein-Wasserfall,_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/800px-Tretstein-Wasserfall,_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/1200px-Tretstein-Wasserfall,_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/1920px-Tretstein-Wasserfall,_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/1920px-Tretstein-Wasserfall,_3.jpg---
 
 ## Overview
 

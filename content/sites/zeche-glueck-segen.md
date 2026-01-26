@@ -4,19 +4,18 @@ site_name: "Zeche Glück & Segen"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q183587"
 latitude: 51.4496
 longitude: 7.27375
 images:
-  []
----
+  []---
 
 ## Overview
 

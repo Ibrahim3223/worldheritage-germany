@@ -4,13 +4,13 @@ site_name: "Herdecker Heimatstube"
 date: 2026-01-26
 draft: false
 description: "museum in Herdecke, North Rhine-Westphalia, Germany"
-region: "Herdecke"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Herdecke"
+  - "Lower Saxony"
 wikidata_id: "Q4237418"
 latitude: 51.3993
 longitude: 7.4339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/400px-Herdecke,_Uferstraße_13.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/800px-Herdecke,_Uferstraße_13.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/1200px-Herdecke,_Uferstraße_13.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/1920px-Herdecke,_Uferstraße_13.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/1920px-Herdecke,_Uferstraße_13.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bildkapelle bei Oberjoch"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Deutschland"
-region: "Bad Hindelang"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Hindelang"
+  - "Baden-Württemberg"
 wikidata_id: "Q860886"
 latitude: 47.5127
 longitude: 10.3969
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/400px-Salzkapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/800px-Salzkapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/1200px-Salzkapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/1920px-Salzkapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/1920px-Salzkapelle.jpg---
 
 ## Overview
 

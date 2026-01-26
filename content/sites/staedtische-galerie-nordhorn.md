@@ -4,13 +4,13 @@ site_name: "Städtische Galerie Nordhorn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nordhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Nordhorn"
+  - "Lower Saxony"
 wikidata_id: "Q15849539"
 latitude: 52.432841
 longitude: 7.0750821
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/400px-Nordhorn,_Alte_Weberei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/800px-Nordhorn,_Alte_Weberei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/1200px-Nordhorn,_Alte_Weberei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/1920px-Nordhorn,_Alte_Weberei.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/1920px-Nordhorn,_Alte_Weberei.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Matthäus (Großreuth hinter der Veste)"
 date: 2026-01-26
 draft: false
 description: "church building in Nuremberg, Middle Franconia, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1910590"
 latitude: 49.4667
 longitude: 11.082
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Matthäuskirche_Nürnberg.jpg/400px-Matthäuskirche_Nürnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Matthäuskirche_Nürnberg.jpg/800px-Matthäuskirche_Nürnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Matthäuskirche_Nürnberg.jpg/1200px-Matthäuskirche_Nürnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Matthäuskirche_Nürnberg.jpg/1920px-Matthäuskirche_Nürnberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Matthäuskirche_Nürnberg.jpg/1920px-Matthäuskirche_Nürnberg.jpg---
 
 ## Overview
 

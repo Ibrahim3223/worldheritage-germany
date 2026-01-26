@@ -4,13 +4,13 @@ site_name: "Kanalmuseum ATRIUM"
 date: 2026-01-26
 draft: false
 description: "museum in Brunsbüttel, Germany, about the Kiel canal and the locks"
-region: "Brunsbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brunsbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q61063663"
 latitude: 53.895818
 longitude: 9.146135
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/400px-2021_Brunsbüttel_Schleusenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/800px-2021_Brunsbüttel_Schleusenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/1200px-2021_Brunsbüttel_Schleusenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/1920px-2021_Brunsbüttel_Schleusenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/1920px-2021_Brunsbüttel_Schleusenmuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Paul's Church, Frankfurt am Main"
 date: 2026-01-26
 draft: false
 description: "church in Frankfurt/Main, Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q198106"
 latitude: 50.111111111
 longitude: 8.680833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/400px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/800px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/1200px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/1920px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/1920px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg---
 
 ## Overview
 

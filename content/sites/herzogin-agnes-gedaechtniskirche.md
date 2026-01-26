@@ -4,13 +4,13 @@ site_name: "Herzogin-Agnes-Gedächtniskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Altenburg, Thuringia, Germany"
-region: "Altenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altenburg"
+  - "Saxony"
 wikidata_id: "Q14538240"
 latitude: 50.98957145
 longitude: 12.446801636
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/400px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/800px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/1200px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/1920px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/1920px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg---
 
 ## Overview
 

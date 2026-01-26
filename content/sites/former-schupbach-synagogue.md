@@ -4,13 +4,13 @@ site_name: "Former Schupbach synagogue"
 date: 2026-01-26
 draft: false
 description: "brick-faced building with a square structure with an access wing to the west, no longer existing mikveh behind the building in Schupbach, Beselich, Li"
-region: "Beselich"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Beselich"
+  - "Hesse"
 wikidata_id: "Q978518"
 latitude: 50.4547
 longitude: 8.17008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/400px-Schupbach_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/800px-Schupbach_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/1200px-Schupbach_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/1920px-Schupbach_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/1920px-Schupbach_Synagoge.jpg---
 
 ## Overview
 

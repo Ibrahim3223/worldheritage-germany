@@ -4,13 +4,13 @@ site_name: "Mariensäule"
 date: 2026-01-26
 draft: false
 description: "monument in Trier, Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q464654"
 latitude: 49.76
 longitude: 6.62028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Trier_Mariensaeule.jpg/400px-Trier_Mariensaeule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Trier_Mariensaeule.jpg/800px-Trier_Mariensaeule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Trier_Mariensaeule.jpg/1200px-Trier_Mariensaeule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Trier_Mariensaeule.jpg/1920px-Trier_Mariensaeule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Trier_Mariensaeule.jpg/1920px-Trier_Mariensaeule.jpg---
 
 ## Overview
 

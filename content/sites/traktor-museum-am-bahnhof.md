@@ -4,13 +4,13 @@ site_name: "Traktor-Museum am Bahnhof"
 date: 2026-01-26
 draft: false
 description: "museum in Schwarzenbach an der Saale, Germany"
-region: "Schwarzenbach an der Saale"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwarzenbach an der Saale"
+  - "Bavaria"
 wikidata_id: "Q1498000"
 latitude: 50.22
 longitude: 11.935
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/400px-Schwarzenbach_Building_2014_xy_9.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/800px-Schwarzenbach_Building_2014_xy_9.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/1200px-Schwarzenbach_Building_2014_xy_9.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/1920px-Schwarzenbach_Building_2014_xy_9.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/1920px-Schwarzenbach_Building_2014_xy_9.JPG---
 
 ## Overview
 

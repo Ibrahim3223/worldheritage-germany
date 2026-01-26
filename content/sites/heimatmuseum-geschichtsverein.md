@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Geschichtsverein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634222"
 latitude: 50.167913
 longitude: 8.571216
 images:
-  []
----
+  []---
 
 ## Overview
 

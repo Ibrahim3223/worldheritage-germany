@@ -4,19 +4,18 @@ site_name: "Sog."
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-384 (0) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98581799"
 latitude: 50.260227134
 longitude: 10.966686304
 images:
-  []
----
+  []---
 
 ## Overview
 

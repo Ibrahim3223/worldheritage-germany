@@ -4,13 +4,13 @@ site_name: "Nikolai Chapel"
 date: 2026-01-26
 draft: false
 description: "church ruin in Hanover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1455685"
 latitude: 52.377935046
 longitude: 9.732054643
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nikolaikapelle_(Hannover)_IMG_0062.jpg/400px-Nikolaikapelle_(Hannover)_IMG_0062.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nikolaikapelle_(Hannover)_IMG_0062.jpg/800px-Nikolaikapelle_(Hannover)_IMG_0062.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nikolaikapelle_(Hannover)_IMG_0062.jpg/1200px-Nikolaikapelle_(Hannover)_IMG_0062.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nikolaikapelle_(Hannover)_IMG_0062.jpg/1920px-Nikolaikapelle_(Hannover)_IMG_0062.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nikolaikapelle_(Hannover)_IMG_0062.jpg/1920px-Nikolaikapelle_(Hannover)_IMG_0062.jpg---
 
 ## Overview
 

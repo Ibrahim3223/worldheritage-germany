@@ -4,13 +4,13 @@ site_name: "Windmühle Neu-Diele"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Diele, Weener"
-region: "Weener"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Weener"
+  - "Lower Saxony"
 wikidata_id: "Q137671226"
 latitude: 53.125819673
 longitude: 7.319112419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/400px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/800px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/1200px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/1920px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/1920px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg---
 
 ## Overview
 

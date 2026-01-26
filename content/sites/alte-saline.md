@@ -4,13 +4,13 @@ site_name: "Alte Saline"
 date: 2026-01-26
 draft: false
 description: "building in Bad Reichenhall, Bavaria"
-region: "Bad Reichenhall"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bad Reichenhall"
+  - "Bavaria"
 wikidata_id: "Q436166"
 latitude: 47.721
 longitude: 12.8773
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Saline_(Reichenhall).jpg/400px-Alte_Saline_(Reichenhall).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Saline_(Reichenhall).jpg/800px-Alte_Saline_(Reichenhall).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Saline_(Reichenhall).jpg/1200px-Alte_Saline_(Reichenhall).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Saline_(Reichenhall).jpg/1920px-Alte_Saline_(Reichenhall).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Saline_(Reichenhall).jpg/1920px-Alte_Saline_(Reichenhall).jpg---
 
 ## Overview
 

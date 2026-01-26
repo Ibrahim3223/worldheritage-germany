@@ -4,13 +4,13 @@ site_name: "Ernst Ludwig House"
 date: 2026-01-26
 draft: false
 description: "cultural heritage building in Darmstadt, Hesse"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Structure"
 categories:
   - "Architectural Structure"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q115181308"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/400px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/800px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/1200px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/1920px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/1920px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Beginenhof Deilinghofen"
 date: 2026-01-26
 draft: false
 description: "Damenstift in Hemer-Deilinghofen"
-region: "Hemer"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Hemer"
+  - "Hesse"
 wikidata_id: "Q814328"
 latitude: 51.3785
 longitude: 7.80334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/400px-Deilinghofen-Pastorat1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/800px-Deilinghofen-Pastorat1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/1200px-Deilinghofen-Pastorat1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/1920px-Deilinghofen-Pastorat1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/1920px-Deilinghofen-Pastorat1-Bubo.JPG---
 
 ## Overview
 

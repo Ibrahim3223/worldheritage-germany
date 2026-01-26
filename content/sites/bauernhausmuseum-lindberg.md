@@ -4,13 +4,13 @@ site_name: "Bauernhausmuseum Lindberg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Lindberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lindberg"
+  - "Bavaria"
 wikidata_id: "Q811266"
 latitude: 49.0355
 longitude: 13.2522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/400px-Bauernhausmuseum_Lindberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/800px-Bauernhausmuseum_Lindberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/1200px-Bauernhausmuseum_Lindberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/1920px-Bauernhausmuseum_Lindberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/1920px-Bauernhausmuseum_Lindberg.JPG---
 
 ## Overview
 

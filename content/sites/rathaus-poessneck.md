@@ -4,13 +4,13 @@ site_name: "Rathaus Pößneck"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pößneck"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pößneck"
+  - "Thuringia"
 wikidata_id: "Q20478204"
 latitude: 50.693862
 longitude: 11.593965
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pößneck-rathaus-2013-001.JPG/400px-Pößneck-rathaus-2013-001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pößneck-rathaus-2013-001.JPG/800px-Pößneck-rathaus-2013-001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pößneck-rathaus-2013-001.JPG/1200px-Pößneck-rathaus-2013-001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pößneck-rathaus-2013-001.JPG/1920px-Pößneck-rathaus-2013-001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pößneck-rathaus-2013-001.JPG/1920px-Pößneck-rathaus-2013-001.JPG---
 
 ## Overview
 

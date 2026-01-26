@@ -4,13 +4,13 @@ site_name: "St. Elisabeth-Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Mitte, Berlin Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2318053"
 latitude: 52.535
 longitude: 13.3932
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St._Elisabeth-Friedhof_Portal.jpg/400px-St._Elisabeth-Friedhof_Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St._Elisabeth-Friedhof_Portal.jpg/800px-St._Elisabeth-Friedhof_Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St._Elisabeth-Friedhof_Portal.jpg/1200px-St._Elisabeth-Friedhof_Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St._Elisabeth-Friedhof_Portal.jpg/1920px-St._Elisabeth-Friedhof_Portal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/St._Elisabeth-Friedhof_Portal.jpg/1920px-St._Elisabeth-Friedhof_Portal.jpg---
 
 ## Overview
 

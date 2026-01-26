@@ -4,13 +4,13 @@ site_name: "Freies Gymnasium Hannover"
 date: 2026-01-26
 draft: false
 description: "school in Hanover, Germany"
-region: "Bothfeld-Vahrenheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Bothfeld-Vahrenheide"
+  - "Lower Saxony"
 wikidata_id: "Q1454143"
 latitude: 52.4146
 longitude: 9.79091
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/400px-Freies_Gymnasium_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/800px-Freies_Gymnasium_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/1200px-Freies_Gymnasium_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/1920px-Freies_Gymnasium_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/1920px-Freies_Gymnasium_Hannover.jpg---
 
 ## Overview
 

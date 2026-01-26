@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6025-0083 in Arnstein (Unterfranken)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Arnstein, Main-Spessart, Lower Franconia, Bavaria, Germany"
-region: "Arnstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Arnstein"
+  - "Bavaria"
 wikidata_id: "Q98160748"
 latitude: 49.977883676
 longitude: 9.968886467
 images:
-  []
----
+  []---
 
 ## Overview
 

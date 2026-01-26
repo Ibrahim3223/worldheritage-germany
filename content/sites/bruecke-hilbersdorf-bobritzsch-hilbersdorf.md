@@ -4,19 +4,18 @@ site_name: "Brücke Hilbersdorf (Bobritzsch-Hilbersdorf)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bobritzsch-Hilbersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bobritzsch-Hilbersdorf"
+  - "Saxony"
 wikidata_id: "Q49445965"
 latitude: 50.900910132
 longitude: 13.388531389
 images:
-  []
----
+  []---
 
 ## Overview
 

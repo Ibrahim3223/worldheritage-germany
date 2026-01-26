@@ -4,13 +4,13 @@ site_name: "Freiburg Charterhouse"
 date: 2026-01-26
 draft: false
 description: "building in Freiburg im Breisgau, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q183313"
 latitude: 47.994477
 longitude: 7.882749
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/400px-Peter_Mayer_(1718-1800)_287.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/800px-Peter_Mayer_(1718-1800)_287.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1200px-Peter_Mayer_(1718-1800)_287.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1920px-Peter_Mayer_(1718-1800)_287.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1920px-Peter_Mayer_(1718-1800)_287.jpg---
 
 ## Overview
 

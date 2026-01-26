@@ -4,13 +4,13 @@ site_name: "Barbarakapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Karlsbad"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Karlsbad"
+  - "Baden-Württemberg"
 wikidata_id: "Q807716"
 latitude: 48.9061
 longitude: 8.49663
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Barbara_Ruine.jpg/400px-St_Barbara_Ruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Barbara_Ruine.jpg/800px-St_Barbara_Ruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Barbara_Ruine.jpg/1200px-St_Barbara_Ruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Barbara_Ruine.jpg/1920px-St_Barbara_Ruine.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/St_Barbara_Ruine.jpg/1920px-St_Barbara_Ruine.jpg---
 
 ## Overview
 

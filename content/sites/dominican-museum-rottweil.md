@@ -4,13 +4,13 @@ site_name: "Dominican Museum Rottweil"
 date: 2026-01-26
 draft: false
 description: "museum in Rottweil"
-region: "Rottweil"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rottweil"
+  - "Baden-Württemberg"
 wikidata_id: "Q25389130"
 latitude: 48.16927
 longitude: 8.62637
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/400px-Rottweil_Dominikanermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/800px-Rottweil_Dominikanermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/1200px-Rottweil_Dominikanermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/1920px-Rottweil_Dominikanermuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/1920px-Rottweil_Dominikanermuseum.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Dannenbütteler Torfteile"
 date: 2026-01-26
 draft: false
 description: "former nature reserve in Sassenburg, Lower Saxony, Germany"
-region: "Sassenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Sassenburg"
+  - "Lower Saxony"
 wikidata_id: "Q1164424"
 latitude: 52.4789
 longitude: 10.6253
 images:
-  []
----
+  []---
 
 ## Overview
 

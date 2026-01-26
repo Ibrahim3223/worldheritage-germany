@@ -4,13 +4,13 @@ site_name: "Breitachal"
 date: 2026-01-26
 draft: false
 description: "valley of the Allgäu Alps in Bavaria, Germany"
-region: "Oberstdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Oberstdorf"
+  - "Bavaria"
 wikidata_id: "Q905707"
 latitude: 47.4128
 longitude: 10.2461
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/20250528_xl_1051-Breitachtal.jpg/400px-20250528_xl_1051-Breitachtal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/20250528_xl_1051-Breitachtal.jpg/800px-20250528_xl_1051-Breitachtal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/20250528_xl_1051-Breitachtal.jpg/1200px-20250528_xl_1051-Breitachtal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/20250528_xl_1051-Breitachtal.jpg/1920px-20250528_xl_1051-Breitachtal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/20250528_xl_1051-Breitachtal.jpg/1920px-20250528_xl_1051-Breitachtal.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stephanikirche zu Goslar"
 date: 2026-01-26
 draft: false
 description: "church in Goslar, Germany"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q2316738"
 latitude: 51.907703
 longitude: 10.433125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GoslarStephaniKirche-2.jpg/400px-GoslarStephaniKirche-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GoslarStephaniKirche-2.jpg/800px-GoslarStephaniKirche-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GoslarStephaniKirche-2.jpg/1200px-GoslarStephaniKirche-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GoslarStephaniKirche-2.jpg/1920px-GoslarStephaniKirche-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GoslarStephaniKirche-2.jpg/1920px-GoslarStephaniKirche-2.jpg---
 
 ## Overview
 

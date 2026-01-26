@@ -4,13 +4,13 @@ site_name: "Church in Banzkow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Banzkow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Banzkow"
+  - "Brandenburg"
 wikidata_id: "Q1244109"
 latitude: 53.5228
 longitude: 11.5167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/400px-Banzkow_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/800px-Banzkow_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1200px-Banzkow_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1920px-Banzkow_Dorfkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1920px-Banzkow_Dorfkirche.jpg---
 
 ## Overview
 

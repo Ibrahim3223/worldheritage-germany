@@ -4,13 +4,13 @@ site_name: "Museum für Aktuelle Kunst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Durbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Durbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1954697"
 latitude: 48.4923
 longitude: 7.99672
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/400px-Sammlung_Hurrle_(11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/800px-Sammlung_Hurrle_(11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/1200px-Sammlung_Hurrle_(11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/1920px-Sammlung_Hurrle_(11).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/1920px-Sammlung_Hurrle_(11).jpg---
 
 ## Overview
 

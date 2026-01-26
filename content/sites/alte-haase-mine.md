@@ -4,13 +4,13 @@ site_name: "Alte Haase mine"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Sprockhövel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Sprockhövel"
+  - "Lower Saxony"
 wikidata_id: "Q169629"
 latitude: 51.3722
 longitude: 7.24361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/400px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/800px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1200px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1920px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1920px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg---
 
 ## Overview
 

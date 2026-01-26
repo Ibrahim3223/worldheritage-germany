@@ -4,13 +4,13 @@ site_name: "Südstrand Sellin"
 date: 2026-01-26
 draft: false
 description: "Strand auf der Insel Rügen"
-region: "Sellin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Sellin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q63614901"
 latitude: 54.37289
 longitude: 13.70781
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Sellin_Südstrand_02.jpg/400px-2018_Sellin_Südstrand_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Sellin_Südstrand_02.jpg/800px-2018_Sellin_Südstrand_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Sellin_Südstrand_02.jpg/1200px-2018_Sellin_Südstrand_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Sellin_Südstrand_02.jpg/1920px-2018_Sellin_Südstrand_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2018_Sellin_Südstrand_02.jpg/1920px-2018_Sellin_Südstrand_02.jpg---
 
 ## Overview
 

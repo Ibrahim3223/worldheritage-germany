@@ -4,13 +4,13 @@ site_name: "Humboldtschule"
 date: 2026-01-26
 draft: false
 description: "school in Hannover, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q1636994"
 latitude: 52.3574
 longitude: 9.72087
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/400px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/800px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/1200px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/1920px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/1920px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg---
 
 ## Overview
 

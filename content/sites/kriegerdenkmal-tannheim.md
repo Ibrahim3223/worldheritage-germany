@@ -4,13 +4,13 @@ site_name: "Kriegerdenkmal Tannheim"
 date: 2026-01-26
 draft: false
 description: "Denkmal für die Opfer der Gewaltherrschaft und der gefallenen Soldaten beider Weltkriege"
-region: "Tannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Tannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q14538494"
 latitude: 48.0003
 longitude: 10.0864
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/400px-Kriegerdenkmal_Tannheim-h.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/800px-Kriegerdenkmal_Tannheim-h.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/1200px-Kriegerdenkmal_Tannheim-h.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/1920px-Kriegerdenkmal_Tannheim-h.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/1920px-Kriegerdenkmal_Tannheim-h.jpg---
 
 ## Overview
 

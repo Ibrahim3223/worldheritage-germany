@@ -4,13 +4,13 @@ site_name: "Martin Luthers Sterbehaus"
 date: 2026-01-26
 draft: false
 description: "museum, house in which Martin Luther died"
-region: "Eisleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eisleben"
+  - "Brandenburg"
 wikidata_id: "Q1904497"
 latitude: 51.5281
 longitude: 11.5443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/400px-Luthers_Sterbehaus_Eisleben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/800px-Luthers_Sterbehaus_Eisleben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/1200px-Luthers_Sterbehaus_Eisleben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/1920px-Luthers_Sterbehaus_Eisleben.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/1920px-Luthers_Sterbehaus_Eisleben.jpg---
 
 ## Overview
 

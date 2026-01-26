@@ -4,19 +4,18 @@ site_name: "Dachshund Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q50778174"
 latitude: 49.020388888
 longitude: 12.097388888
 images:
-  []
----
+  []---
 
 ## Overview
 

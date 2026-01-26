@@ -4,13 +4,13 @@ site_name: "Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Chemnitz, Germany"
-region: "Glösa-Draisdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Glösa-Draisdorf"
+  - "Saxony"
 wikidata_id: "Q673954"
 latitude: 50.8876
 longitude: 12.9399
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/400px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/800px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1200px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1920px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1920px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg---
 
 ## Overview
 

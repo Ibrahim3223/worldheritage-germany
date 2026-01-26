@@ -4,13 +4,13 @@ site_name: "Möthlitzer Schloss"
 date: 2026-01-26
 draft: false
 description: "Gutshaus in Brandenburg, Deutschland"
-region: "Milower Land"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Milower Land"
+  - "Brandenburg"
 wikidata_id: "Q1958190"
 latitude: 52.4748
 longitude: 12.3887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/400px-Gutshaus_Möthlitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/800px-Gutshaus_Möthlitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/1200px-Gutshaus_Möthlitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/1920px-Gutshaus_Möthlitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/1920px-Gutshaus_Möthlitz.jpg---
 
 ## Overview
 

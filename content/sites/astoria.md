@@ -4,19 +4,18 @@ site_name: "Astoria"
 date: 2026-01-26
 draft: false
 description: "former variety theatre in Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q750170"
 latitude: 53.0774
 longitude: 8.80824
 images:
-  []
----
+  []---
 
 ## Overview
 

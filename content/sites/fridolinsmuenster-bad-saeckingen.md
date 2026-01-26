@@ -4,13 +4,13 @@ site_name: "Fridolinsmünster Bad Säckingen"
 date: 2026-01-26
 draft: false
 description: "church in Germany"
-region: "Bad Säckingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Bad Säckingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1456266"
 latitude: 47.5528
 longitude: 7.94944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/400px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/800px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/1200px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/1920px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/1920px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg---
 
 ## Overview
 

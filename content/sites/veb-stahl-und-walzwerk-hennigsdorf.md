@@ -4,19 +4,18 @@ site_name: "VEB Stahl- und Walzwerk Hennigsdorf"
 date: 2026-01-26
 draft: false
 description: "German steel mill"
-region: "Hennigsdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Hennigsdorf"
+  - "Berlin"
 wikidata_id: "Q2328909"
 latitude: 52.6503
 longitude: 13.2118
 images:
-  []
----
+  []---
 
 ## Overview
 

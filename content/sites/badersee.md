@@ -4,13 +4,13 @@ site_name: "Badersee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Grainau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Grainau"
+  - "Bavaria"
 wikidata_id: "Q262073"
 latitude: 47.473316
 longitude: 11.016358
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/400px-Badersee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/800px-Badersee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/1200px-Badersee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/1920px-Badersee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/1920px-Badersee.JPG---
 
 ## Overview
 

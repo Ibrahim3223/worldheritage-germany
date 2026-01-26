@@ -4,13 +4,13 @@ site_name: "Herzogspark"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q873982"
 latitude: 49.0231
 longitude: 12.0822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/400px-Prebrunnturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/800px-Prebrunnturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1200px-Prebrunnturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1920px-Prebrunnturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1920px-Prebrunnturm.jpg---
 
 ## Overview
 

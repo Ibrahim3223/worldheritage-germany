@@ -4,13 +4,13 @@ site_name: "Burg Honrath"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lohmar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lohmar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012483"
 latitude: 50.9067
 longitude: 7.25528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Honrath_Westseite.jpg/400px-Burg_Honrath_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Honrath_Westseite.jpg/800px-Burg_Honrath_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Honrath_Westseite.jpg/1200px-Burg_Honrath_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Honrath_Westseite.jpg/1920px-Burg_Honrath_Westseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Honrath_Westseite.jpg/1920px-Burg_Honrath_Westseite.jpg---
 
 ## Overview
 

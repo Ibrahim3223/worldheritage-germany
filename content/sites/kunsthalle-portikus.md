@@ -4,19 +4,18 @@ site_name: "Kunsthalle Portikus"
 date: 2026-01-26
 draft: false
 description: "former building in Frankfurt am Main, Germany"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q124094736"
 latitude: 50.1094
 longitude: 8.6931
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Jewish cemetery"
 date: 2026-01-26
 draft: false
 description: "Jewish cemetery in Rüdesheim am Rhein, Germany"
-region: "Rüdesheim am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Rüdesheim am Rhein"
+  - "Hesse"
 wikidata_id: "Q1353269"
 latitude: 49.983443004
 longitude: 7.940821124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/400px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/800px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/1200px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/1920px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/1920px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG---
 
 ## Overview
 

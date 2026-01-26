@@ -4,19 +4,18 @@ site_name: "Augustinian Convent Obernkirchen"
 date: 2026-01-26
 draft: false
 description: "Monastery in Germany"
-region: "Obernkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Obernkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q19309565"
 latitude: 52.269211111
 longitude: 9.127488888
 images:
-  []
----
+  []---
 
 ## Overview
 

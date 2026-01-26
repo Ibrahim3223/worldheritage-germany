@@ -4,13 +4,13 @@ site_name: "Little Church upon the Sea"
 date: 2026-01-26
 draft: false
 description: "church in Husum"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1409789"
 latitude: 54.50991667
 longitude: 9.00469444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/400px-Husum_Kirchlein_am_Meer_aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/800px-Husum_Kirchlein_am_Meer_aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1200px-Husum_Kirchlein_am_Meer_aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1920px-Husum_Kirchlein_am_Meer_aussen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1920px-Husum_Kirchlein_am_Meer_aussen.jpg---
 
 ## Overview
 

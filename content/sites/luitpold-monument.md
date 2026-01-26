@@ -4,13 +4,13 @@ site_name: "Luitpold monument"
 date: 2026-01-26
 draft: false
 description: "monument in Füssen, Germany"
-region: "Füssen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Füssen"
+  - "Bavaria"
 wikidata_id: "Q14861293"
 latitude: 47.5697
 longitude: 10.6996
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/400px-Wittelsbacher_Denkmal_Füssen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/800px-Wittelsbacher_Denkmal_Füssen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/1200px-Wittelsbacher_Denkmal_Füssen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/1920px-Wittelsbacher_Denkmal_Füssen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/1920px-Wittelsbacher_Denkmal_Füssen.JPG---
 
 ## Overview
 

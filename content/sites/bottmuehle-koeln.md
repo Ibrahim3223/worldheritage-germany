@@ -4,13 +4,13 @@ site_name: "Bottmühle (Köln)"
 date: 2026-01-26
 draft: false
 description: "Teil der mittelalterlichen Stadtmauer von Köln"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q894898"
 latitude: 50.922765
 longitude: 6.963189
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg/400px-2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg/800px-2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg/1200px-2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg/1920px-2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg/1920px-2013-08-10_07-08-27_Ballonfahrt_über_Köln_EH_0574.jpg---
 
 ## Overview
 

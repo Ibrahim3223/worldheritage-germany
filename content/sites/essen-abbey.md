@@ -4,13 +4,13 @@ site_name: "Essen Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q564155"
 latitude: 51.455833
 longitude: 7.013611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/400px-Essen_2011_66-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/800px-Essen_2011_66-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1200px-Essen_2011_66-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1920px-Essen_2011_66-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1920px-Essen_2011_66-2.jpg---
 
 ## Overview
 

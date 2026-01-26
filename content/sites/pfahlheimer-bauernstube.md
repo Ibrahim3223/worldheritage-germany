@@ -4,19 +4,18 @@ site_name: "Pfahlheimer Bauernstube"
 date: 2026-01-26
 draft: false
 description: "museum in Ellwangen, Germany"
-region: "Ellwangen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ellwangen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1389050"
 latitude: 48.9646
 longitude: 10.2585
 images:
-  []
----
+  []---
 
 ## Overview
 

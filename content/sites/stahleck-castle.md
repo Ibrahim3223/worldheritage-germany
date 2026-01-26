@@ -4,13 +4,13 @@ site_name: "Stahleck Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Bacharach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bacharach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q449088"
 latitude: 50.058055555
 longitude: 7.765555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/400px-Burg_Stahleck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/800px-Burg_Stahleck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/1200px-Burg_Stahleck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/1920px-Burg_Stahleck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/1920px-Burg_Stahleck.jpg---
 
 ## Overview
 

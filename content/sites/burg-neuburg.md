@@ -4,19 +4,18 @@ site_name: "Burg Neuburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gelbingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gelbingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013251"
 latitude: 49.1307
 longitude: 9.73301
 images:
-  []
----
+  []---
 
 ## Overview
 

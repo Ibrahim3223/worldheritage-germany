@@ -4,19 +4,18 @@ site_name: "Friedrich-August-von-Hayek-Foundation"
 date: 2026-01-26
 draft: false
 description: "german foundation"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1457677"
 latitude: 47.992208
 longitude: 7.848509
 images:
-  []
----
+  []---
 
 ## Overview
 

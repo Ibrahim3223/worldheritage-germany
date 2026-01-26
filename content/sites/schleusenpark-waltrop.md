@@ -4,13 +4,13 @@ site_name: "Schleusenpark Waltrop"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Waltrop"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Waltrop"
+  - "Lower Saxony"
 wikidata_id: "Q2239531"
 latitude: 51.6186
 longitude: 7.33007
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schiffshebewerk_Henrichenburg_rp1010195.jpg/400px-Schiffshebewerk_Henrichenburg_rp1010195.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schiffshebewerk_Henrichenburg_rp1010195.jpg/800px-Schiffshebewerk_Henrichenburg_rp1010195.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schiffshebewerk_Henrichenburg_rp1010195.jpg/1200px-Schiffshebewerk_Henrichenburg_rp1010195.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schiffshebewerk_Henrichenburg_rp1010195.jpg/1920px-Schiffshebewerk_Henrichenburg_rp1010195.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schiffshebewerk_Henrichenburg_rp1010195.jpg/1920px-Schiffshebewerk_Henrichenburg_rp1010195.jpg---
 
 ## Overview
 

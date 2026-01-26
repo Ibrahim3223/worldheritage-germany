@@ -4,19 +4,18 @@ site_name: "Hofgarten Franz-Josef-Strauß-Ring 1 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-2730 (2) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98739663"
 latitude: 48.142451178
 longitude: 11.582249679
 images:
-  []
----
+  []---
 
 ## Overview
 

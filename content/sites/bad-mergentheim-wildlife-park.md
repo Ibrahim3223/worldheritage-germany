@@ -4,13 +4,13 @@ site_name: "Bad Mergentheim Wildlife Park"
 date: 2026-01-26
 draft: false
 description: "German zoo"
-region: "Bad Mergentheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Bad Mergentheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2570800"
 latitude: 49.4683
 longitude: 9.79694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/400px-Wildparkeingang_MGH.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/800px-Wildparkeingang_MGH.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1200px-Wildparkeingang_MGH.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1920px-Wildparkeingang_MGH.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1920px-Wildparkeingang_MGH.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sankt Georg (Eisenach)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1508735"
 latitude: 50.97439955
 longitude: 10.319596105
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/400px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/800px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/1200px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/1920px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/1920px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg---
 
 ## Overview
 

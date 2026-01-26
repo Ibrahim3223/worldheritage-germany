@@ -4,13 +4,13 @@ site_name: "Geologisches Museum München"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1503250"
 latitude: 48.1472
 longitude: 11.5647
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/400px-Geologisches_Museum_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/800px-Geologisches_Museum_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1200px-Geologisches_Museum_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1920px-Geologisches_Museum_München.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1920px-Geologisches_Museum_München.jpg---
 
 ## Overview
 

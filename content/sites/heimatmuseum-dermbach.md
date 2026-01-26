@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Dermbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dermbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dermbach"
+  - "Hesse"
 wikidata_id: "Q20479687"
 latitude: 50.71636
 longitude: 10.11714
 images:
-  []
----
+  []---
 
 ## Overview
 

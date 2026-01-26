@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Bödefeld"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Schmallenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Schmallenberg"
+  - "Hesse"
 wikidata_id: "Q1407031"
 latitude: 51.206
 longitude: 8.37722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg/400px-Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg/800px-Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg/1200px-Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg/1920px-Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg/1920px-Fernmeldeturm_Bödefeld_Sauerland-Ost_031.jpg---
 
 ## Overview
 

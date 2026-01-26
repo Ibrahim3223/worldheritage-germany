@@ -4,19 +4,18 @@ site_name: "Aschentalshalbe"
 date: 2026-01-26
 draft: false
 description: "mountain in the Harz, Germany"
-region: "Harz (Landkreis Göttingen)"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Harz (Landkreis Göttingen)"
+  - "Lower Saxony"
 wikidata_id: "Q204408"
 latitude: 51.6863
 longitude: 10.4526
 images:
-  []
----
+  []---
 
 ## Overview
 

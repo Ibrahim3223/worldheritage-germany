@@ -4,13 +4,13 @@ site_name: "Ehemalige Synagoge Idstein"
 date: 2026-01-26
 draft: false
 description: "Fachwerkhaus in Idstein, ehemals Synagoge"
-region: "Idstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Idstein"
+  - "Hesse"
 wikidata_id: "Q1238761"
 latitude: 50.2212
 longitude: 8.2705
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/400px-Ehemalige_Synagoge_Idstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/800px-Ehemalige_Synagoge_Idstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/1200px-Ehemalige_Synagoge_Idstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/1920px-Ehemalige_Synagoge_Idstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/1920px-Ehemalige_Synagoge_Idstein.JPG---
 
 ## Overview
 

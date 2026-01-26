@@ -4,13 +4,13 @@ site_name: "St. Gertraud"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q1650544"
 latitude: 51.4846
 longitude: 12.0456
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/400px-ReideburgKircheW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/800px-ReideburgKircheW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/1200px-ReideburgKircheW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/1920px-ReideburgKircheW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/1920px-ReideburgKircheW.jpg---
 
 ## Overview
 

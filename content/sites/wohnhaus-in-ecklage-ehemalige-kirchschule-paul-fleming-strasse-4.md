@@ -4,13 +4,13 @@ site_name: "Wohnhaus in Ecklage, ehemalige Kirchschule Paul-Fleming-Straße 4"
 date: 2026-01-26
 draft: false
 description: "house in Hartenstein, Saxony, Germany"
-region: "Hartenstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hartenstein"
+  - "Saxony"
 wikidata_id: "Q49512282"
 latitude: 50.661599
 longitude: 12.670071
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/400px-Fleming_Geburtshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/800px-Fleming_Geburtshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/1200px-Fleming_Geburtshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/1920px-Fleming_Geburtshaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/1920px-Fleming_Geburtshaus.jpg---
 
 ## Overview
 

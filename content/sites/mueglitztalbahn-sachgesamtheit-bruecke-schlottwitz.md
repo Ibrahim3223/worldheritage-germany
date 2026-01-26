@@ -4,13 +4,13 @@ site_name: "Müglitztalbahn (Sachgesamtheit); Brücke Schlottwitz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Glashütte"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Glashütte"
+  - "Saxony"
 wikidata_id: "Q49442104"
 latitude: 50.870651489
 longitude: 13.814775426
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/400px-Schlottwitz-Bahnbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/800px-Schlottwitz-Bahnbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/1200px-Schlottwitz-Bahnbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/1920px-Schlottwitz-Bahnbrücke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/1920px-Schlottwitz-Bahnbrücke.jpg---
 
 ## Overview
 

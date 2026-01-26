@@ -4,13 +4,13 @@ site_name: "Pottery museum Thurnau"
 date: 2026-01-26
 draft: false
 description: "museum in Thurnau, Bavaria"
-region: "Thurnau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thurnau"
+  - "Bavaria"
 wikidata_id: "Q76629572"
 latitude: 50.025188
 longitude: 11.396224
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/400px-Dauerausstellung_ehem._Töpfereien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/800px-Dauerausstellung_ehem._Töpfereien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/1200px-Dauerausstellung_ehem._Töpfereien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/1920px-Dauerausstellung_ehem._Töpfereien.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/1920px-Dauerausstellung_ehem._Töpfereien.jpg---
 
 ## Overview
 

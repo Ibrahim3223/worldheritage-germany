@@ -4,19 +4,18 @@ site_name: "Museum jüdischer Geschichte und Kultur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q16579773"
 latitude: 49.976897
 longitude: 9.144166
 images:
-  []
----
+  []---
 
 ## Overview
 

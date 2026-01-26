@@ -4,13 +4,13 @@ site_name: "Olbers memorial"
 date: 2026-01-26
 draft: false
 description: "memorial in Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q18629547"
 latitude: 53.074292
 longitude: 8.813524
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/400px-Olbers-Denkmal,_Wallanlagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/800px-Olbers-Denkmal,_Wallanlagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/1200px-Olbers-Denkmal,_Wallanlagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/1920px-Olbers-Denkmal,_Wallanlagen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/1920px-Olbers-Denkmal,_Wallanlagen.jpg---
 
 ## Overview
 

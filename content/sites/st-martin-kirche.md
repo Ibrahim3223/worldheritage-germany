@@ -4,13 +4,13 @@ site_name: "St.-Martin-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1337874"
 latitude: 49.5207
 longitude: 8.40428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/400px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/800px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/1200px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/1920px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/1920px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg---
 
 ## Overview
 

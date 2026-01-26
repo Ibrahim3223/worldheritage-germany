@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q719355"
 latitude: 50.069683
 longitude: 8.235353
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/400px-WiesbadenDreifaltigkeitskircheSO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/800px-WiesbadenDreifaltigkeitskircheSO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/1200px-WiesbadenDreifaltigkeitskircheSO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/1920px-WiesbadenDreifaltigkeitskircheSO.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/1920px-WiesbadenDreifaltigkeitskircheSO.JPG---
 
 ## Overview
 

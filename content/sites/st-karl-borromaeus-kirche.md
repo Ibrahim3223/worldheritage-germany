@@ -4,13 +4,13 @@ site_name: "St.-Karl-Borromäus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1489826"
 latitude: 52.484
 longitude: 13.2815
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/400px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/800px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/1200px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/1920px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/1920px-St._Karl_Borromäus_(Berlin-Grunewald).jpg---
 
 ## Overview
 

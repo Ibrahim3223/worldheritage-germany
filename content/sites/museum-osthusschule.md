@@ -4,13 +4,13 @@ site_name: "Museum Osthusschule"
 date: 2026-01-26
 draft: false
 description: "museum in Bielefeld, Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q17124821"
 latitude: 51.95508333
 longitude: 8.50140278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bielefeld-Senne_-_Museum_Osthusschule.jpg/400px-Bielefeld-Senne_-_Museum_Osthusschule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bielefeld-Senne_-_Museum_Osthusschule.jpg/800px-Bielefeld-Senne_-_Museum_Osthusschule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bielefeld-Senne_-_Museum_Osthusschule.jpg/1200px-Bielefeld-Senne_-_Museum_Osthusschule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bielefeld-Senne_-_Museum_Osthusschule.jpg/1920px-Bielefeld-Senne_-_Museum_Osthusschule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bielefeld-Senne_-_Museum_Osthusschule.jpg/1920px-Bielefeld-Senne_-_Museum_Osthusschule.jpg---
 
 ## Overview
 

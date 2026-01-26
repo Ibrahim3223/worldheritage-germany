@@ -4,13 +4,13 @@ site_name: "Dornheimer Weg bridge"
 date: 2026-01-26
 draft: false
 description: "bridge in Darmstadt, Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q20754318"
 latitude: 49.8752
 longitude: 8.62944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_HBF_Bridge_Tower_II.jpg/400px-Darmstadt_HBF_Bridge_Tower_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_HBF_Bridge_Tower_II.jpg/800px-Darmstadt_HBF_Bridge_Tower_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_HBF_Bridge_Tower_II.jpg/1200px-Darmstadt_HBF_Bridge_Tower_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_HBF_Bridge_Tower_II.jpg/1920px-Darmstadt_HBF_Bridge_Tower_II.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_HBF_Bridge_Tower_II.jpg/1920px-Darmstadt_HBF_Bridge_Tower_II.jpg---
 
 ## Overview
 

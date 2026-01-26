@@ -4,13 +4,13 @@ site_name: "Fulda Cathedral"
 date: 2026-01-26
 draft: false
 description: "church in Fulda, Germany"
-region: "Fulda"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Fulda"
+  - "Bavaria"
 wikidata_id: "Q314517"
 latitude: 50.553992
 longitude: 9.672008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/400px-Fulda-Dom-10-2019-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/800px-Fulda-Dom-10-2019-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1200px-Fulda-Dom-10-2019-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1920px-Fulda-Dom-10-2019-gje.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1920px-Fulda-Dom-10-2019-gje.jpg---
 
 ## Overview
 

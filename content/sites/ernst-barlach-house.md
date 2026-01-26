@@ -4,13 +4,13 @@ site_name: "Ernst Barlach House"
 date: 2026-01-26
 draft: false
 description: "art museum in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q871581"
 latitude: 53.55361111
 longitude: 9.8675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/400px-Hh-ernst-barlach-haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/800px-Hh-ernst-barlach-haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1200px-Hh-ernst-barlach-haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1920px-Hh-ernst-barlach-haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1920px-Hh-ernst-barlach-haus.jpg---
 
 ## Overview
 

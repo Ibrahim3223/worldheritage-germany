@@ -4,19 +4,18 @@ site_name: "Phyllodrom e.V. - Regenwaldmuseum Leipzig"
 date: 2026-01-26
 draft: false
 description: "voluntary association"
-region: "Wiederitzsch"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wiederitzsch"
+  - "Saxony"
 wikidata_id: "Q1526400"
 latitude: 51.39174
 longitude: 12.37734
 images:
-  []
----
+  []---
 
 ## Overview
 

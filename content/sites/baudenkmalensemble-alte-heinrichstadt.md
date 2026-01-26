@@ -4,19 +4,18 @@ site_name: "Baudenkmalensemble Alte Heinrichstadt"
 date: 2026-01-26
 draft: false
 description: "Wikimedia list article"
-region: "Wolfenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Wolfenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q18410589"
 latitude: 52.16403
 longitude: 10.53467
 images:
-  []
----
+  []---
 
 ## Overview
 

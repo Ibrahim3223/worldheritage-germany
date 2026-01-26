@@ -4,13 +4,13 @@ site_name: "Gutenzell Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Gutenzell-Hürbel"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Gutenzell-Hürbel"
+  - "Baden-Württemberg"
 wikidata_id: "Q477383"
 latitude: 48.1147
 longitude: 9.99597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/400px-Gutenzell_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/800px-Gutenzell_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1200px-Gutenzell_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1920px-Gutenzell_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1920px-Gutenzell_Kirche.jpg---
 
 ## Overview
 

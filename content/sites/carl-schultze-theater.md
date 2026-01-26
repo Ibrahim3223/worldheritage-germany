@@ -4,19 +4,18 @@ site_name: "Carl-Schultze-Theater"
 date: 2026-01-26
 draft: false
 description: "former theatre in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1036600"
 latitude: 53.54969
 longitude: 9.9592
 images:
-  []
----
+  []---
 
 ## Overview
 

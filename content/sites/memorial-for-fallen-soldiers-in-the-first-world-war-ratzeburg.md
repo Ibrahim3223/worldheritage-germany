@@ -4,13 +4,13 @@ site_name: "Memorial for fallen soldiers in the First World War (Ratzeburg)"
 date: 2026-01-26
 draft: false
 description: "memorial in Ratzeburg, Germany"
-region: "Ratzeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Ratzeburg"
+  - "Lower Saxony"
 wikidata_id: "Q58490893"
 latitude: 53.68405
 longitude: 10.772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/400px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/800px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/1200px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/1920px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/1920px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg---
 
 ## Overview
 

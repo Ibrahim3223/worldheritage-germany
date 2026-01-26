@@ -4,13 +4,13 @@ site_name: "Brandenburg Museum für Zukunft, Gegenwart und Geschichte"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q27831263"
 latitude: 52.396111111
 longitude: 13.056944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/400px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/800px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/1200px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/1920px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/1920px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg---
 
 ## Overview
 

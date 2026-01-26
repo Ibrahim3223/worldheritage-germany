@@ -4,19 +4,18 @@ site_name: "Bullowsee"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q1004552"
 latitude: 53.317747222
 longitude: 12.9158
 images:
-  []
----
+  []---
 
 ## Overview
 

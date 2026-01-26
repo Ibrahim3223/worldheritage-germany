@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6120-0128 in Großwallstadt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Großwallstadt, Miltenberg, Lower Franconia, Bavaria, Germany"
-region: "Großwallstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Großwallstadt"
+  - "Bavaria"
 wikidata_id: "Q98169866"
 latitude: 49.878857147
 longitude: 9.159143416
 images:
-  []
----
+  []---
 
 ## Overview
 

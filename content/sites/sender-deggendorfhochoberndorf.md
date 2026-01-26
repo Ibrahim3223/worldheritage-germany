@@ -4,13 +4,13 @@ site_name: "Sender Deggendorf/Hochoberndorf"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Grafling"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Grafling"
+  - "Bavaria"
 wikidata_id: "Q985116"
 latitude: 48.8781
 longitude: 12.9938
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sender_Deggendorf_1.jpg/400px-Sender_Deggendorf_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sender_Deggendorf_1.jpg/800px-Sender_Deggendorf_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sender_Deggendorf_1.jpg/1200px-Sender_Deggendorf_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sender_Deggendorf_1.jpg/1920px-Sender_Deggendorf_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sender_Deggendorf_1.jpg/1920px-Sender_Deggendorf_1.jpg---
 
 ## Overview
 

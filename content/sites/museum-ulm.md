@@ -4,13 +4,13 @@ site_name: "Museum Ulm"
 date: 2026-01-26
 draft: false
 description: "museum in Ulm, Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q2475379"
 latitude: 48.397
 longitude: 9.99481
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museum_Ulm.jpg/400px-Museum_Ulm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museum_Ulm.jpg/800px-Museum_Ulm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museum_Ulm.jpg/1200px-Museum_Ulm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museum_Ulm.jpg/1920px-Museum_Ulm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museum_Ulm.jpg/1920px-Museum_Ulm.jpg---
 
 ## Overview
 

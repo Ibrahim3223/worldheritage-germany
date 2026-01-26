@@ -4,13 +4,13 @@ site_name: "Güllener Ring"
 date: 2026-01-26
 draft: false
 description: "Wallburg in Sundern (Sauerland), Nordrhein-Westfalen, Deutschland"
-region: "Sundern"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Sundern"
+  - "Hesse"
 wikidata_id: "Q1560128"
 latitude: 51.3053
 longitude: 8.06861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Güllener_Ring-6.jpg/400px-Güllener_Ring-6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Güllener_Ring-6.jpg/800px-Güllener_Ring-6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Güllener_Ring-6.jpg/1200px-Güllener_Ring-6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Güllener_Ring-6.jpg/1920px-Güllener_Ring-6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Güllener_Ring-6.jpg/1920px-Güllener_Ring-6.jpg---
 
 ## Overview
 

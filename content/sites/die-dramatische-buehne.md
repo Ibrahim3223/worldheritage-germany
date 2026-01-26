@@ -4,13 +4,13 @@ site_name: "Die Dramatische Bühne"
 date: 2026-01-26
 draft: false
 description: "freies Theater in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1211985"
 latitude: 50.1236
 longitude: 8.6413
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ffm_Leipziger_Straße_4.jpg/400px-Ffm_Leipziger_Straße_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ffm_Leipziger_Straße_4.jpg/800px-Ffm_Leipziger_Straße_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ffm_Leipziger_Straße_4.jpg/1200px-Ffm_Leipziger_Straße_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ffm_Leipziger_Straße_4.jpg/1920px-Ffm_Leipziger_Straße_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ffm_Leipziger_Straße_4.jpg/1920px-Ffm_Leipziger_Straße_4.jpg---
 
 ## Overview
 

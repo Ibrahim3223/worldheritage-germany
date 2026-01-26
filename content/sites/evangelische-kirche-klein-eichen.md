@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Klein-Eichen"
 date: 2026-01-26
 draft: false
 description: "church building in Klein-Eichen, Germany"
-region: "Grünberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Grünberg"
+  - "Bavaria"
 wikidata_id: "Q15110522"
 latitude: 50.586508
 longitude: 9.048617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Klein-Eichen_mit_Backhaus.jpg/400px-Kirche_Klein-Eichen_mit_Backhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Klein-Eichen_mit_Backhaus.jpg/800px-Kirche_Klein-Eichen_mit_Backhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Klein-Eichen_mit_Backhaus.jpg/1200px-Kirche_Klein-Eichen_mit_Backhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Klein-Eichen_mit_Backhaus.jpg/1920px-Kirche_Klein-Eichen_mit_Backhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Klein-Eichen_mit_Backhaus.jpg/1920px-Kirche_Klein-Eichen_mit_Backhaus.jpg---
 
 ## Overview
 

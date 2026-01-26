@@ -4,13 +4,13 @@ site_name: "Güstrow Cathedral"
 date: 2026-01-26
 draft: false
 description: "Brick Gothic Lutheran church"
-region: "Güstrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Güstrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1562136"
 latitude: 53.7909
 longitude: 12.1733
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/400px-Guestrow_Dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/800px-Guestrow_Dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1200px-Guestrow_Dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1920px-Guestrow_Dom.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1920px-Guestrow_Dom.jpg---
 
 ## Overview
 

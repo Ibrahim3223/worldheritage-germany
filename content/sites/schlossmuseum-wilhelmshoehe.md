@@ -4,19 +4,18 @@ site_name: "Schloßmuseum Wilhelmshöhe"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q76633944"
 latitude: 51.31718
 longitude: 9.41796
 images:
-  []
----
+  []---
 
 ## Overview
 

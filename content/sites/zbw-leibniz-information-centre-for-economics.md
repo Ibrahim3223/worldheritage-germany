@@ -4,13 +4,13 @@ site_name: "ZBW - Leibniz Information Centre for Economics"
 date: 2026-01-26
 draft: false
 description: "world's largest library of economics"
-region: "Hamburg"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Hamburg"
+  - "Schleswig-Holstein"
 wikidata_id: "Q317179"
 latitude: 54.338333
 longitude: 10.156111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/400px-ZBW_Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/800px-ZBW_Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/1200px-ZBW_Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/1920px-ZBW_Kiel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/1920px-ZBW_Kiel.jpg---
 
 ## Overview
 

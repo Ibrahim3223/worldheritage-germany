@@ -4,13 +4,13 @@ site_name: "Hutmuseum Nürnberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q59220609"
 latitude: 49.45599
 longitude: 11.08294
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hutmuseum_Nürnberg_02.jpg/400px-Hutmuseum_Nürnberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hutmuseum_Nürnberg_02.jpg/800px-Hutmuseum_Nürnberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hutmuseum_Nürnberg_02.jpg/1200px-Hutmuseum_Nürnberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hutmuseum_Nürnberg_02.jpg/1920px-Hutmuseum_Nürnberg_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hutmuseum_Nürnberg_02.jpg/1920px-Hutmuseum_Nürnberg_02.jpg---
 
 ## Overview
 

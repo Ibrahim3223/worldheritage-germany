@@ -4,13 +4,13 @@ site_name: "Botanischer Garten der Universität Duisburg-Essen"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q877942"
 latitude: 51.4281
 longitude: 6.98139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Botanischer_Garten_der_Uni_Duisburg-Essen.jpg/400px-Botanischer_Garten_der_Uni_Duisburg-Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Botanischer_Garten_der_Uni_Duisburg-Essen.jpg/800px-Botanischer_Garten_der_Uni_Duisburg-Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Botanischer_Garten_der_Uni_Duisburg-Essen.jpg/1200px-Botanischer_Garten_der_Uni_Duisburg-Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Botanischer_Garten_der_Uni_Duisburg-Essen.jpg/1920px-Botanischer_Garten_der_Uni_Duisburg-Essen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Botanischer_Garten_der_Uni_Duisburg-Essen.jpg/1920px-Botanischer_Garten_der_Uni_Duisburg-Essen.jpg---
 
 ## Overview
 

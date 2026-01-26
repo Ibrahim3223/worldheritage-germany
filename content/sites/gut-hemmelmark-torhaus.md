@@ -4,13 +4,13 @@ site_name: "Gut Hemmelmark: Torhaus"
 date: 2026-01-26
 draft: false
 description: "gate house in Barkelsby, Germany"
-region: "Barkelsby"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Barkelsby"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58396320"
 latitude: 54.488175
 longitude: 9.874743
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barkelsby_Gut_Hemmelmark01.jpg/400px-Barkelsby_Gut_Hemmelmark01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barkelsby_Gut_Hemmelmark01.jpg/800px-Barkelsby_Gut_Hemmelmark01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barkelsby_Gut_Hemmelmark01.jpg/1200px-Barkelsby_Gut_Hemmelmark01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barkelsby_Gut_Hemmelmark01.jpg/1920px-Barkelsby_Gut_Hemmelmark01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barkelsby_Gut_Hemmelmark01.jpg/1920px-Barkelsby_Gut_Hemmelmark01.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Kölle-Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q29386314"
 latitude: 52.37165
 longitude: 9.75068
 images:
-  []
----
+  []---
 
 ## Overview
 

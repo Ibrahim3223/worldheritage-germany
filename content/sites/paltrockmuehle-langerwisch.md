@@ -4,13 +4,13 @@ site_name: "Paltrockmühle Langerwisch"
 date: 2026-01-26
 draft: false
 description: "zwei Getreidemühlen in Michendorf, Brandenburg, Deutschland"
-region: "Michendorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Michendorf"
+  - "Brandenburg"
 wikidata_id: "Q2048438"
 latitude: 52.3208
 longitude: 13.0843
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Langerwisch_03_(3).JPG/400px-Langerwisch_03_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Langerwisch_03_(3).JPG/800px-Langerwisch_03_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Langerwisch_03_(3).JPG/1200px-Langerwisch_03_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Langerwisch_03_(3).JPG/1920px-Langerwisch_03_(3).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Langerwisch_03_(3).JPG/1920px-Langerwisch_03_(3).JPG---
 
 ## Overview
 

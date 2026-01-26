@@ -4,13 +4,13 @@ site_name: "Arch bridge with railings Hohnstein"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hohnstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hohnstein"
+  - "Saxony"
 wikidata_id: "Q49442447"
 latitude: 50.976907605
 longitude: 14.109211282
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bogenbrücke_mit_Geländer_Hohnstein_01.jpg/400px-Bogenbrücke_mit_Geländer_Hohnstein_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bogenbrücke_mit_Geländer_Hohnstein_01.jpg/800px-Bogenbrücke_mit_Geländer_Hohnstein_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bogenbrücke_mit_Geländer_Hohnstein_01.jpg/1200px-Bogenbrücke_mit_Geländer_Hohnstein_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bogenbrücke_mit_Geländer_Hohnstein_01.jpg/1920px-Bogenbrücke_mit_Geländer_Hohnstein_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bogenbrücke_mit_Geländer_Hohnstein_01.jpg/1920px-Bogenbrücke_mit_Geländer_Hohnstein_01.jpg---
 
 ## Overview
 

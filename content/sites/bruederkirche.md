@@ -4,13 +4,13 @@ site_name: "Brüderkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Altenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altenburg"
+  - "Saxony"
 wikidata_id: "Q996759"
 latitude: 50.985272
 longitude: 12.430168237
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/400px-Altenburg_Brüderkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/800px-Altenburg_Brüderkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1200px-Altenburg_Brüderkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1920px-Altenburg_Brüderkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1920px-Altenburg_Brüderkirche.JPG---
 
 ## Overview
 

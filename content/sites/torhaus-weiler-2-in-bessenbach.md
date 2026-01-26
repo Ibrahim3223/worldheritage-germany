@@ -4,13 +4,13 @@ site_name: "Torhaus Weiler 2 in Bessenbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-71-112-40 (2) in Bessenbach, Bavaria"
-region: "Bessenbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Bessenbach"
+  - "Bavaria"
 wikidata_id: "Q98495711"
 latitude: 49.984143804
 longitude: 9.26681775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/400px-Torhaus_(Schloss_Weiler).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/800px-Torhaus_(Schloss_Weiler).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/1200px-Torhaus_(Schloss_Weiler).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/1920px-Torhaus_(Schloss_Weiler).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/1920px-Torhaus_(Schloss_Weiler).jpg---
 
 ## Overview
 

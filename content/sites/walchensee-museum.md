@@ -4,13 +4,13 @@ site_name: "Walchensee-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kochel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kochel"
+  - "Bavaria"
 wikidata_id: "Q2540971"
 latitude: 47.618222
 longitude: 11.346611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Walchenseemuseum.jpg/400px-Walchenseemuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Walchenseemuseum.jpg/800px-Walchenseemuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Walchenseemuseum.jpg/1200px-Walchenseemuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Walchenseemuseum.jpg/1920px-Walchenseemuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Walchenseemuseum.jpg/1920px-Walchenseemuseum.jpg---
 
 ## Overview
 

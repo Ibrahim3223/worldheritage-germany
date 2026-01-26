@@ -4,13 +4,13 @@ site_name: "Alter Park"
 date: 2026-01-26
 draft: false
 description: "park in Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q438137"
 latitude: 52.4631
 longitude: 13.3835
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tempelhof_Alter_Park_Klarensee.jpg/400px-Tempelhof_Alter_Park_Klarensee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tempelhof_Alter_Park_Klarensee.jpg/800px-Tempelhof_Alter_Park_Klarensee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tempelhof_Alter_Park_Klarensee.jpg/1200px-Tempelhof_Alter_Park_Klarensee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tempelhof_Alter_Park_Klarensee.jpg/1920px-Tempelhof_Alter_Park_Klarensee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tempelhof_Alter_Park_Klarensee.jpg/1920px-Tempelhof_Alter_Park_Klarensee.jpg---
 
 ## Overview
 

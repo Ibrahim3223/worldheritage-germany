@@ -4,13 +4,13 @@ site_name: "Puppentheatersammlung Dresden"
 date: 2026-01-26
 draft: false
 description: "Collection of 18th-20th century theater puppets in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1754671"
 latitude: 51.0578
 longitude: 13.7439
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/400px-Dresden_Jägerhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/800px-Dresden_Jägerhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/1200px-Dresden_Jägerhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/1920px-Dresden_Jägerhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/1920px-Dresden_Jägerhof.jpg---
 
 ## Overview
 

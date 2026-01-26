@@ -4,13 +4,13 @@ site_name: "Westdeutsches Wintersport-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Winterberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Winterberg"
+  - "Hesse"
 wikidata_id: "Q2564563"
 latitude: 51.161
 longitude: 8.48292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/400px-Schultenhof_Neuastenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/800px-Schultenhof_Neuastenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/1200px-Schultenhof_Neuastenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/1920px-Schultenhof_Neuastenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/1920px-Schultenhof_Neuastenberg.jpg---
 
 ## Overview
 

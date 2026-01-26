@@ -4,19 +4,18 @@ site_name: "Japanese-German Center Berlin"
 date: 2026-01-26
 draft: false
 description: "science foundation in Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1683224"
 latitude: 52.4505
 longitude: 13.2717
 images:
-  []
----
+  []---
 
 ## Overview
 

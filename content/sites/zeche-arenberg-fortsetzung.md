@@ -4,13 +4,13 @@ site_name: "Zeche Arenberg-Fortsetzung"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bottrop"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bottrop"
+  - "Lower Saxony"
 wikidata_id: "Q169655"
 latitude: 51.5331
 longitude: 6.96417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/400px-Zeche_arenberg_fortsetzung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/800px-Zeche_arenberg_fortsetzung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/1200px-Zeche_arenberg_fortsetzung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/1920px-Zeche_arenberg_fortsetzung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/1920px-Zeche_arenberg_fortsetzung.jpg---
 
 ## Overview
 

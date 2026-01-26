@@ -4,19 +4,18 @@ site_name: "Landesdenkmalamt Baden Württemberg"
 date: 2026-01-26
 draft: false
 description: "archive organization in Esslingen am Neckar, Germany"
-region: "Esslingen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Esslingen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q33121459"
 latitude: 48.741172
 longitude: 9.302232
 images:
-  []
----
+  []---
 
 ## Overview
 

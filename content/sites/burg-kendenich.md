@@ -4,13 +4,13 @@ site_name: "Burg Kendenich"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kendenich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kendenich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012634"
 latitude: 50.864015
 longitude: 6.888506
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Kendenich_Herrenhaus_Ostansicht.JPG/400px-Burg_Kendenich_Herrenhaus_Ostansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Kendenich_Herrenhaus_Ostansicht.JPG/800px-Burg_Kendenich_Herrenhaus_Ostansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Kendenich_Herrenhaus_Ostansicht.JPG/1200px-Burg_Kendenich_Herrenhaus_Ostansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Kendenich_Herrenhaus_Ostansicht.JPG/1920px-Burg_Kendenich_Herrenhaus_Ostansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Kendenich_Herrenhaus_Ostansicht.JPG/1920px-Burg_Kendenich_Herrenhaus_Ostansicht.JPG---
 
 ## Overview
 

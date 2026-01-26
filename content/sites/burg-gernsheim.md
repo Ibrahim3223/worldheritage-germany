@@ -4,19 +4,18 @@ site_name: "Burg Gernsheim"
 date: 2026-01-26
 draft: false
 description: "demolished castle in Gernsheim, Hesse, Germany"
-region: "Gernsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gernsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011940"
 latitude: 49.7517
 longitude: 8.48215
 images:
-  []
----
+  []---
 
 ## Overview
 

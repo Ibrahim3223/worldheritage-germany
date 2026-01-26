@@ -4,13 +4,13 @@ site_name: "Windmühle Pohrsdorf"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Tharandt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Tharandt"
+  - "Saxony"
 wikidata_id: "Q1421170"
 latitude: 50.996
 longitude: 13.5278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/400px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/800px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/1200px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/1920px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/1920px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG---
 
 ## Overview
 

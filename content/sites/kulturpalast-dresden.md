@@ -4,13 +4,13 @@ site_name: "Kulturpalast Dresden"
 date: 2026-01-26
 draft: false
 description: "concert hall in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1791798"
 latitude: 51.051
 longitude: 13.7385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg/400px-Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg/800px-Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg/1200px-Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg/1920px-Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg/1920px-Kulturpalast_von_der_Kreuzkirche_Dresden-1.jpg---
 
 ## Overview
 

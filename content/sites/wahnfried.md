@@ -4,13 +4,13 @@ site_name: "Wahnfried"
 date: 2026-01-26
 draft: false
 description: "former residence of composer Richard Wagner in Bayreuth"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q686109"
 latitude: 49.940945102
 longitude: 11.582061647
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/400px-Wahnfried_1_db.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/800px-Wahnfried_1_db.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/1200px-Wahnfried_1_db.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/1920px-Wahnfried_1_db.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/1920px-Wahnfried_1_db.jpg---
 
 ## Overview
 

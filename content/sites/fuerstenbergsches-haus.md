@@ -4,13 +4,13 @@ site_name: "Fürstenbergsches Haus"
 date: 2026-01-26
 draft: false
 description: "former building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1483139"
 latitude: 51.0531
 longitude: 13.7392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/400px-DD-Augustusstrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/800px-DD-Augustusstrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/1200px-DD-Augustusstrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/1920px-DD-Augustusstrasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/1920px-DD-Augustusstrasse.jpg---
 
 ## Overview
 

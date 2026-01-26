@@ -4,19 +4,18 @@ site_name: "Burg Moosburg (Federsee)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Moosburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Moosburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013145"
 latitude: 48.0812
 longitude: 9.5997
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wilhelm Palais"
 date: 2026-01-26
 draft: false
 description: "building in Stuttgart-Mitte, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q317394"
 latitude: 48.7761
 longitude: 9.18417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/400px-S-wilhelmspalais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/800px-S-wilhelmspalais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/1200px-S-wilhelmspalais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/1920px-S-wilhelmspalais.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/1920px-S-wilhelmspalais.jpg---
 
 ## Overview
 

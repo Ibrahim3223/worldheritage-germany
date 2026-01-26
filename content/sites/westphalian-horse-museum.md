@@ -4,13 +4,13 @@ site_name: "Westphalian Horse Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q2565323"
 latitude: 51.9476
 longitude: 7.58725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/400px-Allwetterzoo_Muenster_Hippomax_3239.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/800px-Allwetterzoo_Muenster_Hippomax_3239.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/1200px-Allwetterzoo_Muenster_Hippomax_3239.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/1920px-Allwetterzoo_Muenster_Hippomax_3239.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/1920px-Allwetterzoo_Muenster_Hippomax_3239.jpg---
 
 ## Overview
 

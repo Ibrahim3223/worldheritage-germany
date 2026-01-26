@@ -4,13 +4,13 @@ site_name: "Seehundbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q587914"
 latitude: 48.1656
 longitude: 11.579
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Seehundbrunnen_muenchen_1.jpg/400px-Seehundbrunnen_muenchen_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Seehundbrunnen_muenchen_1.jpg/800px-Seehundbrunnen_muenchen_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Seehundbrunnen_muenchen_1.jpg/1200px-Seehundbrunnen_muenchen_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Seehundbrunnen_muenchen_1.jpg/1920px-Seehundbrunnen_muenchen_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Seehundbrunnen_muenchen_1.jpg/1920px-Seehundbrunnen_muenchen_1.jpg---
 
 ## Overview
 

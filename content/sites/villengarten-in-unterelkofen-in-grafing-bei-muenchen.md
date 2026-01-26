@@ -4,19 +4,18 @@ site_name: "Villengarten In Unterelkofen in Grafing bei München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-75-122-63 (1) in Grafing bei München, Bavaria"
-region: "Grafing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Grafing"
+  - "Bavaria"
 wikidata_id: "Q98742691"
 latitude: 48.029766191
 longitude: 11.969663582
 images:
-  []
----
+  []---
 
 ## Overview
 

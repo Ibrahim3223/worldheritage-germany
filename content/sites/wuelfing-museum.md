@@ -4,19 +4,18 @@ site_name: "Wülfing-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Radevormwald"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Radevormwald"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2596585"
 latitude: 51.2208
 longitude: 7.31583
 images:
-  []
----
+  []---
 
 ## Overview
 

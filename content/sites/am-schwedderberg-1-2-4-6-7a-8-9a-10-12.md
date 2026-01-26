@@ -4,13 +4,13 @@ site_name: "Am Schwedderberg 1, 2, 4, 6, 7a, 8, 9a, 10, 12"
 date: 2026-01-26
 draft: false
 description: "buildings in Gernrode near Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15856623"
 latitude: 51.72476
 longitude: 11.129839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/400px-Am_Schwedderberg_(Gernrode).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/800px-Am_Schwedderberg_(Gernrode).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/1200px-Am_Schwedderberg_(Gernrode).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/1920px-Am_Schwedderberg_(Gernrode).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/1920px-Am_Schwedderberg_(Gernrode).jpg---
 
 ## Overview
 

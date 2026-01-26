@@ -4,13 +4,13 @@ site_name: "Burgstall Weiher"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rettenberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Rettenberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011710"
 latitude: 47.5757
 longitude: 10.2795
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burgstall_Weiher_GO-3.jpg/400px-Burgstall_Weiher_GO-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burgstall_Weiher_GO-3.jpg/800px-Burgstall_Weiher_GO-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burgstall_Weiher_GO-3.jpg/1200px-Burgstall_Weiher_GO-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burgstall_Weiher_GO-3.jpg/1920px-Burgstall_Weiher_GO-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burgstall_Weiher_GO-3.jpg/1920px-Burgstall_Weiher_GO-3.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Mary church"
 date: 2026-01-26
 draft: false
 description: "church building in Stendal, Saxony-Anhalt, Germany"
-region: "Stendal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stendal"
+  - "Brandenburg"
 wikidata_id: "Q2320880"
 latitude: 52.6056
 longitude: 11.8606
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/400px-Stendal_Marienkirche_2011-09-17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/800px-Stendal_Marienkirche_2011-09-17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/1200px-Stendal_Marienkirche_2011-09-17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/1920px-Stendal_Marienkirche_2011-09-17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/1920px-Stendal_Marienkirche_2011-09-17.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kirche Herzkamp"
 date: 2026-01-26
 draft: false
 description: "church in Sprockhövel, North Rhine-Westphalia, Germany"
-region: "Sprockhövel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sprockhövel"
+  - "Lower Saxony"
 wikidata_id: "Q1380717"
 latitude: 51.3111
 longitude: 7.20321
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/400px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/800px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1200px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1920px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1920px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg---
 
 ## Overview
 

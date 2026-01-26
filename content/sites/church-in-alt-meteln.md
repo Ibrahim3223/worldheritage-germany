@@ -4,13 +4,13 @@ site_name: "Church in Alt Meteln"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Alt Meteln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Alt Meteln"
+  - "Lower Saxony"
 wikidata_id: "Q1244086"
 latitude: 53.7468
 longitude: 11.3405
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/400px-Kirche_in_Alt_Meteln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/800px-Kirche_in_Alt_Meteln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/1200px-Kirche_in_Alt_Meteln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/1920px-Kirche_in_Alt_Meteln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/1920px-Kirche_in_Alt_Meteln.jpg---
 
 ## Overview
 

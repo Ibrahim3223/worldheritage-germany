@@ -4,13 +4,13 @@ site_name: "Rathaus (Dahme/Mark)"
 date: 2026-01-26
 draft: false
 description: "Gebäude im Landkreis Teltow-Fläming, Brandenburg"
-region: "Dahme/Mark"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Dahme/Mark"
+  - "Brandenburg"
 wikidata_id: "Q130268704"
 latitude: 51.869546
 longitude: 13.428608
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/400px-Dahme_Mark_Rathaus_14.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/800px-Dahme_Mark_Rathaus_14.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/1200px-Dahme_Mark_Rathaus_14.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/1920px-Dahme_Mark_Rathaus_14.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/1920px-Dahme_Mark_Rathaus_14.jpg---
 
 ## Overview
 

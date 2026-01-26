@@ -4,13 +4,13 @@ site_name: "Sts. Simon and Jude"
 date: 2026-01-26
 draft: false
 description: "church in Reken, Germany"
-region: "Reken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Reken"
+  - "Lower Saxony"
 wikidata_id: "Q14912430"
 latitude: 51.8316
 longitude: 7.04664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/400px-SimonJudasReken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/800px-SimonJudasReken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/1200px-SimonJudasReken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/1920px-SimonJudasReken.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/1920px-SimonJudasReken.JPG---
 
 ## Overview
 

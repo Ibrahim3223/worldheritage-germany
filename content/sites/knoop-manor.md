@@ -4,13 +4,13 @@ site_name: "Knoop Manor"
 date: 2026-01-26
 draft: false
 description: "manor house in Altenholz, Germany"
-region: "Altenholz"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Altenholz"
+  - "Schleswig-Holstein"
 wikidata_id: "Q881935"
 latitude: 54.3734
 longitude: 10.1025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/400px-Gut_Knoop-Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/800px-Gut_Knoop-Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/1200px-Gut_Knoop-Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/1920px-Gut_Knoop-Herrenhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/1920px-Gut_Knoop-Herrenhaus.JPG---
 
 ## Overview
 

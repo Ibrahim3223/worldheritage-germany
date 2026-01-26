@@ -4,13 +4,13 @@ site_name: "Mausoleum Wehmer-Wolff"
 date: 2026-01-26
 draft: false
 description: "1896 auf dem Stadtfriedhof Stöcken in Hannover erbautes Erbbegräbnis für die Familien Wehmer und Wolff"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q137801485"
 latitude: 52.401665767
 longitude: 9.667445447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/400px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/800px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/1200px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/1920px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/1920px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Princely Abbey of Corvey"
 date: 2026-01-26
 draft: false
 description: "abbey in North Rhine-Westphalia, Germany"
-region: "Höxter"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Royal Palace"
 categories:
   - "Royal Palace"
 regions:
-  - "Höxter"
+  - "Lower Saxony"
 wikidata_id: "Q56004"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/400px-Corvey_Anlage_vom_Torhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/800px-Corvey_Anlage_vom_Torhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/1200px-Corvey_Anlage_vom_Torhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/1920px-Corvey_Anlage_vom_Torhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/1920px-Corvey_Anlage_vom_Torhaus.jpg---
 
 ## Overview
 

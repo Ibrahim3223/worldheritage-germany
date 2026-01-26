@@ -4,13 +4,13 @@ site_name: "Contra-Kreis-Theater"
 date: 2026-01-26
 draft: false
 description: "oldest privately owned theater in Bonn, Germany"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q877125"
 latitude: 50.7334
 longitude: 7.10119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/400px-Contra_kreis_theater_bonn_eingang_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/800px-Contra_kreis_theater_bonn_eingang_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1200px-Contra_kreis_theater_bonn_eingang_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1920px-Contra_kreis_theater_bonn_eingang_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1920px-Contra_kreis_theater_bonn_eingang_2008.jpg---
 
 ## Overview
 

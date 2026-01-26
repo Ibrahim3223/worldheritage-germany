@@ -4,13 +4,13 @@ site_name: "Schlenkerla"
 date: 2026-01-26
 draft: false
 description: "German Brewery"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q566990"
 latitude: 49.891666666
 longitude: 10.884722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Brauerei_Heller_-_Außen_01.jpg/400px-Brauerei_Heller_-_Außen_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Brauerei_Heller_-_Außen_01.jpg/800px-Brauerei_Heller_-_Außen_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Brauerei_Heller_-_Außen_01.jpg/1200px-Brauerei_Heller_-_Außen_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Brauerei_Heller_-_Außen_01.jpg/1920px-Brauerei_Heller_-_Außen_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Brauerei_Heller_-_Außen_01.jpg/1920px-Brauerei_Heller_-_Außen_01.jpg---
 
 ## Overview
 

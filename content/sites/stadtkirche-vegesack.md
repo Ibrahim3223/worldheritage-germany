@@ -4,13 +4,13 @@ site_name: "Stadtkirche Vegesack"
 date: 2026-01-26
 draft: false
 description: "church in Bremen, Germany"
-region: "Vegesack"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vegesack"
+  - "Bremen"
 wikidata_id: "Q1283446"
 latitude: 53.1733
 longitude: 8.6215
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/400px-Stadtkirche_Vegesack_-_Bremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/800px-Stadtkirche_Vegesack_-_Bremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/1200px-Stadtkirche_Vegesack_-_Bremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/1920px-Stadtkirche_Vegesack_-_Bremen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/1920px-Stadtkirche_Vegesack_-_Bremen.jpg---
 
 ## Overview
 

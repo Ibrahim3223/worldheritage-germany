@@ -4,13 +4,13 @@ site_name: "Former Federal Debt Administration of Germany"
 date: 2026-01-26
 draft: false
 description: "four-story, light-colored clinkered skeleton building parallel to the street with a flat roof, roof pavilion and angled porch in Gonzenheim, Bad Hombu"
-region: "Bad Homburg vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Bad Homburg vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q54339443"
 latitude: 50.222038
 longitude: 8.621923
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gonzenheim,_Bahnhofstraße_16-18_02.jpg/400px-Gonzenheim,_Bahnhofstraße_16-18_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gonzenheim,_Bahnhofstraße_16-18_02.jpg/800px-Gonzenheim,_Bahnhofstraße_16-18_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gonzenheim,_Bahnhofstraße_16-18_02.jpg/1200px-Gonzenheim,_Bahnhofstraße_16-18_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gonzenheim,_Bahnhofstraße_16-18_02.jpg/1920px-Gonzenheim,_Bahnhofstraße_16-18_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gonzenheim,_Bahnhofstraße_16-18_02.jpg/1920px-Gonzenheim,_Bahnhofstraße_16-18_02.jpg---
 
 ## Overview
 

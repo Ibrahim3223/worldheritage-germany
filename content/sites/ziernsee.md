@@ -4,19 +4,18 @@ site_name: "Ziernsee"
 date: 2026-01-26
 draft: false
 description: "lake in Priepert, Mecklenburg-Vorpommern, Germany"
-region: "Priepert"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Priepert"
+  - "Brandenburg"
 wikidata_id: "Q199143"
 latitude: 53.208192
 longitude: 13.076992
 images:
-  []
----
+  []---
 
 ## Overview
 

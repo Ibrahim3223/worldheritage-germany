@@ -4,13 +4,13 @@ site_name: "Synagogue Selm-Bork"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Selm"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Selm"
+  - "Lower Saxony"
 wikidata_id: "Q220062"
 latitude: 51.66527778
 longitude: 7.46722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/400px-Die_Synagoge_selm_bork.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/800px-Die_Synagoge_selm_bork.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/1200px-Die_Synagoge_selm_bork.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/1920px-Die_Synagoge_selm_bork.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/1920px-Die_Synagoge_selm_bork.jpg---
 
 ## Overview
 

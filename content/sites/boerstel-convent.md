@@ -4,13 +4,13 @@ site_name: "Börstel convent"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Berge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Berge"
+  - "Lower Saxony"
 wikidata_id: "Q1543907"
 latitude: 52.65
 longitude: 7.69389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Börstel_Stift_1.JPG/400px-Börstel_Stift_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Börstel_Stift_1.JPG/800px-Börstel_Stift_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Börstel_Stift_1.JPG/1200px-Börstel_Stift_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Börstel_Stift_1.JPG/1920px-Börstel_Stift_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Börstel_Stift_1.JPG/1920px-Börstel_Stift_1.JPG---
 
 ## Overview
 

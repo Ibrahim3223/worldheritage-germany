@@ -4,13 +4,13 @@ site_name: "Couven-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "secondary school in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q18489545"
 latitude: 50.7633238
 longitude: 6.0712854
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Couven-Gymnasium_Aachen.JPG/400px-Couven-Gymnasium_Aachen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Couven-Gymnasium_Aachen.JPG/800px-Couven-Gymnasium_Aachen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Couven-Gymnasium_Aachen.JPG/1200px-Couven-Gymnasium_Aachen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Couven-Gymnasium_Aachen.JPG/1920px-Couven-Gymnasium_Aachen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Couven-Gymnasium_Aachen.JPG/1920px-Couven-Gymnasium_Aachen.JPG---
 
 ## Overview
 

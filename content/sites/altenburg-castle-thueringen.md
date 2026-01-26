@@ -4,13 +4,13 @@ site_name: "Altenburg Castle (Thüringen)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altenburg"
+  - "Saxony"
 wikidata_id: "Q319046"
 latitude: 50.9885
 longitude: 12.4395
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/400px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/800px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/1200px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/1920px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/1920px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg---
 
 ## Overview
 

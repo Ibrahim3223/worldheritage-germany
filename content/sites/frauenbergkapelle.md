@@ -4,13 +4,13 @@ site_name: "Frauenbergkapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Q252772"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Q252772"
+  - "Bavaria"
 wikidata_id: "Q1451604"
 latitude: 48.886261467
 longitude: 11.178875801
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frauenbergkapelle_Eichstätt_-1.jpg/400px-Frauenbergkapelle_Eichstätt_-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frauenbergkapelle_Eichstätt_-1.jpg/800px-Frauenbergkapelle_Eichstätt_-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frauenbergkapelle_Eichstätt_-1.jpg/1200px-Frauenbergkapelle_Eichstätt_-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frauenbergkapelle_Eichstätt_-1.jpg/1920px-Frauenbergkapelle_Eichstätt_-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frauenbergkapelle_Eichstätt_-1.jpg/1920px-Frauenbergkapelle_Eichstätt_-1.jpg---
 
 ## Overview
 

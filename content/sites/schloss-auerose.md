@@ -4,13 +4,13 @@ site_name: "Schloss Auerose"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Neu Kosenow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Neu Kosenow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q545510"
 latitude: 53.807
 longitude: 13.7561
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/400px-SchlossAueroseGiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/800px-SchlossAueroseGiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/1200px-SchlossAueroseGiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/1920px-SchlossAueroseGiebel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/1920px-SchlossAueroseGiebel.JPG---
 
 ## Overview
 

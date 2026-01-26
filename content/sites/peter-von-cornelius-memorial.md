@@ -4,13 +4,13 @@ site_name: "Peter-von-Cornelius-Memorial"
 date: 2026-01-26
 draft: false
 description: "memorial in Düsseldorf"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1723354"
 latitude: 51.2271
 longitude: 6.779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/400px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/800px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/1200px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/1920px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/1920px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg---
 
 ## Overview 
 

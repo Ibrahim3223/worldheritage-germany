@@ -4,13 +4,13 @@ site_name: "Hammertal"
 date: 2026-01-26
 draft: false
 description: "valley in Remscheid, Germany"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1319674"
 latitude: 51.1669
 longitude: 7.17056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Diederichskotten.jpg/400px-Diederichskotten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Diederichskotten.jpg/800px-Diederichskotten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Diederichskotten.jpg/1200px-Diederichskotten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Diederichskotten.jpg/1920px-Diederichskotten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Diederichskotten.jpg/1920px-Diederichskotten.jpg---
 
 ## Overview
 

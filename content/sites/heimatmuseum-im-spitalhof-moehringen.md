@@ -4,13 +4,13 @@ site_name: "Heimatmuseum im Spitalhof Möhringen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1595663"
 latitude: 48.7274
 longitude: 9.1462
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/400px-S-Moehringen-Spitalhoftor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/800px-S-Moehringen-Spitalhoftor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/1200px-S-Moehringen-Spitalhoftor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/1920px-S-Moehringen-Spitalhoftor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/1920px-S-Moehringen-Spitalhoftor.jpg---
 
 ## Overview
 

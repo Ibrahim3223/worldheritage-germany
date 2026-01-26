@@ -4,13 +4,13 @@ site_name: "Große Moschee, Buggingen"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Buggingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Buggingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1548291"
 latitude: 47.85655278
 longitude: 7.62167222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/400px-Buggingen,_Große_Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/800px-Buggingen,_Große_Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/1200px-Buggingen,_Große_Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/1920px-Buggingen,_Große_Moschee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/1920px-Buggingen,_Große_Moschee.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Widukind Museum Enger"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Enger"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Enger"
+  - "Lower Saxony"
 wikidata_id: "Q2568050"
 latitude: 52.1397
 longitude: 8.55936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2007_0609Bild0019.JPG/400px-2007_0609Bild0019.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2007_0609Bild0019.JPG/800px-2007_0609Bild0019.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2007_0609Bild0019.JPG/1200px-2007_0609Bild0019.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2007_0609Bild0019.JPG/1920px-2007_0609Bild0019.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2007_0609Bild0019.JPG/1920px-2007_0609Bild0019.JPG---
 
 ## Overview
 

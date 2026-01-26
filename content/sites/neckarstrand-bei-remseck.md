@@ -4,13 +4,13 @@ site_name: "Neckarstrand bei Remseck"
 date: 2026-01-26
 draft: false
 description: "Strand am Neckar bei Remseck"
-region: "Remseck am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Remseck am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q123561511"
 latitude: 48.87384
 longitude: 9.275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/400px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/800px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/1200px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/1920px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/1920px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Zeche Dachs & Grevelsloch"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Sprockhövel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Sprockhövel"
+  - "Lower Saxony"
 wikidata_id: "Q169745"
 latitude: 51.3535
 longitude: 7.31062
 images:
-  []
----
+  []---
 
 ## Overview
 

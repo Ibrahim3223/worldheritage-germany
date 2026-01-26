@@ -4,13 +4,13 @@ site_name: "Rathaus Reutlingendorf"
 date: 2026-01-26
 draft: false
 description: "Rathaus des zur Gemeinde Obermarchtal gehörenden Teilorts Reutlingendorf im Alb-Donau-Kreis"
-region: "Reutlingendorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Reutlingendorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q128303090"
 latitude: 48.206486111
 longitude: 9.561788888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rathaus_Reutlingendorf.jpg/400px-Rathaus_Reutlingendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rathaus_Reutlingendorf.jpg/800px-Rathaus_Reutlingendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rathaus_Reutlingendorf.jpg/1200px-Rathaus_Reutlingendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rathaus_Reutlingendorf.jpg/1920px-Rathaus_Reutlingendorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rathaus_Reutlingendorf.jpg/1920px-Rathaus_Reutlingendorf.jpg---
 
 ## Overview
 

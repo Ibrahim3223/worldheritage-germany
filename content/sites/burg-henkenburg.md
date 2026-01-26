@@ -4,19 +4,18 @@ site_name: "Burg Henkenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Burgrieden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Burgrieden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012302"
 latitude: 48.2179
 longitude: 9.9431
 images:
-  []
----
+  []---
 
 ## Overview
 

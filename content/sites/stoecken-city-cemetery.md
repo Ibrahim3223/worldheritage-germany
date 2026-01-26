@@ -4,13 +4,13 @@ site_name: "Stöcken City Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Hanover, Germany"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q2327129"
 latitude: 52.4056
 longitude: 9.66778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/400px-StoeckenerFriedhofHaupteingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/800px-StoeckenerFriedhofHaupteingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/1200px-StoeckenerFriedhofHaupteingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/1920px-StoeckenerFriedhofHaupteingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/1920px-StoeckenerFriedhofHaupteingang.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Eisenbahnstrecke Riesa–Nossen Schwochau"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Lommatzsch"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Lommatzsch"
+  - "Saxony"
 wikidata_id: "Q49450901"
 latitude: 51.181009715
 longitude: 13.315836927
 images:
-  []
----
+  []---
 
 ## Overview
 

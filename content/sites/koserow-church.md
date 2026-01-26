@@ -4,13 +4,13 @@ site_name: "Koserow church"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Koserow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Koserow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1691689"
 latitude: 54.0478
 longitude: 13.9984
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/400px-Koserowkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/800px-Koserowkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1200px-Koserowkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1920px-Koserowkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1920px-Koserowkirche.jpg---
 
 ## Overview
 

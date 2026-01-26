@@ -4,13 +4,13 @@ site_name: "Gentilhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q1502629"
 latitude: 49.9753
 longitude: 9.15994
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/400px-Gentilhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/800px-Gentilhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1200px-Gentilhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1920px-Gentilhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1920px-Gentilhaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Bachberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Frankfurt-Nord-Ost"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Frankfurt-Nord-Ost"
+  - "Hesse"
 wikidata_id: "Q1010881"
 latitude: 50.1574
 longitude: 8.68788
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/400px-Burg_Bachberg_Preungesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/800px-Burg_Bachberg_Preungesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/1200px-Burg_Bachberg_Preungesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/1920px-Burg_Bachberg_Preungesheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/1920px-Burg_Bachberg_Preungesheim.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Residence Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q2145673"
 latitude: 48.1403
 longitude: 11.5783
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/400px-Residenz_München_Königsbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/800px-Residenz_München_Königsbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/1200px-Residenz_München_Königsbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/1920px-Residenz_München_Königsbau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/1920px-Residenz_München_Königsbau.jpg---
 
 ## Overview
 

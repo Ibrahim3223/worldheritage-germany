@@ -4,13 +4,13 @@ site_name: "Averdunkshof"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Neukirchen-Vluyn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Neukirchen-Vluyn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q790608"
 latitude: 51.4602
 longitude: 6.57068
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/400px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/800px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/1200px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/1920px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/1920px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg---
 
 ## Overview
 

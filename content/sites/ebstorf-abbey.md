@@ -4,13 +4,13 @@ site_name: "Ebstorf Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Germany"
-region: "Ebstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ebstorf"
+  - "Lower Saxony"
 wikidata_id: "Q1750020"
 latitude: 53.0306
 longitude: 10.4122
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/400px-Monastery_Ebstorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/800px-Monastery_Ebstorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/1200px-Monastery_Ebstorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/1920px-Monastery_Ebstorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/1920px-Monastery_Ebstorf.jpg---
 
 ## Overview
 

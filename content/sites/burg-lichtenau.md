@@ -4,13 +4,13 @@ site_name: "Burg Lichtenau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lichtenau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lichtenau"
+  - "Hesse"
 wikidata_id: "Q1012918"
 latitude: 51.616
 longitude: 8.89822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/400px-Lichtenau_(Westf)_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/800px-Lichtenau_(Westf)_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/1200px-Lichtenau_(Westf)_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/1920px-Lichtenau_(Westf)_Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/1920px-Lichtenau_(Westf)_Burg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Recklinghausen Süd station"
 date: 2026-01-26
 draft: false
 description: "railway station in Recklinghausen, Germany"
-region: "Recklinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Recklinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q322975"
 latitude: 51.5629
 longitude: 7.19564
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/400px-Bahnhof_Recklinghausen_Süd.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/800px-Bahnhof_Recklinghausen_Süd.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/1200px-Bahnhof_Recklinghausen_Süd.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/1920px-Bahnhof_Recklinghausen_Süd.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/1920px-Bahnhof_Recklinghausen_Süd.jpg---
 
 ## Overview
 

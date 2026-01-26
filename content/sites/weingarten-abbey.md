@@ -4,13 +4,13 @@ site_name: "Weingarten Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey in Weingarten, Germany"
-region: "Weingarten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Weingarten"
+  - "Baden-Württemberg"
 wikidata_id: "Q334353"
 latitude: 47.80885
 longitude: 9.64448
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg/400px-Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg/800px-Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Weingarten_Abbey_(view_from_the_southwest).jpg---
 
 ## Overview
 

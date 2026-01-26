@@ -4,13 +4,13 @@ site_name: "St. Ludgerus"
 date: 2026-01-26
 draft: false
 description: "church building in Schermbeck, Germany"
-region: "Schermbeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schermbeck"
+  - "Lower Saxony"
 wikidata_id: "Q2320373"
 latitude: 51.6946
 longitude: 6.87408
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/400px-St_Ludgerus_Erler_Str_Schermbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/800px-St_Ludgerus_Erler_Str_Schermbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/1200px-St_Ludgerus_Erler_Str_Schermbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/1920px-St_Ludgerus_Erler_Str_Schermbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/1920px-St_Ludgerus_Erler_Str_Schermbeck.jpg---
 
 ## Overview
 

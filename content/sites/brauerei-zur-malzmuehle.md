@@ -4,13 +4,13 @@ site_name: "Brauerei zur Malzmühle"
 date: 2026-01-26
 draft: false
 description: "kölsch brewery in Cologne, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q900427"
 latitude: 50.9347
 longitude: 6.96068
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/400px-Brauerei-zur-Malzmühle-Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/800px-Brauerei-zur-Malzmühle-Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1200px-Brauerei-zur-Malzmühle-Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1920px-Brauerei-zur-Malzmühle-Köln.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1920px-Brauerei-zur-Malzmühle-Köln.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Statue of Adolf Dassler"
 date: 2026-01-26
 draft: false
 description: "Bronze sculpture in Germany"
-region: "Herzogenaurach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Herzogenaurach"
+  - "Bavaria"
 wikidata_id: "Q15781492"
 latitude: 49.583056
 longitude: 10.915387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Adi.dassler_Skulptur.jpg/400px-Adi.dassler_Skulptur.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Adi.dassler_Skulptur.jpg/800px-Adi.dassler_Skulptur.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Adi.dassler_Skulptur.jpg/1200px-Adi.dassler_Skulptur.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Adi.dassler_Skulptur.jpg/1920px-Adi.dassler_Skulptur.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Adi.dassler_Skulptur.jpg/1920px-Adi.dassler_Skulptur.jpg---
 
 ## Overview
 

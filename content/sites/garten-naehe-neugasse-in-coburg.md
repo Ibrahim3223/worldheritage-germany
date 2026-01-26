@@ -4,19 +4,18 @@ site_name: "Garten Nähe Neugasse in Coburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-235 (1) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98589421"
 latitude: 50.257408996
 longitude: 10.965282195
 images:
-  []
----
+  []---
 
 ## Overview
 

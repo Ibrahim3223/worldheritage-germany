@@ -4,13 +4,13 @@ site_name: "Burg Weißandt-Gölzau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Südliches Anhalt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Südliches Anhalt"
+  - "Brandenburg"
 wikidata_id: "Q1012135"
 latitude: 51.6689
 longitude: 12.0694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Goelzau007.jpg/400px-Goelzau007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Goelzau007.jpg/800px-Goelzau007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Goelzau007.jpg/1200px-Goelzau007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Goelzau007.jpg/1920px-Goelzau007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Goelzau007.jpg/1920px-Goelzau007.jpg---
 
 ## Overview
 

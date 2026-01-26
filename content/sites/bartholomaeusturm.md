@@ -4,13 +4,13 @@ site_name: "Bartholomäusturm"
 date: 2026-01-26
 draft: false
 description: "church building in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q809398"
 latitude: 50.975
 longitude: 11.0326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/400px-Bartholomäusturm_Erfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/800px-Bartholomäusturm_Erfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/1200px-Bartholomäusturm_Erfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/1920px-Bartholomäusturm_Erfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/1920px-Bartholomäusturm_Erfurt.jpg---
 
 ## Overview
 

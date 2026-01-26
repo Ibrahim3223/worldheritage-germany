@@ -4,13 +4,13 @@ site_name: "Köln Messe/Deutz station"
 date: 2026-01-26
 draft: false
 description: "railway station in Germany"
-region: "Deutz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Deutz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151146"
 latitude: 50.940833333
 longitude: 6.975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg/400px-Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg/800px-Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg/1200px-Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg/1920px-Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg/1920px-Bahnhof_Köln-Deutz_und_Köln-Deutz_tief,_Ottoplatz_-_Luftaufnahme-0076.jpg---
 
 ## Overview
 

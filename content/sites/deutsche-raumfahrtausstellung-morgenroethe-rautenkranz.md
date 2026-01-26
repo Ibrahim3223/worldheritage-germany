@@ -4,13 +4,13 @@ site_name: "Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Muldenhammer"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Muldenhammer"
+  - "Bavaria"
 wikidata_id: "Q1203723"
 latitude: 50.4629
 longitude: 12.4926
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/400px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/800px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1200px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1920px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1920px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg---
 
 ## Overview
 

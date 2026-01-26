@@ -4,13 +4,13 @@ site_name: "Leuchtenberg Gallery"
 date: 2026-01-26
 draft: false
 description: "art museum in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q6534019"
 latitude: 48.14424444
 longitude: 11.57754722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/400px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/800px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/1200px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/1920px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/1920px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg---
 
 ## Overview
 

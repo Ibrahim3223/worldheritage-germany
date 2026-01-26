@@ -4,13 +4,13 @@ site_name: "Allerheiligenbergkapelle"
 date: 2026-01-26
 draft: false
 description: "church building in Lahnstein, Germany"
-region: "Lahnstein"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lahnstein"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2648523"
 latitude: 50.3122
 longitude: 7.6183
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/400px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/800px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/1200px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/1920px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/1920px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Amtsgericht Lübben"
 date: 2026-01-26
 draft: false
 description: "Gerichtsgebäude in Lübben, Brandenburg"
-region: "Lübben (Spreewald)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Lübben (Spreewald)"
+  - "Brandenburg"
 wikidata_id: "Q110205843"
 latitude: 51.9407
 longitude: 13.8986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luebben_Amtsgericht_12.jpg/400px-Luebben_Amtsgericht_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luebben_Amtsgericht_12.jpg/800px-Luebben_Amtsgericht_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luebben_Amtsgericht_12.jpg/1200px-Luebben_Amtsgericht_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luebben_Amtsgericht_12.jpg/1920px-Luebben_Amtsgericht_12.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Luebben_Amtsgericht_12.jpg/1920px-Luebben_Amtsgericht_12.jpg---
 
 ## Overview
 

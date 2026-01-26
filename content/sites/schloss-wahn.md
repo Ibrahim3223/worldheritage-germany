@@ -4,13 +4,13 @@ site_name: "Schloss Wahn"
 date: 2026-01-26
 draft: false
 description: "building in Köln (Germany)"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2243920"
 latitude: 50.8577
 longitude: 7.08374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/400px-Schloss_Wahn_Innenhof_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/800px-Schloss_Wahn_Innenhof_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/1200px-Schloss_Wahn_Innenhof_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/1920px-Schloss_Wahn_Innenhof_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/1920px-Schloss_Wahn_Innenhof_2.jpg---
 
 ## Overview
 

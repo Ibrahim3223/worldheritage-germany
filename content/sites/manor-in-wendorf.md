@@ -4,13 +4,13 @@ site_name: "Manor in Wendorf"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Kuhlen-Wendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kuhlen-Wendorf"
+  - "Lower Saxony"
 wikidata_id: "Q1435746"
 latitude: 53.6676
 longitude: 11.6667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wendorf_Herrenhaus_2012-01-30_002.JPG/400px-Wendorf_Herrenhaus_2012-01-30_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wendorf_Herrenhaus_2012-01-30_002.JPG/800px-Wendorf_Herrenhaus_2012-01-30_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wendorf_Herrenhaus_2012-01-30_002.JPG/1200px-Wendorf_Herrenhaus_2012-01-30_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wendorf_Herrenhaus_2012-01-30_002.JPG/1920px-Wendorf_Herrenhaus_2012-01-30_002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wendorf_Herrenhaus_2012-01-30_002.JPG/1920px-Wendorf_Herrenhaus_2012-01-30_002.JPG---
 
 ## Overview
 

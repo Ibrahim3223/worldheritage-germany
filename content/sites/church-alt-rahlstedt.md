@@ -4,13 +4,13 @@ site_name: "Church Alt-Rahlstedt"
 date: 2026-01-26
 draft: false
 description: "church building in Rahlstedt, Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q1723929"
 latitude: 53.59666667
 longitude: 10.15055556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/400px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/800px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1200px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1920px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1920px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG---
 
 ## Overview
 

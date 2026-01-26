@@ -4,13 +4,13 @@ site_name: "Arnswalder Platz"
 date: 2026-01-26
 draft: false
 description: "public square in Pankow, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q697607"
 latitude: 52.5331
 longitude: 13.4372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/400px-Arnswalder-platz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/800px-Arnswalder-platz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/1200px-Arnswalder-platz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/1920px-Arnswalder-platz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/1920px-Arnswalder-platz.jpg---
 
 ## Overview
 

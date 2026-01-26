@@ -4,13 +4,13 @@ site_name: "Burg Mandach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ühlingen-Birkendorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ühlingen-Birkendorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013069"
 latitude: 47.70684487
 longitude: 8.27603102
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/400px-Ruine_Mandach_Burgrest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/800px-Ruine_Mandach_Burgrest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1200px-Ruine_Mandach_Burgrest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1920px-Ruine_Mandach_Burgrest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1920px-Ruine_Mandach_Burgrest.jpg---
 
 ## Overview
 

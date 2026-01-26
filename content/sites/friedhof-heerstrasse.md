@@ -4,13 +4,13 @@ site_name: "Friedhof Heerstraße"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin-Westend, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q176298"
 latitude: 52.514
 longitude: 13.251
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/400px-Friedhof_Heerstrasse_Berlin,_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/800px-Friedhof_Heerstrasse_Berlin,_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/1200px-Friedhof_Heerstrasse_Berlin,_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/1920px-Friedhof_Heerstrasse_Berlin,_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/1920px-Friedhof_Heerstrasse_Berlin,_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Harburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Harburg (Schwaben)"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Harburg (Schwaben)"
+  - "Bavaria"
 wikidata_id: "Q1012188"
 latitude: 48.785
 longitude: 10.687
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/400px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/800px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/1200px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/1920px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/1920px-Harburg_in_Schwaben,_Burg_20170826_001.jpg---
 
 ## Overview
 

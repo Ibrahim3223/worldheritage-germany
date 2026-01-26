@@ -4,13 +4,13 @@ site_name: "Fulda City Palace"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Fulda"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fulda"
+  - "Bavaria"
 wikidata_id: "Q1473497"
 latitude: 50.5539
 longitude: 9.67556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/400px-Fuldaer_Stadtschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/800px-Fuldaer_Stadtschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/1200px-Fuldaer_Stadtschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/1920px-Fuldaer_Stadtschloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/1920px-Fuldaer_Stadtschloss.jpg---
 
 ## Overview
 

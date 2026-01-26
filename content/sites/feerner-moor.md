@@ -4,13 +4,13 @@ site_name: "Feerner Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Dollern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Dollern"
+  - "Lower Saxony"
 wikidata_id: "Q1150303"
 latitude: 53.5369
 longitude: 9.50472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/400px-Naturschutzgebiet_Feerner_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/800px-Naturschutzgebiet_Feerner_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/1200px-Naturschutzgebiet_Feerner_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/1920px-Naturschutzgebiet_Feerner_Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/1920px-Naturschutzgebiet_Feerner_Moor.jpg---
 
 ## Overview
 

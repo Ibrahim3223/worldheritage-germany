@@ -4,13 +4,13 @@ site_name: "Naturmuseum Augsburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1970386"
 latitude: 48.3708
 longitude: 10.8955
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/400px-Augsburg_Naturmuseum_-_entry.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/800px-Augsburg_Naturmuseum_-_entry.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/1200px-Augsburg_Naturmuseum_-_entry.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/1920px-Augsburg_Naturmuseum_-_entry.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/1920px-Augsburg_Naturmuseum_-_entry.jpg---
 
 ## Overview
 

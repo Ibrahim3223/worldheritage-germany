@@ -4,13 +4,13 @@ site_name: "Unity Flag"
 date: 2026-01-26
 draft: false
 description: "monument to German reunification in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1392131"
 latitude: 52.5184194
 longitude: 13.3747951
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/400px-Berlin_Reichstag_BW_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/800px-Berlin_Reichstag_BW_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/1200px-Berlin_Reichstag_BW_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/1920px-Berlin_Reichstag_BW_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/1920px-Berlin_Reichstag_BW_1.jpg---
 
 ## Overview
 

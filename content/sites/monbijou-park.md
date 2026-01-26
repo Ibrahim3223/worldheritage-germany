@@ -4,13 +4,13 @@ site_name: "Monbijou Park"
 date: 2026-01-26
 draft: false
 description: "park"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q320525"
 latitude: 52.5231
 longitude: 13.3969
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/400px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/800px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/1200px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/1920px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/1920px-Monbijoupark_Berlin_Oranienburgerstraße.JPG---
 
 ## Overview
 

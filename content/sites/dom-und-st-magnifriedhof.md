@@ -4,13 +4,13 @@ site_name: "Dom- und St. Magnifriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1236500"
 latitude: 52.2578
 longitude: 10.5375
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/400px-Dom-_und_St._Magnifriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/800px-Dom-_und_St._Magnifriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/1200px-Dom-_und_St._Magnifriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/1920px-Dom-_und_St._Magnifriedhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/1920px-Dom-_und_St._Magnifriedhof.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Stralau Gate"
 date: 2026-01-26
 draft: false
 description: "former city gate of Berlin"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1428878"
 latitude: 52.5027
 longitude: 13.4471
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/400px-ZLB-Berliner_Ansichten-Januar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/800px-ZLB-Berliner_Ansichten-Januar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/1200px-ZLB-Berliner_Ansichten-Januar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/1920px-ZLB-Berliner_Ansichten-Januar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/1920px-ZLB-Berliner_Ansichten-Januar.jpg---
 
 ## Overview
 

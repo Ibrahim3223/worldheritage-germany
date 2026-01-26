@@ -4,13 +4,13 @@ site_name: "Rhine Gorge"
 date: 2026-01-26
 draft: false
 description: "cultural landscape in the Middle Rhine, part of the World Heritage of UNESCO"
-region: "Hesse"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cultural Landscape"
 categories:
   - "Cultural Landscape"
 regions:
-  - "Hesse"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1780249"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/400px-Mittelrhein_Burg_Katz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/800px-Mittelrhein_Burg_Katz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1200px-Mittelrhein_Burg_Katz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1920px-Mittelrhein_Burg_Katz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1920px-Mittelrhein_Burg_Katz.jpg---
 
 ## Overview
 

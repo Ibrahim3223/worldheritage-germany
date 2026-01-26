@@ -4,13 +4,13 @@ site_name: "Stadtmuseum im Prinz-Max-Palais"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q21097902"
 latitude: 49.01115165
 longitude: 8.39483732
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/400px-Prinz-Max-Palais_Karlsruhe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/800px-Prinz-Max-Palais_Karlsruhe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/1200px-Prinz-Max-Palais_Karlsruhe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/1920px-Prinz-Max-Palais_Karlsruhe.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/1920px-Prinz-Max-Palais_Karlsruhe.JPG---
 
 ## Overview
 

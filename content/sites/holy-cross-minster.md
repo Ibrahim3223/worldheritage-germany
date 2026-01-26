@@ -4,13 +4,13 @@ site_name: "Holy Cross Minster"
 date: 2026-01-26
 draft: false
 description: "church in Schwäbisch Gmünd, Bade-Württemberg, Germany"
-region: "Schwäbisch Gmünd"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwäbisch Gmünd"
+  - "Baden-Württemberg"
 wikidata_id: "Q1594984"
 latitude: 48.7988
 longitude: 9.79639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/400px-Gmuend_Muenster_von_Suedwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/800px-Gmuend_Muenster_von_Suedwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/1200px-Gmuend_Muenster_von_Suedwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/1920px-Gmuend_Muenster_von_Suedwest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/1920px-Gmuend_Muenster_von_Suedwest.jpg---
 
 ## Overview
 

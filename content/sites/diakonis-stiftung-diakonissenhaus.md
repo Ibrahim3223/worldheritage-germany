@@ -4,19 +4,18 @@ site_name: "Diakonis – Stiftung Diakonissenhaus"
 date: 2026-01-26
 draft: false
 description: "foundation in Detmold, Germany"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1208305"
 latitude: 51.94163
 longitude: 8.88112
 images:
-  []
----
+  []---
 
 ## Overview
 

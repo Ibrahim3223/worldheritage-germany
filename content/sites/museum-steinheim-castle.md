@@ -4,13 +4,13 @@ site_name: "Museum Steinheim Castle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q15835873"
 latitude: 50.10849
 longitude: 8.916253
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Schloss_Steinheim_Wohngebaeude02.jpg/400px-Schloss_Steinheim_Wohngebaeude02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Schloss_Steinheim_Wohngebaeude02.jpg/800px-Schloss_Steinheim_Wohngebaeude02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Schloss_Steinheim_Wohngebaeude02.jpg/1200px-Schloss_Steinheim_Wohngebaeude02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Schloss_Steinheim_Wohngebaeude02.jpg/1920px-Schloss_Steinheim_Wohngebaeude02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Schloss_Steinheim_Wohngebaeude02.jpg/1920px-Schloss_Steinheim_Wohngebaeude02.jpg---
 
 ## Overview
 

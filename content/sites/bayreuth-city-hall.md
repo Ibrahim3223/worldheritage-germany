@@ -4,13 +4,13 @@ site_name: "Bayreuth City Hall"
 date: 2026-01-26
 draft: false
 description: "City or town hall in Bayreuth, Bavaria, Germany; Bayreuth, Bavaria, Germany"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q113679263"
 latitude: 49.9465353
 longitude: 11.5761329
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/400px-Bayreuth_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/800px-Bayreuth_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/1200px-Bayreuth_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/1920px-Bayreuth_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/1920px-Bayreuth_Rathaus.JPG---
 
 ## Overview
 

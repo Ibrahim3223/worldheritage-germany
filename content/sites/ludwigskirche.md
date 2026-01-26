@@ -4,13 +4,13 @@ site_name: "Ludwigskirche"
 date: 2026-01-26
 draft: false
 description: "church in Saarbrücken, Germany"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q539324"
 latitude: 49.232778
 longitude: 6.986389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/400px-Ludwigskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/800px-Ludwigskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/1200px-Ludwigskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/1920px-Ludwigskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/1920px-Ludwigskirche.jpg---
 
 ## Overview
 

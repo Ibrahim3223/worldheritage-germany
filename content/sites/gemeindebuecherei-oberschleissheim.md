@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Oberschleißheim"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Oberschleißheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Oberschleißheim"
+  - "Bavaria"
 wikidata_id: "Q28729482"
 latitude: 48.25512
 longitude: 11.55389
 images:
-  []
----
+  []---
 
 ## Overview
 

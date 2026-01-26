@@ -4,13 +4,13 @@ site_name: "Tuchmacher-Museum Bramsche"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bramsche"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bramsche"
+  - "Lower Saxony"
 wikidata_id: "Q2459104"
 latitude: 52.405
 longitude: 7.97802
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bramsche_-_Tuchmachermuseum_01.jpg/400px-Bramsche_-_Tuchmachermuseum_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bramsche_-_Tuchmachermuseum_01.jpg/800px-Bramsche_-_Tuchmachermuseum_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bramsche_-_Tuchmachermuseum_01.jpg/1200px-Bramsche_-_Tuchmachermuseum_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bramsche_-_Tuchmachermuseum_01.jpg/1920px-Bramsche_-_Tuchmachermuseum_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bramsche_-_Tuchmachermuseum_01.jpg/1920px-Bramsche_-_Tuchmachermuseum_01.jpg---
 
 ## Overview
 

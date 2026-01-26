@@ -4,13 +4,13 @@ site_name: "Bauspar-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wüstenrot"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wüstenrot"
+  - "Baden-Württemberg"
 wikidata_id: "Q811871"
 latitude: 49.0802
 longitude: 9.46103
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/400px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/800px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/1200px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/1920px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/1920px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg---
 
 ## Overview
 

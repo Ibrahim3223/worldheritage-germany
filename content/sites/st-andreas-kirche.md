@@ -4,13 +4,13 @@ site_name: "St.-Andreas-Kirche"
 date: 2026-01-26
 draft: false
 description: "demolished church in Berlin-Friedrichshain, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q2317034"
 latitude: 52.5106
 longitude: 13.4308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andreaskirche_1900.jpg/400px-Andreaskirche_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andreaskirche_1900.jpg/800px-Andreaskirche_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andreaskirche_1900.jpg/1200px-Andreaskirche_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andreaskirche_1900.jpg/1920px-Andreaskirche_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andreaskirche_1900.jpg/1920px-Andreaskirche_1900.jpg---
 
 ## Overview
 

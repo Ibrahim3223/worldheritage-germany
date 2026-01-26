@@ -4,13 +4,13 @@ site_name: "Basilica of St. John the Baptist, Berlin"
 date: 2026-01-26
 draft: false
 description: "parish church in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q877416"
 latitude: 52.487542
 longitude: 13.408631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/400px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/800px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/1200px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/1920px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/1920px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg---
 
 ## Overview
 

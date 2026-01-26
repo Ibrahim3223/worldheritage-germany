@@ -4,19 +4,18 @@ site_name: "Kuhländler Archiv mit Heimatstube"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631461"
 latitude: 48.885172
 longitude: 9.194553
 images:
-  []
----
+  []---
 
 ## Overview
 

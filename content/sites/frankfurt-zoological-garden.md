@@ -4,13 +4,13 @@ site_name: "Frankfurt Zoological Garden"
 date: 2026-01-26
 draft: false
 description: "zoo in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q220036"
 latitude: 50.1156
 longitude: 8.70314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/400px-Exotarium,_Zoo_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/800px-Exotarium,_Zoo_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1200px-Exotarium,_Zoo_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1920px-Exotarium,_Zoo_Frankfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1920px-Exotarium,_Zoo_Frankfurt.jpg---
 
 ## Overview
 

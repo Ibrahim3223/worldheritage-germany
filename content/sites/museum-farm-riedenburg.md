@@ -4,19 +4,18 @@ site_name: "Museum Farm Riedenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Echendorf, Riedenburg, Kelheim district, Lower Bavaria, Bavaria, Germany"
-region: "Q503693"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Q503693"
+  - "Bavaria"
 wikidata_id: "Q76629292"
 latitude: 48.932533333
 longitude: 11.707094444
 images:
-  []
----
+  []---
 
 ## Overview
 

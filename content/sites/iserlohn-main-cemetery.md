@@ -4,13 +4,13 @@ site_name: "Iserlohn Main Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Iserlohn, Germany"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1278995"
 latitude: 51.3752
 longitude: 7.67991
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Iserlohn_Hauptfriedhof_FFSN-4875.jpg/400px-Iserlohn_Hauptfriedhof_FFSN-4875.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Iserlohn_Hauptfriedhof_FFSN-4875.jpg/800px-Iserlohn_Hauptfriedhof_FFSN-4875.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Iserlohn_Hauptfriedhof_FFSN-4875.jpg/1200px-Iserlohn_Hauptfriedhof_FFSN-4875.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Iserlohn_Hauptfriedhof_FFSN-4875.jpg/1920px-Iserlohn_Hauptfriedhof_FFSN-4875.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Iserlohn_Hauptfriedhof_FFSN-4875.jpg/1920px-Iserlohn_Hauptfriedhof_FFSN-4875.jpg---
 
 ## Overview
 

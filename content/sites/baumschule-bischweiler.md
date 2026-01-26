@@ -4,13 +4,13 @@ site_name: "Baumschule Bischweiler"
 date: 2026-01-26
 draft: false
 description: "park in Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q811615"
 latitude: 48.1194
 longitude: 11.565
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/400px-Muebischweilerrgareal072019c89.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/800px-Muebischweilerrgareal072019c89.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1200px-Muebischweilerrgareal072019c89.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1920px-Muebischweilerrgareal072019c89.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1920px-Muebischweilerrgareal072019c89.jpg---
 
 ## Overview
 

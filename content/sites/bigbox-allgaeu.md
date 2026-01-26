@@ -4,13 +4,13 @@ site_name: "BigBOX Allgäu"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Kempten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Kempten"
+  - "Baden-Württemberg"
 wikidata_id: "Q858349"
 latitude: 47.72056
 longitude: 10.317063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/400px-Bigboxkempten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/800px-Bigboxkempten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/1200px-Bigboxkempten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/1920px-Bigboxkempten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/1920px-Bigboxkempten.JPG---
 
 ## Overview
 

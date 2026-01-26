@@ -4,19 +4,18 @@ site_name: "Ehrenfriedhof Barmen"
 date: 2026-01-26
 draft: false
 description: "cemetery in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1300087"
 latitude: 51.26
 longitude: 7.20778
 images:
-  []
----
+  []---
 
 ## Overview
 

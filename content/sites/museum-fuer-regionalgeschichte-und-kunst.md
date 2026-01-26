@@ -4,13 +4,13 @@ site_name: "Museum für Regionalgeschichte und Kunst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Buxtehude"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Buxtehude"
+  - "Hamburg"
 wikidata_id: "Q1954671"
 latitude: 53.4768
 longitude: 9.70171
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/400px-Buxtehude_Heimatmuseum_BMK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/800px-Buxtehude_Heimatmuseum_BMK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/1200px-Buxtehude_Heimatmuseum_BMK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/1920px-Buxtehude_Heimatmuseum_BMK.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/1920px-Buxtehude_Heimatmuseum_BMK.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mariä Heimsuchung"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Northeim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Northeim"
+  - "Lower Saxony"
 wikidata_id: "Q1446852"
 latitude: 51.706
 longitude: 9.9936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/400px-Northeim_Kirche_kath_2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/800px-Northeim_Kirche_kath_2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/1200px-Northeim_Kirche_kath_2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/1920px-Northeim_Kirche_kath_2011.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/1920px-Northeim_Kirche_kath_2011.JPG---
 
 ## Overview
 

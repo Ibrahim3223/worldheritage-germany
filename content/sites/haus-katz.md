@@ -4,13 +4,13 @@ site_name: "Haus Katz"
 date: 2026-01-26
 draft: false
 description: "manor house in Jüchen, Germany"
-region: "Jüchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Jüchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1343488"
 latitude: 51.1015
 longitude: 6.50066
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Haus_Katz,_Jüchen_(1).jpg/400px-Haus_Katz,_Jüchen_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Haus_Katz,_Jüchen_(1).jpg/800px-Haus_Katz,_Jüchen_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Haus_Katz,_Jüchen_(1).jpg/1200px-Haus_Katz,_Jüchen_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Haus_Katz,_Jüchen_(1).jpg/1920px-Haus_Katz,_Jüchen_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Haus_Katz,_Jüchen_(1).jpg/1920px-Haus_Katz,_Jüchen_(1).jpg---
 
 ## Overview
 

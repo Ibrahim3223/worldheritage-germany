@@ -4,13 +4,13 @@ site_name: "Göttingen City Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q2327123"
 latitude: 51.5325
 longitude: 9.90972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/400px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/800px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/1200px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/1920px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/1920px-Goettingen_Stadtfriedhof_Kapelle_01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Historisches Museum Bielefeld"
 date: 2026-01-26
 draft: false
 description: "museum in Bielefeld, Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1621000"
 latitude: 52.0224
 longitude: 8.54417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/400px-Historisches_Museum_Bielefeld2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/800px-Historisches_Museum_Bielefeld2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/1200px-Historisches_Museum_Bielefeld2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/1920px-Historisches_Museum_Bielefeld2014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/1920px-Historisches_Museum_Bielefeld2014.JPG---
 
 ## Overview
 

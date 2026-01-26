@@ -4,13 +4,13 @@ site_name: "Staatsgalerie Aschaffenburg"
 date: 2026-01-26
 draft: false
 description: "art museum in Schloss Johannisburg in Aschaffenburg"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q2324939"
 latitude: 49.9761
 longitude: 9.14167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Schloss_Johannisburg_Aschaffenburg.jpg/400px-Schloss_Johannisburg_Aschaffenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Schloss_Johannisburg_Aschaffenburg.jpg/800px-Schloss_Johannisburg_Aschaffenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Schloss_Johannisburg_Aschaffenburg.jpg/1200px-Schloss_Johannisburg_Aschaffenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Schloss_Johannisburg_Aschaffenburg.jpg/1920px-Schloss_Johannisburg_Aschaffenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Schloss_Johannisburg_Aschaffenburg.jpg/1920px-Schloss_Johannisburg_Aschaffenburg.jpg---
 
 ## Overview
 

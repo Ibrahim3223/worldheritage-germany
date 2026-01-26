@@ -4,13 +4,13 @@ site_name: "Burg Leofels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ilshofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ilshofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012909"
 latitude: 49.2083
 longitude: 9.91611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Leofels_Schildmauer.jpg/400px-Burg_Leofels_Schildmauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Leofels_Schildmauer.jpg/800px-Burg_Leofels_Schildmauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Leofels_Schildmauer.jpg/1200px-Burg_Leofels_Schildmauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Leofels_Schildmauer.jpg/1920px-Burg_Leofels_Schildmauer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Leofels_Schildmauer.jpg/1920px-Burg_Leofels_Schildmauer.jpg---
 
 ## Overview
 

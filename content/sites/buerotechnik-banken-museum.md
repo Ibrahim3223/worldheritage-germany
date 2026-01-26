@@ -4,19 +4,18 @@ site_name: "Bürotechnik- & Banken-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stuhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuhr"
+  - "Lower Saxony"
 wikidata_id: "Q32736354"
 latitude: 52.981388888
 longitude: 8.765833333
 images:
-  []
----
+  []---
 
 ## Overview
 

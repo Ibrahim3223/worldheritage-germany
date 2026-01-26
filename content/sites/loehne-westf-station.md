@@ -4,13 +4,13 @@ site_name: "Löhne (Westf) station"
 date: 2026-01-26
 draft: false
 description: "railway station in Löhne, Germany"
-region: "Löhne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Löhne"
+  - "Lower Saxony"
 wikidata_id: "Q320752"
 latitude: 52.1972
 longitude: 8.71306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bahnhof_Löhne_(Westf).jpg/400px-Bahnhof_Löhne_(Westf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bahnhof_Löhne_(Westf).jpg/800px-Bahnhof_Löhne_(Westf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bahnhof_Löhne_(Westf).jpg/1200px-Bahnhof_Löhne_(Westf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bahnhof_Löhne_(Westf).jpg/1920px-Bahnhof_Löhne_(Westf).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bahnhof_Löhne_(Westf).jpg/1920px-Bahnhof_Löhne_(Westf).jpg---
 
 ## Overview
 

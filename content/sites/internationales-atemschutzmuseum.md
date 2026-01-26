@@ -4,19 +4,18 @@ site_name: "Internationales Atemschutzmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Meetzen, Germany"
-region: "Holdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Holdorf"
+  - "Lower Saxony"
 wikidata_id: "Q32860689"
 latitude: 53.715174
 longitude: 11.04001
 images:
-  []
----
+  []---
 
 ## Overview
 

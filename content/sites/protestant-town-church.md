@@ -4,13 +4,13 @@ site_name: "Protestant Town Church"
 date: 2026-01-26
 draft: false
 description: "church in Karlsruhe, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q1381130"
 latitude: 49.0085
 longitude: 8.40444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karlsruhe_Stadtkirche_02.jpg/400px-Karlsruhe_Stadtkirche_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karlsruhe_Stadtkirche_02.jpg/800px-Karlsruhe_Stadtkirche_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karlsruhe_Stadtkirche_02.jpg/1200px-Karlsruhe_Stadtkirche_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karlsruhe_Stadtkirche_02.jpg/1920px-Karlsruhe_Stadtkirche_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karlsruhe_Stadtkirche_02.jpg/1920px-Karlsruhe_Stadtkirche_02.jpg---
 
 ## Overview
 

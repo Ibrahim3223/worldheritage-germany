@@ -4,13 +4,13 @@ site_name: "Burg Kühlseggen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Weilerswist"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Weilerswist"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012784"
 latitude: 50.7673
 longitude: 6.83917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BurgKuehlseggen01.jpg/400px-BurgKuehlseggen01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BurgKuehlseggen01.jpg/800px-BurgKuehlseggen01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BurgKuehlseggen01.jpg/1200px-BurgKuehlseggen01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BurgKuehlseggen01.jpg/1920px-BurgKuehlseggen01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/BurgKuehlseggen01.jpg/1920px-BurgKuehlseggen01.jpg---
 
 ## Overview
 

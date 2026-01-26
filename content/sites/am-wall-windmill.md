@@ -4,13 +4,13 @@ site_name: "Am Wall Windmill"
 date: 2026-01-26
 draft: false
 description: "German windmill"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1609640"
 latitude: 53.0801
 longitude: 8.80682
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/400px-00_1474_Hansestadt_Bremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/800px-00_1474_Hansestadt_Bremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/1200px-00_1474_Hansestadt_Bremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/1920px-00_1474_Hansestadt_Bremen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/1920px-00_1474_Hansestadt_Bremen.jpg---
 
 ## Overview
 

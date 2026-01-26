@@ -4,13 +4,13 @@ site_name: "Dammer Bergsee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Damme"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Damme"
+  - "Lower Saxony"
 wikidata_id: "Q1158641"
 latitude: 52.5398
 longitude: 8.19271
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/400px-Damme_lago_Bergsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/800px-Damme_lago_Bergsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/1200px-Damme_lago_Bergsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/1920px-Damme_lago_Bergsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/1920px-Damme_lago_Bergsee.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bürgerablage"
 date: 2026-01-26
 draft: false
 description: "Bathing area"
-region: "Spandau"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Spandau"
+  - "Berlin"
 wikidata_id: "Q1021024"
 latitude: 52.5852
 longitude: 13.2119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Strand_Bürgerablage_Havel_Berlin_1.jpg/400px-Strand_Bürgerablage_Havel_Berlin_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Strand_Bürgerablage_Havel_Berlin_1.jpg/800px-Strand_Bürgerablage_Havel_Berlin_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Strand_Bürgerablage_Havel_Berlin_1.jpg/1200px-Strand_Bürgerablage_Havel_Berlin_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Strand_Bürgerablage_Havel_Berlin_1.jpg/1920px-Strand_Bürgerablage_Havel_Berlin_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Strand_Bürgerablage_Havel_Berlin_1.jpg/1920px-Strand_Bürgerablage_Havel_Berlin_1.jpg---
 
 ## Overview
 

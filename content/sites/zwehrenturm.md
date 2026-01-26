@@ -4,13 +4,13 @@ site_name: "Zwehrenturm"
 date: 2026-01-26
 draft: false
 description: "tower in Hessen, Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q231887"
 latitude: 51.3137
 longitude: 9.49839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/400px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/800px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/1200px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/1920px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/1920px-Kassel_asv2022-02_img26_Zwehrenturm.jpg---
 
 ## Overview
 

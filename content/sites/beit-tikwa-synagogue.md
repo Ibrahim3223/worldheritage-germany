@@ -4,13 +4,13 @@ site_name: "Beit Tikwa synagogue"
 date: 2026-01-26
 draft: false
 description: "synagogue in Bielefeld"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q829362"
 latitude: 52.0085
 longitude: 8.54339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/400px-Synagoge_Bielefeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/800px-Synagoge_Bielefeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1200px-Synagoge_Bielefeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1920px-Synagoge_Bielefeld.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1920px-Synagoge_Bielefeld.JPG---
 
 ## Overview
 

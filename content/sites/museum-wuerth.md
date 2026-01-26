@@ -4,13 +4,13 @@ site_name: "Museum Würth"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Künzelsau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Künzelsau"
+  - "Baden-Württemberg"
 wikidata_id: "Q371836"
 latitude: 49.2586
 longitude: 9.67918
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/400px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/800px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/1200px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/1920px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/1920px-IMGP1532_Würth_Künzelsau_Skulptur.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rathaus Machern"
 date: 2026-01-26
 draft: false
 description: "townhall located in Machern"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q136247076"
 latitude: 51.360389709
 longitude: 12.630050659
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/400px-Rathaus_Machern_(Rathaus_in_Machern).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/800px-Rathaus_Machern_(Rathaus_in_Machern).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/1200px-Rathaus_Machern_(Rathaus_in_Machern).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/1920px-Rathaus_Machern_(Rathaus_in_Machern).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/1920px-Rathaus_Machern_(Rathaus_in_Machern).jpg---
 
 ## Overview
 

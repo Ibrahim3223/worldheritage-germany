@@ -4,19 +4,18 @@ site_name: "Villengarten Haidstraße 7 in Holzkirchen (Oberbayern)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-82-120-66 (1) in Holzkirchen (Oberbayern), Bavaria"
-region: "Holzkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Holzkirchen"
+  - "Bavaria"
 wikidata_id: "Q98744276"
 latitude: 47.882962297
 longitude: 11.694548616
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Astronomisch-Physikalisches Kabinett"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q31920418"
 latitude: 51.31027778
 longitude: 9.50083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Orangerieausschnitt_Kassel.jpg/400px-Orangerieausschnitt_Kassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Orangerieausschnitt_Kassel.jpg/800px-Orangerieausschnitt_Kassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Orangerieausschnitt_Kassel.jpg/1200px-Orangerieausschnitt_Kassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Orangerieausschnitt_Kassel.jpg/1920px-Orangerieausschnitt_Kassel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Orangerieausschnitt_Kassel.jpg/1920px-Orangerieausschnitt_Kassel.jpg---
 
 ## Overview
 

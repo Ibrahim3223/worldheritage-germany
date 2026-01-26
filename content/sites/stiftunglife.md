@@ -4,19 +4,18 @@ site_name: "Stiftunglife"
 date: 2026-01-26
 draft: false
 description: "foundation in Celle, Germany"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q15849288"
 latitude: 52.62652
 longitude: 10.08038
 images:
-  []
----
+  []---
 
 ## Overview
 

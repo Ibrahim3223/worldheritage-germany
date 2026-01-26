@@ -4,13 +4,13 @@ site_name: "Richard Wagner Monument"
 date: 2026-01-26
 draft: false
 description: "sculpture of Richard Wagner by Gustav Eberlein, located in Tiergarten in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2148898"
 latitude: 52.51
 longitude: 13.3622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wagnerdenkmal_Berlin_1.jpg/400px-Wagnerdenkmal_Berlin_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wagnerdenkmal_Berlin_1.jpg/800px-Wagnerdenkmal_Berlin_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wagnerdenkmal_Berlin_1.jpg/1200px-Wagnerdenkmal_Berlin_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wagnerdenkmal_Berlin_1.jpg/1920px-Wagnerdenkmal_Berlin_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wagnerdenkmal_Berlin_1.jpg/1920px-Wagnerdenkmal_Berlin_1.jpg---
 
 ## Overview
 

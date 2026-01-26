@@ -4,13 +4,13 @@ site_name: "Friedrich-Wilhelm-Weber-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Bad Driburg, Germany"
-region: "Bad Driburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Driburg"
+  - "Lower Saxony"
 wikidata_id: "Q1457881"
 latitude: 51.7494
 longitude: 9.05361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/400px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/800px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/1200px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/1920px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/1920px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg---
 
 ## Overview
 

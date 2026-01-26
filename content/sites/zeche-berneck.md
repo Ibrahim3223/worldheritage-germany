@@ -4,19 +4,18 @@ site_name: "Zeche Berneck"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169675"
 latitude: 51.4484
 longitude: 7.22845
 images:
-  []
----
+  []---
 
 ## Overview
 

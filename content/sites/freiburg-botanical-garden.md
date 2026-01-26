@@ -4,13 +4,13 @@ site_name: "Freiburg Botanical Garden"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q328848"
 latitude: 48.0097
 longitude: 7.85833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/400px-Botanischer_Garten_Freiburg_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/800px-Botanischer_Garten_Freiburg_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/1200px-Botanischer_Garten_Freiburg_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/1920px-Botanischer_Garten_Freiburg_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/1920px-Botanischer_Garten_Freiburg_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum Villa Haiss"
 date: 2026-01-26
 draft: false
 description: "art museum in Germany"
-region: "Zell am Harmersbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Zell am Harmersbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1682825"
 latitude: 48.3477
 longitude: 8.067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/400px-Villa_Haiss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/800px-Villa_Haiss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/1200px-Villa_Haiss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/1920px-Villa_Haiss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/1920px-Villa_Haiss.jpg---
 
 ## Overview
 

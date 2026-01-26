@@ -4,19 +4,18 @@ site_name: "Hunsrück-Museum Simmern"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Simmern/Hunsrück"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Simmern/Hunsrück"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1638032"
 latitude: 49.98349
 longitude: 7.52027
 images:
-  []
----
+  []---
 
 ## Overview
 

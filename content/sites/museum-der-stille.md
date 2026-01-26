@@ -4,19 +4,18 @@ site_name: "Museum der Stille"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q21712334"
 latitude: 52.5275
 longitude: 13.393611111
 images:
-  []
----
+  []---
 
 ## Overview
 

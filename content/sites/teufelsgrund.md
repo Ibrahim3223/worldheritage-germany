@@ -4,13 +4,13 @@ site_name: "Teufelsgrund"
 date: 2026-01-26
 draft: false
 description: "Tal im Spessart in Bayern und Hessen"
-region: "Aschaffenburg district"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Aschaffenburg district"
+  - "Bavaria"
 wikidata_id: "Q991401"
 latitude: 50.1058
 longitude: 9.16391
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Teufelsgrund_2.jpg/400px-Teufelsgrund_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Teufelsgrund_2.jpg/800px-Teufelsgrund_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Teufelsgrund_2.jpg/1200px-Teufelsgrund_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Teufelsgrund_2.jpg/1920px-Teufelsgrund_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Teufelsgrund_2.jpg/1920px-Teufelsgrund_2.jpg---
 
 ## Overview
 

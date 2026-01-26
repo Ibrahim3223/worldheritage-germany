@@ -4,13 +4,13 @@ site_name: "Lutherkirche (Erfurt)"
 date: 2026-01-26
 draft: false
 description: "church building in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1877938"
 latitude: 50.99092095
 longitude: 11.026753071
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/400px-Lutherkirche_Erfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/800px-Lutherkirche_Erfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1200px-Lutherkirche_Erfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1920px-Lutherkirche_Erfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1920px-Lutherkirche_Erfurt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Church in Goldebee"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Benz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Benz"
+  - "Lower Saxony"
 wikidata_id: "Q1244303"
 latitude: 53.8986
 longitude: 11.6142
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/400px-Goldebee_Kirche_2008-11-13_041.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/800px-Goldebee_Kirche_2008-11-13_041.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/1200px-Goldebee_Kirche_2008-11-13_041.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/1920px-Goldebee_Kirche_2008-11-13_041.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/1920px-Goldebee_Kirche_2008-11-13_041.jpg---
 
 ## Overview
 

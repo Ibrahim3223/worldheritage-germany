@@ -4,13 +4,13 @@ site_name: "St. Petrus"
 date: 2026-01-26
 draft: false
 description: "church building in Kabelsketal, Saxony-Anhalt, Germany"
-region: "Kabelsketal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kabelsketal"
+  - "Brandenburg"
 wikidata_id: "Q1256264"
 latitude: 51.4465
 longitude: 12.1159
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/400px-Osmünde_Sankt_Petrus_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/800px-Osmünde_Sankt_Petrus_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/1200px-Osmünde_Sankt_Petrus_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/1920px-Osmünde_Sankt_Petrus_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/1920px-Osmünde_Sankt_Petrus_2.JPG---
 
 ## Overview
 

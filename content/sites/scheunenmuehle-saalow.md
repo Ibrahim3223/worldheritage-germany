@@ -4,13 +4,13 @@ site_name: "Scheunenmühle Saalow"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Am Mellensee"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Am Mellensee"
+  - "Brandenburg"
 wikidata_id: "Q1478644"
 latitude: 52.1953
 longitude: 13.3775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/400px-Scheunenmuehle-DCP_7731-saalow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/800px-Scheunenmuehle-DCP_7731-saalow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/1200px-Scheunenmuehle-DCP_7731-saalow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/1920px-Scheunenmuehle-DCP_7731-saalow.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/1920px-Scheunenmuehle-DCP_7731-saalow.JPG---
 
 ## Overview
 

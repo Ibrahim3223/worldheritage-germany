@@ -4,13 +4,13 @@ site_name: "Deutsches Hirtenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hersbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hersbruck"
+  - "Bavaria"
 wikidata_id: "Q1205697"
 latitude: 49.5099
 longitude: 11.4293
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/400px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/800px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/1200px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/1920px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/1920px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg---
 
 ## Overview
 

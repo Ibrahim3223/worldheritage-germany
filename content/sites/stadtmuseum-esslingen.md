@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Esslingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Esslingen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Esslingen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q19963232"
 latitude: 48.742081
 longitude: 9.308967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/400px-ES_Gelbes_Haus_ShiftN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/800px-ES_Gelbes_Haus_ShiftN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/1200px-ES_Gelbes_Haus_ShiftN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/1920px-ES_Gelbes_Haus_ShiftN.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/1920px-ES_Gelbes_Haus_ShiftN.jpg---
 
 ## Overview
 

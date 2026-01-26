@@ -4,19 +4,18 @@ site_name: "Trachtenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ochsenfurt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ochsenfurt"
+  - "Baden-Württemberg"
 wikidata_id: "Q26836734"
 latitude: 49.6657227
 longitude: 10.0642429
 images:
-  []
----
+  []---
 
 ## Overview
 

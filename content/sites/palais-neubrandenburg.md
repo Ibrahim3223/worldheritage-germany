@@ -4,13 +4,13 @@ site_name: "Palais Neubrandenburg"
 date: 2026-01-26
 draft: false
 description: "ehemalige Sommer- und Nebenresidenz der herzoglichen Familie des Herzogtums Mecklenburg-Strelitz"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q2047123"
 latitude: 53.5574
 longitude: 13.2607
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/400px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/800px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/1200px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/1920px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/1920px-Palais_Neubrandenburg,_Südflügel_(1920).jpg---
 
 ## Overview
 

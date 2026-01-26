@@ -4,19 +4,18 @@ site_name: "Burg Laubegg"
 date: 2026-01-26
 draft: false
 description: "castle in Bodman-Ludwigshafen"
-region: "Bodman-Ludwigshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bodman-Ludwigshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012856"
 latitude: 47.839558
 longitude: 9.065651
 images:
-  []
----
+  []---
 
 ## Overview
 

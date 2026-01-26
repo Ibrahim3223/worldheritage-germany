@@ -4,19 +4,18 @@ site_name: "Bahndamm, Brückenpfeiler und Bogenbrücke einer stillgelegten Eisen
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Ebersbach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Ebersbach"
+  - "Saxony"
 wikidata_id: "Q49450207"
 latitude: 51.17604913
 longitude: 13.020895923
 images:
-  []
----
+  []---
 
 ## Overview
 

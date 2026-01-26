@@ -4,13 +4,13 @@ site_name: "Ordenskirche St. Georgen"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q2029138"
 latitude: 49.9541
 longitude: 11.5929
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/400px-St._Georgen_Bayreuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/800px-St._Georgen_Bayreuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1200px-St._Georgen_Bayreuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1920px-St._Georgen_Bayreuth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1920px-St._Georgen_Bayreuth.jpg---
 
 ## Overview
 

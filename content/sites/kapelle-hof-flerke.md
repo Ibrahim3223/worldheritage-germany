@@ -4,13 +4,13 @@ site_name: "Kapelle Hof Flerke"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Werl"
-region: "Werl"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Werl"
+  - "Hesse"
 wikidata_id: "Q1728393"
 latitude: 51.5899
 longitude: 7.93735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/400px-Kapelle_Hof_Flerke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/800px-Kapelle_Hof_Flerke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/1200px-Kapelle_Hof_Flerke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/1920px-Kapelle_Hof_Flerke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/1920px-Kapelle_Hof_Flerke.jpg---
 
 ## Overview
 

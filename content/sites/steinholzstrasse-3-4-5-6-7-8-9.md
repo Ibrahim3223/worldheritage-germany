@@ -4,13 +4,13 @@ site_name: "Steinholzstraße 3, 4, 5, 6, 7, 8, 9"
 date: 2026-01-26
 draft: false
 description: "group of buildings in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15126347"
 latitude: 51.7933
 longitude: 11.140185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/400px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/800px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/1200px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/1920px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/1920px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG---
 
 ## Overview
 

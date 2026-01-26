@@ -4,19 +4,18 @@ site_name: "Kunsthalle Göppingen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Göppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1792407"
 latitude: 48.71
 longitude: 9.65611
 images:
-  []
----
+  []---
 
 ## Overview
 

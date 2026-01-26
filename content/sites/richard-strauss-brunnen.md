@@ -4,13 +4,13 @@ site_name: "Richard-Strauss-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q1726071"
 latitude: 48.1386
 longitude: 11.5696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/400px-Richard-Strauss-Brunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/800px-Richard-Strauss-Brunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/1200px-Richard-Strauss-Brunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/1920px-Richard-Strauss-Brunnen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/1920px-Richard-Strauss-Brunnen.jpg---
 
 ## Overview
 

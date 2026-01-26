@@ -4,13 +4,13 @@ site_name: "Sorge Border Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oberharz am Brocken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberharz am Brocken"
+  - "Lower Saxony"
 wikidata_id: "Q1545812"
 latitude: 51.6949
 longitude: 10.6859
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/400px-BT9-Sorge_1900px.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/800px-BT9-Sorge_1900px.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/1200px-BT9-Sorge_1900px.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/1920px-BT9-Sorge_1900px.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/1920px-BT9-Sorge_1900px.jpg---
 
 ## Overview
 

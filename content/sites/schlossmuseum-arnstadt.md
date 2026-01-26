@@ -4,13 +4,13 @@ site_name: "Schlossmuseum Arnstadt"
 date: 2026-01-26
 draft: false
 description: "museum in Arnstadt, Germany"
-region: "Arnstadt"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Arnstadt"
+  - "Thuringia"
 wikidata_id: "Q56703253"
 latitude: 50.835238
 longitude: 10.950088
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/400px-Arnstadt_Schlossmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/800px-Arnstadt_Schlossmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/1200px-Arnstadt_Schlossmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/1920px-Arnstadt_Schlossmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/1920px-Arnstadt_Schlossmuseum.jpg---
 
 ## Overview
 

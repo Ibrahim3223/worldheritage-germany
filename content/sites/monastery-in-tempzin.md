@@ -4,13 +4,13 @@ site_name: "Monastery in Tempzin"
 date: 2026-01-26
 draft: false
 description: "former monastery"
-region: "Kloster Tempzin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Kloster Tempzin"
+  - "Lower Saxony"
 wikidata_id: "Q1286985"
 latitude: 53.7625
 longitude: 11.6856
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/400px-Tempzin_Kloster_2009-04-16_050.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/800px-Tempzin_Kloster_2009-04-16_050.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/1200px-Tempzin_Kloster_2009-04-16_050.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/1920px-Tempzin_Kloster_2009-04-16_050.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/1920px-Tempzin_Kloster_2009-04-16_050.jpg---
 
 ## Overview
 

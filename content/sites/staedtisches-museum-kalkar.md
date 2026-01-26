@@ -4,13 +4,13 @@ site_name: "Städtisches Museum Kalkar"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kalkar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kalkar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q29138458"
 latitude: 51.738806
 longitude: 6.293436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkar_12_ies.jpg/400px-Kalkar_12_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkar_12_ies.jpg/800px-Kalkar_12_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkar_12_ies.jpg/1200px-Kalkar_12_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkar_12_ies.jpg/1920px-Kalkar_12_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkar_12_ies.jpg/1920px-Kalkar_12_ies.jpg---
 
 ## Overview
 

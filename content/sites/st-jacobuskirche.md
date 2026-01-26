@@ -4,13 +4,13 @@ site_name: "St. Jacobuskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Zirchow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zirchow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q929322"
 latitude: 53.8901
 longitude: 14.1397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/400px-05_Usedom_009_Zirchow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/800px-05_Usedom_009_Zirchow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/1200px-05_Usedom_009_Zirchow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/1920px-05_Usedom_009_Zirchow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/1920px-05_Usedom_009_Zirchow.jpg---
 
 ## Overview
 

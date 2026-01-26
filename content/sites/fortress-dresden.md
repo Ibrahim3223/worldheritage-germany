@@ -4,13 +4,13 @@ site_name: "Fortress Dresden"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1258495"
 latitude: 51.053333333
 longitude: 13.741666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/400px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/800px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/1200px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/1920px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/1920px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg---
 
 ## Overview
 

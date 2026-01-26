@@ -4,13 +4,13 @@ site_name: "Emmauskirche (Mannheim)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1338513"
 latitude: 49.5427
 longitude: 8.47526
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/400px-Mannheim-Schoenau-Emmauskirche-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/800px-Mannheim-Schoenau-Emmauskirche-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/1200px-Mannheim-Schoenau-Emmauskirche-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/1920px-Mannheim-Schoenau-Emmauskirche-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/1920px-Mannheim-Schoenau-Emmauskirche-03.jpg---
 
 ## Overview
 

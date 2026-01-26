@@ -4,13 +4,13 @@ site_name: "Dreikönigskirche"
 date: 2026-01-26
 draft: false
 description: "church in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1257935"
 latitude: 51.061111111
 longitude: 13.743055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/400px-Dresden-Dreikoenigskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/800px-Dresden-Dreikoenigskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/1200px-Dresden-Dreikoenigskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/1920px-Dresden-Dreikoenigskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/1920px-Dresden-Dreikoenigskirche.jpg---
 
 ## Overview
 

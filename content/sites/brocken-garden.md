@@ -4,13 +4,13 @@ site_name: "Brocken Garden"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q923683"
 latitude: 51.798333333
 longitude: 10.6175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/400px-Versuchs-_und_Schaugarten_Brocken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/800px-Versuchs-_und_Schaugarten_Brocken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/1200px-Versuchs-_und_Schaugarten_Brocken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/1920px-Versuchs-_und_Schaugarten_Brocken.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/1920px-Versuchs-_und_Schaugarten_Brocken.JPG---
 
 ## Overview
 

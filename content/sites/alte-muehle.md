@@ -4,13 +4,13 @@ site_name: "Alte Mühle"
 date: 2026-01-26
 draft: false
 description: "Gebäude-Ensemble in Hamburg, ehemals Wassermühle"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q436007"
 latitude: 53.67
 longitude: 10.10822222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/400px-Alte_Mühle_34_Mühlengebäude4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/800px-Alte_Mühle_34_Mühlengebäude4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/1200px-Alte_Mühle_34_Mühlengebäude4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/1920px-Alte_Mühle_34_Mühlengebäude4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/1920px-Alte_Mühle_34_Mühlengebäude4.JPG---
 
 ## Overview
 

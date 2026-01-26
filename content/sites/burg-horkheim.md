@@ -4,13 +4,13 @@ site_name: "Burg Horkheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012492"
 latitude: 49.1158
 longitude: 9.166
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/400px-Horkheim-burg-schlossgasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/800px-Horkheim-burg-schlossgasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1200px-Horkheim-burg-schlossgasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1920px-Horkheim-burg-schlossgasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1920px-Horkheim-burg-schlossgasse.jpg---
 
 ## Overview
 

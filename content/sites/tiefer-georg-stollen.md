@@ -4,13 +4,13 @@ site_name: "Tiefer Georg-Stollen"
 date: 2026-01-26
 draft: false
 description: "Wasserlösungsstollen im Harz"
-region: "Bad Grund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Water Drainage Gallery"
 categories:
   - "Water Drainage Gallery"
 regions:
-  - "Bad Grund"
+  - "Lower Saxony"
 wikidata_id: "Q15850911"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/400px-Tiefer_Georg_Stollen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/800px-Tiefer_Georg_Stollen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/1200px-Tiefer_Georg_Stollen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/1920px-Tiefer_Georg_Stollen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/1920px-Tiefer_Georg_Stollen.jpg---
 
 ## Overview
 

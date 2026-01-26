@@ -4,13 +4,13 @@ site_name: "Bismarck-Museum Friedrichsruh"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aumühle"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aumühle"
+  - "Hamburg"
 wikidata_id: "Q17461440"
 latitude: 53.529008
 longitude: 10.340001
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/400px-BismarckMuseumFriedrichsruh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/800px-BismarckMuseumFriedrichsruh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1200px-BismarckMuseumFriedrichsruh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1920px-BismarckMuseumFriedrichsruh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1920px-BismarckMuseumFriedrichsruh.jpg---
 
 ## Overview
 

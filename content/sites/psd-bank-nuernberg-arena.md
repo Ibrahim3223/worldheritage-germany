@@ -4,13 +4,13 @@ site_name: "PSD Bank Nürnberg ARENA"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q460855"
 latitude: 49.4274
 longitude: 11.1232
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/400px-Ледяная_арена.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/800px-Ледяная_арена.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/1200px-Ледяная_арена.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/1920px-Ледяная_арена.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/1920px-Ледяная_арена.jpg---
 
 ## Overview
 

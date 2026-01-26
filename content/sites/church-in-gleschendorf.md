@@ -4,13 +4,13 @@ site_name: "Church in Gleschendorf"
 date: 2026-01-26
 draft: false
 description: "church building in Schleswig-Holstein state, Germany"
-region: "Scharbeutz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Scharbeutz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1531203"
 latitude: 54.0287
 longitude: 10.6644
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/400px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/800px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/1200px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/1920px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/1920px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG---
 
 ## Overview
 

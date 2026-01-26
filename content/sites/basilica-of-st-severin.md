@@ -4,13 +4,13 @@ site_name: "Basilica of St. Severin"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt-Süd, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q457659"
 latitude: 50.923478
 longitude: 6.959717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/400px-Severeinskirche_aus_Severinstorburg_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/800px-Severeinskirche_aus_Severinstorburg_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1200px-Severeinskirche_aus_Severinstorburg_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1920px-Severeinskirche_aus_Severinstorburg_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1920px-Severeinskirche_aus_Severinstorburg_2009.jpg---
 
 ## Overview
 

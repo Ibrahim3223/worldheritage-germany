@@ -4,13 +4,13 @@ site_name: "Versöhnungskirche Wolfenbüttel"
 date: 2026-01-26
 draft: false
 description: "church building in Wolfenbüttel, Germany"
-region: "Wolfenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wolfenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q2518501"
 latitude: 52.156
 longitude: 10.5213
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/400px-Versoehnungskirche-wf-glockenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/800px-Versoehnungskirche-wf-glockenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/1200px-Versoehnungskirche-wf-glockenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/1920px-Versoehnungskirche-wf-glockenturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/1920px-Versoehnungskirche-wf-glockenturm.jpg---
 
 ## Overview 
 

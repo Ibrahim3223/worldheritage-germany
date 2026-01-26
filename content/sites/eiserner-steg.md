@@ -4,13 +4,13 @@ site_name: "Eiserner Steg"
 date: 2026-01-26
 draft: false
 description: "footbridge over the Main in Frankfurt"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q1313525"
 latitude: 50.108102863
 longitude: 8.682122202
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/400px-Eiserner-Steg-2012-Ffm-977-8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/800px-Eiserner-Steg-2012-Ffm-977-8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/1200px-Eiserner-Steg-2012-Ffm-977-8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/1920px-Eiserner-Steg-2012-Ffm-977-8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/1920px-Eiserner-Steg-2012-Ffm-977-8.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Theresienwiese"
 date: 2026-01-26
 draft: false
 description: "square in Munich, Germany"
-region: "Ludwigsvorstadt-Isarvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Ludwigsvorstadt-Isarvorstadt"
+  - "Bavaria"
 wikidata_id: "Q700887"
 latitude: 48.1333
 longitude: 11.55
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/005_Theresienwiese.jpg/400px-005_Theresienwiese.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/005_Theresienwiese.jpg/800px-005_Theresienwiese.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/005_Theresienwiese.jpg/1200px-005_Theresienwiese.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/005_Theresienwiese.jpg/1920px-005_Theresienwiese.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/005_Theresienwiese.jpg/1920px-005_Theresienwiese.jpg---
 
 ## Overview
 

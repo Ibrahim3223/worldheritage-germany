@@ -4,13 +4,13 @@ site_name: "Schaezlerpalais"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q205540"
 latitude: 48.364981425
 longitude: 10.898598192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/400px-Augsburg-Schaezlerpalais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/800px-Augsburg-Schaezlerpalais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/1200px-Augsburg-Schaezlerpalais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/1920px-Augsburg-Schaezlerpalais.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/1920px-Augsburg-Schaezlerpalais.jpg---
 
 ## Overview
 

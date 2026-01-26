@@ -4,13 +4,13 @@ site_name: "Kehrwiederturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q1145196"
 latitude: 52.1464
 longitude: 9.95392
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/400px-Kehrwiederturm_002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/800px-Kehrwiederturm_002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/1200px-Kehrwiederturm_002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/1920px-Kehrwiederturm_002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/1920px-Kehrwiederturm_002.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Färbertor"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltenes Tor durch die Nürnberger Stadtmauer"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1272678"
 latitude: 49.4474
 longitude: 11.0718
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/400px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/800px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/1200px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/1920px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/1920px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg---
 
 ## Overview
 

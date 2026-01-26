@@ -4,13 +4,13 @@ site_name: "Palais Moszczyńska, Dresden"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2047113"
 latitude: 51.0405
 longitude: 13.7389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Palais_Moszinska_ca_1870.jpg/400px-Palais_Moszinska_ca_1870.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Palais_Moszinska_ca_1870.jpg/800px-Palais_Moszinska_ca_1870.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Palais_Moszinska_ca_1870.jpg/1200px-Palais_Moszinska_ca_1870.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Palais_Moszinska_ca_1870.jpg/1920px-Palais_Moszinska_ca_1870.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Palais_Moszinska_ca_1870.jpg/1920px-Palais_Moszinska_ca_1870.jpg---
 
 ## Overview
 

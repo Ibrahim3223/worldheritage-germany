@@ -4,13 +4,13 @@ site_name: "Heimat- und Naturkunde-Museum Wanne-Eickel"
 date: 2026-01-26
 draft: false
 description: "museum in Herne, Germany"
-region: "Herne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Herne"
+  - "Lower Saxony"
 wikidata_id: "Q1595523"
 latitude: 51.5429
 longitude: 7.14404
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/400px-Herne_Heimatmuseum_building.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/800px-Herne_Heimatmuseum_building.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/1200px-Herne_Heimatmuseum_building.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/1920px-Herne_Heimatmuseum_building.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/1920px-Herne_Heimatmuseum_building.jpg---
 
 ## Overview
 

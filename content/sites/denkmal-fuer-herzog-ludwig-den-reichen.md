@@ -4,19 +4,18 @@ site_name: "Denkmal für Herzog Ludwig den Reichen"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q1188002"
 latitude: 48.5324
 longitude: 12.1498
 images:
-  []
----
+  []---
 
 ## Overview
 

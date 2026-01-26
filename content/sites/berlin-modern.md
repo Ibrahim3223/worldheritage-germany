@@ -4,13 +4,13 @@ site_name: "berlin modern"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q27831261"
 latitude: 52.50808
 longitude: 13.3685
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/400px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/800px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1200px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1920px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1920px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg---
 
 ## Overview
 

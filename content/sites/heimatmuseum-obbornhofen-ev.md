@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Obbornhofen e.V."
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633923"
 latitude: 50.439791
 longitude: 8.831026
 images:
-  []
----
+  []---
 
 ## Overview
 

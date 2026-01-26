@@ -4,13 +4,13 @@ site_name: "Weinberghaus"
 date: 2026-01-26
 draft: false
 description: "Landhaus im Kühnauer Park in Großkühnau, Dessau-Roßlau, Sachsen-Anhalt"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Structure"
 categories:
   - "Architectural Structure"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q124041503"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/400px-J21_209_Weinberghaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/800px-J21_209_Weinberghaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/1200px-J21_209_Weinberghaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/1920px-J21_209_Weinberghaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/1920px-J21_209_Weinberghaus.jpg---
 
 ## Overview
 

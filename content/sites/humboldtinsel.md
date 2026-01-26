@@ -4,13 +4,13 @@ site_name: "Humboldtinsel"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q1500280"
 latitude: 52.5911
 longitude: 13.2747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegeler_Hafenbrücke_1.jpg/400px-Tegeler_Hafenbrücke_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegeler_Hafenbrücke_1.jpg/800px-Tegeler_Hafenbrücke_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegeler_Hafenbrücke_1.jpg/1200px-Tegeler_Hafenbrücke_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegeler_Hafenbrücke_1.jpg/1920px-Tegeler_Hafenbrücke_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegeler_Hafenbrücke_1.jpg/1920px-Tegeler_Hafenbrücke_1.jpg---
 
 ## Overview
 

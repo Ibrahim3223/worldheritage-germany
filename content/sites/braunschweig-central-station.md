@@ -4,13 +4,13 @@ site_name: "Braunschweig Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q318930"
 latitude: 52.2522
 longitude: 10.5397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/400px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/800px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1200px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1920px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1920px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG---
 
 ## Overview
 

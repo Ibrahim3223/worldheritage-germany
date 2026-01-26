@@ -4,13 +4,13 @@ site_name: "Schafscheune aus Virnsberg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bad Windsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Windsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q636513"
 latitude: 49.4972
 longitude: 10.4222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg/400px-Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg/800px-Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg/1200px-Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg/1920px-Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg/1920px-Bad_Windsheim,_Fränkisches_Freilandmuseum,_Nr._104-002.jpg---
 
 ## Overview
 

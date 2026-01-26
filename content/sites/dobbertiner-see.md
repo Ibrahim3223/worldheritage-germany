@@ -4,13 +4,13 @@ site_name: "Dobbertiner See"
 date: 2026-01-26
 draft: false
 description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
-region: "Ludwigslust-Parchim District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ludwigslust-Parchim District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q316028"
 latitude: 53.613888888
 longitude: 12.068888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/400px-Dobbertiner_See_und_Kloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/800px-Dobbertiner_See_und_Kloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1200px-Dobbertiner_See_und_Kloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1920px-Dobbertiner_See_und_Kloster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1920px-Dobbertiner_See_und_Kloster.jpg---
 
 ## Overview
 

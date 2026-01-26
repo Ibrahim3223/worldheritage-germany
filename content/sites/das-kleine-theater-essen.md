@@ -4,13 +4,13 @@ site_name: "Das Kleine Theater Essen"
 date: 2026-01-26
 draft: false
 description: "German private theater based in Essen, Northrhine-Westphalia"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q686393"
 latitude: 51.4583
 longitude: 7.00887
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kleines_Theater_Essen_Gaensemarkt.jpg/400px-Kleines_Theater_Essen_Gaensemarkt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kleines_Theater_Essen_Gaensemarkt.jpg/800px-Kleines_Theater_Essen_Gaensemarkt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kleines_Theater_Essen_Gaensemarkt.jpg/1200px-Kleines_Theater_Essen_Gaensemarkt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kleines_Theater_Essen_Gaensemarkt.jpg/1920px-Kleines_Theater_Essen_Gaensemarkt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kleines_Theater_Essen_Gaensemarkt.jpg/1920px-Kleines_Theater_Essen_Gaensemarkt.jpg---
 
 ## Overview
 

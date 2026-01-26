@@ -4,13 +4,13 @@ site_name: "Königshütte Waterfall"
 date: 2026-01-26
 draft: false
 description: "waterfall"
-region: "Oberharz am Brocken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Oberharz am Brocken"
+  - "Lower Saxony"
 wikidata_id: "Q110627"
 latitude: 51.751133333
 longitude: 10.753422222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/400px-KoenigshuetteWasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/800px-KoenigshuetteWasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/1200px-KoenigshuetteWasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/1920px-KoenigshuetteWasserfall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/1920px-KoenigshuetteWasserfall.jpg---
 
 ## Overview
 

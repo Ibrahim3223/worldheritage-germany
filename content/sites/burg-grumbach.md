@@ -4,13 +4,13 @@ site_name: "Burg Grumbach"
 date: 2026-01-26
 draft: false
 description: "Castle in Germany"
-region: "Grumbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grumbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012083"
 latitude: 49.658
 longitude: 7.55597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/400px-Grumbach1627.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/800px-Grumbach1627.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1200px-Grumbach1627.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1920px-Grumbach1627.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1920px-Grumbach1627.jpeg---
 
 ## Overview
 

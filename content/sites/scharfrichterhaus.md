@@ -4,13 +4,13 @@ site_name: "Scharfrichterhaus"
 date: 2026-01-26
 draft: false
 description: "arts centre and cinema in Passau, Germany"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q2231297"
 latitude: 48.574698533
 longitude: 13.469312698
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scharfrichterhaus-01.jpg/400px-Scharfrichterhaus-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scharfrichterhaus-01.jpg/800px-Scharfrichterhaus-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scharfrichterhaus-01.jpg/1200px-Scharfrichterhaus-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scharfrichterhaus-01.jpg/1920px-Scharfrichterhaus-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Scharfrichterhaus-01.jpg/1920px-Scharfrichterhaus-01.jpg---
 
 ## Overview
 

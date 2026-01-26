@@ -4,13 +4,13 @@ site_name: "Edelhofkapelle (Hannover)"
 date: 2026-01-26
 draft: false
 description: "Listed church building in Hannover-Ricklingen, Germany"
-region: "Ricklingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ricklingen"
+  - "Lower Saxony"
 wikidata_id: "Q1283289"
 latitude: 52.343
 longitude: 9.73253
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/400px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/800px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/1200px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/1920px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/1920px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg---
 
 ## Overview
 

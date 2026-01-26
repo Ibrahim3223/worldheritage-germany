@@ -4,13 +4,13 @@ site_name: "Agroneum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Alt Schwerin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Alt Schwerin"
+  - "Brandenburg"
 wikidata_id: "Q21035620"
 latitude: 53.5125
 longitude: 12.35694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/400px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/800px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/1200px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/1920px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/1920px-Agrarhistorisches_Museum_Alt_Schwerin.jpg---
 
 ## Overview
 

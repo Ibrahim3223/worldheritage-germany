@@ -4,13 +4,13 @@ site_name: "Großer Zechliner See"
 date: 2026-01-26
 draft: false
 description: "lake"
-region: "Germany"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Germany"
+  - "Brandenburg"
 wikidata_id: "Q1283266"
 latitude: 53.156844444
 longitude: 12.799975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/400px-Großer_Zechliner_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/800px-Großer_Zechliner_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/1200px-Großer_Zechliner_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/1920px-Großer_Zechliner_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/1920px-Großer_Zechliner_See.jpg---
 
 ## Overview
 

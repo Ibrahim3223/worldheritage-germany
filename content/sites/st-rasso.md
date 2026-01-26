@@ -4,13 +4,13 @@ site_name: "St. Rasso"
 date: 2026-01-26
 draft: false
 description: "chapel in Schweinegg, Eisenberg, Germany"
-region: "Eisenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Eisenberg"
+  - "Bavaria"
 wikidata_id: "Q1728440"
 latitude: 47.613
 longitude: 10.5674
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/400px-Schweinegg_St._Rasso_GO-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/800px-Schweinegg_St._Rasso_GO-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/1200px-Schweinegg_St._Rasso_GO-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/1920px-Schweinegg_St._Rasso_GO-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/1920px-Schweinegg_St._Rasso_GO-2.jpg---
 
 ## Overview
 

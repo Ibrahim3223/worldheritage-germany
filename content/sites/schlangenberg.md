@@ -4,13 +4,13 @@ site_name: "Schlangenberg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Stolberg, North Rhine-Westphalia, Germany"
-region: "Stolberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Stolberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q153901"
 latitude: 50.737222222
 longitude: 6.243333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlangenberg_im_Monat_Juni.JPG/400px-Schlangenberg_im_Monat_Juni.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlangenberg_im_Monat_Juni.JPG/800px-Schlangenberg_im_Monat_Juni.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlangenberg_im_Monat_Juni.JPG/1200px-Schlangenberg_im_Monat_Juni.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlangenberg_im_Monat_Juni.JPG/1920px-Schlangenberg_im_Monat_Juni.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlangenberg_im_Monat_Juni.JPG/1920px-Schlangenberg_im_Monat_Juni.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sacred-Heart-church Bad Kissingen"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Kissingen, Bavaria state, Germany"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q1615017"
 latitude: 50.20045
 longitude: 10.07913
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herz-Jesu-Kirche-Kissingen.JPG/400px-Herz-Jesu-Kirche-Kissingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herz-Jesu-Kirche-Kissingen.JPG/800px-Herz-Jesu-Kirche-Kissingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herz-Jesu-Kirche-Kissingen.JPG/1200px-Herz-Jesu-Kirche-Kissingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herz-Jesu-Kirche-Kissingen.JPG/1920px-Herz-Jesu-Kirche-Kissingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herz-Jesu-Kirche-Kissingen.JPG/1920px-Herz-Jesu-Kirche-Kissingen.JPG---
 
 ## Overview
 

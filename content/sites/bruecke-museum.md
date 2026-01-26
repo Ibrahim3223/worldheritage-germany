@@ -4,13 +4,13 @@ site_name: "Brücke Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q833759"
 latitude: 52.4669
 longitude: 13.2736
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/400px-Brücke_Museum_April_2025-7835.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/800px-Brücke_Museum_April_2025-7835.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/1200px-Brücke_Museum_April_2025-7835.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/1920px-Brücke_Museum_April_2025-7835.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/1920px-Brücke_Museum_April_2025-7835.jpg---
 
 ## Overview
 

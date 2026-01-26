@@ -4,13 +4,13 @@ site_name: "Versöhnungskirche Berlin-Biesdorf"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Marzahn-Hellersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marzahn-Hellersdorf"
+  - "Berlin"
 wikidata_id: "Q2518485"
 latitude: 52.5243
 longitude: 13.5502
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/400px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/800px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/1200px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/1920px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/1920px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG---
 
 ## Overview
 

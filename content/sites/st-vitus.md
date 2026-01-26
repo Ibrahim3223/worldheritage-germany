@@ -4,13 +4,13 @@ site_name: "St. Vitus"
 date: 2026-01-26
 draft: false
 description: "church building in Olfen, Germany"
-region: "Olfen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Olfen"
+  - "Lower Saxony"
 wikidata_id: "Q1694769"
 latitude: 51.7061
 longitude: 7.38031
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/400px-Olfen_St._Vitus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/800px-Olfen_St._Vitus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/1200px-Olfen_St._Vitus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/1920px-Olfen_St._Vitus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/1920px-Olfen_St._Vitus.jpg---
 
 ## Overview
 

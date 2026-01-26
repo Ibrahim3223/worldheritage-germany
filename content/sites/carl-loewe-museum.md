@@ -4,13 +4,13 @@ site_name: "Carl-Loewe-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Löbejün, Saxony-Anhalt, Germany"
-region: "Wettin-Löbejün"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wettin-Löbejün"
+  - "Brandenburg"
 wikidata_id: "Q56669091"
 latitude: 51.636139
 longitude: 11.903028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LöbejünLoewehaus1.JPG/400px-LöbejünLoewehaus1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LöbejünLoewehaus1.JPG/800px-LöbejünLoewehaus1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LöbejünLoewehaus1.JPG/1200px-LöbejünLoewehaus1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LöbejünLoewehaus1.JPG/1920px-LöbejünLoewehaus1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LöbejünLoewehaus1.JPG/1920px-LöbejünLoewehaus1.JPG---
 
 ## Overview
 

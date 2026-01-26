@@ -4,13 +4,13 @@ site_name: "Manor house in Neparmitz"
 date: 2026-01-26
 draft: false
 description: "Gutshof und Herrenhaus auf der Insel Rügen"
-region: "Poseritz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Poseritz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1556993"
 latitude: 54.2874
 longitude: 13.3121
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/400px-Neparmitz_Süd.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/800px-Neparmitz_Süd.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/1200px-Neparmitz_Süd.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/1920px-Neparmitz_Süd.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/1920px-Neparmitz_Süd.jpg---
 
 ## Overview
 

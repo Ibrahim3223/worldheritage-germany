@@ -4,13 +4,13 @@ site_name: "St. Anne's Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Lübeck, Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q878754"
 latitude: 53.862777777
 longitude: 10.689166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/400px-St._Annenmuseum_4_2013_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/800px-St._Annenmuseum_4_2013_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/1200px-St._Annenmuseum_4_2013_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/1920px-St._Annenmuseum_4_2013_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/1920px-St._Annenmuseum_4_2013_2.JPG---
 
 ## Overview
 

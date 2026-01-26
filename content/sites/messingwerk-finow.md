@@ -4,13 +4,13 @@ site_name: "Messingwerk Finow"
 date: 2026-01-26
 draft: false
 description: "historische Hütte für Sekundärmetall"
-region: "Finow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Finow"
+  - "Brandenburg"
 wikidata_id: "Q1924313"
 latitude: 52.845
 longitude: 13.7247
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/400px-Eberswalde_Copper_house.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/800px-Eberswalde_Copper_house.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/1200px-Eberswalde_Copper_house.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/1920px-Eberswalde_Copper_house.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/1920px-Eberswalde_Copper_house.jpg---
 
 ## Overview
 

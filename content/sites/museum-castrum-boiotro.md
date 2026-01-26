@@ -4,19 +4,18 @@ site_name: "Museum Castrum Boiotro"
 date: 2026-01-26
 draft: false
 description: "museum in Passau, Germany"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q2179608"
 latitude: 48.569927
 longitude: 13.462022
 images:
-  []
----
+  []---
 
 ## Overview
 

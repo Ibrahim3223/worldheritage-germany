@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8127-0019 in Bad Grönenbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bad Grönenbach, Unterallgäu, Swabia, Bavaria, Germany"
-region: "Bad Grönenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bad Grönenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q98284804"
 latitude: 47.863136991
 longitude: 10.279793907
 images:
-  []
----
+  []---
 
 ## Overview
 

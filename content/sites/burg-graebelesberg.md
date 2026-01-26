@@ -4,13 +4,13 @@ site_name: "Burg Gräbelesberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Laufen an der Eyach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Laufen an der Eyach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012086"
 latitude: 48.2105
 longitude: 8.9195
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/400px-Am_Gräbelesberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/800px-Am_Gräbelesberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/1200px-Am_Gräbelesberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/1920px-Am_Gräbelesberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/1920px-Am_Gräbelesberg.jpg---
 
 ## Overview
 

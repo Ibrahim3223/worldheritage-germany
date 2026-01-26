@@ -4,13 +4,13 @@ site_name: "Speicherstadtmuseum"
 date: 2026-01-26
 draft: false
 description: "local museum in Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q2308634"
 latitude: 53.543111111
 longitude: 9.987555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/400px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/800px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/1200px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/1920px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/1920px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg---
 
 ## Overview
 

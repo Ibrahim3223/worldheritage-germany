@@ -4,13 +4,13 @@ site_name: "Dominicans Island"
 date: 2026-01-26
 draft: false
 description: "small island in Lake Constance"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q827120"
 latitude: 47.6642
 longitude: 9.17833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg/400px-Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg/800px-Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg/1200px-Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg/1920px-Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg/1920px-Aerial_image_of_Dominicans_Island_(view_from_the_east).jpg---
 
 ## Overview
 

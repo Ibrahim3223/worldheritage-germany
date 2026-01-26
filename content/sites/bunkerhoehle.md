@@ -4,19 +4,18 @@ site_name: "Bunkerhöhle"
 date: 2026-01-26
 draft: false
 description: "cave"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1009597"
 latitude: 51.3675
 longitude: 7.66472222
 images:
-  []
----
+  []---
 
 ## Overview
 

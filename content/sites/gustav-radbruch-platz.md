@@ -4,13 +4,13 @@ site_name: "Gustav-Radbruch-Platz"
 date: 2026-01-26
 draft: false
 description: "square"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q1014925"
 latitude: 53.87901
 longitude: 10.69631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/400px-WP_Burgfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/800px-WP_Burgfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/1200px-WP_Burgfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/1920px-WP_Burgfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/1920px-WP_Burgfeld.jpg---
 
 ## Overview
 

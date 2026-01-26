@@ -4,19 +4,18 @@ site_name: "Kavalierhaus Gifhorn - Museum für Wohnkultur"
 date: 2026-01-26
 draft: false
 description: "museum in Gifhorn, Germany"
-region: "Gifhorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Gifhorn"
+  - "Lower Saxony"
 wikidata_id: "Q76636001"
 latitude: 52.487725
 longitude: 10.546077
 images:
-  []
----
+  []---
 
 ## Overview
 

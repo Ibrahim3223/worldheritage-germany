@@ -4,19 +4,18 @@ site_name: "Modellbahnmuseum Muggendorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629795"
 latitude: 49.802742
 longitude: 11.261841
 images:
-  []
----
+  []---
 
 ## Overview
 

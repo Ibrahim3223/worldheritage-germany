@@ -4,19 +4,18 @@ site_name: "Archive of the Academy of Arts"
 date: 2026-01-26
 draft: false
 description: "archive"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q635522"
 latitude: 52.52793
 longitude: 13.37943
 images:
-  []
----
+  []---
 
 ## Overview
 

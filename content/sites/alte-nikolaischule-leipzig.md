@@ -4,13 +4,13 @@ site_name: "Alte Nikolaischule (Leipzig)"
 date: 2026-01-26
 draft: false
 description: "school in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q436052"
 latitude: 51.34080306
 longitude: 12.378625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/400px-Leipzig_Alte_Nikolaischule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/800px-Leipzig_Alte_Nikolaischule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1200px-Leipzig_Alte_Nikolaischule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1920px-Leipzig_Alte_Nikolaischule.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1920px-Leipzig_Alte_Nikolaischule.jpg---
 
 ## Overview
 

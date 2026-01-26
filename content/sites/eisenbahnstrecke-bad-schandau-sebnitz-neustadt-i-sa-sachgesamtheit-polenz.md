@@ -4,13 +4,13 @@ site_name: "Eisenbahnstrecke Bad Schandau -Sebnitz -Neustadt i. Sa. (Sachgesamth
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Neustadt in Sachsen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Neustadt in Sachsen"
+  - "Saxony"
 wikidata_id: "Q49443094"
 latitude: 51.01675253
 longitude: 14.181142496
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sebnitztalbahn-km38,8-Brücke-2.jpg/400px-Sebnitztalbahn-km38,8-Brücke-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sebnitztalbahn-km38,8-Brücke-2.jpg/800px-Sebnitztalbahn-km38,8-Brücke-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sebnitztalbahn-km38,8-Brücke-2.jpg/1200px-Sebnitztalbahn-km38,8-Brücke-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sebnitztalbahn-km38,8-Brücke-2.jpg/1920px-Sebnitztalbahn-km38,8-Brücke-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sebnitztalbahn-km38,8-Brücke-2.jpg/1920px-Sebnitztalbahn-km38,8-Brücke-2.jpg---
 
 ## Overview
 

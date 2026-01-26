@@ -4,13 +4,13 @@ site_name: "Bonn Botanical Garden"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q322634"
 latitude: 50.7247
 longitude: 7.09167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/400px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/800px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/1200px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/1920px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/1920px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg---
 
 ## Overview
 

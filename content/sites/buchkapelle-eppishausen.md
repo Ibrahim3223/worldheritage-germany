@@ -4,13 +4,13 @@ site_name: "Buchkapelle (Eppishausen)"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Kirchheim in Schwaben"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kirchheim in Schwaben"
+  - "Bavaria"
 wikidata_id: "Q998560"
 latitude: 48.1621
 longitude: 10.5301
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/400px-Buchkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/800px-Buchkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/1200px-Buchkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/1920px-Buchkapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/1920px-Buchkapelle.JPG---
 
 ## Overview
 

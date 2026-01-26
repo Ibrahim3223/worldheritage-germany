@@ -4,13 +4,13 @@ site_name: "Dieksbeck"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bienenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bienenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q1220665"
 latitude: 53.1786
 longitude: 10.4675
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/400px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/800px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/1200px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/1920px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/1920px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg---
 
 ## Overview
 

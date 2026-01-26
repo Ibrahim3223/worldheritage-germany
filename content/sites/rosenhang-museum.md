@@ -4,19 +4,18 @@ site_name: "Rosenhang Museum"
 date: 2026-01-26
 draft: false
 description: "contemporary art museum in Weilburg, Germany"
-region: "Weilburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weilburg"
+  - "Hesse"
 wikidata_id: "Q29417414"
 latitude: 50.486636
 longitude: 8.269577
 images:
-  []
----
+  []---
 
 ## Overview
 

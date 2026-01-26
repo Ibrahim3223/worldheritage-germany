@@ -4,13 +4,13 @@ site_name: "Annakirche, Aachen"
 date: 2026-01-26
 draft: false
 description: "church building in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q564228"
 latitude: 50.7734
 longitude: 6.08122
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/400px-Annakirche_Aachen_(2024).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/800px-Annakirche_Aachen_(2024).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/1200px-Annakirche_Aachen_(2024).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/1920px-Annakirche_Aachen_(2024).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/1920px-Annakirche_Aachen_(2024).jpg---
 
 ## Overview
 

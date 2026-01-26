@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Schwabach"
 date: 2026-01-26
 draft: false
 description: "museum in Schwabach, Germany"
-region: "Schwabach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwabach"
+  - "Bavaria"
 wikidata_id: "Q29944158"
 latitude: 49.336952
 longitude: 11.0183
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/400px-StadtmuseumSC_Aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/800px-StadtmuseumSC_Aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/1200px-StadtmuseumSC_Aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/1920px-StadtmuseumSC_Aussen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/1920px-StadtmuseumSC_Aussen.jpg---
 
 ## Overview
 

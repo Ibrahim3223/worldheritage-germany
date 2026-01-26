@@ -4,13 +4,13 @@ site_name: "Museum for Communication Frankfurt"
 date: 2026-01-26
 draft: false
 description: "museum in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1954640"
 latitude: 50.104377
 longitude: 8.675871
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/400px-Museum-fuer-kommunikation-ffm006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/800px-Museum-fuer-kommunikation-ffm006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/1200px-Museum-fuer-kommunikation-ffm006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/1920px-Museum-fuer-kommunikation-ffm006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/1920px-Museum-fuer-kommunikation-ffm006.jpg---
 
 ## Overview
 

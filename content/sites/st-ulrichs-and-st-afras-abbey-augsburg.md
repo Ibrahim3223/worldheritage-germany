@@ -4,13 +4,13 @@ site_name: "St. Ulrich's and St. Afra's Abbey, Augsburg"
 date: 2026-01-26
 draft: false
 description: "Benedictine abbey dedicated to Saint Ulrich and Saint Afra in Augsburg, Bavaria"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q458378"
 latitude: 48.3614
 longitude: 10.9004
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/400px-Augsburg_-_st_ulrich_u_afra.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/800px-Augsburg_-_st_ulrich_u_afra.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/1200px-Augsburg_-_st_ulrich_u_afra.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/1920px-Augsburg_-_st_ulrich_u_afra.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/1920px-Augsburg_-_st_ulrich_u_afra.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gutshaus Federow"
 date: 2026-01-26
 draft: false
 description: "building in Federow, Germany"
-region: "Kargow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kargow"
+  - "Brandenburg"
 wikidata_id: "Q3286181"
 latitude: 53.4832
 longitude: 12.7633
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gutshaus_Federow.jpg/400px-Gutshaus_Federow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gutshaus_Federow.jpg/800px-Gutshaus_Federow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gutshaus_Federow.jpg/1200px-Gutshaus_Federow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gutshaus_Federow.jpg/1920px-Gutshaus_Federow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gutshaus_Federow.jpg/1920px-Gutshaus_Federow.jpg---
 
 ## Overview
 

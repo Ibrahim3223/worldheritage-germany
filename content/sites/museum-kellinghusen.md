@@ -4,19 +4,18 @@ site_name: "Museum Kellinghusen"
 date: 2026-01-26
 draft: false
 description: "Museum in Schleswig-Holstein"
-region: "Kellinghusen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kellinghusen"
+  - "Lower Saxony"
 wikidata_id: "Q22693126"
 latitude: 53.9484
 longitude: 9.7205
 images:
-  []
----
+  []---
 
 ## Overview
 

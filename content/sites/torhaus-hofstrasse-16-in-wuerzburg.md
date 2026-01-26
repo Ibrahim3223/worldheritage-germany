@@ -4,19 +4,18 @@ site_name: "Torhaus Hofstraße 16 in Würzburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-63-000-204 (1) in Würzburg, Bavaria"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q98495725"
 latitude: 49.793053524
 longitude: 9.935481271
 images:
-  []
----
+  []---
 
 ## Overview
 

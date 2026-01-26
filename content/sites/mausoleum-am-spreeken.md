@@ -4,19 +4,18 @@ site_name: "Mausoleum am Spreeken"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Schwanewede"
-region: "Schwanewede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Schwanewede"
+  - "Bremen"
 wikidata_id: "Q133374978"
 latitude: 53.24215
 longitude: 8.594956
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schiller house (Bauerbach)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Grabfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Grabfeld"
+  - "Bavaria"
 wikidata_id: "Q1797133"
 latitude: 50.4983
 longitude: 10.3894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg/400px-Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg/800px-Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg/1200px-Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg/1920px-Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg/1920px-Schillerhaus_2020_-_kein_Fachwerk_mehr.jpg---
 
 ## Overview
 

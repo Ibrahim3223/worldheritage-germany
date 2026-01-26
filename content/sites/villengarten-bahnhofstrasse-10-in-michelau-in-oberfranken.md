@@ -4,19 +4,18 @@ site_name: "Villengarten Bahnhofstraße 10 in Michelau in Oberfranken"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-78-145-62 (1) in Michelau in Oberfranken, Bavaria"
-region: "Michelau in Oberfranken"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Michelau in Oberfranken"
+  - "Bavaria"
 wikidata_id: "Q98589389"
 latitude: 50.158609662
 longitude: 11.114598563
 images:
-  []
----
+  []---
 
 ## Overview
 

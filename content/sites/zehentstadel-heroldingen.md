@@ -4,13 +4,13 @@ site_name: "Zehentstadel Heroldingen"
 date: 2026-01-26
 draft: false
 description: "former barn in Harburg, Bavaria, Germany"
-region: "Harburg (Schwaben)"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Harburg (Schwaben)"
+  - "Bavaria"
 wikidata_id: "Q27972999"
 latitude: 48.812061111
 longitude: 10.644125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zehntstadel_Heroldingen.jpg/400px-Zehntstadel_Heroldingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zehntstadel_Heroldingen.jpg/800px-Zehntstadel_Heroldingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zehntstadel_Heroldingen.jpg/1200px-Zehntstadel_Heroldingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zehntstadel_Heroldingen.jpg/1920px-Zehntstadel_Heroldingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zehntstadel_Heroldingen.jpg/1920px-Zehntstadel_Heroldingen.jpg---
 
 ## Overview
 

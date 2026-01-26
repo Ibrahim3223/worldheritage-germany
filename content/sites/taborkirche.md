@@ -4,13 +4,13 @@ site_name: "Taborkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2386650"
 latitude: 51.3151
 longitude: 12.3276
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/400px-Taborkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/800px-Taborkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/1200px-Taborkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/1920px-Taborkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/1920px-Taborkirche.jpg---
 
 ## Overview
 

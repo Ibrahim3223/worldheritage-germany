@@ -4,13 +4,13 @@ site_name: "Burg Kniphausen"
 date: 2026-01-26
 draft: false
 description: "castle in Wilhelmshaven, Lower Saxony, Germany"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q1012689"
 latitude: 53.5508
 longitude: 8.05269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/400px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/800px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/1200px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/1920px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/1920px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg---
 
 ## Overview
 

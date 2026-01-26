@@ -4,19 +4,18 @@ site_name: "Stiftung Katholische Freie Schule der Diözese Rottenburg-Stuttgart"
 date: 2026-01-26
 draft: false
 description: "rechtsfähige kirchliche Stiftung des öffentlichen Rechtes der Diözese Rottenburg-Stuttgart"
-region: "Rottenburg am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Rottenburg am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q2349031"
 latitude: 48.4821
 longitude: 8.93629
 images:
-  []
----
+  []---
 
 ## Overview
 

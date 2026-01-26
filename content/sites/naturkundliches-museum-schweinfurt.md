@@ -4,13 +4,13 @@ site_name: "Naturkundliches Museum (Schweinfurt)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schweinfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schweinfurt"
+  - "Bavaria"
 wikidata_id: "Q1970368"
 latitude: 50.04359
 longitude: 10.2373
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/400px-NaturkundlichesMuseumSchweinfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/800px-NaturkundlichesMuseumSchweinfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/1200px-NaturkundlichesMuseumSchweinfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/1920px-NaturkundlichesMuseumSchweinfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/1920px-NaturkundlichesMuseumSchweinfurt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Badsee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in the municipalities of Isny im Allgäu and Argenbühl, Baden-Württemberg, Germany"
-region: "Argenbühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Argenbühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q799693"
 latitude: 47.774778
 longitude: 9.99306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/400px-Isny_im_Allgäu_-_Badsee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/800px-Isny_im_Allgäu_-_Badsee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1200px-Isny_im_Allgäu_-_Badsee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1920px-Isny_im_Allgäu_-_Badsee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1920px-Isny_im_Allgäu_-_Badsee.JPG---
 
 ## Overview
 

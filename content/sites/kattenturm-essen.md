@@ -4,13 +4,13 @@ site_name: "Kattenturm Essen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1013036"
 latitude: 51.3688
 longitude: 6.96125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/400px-Kattenturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/800px-Kattenturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/1200px-Kattenturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/1920px-Kattenturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/1920px-Kattenturm.JPG---
 
 ## Overview
 

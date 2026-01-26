@@ -4,19 +4,18 @@ site_name: "Georg-Lechner-Biermuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Oelde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oelde"
+  - "Lower Saxony"
 wikidata_id: "Q1503408"
 latitude: 51.8107
 longitude: 8.13158
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rathaus Gamerschwang"
 date: 2026-01-26
 draft: false
 description: "Rathaus des zur Großen Kreisstadt Ehingen (Donau) gehörenden Teilorts Gamerschwang im Alb-Donau-Kreis"
-region: "Gamerschwang"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Gamerschwang"
+  - "Baden-Württemberg"
 wikidata_id: "Q128300732"
 latitude: 48.285952777
 longitude: 9.778483333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rathaus_Gamerschwang_I.jpg/400px-Rathaus_Gamerschwang_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rathaus_Gamerschwang_I.jpg/800px-Rathaus_Gamerschwang_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rathaus_Gamerschwang_I.jpg/1200px-Rathaus_Gamerschwang_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rathaus_Gamerschwang_I.jpg/1920px-Rathaus_Gamerschwang_I.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rathaus_Gamerschwang_I.jpg/1920px-Rathaus_Gamerschwang_I.jpg---
 
 ## Overview
 

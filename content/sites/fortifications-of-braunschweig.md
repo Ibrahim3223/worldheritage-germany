@@ -4,13 +4,13 @@ site_name: "Fortifications of Braunschweig"
 date: 2026-01-26
 draft: false
 description: "city wall"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q814192"
 latitude: 52.25946389
 longitude: 10.51550278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/400px-BS_Stadtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/800px-BS_Stadtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/1200px-BS_Stadtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/1920px-BS_Stadtansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/1920px-BS_Stadtansicht.jpg---
 
 ## Overview
 

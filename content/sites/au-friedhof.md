@@ -4,13 +4,13 @@ site_name: "Au-Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bad Säckingen, Germany"
-region: "Bad Säckingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Bad Säckingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q758357"
 latitude: 47.549694444
 longitude: 7.948527777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/400px-Bad_Säckingen_2012-08-18_Mattes.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/800px-Bad_Säckingen_2012-08-18_Mattes.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/1200px-Bad_Säckingen_2012-08-18_Mattes.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/1920px-Bad_Säckingen_2012-08-18_Mattes.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/1920px-Bad_Säckingen_2012-08-18_Mattes.JPG---
 
 ## Overview
 

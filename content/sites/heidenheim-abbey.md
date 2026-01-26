@@ -4,13 +4,13 @@ site_name: "Heidenheim Abbey"
 date: 2026-01-26
 draft: false
 description: "former Benedictine monastery in Heidenheim am Hahnenkamm, Germany"
-region: "Q548982"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Q548982"
+  - "Bavaria"
 wikidata_id: "Q721812"
 latitude: 49.0177
 longitude: 10.7427
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/400px-KlosterHeidenheim1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/800px-KlosterHeidenheim1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/1200px-KlosterHeidenheim1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/1920px-KlosterHeidenheim1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/1920px-KlosterHeidenheim1.JPG---
 
 ## Overview
 

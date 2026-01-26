@@ -4,19 +4,18 @@ site_name: "Thüringer Museum für Elektrotechnik"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2430867"
 latitude: 50.9884
 longitude: 11.0443
 images:
-  []
----
+  []---
 
 ## Overview
 

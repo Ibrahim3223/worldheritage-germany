@@ -4,13 +4,13 @@ site_name: "August-Macke-Haus"
 date: 2026-01-26
 draft: false
 description: "art museum in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q760642"
 latitude: 50.73745
 longitude: 7.086314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/400px-August-Macke-Haus_Bonn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/800px-August-Macke-Haus_Bonn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/1200px-August-Macke-Haus_Bonn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/1920px-August-Macke-Haus_Bonn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/1920px-August-Macke-Haus_Bonn.jpg---
 
 ## Overview
 

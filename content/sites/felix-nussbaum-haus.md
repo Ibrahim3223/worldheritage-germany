@@ -4,13 +4,13 @@ site_name: "Felix Nussbaum Haus"
 date: 2026-01-26
 draft: false
 description: "museum dedicated to Felix Nussbaum in Osnabrück, Germany"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q444339"
 latitude: 52.27522
 longitude: 8.03851
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/400px-FelixNussbaumHaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/800px-FelixNussbaumHaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1200px-FelixNussbaumHaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1920px-FelixNussbaumHaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1920px-FelixNussbaumHaus.jpg---
 
 ## Overview
 

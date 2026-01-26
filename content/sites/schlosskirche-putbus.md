@@ -4,13 +4,13 @@ site_name: "Schlosskirche Putbus"
 date: 2026-01-26
 draft: false
 description: "church building in Putbus, Germany"
-region: "Putbus"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Putbus"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2244595"
 latitude: 54.3503
 longitude: 13.4681
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/400px-Schlosskirche_Putbus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/800px-Schlosskirche_Putbus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/1200px-Schlosskirche_Putbus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/1920px-Schlosskirche_Putbus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/1920px-Schlosskirche_Putbus.jpg---
 
 ## Overview
 

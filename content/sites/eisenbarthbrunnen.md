@@ -4,13 +4,13 @@ site_name: "Eisenbarthbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1312612"
 latitude: 52.1325
 longitude: 11.6402
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eisenbarthbrunnen2.JPG/400px-Eisenbarthbrunnen2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eisenbarthbrunnen2.JPG/800px-Eisenbarthbrunnen2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eisenbarthbrunnen2.JPG/1200px-Eisenbarthbrunnen2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eisenbarthbrunnen2.JPG/1920px-Eisenbarthbrunnen2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eisenbarthbrunnen2.JPG/1920px-Eisenbarthbrunnen2.JPG---
 
 ## Overview
 

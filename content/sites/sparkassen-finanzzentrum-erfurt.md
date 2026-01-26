@@ -4,13 +4,13 @@ site_name: "Sparkassen-Finanzzentrum Erfurt"
 date: 2026-01-26
 draft: false
 description: "office building group in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1565850"
 latitude: 50.9713
 longitude: 11.0174
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/400px-Sparkassen-Finanzzentrum_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/800px-Sparkassen-Finanzzentrum_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/1200px-Sparkassen-Finanzzentrum_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/1920px-Sparkassen-Finanzzentrum_Erfurt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/1920px-Sparkassen-Finanzzentrum_Erfurt.JPG---
 
 ## Overview
 

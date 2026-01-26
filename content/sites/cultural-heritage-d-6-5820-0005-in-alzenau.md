@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5820-0005 in Alzenau"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Alzenau, Aschaffenburg, Lower Franconia, Bavaria, Germany"
-region: "Alzenau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Alzenau"
+  - "Bavaria"
 wikidata_id: "Q98160450"
 latitude: 50.100676869
 longitude: 9.144525084
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Blauensee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Waldburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Waldburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q882574"
 latitude: 47.75069333
 longitude: 9.7291875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/400px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/800px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/1200px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/1920px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/1920px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg---
 
 ## Overview
 

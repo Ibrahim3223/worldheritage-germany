@@ -4,19 +4,18 @@ site_name: "Ducal Leiningen Library Amorbach"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Amorbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Amorbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1483590"
 latitude: 49.6434
 longitude: 9.2197
 images:
-  []
----
+  []---
 
 ## Overview
 

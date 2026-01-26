@@ -4,13 +4,13 @@ site_name: "Maria vom Frieden"
 date: 2026-01-26
 draft: false
 description: "church building in Homburg, Germany"
-region: "Homburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Homburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1896490"
 latitude: 49.3326
 longitude: 7.33213
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erbach_Maria_vom_Frieden_01.JPG/400px-Erbach_Maria_vom_Frieden_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erbach_Maria_vom_Frieden_01.JPG/800px-Erbach_Maria_vom_Frieden_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erbach_Maria_vom_Frieden_01.JPG/1200px-Erbach_Maria_vom_Frieden_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erbach_Maria_vom_Frieden_01.JPG/1920px-Erbach_Maria_vom_Frieden_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erbach_Maria_vom_Frieden_01.JPG/1920px-Erbach_Maria_vom_Frieden_01.JPG---
 
 ## Overview
 

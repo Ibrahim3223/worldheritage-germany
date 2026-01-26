@@ -4,13 +4,13 @@ site_name: "Wassermühle Lassan"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lassan"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lassan"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q27068107"
 latitude: 53.94854
 longitude: 13.85254
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lassan-Mühle-140330-046.JPG/400px-Lassan-Mühle-140330-046.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lassan-Mühle-140330-046.JPG/800px-Lassan-Mühle-140330-046.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lassan-Mühle-140330-046.JPG/1200px-Lassan-Mühle-140330-046.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lassan-Mühle-140330-046.JPG/1920px-Lassan-Mühle-140330-046.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lassan-Mühle-140330-046.JPG/1920px-Lassan-Mühle-140330-046.JPG---
 
 ## Overview
 

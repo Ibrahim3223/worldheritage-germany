@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Bleicherode"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bleicherode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bleicherode"
+  - "Lower Saxony"
 wikidata_id: "Q20481893"
 latitude: 51.4393547
 longitude: 10.5714745
 images:
-  []
----
+  []---
 
 ## Overview
 

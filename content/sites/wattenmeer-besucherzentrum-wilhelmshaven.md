@@ -4,13 +4,13 @@ site_name: "Wattenmeer Besucherzentrum Wilhelmshaven"
 date: 2026-01-26
 draft: false
 description: "museum in Wilhelmshaven, Germany"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q24516585"
 latitude: 53.51279
 longitude: 8.13902
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/400px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/800px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/1200px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/1920px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/1920px-8011_Wattenmeerhaus_Wilhelmshaven.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Phonomuseum \"Alte Schule\""
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Holzdorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Holzdorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q17126945"
 latitude: 54.560654
 longitude: 9.906283
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/400px-Phonomuseum_Alte_Schule_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/800px-Phonomuseum_Alte_Schule_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/1200px-Phonomuseum_Alte_Schule_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/1920px-Phonomuseum_Alte_Schule_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/1920px-Phonomuseum_Alte_Schule_2014.jpg---
 
 ## Overview
 

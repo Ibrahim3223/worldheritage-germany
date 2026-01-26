@@ -4,13 +4,13 @@ site_name: "Marienkapelle Ensmannsreut"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Ensmannsreut"
-region: "Waldkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Waldkirchen"
+  - "Bavaria"
 wikidata_id: "Q1694575"
 latitude: 48.7661
 longitude: 13.6158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marienkapelle_Ensmannsreut01.jpg/400px-Marienkapelle_Ensmannsreut01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marienkapelle_Ensmannsreut01.jpg/800px-Marienkapelle_Ensmannsreut01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marienkapelle_Ensmannsreut01.jpg/1200px-Marienkapelle_Ensmannsreut01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marienkapelle_Ensmannsreut01.jpg/1920px-Marienkapelle_Ensmannsreut01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marienkapelle_Ensmannsreut01.jpg/1920px-Marienkapelle_Ensmannsreut01.jpg---
 
 ## Overview
 

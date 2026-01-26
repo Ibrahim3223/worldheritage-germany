@@ -4,19 +4,18 @@ site_name: "Altes Rathaus Singen"
 date: 2026-01-26
 draft: false
 description: "Kulturdenkmal im Remchinger Ortsteil Singen im Enzkreis in Baden-Württemberg"
-region: "Remchingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Remchingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q136704488"
 latitude: 48.957561
 longitude: 8.568165
 images:
-  []
----
+  []---
 
 ## Overview
 

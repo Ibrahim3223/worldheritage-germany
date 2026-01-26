@@ -4,13 +4,13 @@ site_name: "Dorfkirche Ludorf"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ludorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ludorf"
+  - "Brandenburg"
 wikidata_id: "Q1244476"
 latitude: 53.3803
 longitude: 12.6689
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/400px-Kirche_Ludorf_2-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/800px-Kirche_Ludorf_2-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/1200px-Kirche_Ludorf_2-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/1920px-Kirche_Ludorf_2-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/1920px-Kirche_Ludorf_2-2.jpg---
 
 ## Overview
 

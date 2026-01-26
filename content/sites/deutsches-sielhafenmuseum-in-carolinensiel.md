@@ -4,13 +4,13 @@ site_name: "Deutsches Sielhafenmuseum in Carolinensiel"
 date: 2026-01-26
 draft: false
 description: "museum in Wittmund, Germany"
-region: "Wittmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wittmund"
+  - "Lower Saxony"
 wikidata_id: "Q1205979"
 latitude: 53.6924
 longitude: 7.80206
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/400px-Harlesiel_Rettungsschuppen_0848.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/800px-Harlesiel_Rettungsschuppen_0848.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/1200px-Harlesiel_Rettungsschuppen_0848.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/1920px-Harlesiel_Rettungsschuppen_0848.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/1920px-Harlesiel_Rettungsschuppen_0848.jpg---
 
 ## Overview
 

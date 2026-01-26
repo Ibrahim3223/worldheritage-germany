@@ -4,13 +4,13 @@ site_name: "Erweiterung des Städelschen Kunstinstitut"
 date: 2026-01-26
 draft: false
 description: "museum building in Frankfurt am Main, Germany"
-region: "Frankfurt-Süd"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Frankfurt-Süd"
+  - "Hesse"
 wikidata_id: "Q121076495"
 latitude: 50.1024
 longitude: 8.674
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/400px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/800px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/1200px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/1920px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/1920px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg---
 
 ## Overview
 

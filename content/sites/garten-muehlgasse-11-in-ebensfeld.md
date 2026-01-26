@@ -4,19 +4,18 @@ site_name: "Garten Mühlgasse 11 in Ebensfeld"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-78-120-23 (4) in Ebensfeld, Bavaria"
-region: "Ebensfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Ebensfeld"
+  - "Bavaria"
 wikidata_id: "Q98589413"
 latitude: 50.065227078
 longitude: 10.959118169
 images:
-  []
----
+  []---
 
 ## Overview
 

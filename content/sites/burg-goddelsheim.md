@@ -4,19 +4,18 @@ site_name: "Burg Goddelsheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Goddelsheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Goddelsheim"
+  - "Hesse"
 wikidata_id: "Q1011987"
 latitude: 51.2006
 longitude: 8.80882
 images:
-  []
----
+  []---
 
 ## Overview
 

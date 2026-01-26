@@ -4,13 +4,13 @@ site_name: "ExRotaprint"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Produktionsgelände des Druckmaschinenherstellers Rotaprint in Berlin-Gesundbrunnen"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1383265"
 latitude: 52.550322
 longitude: 13.369919
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/400px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/800px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/1200px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/1920px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/1920px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg---
 
 ## Overview
 

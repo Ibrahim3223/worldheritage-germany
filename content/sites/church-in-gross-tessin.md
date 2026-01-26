@@ -4,13 +4,13 @@ site_name: "Church in Gross Tessin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Glasin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Glasin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244336"
 latitude: 53.8968
 longitude: 11.787
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/400px-Gross_Tessin_Kirche_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/800px-Gross_Tessin_Kirche_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1200px-Gross_Tessin_Kirche_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1920px-Gross_Tessin_Kirche_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1920px-Gross_Tessin_Kirche_3.jpg---
 
 ## Overview
 

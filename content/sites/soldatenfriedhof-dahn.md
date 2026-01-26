@@ -4,13 +4,13 @@ site_name: "Soldatenfriedhof Dahn"
 date: 2026-01-26
 draft: false
 description: "cemetery in Dahn, Germany"
-region: "Dahn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dahn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1157498"
 latitude: 49.1458
 longitude: 7.78708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/400px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/800px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/1200px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/1920px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/1920px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kleine Kirche (Karlsruhe)"
 date: 2026-01-26
 draft: false
 description: "church building in Innenstadt-Ost, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q11722115"
 latitude: 49.0092
 longitude: 8.40534
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/400px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/800px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/1200px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/1920px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/1920px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg---
 
 ## Overview
 

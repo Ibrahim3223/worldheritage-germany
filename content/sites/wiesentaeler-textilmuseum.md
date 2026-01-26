@@ -4,13 +4,13 @@ site_name: "Wiesentäler Textilmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Zell im Wiesental"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zell im Wiesental"
+  - "Baden-Württemberg"
 wikidata_id: "Q1384480"
 latitude: 47.707
 longitude: 7.856
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/400px-Wiesentäler_Textilmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/800px-Wiesentäler_Textilmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/1200px-Wiesentäler_Textilmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/1920px-Wiesentäler_Textilmuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/1920px-Wiesentäler_Textilmuseum.JPG---
 
 ## Overview
 

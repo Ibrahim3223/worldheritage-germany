@@ -4,13 +4,13 @@ site_name: "Bröse memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Brandenburg an der Havel, Brandenburg state, Germany"
-region: "Brandenburg an der Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Brandenburg an der Havel"
+  - "Brandenburg"
 wikidata_id: "Q995790"
 latitude: 52.3738
 longitude: 12.5106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/400px-Broesedenkmal_Brandenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/800px-Broesedenkmal_Brandenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/1200px-Broesedenkmal_Brandenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/1920px-Broesedenkmal_Brandenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/1920px-Broesedenkmal_Brandenburg.jpg---
 
 ## Overview
 

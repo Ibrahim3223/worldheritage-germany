@@ -4,13 +4,13 @@ site_name: "Kalltalsperre"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Simmerath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Simmerath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1722518"
 latitude: 50.6442
 longitude: 6.30917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/400px-CP_Kalltalsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/800px-CP_Kalltalsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/1200px-CP_Kalltalsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/1920px-CP_Kalltalsperre.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/1920px-CP_Kalltalsperre.jpg---
 
 ## Overview
 

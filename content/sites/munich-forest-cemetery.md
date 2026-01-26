@@ -4,13 +4,13 @@ site_name: "Munich Forest Cemetery"
 date: 2026-01-26
 draft: false
 description: "cemetery in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q253763"
 latitude: 48.102777777
 longitude: 11.493611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg/400px-Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg/800px-Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg/1200px-Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg/1920px-Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg/1920px-Kriegsgräberstätte_am_Waldfriedhof_des_Volksbundes_Deutsche_Kriegsgräberfürsorge_in_2020.jpg---
 
 ## Overview
 

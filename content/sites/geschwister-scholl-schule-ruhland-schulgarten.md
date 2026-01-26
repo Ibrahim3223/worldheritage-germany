@@ -4,19 +4,18 @@ site_name: "Geschwister-Scholl-Schule (Ruhland), Schulgarten"
 date: 2026-01-26
 draft: false
 description: "garden in Ruhland, Germany"
-region: "Ruhland"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Ruhland"
+  - "Brandenburg"
 wikidata_id: "Q43857663"
 latitude: 51.4565875
 longitude: 13.8555327
 images:
-  []
----
+  []---
 
 ## Overview
 

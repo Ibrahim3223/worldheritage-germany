@@ -4,13 +4,13 @@ site_name: "Hauptfriedhof Mainz"
 date: 2026-01-26
 draft: false
 description: "cemetery in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q302744"
 latitude: 49.995
 longitude: 8.25
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/400px-Krematorium_Mainz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/800px-Krematorium_Mainz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1200px-Krematorium_Mainz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1920px-Krematorium_Mainz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1920px-Krematorium_Mainz.jpg---
 
 ## Overview
 

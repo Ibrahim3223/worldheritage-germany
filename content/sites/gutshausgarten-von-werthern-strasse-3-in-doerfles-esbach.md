@@ -4,19 +4,18 @@ site_name: "Gutshausgarten Von-Werthern-Straße 3 in Dörfles-Esbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-73-120-2 (1) in Dörfles-Esbach, Bavaria"
-region: "Dörfles-Esbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Dörfles-Esbach"
+  - "Bavaria"
 wikidata_id: "Q98589414"
 latitude: 50.290231161
 longitude: 11.000640198
 images:
-  []
----
+  []---
 
 ## Overview
 

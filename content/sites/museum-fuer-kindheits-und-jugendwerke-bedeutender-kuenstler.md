@@ -4,13 +4,13 @@ site_name: "Museum für Kindheits- und Jugendwerke bedeutender Künstler"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Halle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle"
+  - "Lower Saxony"
 wikidata_id: "Q1764904"
 latitude: 52.0607
 longitude: 8.36283
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/400px-Halle_(Westf.)_-_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/800px-Halle_(Westf.)_-_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/1200px-Halle_(Westf.)_-_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/1920px-Halle_(Westf.)_-_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/1920px-Halle_(Westf.)_-_Museum.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Burg Mühlenbach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Heusweiler"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heusweiler"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1013172"
 latitude: 49.346433
 longitude: 6.964946
 images:
-  []
----
+  []---
 
 ## Overview
 

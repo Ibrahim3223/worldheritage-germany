@@ -4,19 +4,18 @@ site_name: "Sculpture Museum Prof. Wandschneider"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Plau am See"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Plau am See"
+  - "Brandenburg"
 wikidata_id: "Q860844"
 latitude: 53.459679911
 longitude: 12.26680908
 images:
-  []
----
+  []---
 
 ## Overview
 

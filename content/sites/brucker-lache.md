@@ -4,13 +4,13 @@ site_name: "Brucker Lache"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Erlangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Erlangen"
+  - "Bavaria"
 wikidata_id: "Q992091"
 latitude: 49.5636
 longitude: 11.0205
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bruckerlache3.jpg/400px-Bruckerlache3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bruckerlache3.jpg/800px-Bruckerlache3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bruckerlache3.jpg/1200px-Bruckerlache3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bruckerlache3.jpg/1920px-Bruckerlache3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bruckerlache3.jpg/1920px-Bruckerlache3.jpg---
 
 ## Overview
 

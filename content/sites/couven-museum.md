@@ -4,13 +4,13 @@ site_name: "Couven-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q735434"
 latitude: 50.7757
 longitude: 6.08487
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/400px-Aachen_Couvenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/800px-Aachen_Couvenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1200px-Aachen_Couvenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1920px-Aachen_Couvenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1920px-Aachen_Couvenmuseum.jpg---
 
 ## Overview
 

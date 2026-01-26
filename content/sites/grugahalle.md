@@ -4,13 +4,13 @@ site_name: "Grugahalle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q176751"
 latitude: 51.431
 longitude: 6.99767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/400px-Grugahalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/800px-Grugahalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1200px-Grugahalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1920px-Grugahalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1920px-Grugahalle.jpg---
 
 ## Overview
 

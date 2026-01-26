@@ -4,13 +4,13 @@ site_name: "Dorfkirche Britz"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q1244174"
 latitude: 52.4481
 longitude: 13.4367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/400px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/800px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1200px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1920px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1920px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg---
 
 ## Overview
 

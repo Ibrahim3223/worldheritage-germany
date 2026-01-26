@@ -4,13 +4,13 @@ site_name: "Dorfkirche Pretschen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Märkische Heide"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Märkische Heide"
+  - "Brandenburg"
 wikidata_id: "Q1244625"
 latitude: 52.0904
 longitude: 13.9915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/400px-Pretschen_Dorfkirche_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/800px-Pretschen_Dorfkirche_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1200px-Pretschen_Dorfkirche_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1920px-Pretschen_Dorfkirche_04.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1920px-Pretschen_Dorfkirche_04.JPG---
 
 ## Overview
 

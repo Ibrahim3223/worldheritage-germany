@@ -4,13 +4,13 @@ site_name: "Schloss Lüntenbeck"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1536460"
 latitude: 51.251
 longitude: 7.08372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wuppertal_Lüntenbecker_Weg_0158.jpg/400px-Wuppertal_Lüntenbecker_Weg_0158.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wuppertal_Lüntenbecker_Weg_0158.jpg/800px-Wuppertal_Lüntenbecker_Weg_0158.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wuppertal_Lüntenbecker_Weg_0158.jpg/1200px-Wuppertal_Lüntenbecker_Weg_0158.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wuppertal_Lüntenbecker_Weg_0158.jpg/1920px-Wuppertal_Lüntenbecker_Weg_0158.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wuppertal_Lüntenbecker_Weg_0158.jpg/1920px-Wuppertal_Lüntenbecker_Weg_0158.jpg---
 
 ## Overview
 

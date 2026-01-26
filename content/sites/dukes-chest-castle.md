@@ -4,13 +4,13 @@ site_name: "Duke's Chest Castle"
 date: 2026-01-26
 draft: false
 description: "was built in 1255 as the additional fortification to the southwest part of the city wall"
-region: "Ingolstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Ingolstadt"
+  - "Bavaria"
 wikidata_id: "Q642772"
 latitude: 48.7636
 longitude: 11.4275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/400px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/800px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/1200px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/1920px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/1920px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg---
 
 ## Overview
 

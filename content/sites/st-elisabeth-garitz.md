@@ -4,13 +4,13 @@ site_name: "St. Elisabeth Garitz"
 date: 2026-01-26
 draft: false
 description: "church building in Lower Franconia, Bavaria state, Germany"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q2318076"
 latitude: 50.1937
 longitude: 10.0627
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/400px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/800px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/1200px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/1920px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/1920px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG---
 
 ## Overview
 

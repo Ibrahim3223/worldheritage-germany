@@ -4,13 +4,13 @@ site_name: "Beethoven Monument"
 date: 2026-01-26
 draft: false
 description: "statue in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q814123"
 latitude: 50.7345
 longitude: 7.09913
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/400px-Beethoven_memorial_in_Bonn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/800px-Beethoven_memorial_in_Bonn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/1200px-Beethoven_memorial_in_Bonn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/1920px-Beethoven_memorial_in_Bonn.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/1920px-Beethoven_memorial_in_Bonn.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bokeler Heide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Sprakensehl"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Sprakensehl"
+  - "Lower Saxony"
 wikidata_id: "Q891208"
 latitude: 52.7919
 longitude: 10.5661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/400px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/800px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/1200px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/1920px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/1920px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg---
 
 ## Overview
 

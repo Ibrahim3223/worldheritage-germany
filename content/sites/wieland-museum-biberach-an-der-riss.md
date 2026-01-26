@@ -4,13 +4,13 @@ site_name: "Wieland-Museum Biberach an der Riss"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Biberach an der Riss"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Biberach an der Riss"
+  - "Baden-Württemberg"
 wikidata_id: "Q2568649"
 latitude: 48.0958
 longitude: 9.79134
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/400px-Wieland-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/800px-Wieland-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/1200px-Wieland-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/1920px-Wieland-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/1920px-Wieland-Museum.jpg---
 
 ## Overview
 

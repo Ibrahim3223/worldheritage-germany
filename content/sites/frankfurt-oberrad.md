@@ -4,13 +4,13 @@ site_name: "Frankfurt-Oberrad"
 date: 2026-01-26
 draft: false
 description: "railway halt in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q800770"
 latitude: 50.1044
 longitude: 8.72417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/400px-Bahnhof-Frankfurt-Oberrad.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/800px-Bahnhof-Frankfurt-Oberrad.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/1200px-Bahnhof-Frankfurt-Oberrad.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/1920px-Bahnhof-Frankfurt-Oberrad.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/1920px-Bahnhof-Frankfurt-Oberrad.jpg---
 
 ## Overview
 

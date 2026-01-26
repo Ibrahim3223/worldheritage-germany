@@ -4,13 +4,13 @@ site_name: "Crossen Palace"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Crossen an der Elster"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Crossen an der Elster"
+  - "Saxony"
 wikidata_id: "Q919241"
 latitude: 50.97805556
 longitude: 11.97513889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/400px-050708-CrossenSchloß.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/800px-050708-CrossenSchloß.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/1200px-050708-CrossenSchloß.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/1920px-050708-CrossenSchloß.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/1920px-050708-CrossenSchloß.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Synagoge Binswangen"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Binswangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Binswangen"
+  - "Bavaria"
 wikidata_id: "Q2374958"
 latitude: 48.558
 longitude: 10.6431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Binswangen_Synagoge_Südseite199.JPG/400px-Binswangen_Synagoge_Südseite199.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Binswangen_Synagoge_Südseite199.JPG/800px-Binswangen_Synagoge_Südseite199.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Binswangen_Synagoge_Südseite199.JPG/1200px-Binswangen_Synagoge_Südseite199.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Binswangen_Synagoge_Südseite199.JPG/1920px-Binswangen_Synagoge_Südseite199.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Binswangen_Synagoge_Südseite199.JPG/1920px-Binswangen_Synagoge_Südseite199.JPG---
 
 ## Overview
 

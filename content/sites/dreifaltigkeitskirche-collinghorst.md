@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirche (Collinghorst)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Rhauderfehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rhauderfehn"
+  - "Lower Saxony"
 wikidata_id: "Q1257655"
 latitude: 53.1606
 longitude: 7.5281
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/400px-ChurchCollinghorst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/800px-ChurchCollinghorst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/1200px-ChurchCollinghorst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/1920px-ChurchCollinghorst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/1920px-ChurchCollinghorst.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rentmauer Dattenberg"
 date: 2026-01-26
 draft: false
 description: "ehemalige Befestigungsanlage im Hochtaunuskreis in Hessen, Deutschland"
-region: "Hochtaunuskreis"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hochtaunuskreis"
+  - "Hesse"
 wikidata_id: "Q2144374"
 latitude: 50.1926
 longitude: 8.36278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/400px-Felssporn_Dattenberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/800px-Felssporn_Dattenberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/1200px-Felssporn_Dattenberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/1920px-Felssporn_Dattenberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/1920px-Felssporn_Dattenberg.JPG---
 
 ## Overview
 

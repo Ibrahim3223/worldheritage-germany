@@ -4,13 +4,13 @@ site_name: "Palace of the Reich President"
 date: 2026-01-26
 draft: false
 description: "palace in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1651839"
 latitude: 52.514
 longitude: 13.3815
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reichspräsidentenpalais,_Berlin.jpg/400px-Reichspräsidentenpalais,_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reichspräsidentenpalais,_Berlin.jpg/800px-Reichspräsidentenpalais,_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reichspräsidentenpalais,_Berlin.jpg/1200px-Reichspräsidentenpalais,_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reichspräsidentenpalais,_Berlin.jpg/1920px-Reichspräsidentenpalais,_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reichspräsidentenpalais,_Berlin.jpg/1920px-Reichspräsidentenpalais,_Berlin.jpg---
 
 ## Overview
 

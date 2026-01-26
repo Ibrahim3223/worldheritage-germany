@@ -4,13 +4,13 @@ site_name: "Horner Mühle"
 date: 2026-01-26
 draft: false
 description: "windmill in Bremen, Germany"
-region: "Horn-Lehe"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Horn-Lehe"
+  - "Bremen"
 wikidata_id: "Q1628448"
 latitude: 53.1015
 longitude: 8.87785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/400px-Horner_Mühle_-_Bremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/800px-Horner_Mühle_-_Bremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/1200px-Horner_Mühle_-_Bremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/1920px-Horner_Mühle_-_Bremen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/1920px-Horner_Mühle_-_Bremen.jpg---
 
 ## Overview
 

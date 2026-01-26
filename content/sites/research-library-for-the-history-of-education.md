@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_Warschauer_Strasse_Industriepalast.JPG/400px-Berlin_Warschauer_Strasse_Industriepalast.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_Warschauer_Strasse_Industriepalast.JPG/800px-Berlin_Warschauer_Strasse_Industriepalast.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_Warschauer_Strasse_Industriepalast.JPG/1200px-Berlin_Warschauer_Strasse_Industriepalast.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_Warschauer_Strasse_Industriepalast.JPG/1920px-Berlin_Warschauer_Strasse_Industriepalast.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_Warschauer_Strasse_Industriepalast.JPG/1920px-Berlin_Warschauer_Strasse_Industriepalast.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Windmühle Münchehagen"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Münchehagen,  Rehburg-Loccum"
-region: "Rehburg-Loccum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Rehburg-Loccum"
+  - "Lower Saxony"
 wikidata_id: "Q137686195"
 latitude: 52.431939129
 longitude: 9.187864305
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/400px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/800px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/1200px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/1920px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/1920px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg---
 
 ## Overview
 

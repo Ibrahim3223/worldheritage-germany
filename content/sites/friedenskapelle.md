@@ -4,13 +4,13 @@ site_name: "Friedenskapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Brilon"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Brilon"
+  - "Hesse"
 wikidata_id: "Q1456756"
 latitude: 51.355218
 longitude: 8.5291354
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/400px-Brilon-Borbergkapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/800px-Brilon-Borbergkapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/1200px-Brilon-Borbergkapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/1920px-Brilon-Borbergkapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/1920px-Brilon-Borbergkapelle.jpg---
 
 ## Overview
 

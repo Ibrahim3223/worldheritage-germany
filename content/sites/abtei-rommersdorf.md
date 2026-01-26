@@ -4,13 +4,13 @@ site_name: "Abtei Rommersdorf"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Neuwied"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Neuwied"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q334121"
 latitude: 50.4566
 longitude: 7.53773
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/400px-Rommersdorf_Abteikirche_und_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/800px-Rommersdorf_Abteikirche_und_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/1200px-Rommersdorf_Abteikirche_und_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/1920px-Rommersdorf_Abteikirche_und_Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/1920px-Rommersdorf_Abteikirche_und_Turm.jpg---
 
 ## Overview
 

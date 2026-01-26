@@ -4,13 +4,13 @@ site_name: "Alexiuskreuz"
 date: 2026-01-26
 draft: false
 description: "memorial in Mägdesprung, Harz, Germany"
-region: "Harzgerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Harzgerode"
+  - "Lower Saxony"
 wikidata_id: "Q19258907"
 latitude: 51.667006
 longitude: 11.131594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/400px-Gedenkkreuz_an_der_Mägdetrappe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/800px-Gedenkkreuz_an_der_Mägdetrappe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/1200px-Gedenkkreuz_an_der_Mägdetrappe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/1920px-Gedenkkreuz_an_der_Mägdetrappe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/1920px-Gedenkkreuz_an_der_Mägdetrappe.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum und Lernwerkstatt zur Kindererziehung"
 date: 2026-01-26
 draft: false
 description: "museum in Uelzen, Germany"
-region: "Uelzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Uelzen"
+  - "Lower Saxony"
 wikidata_id: "Q54966610"
 latitude: 52.96527
 longitude: 10.55464
 images:
-  []
----
+  []---
 
 ## Overview
 

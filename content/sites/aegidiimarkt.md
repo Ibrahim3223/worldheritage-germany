@@ -4,13 +4,13 @@ site_name: "Aegidiimarkt"
 date: 2026-01-26
 draft: false
 description: "Gebäudekomplex an der Aegidiistraße in Münster"
-region: "Münster-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Münster-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q380620"
 latitude: 51.9604
 longitude: 7.62306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/400px-Aegidimarkt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/800px-Aegidimarkt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/1200px-Aegidimarkt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/1920px-Aegidimarkt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/1920px-Aegidimarkt.jpg---
 
 ## Overview
 

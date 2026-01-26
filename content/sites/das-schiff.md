@@ -4,13 +4,13 @@ site_name: "Das Schiff"
 date: 2026-01-26
 draft: false
 description: "Schiffstheater in Hamburg im Nikolaifleet"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q876959"
 latitude: 53.54595611
 longitude: 9.98790806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/400px-Dasschiff_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/800px-Dasschiff_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1200px-Dasschiff_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1920px-Dasschiff_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1920px-Dasschiff_1.jpg---
 
 ## Overview
 

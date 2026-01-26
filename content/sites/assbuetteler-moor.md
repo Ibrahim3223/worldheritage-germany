@@ -4,13 +4,13 @@ site_name: "Aßbütteler Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Nordleda"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Nordleda"
+  - "Lower Saxony"
 wikidata_id: "Q794509"
 latitude: 53.75638889
 longitude: 8.75194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aßbütteler_Moor_-_07.JPG/400px-Aßbütteler_Moor_-_07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aßbütteler_Moor_-_07.JPG/800px-Aßbütteler_Moor_-_07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aßbütteler_Moor_-_07.JPG/1200px-Aßbütteler_Moor_-_07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aßbütteler_Moor_-_07.JPG/1920px-Aßbütteler_Moor_-_07.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aßbütteler_Moor_-_07.JPG/1920px-Aßbütteler_Moor_-_07.JPG---
 
 ## Overview
 

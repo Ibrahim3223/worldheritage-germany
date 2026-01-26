@@ -4,13 +4,13 @@ site_name: "German Oil Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wietze"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wietze"
+  - "Lower Saxony"
 wikidata_id: "Q1205608"
 latitude: 52.6603
 longitude: 9.83417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/400px-Erdölmuseum_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/800px-Erdölmuseum_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/1200px-Erdölmuseum_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/1920px-Erdölmuseum_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/1920px-Erdölmuseum_Eingang.jpg---
 
 ## Overview
 

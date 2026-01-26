@@ -4,13 +4,13 @@ site_name: "St. Peter und Paul, Ratingen"
 date: 2026-01-26
 draft: false
 description: "church building in Ratingen, Germany"
-region: "Ratingen Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ratingen Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1473597"
 latitude: 51.2975
 longitude: 6.84997
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/400px-Ratingen_peterundpaul_markttag.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/800px-Ratingen_peterundpaul_markttag.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/1200px-Ratingen_peterundpaul_markttag.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/1920px-Ratingen_peterundpaul_markttag.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/1920px-Ratingen_peterundpaul_markttag.jpg---
 
 ## Overview
 

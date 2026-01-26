@@ -4,13 +4,13 @@ site_name: "Burg Großfurra"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sondershausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sondershausen"
+  - "Lower Saxony"
 wikidata_id: "Q1011881"
 latitude: 51.393541953
 longitude: 10.798633683
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/400px-Großfurra.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/800px-Großfurra.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/1200px-Großfurra.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/1920px-Großfurra.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/1920px-Großfurra.jpg---
 
 ## Overview
 

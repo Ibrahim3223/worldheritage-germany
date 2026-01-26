@@ -4,13 +4,13 @@ site_name: "Museum Brandhorst"
 date: 2026-01-26
 draft: false
 description: "museum in Munich, Germany"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q258597"
 latitude: 48.1481
 longitude: 11.5742
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg/400px-Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg/800px-Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg/1200px-Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg/1920px-Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg/1920px-Museum_Brandhorst_München,_südwestliche_Seite-7625.jpg---
 
 ## Overview
 

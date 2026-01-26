@@ -4,19 +4,18 @@ site_name: "Museum in der Majolika-Manufaktur"
 date: 2026-01-26
 draft: false
 description: "Museum in Karlsruhe"
-region: "Karlsruhe"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Karlsruhe"
+  - "Baden-Württemberg"
 wikidata_id: "Q28939939"
 latitude: 49.01896
 longitude: 8.40156
 images:
-  []
----
+  []---
 
 ## Overview
 

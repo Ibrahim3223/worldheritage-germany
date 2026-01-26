@@ -4,13 +4,13 @@ site_name: "Würzburg Residence with the Court Gardens and Residence Square"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q64822967"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/400px-Würzburg_Residence_DSC_9721.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/800px-Würzburg_Residence_DSC_9721.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/1200px-Würzburg_Residence_DSC_9721.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/1920px-Würzburg_Residence_DSC_9721.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/1920px-Würzburg_Residence_DSC_9721.jpg---
 
 ## Overview
 

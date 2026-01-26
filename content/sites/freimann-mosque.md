@@ -4,13 +4,13 @@ site_name: "Freimann Mosque"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Schwabing-Freimann"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Schwabing-Freimann"
+  - "Bavaria"
 wikidata_id: "Q1454557"
 latitude: 48.2103
 longitude: 11.6342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/400px-Moschee_Freimann_Rückansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/800px-Moschee_Freimann_Rückansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1200px-Moschee_Freimann_Rückansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1920px-Moschee_Freimann_Rückansicht.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1920px-Moschee_Freimann_Rückansicht.JPG---
 
 ## Overview
 

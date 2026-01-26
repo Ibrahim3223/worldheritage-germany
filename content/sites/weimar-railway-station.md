@@ -4,13 +4,13 @@ site_name: "Weimar railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Thuringia Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q320995"
 latitude: 50.9917
 longitude: 11.3269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/400px-Bahnhof_Weimar.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/800px-Bahnhof_Weimar.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/1200px-Bahnhof_Weimar.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/1920px-Bahnhof_Weimar.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/1920px-Bahnhof_Weimar.JPG---
 
 ## Overview
 

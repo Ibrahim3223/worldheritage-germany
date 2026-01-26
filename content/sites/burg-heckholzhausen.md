@@ -4,19 +4,18 @@ site_name: "Burg Heckholzhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Heckholzhausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heckholzhausen"
+  - "Hesse"
 wikidata_id: "Q1012240"
 latitude: 50.4879
 longitude: 8.15232
 images:
-  []
----
+  []---
 
 ## Overview
 

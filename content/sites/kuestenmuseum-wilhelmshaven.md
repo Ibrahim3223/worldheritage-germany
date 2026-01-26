@@ -4,13 +4,13 @@ site_name: "Küstenmuseum Wilhelmshaven"
 date: 2026-01-26
 draft: false
 description: "museum in Wilhelmshaven, Germany"
-region: "Wilhelmshaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wilhelmshaven"
+  - "Lower Saxony"
 wikidata_id: "Q1797374"
 latitude: 53.5156
 longitude: 8.12334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/400px-Küstenmuseum_Wilhelmshaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/800px-Küstenmuseum_Wilhelmshaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/1200px-Küstenmuseum_Wilhelmshaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/1920px-Küstenmuseum_Wilhelmshaven.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/1920px-Küstenmuseum_Wilhelmshaven.jpg---
 
 ## Overview
 

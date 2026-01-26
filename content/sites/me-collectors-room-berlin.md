@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mitte_Auguststraße_am_Gallery_Weekend-001.JPG/400px-Mitte_Auguststraße_am_Gallery_Weekend-001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mitte_Auguststraße_am_Gallery_Weekend-001.JPG/800px-Mitte_Auguststraße_am_Gallery_Weekend-001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mitte_Auguststraße_am_Gallery_Weekend-001.JPG/1200px-Mitte_Auguststraße_am_Gallery_Weekend-001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mitte_Auguststraße_am_Gallery_Weekend-001.JPG/1920px-Mitte_Auguststraße_am_Gallery_Weekend-001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mitte_Auguststraße_am_Gallery_Weekend-001.JPG/1920px-Mitte_Auguststraße_am_Gallery_Weekend-001.JPG---
 
 ## Overview
 

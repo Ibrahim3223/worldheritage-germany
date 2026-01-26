@@ -4,13 +4,13 @@ site_name: "Rathaus Stetzsch"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Deutschland"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q47531817"
 latitude: 51.081865
 longitude: 13.652798
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/400px-DD-AmUrnenfeld23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/800px-DD-AmUrnenfeld23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/1200px-DD-AmUrnenfeld23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/1920px-DD-AmUrnenfeld23.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/1920px-DD-AmUrnenfeld23.jpg---
 
 ## Overview
 

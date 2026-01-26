@@ -4,13 +4,13 @@ site_name: "Worpsweder Kunsthalle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Worpswede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Worpswede"
+  - "Bremen"
 wikidata_id: "Q55439681"
 latitude: 53.22098
 longitude: 8.92543
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg/400px-Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg/800px-Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg/1200px-Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg/1920px-Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg/1920px-Worpsweder_Kunsthalle_Friedrich_Netzel_Fassade.jpg---
 
 ## Overview
 

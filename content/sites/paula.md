@@ -4,13 +4,13 @@ site_name: "Paula"
 date: 2026-01-26
 draft: false
 description: "Windmill in Steinhude, Germany"
-region: "Wunstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Wunstorf"
+  - "Lower Saxony"
 wikidata_id: "Q1653866"
 latitude: 52.4535
 longitude: 9.36869
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/400px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/800px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/1200px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/1920px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/1920px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg---
 
 ## Overview
 

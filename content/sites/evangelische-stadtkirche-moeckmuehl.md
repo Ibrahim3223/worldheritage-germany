@@ -4,13 +4,13 @@ site_name: "Evangelische Stadtkirche Möckmühl"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Möckmühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Möckmühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1381164"
 latitude: 49.3227
 longitude: 9.36083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/400px-Moeckmuehl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/800px-Moeckmuehl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1200px-Moeckmuehl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1920px-Moeckmuehl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1920px-Moeckmuehl.jpg---
 
 ## Overview
 

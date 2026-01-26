@@ -4,13 +4,13 @@ site_name: "Rüsternpfuhl"
 date: 2026-01-26
 draft: false
 description: "lake in Magdeburg, Saxony-Anhalt, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1278438"
 latitude: 52.0549
 longitude: 11.703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/400px-Rüsternpfuhl.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/800px-Rüsternpfuhl.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/1200px-Rüsternpfuhl.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/1920px-Rüsternpfuhl.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/1920px-Rüsternpfuhl.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gignoux-Haus"
 date: 2026-01-26
 draft: false
 description: "building in the town centre of Augsburg, Germany, formerly used as a theatre venue"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1523738"
 latitude: 48.367163787
 longitude: 10.90051006
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Komoedie.jpg/400px-Augsburg_Komoedie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Komoedie.jpg/800px-Augsburg_Komoedie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Komoedie.jpg/1200px-Augsburg_Komoedie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Komoedie.jpg/1920px-Augsburg_Komoedie.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Komoedie.jpg/1920px-Augsburg_Komoedie.jpg---
 
 ## Overview
 

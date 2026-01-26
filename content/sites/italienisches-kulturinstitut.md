@@ -4,13 +4,13 @@ site_name: "Italienisches Kulturinstitut"
 date: 2026-01-26
 draft: false
 description: "Cologne, Germany"
-region: "Lindenthal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Lindenthal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1313118"
 latitude: 50.9347
 longitude: 6.92387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Italienisches_Kulturinstitut_Köln_Nordostseite.JPG/400px-Italienisches_Kulturinstitut_Köln_Nordostseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Italienisches_Kulturinstitut_Köln_Nordostseite.JPG/800px-Italienisches_Kulturinstitut_Köln_Nordostseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Italienisches_Kulturinstitut_Köln_Nordostseite.JPG/1200px-Italienisches_Kulturinstitut_Köln_Nordostseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Italienisches_Kulturinstitut_Köln_Nordostseite.JPG/1920px-Italienisches_Kulturinstitut_Köln_Nordostseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Italienisches_Kulturinstitut_Köln_Nordostseite.JPG/1920px-Italienisches_Kulturinstitut_Köln_Nordostseite.JPG---
 
 ## Overview
 

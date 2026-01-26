@@ -4,13 +4,13 @@ site_name: "Kaiserschleuse lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Free Hanseatic City of Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1321463"
 latitude: 53.553612
 longitude: 8.559953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/400px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/800px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/1200px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/1920px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/1920px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg---
 
 ## Overview
 

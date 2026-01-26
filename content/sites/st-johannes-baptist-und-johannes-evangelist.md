@@ -4,13 +4,13 @@ site_name: "St. Johannes Baptist und Johannes Evangelist"
 date: 2026-01-26
 draft: false
 description: "church building in Swabia, Germany"
-region: "Neuburg an der Kammel"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuburg an der Kammel"
+  - "Baden-Württemberg"
 wikidata_id: "Q2319348"
 latitude: 48.2986
 longitude: 10.3948
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/400px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/800px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/1200px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/1920px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/1920px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG---
 
 ## Overview
 

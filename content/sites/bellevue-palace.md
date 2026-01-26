@@ -4,13 +4,13 @@ site_name: "Bellevue Palace"
 date: 2026-01-26
 draft: false
 description: "official residence in Berlin for the President of the Federal Republic of Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q317091"
 latitude: 52.5175
 longitude: 13.353333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/400px-Berlin_-_Schloss_Bellevue2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/800px-Berlin_-_Schloss_Bellevue2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/1200px-Berlin_-_Schloss_Bellevue2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/1920px-Berlin_-_Schloss_Bellevue2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/1920px-Berlin_-_Schloss_Bellevue2.jpg---
 
 ## Overview
 

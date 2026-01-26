@@ -4,13 +4,13 @@ site_name: "Kellertheater Frankfurt"
 date: 2026-01-26
 draft: false
 description: "freies Theater in Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1320851"
 latitude: 50.1097
 longitude: 8.68952
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/400px-Kellertheater_Ffm_Eingang_Pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/800px-Kellertheater_Ffm_Eingang_Pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/1200px-Kellertheater_Ffm_Eingang_Pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/1920px-Kellertheater_Ffm_Eingang_Pano.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/1920px-Kellertheater_Ffm_Eingang_Pano.jpg---
 
 ## Overview
 

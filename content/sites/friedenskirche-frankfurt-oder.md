@@ -4,13 +4,13 @@ site_name: "Friedenskirche Frankfurt (Oder)"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg, Germany"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q1456784"
 latitude: 52.3486
 longitude: 14.5522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/400px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/800px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1200px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1920px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1920px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Seat of the European Central Bank"
 date: 2026-01-26
 draft: false
 description: "headquarters of the ECB in Frankfurt, Germany"
-region: "Frankfurt-Bornheim/Ostend"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Frankfurt-Bornheim/Ostend"
+  - "Hesse"
 wikidata_id: "Q321040"
 latitude: 50.109438888
 longitude: 8.7025
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/400px-Europäische_Zentralbank_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/800px-Europäische_Zentralbank_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/1200px-Europäische_Zentralbank_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/1920px-Europäische_Zentralbank_Frankfurt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/1920px-Europäische_Zentralbank_Frankfurt.jpg---
 
 ## Overview
 

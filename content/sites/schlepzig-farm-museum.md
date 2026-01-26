@@ -4,13 +4,13 @@ site_name: "Schlepzig Farm Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schlepzig"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schlepzig"
+  - "Brandenburg"
 wikidata_id: "Q811293"
 latitude: 52.0272
 longitude: 13.8991
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/400px-Schlepzig_Bauernmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/800px-Schlepzig_Bauernmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/1200px-Schlepzig_Bauernmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/1920px-Schlepzig_Bauernmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/1920px-Schlepzig_Bauernmuseum.jpg---
 
 ## Overview
 

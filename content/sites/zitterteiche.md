@@ -4,19 +4,18 @@ site_name: "Zitterteiche"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Lähden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Lähden"
+  - "Lower Saxony"
 wikidata_id: "Q206699"
 latitude: 52.7092
 longitude: 7.60806
 images:
-  []
----
+  []---
 
 ## Overview
 

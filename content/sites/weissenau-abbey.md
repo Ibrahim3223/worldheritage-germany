@@ -4,13 +4,13 @@ site_name: "Weissenau Abbey"
 date: 2026-01-26
 draft: false
 description: "former monastery near Ravensburg, Germany, now used as a hospital"
-region: "Ravensburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ravensburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q458074"
 latitude: 47.763
 longitude: 9.596
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/400px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/800px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/1200px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/1920px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/1920px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg---
 
 ## Overview
 

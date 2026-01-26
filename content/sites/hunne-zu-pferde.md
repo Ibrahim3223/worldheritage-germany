@@ -4,13 +4,13 @@ site_name: "Hunne zu Pferde"
 date: 2026-01-26
 draft: false
 description: "sculpture in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24037779"
 latitude: 52.520287
 longitude: 13.398957
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/400px-Berlin,_Germany_(April_2016)_-_091.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/800px-Berlin,_Germany_(April_2016)_-_091.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/1200px-Berlin,_Germany_(April_2016)_-_091.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/1920px-Berlin,_Germany_(April_2016)_-_091.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/1920px-Berlin,_Germany_(April_2016)_-_091.JPG---
 
 ## Overview
 

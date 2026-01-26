@@ -4,13 +4,13 @@ site_name: "Königspesel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hooge"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hooge"
+  - "Schleswig-Holstein"
 wikidata_id: "Q57409224"
 latitude: 54.565846
 longitude: 8.550553
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg/400px-Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg/800px-Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg/1200px-Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg/1920px-Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg/1920px-Kongepesel_(Kongepisel)_på_Hallig_Hoge_01.jpg---
 
 ## Overview
 

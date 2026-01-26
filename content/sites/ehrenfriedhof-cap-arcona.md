@@ -4,13 +4,13 @@ site_name: "Ehrenfriedhof Cap Arcona"
 date: 2026-01-26
 draft: false
 description: "cemetery in Neustadt in Holstein, Germany"
-region: "Neustadt in Holstein"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Neustadt in Holstein"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1300085"
 latitude: 54.0889
 longitude: 10.8275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/400px-Ehrenfriedhof-CapArcona.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/800px-Ehrenfriedhof-CapArcona.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/1200px-Ehrenfriedhof-CapArcona.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/1920px-Ehrenfriedhof-CapArcona.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/1920px-Ehrenfriedhof-CapArcona.jpg---
 
 ## Overview
 

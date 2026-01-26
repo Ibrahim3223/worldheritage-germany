@@ -4,13 +4,13 @@ site_name: "Denkmal für Franz Xaver Gabelsberger"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1187995"
 latitude: 48.1418
 longitude: 11.5678
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/400px-Munich_Gabelsberger_Memorial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/800px-Munich_Gabelsberger_Memorial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/1200px-Munich_Gabelsberger_Memorial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/1920px-Munich_Gabelsberger_Memorial.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/1920px-Munich_Gabelsberger_Memorial.jpg---
 
 ## Overview
 

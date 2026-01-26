@@ -4,13 +4,13 @@ site_name: "Hexenturm"
 date: 2026-01-26
 draft: false
 description: "tower in Burg, Germany"
-region: "Burg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Burg"
+  - "Brandenburg"
 wikidata_id: "Q1365402"
 latitude: 52.2746
 longitude: 11.8616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HexenturmBurg.JPG/400px-HexenturmBurg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HexenturmBurg.JPG/800px-HexenturmBurg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HexenturmBurg.JPG/1200px-HexenturmBurg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HexenturmBurg.JPG/1920px-HexenturmBurg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HexenturmBurg.JPG/1920px-HexenturmBurg.JPG---
 
 ## Overview
 

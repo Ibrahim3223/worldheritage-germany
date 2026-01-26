@@ -4,13 +4,13 @@ site_name: "Bauhaus Dessau Foundation"
 date: 2026-01-26
 draft: false
 description: "German foundation"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1441998"
 latitude: 51.839504
 longitude: 12.2250714
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/400px-Dessau_Bauhaus_neu.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/800px-Dessau_Bauhaus_neu.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1200px-Dessau_Bauhaus_neu.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1920px-Dessau_Bauhaus_neu.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1920px-Dessau_Bauhaus_neu.JPG---
 
 ## Overview
 

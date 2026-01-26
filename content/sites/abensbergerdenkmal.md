@@ -4,13 +4,13 @@ site_name: "Abensbergerdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Freising (Upper Bavaria, Germany)"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q319059"
 latitude: 48.3867
 longitude: 11.7367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Abensbergerdenkmal.jpg/400px-Abensbergerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Abensbergerdenkmal.jpg/800px-Abensbergerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Abensbergerdenkmal.jpg/1200px-Abensbergerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Abensbergerdenkmal.jpg/1920px-Abensbergerdenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Abensbergerdenkmal.jpg/1920px-Abensbergerdenkmal.jpg---
 
 ## Overview
 

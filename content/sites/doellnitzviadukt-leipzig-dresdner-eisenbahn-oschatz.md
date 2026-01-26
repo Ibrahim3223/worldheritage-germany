@@ -4,19 +4,18 @@ site_name: "Döllnitzviadukt; Leipzig-Dresdner Eisenbahn Oschatz"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Oschatz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Oschatz"
+  - "Saxony"
 wikidata_id: "Q49445298"
 latitude: 51.311312074
 longitude: 13.113677581
 images:
-  []
----
+  []---
 
 ## Overview
 

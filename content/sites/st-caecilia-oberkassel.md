@@ -4,13 +4,13 @@ site_name: "St. Cäcilia (Oberkassel)"
 date: 2026-01-26
 draft: false
 description: "church building in Oberkassel, Bonn, Germany"
-region: "Beuel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Beuel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317966"
 latitude: 50.7126
 longitude: 7.16304
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/400px-Bonn-Oberkassel,_St._Cäcilia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/800px-Bonn-Oberkassel,_St._Cäcilia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/1200px-Bonn-Oberkassel,_St._Cäcilia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/1920px-Bonn-Oberkassel,_St._Cäcilia.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/1920px-Bonn-Oberkassel,_St._Cäcilia.jpg---
 
 ## Overview
 

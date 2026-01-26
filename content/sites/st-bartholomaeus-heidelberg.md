@@ -4,13 +4,13 @@ site_name: "St. Bartholomäus (Heidelberg)"
 date: 2026-01-26
 draft: false
 description: "church building in Heidelberg, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q2317509"
 latitude: 49.4241
 longitude: 8.64878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg/400px-Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg/800px-Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg/1200px-Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg/1920px-Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg/1920px-Heidelberg-Wieblingen_St._Bartholomäus_20100623.jpg---
 
 ## Overview
 

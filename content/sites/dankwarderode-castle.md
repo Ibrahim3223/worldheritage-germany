@@ -4,13 +4,13 @@ site_name: "Dankwarderode Castle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Innenstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Innenstadt"
+  - "Lower Saxony"
 wikidata_id: "Q317959"
 latitude: 52.2647
 longitude: 10.5242
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/400px-Braunschweig-burgplatz_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/800px-Braunschweig-burgplatz_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/1200px-Braunschweig-burgplatz_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/1920px-Braunschweig-burgplatz_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/1920px-Braunschweig-burgplatz_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Marie-Hager-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Burg Stargard"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Burg Stargard"
+  - "Brandenburg"
 wikidata_id: "Q1897135"
 latitude: 53.4942
 longitude: 13.3219
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/400px-Burg_Stargard_Marie-Hager-Haus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/800px-Burg_Stargard_Marie-Hager-Haus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/1200px-Burg_Stargard_Marie-Hager-Haus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/1920px-Burg_Stargard_Marie-Hager-Haus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/1920px-Burg_Stargard_Marie-Hager-Haus.JPG---
 
 ## Overview
 

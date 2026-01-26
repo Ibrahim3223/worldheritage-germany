@@ -4,13 +4,13 @@ site_name: "Selimiye-Moschee (Gütersloh)"
 date: 2026-01-26
 draft: false
 description: "Moschee in der ostwestfälischen Kreisstadt Gütersloh"
-region: "Gütersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Gütersloh"
+  - "Lower Saxony"
 wikidata_id: "Q15128183"
 latitude: 51.91659
 longitude: 8.39075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GT-Moschee-Eingang.jpg/400px-GT-Moschee-Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GT-Moschee-Eingang.jpg/800px-GT-Moschee-Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GT-Moschee-Eingang.jpg/1200px-GT-Moschee-Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GT-Moschee-Eingang.jpg/1920px-GT-Moschee-Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GT-Moschee-Eingang.jpg/1920px-GT-Moschee-Eingang.jpg---
 
 ## Overview
 

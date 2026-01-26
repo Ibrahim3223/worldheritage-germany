@@ -4,13 +4,13 @@ site_name: "Sylt"
 date: 2026-01-26
 draft: false
 description: "German island in the North Sea"
-region: "Nordfriesland district"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Nordfriesland district"
+  - "Schleswig-Holstein"
 wikidata_id: "Q3107"
 latitude: 54.9
 longitude: 8.333333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/400px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/800px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/1200px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/1920px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/1920px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg---
 
 ## Overview
 

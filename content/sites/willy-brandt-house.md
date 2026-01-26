@@ -4,13 +4,13 @@ site_name: "Willy Brandt House"
 date: 2026-01-26
 draft: false
 description: "museum in Lübeck, Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q2581800"
 latitude: 53.8697
 longitude: 10.6894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/400px-Wbhl-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/800px-Wbhl-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/1200px-Wbhl-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/1920px-Wbhl-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/1920px-Wbhl-01.jpg---
 
 ## Overview
 

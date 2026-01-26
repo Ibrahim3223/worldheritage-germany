@@ -4,13 +4,13 @@ site_name: "Ehemaliges Amtsgericht"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Babenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Babenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q116923529"
 latitude: 48.143439203
 longitude: 10.253754181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Babenhausen_Marktplatz_2.JPG/400px-Babenhausen_Marktplatz_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Babenhausen_Marktplatz_2.JPG/800px-Babenhausen_Marktplatz_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Babenhausen_Marktplatz_2.JPG/1200px-Babenhausen_Marktplatz_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Babenhausen_Marktplatz_2.JPG/1920px-Babenhausen_Marktplatz_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Babenhausen_Marktplatz_2.JPG/1920px-Babenhausen_Marktplatz_2.JPG---
 
 ## Overview
 

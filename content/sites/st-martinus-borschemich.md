@@ -4,13 +4,13 @@ site_name: "St. Martinus (Borschemich)"
 date: 2026-01-26
 draft: false
 description: "church in North Rhine-Westphalia, Germany"
-region: "Erkelenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erkelenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2321293"
 latitude: 51.08086728
 longitude: 6.43327833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/400px-St_martinus_borschemich_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/800px-St_martinus_borschemich_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/1200px-St_martinus_borschemich_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/1920px-St_martinus_borschemich_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/1920px-St_martinus_borschemich_1.jpg---
 
 ## Overview
 

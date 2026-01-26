@@ -4,19 +4,18 @@ site_name: "Horse burial"
 date: 2026-01-26
 draft: false
 description: "Horse burial near Pasewalk, Germany"
-region: "Pasewalk"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Pasewalk"
+  - "Brandenburg"
 wikidata_id: "Q972509"
 latitude: 53.503443
 longitude: 13.954031
 images:
-  []
----
+  []---
 
 ## Overview
 

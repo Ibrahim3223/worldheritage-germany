@@ -4,13 +4,13 @@ site_name: "Ehrenmal Marienfeld"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Harsewinkel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Harsewinkel"
+  - "Lower Saxony"
 wikidata_id: "Q1300187"
 latitude: 51.9474
 longitude: 8.28049
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marienfeld_Ehrenmal_Übersicht_2.jpg/400px-Marienfeld_Ehrenmal_Übersicht_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marienfeld_Ehrenmal_Übersicht_2.jpg/800px-Marienfeld_Ehrenmal_Übersicht_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marienfeld_Ehrenmal_Übersicht_2.jpg/1200px-Marienfeld_Ehrenmal_Übersicht_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marienfeld_Ehrenmal_Übersicht_2.jpg/1920px-Marienfeld_Ehrenmal_Übersicht_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marienfeld_Ehrenmal_Übersicht_2.jpg/1920px-Marienfeld_Ehrenmal_Übersicht_2.jpg---
 
 ## Overview
 

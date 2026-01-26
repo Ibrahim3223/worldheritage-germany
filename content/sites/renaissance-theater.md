@@ -4,13 +4,13 @@ site_name: "Renaissance-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Berlin, Germany, built 1902 as a club house, 1919-1922 used as cinema, since 1922 a theatre"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q876556"
 latitude: 52.5104
 longitude: 13.3234
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/400px-Renaissance-Theater_Berlin_06-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/800px-Renaissance-Theater_Berlin_06-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/1200px-Renaissance-Theater_Berlin_06-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/1920px-Renaissance-Theater_Berlin_06-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/1920px-Renaissance-Theater_Berlin_06-2014.jpg---
 
 ## Overview
 

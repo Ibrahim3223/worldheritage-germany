@@ -4,13 +4,13 @@ site_name: "Daetz-Centrum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lichtenstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lichtenstein"
+  - "Saxony"
 wikidata_id: "Q1157100"
 latitude: 50.7586
 longitude: 12.637
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/400px-Daetz-Centrum1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/800px-Daetz-Centrum1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/1200px-Daetz-Centrum1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/1920px-Daetz-Centrum1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/1920px-Daetz-Centrum1.jpg---
 
 ## Overview
 

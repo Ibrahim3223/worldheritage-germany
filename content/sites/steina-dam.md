@@ -4,13 +4,13 @@ site_name: "Steina Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Harz (Landkreis Göttingen)"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Harz (Landkreis Göttingen)"
+  - "Lower Saxony"
 wikidata_id: "Q2118119"
 latitude: 51.6118
 longitude: 10.5064
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/400px-Steinatalsperre-Damm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/800px-Steinatalsperre-Damm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/1200px-Steinatalsperre-Damm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/1920px-Steinatalsperre-Damm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/1920px-Steinatalsperre-Damm.jpg---
 
 ## Overview
 

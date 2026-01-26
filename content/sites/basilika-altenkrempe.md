@@ -4,13 +4,13 @@ site_name: "Basilika Altenkrempe"
 date: 2026-01-26
 draft: false
 description: "church building in Altenkrempe near Neustadt in Holstein, Germany"
-region: "Altenkrempe"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altenkrempe"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q810088"
 latitude: 54.1331
 longitude: 10.8267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/400px-Altenkrempe_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/800px-Altenkrempe_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/1200px-Altenkrempe_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/1920px-Altenkrempe_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/1920px-Altenkrempe_2.jpg---
 
 ## Overview
 

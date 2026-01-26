@@ -4,13 +4,13 @@ site_name: "Theater Saarbrücken"
 date: 2026-01-26
 draft: false
 description: "State Theatre and Operaof Saarland in Saarbrücken, Germany"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q208805"
 latitude: 49.230833333
 longitude: 6.996111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/400px-Saarbruecken-StaatsTheater2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/800px-Saarbruecken-StaatsTheater2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/1200px-Saarbruecken-StaatsTheater2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/1920px-Saarbruecken-StaatsTheater2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/1920px-Saarbruecken-StaatsTheater2.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Wirichsbongardstor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1697701"
 latitude: 50.77111
 longitude: 6.09083
 images:
-  []
----
+  []---
 
 ## Overview
 

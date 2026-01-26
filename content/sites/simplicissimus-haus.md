@@ -4,19 +4,18 @@ site_name: "Simplicissimus-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Renchen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Renchen"
+  - "Baden-Württemberg"
 wikidata_id: "Q26791565"
 latitude: 48.5861734
 longitude: 8.0119038
 images:
-  []
----
+  []---
 
 ## Overview
 

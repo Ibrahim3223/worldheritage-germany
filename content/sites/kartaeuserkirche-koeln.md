@@ -4,13 +4,13 @@ site_name: "Kartäuserkirche (Köln)"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt-Süd, Germany"
-region: "Altstadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Altstadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1734671"
 latitude: 50.9247
 longitude: 6.95583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/400px-Kartäuser_Köln5.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/800px-Kartäuser_Köln5.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/1200px-Kartäuser_Köln5.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/1920px-Kartäuser_Köln5.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/1920px-Kartäuser_Köln5.JPG---
 
 ## Overview
 

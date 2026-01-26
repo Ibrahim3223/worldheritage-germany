@@ -4,19 +4,18 @@ site_name: "Zeche Bongerbank"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169686"
 latitude: 51.451
 longitude: 7.09682
 images:
-  []
----
+  []---
 
 ## Overview
 

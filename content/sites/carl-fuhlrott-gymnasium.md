@@ -4,13 +4,13 @@ site_name: "Carl-Fuhlrott-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "school in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1036474"
 latitude: 51.2315
 longitude: 7.14284
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/400px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/800px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/1200px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/1920px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/1920px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG---
 
 ## Overview
 

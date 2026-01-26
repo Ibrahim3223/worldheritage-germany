@@ -4,13 +4,13 @@ site_name: "Zeiss Major Planetarium"
 date: 2026-01-26
 draft: false
 description: "planetarium in Prenzlauer Berg, Berlin, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q184985"
 latitude: 52.54333333
 longitude: 13.42777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zeiss-Großplanetarium_Berlin_(2009).jpg/400px-Zeiss-Großplanetarium_Berlin_(2009).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zeiss-Großplanetarium_Berlin_(2009).jpg/800px-Zeiss-Großplanetarium_Berlin_(2009).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zeiss-Großplanetarium_Berlin_(2009).jpg/1200px-Zeiss-Großplanetarium_Berlin_(2009).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zeiss-Großplanetarium_Berlin_(2009).jpg/1920px-Zeiss-Großplanetarium_Berlin_(2009).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zeiss-Großplanetarium_Berlin_(2009).jpg/1920px-Zeiss-Großplanetarium_Berlin_(2009).jpg---
 
 ## Overview
 

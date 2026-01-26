@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Rodenbach"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Rodenbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Rodenbach"
+  - "Bavaria"
 wikidata_id: "Q28729518"
 latitude: 50.14529
 longitude: 9.02339
 images:
-  []
----
+  []---
 
 ## Overview
 

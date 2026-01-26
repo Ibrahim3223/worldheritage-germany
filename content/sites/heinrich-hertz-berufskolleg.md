@@ -4,13 +4,13 @@ site_name: "Heinrich-Hertz-Berufskolleg"
 date: 2026-01-26
 draft: false
 description: "vocational school in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1596423"
 latitude: 51.2061
 longitude: 6.78979
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/400px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/800px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/1200px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/1920px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/1920px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg---
 
 ## Overview
 

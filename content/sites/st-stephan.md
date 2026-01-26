@@ -4,13 +4,13 @@ site_name: "St. Stephan"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Münstereifel, Germany"
-region: "Bad Münstereifel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Münstereifel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2323214"
 latitude: 50.5171
 longitude: 6.86597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/400px-Effelsberg_St._Stephan_19.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/800px-Effelsberg_St._Stephan_19.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/1200px-Effelsberg_St._Stephan_19.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/1920px-Effelsberg_St._Stephan_19.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/1920px-Effelsberg_St._Stephan_19.JPG---
 
 ## Overview
 

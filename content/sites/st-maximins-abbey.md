@@ -4,13 +4,13 @@ site_name: "St. Maximin's Abbey"
 date: 2026-01-26
 draft: false
 description: "former Benedictine monastery in Trier, Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q118786"
 latitude: 49.7597
 longitude: 6.65176
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Trier_Sankt_Maximin_BW_1.jpg/400px-Trier_Sankt_Maximin_BW_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Trier_Sankt_Maximin_BW_1.jpg/800px-Trier_Sankt_Maximin_BW_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Trier_Sankt_Maximin_BW_1.jpg/1200px-Trier_Sankt_Maximin_BW_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Trier_Sankt_Maximin_BW_1.jpg/1920px-Trier_Sankt_Maximin_BW_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Trier_Sankt_Maximin_BW_1.jpg/1920px-Trier_Sankt_Maximin_BW_1.jpg---
 
 ## Overview
 

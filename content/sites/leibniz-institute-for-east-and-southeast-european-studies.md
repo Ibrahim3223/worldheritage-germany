@@ -4,13 +4,13 @@ site_name: "Leibniz Institute for East and Southeast European Studies"
 date: 2026-01-26
 draft: false
 description: "research institute in Regensburg, Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q1664940"
 latitude: 49.015034
 longitude: 12.102857
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/400px-Alfi_rgb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/800px-Alfi_rgb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/1200px-Alfi_rgb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/1920px-Alfi_rgb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/1920px-Alfi_rgb.jpg---
 
 ## Overview
 

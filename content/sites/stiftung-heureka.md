@@ -4,19 +4,18 @@ site_name: "Stiftung heureka"
 date: 2026-01-26
 draft: false
 description: "German non-profit foundation in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q2349266"
 latitude: 52.48722
 longitude: 13.28828
 images:
-  []
----
+  []---
 
 ## Overview
 

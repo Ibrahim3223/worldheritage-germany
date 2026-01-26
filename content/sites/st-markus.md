@@ -4,13 +4,13 @@ site_name: "St. Markus"
 date: 2026-01-26
 draft: false
 description: "church in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q873490"
 latitude: 48.1461
 longitude: 11.5744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Markus_Muenchen-1.jpg/400px-St._Markus_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Markus_Muenchen-1.jpg/800px-St._Markus_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Markus_Muenchen-1.jpg/1200px-St._Markus_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Markus_Muenchen-1.jpg/1920px-St._Markus_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/St._Markus_Muenchen-1.jpg/1920px-St._Markus_Muenchen-1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Georgskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1509524"
 latitude: 50.7355
 longitude: 7.09145
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/400px-RKAP1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/800px-RKAP1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/1200px-RKAP1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/1920px-RKAP1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/1920px-RKAP1.jpg---
 
 ## Overview
 

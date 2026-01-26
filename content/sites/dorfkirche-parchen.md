@@ -4,13 +4,13 @@ site_name: "Dorfkirche Parchen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Genthin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Genthin"
+  - "Brandenburg"
 wikidata_id: "Q1244593"
 latitude: 52.3508
 longitude: 12.0811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/400px-Dorfkirche_Parchen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/800px-Dorfkirche_Parchen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/1200px-Dorfkirche_Parchen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/1920px-Dorfkirche_Parchen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/1920px-Dorfkirche_Parchen.JPG---
 
 ## Overview
 

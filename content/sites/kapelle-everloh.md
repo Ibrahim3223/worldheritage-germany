@@ -4,13 +4,13 @@ site_name: "Kapelle (Everloh)"
 date: 2026-01-26
 draft: false
 description: "chapel in Everloh near Hannover, Lower Saxony, Germany"
-region: "Gehrden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Gehrden"
+  - "Lower Saxony"
 wikidata_id: "Q1728365"
 latitude: 52.3352
 longitude: 9.60502
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kapelle_Everloh_IMG_4817.jpg/400px-Kapelle_Everloh_IMG_4817.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kapelle_Everloh_IMG_4817.jpg/800px-Kapelle_Everloh_IMG_4817.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kapelle_Everloh_IMG_4817.jpg/1200px-Kapelle_Everloh_IMG_4817.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kapelle_Everloh_IMG_4817.jpg/1920px-Kapelle_Everloh_IMG_4817.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kapelle_Everloh_IMG_4817.jpg/1920px-Kapelle_Everloh_IMG_4817.jpg---
 
 ## Overview
 

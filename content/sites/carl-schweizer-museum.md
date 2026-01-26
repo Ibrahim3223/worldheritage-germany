@@ -4,13 +4,13 @@ site_name: "Carl-Schweizer-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Murrhardt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Murrhardt"
+  - "Baden-Württemberg"
 wikidata_id: "Q54676895"
 latitude: 48.978069444
 longitude: 9.578869444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/400px-CSM_Vorderfront.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/800px-CSM_Vorderfront.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/1200px-CSM_Vorderfront.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/1920px-CSM_Vorderfront.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/1920px-CSM_Vorderfront.jpg---
 
 ## Overview
 

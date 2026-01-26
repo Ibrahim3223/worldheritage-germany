@@ -4,13 +4,13 @@ site_name: "Martin Luther's Birth House"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Eisleben"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eisleben"
+  - "Brandenburg"
 wikidata_id: "Q1436503"
 latitude: 51.52694
 longitude: 11.55007
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_court_of_Luthers_Birth_House.jpg/400px-The_court_of_Luthers_Birth_House.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_court_of_Luthers_Birth_House.jpg/800px-The_court_of_Luthers_Birth_House.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_court_of_Luthers_Birth_House.jpg/1200px-The_court_of_Luthers_Birth_House.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_court_of_Luthers_Birth_House.jpg/1920px-The_court_of_Luthers_Birth_House.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_court_of_Luthers_Birth_House.jpg/1920px-The_court_of_Luthers_Birth_House.jpg---
 
 ## Overview
 

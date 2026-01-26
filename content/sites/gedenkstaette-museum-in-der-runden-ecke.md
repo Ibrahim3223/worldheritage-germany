@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Museum in der \"Runden Ecke\""
 date: 2026-01-26
 draft: false
 description: "museum in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1497540"
 latitude: 51.34152
 longitude: 12.37
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/400px-Runde-Ecke-Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/800px-Runde-Ecke-Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/1200px-Runde-Ecke-Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/1920px-Runde-Ecke-Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/1920px-Runde-Ecke-Leipzig.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Anatomieturm Jena"
 date: 2026-01-26
 draft: false
 description: "ruinenhafter Rundturm an der Stadtmauer Jena"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q488354"
 latitude: 50.9278835
 longitude: 11.583665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/400px-Anatomy_Tower.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/800px-Anatomy_Tower.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/1200px-Anatomy_Tower.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/1920px-Anatomy_Tower.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/1920px-Anatomy_Tower.jpg---
 
 ## Overview
 

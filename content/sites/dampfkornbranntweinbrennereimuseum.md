@@ -4,19 +4,18 @@ site_name: "Dampfkornbranntweinbrennereimuseum"
 date: 2026-01-26
 draft: false
 description: "former museum in Germany"
-region: "Wildeshausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wildeshausen"
+  - "Lower Saxony"
 wikidata_id: "Q1158815"
 latitude: 52.8971
 longitude: 8.43938
 images:
-  []
----
+  []---
 
 ## Overview
 

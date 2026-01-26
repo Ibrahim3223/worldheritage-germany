@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit) Niederwinkel"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Waldenburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Waldenburg"
+  - "Saxony"
 wikidata_id: "Q49438879"
 latitude: 50.890504736
 longitude: 12.637487057
 images:
-  []
----
+  []---
 
 ## Overview
 

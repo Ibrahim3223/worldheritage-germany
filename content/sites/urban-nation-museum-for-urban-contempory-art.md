@@ -4,13 +4,13 @@ site_name: "Urban Nation Museum For Urban Contempory Art"
 date: 2026-01-26
 draft: false
 description: "museum of Urban Art in Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q111594318"
 latitude: 52.4986678
 longitude: 13.3566505
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/400px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/800px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/1200px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/1920px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/1920px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg---
 
 ## Overview
 

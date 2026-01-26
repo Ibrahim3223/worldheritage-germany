@@ -4,13 +4,13 @@ site_name: "Rigal’sche Kapelle"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Bonn"
-region: "Bad Godesberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Godesberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1662324"
 latitude: 50.678764
 longitude: 7.155852
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/400px-Rigalsche_kapelle_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/800px-Rigalsche_kapelle_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/1200px-Rigalsche_kapelle_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/1920px-Rigalsche_kapelle_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/1920px-Rigalsche_kapelle_wp.jpg---
 
 ## Overview
 

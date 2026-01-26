@@ -4,13 +4,13 @@ site_name: "Gertelbach-Wasserfälle"
 date: 2026-01-26
 draft: false
 description: "Waterfall in Germany"
-region: "Bühlertal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Bühlertal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1515417"
 latitude: 48.66245
 longitude: 8.21474
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/400px-Gertelbach-Wasserfälle_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/800px-Gertelbach-Wasserfälle_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1200px-Gertelbach-Wasserfälle_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1920px-Gertelbach-Wasserfälle_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1920px-Gertelbach-Wasserfälle_(1).JPG---
 
 ## Overview
 

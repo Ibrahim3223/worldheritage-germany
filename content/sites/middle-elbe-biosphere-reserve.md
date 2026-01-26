@@ -4,13 +4,13 @@ site_name: "Middle Elbe Biosphere Reserve"
 date: 2026-01-26
 draft: false
 description: "Biosphere Reserve in Saxony-Anhalt"
-region: "Burg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Biosphere Reserve"
 categories:
   - "Biosphere Reserve"
 regions:
-  - "Burg"
+  - "Brandenburg"
 wikidata_id: "Q322715"
 latitude: 52.3818
 longitude: 11.9262
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/400px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/800px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/1200px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/1920px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/1920px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg---
 
 ## Overview
 

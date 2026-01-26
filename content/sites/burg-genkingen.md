@@ -4,13 +4,13 @@ site_name: "Burg Genkingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sonnenbühl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sonnenbühl"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011931"
 latitude: 48.4182
 longitude: 9.18931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Genkingen_img7343_01.JPG/400px-Burg_Genkingen_img7343_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Genkingen_img7343_01.JPG/800px-Burg_Genkingen_img7343_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Genkingen_img7343_01.JPG/1200px-Burg_Genkingen_img7343_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Genkingen_img7343_01.JPG/1920px-Burg_Genkingen_img7343_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Genkingen_img7343_01.JPG/1920px-Burg_Genkingen_img7343_01.JPG---
 
 ## Overview
 

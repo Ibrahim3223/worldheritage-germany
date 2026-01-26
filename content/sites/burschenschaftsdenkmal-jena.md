@@ -4,13 +4,13 @@ site_name: "Burschenschaftsdenkmal Jena"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1017030"
 latitude: 50.9298
 longitude: 11.5904
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/400px-Jena_Burschenschaftsdenkmal_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/800px-Jena_Burschenschaftsdenkmal_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1200px-Jena_Burschenschaftsdenkmal_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1920px-Jena_Burschenschaftsdenkmal_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1920px-Jena_Burschenschaftsdenkmal_1900.jpg---
 
 ## Overview
 

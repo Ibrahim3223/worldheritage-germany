@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5728-0037 in Bundorf"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bundorf, Haßberge, Lower Franconia, Bavaria, Germany"
-region: "Bundorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bundorf"
+  - "Bavaria"
 wikidata_id: "Q98167612"
 latitude: 50.210840948
 longitude: 10.492066938
 images:
-  []
----
+  []---
 
 ## Overview
 

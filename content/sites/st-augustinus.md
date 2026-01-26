@@ -4,13 +4,13 @@ site_name: "St. Augustinus"
 date: 2026-01-26
 draft: false
 description: "church building in Ellingen, Middle Franconia, Germany"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q11080109"
 latitude: 49.071351497
 longitude: 10.888816877
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/400px-St-Augustinus-Kirche-Stopfenheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/800px-St-Augustinus-Kirche-Stopfenheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/1200px-St-Augustinus-Kirche-Stopfenheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/1920px-St-Augustinus-Kirche-Stopfenheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/1920px-St-Augustinus-Kirche-Stopfenheim.JPG---
 
 ## Overview
 

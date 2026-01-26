@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Riepenburger_Mühle_2007.jpg/400px-Riepenburger_Mühle_2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Riepenburger_Mühle_2007.jpg/800px-Riepenburger_Mühle_2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Riepenburger_Mühle_2007.jpg/1200px-Riepenburger_Mühle_2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Riepenburger_Mühle_2007.jpg/1920px-Riepenburger_Mühle_2007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Riepenburger_Mühle_2007.jpg/1920px-Riepenburger_Mühle_2007.jpg---
 
 ## Overview
 

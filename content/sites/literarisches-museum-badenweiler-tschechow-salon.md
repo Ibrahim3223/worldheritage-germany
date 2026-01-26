@@ -4,13 +4,13 @@ site_name: "Literarisches Museum Badenweiler Tschechow-Salon"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Badenweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Badenweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q58303378"
 latitude: 47.801928
 longitude: 7.673132
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/400px-Tschechow_Salon_Badenweiler_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/800px-Tschechow_Salon_Badenweiler_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/1200px-Tschechow_Salon_Badenweiler_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/1920px-Tschechow_Salon_Badenweiler_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/1920px-Tschechow_Salon_Badenweiler_1.JPG---
 
 ## Overview
 

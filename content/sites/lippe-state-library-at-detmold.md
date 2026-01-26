@@ -4,13 +4,13 @@ site_name: "Lippe State Library at Detmold"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Detmold Government Region"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Detmold Government Region"
+  - "Lower Saxony"
 wikidata_id: "Q1784112"
 latitude: 51.9302
 longitude: 8.88173
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LLB_Vorderfront_2011-04-19_2.JPG/400px-LLB_Vorderfront_2011-04-19_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LLB_Vorderfront_2011-04-19_2.JPG/800px-LLB_Vorderfront_2011-04-19_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LLB_Vorderfront_2011-04-19_2.JPG/1200px-LLB_Vorderfront_2011-04-19_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LLB_Vorderfront_2011-04-19_2.JPG/1920px-LLB_Vorderfront_2011-04-19_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LLB_Vorderfront_2011-04-19_2.JPG/1920px-LLB_Vorderfront_2011-04-19_2.JPG---
 
 ## Overview
 

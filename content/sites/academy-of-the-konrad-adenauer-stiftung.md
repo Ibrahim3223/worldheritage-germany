@@ -4,13 +4,13 @@ site_name: "Academy of the Konrad-Adenauer-Stiftung"
 date: 2026-01-26
 draft: false
 description: "Berlin Sitz der weltweit tätigen Konrad-Adenauer-Stiftung"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q55519464"
 latitude: 52.509330555
 longitude: 13.352588888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/400px-Konrad-Adenauer-Stiftung,_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/800px-Konrad-Adenauer-Stiftung,_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/1200px-Konrad-Adenauer-Stiftung,_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/1920px-Konrad-Adenauer-Stiftung,_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/1920px-Konrad-Adenauer-Stiftung,_Berlin.jpg---
 
 ## Overview
 

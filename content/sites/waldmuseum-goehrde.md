@@ -4,19 +4,18 @@ site_name: "Waldmuseum Göhrde"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göhrde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göhrde"
+  - "Lower Saxony"
 wikidata_id: "Q76636017"
 latitude: 53.141198
 longitude: 10.879496
 images:
-  []
----
+  []---
 
 ## Overview
 

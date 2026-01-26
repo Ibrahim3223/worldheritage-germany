@@ -4,13 +4,13 @@ site_name: "Kirche St. Michael"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Homburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Homburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1522324"
 latitude: 49.3209
 longitude: 7.34095
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Michael_Homburg_03.JPG/400px-St_Michael_Homburg_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Michael_Homburg_03.JPG/800px-St_Michael_Homburg_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Michael_Homburg_03.JPG/1200px-St_Michael_Homburg_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Michael_Homburg_03.JPG/1920px-St_Michael_Homburg_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Michael_Homburg_03.JPG/1920px-St_Michael_Homburg_03.JPG---
 
 ## Overview
 

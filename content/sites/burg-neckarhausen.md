@@ -4,13 +4,13 @@ site_name: "Burg Neckarhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Horb am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Horb am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013207"
 latitude: 48.3968
 longitude: 8.6518
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/400px-NeckarhausenSWXII26_1842.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/800px-NeckarhausenSWXII26_1842.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/1200px-NeckarhausenSWXII26_1842.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/1920px-NeckarhausenSWXII26_1842.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/1920px-NeckarhausenSWXII26_1842.jpg---
 
 ## Overview
 

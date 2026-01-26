@@ -4,13 +4,13 @@ site_name: "St. Paulskirche (Berlin)"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin-Mitte, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1465220"
 latitude: 52.5523
 longitude: 13.380622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/400px-Germany_Berlin-Mitte_St-Paulskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/800px-Germany_Berlin-Mitte_St-Paulskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/1200px-Germany_Berlin-Mitte_St-Paulskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/1920px-Germany_Berlin-Mitte_St-Paulskirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/1920px-Germany_Berlin-Mitte_St-Paulskirche.JPG---
 
 ## Overview
 

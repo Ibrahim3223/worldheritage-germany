@@ -4,19 +4,18 @@ site_name: "Zweipfennigbrücke Grillenburg (Tharandt)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Tharandt"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Tharandt"
+  - "Saxony"
 wikidata_id: "Q49444071"
 latitude: 50.93525
 longitude: 13.52464
 images:
-  []
----
+  []---
 
 ## Overview 
 

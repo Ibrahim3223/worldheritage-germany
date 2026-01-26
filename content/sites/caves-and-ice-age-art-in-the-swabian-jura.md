@@ -4,21 +4,20 @@ site_name: "Caves and Ice Age Art in the Swabian Jura"
 date: 2026-01-26
 draft: false
 description: "Germany world heritage"
-region: "Alb-Donau-Kreis"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Group Of Protected Areas"
 categories:
   - "Group Of Protected Areas"
 regions:
-  - "Alb-Donau-Kreis"
+  - "Baden-Württemberg"
 wikidata_id: "Q19285921"
 tags:
   - unesco
 latitude: 48.387777777
 longitude: 9.765555555
 images:
-  []
----
+  []---
 
 ## Overview
 

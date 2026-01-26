@@ -4,13 +4,13 @@ site_name: "Hänneschen-Theater"
 date: 2026-01-26
 draft: false
 description: "puppet theater in Cologne, Germany"
-region: "Altstadt-Nord"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Altstadt-Nord"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151251"
 latitude: 50.9369
 longitude: 6.96167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/400px-Hänneschen-Theater,_Eingang-6661.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/800px-Hänneschen-Theater,_Eingang-6661.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/1200px-Hänneschen-Theater,_Eingang-6661.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/1920px-Hänneschen-Theater,_Eingang-6661.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/1920px-Hänneschen-Theater,_Eingang-6661.jpg---
 
 ## Overview
 

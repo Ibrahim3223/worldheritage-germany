@@ -4,19 +4,18 @@ site_name: "Meyer'sche Häuser"
 date: 2026-01-26
 draft: false
 description: "4 architectural ensembles in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1375863"
 latitude: 51.31357
 longitude: 12.30872
 images:
-  []
----
+  []---
 
 ## Overview
 

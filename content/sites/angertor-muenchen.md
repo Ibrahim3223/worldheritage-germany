@@ -4,13 +4,13 @@ site_name: "Angertor (München)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q538415"
 latitude: 48.1322
 longitude: 11.5706
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Angertor_1856.jpg/400px-Angertor_1856.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Angertor_1856.jpg/800px-Angertor_1856.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Angertor_1856.jpg/1200px-Angertor_1856.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Angertor_1856.jpg/1920px-Angertor_1856.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Angertor_1856.jpg/1920px-Angertor_1856.jpg---
 
 ## Overview
 

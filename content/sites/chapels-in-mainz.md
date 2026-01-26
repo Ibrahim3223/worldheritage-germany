@@ -4,13 +4,13 @@ site_name: "chapels in Mainz"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1542413"
 latitude: 49.988458
 longitude: 8.27211
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/400px-JosephskapelleMainz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/800px-JosephskapelleMainz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1200px-JosephskapelleMainz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1920px-JosephskapelleMainz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1920px-JosephskapelleMainz.jpg---
 
 ## Overview
 

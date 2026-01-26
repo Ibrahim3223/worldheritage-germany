@@ -4,13 +4,13 @@ site_name: "Brühl's Terrace"
 date: 2026-01-26
 draft: false
 description: "historic architectural ensemble in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q25711"
 latitude: 51.053427
 longitude: 13.740206
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/400px-Dresden_Elbterrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/800px-Dresden_Elbterrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1200px-Dresden_Elbterrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1920px-Dresden_Elbterrasse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1920px-Dresden_Elbterrasse.jpg---
 
 ## Overview
 

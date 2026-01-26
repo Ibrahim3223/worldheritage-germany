@@ -4,13 +4,13 @@ site_name: "Chattenturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Warburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Warburg"
+  - "Hesse"
 wikidata_id: "Q1068291"
 latitude: 51.4859
 longitude: 9.14453
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chattenturm,_Warburg_02.JPG/400px-Chattenturm,_Warburg_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chattenturm,_Warburg_02.JPG/800px-Chattenturm,_Warburg_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chattenturm,_Warburg_02.JPG/1200px-Chattenturm,_Warburg_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chattenturm,_Warburg_02.JPG/1920px-Chattenturm,_Warburg_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chattenturm,_Warburg_02.JPG/1920px-Chattenturm,_Warburg_02.JPG---
 
 ## Overview
 

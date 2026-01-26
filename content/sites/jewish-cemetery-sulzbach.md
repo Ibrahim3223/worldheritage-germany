@@ -4,13 +4,13 @@ site_name: "Jewish cemetery, Sulzbach"
 date: 2026-01-26
 draft: false
 description: "cemetery in Sulzbach-Rosenberg, Upper Palatinate, Germany"
-region: "Sulzbach-Rosenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Sulzbach-Rosenberg"
+  - "Bavaria"
 wikidata_id: "Q1229055"
 latitude: 49.516664069
 longitude: 11.740874779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sulzb-Rosenb-DSC_0228.jpg/400px-Sulzb-Rosenb-DSC_0228.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sulzb-Rosenb-DSC_0228.jpg/800px-Sulzb-Rosenb-DSC_0228.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sulzb-Rosenb-DSC_0228.jpg/1200px-Sulzb-Rosenb-DSC_0228.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sulzb-Rosenb-DSC_0228.jpg/1920px-Sulzb-Rosenb-DSC_0228.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sulzb-Rosenb-DSC_0228.jpg/1920px-Sulzb-Rosenb-DSC_0228.jpg---
 
 ## Overview
 

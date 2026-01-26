@@ -4,13 +4,13 @@ site_name: "Burg Naumburg (Naumburg)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Naumburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Naumburg"
+  - "Hesse"
 wikidata_id: "Q1013203"
 latitude: 51.2452
 longitude: 9.16062
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/400px-Naumburgk_(Merian).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/800px-Naumburgk_(Merian).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/1200px-Naumburgk_(Merian).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/1920px-Naumburgk_(Merian).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/1920px-Naumburgk_(Merian).jpg---
 
 ## Overview
 

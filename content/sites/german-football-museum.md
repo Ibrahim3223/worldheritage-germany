@@ -4,13 +4,13 @@ site_name: "German Football Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Dortmund, North Rhine-Westphalia, Germany (2015–)"
-region: "North Rhine-Westphalia"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "North Rhine-Westphalia"
+  - "Lower Saxony"
 wikidata_id: "Q1153071"
 latitude: 51.51625
 longitude: 7.45855556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/400px-Deutsches_Fußballmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/800px-Deutsches_Fußballmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/1200px-Deutsches_Fußballmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/1920px-Deutsches_Fußballmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/1920px-Deutsches_Fußballmuseum.jpg---
 
 ## Overview
 

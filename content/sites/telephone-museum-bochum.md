@@ -4,13 +4,13 @@ site_name: "Telephone museum Bochum"
 date: 2026-01-26
 draft: false
 description: "museum in Bochum"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q2401440"
 latitude: 51.4888
 longitude: 7.24185
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Telefonmuseum_Bochum_1.jpg/400px-Telefonmuseum_Bochum_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Telefonmuseum_Bochum_1.jpg/800px-Telefonmuseum_Bochum_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Telefonmuseum_Bochum_1.jpg/1200px-Telefonmuseum_Bochum_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Telefonmuseum_Bochum_1.jpg/1920px-Telefonmuseum_Bochum_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Telefonmuseum_Bochum_1.jpg/1920px-Telefonmuseum_Bochum_1.jpg---
 
 ## Overview
 

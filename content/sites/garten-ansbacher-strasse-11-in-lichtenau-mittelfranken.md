@@ -4,19 +4,18 @@ site_name: "Garten Ansbacher Straße 11 in Lichtenau (Mittelfranken)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-71-175-10 (1) in Lichtenau (Mittelfranken), Bavaria"
-region: "Lichtenau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Lichtenau"
+  - "Bavaria"
 wikidata_id: "Q98636041"
 latitude: 49.280494995
 longitude: 10.682441712
 images:
-  []
----
+  []---
 
 ## Overview
 

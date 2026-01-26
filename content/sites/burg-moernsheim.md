@@ -4,13 +4,13 @@ site_name: "Burg Mörnsheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Q512114"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Q512114"
+  - "Bavaria"
 wikidata_id: "Q1013163"
 latitude: 48.867277777
 longitude: 11.004444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Mörnsheim,_Bavaria,_December_2019.jpg/400px-Burg_Mörnsheim,_Bavaria,_December_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Mörnsheim,_Bavaria,_December_2019.jpg/800px-Burg_Mörnsheim,_Bavaria,_December_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Mörnsheim,_Bavaria,_December_2019.jpg/1200px-Burg_Mörnsheim,_Bavaria,_December_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Mörnsheim,_Bavaria,_December_2019.jpg/1920px-Burg_Mörnsheim,_Bavaria,_December_2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Mörnsheim,_Bavaria,_December_2019.jpg/1920px-Burg_Mörnsheim,_Bavaria,_December_2019.jpg---
 
 ## Overview
 

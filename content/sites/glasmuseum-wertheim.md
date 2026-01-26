@@ -4,13 +4,13 @@ site_name: "Glasmuseum Wertheim"
 date: 2026-01-26
 draft: false
 description: "museum in Baden-Württemberg, Germany"
-region: "Wertheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wertheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1529704"
 latitude: 49.7582
 longitude: 9.51775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/400px-Glasmuseum_Wertheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/800px-Glasmuseum_Wertheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/1200px-Glasmuseum_Wertheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/1920px-Glasmuseum_Wertheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/1920px-Glasmuseum_Wertheim.JPG---
 
 ## Overview
 

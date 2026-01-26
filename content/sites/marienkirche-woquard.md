@@ -4,13 +4,13 @@ site_name: "Marienkirche (Woquard)"
 date: 2026-01-26
 draft: false
 description: "church building in Krummhörn, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1727487"
 latitude: 53.4309
 longitude: 7.08419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/400px-Woquarder_Kirche_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/800px-Woquarder_Kirche_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/1200px-Woquarder_Kirche_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/1920px-Woquarder_Kirche_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/1920px-Woquarder_Kirche_2010.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Kastor (Dausenau)"
 date: 2026-01-26
 draft: false
 description: "church building in Dausenau, Germany"
-region: "Dausenau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dausenau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2319821"
 latitude: 50.329364
 longitude: 7.760019
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/400px-Dausenau_-_St._Kastor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/800px-Dausenau_-_St._Kastor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/1200px-Dausenau_-_St._Kastor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/1920px-Dausenau_-_St._Kastor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/1920px-Dausenau_-_St._Kastor.JPG---
 
 ## Overview
 

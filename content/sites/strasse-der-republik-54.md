@@ -4,19 +4,18 @@ site_name: "Straße der Republik 54"
 date: 2026-01-26
 draft: false
 description: "town hall in Niederoderwitz"
-region: "Oderwitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Oderwitz"
+  - "Saxony"
 wikidata_id: "Q49413533"
 latitude: 50.950286
 longitude: 14.732214
 images:
-  []
----
+  []---
 
 ## Overview
 

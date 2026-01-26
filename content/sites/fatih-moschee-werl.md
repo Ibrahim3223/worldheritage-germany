@@ -4,13 +4,13 @@ site_name: "Fatih-Moschee (Werl)"
 date: 2026-01-26
 draft: false
 description: "Moschee in Werl"
-region: "Werl"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Werl"
+  - "Hesse"
 wikidata_id: "Q1398083"
 latitude: 51.549
 longitude: 7.9086
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Werl,_Kurfürstenring,_Moschee.JPG/400px-Werl,_Kurfürstenring,_Moschee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Werl,_Kurfürstenring,_Moschee.JPG/800px-Werl,_Kurfürstenring,_Moschee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Werl,_Kurfürstenring,_Moschee.JPG/1200px-Werl,_Kurfürstenring,_Moschee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Werl,_Kurfürstenring,_Moschee.JPG/1920px-Werl,_Kurfürstenring,_Moschee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Werl,_Kurfürstenring,_Moschee.JPG/1920px-Werl,_Kurfürstenring,_Moschee.JPG---
 
 ## Overview
 

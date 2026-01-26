@@ -4,13 +4,13 @@ site_name: "Gildehauser Venn"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bad Bentheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bad Bentheim"
+  - "Lower Saxony"
 wikidata_id: "Q994131"
 latitude: 52.2556
 longitude: 7.09722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/400px-GildehauserVenn1997.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/800px-GildehauserVenn1997.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/1200px-GildehauserVenn1997.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/1920px-GildehauserVenn1997.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/1920px-GildehauserVenn1997.jpg---
 
 ## Overview
 

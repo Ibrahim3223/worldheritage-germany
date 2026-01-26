@@ -4,13 +4,13 @@ site_name: "Glasmuseum Bad Driburg"
 date: 2026-01-26
 draft: false
 description: "museum in Bad Driburg, Germany"
-region: "Bad Driburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Driburg"
+  - "Lower Saxony"
 wikidata_id: "Q1529695"
 latitude: 51.7366
 longitude: 9.01921
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/400px-Glasmuseum_Bad_Driburg_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/800px-Glasmuseum_Bad_Driburg_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/1200px-Glasmuseum_Bad_Driburg_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/1920px-Glasmuseum_Bad_Driburg_04.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/1920px-Glasmuseum_Bad_Driburg_04.JPG---
 
 ## Overview
 

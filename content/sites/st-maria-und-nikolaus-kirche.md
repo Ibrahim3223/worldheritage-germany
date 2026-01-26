@@ -4,13 +4,13 @@ site_name: "St. Maria- und Nikolaus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Westoverledingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Westoverledingen"
+  - "Lower Saxony"
 wikidata_id: "Q1324078"
 latitude: 53.1376
 longitude: 7.43955
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/400px-ChurchSteenfelde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/800px-ChurchSteenfelde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/1200px-ChurchSteenfelde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/1920px-ChurchSteenfelde.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/1920px-ChurchSteenfelde.JPG---
 
 ## Overview
 

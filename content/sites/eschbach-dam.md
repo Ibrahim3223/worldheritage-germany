@@ -4,13 +4,13 @@ site_name: "Eschbach Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q896077"
 latitude: 51.1606
 longitude: 7.23389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/400px-Eschbachtalsperre2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/800px-Eschbachtalsperre2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1200px-Eschbachtalsperre2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1920px-Eschbachtalsperre2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1920px-Eschbachtalsperre2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum für Weinkultur"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Deidesheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Deidesheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q27831278"
 latitude: 49.40777778
 longitude: 8.18694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2015_Deidesheim_21.jpg/400px-2015_Deidesheim_21.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2015_Deidesheim_21.jpg/800px-2015_Deidesheim_21.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2015_Deidesheim_21.jpg/1200px-2015_Deidesheim_21.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2015_Deidesheim_21.jpg/1920px-2015_Deidesheim_21.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2015_Deidesheim_21.jpg/1920px-2015_Deidesheim_21.jpg---
 
 ## Overview
 

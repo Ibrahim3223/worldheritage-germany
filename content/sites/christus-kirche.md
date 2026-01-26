@@ -4,13 +4,13 @@ site_name: "Christus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Kreuzberg"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q14541117"
 latitude: 52.4946
 longitude: 13.3816
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/400px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/800px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1200px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1920px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1920px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Postsee"
 date: 2026-01-26
 draft: false
 description: "lake in Plön District, Schleswig-Holstein, Germany"
-region: "Plön District"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Plön District"
+  - "Schleswig-Holstein"
 wikidata_id: "Q267889"
 latitude: 54.230555555
 longitude: 10.240833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Postseesüd.JPG/400px-Postseesüd.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Postseesüd.JPG/800px-Postseesüd.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Postseesüd.JPG/1200px-Postseesüd.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Postseesüd.JPG/1920px-Postseesüd.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Postseesüd.JPG/1920px-Postseesüd.JPG---
 
 ## Overview
 

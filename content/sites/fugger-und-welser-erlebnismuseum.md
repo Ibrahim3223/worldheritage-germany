@@ -4,13 +4,13 @@ site_name: "Fugger und Welser Erlebnismuseum"
 date: 2026-01-26
 draft: false
 description: "museum about the Dynasties of Fugger and Welser in Augsburg"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q15111041"
 latitude: 48.37410528
 longitude: 10.90032778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/400px-Fugger_und_Welser_lebensgroß.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/800px-Fugger_und_Welser_lebensgroß.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1200px-Fugger_und_Welser_lebensgroß.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1920px-Fugger_und_Welser_lebensgroß.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1920px-Fugger_und_Welser_lebensgroß.jpg---
 
 ## Overview
 

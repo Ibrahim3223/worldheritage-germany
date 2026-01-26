@@ -4,13 +4,13 @@ site_name: "Roggenburg Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Roggenburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Roggenburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q455642"
 latitude: 48.274835672
 longitude: 10.228273436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/6188_Kloster_Roggenburg.jpg/400px-6188_Kloster_Roggenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/6188_Kloster_Roggenburg.jpg/800px-6188_Kloster_Roggenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/6188_Kloster_Roggenburg.jpg/1200px-6188_Kloster_Roggenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/6188_Kloster_Roggenburg.jpg/1920px-6188_Kloster_Roggenburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/6188_Kloster_Roggenburg.jpg/1920px-6188_Kloster_Roggenburg.jpg---
 
 ## Overview
 

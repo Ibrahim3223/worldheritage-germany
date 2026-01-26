@@ -4,13 +4,13 @@ site_name: "Schwedenspeicher-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Stade, Germany"
-region: "Stade"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stade"
+  - "Lower Saxony"
 wikidata_id: "Q2254735"
 latitude: 53.6039
 longitude: 9.47722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/400px-Schwedenspeicher_Stade1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/800px-Schwedenspeicher_Stade1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/1200px-Schwedenspeicher_Stade1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/1920px-Schwedenspeicher_Stade1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/1920px-Schwedenspeicher_Stade1.jpg---
 
 ## Overview
 

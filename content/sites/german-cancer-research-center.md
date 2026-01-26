@@ -4,13 +4,13 @@ site_name: "German Cancer Research Center"
 date: 2026-01-26
 draft: false
 description: "national cancer research center in Heidelberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q449325"
 latitude: 49.41416667
 longitude: 8.6725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/400px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/800px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/1200px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/1920px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/1920px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg---
 
 ## Overview
 

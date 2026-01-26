@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/400px-C-O_Berlin_im_Amerika_Haus-2577.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/800px-C-O_Berlin_im_Amerika_Haus-2577.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2577.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/1920px-C-O_Berlin_im_Amerika_Haus-2577.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/1920px-C-O_Berlin_im_Amerika_Haus-2577.jpg---
 
 ## Overview
 

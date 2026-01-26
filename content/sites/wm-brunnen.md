@@ -4,13 +4,13 @@ site_name: "WM-Brunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Trudering-Riem"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Trudering-Riem"
+  - "Bavaria"
 wikidata_id: "Q2537402"
 latitude: 48.13967222
 longitude: 11.69854167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/400px-WM-Brunnen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/800px-WM-Brunnen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/1200px-WM-Brunnen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/1920px-WM-Brunnen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/1920px-WM-Brunnen1.JPG---
 
 ## Overview
 

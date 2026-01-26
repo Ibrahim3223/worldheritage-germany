@@ -4,19 +4,18 @@ site_name: "Auwald bei Hingste"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hilgermissen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hilgermissen"
+  - "Lower Saxony"
 wikidata_id: "Q789588"
 latitude: 52.8239
 longitude: 9.18778
 images:
-  []
----
+  []---
 
 ## Overview
 

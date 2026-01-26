@@ -4,13 +4,13 @@ site_name: "Hauptstraße 13a"
 date: 2026-01-26
 draft: false
 description: "municipal building in Spitzkunnersdorf"
-region: "Leutersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Leutersdorf"
+  - "Saxony"
 wikidata_id: "Q49412422"
 latitude: 50.936936
 longitude: 14.679708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/400px-Hauptstraße_13a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/800px-Hauptstraße_13a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/1200px-Hauptstraße_13a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/1920px-Hauptstraße_13a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/1920px-Hauptstraße_13a.jpg---
 
 ## Overview
 

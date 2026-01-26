@@ -4,19 +4,18 @@ site_name: "St. Urban"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Senden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Senden"
+  - "Lower Saxony"
 wikidata_id: "Q1620619"
 latitude: 51.8228
 longitude: 7.54169
 images:
-  []
----
+  []---
 
 ## Overview
 

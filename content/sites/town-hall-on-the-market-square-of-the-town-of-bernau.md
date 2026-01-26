@@ -4,13 +4,13 @@ site_name: "town hall on the market square of the town of Bernau"
 date: 2026-01-26
 draft: false
 description: "building in Bernau bei Berlin, Brandenburg, Germany"
-region: "Bernau bei Berlin"
+region: "Berlin"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Bernau bei Berlin"
+  - "Berlin"
 wikidata_id: "Q126810967"
 latitude: 52.67909
 longitude: 13.58786
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/400px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/800px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/1200px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/1920px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/1920px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg---
 
 ## Overview
 

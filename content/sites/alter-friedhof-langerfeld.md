@@ -4,13 +4,13 @@ site_name: "Alter Friedhof Langerfeld"
 date: 2026-01-26
 draft: false
 description: "cemetery in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q438238"
 latitude: 51.2745
 longitude: 7.24536
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Odoakerstr_0034.jpg/400px-Wuppertal_Odoakerstr_0034.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Odoakerstr_0034.jpg/800px-Wuppertal_Odoakerstr_0034.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Odoakerstr_0034.jpg/1200px-Wuppertal_Odoakerstr_0034.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Odoakerstr_0034.jpg/1920px-Wuppertal_Odoakerstr_0034.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Odoakerstr_0034.jpg/1920px-Wuppertal_Odoakerstr_0034.jpg---
 
 ## Overview
 

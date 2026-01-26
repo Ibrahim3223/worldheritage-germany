@@ -4,13 +4,13 @@ site_name: "Napoleonsturm"
 date: 2026-01-26
 draft: false
 description: "building in Dessau-Roßlau, Saxony-Anhalt, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1701137"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/400px-Dessau-Mildensee,Napoleonsturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/800px-Dessau-Mildensee,Napoleonsturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/1200px-Dessau-Mildensee,Napoleonsturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/1920px-Dessau-Mildensee,Napoleonsturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/1920px-Dessau-Mildensee,Napoleonsturm.jpg---
 
 ## Overview
 

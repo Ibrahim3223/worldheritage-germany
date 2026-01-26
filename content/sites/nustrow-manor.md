@@ -4,13 +4,13 @@ site_name: "Nustrow Manor"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Nustrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Nustrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1557000"
 latitude: 54.0174
 longitude: 12.599
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/400px-Nustrow_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/800px-Nustrow_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/1200px-Nustrow_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/1920px-Nustrow_Herrenhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/1920px-Nustrow_Herrenhaus.JPG---
 
 ## Overview
 

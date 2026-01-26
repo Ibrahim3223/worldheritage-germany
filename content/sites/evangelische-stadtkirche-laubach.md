@@ -4,13 +4,13 @@ site_name: "Evangelische Stadtkirche Laubach"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Laubach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Laubach"
+  - "Bavaria"
 wikidata_id: "Q1381156"
 latitude: 50.543
 longitude: 8.99051
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/400px-2012-07_Kirche_Laubach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/800px-2012-07_Kirche_Laubach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1200px-2012-07_Kirche_Laubach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1920px-2012-07_Kirche_Laubach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1920px-2012-07_Kirche_Laubach.jpg---
 
 ## Overview
 

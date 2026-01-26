@@ -4,13 +4,13 @@ site_name: "Bayertor"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Landsberg am Lech"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Landsberg am Lech"
+  - "Bavaria"
 wikidata_id: "Q812523"
 latitude: 48.0486
 longitude: 10.8822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/400px-Landsberg-bayertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/800px-Landsberg-bayertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/1200px-Landsberg-bayertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/1920px-Landsberg-bayertor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/1920px-Landsberg-bayertor.jpg---
 
 ## Overview
 

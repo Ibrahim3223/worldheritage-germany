@@ -4,19 +4,18 @@ site_name: "Kirschallee 1"
 date: 2026-01-26
 draft: false
 description: "former school building in Walddorf"
-region: "Kottmar"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kottmar"
+  - "Saxony"
 wikidata_id: "Q49437904"
 latitude: 50.999644
 longitude: 14.644314
 images:
-  []
----
+  []---
 
 ## Overview
 

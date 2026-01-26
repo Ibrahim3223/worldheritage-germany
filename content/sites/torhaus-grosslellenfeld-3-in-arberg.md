@@ -4,19 +4,18 @@ site_name: "Torhaus Großlellenfeld 3 in Arberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-5-71-113-31 (3) in Arberg, Bavaria"
-region: "Arberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Arberg"
+  - "Bavaria"
 wikidata_id: "Q98627030"
 latitude: 49.11372194
 longitude: 10.634593353
 images:
-  []
----
+  []---
 
 ## Overview
 

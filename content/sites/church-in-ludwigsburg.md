@@ -4,13 +4,13 @@ site_name: "Church in Ludwigsburg"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Loissin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Loissin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1728401"
 latitude: 54.1065
 longitude: 13.5079
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/400px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/800px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/1200px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/1920px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/1920px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG---
 
 ## Overview
 

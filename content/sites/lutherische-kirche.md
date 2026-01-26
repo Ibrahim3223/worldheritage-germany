@@ -4,13 +4,13 @@ site_name: "Lutherische Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Südbrookmerland, Germany"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q1614533"
 latitude: 53.4249
 longitude: 7.323
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/400px-ChurchForlitzBlaukirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/800px-ChurchForlitzBlaukirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/1200px-ChurchForlitzBlaukirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/1920px-ChurchForlitzBlaukirchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/1920px-ChurchForlitzBlaukirchen.jpg---
 
 ## Overview
 

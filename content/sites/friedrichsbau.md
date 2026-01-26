@@ -4,13 +4,13 @@ site_name: "Friedrichsbau"
 date: 2026-01-26
 draft: false
 description: "office building and theatre in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1464173"
 latitude: 48.7806
 longitude: 9.17619
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/400px-Friedrichsbau_Stuttgart_2013_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/800px-Friedrichsbau_Stuttgart_2013_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/1200px-Friedrichsbau_Stuttgart_2013_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/1920px-Friedrichsbau_Stuttgart_2013_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/1920px-Friedrichsbau_Stuttgart_2013_02.jpg---
 
 ## Overview
 

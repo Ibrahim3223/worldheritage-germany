@@ -4,13 +4,13 @@ site_name: "Neue Nationalgalerie"
 date: 2026-01-26
 draft: false
 description: "art museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q32659772"
 latitude: 52.506944444
 longitude: 13.367777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/400px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/800px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/1200px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/1920px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg/1920px-Berlin_Neue_Nationalgalerie_asv2021-11_img1.jpg---
 
 ## Overview
 

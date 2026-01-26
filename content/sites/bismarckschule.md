@@ -4,13 +4,13 @@ site_name: "Bismarckschule"
 date: 2026-01-26
 draft: false
 description: "Gymnasium in Hanover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q866448"
 latitude: 52.3552
 longitude: 9.7469
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/400px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/800px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1200px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1920px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1920px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg---
 
 ## Overview
 

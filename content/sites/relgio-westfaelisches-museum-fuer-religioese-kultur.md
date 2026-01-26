@@ -4,13 +4,13 @@ site_name: "Relígio, Westfälisches Museum für religiöse Kultur"
 date: 2026-01-26
 draft: false
 description: "museum in Telgte, Germany"
-region: "Telgte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Telgte"
+  - "Lower Saxony"
 wikidata_id: "Q1628447"
 latitude: 51.9847
 longitude: 7.78639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/400px-Krippenmuseum_Telgte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/800px-Krippenmuseum_Telgte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/1200px-Krippenmuseum_Telgte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/1920px-Krippenmuseum_Telgte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/1920px-Krippenmuseum_Telgte.jpg---
 
 ## Overview
 

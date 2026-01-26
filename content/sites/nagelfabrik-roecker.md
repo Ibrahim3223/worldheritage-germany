@@ -4,13 +4,13 @@ site_name: "Nagelfabrik Röcker"
 date: 2026-01-26
 draft: false
 description: "von 1876 bis 1974 bestehende Fabrik zur Herstellung von Nägeln in Löchgau, Oberamt Besigheim"
-region: "Löchgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Löchgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q2179281"
 latitude: 49.0005
 longitude: 9.11454
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/400px-NagelfabrikRöcker_2020-10b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/800px-NagelfabrikRöcker_2020-10b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/1200px-NagelfabrikRöcker_2020-10b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/1920px-NagelfabrikRöcker_2020-10b.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/1920px-NagelfabrikRöcker_2020-10b.jpg---
 
 ## Overview
 

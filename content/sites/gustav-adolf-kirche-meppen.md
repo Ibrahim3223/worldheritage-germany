@@ -4,13 +4,13 @@ site_name: "Gustav-Adolf-Kirche (Meppen)"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Meppen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Meppen"
+  - "Lower Saxony"
 wikidata_id: "Q15062266"
 latitude: 52.695938
 longitude: 7.295618
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/400px-Gustav-Adolf-Kirche_Meppen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/800px-Gustav-Adolf-Kirche_Meppen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1200px-Gustav-Adolf-Kirche_Meppen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1920px-Gustav-Adolf-Kirche_Meppen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1920px-Gustav-Adolf-Kirche_Meppen.jpg---
 
 ## Overview
 

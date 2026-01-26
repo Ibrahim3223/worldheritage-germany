@@ -4,13 +4,13 @@ site_name: "Grün island"
 date: 2026-01-26
 draft: false
 description: "island in the Rhine, Germany"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q1495610"
 latitude: 49.249444444
 longitude: 8.374166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg/400px-2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg/800px-2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg/1200px-2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg/1920px-2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg/1920px-2006-12-25_D100-0003_Achim-Lammerts_Altrhein-Lingenfeld.jpg---
 
 ## Overview
 

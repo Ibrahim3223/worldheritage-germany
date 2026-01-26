@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Lamstedt"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Lamstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Lamstedt"
+  - "Lower Saxony"
 wikidata_id: "Q1407079"
 latitude: 53.6651
 longitude: 9.11073
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/400px-Lamstedt_Funkturm_01_(RaBoe).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/800px-Lamstedt_Funkturm_01_(RaBoe).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/1200px-Lamstedt_Funkturm_01_(RaBoe).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/1920px-Lamstedt_Funkturm_01_(RaBoe).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/1920px-Lamstedt_Funkturm_01_(RaBoe).jpg---
 
 ## Overview
 

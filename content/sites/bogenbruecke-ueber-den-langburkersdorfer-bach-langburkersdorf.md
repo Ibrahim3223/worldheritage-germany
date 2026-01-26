@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über den Langburkersdorfer Bach Langburkersdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Neustadt in Sachsen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Neustadt in Sachsen"
+  - "Saxony"
 wikidata_id: "Q49443035"
 latitude: 51.023212759
 longitude: 14.239223512
 images:
-  []
----
+  []---
 
 ## Overview
 

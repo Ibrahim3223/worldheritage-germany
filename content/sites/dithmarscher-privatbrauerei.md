@@ -4,13 +4,13 @@ site_name: "Dithmarscher Privatbrauerei"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q900263"
 latitude: 53.95433
 longitude: 9.01284
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/400px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/800px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/1920px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/1920px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg---
 
 ## Overview
 

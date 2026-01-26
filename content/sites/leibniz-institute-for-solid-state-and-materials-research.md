@@ -4,13 +4,13 @@ site_name: "Leibniz Institute for Solid State and Materials Research"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q835883"
 latitude: 51.0261
 longitude: 13.7244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/400px-IFWeingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/800px-IFWeingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/1200px-IFWeingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/1920px-IFWeingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/1920px-IFWeingang.jpg---
 
 ## Overview
 

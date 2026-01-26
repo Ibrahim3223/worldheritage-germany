@@ -4,13 +4,13 @@ site_name: "Wolfsegg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Wolfsegg, Bavaria, Germany"
-region: "Wolfsegg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Wolfsegg"
+  - "Bavaria"
 wikidata_id: "Q1014653"
 latitude: 49.1068
 longitude: 11.9764
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Burg_Wolfsegg01.jpg/400px-Burg_Wolfsegg01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Burg_Wolfsegg01.jpg/800px-Burg_Wolfsegg01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Burg_Wolfsegg01.jpg/1200px-Burg_Wolfsegg01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Burg_Wolfsegg01.jpg/1920px-Burg_Wolfsegg01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Burg_Wolfsegg01.jpg/1920px-Burg_Wolfsegg01.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum der Göttinger Chemie"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q1954544"
 latitude: 51.5583
 longitude: 9.94953
 images:
-  []
----
+  []---
 
 ## Overview
 

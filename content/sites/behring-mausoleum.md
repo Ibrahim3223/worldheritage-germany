@@ -4,13 +4,13 @@ site_name: "Behring-Mausoleum"
 date: 2026-01-26
 draft: false
 description: "Mausoleum für Emil von Behring und Else von Behring"
-region: "Marbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Marbach"
+  - "Hesse"
 wikidata_id: "Q116033700"
 latitude: 50.824485
 longitude: 8.754918
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/400px-Marburg_Behring-Mausoleum_von_S_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/800px-Marburg_Behring-Mausoleum_von_S_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/1200px-Marburg_Behring-Mausoleum_von_S_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/1920px-Marburg_Behring-Mausoleum_von_S_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/1920px-Marburg_Behring-Mausoleum_von_S_01.jpg---
 
 ## Overview
 

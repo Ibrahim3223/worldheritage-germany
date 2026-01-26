@@ -4,13 +4,13 @@ site_name: "Burg Jossa"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Seeheim-Jugenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Seeheim-Jugenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012581"
 latitude: 49.7438
 longitude: 8.6382
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/400px-Burg_Jossa,_Mauerreste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/800px-Burg_Jossa,_Mauerreste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/1200px-Burg_Jossa,_Mauerreste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/1920px-Burg_Jossa,_Mauerreste.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/1920px-Burg_Jossa,_Mauerreste.jpg---
 
 ## Overview
 

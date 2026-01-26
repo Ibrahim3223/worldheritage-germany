@@ -4,13 +4,13 @@ site_name: "Schloss Gültz"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Gültz in Mecklenburg-Vorpommern"
-region: "Gültz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Gültz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2241363"
 latitude: 53.7486
 longitude: 13.1897
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/400px-Gueltz_Herrenhaus_Westseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/800px-Gueltz_Herrenhaus_Westseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/1200px-Gueltz_Herrenhaus_Westseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/1920px-Gueltz_Herrenhaus_Westseite.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/1920px-Gueltz_Herrenhaus_Westseite.JPG---
 
 ## Overview
 

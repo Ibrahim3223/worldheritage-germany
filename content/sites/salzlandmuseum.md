@@ -4,13 +4,13 @@ site_name: "Salzlandmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schönebeck"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schönebeck"
+  - "Brandenburg"
 wikidata_id: "Q20754411"
 latitude: 52.004824
 longitude: 11.724595
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Salzlandmuseum.jpg/400px-Salzlandmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Salzlandmuseum.jpg/800px-Salzlandmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Salzlandmuseum.jpg/1200px-Salzlandmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Salzlandmuseum.jpg/1920px-Salzlandmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Salzlandmuseum.jpg/1920px-Salzlandmuseum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Memorial to the victims of the Nazi tyrann"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q1188037"
 latitude: 48.1431
 longitude: 11.574
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/400px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/800px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/1200px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/1920px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/1920px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg---
 
 ## Overview
 

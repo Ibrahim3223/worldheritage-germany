@@ -4,13 +4,13 @@ site_name: "Wupperstraße 32"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Solingen, Nordrhein-Westfalen"
-region: "Solingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Solingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q108562818"
 latitude: 51.17169
 longitude: 7.09004
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solingen,_Wupperstr._32,_schräg_von_rechts.jpg/400px-Solingen,_Wupperstr._32,_schräg_von_rechts.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solingen,_Wupperstr._32,_schräg_von_rechts.jpg/800px-Solingen,_Wupperstr._32,_schräg_von_rechts.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solingen,_Wupperstr._32,_schräg_von_rechts.jpg/1200px-Solingen,_Wupperstr._32,_schräg_von_rechts.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solingen,_Wupperstr._32,_schräg_von_rechts.jpg/1920px-Solingen,_Wupperstr._32,_schräg_von_rechts.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solingen,_Wupperstr._32,_schräg_von_rechts.jpg/1920px-Solingen,_Wupperstr._32,_schräg_von_rechts.jpg---
 
 ## Overview
 

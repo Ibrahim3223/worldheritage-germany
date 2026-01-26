@@ -4,13 +4,13 @@ site_name: "Barfüßerkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Erfurt, Thuringia, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q808125"
 latitude: 50.9756
 longitude: 11.03
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/400px-Erfurt_Barfüßerkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/800px-Erfurt_Barfüßerkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/1200px-Erfurt_Barfüßerkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/1920px-Erfurt_Barfüßerkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/1920px-Erfurt_Barfüßerkirche.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Aegidienstraße 22"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Bauwerk in Lübeck"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q380609"
 latitude: 53.8642
 longitude: 10.6876
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/400px-GeverdeshofHL.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/800px-GeverdeshofHL.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/1200px-GeverdeshofHL.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/1920px-GeverdeshofHL.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/1920px-GeverdeshofHL.JPG---
 
 ## Overview
 

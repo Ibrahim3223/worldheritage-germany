@@ -4,13 +4,13 @@ site_name: "Burg Kipfenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kipfenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kipfenberg"
+  - "Bavaria"
 wikidata_id: "Q1012657"
 latitude: 48.948816697
 longitude: 11.396820649
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/400px-Burg_Kipfenberg_im_Herbst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/800px-Burg_Kipfenberg_im_Herbst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1200px-Burg_Kipfenberg_im_Herbst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1920px-Burg_Kipfenberg_im_Herbst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1920px-Burg_Kipfenberg_im_Herbst.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Altstadt (Herford)"
 date: 2026-01-26
 draft: false
 description: "quarter of Herford, Germany"
-region: "Herford"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Herford"
+  - "Lower Saxony"
 wikidata_id: "Q445504"
 latitude: 52.1159
 longitude: 8.67021
 images:
-  []
----
+  []---
 
 ## Overview
 

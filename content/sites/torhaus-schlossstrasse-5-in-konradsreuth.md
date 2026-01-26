@@ -4,19 +4,18 @@ site_name: "Torhaus Schloßstraße 5 in Konradsreuth"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-75-142-1 (1) in Konradsreuth, Bavaria"
-region: "Konradsreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Konradsreuth"
+  - "Bavaria"
 wikidata_id: "Q98587113"
 latitude: 50.269945326
 longitude: 11.846919161
 images:
-  []
----
+  []---
 
 ## Overview
 

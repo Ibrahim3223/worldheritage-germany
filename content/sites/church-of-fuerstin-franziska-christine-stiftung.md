@@ -4,13 +4,13 @@ site_name: "Church of Fürstin-Franziska-Christine-Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1483549"
 latitude: 51.4503
 longitude: 7.07278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/400px-Fürstin-Franziska-Christine-Stiftung_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/800px-Fürstin-Franziska-Christine-Stiftung_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/1200px-Fürstin-Franziska-Christine-Stiftung_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/1920px-Fürstin-Franziska-Christine-Stiftung_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/1920px-Fürstin-Franziska-Christine-Stiftung_03.jpg---
 
 ## Overview
 

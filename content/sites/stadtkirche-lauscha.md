@@ -4,13 +4,13 @@ site_name: "Stadtkirche Lauscha"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lauscha"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lauscha"
+  - "Bavaria"
 wikidata_id: "Q1382902"
 latitude: 50.47757555
 longitude: 11.160062654
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/400px-Lauscha-Ev-Kirche-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/800px-Lauscha-Ev-Kirche-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/1200px-Lauscha-Ev-Kirche-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/1920px-Lauscha-Ev-Kirche-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/1920px-Lauscha-Ev-Kirche-1.jpg---
 
 ## Overview
 

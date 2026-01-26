@@ -4,13 +4,13 @@ site_name: "Monastery of St. Michael"
 date: 2026-01-26
 draft: false
 description: "building in Heidelberg, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1930209"
 latitude: 49.4258
 longitude: 8.70611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/400px-Michaelskloster_Heiligenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/800px-Michaelskloster_Heiligenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/1200px-Michaelskloster_Heiligenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/1920px-Michaelskloster_Heiligenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/1920px-Michaelskloster_Heiligenberg.jpg---
 
 ## Overview
 

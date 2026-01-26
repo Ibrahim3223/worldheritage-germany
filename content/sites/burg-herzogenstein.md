@@ -4,13 +4,13 @@ site_name: "Burg Herzogenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Dörscheid"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Dörscheid"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1012328"
 latitude: 50.11859
 longitude: 7.73684
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Herzogenstein.JPG/400px-Burg_Herzogenstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Herzogenstein.JPG/800px-Burg_Herzogenstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Herzogenstein.JPG/1200px-Burg_Herzogenstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Herzogenstein.JPG/1920px-Burg_Herzogenstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Herzogenstein.JPG/1920px-Burg_Herzogenstein.JPG---
 
 ## Overview
 

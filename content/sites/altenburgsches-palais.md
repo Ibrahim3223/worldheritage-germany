@@ -4,19 +4,18 @@ site_name: "Altenburgsches Palais"
 date: 2026-01-26
 draft: false
 description: "non-preserved palace in Hanover"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q56248854"
 latitude: 52.3764
 longitude: 9.729
 images:
-  []
----
+  []---
 
 ## Overview
 

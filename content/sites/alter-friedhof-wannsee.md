@@ -4,19 +4,18 @@ site_name: "Alter Friedhof Wannsee"
 date: 2026-01-26
 draft: false
 description: "cemetery in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q437926"
 latitude: 52.414094444
 longitude: 13.141302777
 images:
-  []
----
+  []---
 
 ## Overview
 

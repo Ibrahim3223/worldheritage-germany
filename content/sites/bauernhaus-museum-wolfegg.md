@@ -4,13 +4,13 @@ site_name: "Bauernhaus-Museum Wolfegg"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wolfegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolfegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q811257"
 latitude: 47.820953
 longitude: 9.788614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/400px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/800px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/1200px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/1920px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/1920px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg---
 
 ## Overview
 

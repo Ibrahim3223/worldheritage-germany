@@ -4,13 +4,13 @@ site_name: "Marienkirche in Büchen"
 date: 2026-01-26
 draft: false
 description: "church building in Büchen, Germany"
-region: "Büchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Büchen"
+  - "Lower Saxony"
 wikidata_id: "Q1897791"
 latitude: 53.4801
 longitude: 10.6387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/400px-Marienkirche_Büchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/800px-Marienkirche_Büchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/1200px-Marienkirche_Büchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/1920px-Marienkirche_Büchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/1920px-Marienkirche_Büchen.jpg---
 
 ## Overview
 

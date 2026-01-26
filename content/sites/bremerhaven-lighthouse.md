@@ -4,13 +4,13 @@ site_name: "Bremerhaven lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Free Hanseatic City of Bremen, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q304471"
 latitude: 53.546306
 longitude: 8.570111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/400px-Bremerhaven_Oberfeuer_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/800px-Bremerhaven_Oberfeuer_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1200px-Bremerhaven_Oberfeuer_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1920px-Bremerhaven_Oberfeuer_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1920px-Bremerhaven_Oberfeuer_01.jpg---
 
 ## Overview
 

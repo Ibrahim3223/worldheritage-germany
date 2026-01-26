@@ -4,13 +4,13 @@ site_name: "statue of Christian Peter Wilhelm Beuth"
 date: 2026-01-26
 draft: false
 description: "statue in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q24977000"
 latitude: 52.5166435
 longitude: 13.398722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg/400px-Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg/800px-Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg/1200px-Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg/1920px-Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg/1920px-Berlin-Mitte_Schinkelplatz_asv2023-09_img1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kronach"
 date: 2026-01-26
 draft: false
 description: "railway halt in the district of Kronach, Upper Franconia, Germany"
-region: "Kronach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Kronach"
+  - "Bavaria"
 wikidata_id: "Q125954"
 latitude: 50.239663
 longitude: 11.320195
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/400px-KC_DB.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/800px-KC_DB.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/1200px-KC_DB.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/1920px-KC_DB.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/1920px-KC_DB.JPG---
 
 ## Overview
 

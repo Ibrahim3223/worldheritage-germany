@@ -4,13 +4,13 @@ site_name: "St. Johann Baptist (Niederberg)"
 date: 2026-01-26
 draft: false
 description: "church building in Erftstadt, Germany"
-region: "Erftstadt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Erftstadt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q14541098"
 latitude: 50.7339
 longitude: 6.7682
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Niederberg_St._Johann_Baptist_03.jpg/400px-Niederberg_St._Johann_Baptist_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Niederberg_St._Johann_Baptist_03.jpg/800px-Niederberg_St._Johann_Baptist_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Niederberg_St._Johann_Baptist_03.jpg/1200px-Niederberg_St._Johann_Baptist_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Niederberg_St._Johann_Baptist_03.jpg/1920px-Niederberg_St._Johann_Baptist_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Niederberg_St._Johann_Baptist_03.jpg/1920px-Niederberg_St._Johann_Baptist_03.jpg---
 
 ## Overview
 

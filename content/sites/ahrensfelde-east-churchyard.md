@@ -4,13 +4,13 @@ site_name: "Ahrensfelde East Churchyard"
 date: 2026-01-26
 draft: false
 description: "cemetery in Ahrensfelde, Germany"
-region: "Ahrensfelde"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Ahrensfelde"
+  - "Berlin"
 wikidata_id: "Q1277986"
 latitude: 52.585
 longitude: 13.5731
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/400px-Ostkirchhof_Hauptachse_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/800px-Ostkirchhof_Hauptachse_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/1200px-Ostkirchhof_Hauptachse_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/1920px-Ostkirchhof_Hauptachse_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/1920px-Ostkirchhof_Hauptachse_01.jpg---
 
 ## Overview
 

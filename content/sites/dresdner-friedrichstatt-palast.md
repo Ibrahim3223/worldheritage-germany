@@ -4,13 +4,13 @@ site_name: "Dresdner FriedrichstaTT Palast"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1258530"
 latitude: 51.05429
 longitude: 13.72365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG/400px-Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG/800px-Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG/1200px-Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG/1920px-Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG/1920px-Breschke_&_Schuch_Jahnstraße_5a_Dresden.JPG---
 
 ## Overview
 

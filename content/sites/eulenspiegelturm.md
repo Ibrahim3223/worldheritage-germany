@@ -4,13 +4,13 @@ site_name: "Eulenspiegelturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Bernburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bernburg"
+  - "Brandenburg"
 wikidata_id: "Q1373813"
 latitude: 51.7942
 longitude: 11.7348
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/400px-Bernburg,_Eulenspiegelturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/800px-Bernburg,_Eulenspiegelturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/1200px-Bernburg,_Eulenspiegelturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/1920px-Bernburg,_Eulenspiegelturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/1920px-Bernburg,_Eulenspiegelturm.jpg---
 
 ## Overview
 

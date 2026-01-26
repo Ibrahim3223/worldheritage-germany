@@ -4,13 +4,13 @@ site_name: "Old Bach-monument Leipzig"
 date: 2026-01-26
 draft: false
 description: "memorial in Leipzig"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q439130"
 latitude: 51.3388
 longitude: 12.37144
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/400px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/800px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/1200px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/1920px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/1920px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "mausoleum of Count William of Schaumburg-Lippe"
 date: 2026-01-26
 draft: false
 description: "mausoleum at Jagdschloss Baum near Bückeburg, Germany"
-region: "Bückeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Bückeburg"
+  - "Lower Saxony"
 wikidata_id: "Q137439964"
 latitude: 52.326014115
 longitude: 9.052134306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg/400px-Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg/800px-Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg/1200px-Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg/1920px-Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg/1920px-Mausoleum_Graf_Wilhelm_Friedrich_Ernst_zu_Schaumburg-Lippe.jpg---
 
 ## Overview
 

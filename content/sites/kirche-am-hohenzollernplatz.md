@@ -4,13 +4,13 @@ site_name: "Kirche am Hohenzollernplatz"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Wilmersdorf, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1742773"
 latitude: 52.494144444
 longitude: 13.326994444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/400px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/800px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/1200px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/1920px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/1920px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg---
 
 ## Overview
 

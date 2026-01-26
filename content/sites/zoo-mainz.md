@@ -4,19 +4,18 @@ site_name: "Zoo Mainz"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q220059"
 latitude: 50.006381
 longitude: 8.203021
 images:
-  []
----
+  []---
 
 ## Overview
 

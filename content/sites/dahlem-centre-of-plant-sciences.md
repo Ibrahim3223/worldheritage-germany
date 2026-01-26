@@ -4,19 +4,18 @@ site_name: "Dahlem Centre of Plant Sciences"
 date: 2026-01-26
 draft: false
 description: "Universität in Deutschland"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q31943212"
 latitude: 52.46697
 longitude: 13.30019
 images:
-  []
----
+  []---
 
 ## Overview
 

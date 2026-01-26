@@ -4,13 +4,13 @@ site_name: "Synagogue Haigerloch"
 date: 2026-01-26
 draft: false
 description: "synagogue in Haigerloch, Germany"
-region: "Haigerloch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Haigerloch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1453315"
 latitude: 48.3646
 longitude: 8.80614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/400px-Haigerloch_Synagoge531.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/800px-Haigerloch_Synagoge531.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/1200px-Haigerloch_Synagoge531.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/1920px-Haigerloch_Synagoge531.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/1920px-Haigerloch_Synagoge531.JPG---
 
 ## Overview
 

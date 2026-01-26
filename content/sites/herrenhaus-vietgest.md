@@ -4,13 +4,13 @@ site_name: "Herrenhaus Vietgest"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Deutschland"
-region: "Lalendorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lalendorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1530804"
 latitude: 53.7634
 longitude: 12.3495
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/400px-Vietgest_manor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/800px-Vietgest_manor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/1200px-Vietgest_manor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/1920px-Vietgest_manor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/1920px-Vietgest_manor.jpg---
 
 ## Overview
 

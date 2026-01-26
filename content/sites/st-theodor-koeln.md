@@ -4,13 +4,13 @@ site_name: "St. Theodor, Köln"
 date: 2026-01-26
 draft: false
 description: "church building in Vingst, Germany"
-region: "Vingst"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vingst"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2323336"
 latitude: 50.935
 longitude: 7.0225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Köln-Vingst_St.Theodor1.jpg/400px-Köln-Vingst_St.Theodor1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Köln-Vingst_St.Theodor1.jpg/800px-Köln-Vingst_St.Theodor1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Köln-Vingst_St.Theodor1.jpg/1200px-Köln-Vingst_St.Theodor1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Köln-Vingst_St.Theodor1.jpg/1920px-Köln-Vingst_St.Theodor1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Köln-Vingst_St.Theodor1.jpg/1920px-Köln-Vingst_St.Theodor1.jpg---
 
 ## Overview
 

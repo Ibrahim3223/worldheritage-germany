@@ -4,13 +4,13 @@ site_name: "Körnerpark"
 date: 2026-01-26
 draft: false
 description: "park in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q31226"
 latitude: 52.471944444
 longitude: 13.437777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin_koernerpark.jpg/400px-Berlin_koernerpark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin_koernerpark.jpg/800px-Berlin_koernerpark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin_koernerpark.jpg/1200px-Berlin_koernerpark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin_koernerpark.jpg/1920px-Berlin_koernerpark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin_koernerpark.jpg/1920px-Berlin_koernerpark.jpg---
 
 ## Overview
 

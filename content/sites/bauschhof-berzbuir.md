@@ -4,13 +4,13 @@ site_name: "Bauschhof (Berzbuir)"
 date: 2026-01-26
 draft: false
 description: "Fachwerkkonstruktion mit Schwertungen"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q811852"
 latitude: 50.7602
 longitude: 6.46251
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/400px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/800px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/1200px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/1920px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/1920px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg---
 
 ## Overview
 

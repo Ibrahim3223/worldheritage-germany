@@ -4,13 +4,13 @@ site_name: "Windmühle Straupitz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Straupitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Straupitz"
+  - "Brandenburg"
 wikidata_id: "Q1624958"
 latitude: 51.9159
 longitude: 14.127
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/400px-0704-Windmuehle-Straupitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/800px-0704-Windmuehle-Straupitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/1200px-0704-Windmuehle-Straupitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/1920px-0704-Windmuehle-Straupitz.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/1920px-0704-Windmuehle-Straupitz.JPG---
 
 ## Overview
 

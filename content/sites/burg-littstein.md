@@ -4,19 +4,18 @@ site_name: "Burg Littstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Urach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Urach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012995"
 latitude: 48.4381
 longitude: 9.47537
 images:
-  []
----
+  []---
 
 ## Overview
 

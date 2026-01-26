@@ -4,13 +4,13 @@ site_name: "Evangelische Stiftung Neinstedt"
 date: 2026-01-26
 draft: false
 description: "German social welfare service provider in Neinstedt, Saxony-Anhalt (1850-)"
-region: "Thale"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Thale"
+  - "Lower Saxony"
 wikidata_id: "Q1974948"
 latitude: 51.74968
 longitude: 11.08832
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg/400px-Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg/800px-Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg/1200px-Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg/1920px-Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg/1920px-Neinstedt_Evangelische_Stiftung_Neinstedt_Bruederhaus_02.jpg---
 
 ## Overview
 

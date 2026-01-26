@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei St. Laurentius Petershausen"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Petershausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Petershausen"
+  - "Bavaria"
 wikidata_id: "Q28729438"
 latitude: 48.40848
 longitude: 11.47105
 images:
-  []
----
+  []---
 
 ## Overview
 

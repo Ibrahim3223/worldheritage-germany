@@ -4,13 +4,13 @@ site_name: "Freiburg Minster"
 date: 2026-01-26
 draft: false
 description: "roman-catholic cathedral in Freiburg im Breisgau, Baden-Württemberg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q250212"
 latitude: 47.995556
 longitude: 7.852222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/400px-Freiburg_Münster3_05_03_06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/800px-Freiburg_Münster3_05_03_06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/1200px-Freiburg_Münster3_05_03_06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/1920px-Freiburg_Münster3_05_03_06.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/1920px-Freiburg_Münster3_05_03_06.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Museum Bayerische Metallwarenfabrik"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628912"
 latitude: 49.457309
 longitude: 11.052858
 images:
-  []
----
+  []---
 
 ## Overview
 

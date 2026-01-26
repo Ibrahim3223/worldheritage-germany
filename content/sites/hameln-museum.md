@@ -4,19 +4,18 @@ site_name: "Hameln Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hamelin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamelin"
+  - "Lower Saxony"
 wikidata_id: "Q15216023"
 latitude: 52.10481
 longitude: 9.35841
 images:
-  []
----
+  []---
 
 ## Overview
 

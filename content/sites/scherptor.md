@@ -4,19 +4,18 @@ site_name: "Scherptor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1246034"
 latitude: 50.7734
 longitude: 6.08134
 images:
-  []
----
+  []---
 
 ## Overview
 

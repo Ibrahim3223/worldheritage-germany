@@ -4,13 +4,13 @@ site_name: "Bernd-Eichinger-Platz"
 date: 2026-01-26
 draft: false
 description: "public square in Maxvorstadt, Germany"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q823225"
 latitude: 48.146825
 longitude: 11.56962
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/400px-Bernd-Eichinger-Platz_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/800px-Bernd-Eichinger-Platz_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/1200px-Bernd-Eichinger-Platz_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/1920px-Bernd-Eichinger-Platz_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/1920px-Bernd-Eichinger-Platz_Muenchen-1.jpg---
 
 ## Overview
 

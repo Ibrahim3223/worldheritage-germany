@@ -4,13 +4,13 @@ site_name: "Couvenwandbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1137932"
 latitude: 50.7627052
 longitude: 6.0932071
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg/400px-Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg/800px-Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg/1200px-Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg/1920px-Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg/1920px-Couvenwandbrunnen,_Aachen-Burtscheid_(5).jpg---
 
 ## Overview
 

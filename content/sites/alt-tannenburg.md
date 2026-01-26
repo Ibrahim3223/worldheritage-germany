@@ -4,19 +4,18 @@ site_name: "Alt-Tannenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nentershausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nentershausen"
+  - "Hesse"
 wikidata_id: "Q432992"
 latitude: 51.0091
 longitude: 9.94042
 images:
-  []
----
+  []---
 
 ## Overview
 

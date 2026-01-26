@@ -4,13 +4,13 @@ site_name: "Blinkerdenkmal"
 date: 2026-01-26
 draft: false
 description: "Ehrenmal in Jena, Thüringen, Deutschland"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q14906461"
 latitude: 50.94
 longitude: 11.5779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/400px-Blinkerdenkmal_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/800px-Blinkerdenkmal_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/1200px-Blinkerdenkmal_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/1920px-Blinkerdenkmal_2013.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/1920px-Blinkerdenkmal_2013.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Aufklärungsturm A"
 date: 2026-01-26
 draft: false
 description: "tower near Klaustorf, Germany"
-region: "Ostholstein"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Ostholstein"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q759790"
 latitude: 54.3546
 longitude: 11.0154
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AufklaerungsturmA0.jpg/400px-AufklaerungsturmA0.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AufklaerungsturmA0.jpg/800px-AufklaerungsturmA0.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AufklaerungsturmA0.jpg/1200px-AufklaerungsturmA0.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AufklaerungsturmA0.jpg/1920px-AufklaerungsturmA0.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AufklaerungsturmA0.jpg/1920px-AufklaerungsturmA0.jpg---
 
 ## Overview
 

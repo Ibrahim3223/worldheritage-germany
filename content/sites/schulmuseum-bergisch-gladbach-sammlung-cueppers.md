@@ -4,13 +4,13 @@ site_name: "Schulmuseum Bergisch Gladbach – Sammlung Cüppers"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bergisch Gladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bergisch Gladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1668511"
 latitude: 51.0089
 longitude: 7.08348
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/400px-Schulmuseum_Katterbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/800px-Schulmuseum_Katterbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/1200px-Schulmuseum_Katterbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/1920px-Schulmuseum_Katterbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/1920px-Schulmuseum_Katterbach.jpg---
 
 ## Overview
 

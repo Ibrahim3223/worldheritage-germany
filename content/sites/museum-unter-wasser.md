@@ -4,19 +4,18 @@ site_name: "Museum unter Wasser"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ludwigshafen am Bodensee"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ludwigshafen am Bodensee"
+  - "Baden-Württemberg"
 wikidata_id: "Q1789878"
 latitude: 47.8139
 longitude: 9.0484
 images:
-  []
----
+  []---
 
 ## Overview
 

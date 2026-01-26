@@ -4,13 +4,13 @@ site_name: "Glocken-StadtMuseum (Apolda, Germany)"
 date: 2026-01-26
 draft: false
 description: "museum in Apolda, Germany"
-region: "Apolda"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Apolda"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1531837"
 latitude: 51.0269
 longitude: 11.5192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/400px-Apolda_Glockenmuseum02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/800px-Apolda_Glockenmuseum02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1200px-Apolda_Glockenmuseum02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1920px-Apolda_Glockenmuseum02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1920px-Apolda_Glockenmuseum02.jpg---
 
 ## Overview
 

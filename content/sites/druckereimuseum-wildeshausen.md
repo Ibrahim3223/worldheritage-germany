@@ -4,13 +4,13 @@ site_name: "Druckereimuseum Wildeshausen"
 date: 2026-01-26
 draft: false
 description: "museum in Wildeshausen, Germany"
-region: "Wildeshausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wildeshausen"
+  - "Lower Saxony"
 wikidata_id: "Q37068878"
 latitude: 52.897689
 longitude: 8.433241
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/400px-Druckereimuseum_Wildeshausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/800px-Druckereimuseum_Wildeshausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/1200px-Druckereimuseum_Wildeshausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/1920px-Druckereimuseum_Wildeshausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/1920px-Druckereimuseum_Wildeshausen.jpg---
 
 ## Overview
 

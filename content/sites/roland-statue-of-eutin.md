@@ -4,13 +4,13 @@ site_name: "Roland statue of Eutin"
 date: 2026-01-26
 draft: false
 description: "statue in Eutin, Germany"
-region: "Eutin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Eutin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1378929"
 latitude: 54.137777777
 longitude: 10.62
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eutin_-_Eutiner_Roland_-_Schloss.JPG/400px-Eutin_-_Eutiner_Roland_-_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eutin_-_Eutiner_Roland_-_Schloss.JPG/800px-Eutin_-_Eutiner_Roland_-_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eutin_-_Eutiner_Roland_-_Schloss.JPG/1200px-Eutin_-_Eutiner_Roland_-_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eutin_-_Eutiner_Roland_-_Schloss.JPG/1920px-Eutin_-_Eutiner_Roland_-_Schloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eutin_-_Eutiner_Roland_-_Schloss.JPG/1920px-Eutin_-_Eutiner_Roland_-_Schloss.JPG---
 
 ## Overview
 

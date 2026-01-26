@@ -4,19 +4,18 @@ site_name: "Burg Kittenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gleisweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gleisweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012676"
 latitude: 49.2402
 longitude: 8.05632
 images:
-  []
----
+  []---
 
 ## Overview
 

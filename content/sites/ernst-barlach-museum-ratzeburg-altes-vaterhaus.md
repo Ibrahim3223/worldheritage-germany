@@ -4,13 +4,13 @@ site_name: "Ernst Barlach Museum Ratzeburg--Altes Vaterhaus"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ratzeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ratzeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1278415"
 latitude: 53.6985
 longitude: 10.7732
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/400px-Ernstbarlachmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/800px-Ernstbarlachmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/1200px-Ernstbarlachmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/1920px-Ernstbarlachmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/1920px-Ernstbarlachmuseum.jpg---
 
 ## Overview
 

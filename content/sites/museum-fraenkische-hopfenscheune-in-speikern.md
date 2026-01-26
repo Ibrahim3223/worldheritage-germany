@@ -4,19 +4,18 @@ site_name: "Museum „Fränkische Hopfenscheune“ in Speikern"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628779"
 latitude: 49.528404
 longitude: 11.342735
 images:
-  []
----
+  []---
 
 ## Overview
 

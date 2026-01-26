@@ -4,19 +4,18 @@ site_name: "Augustinerinnenkloster Würzburg"
 date: 2026-01-26
 draft: false
 description: "human settlement"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q768445"
 latitude: 49.7962
 longitude: 9.93098
 images:
-  []
----
+  []---
 
 ## Overview
 

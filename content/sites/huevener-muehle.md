@@ -4,13 +4,13 @@ site_name: "Hüvener Mühle"
 date: 2026-01-26
 draft: false
 description: "kombinierte Wind- und Wassermühle in der Gemeinde Hüven im Landkreis Emsland in Niedersachsen"
-region: "Hüven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Hüven"
+  - "Lower Saxony"
 wikidata_id: "Q1319020"
 latitude: 52.7718
 longitude: 7.56428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/400px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/800px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1200px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1920px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1920px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg---
 
 ## Overview
 

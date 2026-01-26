@@ -4,13 +4,13 @@ site_name: "Zoo Osnabrück"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q220068"
 latitude: 52.25
 longitude: 8.07028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/400px-OS-zoo-eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/800px-OS-zoo-eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/1200px-OS-zoo-eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/1920px-OS-zoo-eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/1920px-OS-zoo-eingang.jpg---
 
 ## Overview
 

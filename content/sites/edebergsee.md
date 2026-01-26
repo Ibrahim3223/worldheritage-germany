@@ -4,13 +4,13 @@ site_name: "Edebergsee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Plön"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Plön"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1283178"
 latitude: 54.152
 longitude: 10.452
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/400px-Ploen_-_Edebergsee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/800px-Ploen_-_Edebergsee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/1200px-Ploen_-_Edebergsee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/1920px-Ploen_-_Edebergsee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/1920px-Ploen_-_Edebergsee.JPG---
 
 ## Overview
 

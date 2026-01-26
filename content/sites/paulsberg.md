@@ -4,19 +4,18 @@ site_name: "Paulsberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1397140"
 latitude: 51.2494
 longitude: 7.26222
 images:
-  []
----
+  []---
 
 ## Overview
 

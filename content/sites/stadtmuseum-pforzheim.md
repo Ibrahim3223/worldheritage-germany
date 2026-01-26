@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Pforzheim"
 date: 2026-01-26
 draft: false
 description: "building in Pforzheim, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Pforzheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pforzheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q59783139"
 latitude: 48.89116
 longitude: 8.67268
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/400px-Stadtmuseum,_Pforzheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/800px-Stadtmuseum,_Pforzheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/1200px-Stadtmuseum,_Pforzheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/1920px-Stadtmuseum,_Pforzheim.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/1920px-Stadtmuseum,_Pforzheim.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Pasewalk"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Pasewalk"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Pasewalk"
+  - "Brandenburg"
 wikidata_id: "Q1292677"
 latitude: 53.4804
 longitude: 14.0306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/400px-Fernmeldeturm_Pasewalk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/800px-Fernmeldeturm_Pasewalk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/1200px-Fernmeldeturm_Pasewalk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/1920px-Fernmeldeturm_Pasewalk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/1920px-Fernmeldeturm_Pasewalk.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Christuskirche (Leer)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q1087353"
 latitude: 53.2314
 longitude: 7.46642
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/400px-ChurchLeerChristus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/800px-ChurchLeerChristus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1200px-ChurchLeerChristus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1920px-ChurchLeerChristus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1920px-ChurchLeerChristus.JPG---
 
 ## Overview
 

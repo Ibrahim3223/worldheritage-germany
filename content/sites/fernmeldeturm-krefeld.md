@@ -4,19 +4,18 @@ site_name: "Fernmeldeturm Krefeld"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1407080"
 latitude: 51.3362
 longitude: 6.60034
 images:
-  []
----
+  []---
 
 ## Overview
 

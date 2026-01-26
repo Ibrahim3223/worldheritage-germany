@@ -4,13 +4,13 @@ site_name: "Church in Alt Karin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Carinerland"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Carinerland"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1244078"
 latitude: 54.0056
 longitude: 11.7755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/400px-Alt_Karin_Dorfkirche_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/800px-Alt_Karin_Dorfkirche_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/1200px-Alt_Karin_Dorfkirche_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/1920px-Alt_Karin_Dorfkirche_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/1920px-Alt_Karin_Dorfkirche_07.jpg---
 
 ## Overview
 

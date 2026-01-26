@@ -4,19 +4,18 @@ site_name: "Wasserschloß Neuenheerse - Intern. Museum f. Naturkunde u. Naturwis
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634371"
 latitude: 51.676277
 longitude: 8.998436
 images:
-  []
----
+  []---
 
 ## Overview
 

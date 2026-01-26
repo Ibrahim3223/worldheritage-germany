@@ -4,13 +4,13 @@ site_name: "Zellersee"
 date: 2026-01-26
 draft: false
 description: "lake in Kißlegg, Germany"
-region: "Kißlegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Kißlegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q187782"
 latitude: 47.78555556
 longitude: 9.87722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/400px-Kisslegg_Zeller_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/800px-Kisslegg_Zeller_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/1200px-Kisslegg_Zeller_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/1920px-Kisslegg_Zeller_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/1920px-Kisslegg_Zeller_See.jpg---
 
 ## Overview
 

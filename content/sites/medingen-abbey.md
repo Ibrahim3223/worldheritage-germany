@@ -4,13 +4,13 @@ site_name: "Medingen Abbey"
 date: 2026-01-26
 draft: false
 description: "convent in Lower Saxony, Germany"
-region: "Bad Bevensen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Bevensen"
+  - "Lower Saxony"
 wikidata_id: "Q15252661"
 latitude: 53.091752777
 longitude: 10.565527777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/400px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/800px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/1200px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/1920px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/1920px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg---
 
 ## Overview
 

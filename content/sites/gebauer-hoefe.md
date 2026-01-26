@@ -4,13 +4,13 @@ site_name: "Gebauer Höfe"
 date: 2026-01-26
 draft: false
 description: "Ensemble von historischen Fabrikgebäuden an der Spree in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1423034"
 latitude: 52.5211
 longitude: 13.3286
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/400px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/800px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/1200px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/1920px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/1920px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg---
 
 ## Overview
 

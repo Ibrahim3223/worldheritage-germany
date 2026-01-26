@@ -4,13 +4,13 @@ site_name: "Niedersächsisches Museum für Kali- und Salzbergbau"
 date: 2026-01-26
 draft: false
 description: "mining museum in Empelde near Hannover, Germany"
-region: "Ronnenberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ronnenberg"
+  - "Lower Saxony"
 wikidata_id: "Q50366958"
 latitude: 52.344166666
 longitude: 9.655555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Empelde_Kalimuseum_Eingang.jpg/400px-Empelde_Kalimuseum_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Empelde_Kalimuseum_Eingang.jpg/800px-Empelde_Kalimuseum_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Empelde_Kalimuseum_Eingang.jpg/1200px-Empelde_Kalimuseum_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Empelde_Kalimuseum_Eingang.jpg/1920px-Empelde_Kalimuseum_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Empelde_Kalimuseum_Eingang.jpg/1920px-Empelde_Kalimuseum_Eingang.jpg---
 
 ## Overview
 

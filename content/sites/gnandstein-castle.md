@@ -4,13 +4,13 @@ site_name: "Gnandstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Frohburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frohburg"
+  - "Saxony"
 wikidata_id: "Q1011988"
 latitude: 51.0183
 longitude: 12.5758
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/400px-Burg_gnandstein-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/800px-Burg_gnandstein-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/1200px-Burg_gnandstein-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/1920px-Burg_gnandstein-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/1920px-Burg_gnandstein-2.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Oberschwäbisches Museumsdorf Kürnbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Schussenried"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Schussenried"
+  - "Baden-Württemberg"
 wikidata_id: "Q2010931"
 latitude: 47.9923
 longitude: 9.67633
 images:
-  []
----
+  []---
 
 ## Overview
 

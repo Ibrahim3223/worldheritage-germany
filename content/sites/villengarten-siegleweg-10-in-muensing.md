@@ -4,19 +4,18 @@ site_name: "Villengarten Siegleweg 10 in Münsing"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-73-137-27 (1) in Münsing, Bavaria"
-region: "Münsing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Münsing"
+  - "Bavaria"
 wikidata_id: "Q98742402"
 latitude: 47.899632964
 longitude: 11.335979721
 images:
-  []
----
+  []---
 
 ## Overview
 

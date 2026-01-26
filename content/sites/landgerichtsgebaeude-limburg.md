@@ -4,13 +4,13 @@ site_name: "Landgerichtsgebäude Limburg"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q116921161"
 latitude: 50.388804
 longitude: 8.058986
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Limburg,_Schiede_14.jpg/400px-Limburg,_Schiede_14.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Limburg,_Schiede_14.jpg/800px-Limburg,_Schiede_14.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Limburg,_Schiede_14.jpg/1200px-Limburg,_Schiede_14.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Limburg,_Schiede_14.jpg/1920px-Limburg,_Schiede_14.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Limburg,_Schiede_14.jpg/1920px-Limburg,_Schiede_14.jpg---
 
 ## Overview
 

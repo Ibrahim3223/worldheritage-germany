@@ -4,13 +4,13 @@ site_name: "Salt museum Soltau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Soltau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Soltau"
+  - "Lower Saxony"
 wikidata_id: "Q27478882"
 latitude: 52.987425
 longitude: 9.833175
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/400px-Soltauer-Salzmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/800px-Soltauer-Salzmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/1200px-Soltauer-Salzmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/1920px-Soltauer-Salzmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/1920px-Soltauer-Salzmuseum.jpg---
 
 ## Overview
 

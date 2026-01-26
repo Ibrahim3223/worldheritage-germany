@@ -4,13 +4,13 @@ site_name: "St.-Pauli-Kirche Bobbin"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Bobbin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bobbin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316648"
 latitude: 54.5536
 longitude: 13.5272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/400px-BobbinChurch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/800px-BobbinChurch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/1200px-BobbinChurch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/1920px-BobbinChurch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/1920px-BobbinChurch.jpg---
 
 ## Overview
 

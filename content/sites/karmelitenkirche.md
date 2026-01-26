@@ -4,13 +4,13 @@ site_name: "Karmelitenkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Old Town, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1734046"
 latitude: 48.1403
 longitude: 11.5713
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Karmeliterkirche_München_01.jpg/400px-Karmeliterkirche_München_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Karmeliterkirche_München_01.jpg/800px-Karmeliterkirche_München_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Karmeliterkirche_München_01.jpg/1200px-Karmeliterkirche_München_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Karmeliterkirche_München_01.jpg/1920px-Karmeliterkirche_München_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Karmeliterkirche_München_01.jpg/1920px-Karmeliterkirche_München_01.jpg---
 
 ## Overview
 

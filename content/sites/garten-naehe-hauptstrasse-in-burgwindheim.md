@@ -4,19 +4,18 @@ site_name: "Garten Nähe Hauptstraße in Burgwindheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-71-122-6 (9) in Burgwindheim, Bavaria"
-region: "Burgwindheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Burgwindheim"
+  - "Bavaria"
 wikidata_id: "Q98589428"
 latitude: 49.826623701
 longitude: 10.596534956
 images:
-  []
----
+  []---
 
 ## Overview
 

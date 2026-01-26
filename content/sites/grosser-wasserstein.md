@@ -4,13 +4,13 @@ site_name: "Großer Wasserstein"
 date: 2026-01-26
 draft: false
 description: "group of rocks in Germany"
-region: "Betzenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Betzenstein"
+  - "Bavaria"
 wikidata_id: "Q1549070"
 latitude: 49.6942
 longitude: 11.4131
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wasserstein_01.jpg/400px-Wasserstein_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wasserstein_01.jpg/800px-Wasserstein_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wasserstein_01.jpg/1200px-Wasserstein_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wasserstein_01.jpg/1920px-Wasserstein_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wasserstein_01.jpg/1920px-Wasserstein_01.jpg---
 
 ## Overview
 

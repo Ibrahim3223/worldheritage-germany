@@ -4,13 +4,13 @@ site_name: "St. Laurentiuskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Kosel, Germany"
-region: "Kosel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kosel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q14541505"
 latitude: 54.5055
 longitude: 9.75184
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/400px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/800px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/1200px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/1920px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/1920px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg---
 
 ## Overview
 

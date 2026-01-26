@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Kiel"
 date: 2026-01-26
 draft: false
 description: "garden in Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q894647"
 latitude: 54.3481
 longitude: 10.1167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/400px-Botanischer_Garten_Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/800px-Botanischer_Garten_Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1200px-Botanischer_Garten_Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1920px-Botanischer_Garten_Kiel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1920px-Botanischer_Garten_Kiel.jpg---
 
 ## Overview
 

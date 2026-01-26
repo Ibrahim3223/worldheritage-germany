@@ -4,13 +4,13 @@ site_name: "Alte Burg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Homburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Homburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q435439"
 latitude: 49.2656
 longitude: 7.31528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/400px-Alte_Burg_Einoed.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/800px-Alte_Burg_Einoed.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/1200px-Alte_Burg_Einoed.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/1920px-Alte_Burg_Einoed.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/1920px-Alte_Burg_Einoed.png---
 
 ## Overview
 

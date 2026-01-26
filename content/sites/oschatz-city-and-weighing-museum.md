@@ -4,13 +4,13 @@ site_name: "Oschatz City and Weighing Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oschatz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oschatz"
+  - "Saxony"
 wikidata_id: "Q2326348"
 latitude: 51.297
 longitude: 13.106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Waagenmuseum_wachturm.jpg/400px-Waagenmuseum_wachturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Waagenmuseum_wachturm.jpg/800px-Waagenmuseum_wachturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Waagenmuseum_wachturm.jpg/1200px-Waagenmuseum_wachturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Waagenmuseum_wachturm.jpg/1920px-Waagenmuseum_wachturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Waagenmuseum_wachturm.jpg/1920px-Waagenmuseum_wachturm.jpg---
 
 ## Overview
 

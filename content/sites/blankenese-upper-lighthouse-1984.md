@@ -4,13 +4,13 @@ site_name: "Blankenese Upper Lighthouse (1984)"
 date: 2026-01-26
 draft: false
 description: "former lighthouse in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q1340048"
 latitude: 53.55602
 longitude: 9.81614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/400px-Lighthouse2-elbe_hg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/800px-Lighthouse2-elbe_hg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1200px-Lighthouse2-elbe_hg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1920px-Lighthouse2-elbe_hg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1920px-Lighthouse2-elbe_hg.jpg---
 
 ## Overview
 

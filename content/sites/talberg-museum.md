@@ -4,19 +4,18 @@ site_name: "Talberg Museum"
 date: 2026-01-26
 draft: false
 description: "Art museum in Frankfurt"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q133862571"
 latitude: 50.108880197
 longitude: 8.750616429
 images:
-  []
----
+  []---
 
 ## Overview
 

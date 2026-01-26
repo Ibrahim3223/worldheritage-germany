@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg/400px-Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg/800px-Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg/1200px-Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg/1920px-Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg/1920px-Museum_für_Architekturzeichnung,_Berlin,_150516,_ako.jpg---
 
 ## Overview
 

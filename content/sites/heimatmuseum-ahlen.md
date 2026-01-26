@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Ahlen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q76634342"
 latitude: 51.76154
 longitude: 7.88878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/400px-Ahlen_-_Heimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/800px-Ahlen_-_Heimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/1200px-Ahlen_-_Heimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/1920px-Ahlen_-_Heimatmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/1920px-Ahlen_-_Heimatmuseum.jpg---
 
 ## Overview
 

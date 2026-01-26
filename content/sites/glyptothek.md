@@ -4,13 +4,13 @@ site_name: "Glyptothek"
 date: 2026-01-26
 draft: false
 description: "archaeological museum in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q162077"
 latitude: 48.146555597
 longitude: 11.565815194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/400px-Glyptothek_München,_April_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/800px-Glyptothek_München,_April_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/1200px-Glyptothek_München,_April_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/1920px-Glyptothek_München,_April_2023.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/1920px-Glyptothek_München,_April_2023.jpg---
 
 ## Overview
 

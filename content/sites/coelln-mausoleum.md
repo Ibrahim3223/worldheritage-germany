@@ -4,13 +4,13 @@ site_name: "Cölln mausoleum"
 date: 2026-01-26
 draft: false
 description: "mausoleum in Hannover, Germany"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q118591374"
 latitude: 52.35165
 longitude: 9.75475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg/400px-Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg/800px-Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg/1200px-Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg/1920px-Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg/1920px-Georg_von_Cölln-Mausoleum_im_Eingangsgebäude_am_Stadtfriedhof_Engesohde_nach_Entwurf_von_Ludwig_Droste,_Hannover-Döhren.jpg---
 
 ## Overview
 

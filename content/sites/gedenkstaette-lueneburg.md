@@ -4,13 +4,13 @@ site_name: "Gedenkstätte Lüneburg"
 date: 2026-01-26
 draft: false
 description: "memorial in Lüneburg, Lower Saxony"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q1497538"
 latitude: 53.2549
 longitude: 10.3816
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gedenkstätte_Lüneburg.jpg/400px-Gedenkstätte_Lüneburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gedenkstätte_Lüneburg.jpg/800px-Gedenkstätte_Lüneburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gedenkstätte_Lüneburg.jpg/1200px-Gedenkstätte_Lüneburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gedenkstätte_Lüneburg.jpg/1920px-Gedenkstätte_Lüneburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gedenkstätte_Lüneburg.jpg/1920px-Gedenkstätte_Lüneburg.jpg---
 
 ## Overview
 

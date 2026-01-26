@@ -4,13 +4,13 @@ site_name: "Rathaus Annaburg"
 date: 2026-01-26
 draft: false
 description: "Rathaus der Stadt Annaburg in Sachsen-Anhalt"
-region: "Annaburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Annaburg"
+  - "Brandenburg"
 wikidata_id: "Q61641346"
 latitude: 51.730635
 longitude: 13.042367
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/400px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/800px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/1200px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/1920px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/1920px-Villa_Torgauer_Straße_52_in_Annaburg.jpg---
 
 ## Overview
 

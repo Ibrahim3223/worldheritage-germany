@@ -4,19 +4,18 @@ site_name: "Altes Brücktor"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltenes Stadttor der Stadt Magdeburg"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q439165"
 latitude: 52.1292
 longitude: 11.6412
 images:
-  []
----
+  []---
 
 ## Overview
 

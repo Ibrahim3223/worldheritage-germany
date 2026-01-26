@@ -4,13 +4,13 @@ site_name: "St.-Pauli-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre building in St. Pauli, Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q317892"
 latitude: 53.54906
 longitude: 9.96297
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/400px-St_Pauli_Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/800px-St_Pauli_Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/1200px-St_Pauli_Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/1920px-St_Pauli_Theater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/1920px-St_Pauli_Theater.jpg---
 
 ## Overview
 

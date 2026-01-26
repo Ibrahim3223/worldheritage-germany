@@ -4,19 +4,18 @@ site_name: "Issumer Turm"
 date: 2026-01-26
 draft: false
 description: "ehemaliger Wohnturm und Wahrzeichen des Krefelder Vorortes Linn"
-region: "Krefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Krefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1386223"
 latitude: 51.3331
 longitude: 6.64005
 images:
-  []
----
+  []---
 
 ## Overview
 

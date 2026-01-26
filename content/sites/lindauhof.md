@@ -4,13 +4,13 @@ site_name: "Lindauhof"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Boren"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Boren"
+  - "Schleswig-Holstein"
 wikidata_id: "Q15825891"
 latitude: 54.5882
 longitude: 9.8026
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landartz01.jpg/400px-Landartz01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landartz01.jpg/800px-Landartz01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landartz01.jpg/1200px-Landartz01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landartz01.jpg/1920px-Landartz01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landartz01.jpg/1920px-Landartz01.jpg---
 
 ## Overview
 

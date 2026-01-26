@@ -4,13 +4,13 @@ site_name: "Göltzschtalbrücke Obermylau"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Reichenbach im Vogtland"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Reichenbach im Vogtland"
+  - "Saxony"
 wikidata_id: "Q49440370"
 latitude: 50.62258
 longitude: 12.24374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Göltzschtalbrücke_2012.jpg/400px-Göltzschtalbrücke_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Göltzschtalbrücke_2012.jpg/800px-Göltzschtalbrücke_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Göltzschtalbrücke_2012.jpg/1200px-Göltzschtalbrücke_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Göltzschtalbrücke_2012.jpg/1920px-Göltzschtalbrücke_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Göltzschtalbrücke_2012.jpg/1920px-Göltzschtalbrücke_2012.jpg---
 
 ## Overview
 

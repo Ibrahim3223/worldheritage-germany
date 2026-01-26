@@ -4,13 +4,13 @@ site_name: "Künstlerdorf Schöppingen"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Schöppingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Schöppingen"
+  - "Lower Saxony"
 wikidata_id: "Q1683349"
 latitude: 52.0924
 longitude: 7.23384
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg/400px-20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg/800px-20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg/1200px-20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg/1920px-20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg/1920px-20160417_Künstlerdorf_Schöppingen,_Hof_der_Literaten_(04773).jpg---
 
 ## Overview
 

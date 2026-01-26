@@ -4,19 +4,18 @@ site_name: "Vorgarten Schloßplatz 1 in Maxhütte-Haidhof"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-3-76-141-17 (1) in Maxhütte-Haidhof, Bavaria"
-region: "Maxhütte-Haidhof"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Maxhütte-Haidhof"
+  - "Bavaria"
 wikidata_id: "Q98680445"
 latitude: 49.182936429
 longitude: 12.113662111
 images:
-  []
----
+  []---
 
 ## Overview
 

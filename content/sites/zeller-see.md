@@ -4,13 +4,13 @@ site_name: "Zeller See"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Kißlegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kißlegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q187783"
 latitude: 47.788061111
 longitude: 9.877219444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/400px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/800px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/1200px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/1920px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/1920px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG---
 
 ## Overview
 

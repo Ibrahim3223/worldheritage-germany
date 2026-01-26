@@ -4,13 +4,13 @@ site_name: "Kieve Gord"
 date: 2026-01-26
 draft: false
 description: "Slavic Gord"
-region: "Kieve"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Kieve"
+  - "Brandenburg"
 wikidata_id: "Q1016231"
 latitude: 53.2853
 longitude: 12.5972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/400px-Kieve2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/800px-Kieve2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/1200px-Kieve2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/1920px-Kieve2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/1920px-Kieve2012.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Volkshaus Jena"
 date: 2026-01-26
 draft: false
 description: "multi-purpose event location in Jena, Germany"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1240164"
 latitude: 50.9272
 longitude: 11.58
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jena_Volkshaus_02.jpg/400px-Jena_Volkshaus_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jena_Volkshaus_02.jpg/800px-Jena_Volkshaus_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jena_Volkshaus_02.jpg/1200px-Jena_Volkshaus_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jena_Volkshaus_02.jpg/1920px-Jena_Volkshaus_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jena_Volkshaus_02.jpg/1920px-Jena_Volkshaus_02.jpg---
 
 ## Overview
 

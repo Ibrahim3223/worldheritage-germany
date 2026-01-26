@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schule_Podbielskiallee_78.jpg/400px-Schule_Podbielskiallee_78.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schule_Podbielskiallee_78.jpg/800px-Schule_Podbielskiallee_78.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schule_Podbielskiallee_78.jpg/1200px-Schule_Podbielskiallee_78.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schule_Podbielskiallee_78.jpg/1920px-Schule_Podbielskiallee_78.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schule_Podbielskiallee_78.jpg/1920px-Schule_Podbielskiallee_78.jpg---
 
 ## Overview
 

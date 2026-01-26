@@ -4,13 +4,13 @@ site_name: "Obermünster"
 date: 2026-01-26
 draft: false
 description: "church building in Regensburg, Upper Palatinate, Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q458092"
 latitude: 49.0159
 longitude: 12.0953
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/400px-Ruine-obermuenster-regensburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/800px-Ruine-obermuenster-regensburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/1200px-Ruine-obermuenster-regensburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/1920px-Ruine-obermuenster-regensburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/1920px-Ruine-obermuenster-regensburg.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Heimatmuseum Mörfelden"
 date: 2026-01-26
 draft: false
 description: "local museum in Mörfelden, Germany"
-region: "Mörfelden-Walldorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mörfelden-Walldorf"
+  - "Hesse"
 wikidata_id: "Q76634084"
 latitude: 49.972536
 longitude: 8.569478
 images:
-  []
----
+  []---
 
 ## Overview
 

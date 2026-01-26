@@ -4,13 +4,13 @@ site_name: "Kapelle Wilhelmshof"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Plöwen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Plöwen"
+  - "Brandenburg"
 wikidata_id: "Q1380260"
 latitude: 53.4511
 longitude: 14.284
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/400px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/800px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/1200px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/1920px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/1920px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG---
 
 ## Overview
 

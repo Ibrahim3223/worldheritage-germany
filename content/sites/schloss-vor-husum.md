@@ -4,13 +4,13 @@ site_name: "Schloss vor Husum"
 date: 2026-01-26
 draft: false
 description: "château in Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q477607"
 latitude: 54.4799
 longitude: 9.04982
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/400px-Schloss_vor_Husum,_Hof_I-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/800px-Schloss_vor_Husum,_Hof_I-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/1200px-Schloss_vor_Husum,_Hof_I-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/1920px-Schloss_vor_Husum,_Hof_I-2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/1920px-Schloss_vor_Husum,_Hof_I-2.JPG---
 
 ## Overview
 

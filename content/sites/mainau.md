@@ -4,13 +4,13 @@ site_name: "Mainau"
 date: 2026-01-26
 draft: false
 description: "inland island"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q165401"
 latitude: 47.705
 longitude: 9.195278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/400px-Insel_Mainau_im_Bodensee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/800px-Insel_Mainau_im_Bodensee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/1200px-Insel_Mainau_im_Bodensee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/1920px-Insel_Mainau_im_Bodensee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/1920px-Insel_Mainau_im_Bodensee.jpg---
 
 ## Overview
 

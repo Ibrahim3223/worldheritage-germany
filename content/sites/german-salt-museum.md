@@ -4,13 +4,13 @@ site_name: "German Salt Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q1205952"
 latitude: 53.2433
 longitude: 10.4017
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/400px-Salzmuseum_Lüneburg_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/800px-Salzmuseum_Lüneburg_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1200px-Salzmuseum_Lüneburg_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1920px-Salzmuseum_Lüneburg_Eingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1920px-Salzmuseum_Lüneburg_Eingang.jpg---
 
 ## Overview
 

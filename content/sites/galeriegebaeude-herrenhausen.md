@@ -4,13 +4,13 @@ site_name: "Galeriegebäude Herrenhausen"
 date: 2026-01-26
 draft: false
 description: "gallery and festive hall in the park sof Herrenhausen, Hanover, Germany"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q98809154"
 latitude: 52.39088
 longitude: 9.69983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/400px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/800px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/1200px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/1920px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/1920px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg---
 
 ## Overview
 

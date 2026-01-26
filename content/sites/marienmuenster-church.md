@@ -4,13 +4,13 @@ site_name: "Marienmünster church"
 date: 2026-01-26
 draft: false
 description: "church in Dießen, Bavaria"
-region: "Dießen am Ammersee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dießen am Ammersee"
+  - "Bavaria"
 wikidata_id: "Q1254306"
 latitude: 47.948192193
 longitude: 11.09732447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/400px-Dießen,_Marienmünster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/800px-Dießen,_Marienmünster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/1200px-Dießen,_Marienmünster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/1920px-Dießen,_Marienmünster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/1920px-Dießen,_Marienmünster.jpg---
 
 ## Overview
 

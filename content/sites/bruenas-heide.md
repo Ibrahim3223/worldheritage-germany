@@ -4,13 +4,13 @@ site_name: "Brünas Heide"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Esche"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Esche"
+  - "Lower Saxony"
 wikidata_id: "Q997007"
 latitude: 52.5331
 longitude: 6.95611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/400px-Brünas_Heide_Heidelandschaft_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/800px-Brünas_Heide_Heidelandschaft_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/1200px-Brünas_Heide_Heidelandschaft_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/1920px-Brünas_Heide_Heidelandschaft_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/1920px-Brünas_Heide_Heidelandschaft_2.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Schloß Höllinghofen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634347"
 latitude: 51.4653333
 longitude: 7.9085
 images:
-  []
----
+  []---
 
 ## Overview
 

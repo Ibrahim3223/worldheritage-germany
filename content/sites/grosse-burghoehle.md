@@ -4,13 +4,13 @@ site_name: "Große Burghöhle"
 date: 2026-01-26
 draft: false
 description: "cave"
-region: "Hemer"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Hemer"
+  - "Hesse"
 wikidata_id: "Q1357957"
 latitude: 51.3811
 longitude: 7.85249
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Große_Burghöhle_-_Eingang01.JPG/400px-Große_Burghöhle_-_Eingang01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Große_Burghöhle_-_Eingang01.JPG/800px-Große_Burghöhle_-_Eingang01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Große_Burghöhle_-_Eingang01.JPG/1200px-Große_Burghöhle_-_Eingang01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Große_Burghöhle_-_Eingang01.JPG/1920px-Große_Burghöhle_-_Eingang01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Große_Burghöhle_-_Eingang01.JPG/1920px-Große_Burghöhle_-_Eingang01.JPG---
 
 ## Overview
 

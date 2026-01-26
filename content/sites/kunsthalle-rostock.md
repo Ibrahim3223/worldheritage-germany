@@ -4,13 +4,13 @@ site_name: "Kunsthalle Rostock"
 date: 2026-01-26
 draft: false
 description: "museum of contemporary art in Rostock, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q202481"
 latitude: 54.0986
 longitude: 12.0878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/400px-Rostock_Kunsthalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/800px-Rostock_Kunsthalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/1200px-Rostock_Kunsthalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/1920px-Rostock_Kunsthalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/1920px-Rostock_Kunsthalle.jpg---
 
 ## Overview
 

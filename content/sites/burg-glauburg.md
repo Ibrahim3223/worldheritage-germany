@@ -4,13 +4,13 @@ site_name: "Burg Glauburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Glauberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Glauberg"
+  - "Bavaria"
 wikidata_id: "Q1011966"
 latitude: 50.3114
 longitude: 9.01472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/400px-Burggebaeude_Ruine.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/800px-Burggebaeude_Ruine.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/1200px-Burggebaeude_Ruine.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/1920px-Burggebaeude_Ruine.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/1920px-Burggebaeude_Ruine.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Neuenriet"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Altenriet"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Altenriet"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013270"
 latitude: 48.59926987
 longitude: 9.23484993
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/400px-Altenriet,_Andreas_Kieser.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/800px-Altenriet,_Andreas_Kieser.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/1200px-Altenriet,_Andreas_Kieser.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/1920px-Altenriet,_Andreas_Kieser.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/1920px-Altenriet,_Andreas_Kieser.png---
 
 ## Overview
 

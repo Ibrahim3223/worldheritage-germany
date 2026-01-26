@@ -4,13 +4,13 @@ site_name: "Carl-Duisberg-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "school in Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1036435"
 latitude: 51.2776
 longitude: 7.22117
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/400px-Carl-Duisberg-Gymnasium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/800px-Carl-Duisberg-Gymnasium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/1200px-Carl-Duisberg-Gymnasium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/1920px-Carl-Duisberg-Gymnasium.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/1920px-Carl-Duisberg-Gymnasium.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St Martin's Chapel"
 date: 2026-01-26
 draft: false
 description: "building in Furtwangen im Schwarzwald, Freiburg Government Region, Baden-Württemberg, Germany"
-region: "Furtwangen im Schwarzwald"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Furtwangen im Schwarzwald"
+  - "Baden-Württemberg"
 wikidata_id: "Q1905666"
 latitude: 48.0961
 longitude: 8.15558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/400px-Martinskapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/800px-Martinskapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/1200px-Martinskapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/1920px-Martinskapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/1920px-Martinskapelle.JPG---
 
 ## Overview
 

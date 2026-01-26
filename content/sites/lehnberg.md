@@ -4,13 +4,13 @@ site_name: "Lehnberg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Thuringia"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Thuringia"
+  - "Hesse"
 wikidata_id: "Q1392444"
 latitude: 50.889
 longitude: 10.1319
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/400px-WAK_FRNSEE_LEHNHAUS.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/800px-WAK_FRNSEE_LEHNHAUS.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/1200px-WAK_FRNSEE_LEHNHAUS.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/1920px-WAK_FRNSEE_LEHNHAUS.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/1920px-WAK_FRNSEE_LEHNHAUS.jpg---
 
 ## Overview
 

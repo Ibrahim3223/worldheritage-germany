@@ -4,13 +4,13 @@ site_name: "Synagogue of Gotha"
 date: 2026-01-26
 draft: false
 description: "demolished synagogue in Gotha, Germany"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q402557"
 latitude: 50.9514
 longitude: 10.7016
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/400px-GOTHA_SYNAGOGUE-1918.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/800px-GOTHA_SYNAGOGUE-1918.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/1200px-GOTHA_SYNAGOGUE-1918.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/1920px-GOTHA_SYNAGOGUE-1918.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/1920px-GOTHA_SYNAGOGUE-1918.jpg---
 
 ## Overview
 

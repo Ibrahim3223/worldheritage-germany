@@ -4,13 +4,13 @@ site_name: "Theater Waidspeicher"
 date: 2026-01-26
 draft: false
 description: "Theater in Deutschland"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1148658"
 latitude: 50.9769
 longitude: 11.0258
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/400px-Waidspeicher_q03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/800px-Waidspeicher_q03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/1200px-Waidspeicher_q03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/1920px-Waidspeicher_q03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/1920px-Waidspeicher_q03.jpg---
 
 ## Overview
 

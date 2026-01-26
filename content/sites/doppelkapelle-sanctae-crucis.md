@@ -4,13 +4,13 @@ site_name: "Doppelkapelle Sanctae Crucis"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Landsberg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Landsberg"
+  - "Brandenburg"
 wikidata_id: "Q1012827"
 latitude: 51.5256
 longitude: 12.164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Doppelkapelle_Landsberg9.jpg/400px-Doppelkapelle_Landsberg9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Doppelkapelle_Landsberg9.jpg/800px-Doppelkapelle_Landsberg9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Doppelkapelle_Landsberg9.jpg/1200px-Doppelkapelle_Landsberg9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Doppelkapelle_Landsberg9.jpg/1920px-Doppelkapelle_Landsberg9.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Doppelkapelle_Landsberg9.jpg/1920px-Doppelkapelle_Landsberg9.jpg---
 
 ## Overview
 

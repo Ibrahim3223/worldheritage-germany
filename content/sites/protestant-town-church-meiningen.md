@@ -4,13 +4,13 @@ site_name: "Protestant Town Church Meiningen"
 date: 2026-01-26
 draft: false
 description: "church building in Meiningen, Germany"
-region: "Meiningen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Meiningen"
+  - "Bavaria"
 wikidata_id: "Q2327360"
 latitude: 50.5674
 longitude: 10.4154
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stadtkirche_St._Marien_in_Meiningen,_2015.jpg/400px-Stadtkirche_St._Marien_in_Meiningen,_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stadtkirche_St._Marien_in_Meiningen,_2015.jpg/800px-Stadtkirche_St._Marien_in_Meiningen,_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stadtkirche_St._Marien_in_Meiningen,_2015.jpg/1200px-Stadtkirche_St._Marien_in_Meiningen,_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stadtkirche_St._Marien_in_Meiningen,_2015.jpg/1920px-Stadtkirche_St._Marien_in_Meiningen,_2015.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stadtkirche_St._Marien_in_Meiningen,_2015.jpg/1920px-Stadtkirche_St._Marien_in_Meiningen,_2015.jpg---
 
 ## Overview
 

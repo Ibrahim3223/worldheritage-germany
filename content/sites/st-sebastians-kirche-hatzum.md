@@ -4,13 +4,13 @@ site_name: "St.-Sebastians-Kirche (Hatzum)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q1478765"
 latitude: 53.308871
 longitude: 7.334292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/400px-ChurchHatzum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/800px-ChurchHatzum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/1200px-ChurchHatzum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/1920px-ChurchHatzum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/1920px-ChurchHatzum.jpg---
 
 ## Overview
 

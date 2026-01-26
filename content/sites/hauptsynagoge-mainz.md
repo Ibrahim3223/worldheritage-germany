@@ -4,13 +4,13 @@ site_name: "Hauptsynagoge Mainz"
 date: 2026-01-26
 draft: false
 description: "demolished synagogue in Mainz, Germany"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q1589765"
 latitude: 50.0087
 longitude: 8.25931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/400px-Hauptsynagoge_in_1912.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/800px-Hauptsynagoge_in_1912.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/1200px-Hauptsynagoge_in_1912.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/1920px-Hauptsynagoge_in_1912.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/1920px-Hauptsynagoge_in_1912.jpg---
 
 ## Overview
 

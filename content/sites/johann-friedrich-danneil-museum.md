@@ -4,13 +4,13 @@ site_name: "Johann-Friedrich-Danneil-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Salzwedel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Salzwedel"
+  - "Lower Saxony"
 wikidata_id: "Q1692137"
 latitude: 52.8491
 longitude: 11.1481
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/400px-Danneil.Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/800px-Danneil.Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/1200px-Danneil.Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/1920px-Danneil.Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/1920px-Danneil.Museum.jpg---
 
 ## Overview
 

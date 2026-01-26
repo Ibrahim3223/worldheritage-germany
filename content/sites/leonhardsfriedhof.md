@@ -4,13 +4,13 @@ site_name: "Leonhardsfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Schwäbisch Gmünd, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Schwäbisch Gmünd"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Schwäbisch Gmünd"
+  - "Baden-Württemberg"
 wikidata_id: "Q2320284"
 latitude: 48.803
 longitude: 9.80477
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/400px-Leonhard_Gmünd_Gräberfeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/800px-Leonhard_Gmünd_Gräberfeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/1200px-Leonhard_Gmünd_Gräberfeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/1920px-Leonhard_Gmünd_Gräberfeld.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/1920px-Leonhard_Gmünd_Gräberfeld.JPG---
 
 ## Overview
 

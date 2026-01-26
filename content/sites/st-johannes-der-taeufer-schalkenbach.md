@@ -4,13 +4,13 @@ site_name: "St. Johannes der Täufer (Schalkenbach)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Schalkenbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Schalkenbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1296544"
 latitude: 50.494
 longitude: 7.1493
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schalkenbach_Kapelle_St.Johannes880.JPG/400px-Schalkenbach_Kapelle_St.Johannes880.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schalkenbach_Kapelle_St.Johannes880.JPG/800px-Schalkenbach_Kapelle_St.Johannes880.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schalkenbach_Kapelle_St.Johannes880.JPG/1200px-Schalkenbach_Kapelle_St.Johannes880.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schalkenbach_Kapelle_St.Johannes880.JPG/1920px-Schalkenbach_Kapelle_St.Johannes880.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schalkenbach_Kapelle_St.Johannes880.JPG/1920px-Schalkenbach_Kapelle_St.Johannes880.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Dominicus"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Neukölln"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neukölln"
+  - "Berlin"
 wikidata_id: "Q14537880"
 latitude: 52.4243
 longitude: 13.4628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/St._Dominicus_(Gropiusstadt).JPG/400px-St._Dominicus_(Gropiusstadt).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/St._Dominicus_(Gropiusstadt).JPG/800px-St._Dominicus_(Gropiusstadt).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/St._Dominicus_(Gropiusstadt).JPG/1200px-St._Dominicus_(Gropiusstadt).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/St._Dominicus_(Gropiusstadt).JPG/1920px-St._Dominicus_(Gropiusstadt).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/St._Dominicus_(Gropiusstadt).JPG/1920px-St._Dominicus_(Gropiusstadt).JPG---
 
 ## Overview
 

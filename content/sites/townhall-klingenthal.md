@@ -4,13 +4,13 @@ site_name: "townhall Klingenthal"
 date: 2026-01-26
 draft: false
 description: "heritage building in Klingenthal, Saxony, Germany"
-region: "Klingenthal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Klingenthal"
+  - "Bavaria"
 wikidata_id: "Q49518153"
 latitude: 50.358252
 longitude: 12.467843
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klingenthal,_Stadthaus.jpg/400px-Klingenthal,_Stadthaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klingenthal,_Stadthaus.jpg/800px-Klingenthal,_Stadthaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klingenthal,_Stadthaus.jpg/1200px-Klingenthal,_Stadthaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klingenthal,_Stadthaus.jpg/1920px-Klingenthal,_Stadthaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klingenthal,_Stadthaus.jpg/1920px-Klingenthal,_Stadthaus.jpg---
 
 ## Overview
 

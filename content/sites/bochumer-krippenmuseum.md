@@ -4,19 +4,18 @@ site_name: "Bochumer Krippenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q15107813"
 latitude: 51.43273
 longitude: 7.138265
 images:
-  []
----
+  []---
 
 ## Overview
 

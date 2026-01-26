@@ -4,13 +4,13 @@ site_name: "Schnitterinbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2248057"
 latitude: 48.1393
 longitude: 11.589
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg/400px-Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg/800px-Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg/1200px-Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg/1920px-Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg/1920px-Schnitterinbrunnen_Thierschplatz_Muenchen-1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Diözesanmuseum mit Domschatzkammer und Staurothek"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634010"
 latitude: 50.388869
 longitude: 8.064096
 images:
-  []
----
+  []---
 
 ## Overview
 

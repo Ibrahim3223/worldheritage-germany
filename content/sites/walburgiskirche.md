@@ -4,13 +4,13 @@ site_name: "Walburgiskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ostercappeln"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ostercappeln"
+  - "Lower Saxony"
 wikidata_id: "Q1290759"
 latitude: 52.3853
 longitude: 8.16819
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/400px-Walburgiskirche_(Venne).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/800px-Walburgiskirche_(Venne).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/1200px-Walburgiskirche_(Venne).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/1920px-Walburgiskirche_(Venne).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/1920px-Walburgiskirche_(Venne).jpg---
 
 ## Overview
 

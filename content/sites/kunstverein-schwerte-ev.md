@@ -4,19 +4,18 @@ site_name: "Kunstverein Schwerte e.V."
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schwerte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwerte"
+  - "Lower Saxony"
 wikidata_id: "Q55400307"
 latitude: 51.4390641
 longitude: 7.5693823
 images:
-  []
----
+  []---
 
 ## Overview
 

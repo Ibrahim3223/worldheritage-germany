@@ -4,19 +4,18 @@ site_name: "Wolfgang-Köhler-Primaten-Forschungszentrum"
 date: 2026-01-26
 draft: false
 description: "deutsches Forschungszentrum"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2589027"
 latitude: 51.3532
 longitude: 12.3656
 images:
-  []
----
+  []---
 
 ## Overview
 

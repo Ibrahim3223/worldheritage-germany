@@ -4,13 +4,13 @@ site_name: "Schill-Denkmal"
 date: 2026-01-26
 draft: false
 description: "memorial in Stralsund, Germany"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15844317"
 latitude: 54.318611111
 longitude: 13.088333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schill_Statue.JPG/400px-Schill_Statue.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schill_Statue.JPG/800px-Schill_Statue.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schill_Statue.JPG/1200px-Schill_Statue.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schill_Statue.JPG/1920px-Schill_Statue.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schill_Statue.JPG/1920px-Schill_Statue.JPG---
 
 ## Overview
 

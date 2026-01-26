@@ -4,13 +4,13 @@ site_name: "Sichtungsgarten Weihenstephan"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Freising, Germany"
-region: "District of Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "District of Freising"
+  - "Bavaria"
 wikidata_id: "Q824193"
 latitude: 48.400755555
 longitude: 11.728991666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sichtungsgarten-weihenstephan-01.jpg/400px-Sichtungsgarten-weihenstephan-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sichtungsgarten-weihenstephan-01.jpg/800px-Sichtungsgarten-weihenstephan-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sichtungsgarten-weihenstephan-01.jpg/1200px-Sichtungsgarten-weihenstephan-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sichtungsgarten-weihenstephan-01.jpg/1920px-Sichtungsgarten-weihenstephan-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sichtungsgarten-weihenstephan-01.jpg/1920px-Sichtungsgarten-weihenstephan-01.jpg---
 
 ## Overview
 

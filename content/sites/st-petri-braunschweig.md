@@ -4,13 +4,13 @@ site_name: "St. Petri (Braunschweig)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q1168226"
 latitude: 52.266119
 longitude: 10.515908
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/400px-BS_Petrikirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/800px-BS_Petrikirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/1200px-BS_Petrikirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/1920px-BS_Petrikirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/1920px-BS_Petrikirche.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Trinitatiskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Neuendorf bei Elmshorn, Schleswig-Holstein, Germany"
-region: "Neuendorf bei Elmshorn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neuendorf bei Elmshorn"
+  - "Lower Saxony"
 wikidata_id: "Q1739901"
 latitude: 53.7369
 longitude: 9.57006
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/400px-Neuendorf_Kirche_1S.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/800px-Neuendorf_Kirche_1S.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/1200px-Neuendorf_Kirche_1S.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/1920px-Neuendorf_Kirche_1S.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/1920px-Neuendorf_Kirche_1S.jpg---
 
 ## Overview
 

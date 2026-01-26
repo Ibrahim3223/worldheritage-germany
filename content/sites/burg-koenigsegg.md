@@ -4,13 +4,13 @@ site_name: "Burg Königsegg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Guggenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Guggenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012776"
 latitude: 47.925
 longitude: 9.45613
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/400px-Burg_Königsegg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/800px-Burg_Königsegg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1200px-Burg_Königsegg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1920px-Burg_Königsegg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1920px-Burg_Königsegg.jpg---
 
 ## Overview
 

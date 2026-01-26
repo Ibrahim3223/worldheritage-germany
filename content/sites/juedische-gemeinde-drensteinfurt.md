@@ -4,19 +4,18 @@ site_name: "Jüdische Gemeinde Drensteinfurt"
 date: 2026-01-26
 draft: false
 description: "deutsche Organisation"
-region: "Drensteinfurt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Drensteinfurt"
+  - "Lower Saxony"
 wikidata_id: "Q1715811"
 latitude: 51.7977
 longitude: 7.74262
 images:
-  []
----
+  []---
 
 ## Overview
 

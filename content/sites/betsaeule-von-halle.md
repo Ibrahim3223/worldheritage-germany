@@ -4,13 +4,13 @@ site_name: "Betsäule von Halle"
 date: 2026-01-26
 draft: false
 description: "monument in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q832271"
 latitude: 51.4874
 longitude: 11.9689
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/400px-Halle_Betsaeule2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/800px-Halle_Betsaeule2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/1200px-Halle_Betsaeule2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/1920px-Halle_Betsaeule2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/1920px-Halle_Betsaeule2.jpg---
 
 ## Overview
 

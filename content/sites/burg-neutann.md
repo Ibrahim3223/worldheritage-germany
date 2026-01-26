@@ -4,19 +4,18 @@ site_name: "Burg Neutann"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wolfegg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wolfegg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013300"
 latitude: 47.835967
 longitude: 9.780844
 images:
-  []
----
+  []---
 
 ## Overview
 

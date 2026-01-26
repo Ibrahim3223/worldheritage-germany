@@ -4,13 +4,13 @@ site_name: "Englischer Garten"
 date: 2026-01-26
 draft: false
 description: "a large public park in the centre of Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q260223"
 latitude: 48.152777777
 longitude: 11.591944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/400px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/800px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg---
 
 ## Overview
 

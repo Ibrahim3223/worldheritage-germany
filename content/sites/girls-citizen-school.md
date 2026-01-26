@@ -4,13 +4,13 @@ site_name: "Girls Citizen School"
 date: 2026-01-26
 draft: false
 description: "museum, former school"
-region: "Schleswig-Holstein"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schleswig-Holstein"
+  - "Lower Saxony"
 wikidata_id: "Q1586468"
 latitude: 53.6821
 longitude: 9.65583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/400px-Uetersen_Kirchenstr_7.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/800px-Uetersen_Kirchenstr_7.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/1200px-Uetersen_Kirchenstr_7.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/1920px-Uetersen_Kirchenstr_7.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/1920px-Uetersen_Kirchenstr_7.jpg---
 
 ## Overview
 

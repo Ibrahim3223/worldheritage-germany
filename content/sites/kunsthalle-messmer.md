@@ -4,13 +4,13 @@ site_name: "Kunsthalle Messmer"
 date: 2026-01-26
 draft: false
 description: "museum in Baden-Württemberg, Germany"
-region: "Riegel am Kaiserstuhl"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Riegel am Kaiserstuhl"
+  - "Baden-Württemberg"
 wikidata_id: "Q15824603"
 latitude: 48.14852
 longitude: 7.753811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/400px-Kunsthalle_messmer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/800px-Kunsthalle_messmer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/1200px-Kunsthalle_messmer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/1920px-Kunsthalle_messmer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/1920px-Kunsthalle_messmer.jpg---
 
 ## Overview
 

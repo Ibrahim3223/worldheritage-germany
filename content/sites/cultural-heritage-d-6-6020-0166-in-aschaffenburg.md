@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6020-0166 in Aschaffenburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Aschaffenburg, Lower Franconia, Bavaria, Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q98160425"
 latitude: 49.973798612
 longitude: 9.143998516
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "ZF-Arena Friedrichshafen"
 date: 2026-01-26
 draft: false
 description: "multi purpose arena in Friedrichshafen"
-region: "Friedrichshafen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Friedrichshafen"
+  - "Baden-Württemberg"
 wikidata_id: "Q136076"
 latitude: 47.663801
 longitude: 9.478717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ZF_Arena_Friedrichshafen.jpg/400px-ZF_Arena_Friedrichshafen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ZF_Arena_Friedrichshafen.jpg/800px-ZF_Arena_Friedrichshafen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ZF_Arena_Friedrichshafen.jpg/1200px-ZF_Arena_Friedrichshafen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ZF_Arena_Friedrichshafen.jpg/1920px-ZF_Arena_Friedrichshafen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ZF_Arena_Friedrichshafen.jpg/1920px-ZF_Arena_Friedrichshafen.jpg---
 
 ## Overview
 

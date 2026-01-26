@@ -4,13 +4,13 @@ site_name: "Winterpalais (Gotha)"
 date: 2026-01-26
 draft: false
 description: "demolished palace in Gotha, Thuringia, Germany"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2585063"
 latitude: 50.9478
 longitude: 10.7092
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Winterpalais_Gotha_2006.jpg/400px-Winterpalais_Gotha_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Winterpalais_Gotha_2006.jpg/800px-Winterpalais_Gotha_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Winterpalais_Gotha_2006.jpg/1200px-Winterpalais_Gotha_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Winterpalais_Gotha_2006.jpg/1920px-Winterpalais_Gotha_2006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Winterpalais_Gotha_2006.jpg/1920px-Winterpalais_Gotha_2006.jpg---
 
 ## Overview
 

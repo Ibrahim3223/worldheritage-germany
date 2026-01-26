@@ -4,13 +4,13 @@ site_name: "St. Georg, Aplerbeck"
 date: 2026-01-26
 draft: false
 description: "Protestant Romanesque church"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1254586"
 latitude: 51.4935
 longitude: 7.56158
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/400px-Aplerbeck_Kirche_St_Georg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/800px-Aplerbeck_Kirche_St_Georg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/1200px-Aplerbeck_Kirche_St_Georg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/1920px-Aplerbeck_Kirche_St_Georg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/1920px-Aplerbeck_Kirche_St_Georg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Haus Merfeld"
 date: 2026-01-26
 draft: false
 description: "manor house in Dülmen, Germany"
-region: "Dülmen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Dülmen"
+  - "Lower Saxony"
 wikidata_id: "Q1113986"
 latitude: 51.852
 longitude: 7.21067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/400px-Dülmen_Haus_Merfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/800px-Dülmen_Haus_Merfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/1200px-Dülmen_Haus_Merfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/1920px-Dülmen_Haus_Merfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/1920px-Dülmen_Haus_Merfeld.jpg---
 
 ## Overview
 

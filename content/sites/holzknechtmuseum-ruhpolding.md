@@ -4,13 +4,13 @@ site_name: "Holzknechtmuseum Ruhpolding"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ruhpolding"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ruhpolding"
+  - "Bavaria"
 wikidata_id: "Q264941"
 latitude: 47.7241
 longitude: 12.6585
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/400px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/800px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/1200px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/1920px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/1920px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg---
 
 ## Overview
 

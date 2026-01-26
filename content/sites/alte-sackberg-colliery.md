@@ -4,19 +4,18 @@ site_name: "Alte Sackberg Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169635"
 latitude: 51.4212
 longitude: 7.12671
 images:
-  []
----
+  []---
 
 ## Overview 
 

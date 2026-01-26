@@ -4,13 +4,13 @@ site_name: "Anholter Schweiz"
 date: 2026-01-26
 draft: false
 description: "park and zoo in Anholt, Germany"
-region: "Isselburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Isselburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q545428"
 latitude: 51.8345
 longitude: 6.42997
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/400px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/800px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/1200px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/1920px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/1920px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg---
 
 ## Overview
 

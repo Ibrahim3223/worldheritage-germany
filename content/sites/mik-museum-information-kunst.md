@@ -4,13 +4,13 @@ site_name: "MIK Museum Information Kunst"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q14540765"
 latitude: 48.8963
 longitude: 9.1927
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/400px-MIK_Ludwigsburg_2013-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/800px-MIK_Ludwigsburg_2013-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/1200px-MIK_Ludwigsburg_2013-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/1920px-MIK_Ludwigsburg_2013-05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/1920px-MIK_Ludwigsburg_2013-05.jpg---
 
 ## Overview
 

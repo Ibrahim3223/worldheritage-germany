@@ -4,13 +4,13 @@ site_name: "Tapetenwerk"
 date: 2026-01-26
 draft: false
 description: "building in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2393609"
 latitude: 51.333896
 longitude: 12.325933
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/400px-Tapetenwerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/800px-Tapetenwerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/1200px-Tapetenwerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/1920px-Tapetenwerk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/1920px-Tapetenwerk.jpg---
 
 ## Overview
 

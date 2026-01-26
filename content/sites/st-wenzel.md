@@ -4,13 +4,13 @@ site_name: "St. Wenzel"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2323720"
 latitude: 51.5254
 longitude: 11.9081
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/400px-LettinKirche2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/800px-LettinKirche2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/1200px-LettinKirche2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/1920px-LettinKirche2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/1920px-LettinKirche2.JPG---
 
 ## Overview
 

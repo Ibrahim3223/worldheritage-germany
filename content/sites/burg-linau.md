@@ -4,13 +4,13 @@ site_name: "Burg Linau"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Linau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Linau"
+  - "Lower Saxony"
 wikidata_id: "Q1012972"
 latitude: 53.6461
 longitude: 10.4679
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RK_0704_00487_Burg_Linau.jpg/400px-RK_0704_00487_Burg_Linau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RK_0704_00487_Burg_Linau.jpg/800px-RK_0704_00487_Burg_Linau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RK_0704_00487_Burg_Linau.jpg/1200px-RK_0704_00487_Burg_Linau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RK_0704_00487_Burg_Linau.jpg/1920px-RK_0704_00487_Burg_Linau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RK_0704_00487_Burg_Linau.jpg/1920px-RK_0704_00487_Burg_Linau.jpg---
 
 ## Overview
 

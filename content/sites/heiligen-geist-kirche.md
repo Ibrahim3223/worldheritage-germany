@@ -4,13 +4,13 @@ site_name: "Heiligen-Geist-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wismar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wismar"
+  - "Lower Saxony"
 wikidata_id: "Q1595126"
 latitude: 53.8919
 longitude: 11.4614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/400px-Wismar-HeiligenGeistKirche1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/800px-Wismar-HeiligenGeistKirche1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1200px-Wismar-HeiligenGeistKirche1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1920px-Wismar-HeiligenGeistKirche1-Bubo.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1920px-Wismar-HeiligenGeistKirche1-Bubo.JPG---
 
 ## Overview
 

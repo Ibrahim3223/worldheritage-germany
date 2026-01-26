@@ -4,19 +4,18 @@ site_name: "Historisches Museum Hanau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hanau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanau"
+  - "Hesse"
 wikidata_id: "Q1620998"
 latitude: 50.1274
 longitude: 8.89242
 images:
-  []
----
+  []---
 
 ## Overview
 

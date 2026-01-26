@@ -4,13 +4,13 @@ site_name: "City Church Waltershausen"
 date: 2026-01-26
 draft: false
 description: "church building in Waltershausen, Germany"
-region: "Waltershausen"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Waltershausen"
+  - "Thuringia"
 wikidata_id: "Q1710826"
 latitude: 50.8981
 longitude: 10.5558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/400px-Stadtkirche_waltershausen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/800px-Stadtkirche_waltershausen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/1200px-Stadtkirche_waltershausen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/1920px-Stadtkirche_waltershausen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/1920px-Stadtkirche_waltershausen.JPG---
 
 ## Overview
 

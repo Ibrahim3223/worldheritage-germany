@@ -4,13 +4,13 @@ site_name: "Johanniskirche (Malchin)"
 date: 2026-01-26
 draft: false
 description: "church building in Malchin, Germany"
-region: "Malchin"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Malchin"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2319488"
 latitude: 53.7391
 longitude: 12.7614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/400px-Kirche_Malchin_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/800px-Kirche_Malchin_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/1200px-Kirche_Malchin_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/1920px-Kirche_Malchin_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/1920px-Kirche_Malchin_03.jpg---
 
 ## Overview
 

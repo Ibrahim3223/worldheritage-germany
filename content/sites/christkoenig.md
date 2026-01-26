@@ -4,13 +4,13 @@ site_name: "Christkönig"
 date: 2026-01-26
 draft: false
 description: "church building in Saarlouis, Germany"
-region: "Saarlouis"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Saarlouis"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q11722183"
 latitude: 49.3275
 longitude: 6.74882
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Roden_Christkönig_02.JPG/400px-Roden_Christkönig_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Roden_Christkönig_02.JPG/800px-Roden_Christkönig_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Roden_Christkönig_02.JPG/1200px-Roden_Christkönig_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Roden_Christkönig_02.JPG/1920px-Roden_Christkönig_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Roden_Christkönig_02.JPG/1920px-Roden_Christkönig_02.JPG---
 
 ## Overview
 

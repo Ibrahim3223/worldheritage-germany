@@ -4,19 +4,18 @@ site_name: "Graduate School Lübeck"
 date: 2026-01-26
 draft: false
 description: "Hochschule in Lübeck"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q5592027"
 latitude: 53.836944
 longitude: 10.705833
 images:
-  []
----
+  []---
 
 ## Overview
 

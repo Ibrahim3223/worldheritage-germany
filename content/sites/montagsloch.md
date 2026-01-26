@@ -4,13 +4,13 @@ site_name: "Montagsloch"
 date: 2026-01-26
 draft: false
 description: "memorial in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1945535"
 latitude: 51.4246
 longitude: 6.99481
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/400px-Montagsloch_Essen,_Grugapark_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/800px-Montagsloch_Essen,_Grugapark_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/1200px-Montagsloch_Essen,_Grugapark_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/1920px-Montagsloch_Essen,_Grugapark_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/1920px-Montagsloch_Essen,_Grugapark_02.JPG---
 
 ## Overview
 

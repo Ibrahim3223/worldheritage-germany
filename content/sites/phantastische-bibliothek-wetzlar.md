@@ -4,13 +4,13 @@ site_name: "Phantastische Bibliothek Wetzlar"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Wetzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Wetzlar"
+  - "Hesse"
 wikidata_id: "Q2084846"
 latitude: 50.5529
 longitude: 8.50492
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/400px-Phantastische_Bibliothek_Wetzlar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/800px-Phantastische_Bibliothek_Wetzlar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/1200px-Phantastische_Bibliothek_Wetzlar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/1920px-Phantastische_Bibliothek_Wetzlar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/1920px-Phantastische_Bibliothek_Wetzlar.jpg---
 
 ## Overview
 

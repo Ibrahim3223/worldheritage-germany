@@ -4,13 +4,13 @@ site_name: "Jan Wellem memorial"
 date: 2026-01-26
 draft: false
 description: "monument in Mülheim, Germany"
-region: "Mülheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Mülheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1330344"
 latitude: 50.9584
 longitude: 7.0065
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/400px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/800px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/1200px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/1920px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/1920px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG---
 
 ## Overview
 

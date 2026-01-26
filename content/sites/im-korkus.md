@@ -4,19 +4,18 @@ site_name: "Im Korkus"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Eschweiler, Germany"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q998688"
 latitude: 50.799
 longitude: 6.29635
 images:
-  []
----
+  []---
 
 ## Overview
 

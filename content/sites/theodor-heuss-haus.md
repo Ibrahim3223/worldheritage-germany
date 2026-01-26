@@ -4,13 +4,13 @@ site_name: "Theodor-Heuss-Haus"
 date: 2026-01-26
 draft: false
 description: "Museum in Stuttgart"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1770126"
 latitude: 48.7939
 longitude: 9.16778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Heuss-haus1.jpg/400px-Heuss-haus1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Heuss-haus1.jpg/800px-Heuss-haus1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Heuss-haus1.jpg/1200px-Heuss-haus1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Heuss-haus1.jpg/1920px-Heuss-haus1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Heuss-haus1.jpg/1920px-Heuss-haus1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Propsteikirche, Dortmund"
 date: 2026-01-26
 draft: false
 description: "Catholic Gothic former abbey church in Dortmund"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1438534"
 latitude: 51.513611111
 longitude: 7.462777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/400px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/800px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/1200px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/1920px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/1920px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg---
 
 ## Overview
 

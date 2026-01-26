@@ -4,13 +4,13 @@ site_name: "Liboriuskapelle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Salzkotten"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Salzkotten"
+  - "Hesse"
 wikidata_id: "Q1288721"
 latitude: 51.6677
 longitude: 8.61083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/400px-Salzkotten_Liborius-Kapelle14907.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/800px-Salzkotten_Liborius-Kapelle14907.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/1200px-Salzkotten_Liborius-Kapelle14907.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/1920px-Salzkotten_Liborius-Kapelle14907.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/1920px-Salzkotten_Liborius-Kapelle14907.jpg---
 
 ## Overview
 

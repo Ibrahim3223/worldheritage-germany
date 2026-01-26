@@ -4,13 +4,13 @@ site_name: "Dreieinigkeitskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Zeulenroda, Germany"
-region: "Zeulenroda-Triebes"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zeulenroda-Triebes"
+  - "Saxony"
 wikidata_id: "Q1257531"
 latitude: 50.6472
 longitude: 11.9814
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/400px-Dreieinigkeitskirche_Zeulenronda.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/800px-Dreieinigkeitskirche_Zeulenronda.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/1200px-Dreieinigkeitskirche_Zeulenronda.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/1920px-Dreieinigkeitskirche_Zeulenronda.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/1920px-Dreieinigkeitskirche_Zeulenronda.JPG---
 
 ## Overview
 

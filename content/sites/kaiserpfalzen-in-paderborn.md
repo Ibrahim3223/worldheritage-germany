@@ -4,13 +4,13 @@ site_name: "Kaiserpfalzen in Paderborn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Paderborn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Paderborn"
+  - "Lower Saxony"
 wikidata_id: "Q1954725"
 latitude: 51.7194
 longitude: 8.75528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/400px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/800px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/1200px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/1920px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/1920px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg---
 
 ## Overview
 

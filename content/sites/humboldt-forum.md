@@ -4,13 +4,13 @@ site_name: "Humboldt Forum"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q20196262"
 latitude: 52.5175
 longitude: 13.40277778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Berlin_2024_241.jpg/400px-At_Berlin_2024_241.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Berlin_2024_241.jpg/800px-At_Berlin_2024_241.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Berlin_2024_241.jpg/1200px-At_Berlin_2024_241.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Berlin_2024_241.jpg/1920px-At_Berlin_2024_241.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Berlin_2024_241.jpg/1920px-At_Berlin_2024_241.jpg---
 
 ## Overview
 

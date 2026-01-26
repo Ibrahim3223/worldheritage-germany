@@ -4,19 +4,18 @@ site_name: "Internationale Spitzensammlung Nordhalben"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76628857"
 latitude: 50.375303
 longitude: 11.513554
 images:
-  []
----
+  []---
 
 ## Overview
 

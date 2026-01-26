@@ -4,13 +4,13 @@ site_name: "Burg Neuhaus (Eltville)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kiedrich"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kiedrich"
+  - "Hesse"
 wikidata_id: "Q1013278"
 latitude: 50.0556
 longitude: 8.08639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/400px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/800px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/1200px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/1920px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/1920px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG---
 
 ## Overview
 

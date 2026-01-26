@@ -4,13 +4,13 @@ site_name: "Karl May Museum Radebeul"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1730113"
 latitude: 51.1027
 longitude: 13.6735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/400px-Villa_Shatterhand-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/800px-Villa_Shatterhand-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/1200px-Villa_Shatterhand-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/1920px-Villa_Shatterhand-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/1920px-Villa_Shatterhand-2.jpg---
 
 ## Overview
 

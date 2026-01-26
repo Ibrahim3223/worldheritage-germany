@@ -4,13 +4,13 @@ site_name: "ZOOM Erlebniswelt"
 date: 2026-01-26
 draft: false
 description: "zoological garden in Gelsenkirchen, in Germany"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q136330"
 latitude: 51.5441
 longitude: 7.11094
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/400px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/800px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1200px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1920px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg/1920px-Gelsenkirchen_-_Zoom_-_Afrika_-_African_Queen_06_ies.jpg---
 
 ## Overview
 

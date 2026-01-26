@@ -4,13 +4,13 @@ site_name: "Nordfriesland Museum Husum"
 date: 2026-01-26
 draft: false
 description: "museum in Husum, North Frisia"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1998605"
 latitude: 54.47521
 longitude: 9.05606
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Husum-NordseeMuseum_Nissenhaus.jpg/400px-Husum-NordseeMuseum_Nissenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Husum-NordseeMuseum_Nissenhaus.jpg/800px-Husum-NordseeMuseum_Nissenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Husum-NordseeMuseum_Nissenhaus.jpg/1200px-Husum-NordseeMuseum_Nissenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Husum-NordseeMuseum_Nissenhaus.jpg/1920px-Husum-NordseeMuseum_Nissenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Husum-NordseeMuseum_Nissenhaus.jpg/1920px-Husum-NordseeMuseum_Nissenhaus.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St Catherine's church Elsterwerda"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Elsterwerda"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Elsterwerda"
+  - "Brandenburg"
 wikidata_id: "Q2319839"
 latitude: 51.45665
 longitude: 13.523936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/400px-St.Katharina_Elsterwerda1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/800px-St.Katharina_Elsterwerda1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/1200px-St.Katharina_Elsterwerda1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/1920px-St.Katharina_Elsterwerda1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/1920px-St.Katharina_Elsterwerda1.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Burgthann"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Burgthann"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Burgthann"
+  - "Bavaria"
 wikidata_id: "Q28729540"
 latitude: 49.35169
 longitude: 11.31096
 images:
-  []
----
+  []---
 
 ## Overview
 

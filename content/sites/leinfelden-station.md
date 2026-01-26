@@ -4,13 +4,13 @@ site_name: "Leinfelden station"
 date: 2026-01-26
 draft: false
 description: "railway station in Leinfelden-Echterdingen, Germany"
-region: "Leinfelden-Echterdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Leinfelden-Echterdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q195824"
 latitude: 48.6964
 longitude: 9.1425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bahnhof_Leinfelden.jpg/400px-Bahnhof_Leinfelden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bahnhof_Leinfelden.jpg/800px-Bahnhof_Leinfelden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bahnhof_Leinfelden.jpg/1200px-Bahnhof_Leinfelden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bahnhof_Leinfelden.jpg/1920px-Bahnhof_Leinfelden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bahnhof_Leinfelden.jpg/1920px-Bahnhof_Leinfelden.jpg---
 
 ## Overview
 

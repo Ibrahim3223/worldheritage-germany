@@ -4,13 +4,13 @@ site_name: "Bahnhof Heilbronn-Sontheim"
 date: 2026-01-26
 draft: false
 description: "railway station in Heilbronn, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q202966"
 latitude: 49.1225
 longitude: 9.196666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bhf_Heilbronn-Sontheim_2.jpg/400px-Bhf_Heilbronn-Sontheim_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bhf_Heilbronn-Sontheim_2.jpg/800px-Bhf_Heilbronn-Sontheim_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bhf_Heilbronn-Sontheim_2.jpg/1200px-Bhf_Heilbronn-Sontheim_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bhf_Heilbronn-Sontheim_2.jpg/1920px-Bhf_Heilbronn-Sontheim_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bhf_Heilbronn-Sontheim_2.jpg/1920px-Bhf_Heilbronn-Sontheim_2.jpg---
 
 ## Overview
 

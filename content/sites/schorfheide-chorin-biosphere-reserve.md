@@ -4,13 +4,13 @@ site_name: "Schorfheide-Chorin Biosphere Reserve"
 date: 2026-01-26
 draft: false
 description: "biosphere reserve in Brandenburg, Germany"
-region: "Marienwerder"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Biosphere Reserve"
 categories:
   - "Biosphere Reserve"
 regions:
-  - "Marienwerder"
+  - "Brandenburg"
 wikidata_id: "Q314279"
 latitude: 53.0
 longitude: 13.4
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Plagefenn-wp-001.jpg/400px-Plagefenn-wp-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Plagefenn-wp-001.jpg/800px-Plagefenn-wp-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Plagefenn-wp-001.jpg/1200px-Plagefenn-wp-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Plagefenn-wp-001.jpg/1920px-Plagefenn-wp-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Plagefenn-wp-001.jpg/1920px-Plagefenn-wp-001.jpg---
 
 ## Overview
 

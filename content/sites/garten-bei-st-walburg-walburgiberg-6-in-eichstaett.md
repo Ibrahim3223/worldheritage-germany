@@ -4,19 +4,18 @@ site_name: "Garten Bei St. Walburg; Walburgiberg 6 in Eichstätt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-76-123-252 (3) in Eichstätt, Bavaria"
-region: "Q252772"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Q252772"
+  - "Bavaria"
 wikidata_id: "Q98743040"
 latitude: 48.89619765
 longitude: 11.183886183
 images:
-  []
----
+  []---
 
 ## Overview
 

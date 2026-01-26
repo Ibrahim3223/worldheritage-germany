@@ -4,13 +4,13 @@ site_name: "Xantener Knabe"
 date: 2026-01-26
 draft: false
 description: "roman bronze statue at Neues Museum, Berlin, Germany"
-region: "Xanten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Xanten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1880469"
 latitude: 51.675
 longitude: 6.45915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/400px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/800px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/1200px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/1920px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/1920px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg---
 
 ## Overview
 

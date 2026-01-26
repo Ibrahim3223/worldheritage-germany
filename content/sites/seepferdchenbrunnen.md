@@ -4,13 +4,13 @@ site_name: "Seepferdchenbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2265482"
 latitude: 50.7608
 longitude: 6.09306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/400px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/800px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/1200px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/1920px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/1920px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg---
 
 ## Overview
 

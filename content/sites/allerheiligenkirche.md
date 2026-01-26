@@ -4,13 +4,13 @@ site_name: "Allerheiligenkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q15009786"
 latitude: 52.58449
 longitude: 13.30106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/400px-Allerheiligen_(Borsigwalde).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/800px-Allerheiligen_(Borsigwalde).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/1200px-Allerheiligen_(Borsigwalde).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/1920px-Allerheiligen_(Borsigwalde).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/1920px-Allerheiligen_(Borsigwalde).JPG---
 
 ## Overview
 

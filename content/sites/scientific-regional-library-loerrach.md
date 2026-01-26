@@ -4,13 +4,13 @@ site_name: "Scientific regional library Lörrach"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Lörrach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Lörrach"
+  - "Baden-Württemberg"
 wikidata_id: "Q2586228"
 latitude: 47.60900578
 longitude: 7.6580447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/400px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/800px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/1200px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/1920px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/1920px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg---
 
 ## Overview
 

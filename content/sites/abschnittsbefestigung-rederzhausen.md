@@ -4,19 +4,18 @@ site_name: "Abschnittsbefestigung Rederzhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q332108"
 latitude: 48.3228
 longitude: 11.0042
 images:
-  []
----
+  []---
 
 ## Overview
 

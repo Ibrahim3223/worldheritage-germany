@@ -4,13 +4,13 @@ site_name: "Kapelle St. Magdalena"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Dietersdorf"
-region: "Schweitenkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Schweitenkirchen"
+  - "Bavaria"
 wikidata_id: "Q1686051"
 latitude: 48.490043679
 longitude: 11.61906938
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/400px-Katholische_Kapelle_(Dietersdorf)_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/800px-Katholische_Kapelle_(Dietersdorf)_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/1200px-Katholische_Kapelle_(Dietersdorf)_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/1920px-Katholische_Kapelle_(Dietersdorf)_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/1920px-Katholische_Kapelle_(Dietersdorf)_03.jpg---
 
 ## Overview
 

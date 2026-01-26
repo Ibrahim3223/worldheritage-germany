@@ -4,13 +4,13 @@ site_name: "St. Paul in Passau"
 date: 2026-01-26
 draft: false
 description: "church in Passau"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q1306062"
 latitude: 48.5755
 longitude: 13.4626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/400px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/800px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/1200px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/1920px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/1920px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg---
 
 ## Overview
 

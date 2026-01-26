@@ -4,13 +4,13 @@ site_name: "Ehrenmal für die Gefallenen des Ersten Weltkrieges"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Zella-Mehlis"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Zella-Mehlis"
+  - "Thuringia"
 wikidata_id: "Q1300222"
 latitude: 50.659374
 longitude: 10.665134
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ehrenmal_Zella-Mehlis_2.JPG/400px-Ehrenmal_Zella-Mehlis_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ehrenmal_Zella-Mehlis_2.JPG/800px-Ehrenmal_Zella-Mehlis_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ehrenmal_Zella-Mehlis_2.JPG/1200px-Ehrenmal_Zella-Mehlis_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ehrenmal_Zella-Mehlis_2.JPG/1920px-Ehrenmal_Zella-Mehlis_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ehrenmal_Zella-Mehlis_2.JPG/1920px-Ehrenmal_Zella-Mehlis_2.JPG---
 
 ## Overview
 

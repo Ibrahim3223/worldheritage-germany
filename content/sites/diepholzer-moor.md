@@ -4,13 +4,13 @@ site_name: "Diepholzer Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Diepholz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Diepholz"
+  - "Lower Saxony"
 wikidata_id: "Q1221186"
 latitude: 52.6083
 longitude: 8.31871
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/400px-Wollgräser_des_Diepholzer_Moors.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/800px-Wollgräser_des_Diepholzer_Moors.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/1200px-Wollgräser_des_Diepholzer_Moors.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/1920px-Wollgräser_des_Diepholzer_Moors.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/1920px-Wollgräser_des_Diepholzer_Moors.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Weltenburg Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Q494305"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Q494305"
+  - "Bavaria"
 wikidata_id: "Q260108"
 latitude: 48.899222222
 longitude: 11.820388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/400px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/800px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/1200px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/1920px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/1920px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG---
 
 ## Overview
 

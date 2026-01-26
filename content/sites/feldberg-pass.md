@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/400px-Feldberg_3906.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/800px-Feldberg_3906.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/1200px-Feldberg_3906.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/1920px-Feldberg_3906.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/1920px-Feldberg_3906.jpg---
 
 ## Overview
 

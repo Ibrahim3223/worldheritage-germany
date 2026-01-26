@@ -4,19 +4,18 @@ site_name: "Schäfertal"
 date: 2026-01-26
 draft: false
 description: "valley in Harzgerode, Germany"
-region: "Harzgerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Harzgerode"
+  - "Lower Saxony"
 wikidata_id: "Q1270309"
 latitude: 51.6544
 longitude: 11.0528
 images:
-  []
----
+  []---
 
 ## Overview
 

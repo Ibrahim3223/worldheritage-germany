@@ -4,13 +4,13 @@ site_name: "Mondsee"
 date: 2026-01-26
 draft: false
 description: "lake in Speyer"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q22628"
 latitude: 49.3611
 longitude: 8.44821
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/400px-Mondsee,_Blick_auf_das_Südufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/800px-Mondsee,_Blick_auf_das_Südufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/1200px-Mondsee,_Blick_auf_das_Südufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/1920px-Mondsee,_Blick_auf_das_Südufer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/1920px-Mondsee,_Blick_auf_das_Südufer.jpg---
 
 ## Overview
 

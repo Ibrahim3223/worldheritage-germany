@@ -4,13 +4,13 @@ site_name: "Gut Bossigt"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Wesel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Wesel"
+  - "Lower Saxony"
 wikidata_id: "Q1556903"
 latitude: 51.6852
 longitude: 6.63664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/400px-Wesel_Gut_Bossigt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/800px-Wesel_Gut_Bossigt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1200px-Wesel_Gut_Bossigt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1920px-Wesel_Gut_Bossigt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1920px-Wesel_Gut_Bossigt.jpg---
 
 ## Overview
 

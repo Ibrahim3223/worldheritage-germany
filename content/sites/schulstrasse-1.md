@@ -4,19 +4,18 @@ site_name: "Schulstraße 1"
 date: 2026-01-26
 draft: false
 description: "former school building and gymnasium, later municipal building in Neueibau"
-region: "Kottmar"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kottmar"
+  - "Saxony"
 wikidata_id: "Q49436013"
 latitude: 50.972869
 longitude: 14.643597
 images:
-  []
----
+  []---
 
 ## Overview
 

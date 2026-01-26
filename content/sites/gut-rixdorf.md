@@ -4,19 +4,18 @@ site_name: "Gut Rixdorf"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Lebrade"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Lebrade"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1557020"
 latitude: 54.2078
 longitude: 10.4236
 images:
-  []
----
+  []---
 
 ## Overview
 

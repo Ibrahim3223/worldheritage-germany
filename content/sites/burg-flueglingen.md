@@ -4,19 +4,18 @@ site_name: "Burg Flüglingen"
 date: 2026-01-26
 draft: false
 description: "building in Weißenburg in Bayern, Middle Franconia, Germany"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q3959056"
 latitude: 49.0448
 longitude: 10.9107
 images:
-  []
----
+  []---
 
 ## Overview
 

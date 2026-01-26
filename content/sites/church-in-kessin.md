@@ -4,13 +4,13 @@ site_name: "Church in Kessin"
 date: 2026-01-26
 draft: false
 description: "church building in Grapzow, Germany"
-region: "Grapzow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Grapzow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742593"
 latitude: 53.7302
 longitude: 13.3077
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/400px-Kessin_Grapzow_Kirche_Nordwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/800px-Kessin_Grapzow_Kirche_Nordwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/1200px-Kessin_Grapzow_Kirche_Nordwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/1920px-Kessin_Grapzow_Kirche_Nordwest.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/1920px-Kessin_Grapzow_Kirche_Nordwest.jpg---
 
 ## Overview
 

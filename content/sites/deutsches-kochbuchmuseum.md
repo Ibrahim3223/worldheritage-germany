@@ -4,13 +4,13 @@ site_name: "Deutsches Kochbuchmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1205779"
 latitude: 51.49222
 longitude: 7.48028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/400px-Davidis_Holle_1904.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/800px-Davidis_Holle_1904.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1200px-Davidis_Holle_1904.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1920px-Davidis_Holle_1904.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1920px-Davidis_Holle_1904.jpg---
 
 ## Overview
 

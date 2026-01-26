@@ -4,19 +4,18 @@ site_name: "An der Schanze 1, 6, 15–18; Benndorfer Straße 1, 1a, 22; Grünstr
 date: 2026-01-26
 draft: false
 description: "Straßenzug im zur Gemeinde Kabelsketal gehörenden Dorf Dieskau in Sachsen-Anhalt"
-region: "Kabelsketal"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Kabelsketal"
+  - "Brandenburg"
 wikidata_id: "Q15106624"
 latitude: 51.435183
 longitude: 12.041026
 images:
-  []
----
+  []---
 
 ## Overview
 

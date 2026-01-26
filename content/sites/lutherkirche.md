@@ -4,13 +4,13 @@ site_name: "Lutherkirche"
 date: 2026-01-26
 draft: false
 description: "church in Worms, Germany"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q1532643"
 latitude: 49.6339
 longitude: 8.34839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Worms,_Lutherkirche_(1).jpg/400px-Worms,_Lutherkirche_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Worms,_Lutherkirche_(1).jpg/800px-Worms,_Lutherkirche_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Worms,_Lutherkirche_(1).jpg/1200px-Worms,_Lutherkirche_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Worms,_Lutherkirche_(1).jpg/1920px-Worms,_Lutherkirche_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Worms,_Lutherkirche_(1).jpg/1920px-Worms,_Lutherkirche_(1).jpg---
 
 ## Overview
 

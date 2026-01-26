@@ -4,19 +4,18 @@ site_name: "Special library for ecclesiastical and cultural history"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Ziesar"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Ziesar"
+  - "Brandenburg"
 wikidata_id: "Q1391119"
 latitude: 52.2631
 longitude: 12.2861
 images:
-  []
----
+  []---
 
 ## Overview
 

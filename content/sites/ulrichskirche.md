@@ -4,13 +4,13 @@ site_name: "Ulrichskirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eberstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eberstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1417236"
 latitude: 49.1787
 longitude: 9.32118
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/400px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/800px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/1200px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/1920px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/1920px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg---
 
 ## Overview
 

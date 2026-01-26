@@ -4,19 +4,18 @@ site_name: "Glasmuseum Hamburg"
 date: 2026-01-26
 draft: false
 description: "museum in Hamburg, Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q124497050"
 latitude: 53.605265236
 longitude: 10.0383491
 images:
-  []
----
+  []---
 
 ## Overview
 

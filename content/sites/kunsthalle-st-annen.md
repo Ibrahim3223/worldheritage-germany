@@ -4,19 +4,18 @@ site_name: "Kunsthalle St. Annen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q18674707"
 latitude: 53.862777777
 longitude: 10.689166666
 images:
-  []
----
+  []---
 
 ## Overview
 

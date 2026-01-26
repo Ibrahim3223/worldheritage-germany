@@ -4,13 +4,13 @@ site_name: "Museum Wäschefabrik Bielefeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1954508"
 latitude: 52.0212
 longitude: 8.5422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Waeschefabrik_1.jpg/400px-Museum_Waeschefabrik_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Waeschefabrik_1.jpg/800px-Museum_Waeschefabrik_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Waeschefabrik_1.jpg/1200px-Museum_Waeschefabrik_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Waeschefabrik_1.jpg/1920px-Museum_Waeschefabrik_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Museum_Waeschefabrik_1.jpg/1920px-Museum_Waeschefabrik_1.jpg---
 
 ## Overview
 

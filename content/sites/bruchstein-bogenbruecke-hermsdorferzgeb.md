@@ -4,19 +4,18 @@ site_name: "Bruchstein-Bogenbrücke Hermsdorf/Erzgeb."
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Hermsdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Hermsdorf"
+  - "Saxony"
 wikidata_id: "Q49442337"
 latitude: 50.755082557
 longitude: 13.634129888
 images:
-  []
----
+  []---
 
 ## Overview
 

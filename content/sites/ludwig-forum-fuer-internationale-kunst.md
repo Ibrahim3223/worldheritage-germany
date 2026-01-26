@@ -4,13 +4,13 @@ site_name: "Ludwig Forum für Internationale Kunst"
 date: 2026-01-26
 draft: false
 description: "modern art museum in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q464386"
 latitude: 50.78111111
 longitude: 6.10194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/400px-Ludwig_Forum_Aachen_2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/800px-Ludwig_Forum_Aachen_2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/1200px-Ludwig_Forum_Aachen_2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/1920px-Ludwig_Forum_Aachen_2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/1920px-Ludwig_Forum_Aachen_2017.jpg---
 
 ## Overview
 

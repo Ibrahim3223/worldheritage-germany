@@ -4,13 +4,13 @@ site_name: "St. Oswald"
 date: 2026-01-26
 draft: false
 description: "church building in Traunstein, Upper Bavaria, Germany"
-region: "Traunstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Traunstein"
+  - "Bavaria"
 wikidata_id: "Q2327906"
 latitude: 47.869475451
 longitude: 12.647705672
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Traunstein_St_Oswald_001.jpg/400px-Traunstein_St_Oswald_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Traunstein_St_Oswald_001.jpg/800px-Traunstein_St_Oswald_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Traunstein_St_Oswald_001.jpg/1200px-Traunstein_St_Oswald_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Traunstein_St_Oswald_001.jpg/1920px-Traunstein_St_Oswald_001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Traunstein_St_Oswald_001.jpg/1920px-Traunstein_St_Oswald_001.jpg---
 
 ## Overview
 

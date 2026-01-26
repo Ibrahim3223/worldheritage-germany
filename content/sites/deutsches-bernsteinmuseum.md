@@ -4,13 +4,13 @@ site_name: "Deutsches Bernsteinmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ribnitz-Damgarten"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ribnitz-Damgarten"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1205561"
 latitude: 54.2411
 longitude: 12.4322
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ribnitz-Klarissenkloster-07-05-2008-16.jpg/400px-Ribnitz-Klarissenkloster-07-05-2008-16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ribnitz-Klarissenkloster-07-05-2008-16.jpg/800px-Ribnitz-Klarissenkloster-07-05-2008-16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ribnitz-Klarissenkloster-07-05-2008-16.jpg/1200px-Ribnitz-Klarissenkloster-07-05-2008-16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ribnitz-Klarissenkloster-07-05-2008-16.jpg/1920px-Ribnitz-Klarissenkloster-07-05-2008-16.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ribnitz-Klarissenkloster-07-05-2008-16.jpg/1920px-Ribnitz-Klarissenkloster-07-05-2008-16.jpg---
 
 ## Overview
 

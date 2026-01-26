@@ -4,19 +4,18 @@ site_name: "Kino-Museum Löningen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Löningen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Löningen"
+  - "Lower Saxony"
 wikidata_id: "Q50407946"
 latitude: 52.73336
 longitude: 7.75744
 images:
-  []
----
+  []---
 
 ## Overview
 

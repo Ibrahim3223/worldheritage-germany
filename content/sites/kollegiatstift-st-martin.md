@@ -4,19 +4,18 @@ site_name: "Kollegiatstift St. Martin"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Worms"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q1905726"
 latitude: 49.633665
 longitude: 8.363287
 images:
-  []
----
+  []---
 
 ## Overview
 

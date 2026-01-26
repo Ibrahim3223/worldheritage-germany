@@ -4,13 +4,13 @@ site_name: "Der Zansen"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburgische Seenplatte District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburgische Seenplatte District"
+  - "Brandenburg"
 wikidata_id: "Q147001"
 latitude: 53.3209
 longitude: 13.4686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/400px-Zansen_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/800px-Zansen_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/1200px-Zansen_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/1920px-Zansen_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/1920px-Zansen_01.jpg---
 
 ## Overview
 

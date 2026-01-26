@@ -4,19 +4,18 @@ site_name: "Pfundsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hofbieber"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hofbieber"
+  - "Bavaria"
 wikidata_id: "Q2084472"
 latitude: 50.5507
 longitude: 9.8763
 images:
-  []
----
+  []---
 
 ## Overview
 

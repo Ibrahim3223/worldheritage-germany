@@ -4,13 +4,13 @@ site_name: "Ahlhorner Fischteiche"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Großenkneten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Großenkneten"
+  - "Lower Saxony"
 wikidata_id: "Q400521"
 latitude: 52.926
 longitude: 8.1441
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/400px-Emstek_-_Dianasee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/800px-Emstek_-_Dianasee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/1200px-Emstek_-_Dianasee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/1920px-Emstek_-_Dianasee.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/1920px-Emstek_-_Dianasee.JPG---
 
 ## Overview
 

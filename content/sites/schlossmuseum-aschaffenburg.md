@@ -4,13 +4,13 @@ site_name: "Schlossmuseum Aschaffenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Aschaffenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Aschaffenburg"
+  - "Bavaria"
 wikidata_id: "Q2244607"
 latitude: 49.9761
 longitude: 9.14167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SchlossmuseumAschaffenburg.JPG/400px-SchlossmuseumAschaffenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SchlossmuseumAschaffenburg.JPG/800px-SchlossmuseumAschaffenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SchlossmuseumAschaffenburg.JPG/1200px-SchlossmuseumAschaffenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SchlossmuseumAschaffenburg.JPG/1920px-SchlossmuseumAschaffenburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SchlossmuseumAschaffenburg.JPG/1920px-SchlossmuseumAschaffenburg.JPG---
 
 ## Overview
 

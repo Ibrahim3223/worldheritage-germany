@@ -4,13 +4,13 @@ site_name: "Deutsches Museum"
 date: 2026-01-26
 draft: false
 description: "museum of science and technology in Munich, Germany"
-region: "Ludwigsvorstadt-Isarvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Science Museum"
 categories:
   - "Science Museum"
 regions:
-  - "Ludwigsvorstadt-Isarvorstadt"
+  - "Bavaria"
 wikidata_id: "Q131617"
 latitude: 48.13
 longitude: 11.583333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/400px-Deutsches_Museum_Portrait_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/800px-Deutsches_Museum_Portrait_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1200px-Deutsches_Museum_Portrait_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg---
 
 ## Overview
 

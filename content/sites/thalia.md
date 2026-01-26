@@ -4,13 +4,13 @@ site_name: "Thalia"
 date: 2026-01-26
 draft: false
 description: "cinema in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2408843"
 latitude: 51.0668
 longitude: 13.7542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/400px-Dresden-Thalia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/800px-Dresden-Thalia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/1200px-Dresden-Thalia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/1920px-Dresden-Thalia.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/1920px-Dresden-Thalia.jpg---
 
 ## Overview
 

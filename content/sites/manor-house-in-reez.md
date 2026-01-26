@@ -4,13 +4,13 @@ site_name: "Manor house in Reez"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in der Gemeinde Dummerstorf im Landkreis Rostock (Mecklenburg-Vorpommern)"
-region: "Dummerstorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Dummerstorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1614081"
 latitude: 54.0017
 longitude: 12.1497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/400px-Reez_Herrenhaus_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/800px-Reez_Herrenhaus_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/1200px-Reez_Herrenhaus_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/1920px-Reez_Herrenhaus_von_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/1920px-Reez_Herrenhaus_von_Norden.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Allenberg"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Brilon"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Brilon"
+  - "Hesse"
 wikidata_id: "Q1407022"
 latitude: 51.4576
 longitude: 8.53669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/400px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/800px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/1200px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/1920px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/1920px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg---
 
 ## Overview
 

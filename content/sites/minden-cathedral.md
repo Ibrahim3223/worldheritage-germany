@@ -4,13 +4,13 @@ site_name: "Minden Cathedral"
 date: 2026-01-26
 draft: false
 description: "church in Minden, Germany"
-region: "Minden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Minden"
+  - "Lower Saxony"
 wikidata_id: "Q1936373"
 latitude: 52.288753
 longitude: 8.9201
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/400px-A_Mindener_Dom_Westwerk_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/800px-A_Mindener_Dom_Westwerk_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/1200px-A_Mindener_Dom_Westwerk_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/1920px-A_Mindener_Dom_Westwerk_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/1920px-A_Mindener_Dom_Westwerk_2.jpg---
 
 ## Overview
 

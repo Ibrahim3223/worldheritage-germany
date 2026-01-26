@@ -4,19 +4,18 @@ site_name: "Hessisches Puppenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hanau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hanau"
+  - "Hesse"
 wikidata_id: "Q17322262"
 latitude: 50.148549
 longitude: 8.882267
 images:
-  []
----
+  []---
 
 ## Overview
 

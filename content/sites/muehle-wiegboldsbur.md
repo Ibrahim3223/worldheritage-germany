@@ -4,13 +4,13 @@ site_name: "Mühle Wiegboldsbur"
 date: 2026-01-26
 draft: false
 description: "deutsche Windmühle in Ostfriesland"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q1958388"
 latitude: 53.4562
 longitude: 7.34545
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/400px-Muehle_Wiegboldsbur80.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/800px-Muehle_Wiegboldsbur80.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/1200px-Muehle_Wiegboldsbur80.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/1920px-Muehle_Wiegboldsbur80.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/1920px-Muehle_Wiegboldsbur80.jpg---
 
 ## Overview
 

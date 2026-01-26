@@ -4,19 +4,18 @@ site_name: "Moritzburg Foundation, Saxony-Anhalt State Art Museum, library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q28737997"
 latitude: 51.48632
 longitude: 11.96328
 images:
-  []
----
+  []---
 
 ## Overview
 

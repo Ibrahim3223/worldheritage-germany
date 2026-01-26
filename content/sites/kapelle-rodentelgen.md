@@ -4,13 +4,13 @@ site_name: "Kapelle Rodentelgen"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Arnsberg"
-region: "Arnsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Arnsberg"
+  - "Hesse"
 wikidata_id: "Q1728411"
 latitude: 51.424
 longitude: 8.02229
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/400px-Rodentelgenkapelle2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/800px-Rodentelgenkapelle2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/1200px-Rodentelgenkapelle2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/1920px-Rodentelgenkapelle2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/1920px-Rodentelgenkapelle2.JPG---
 
 ## Overview
 

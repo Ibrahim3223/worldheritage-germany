@@ -4,19 +4,18 @@ site_name: "Burg Gut-Krenkingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Weilheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Weilheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012117"
 latitude: 47.6775
 longitude: 8.2536
 images:
-  []
----
+  []---
 
 ## Overview
 

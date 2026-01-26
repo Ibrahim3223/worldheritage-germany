@@ -4,13 +4,13 @@ site_name: "Palais Flemming-Sulkowski"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1682929"
 latitude: 51.0501
 longitude: 13.743
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Palais_Flemming_Dresden_1715.jpg/400px-Palais_Flemming_Dresden_1715.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Palais_Flemming_Dresden_1715.jpg/800px-Palais_Flemming_Dresden_1715.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Palais_Flemming_Dresden_1715.jpg/1200px-Palais_Flemming_Dresden_1715.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Palais_Flemming_Dresden_1715.jpg/1920px-Palais_Flemming_Dresden_1715.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Palais_Flemming_Dresden_1715.jpg/1920px-Palais_Flemming_Dresden_1715.jpg---
 
 ## Overview
 

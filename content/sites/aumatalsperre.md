@@ -4,13 +4,13 @@ site_name: "Aumatalsperre"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Germany"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Germany"
+  - "Saxony"
 wikidata_id: "Q773262"
 latitude: 50.766397222
 longitude: 12.029516666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aumatalsperre-Damm.jpg/400px-Aumatalsperre-Damm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aumatalsperre-Damm.jpg/800px-Aumatalsperre-Damm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aumatalsperre-Damm.jpg/1200px-Aumatalsperre-Damm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aumatalsperre-Damm.jpg/1920px-Aumatalsperre-Damm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aumatalsperre-Damm.jpg/1920px-Aumatalsperre-Damm.jpg---
 
 ## Overview
 

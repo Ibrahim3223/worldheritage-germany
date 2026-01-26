@@ -4,13 +4,13 @@ site_name: "Reclam-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q59342914"
 latitude: 51.341148
 longitude: 12.391179
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/400px-Reclam-Regalwand_(Marquardt).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/800px-Reclam-Regalwand_(Marquardt).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/1200px-Reclam-Regalwand_(Marquardt).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/1920px-Reclam-Regalwand_(Marquardt).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/1920px-Reclam-Regalwand_(Marquardt).JPG---
 
 ## Overview
 

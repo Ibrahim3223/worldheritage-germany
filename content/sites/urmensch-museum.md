@@ -4,13 +4,13 @@ site_name: "Urmensch-Museum"
 date: 2026-01-26
 draft: false
 description: "prehistoric man museum in Steinheim an der Murr, Germany"
-region: "Steinheim an der Murr"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steinheim an der Murr"
+  - "Baden-Württemberg"
 wikidata_id: "Q2500877"
 latitude: 48.9648
 longitude: 9.27931
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/400px-SteinheimUrmenschmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/800px-SteinheimUrmenschmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/1200px-SteinheimUrmenschmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/1920px-SteinheimUrmenschmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/1920px-SteinheimUrmenschmuseum.jpg---
 
 ## Overview
 

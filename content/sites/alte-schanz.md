@@ -4,13 +4,13 @@ site_name: "Alte Schanz"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Heidenrod"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heidenrod"
+  - "Hesse"
 wikidata_id: "Q436180"
 latitude: 50.1537
 longitude: 7.91558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/400px-Schanze_Zorn_und_Hareschloss_005.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/800px-Schanze_Zorn_und_Hareschloss_005.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/1200px-Schanze_Zorn_und_Hareschloss_005.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/1920px-Schanze_Zorn_und_Hareschloss_005.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/1920px-Schanze_Zorn_und_Hareschloss_005.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Heßberg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Veilsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Veilsdorf"
+  - "Bavaria"
 wikidata_id: "Q1012331"
 latitude: 50.4179
 longitude: 10.7698
 images:
-  []
----
+  []---
 
 ## Overview
 

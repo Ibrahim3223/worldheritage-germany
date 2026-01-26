@@ -4,19 +4,18 @@ site_name: "Minoritenkloster Hannover"
 date: 2026-01-26
 draft: false
 description: "former monastery in Hannover, Germany"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q1937500"
 latitude: 52.3706
 longitude: 9.73361
 images:
-  []
----
+  []---
 
 ## Overview
 

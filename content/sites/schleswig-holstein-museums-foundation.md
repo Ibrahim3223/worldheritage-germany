@@ -4,19 +4,18 @@ site_name: "Schleswig-Holstein Museums Foundation"
 date: 2026-01-26
 draft: false
 description: "association of independent museums in Schleswig-Holstein, Germany"
-region: "Schleswig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Schleswig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2349143"
 latitude: 54.5116
 longitude: 9.5415
 images:
-  []
----
+  []---
 
 ## Overview
 

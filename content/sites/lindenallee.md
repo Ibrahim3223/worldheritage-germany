@@ -4,13 +4,13 @@ site_name: "Lindenallee"
 date: 2026-01-26
 draft: false
 description: "Park in Deutschland"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q435876"
 latitude: 48.5122
 longitude: 9.0445
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/400px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/800px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/1200px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/1920px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/1920px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alter Friedhof Segeroth"
 date: 2026-01-26
 draft: false
 description: "cemetery in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q437922"
 latitude: 51.4669
 longitude: 6.99806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/400px-Grabmal_Götte,_Friedhof_Segeroth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/800px-Grabmal_Götte,_Friedhof_Segeroth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1200px-Grabmal_Götte,_Friedhof_Segeroth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1920px-Grabmal_Götte,_Friedhof_Segeroth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1920px-Grabmal_Götte,_Friedhof_Segeroth.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Hannover Trade and Industry Museum"
 date: 2026-01-26
 draft: false
 description: "former museum in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q22692203"
 latitude: 52.37601
 longitude: 9.72684
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kesselberg (Bavaria)"
 date: 2026-01-26
 draft: false
 description: "Gebirgspass in Deutschland"
-region: "District of Bad Tölz-Wolfratshausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"
 categories:
   - "Mountain Pass"
 regions:
-  - "District of Bad Tölz-Wolfratshausen"
+  - "Bavaria"
 wikidata_id: "Q1739789"
 latitude: 47.6308
 longitude: 11.3542
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/400px-Kesselberg_Bavaria_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/800px-Kesselberg_Bavaria_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/1200px-Kesselberg_Bavaria_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/1920px-Kesselberg_Bavaria_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/1920px-Kesselberg_Bavaria_1.jpg---
 
 ## Overview
 

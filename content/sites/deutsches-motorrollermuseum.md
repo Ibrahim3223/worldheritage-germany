@@ -4,19 +4,18 @@ site_name: "Deutsches Motorrollermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Kaub, Germany"
-region: "Kaub"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kaub"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q162017"
 latitude: 50.0895
 longitude: 7.75949
 images:
-  []
----
+  []---
 
 ## Overview
 

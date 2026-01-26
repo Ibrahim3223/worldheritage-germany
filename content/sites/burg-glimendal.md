@@ -4,13 +4,13 @@ site_name: "Burg Glimendal"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Martinsthal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Martinsthal"
+  - "Hesse"
 wikidata_id: "Q1011978"
 latitude: 50.0554
 longitude: 8.12275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/400px-Glimendal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/800px-Glimendal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/1200px-Glimendal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/1920px-Glimendal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/1920px-Glimendal.JPG---
 
 ## Overview
 

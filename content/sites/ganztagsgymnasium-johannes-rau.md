@@ -4,13 +4,13 @@ site_name: "Ganztagsgymnasium Johannes Rau"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1493753"
 latitude: 51.2642
 longitude: 7.1872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wuppertal_Wittensteinstr_0022.jpg/400px-Wuppertal_Wittensteinstr_0022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wuppertal_Wittensteinstr_0022.jpg/800px-Wuppertal_Wittensteinstr_0022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wuppertal_Wittensteinstr_0022.jpg/1200px-Wuppertal_Wittensteinstr_0022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wuppertal_Wittensteinstr_0022.jpg/1920px-Wuppertal_Wittensteinstr_0022.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wuppertal_Wittensteinstr_0022.jpg/1920px-Wuppertal_Wittensteinstr_0022.jpg---
 
 ## Overview
 

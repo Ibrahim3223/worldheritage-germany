@@ -4,13 +4,13 @@ site_name: "Heine Haus (Hamburg, Germany)"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q1414278"
 latitude: 53.546258
 longitude: 9.92872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Heine-Haus_(1).jpg/400px-Heine-Haus_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Heine-Haus_(1).jpg/800px-Heine-Haus_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Heine-Haus_(1).jpg/1200px-Heine-Haus_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Heine-Haus_(1).jpg/1920px-Heine-Haus_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Heine-Haus_(1).jpg/1920px-Heine-Haus_(1).jpg---
 
 ## Overview
 

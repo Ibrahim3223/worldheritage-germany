@@ -4,13 +4,13 @@ site_name: "Altensteiner Park"
 date: 2026-01-26
 draft: false
 description: "park in Germany"
-region: "Bad Liebenwerda"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Bad Liebenwerda"
+  - "Thuringia"
 wikidata_id: "Q437636"
 latitude: 50.8353
 longitude: 10.3497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg/400px-Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg/800px-Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg/1200px-Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg/1920px-Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg/1920px-Thuringia_BadLiebenstein_asv2020-07_img21_Altenstein.jpg---
 
 ## Overview
 

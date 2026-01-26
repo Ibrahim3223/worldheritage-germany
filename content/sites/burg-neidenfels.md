@@ -4,13 +4,13 @@ site_name: "Burg Neidenfels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neidenfels"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neidenfels"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013215"
 latitude: 49.3917
 longitude: 8.0458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/400px-Neidenfels.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/800px-Neidenfels.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1200px-Neidenfels.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1920px-Neidenfels.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1920px-Neidenfels.JPG---
 
 ## Overview
 

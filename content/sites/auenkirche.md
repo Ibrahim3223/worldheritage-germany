@@ -4,13 +4,13 @@ site_name: "Auenkirche"
 date: 2026-01-26
 draft: false
 description: "church in Berlin-Wilmersdorf"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q759119"
 latitude: 52.4848
 longitude: 13.3244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Auenkirche_Gesamt_III.jpg/400px-Auenkirche_Gesamt_III.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Auenkirche_Gesamt_III.jpg/800px-Auenkirche_Gesamt_III.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Auenkirche_Gesamt_III.jpg/1200px-Auenkirche_Gesamt_III.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Auenkirche_Gesamt_III.jpg/1920px-Auenkirche_Gesamt_III.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Auenkirche_Gesamt_III.jpg/1920px-Auenkirche_Gesamt_III.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Musikantenland Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Thallichtenberg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thallichtenberg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1955082"
 latitude: 49.5557
 longitude: 7.35581
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BurgLichtenberg_Zehntscheune.jpg/400px-BurgLichtenberg_Zehntscheune.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BurgLichtenberg_Zehntscheune.jpg/800px-BurgLichtenberg_Zehntscheune.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BurgLichtenberg_Zehntscheune.jpg/1200px-BurgLichtenberg_Zehntscheune.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BurgLichtenberg_Zehntscheune.jpg/1920px-BurgLichtenberg_Zehntscheune.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BurgLichtenberg_Zehntscheune.jpg/1920px-BurgLichtenberg_Zehntscheune.jpg---
 
 ## Overview
 

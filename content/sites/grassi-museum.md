@@ -4,13 +4,13 @@ site_name: "Grassi Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1543522"
 latitude: 51.3374
 longitude: 12.3883
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/400px-Grassimuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/800px-Grassimuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1200px-Grassimuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1920px-Grassimuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1920px-Grassimuseum.jpg---
 
 ## Overview
 

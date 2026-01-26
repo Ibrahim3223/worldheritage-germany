@@ -4,13 +4,13 @@ site_name: "Wendisches Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Cottbus, Germany"
-region: "Cottbus"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cottbus"
+  - "Brandenburg"
 wikidata_id: "Q501944"
 latitude: 51.7598
 longitude: 14.3345
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/400px-Wendisches_Museum-Cottbus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/800px-Wendisches_Museum-Cottbus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/1200px-Wendisches_Museum-Cottbus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/1920px-Wendisches_Museum-Cottbus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/1920px-Wendisches_Museum-Cottbus.JPG---
 
 ## Overview
 

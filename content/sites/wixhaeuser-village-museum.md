@@ -4,13 +4,13 @@ site_name: "Wixhäuser village museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q19964584"
 latitude: 49.93334
 longitude: 8.64182
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/400px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/800px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/1200px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/1920px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/1920px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Benediktbeuern Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Benediktbeuern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Benediktbeuern"
+  - "Bavaria"
 wikidata_id: "Q533082"
 latitude: 47.707774256
 longitude: 11.399005363
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/400px-Benediktbeuern_6796.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/800px-Benediktbeuern_6796.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/1200px-Benediktbeuern_6796.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/1920px-Benediktbeuern_6796.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/1920px-Benediktbeuern_6796.jpg---
 
 ## Overview
 

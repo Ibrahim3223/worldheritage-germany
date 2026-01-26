@@ -4,19 +4,18 @@ site_name: "Sieblos-Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Poppenhausen (Wasserkuppe)"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Poppenhausen (Wasserkuppe)"
+  - "Bavaria"
 wikidata_id: "Q1601079"
 latitude: 50.4893
 longitude: 9.8696
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burgstraße 4"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Runkel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Runkel"
+  - "Hesse"
 wikidata_id: "Q116921210"
 latitude: 50.405603
 longitude: 8.15475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Runkel_Rathaus.jpg/400px-Runkel_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Runkel_Rathaus.jpg/800px-Runkel_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Runkel_Rathaus.jpg/1200px-Runkel_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Runkel_Rathaus.jpg/1920px-Runkel_Rathaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Runkel_Rathaus.jpg/1920px-Runkel_Rathaus.jpg---
 
 ## Overview
 

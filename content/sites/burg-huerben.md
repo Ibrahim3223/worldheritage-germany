@@ -4,19 +4,18 @@ site_name: "Burg Hürben"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hürben (Giengen)"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hürben (Giengen)"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012544"
 latitude: 48.5931
 longitude: 10.2039
 images:
-  []
----
+  []---
 
 ## Overview
 

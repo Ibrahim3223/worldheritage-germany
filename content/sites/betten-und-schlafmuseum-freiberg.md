@@ -4,13 +4,13 @@ site_name: "Betten- und Schlafmuseum Freiberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Freiberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiberg"
+  - "Saxony"
 wikidata_id: "Q15788371"
 latitude: 50.9123
 longitude: 13.3458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/400px-Freiberg_Bahnhofstrasse_28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/800px-Freiberg_Bahnhofstrasse_28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/1200px-Freiberg_Bahnhofstrasse_28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/1920px-Freiberg_Bahnhofstrasse_28.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/1920px-Freiberg_Bahnhofstrasse_28.jpg---
 
 ## Overview
 

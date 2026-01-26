@@ -4,13 +4,13 @@ site_name: "Varnenum"
 date: 2026-01-26
 draft: false
 description: "gallo-römische Ausgrabungsstätte bei Kornelimünster in Aachen, Nordrhein-Westfalen"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151336"
 latitude: 50.7297
 longitude: 6.19361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/400px-KornelimuensterVarnenum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/800px-KornelimuensterVarnenum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/1200px-KornelimuensterVarnenum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/1920px-KornelimuensterVarnenum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/1920px-KornelimuensterVarnenum.jpg---
 
 ## Overview
 

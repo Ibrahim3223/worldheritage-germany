@@ -4,13 +4,13 @@ site_name: "Luisenkirche, Charlottenburg"
 date: 2026-01-26
 draft: false
 description: "Protestant church, now in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1876714"
 latitude: 52.5172
 longitude: 13.3026
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/400px-Charlottenburg_Luisenkirche-001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/800px-Charlottenburg_Luisenkirche-001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1200px-Charlottenburg_Luisenkirche-001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1920px-Charlottenburg_Luisenkirche-001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1920px-Charlottenburg_Luisenkirche-001.JPG---
 
 ## Overview 
 

@@ -4,19 +4,18 @@ site_name: "Baudenkmalensemble Südliche Wallbebauung"
 date: 2026-01-26
 draft: false
 description: "Wikimedia list article"
-region: "Wolfenbüttel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Wolfenbüttel"
+  - "Lower Saxony"
 wikidata_id: "Q18616595"
 latitude: 52.160414
 longitude: 10.53458
 images:
-  []
----
+  []---
 
 ## Overview
 

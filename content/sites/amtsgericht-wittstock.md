@@ -4,13 +4,13 @@ site_name: "Amtsgericht Wittstock"
 date: 2026-01-26
 draft: false
 description: "court building in Wittstock, Landkreis Ostprignitz-Ruppin, Germany"
-region: "Wittstock/Dosse"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Wittstock/Dosse"
+  - "Brandenburg"
 wikidata_id: "Q111739252"
 latitude: 53.160852
 longitude: 12.484812
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/400px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/800px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/1200px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/1920px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/1920px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg---
 
 ## Overview
 

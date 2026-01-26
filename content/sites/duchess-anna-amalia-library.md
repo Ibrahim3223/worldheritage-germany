@@ -4,13 +4,13 @@ site_name: "Duchess Anna Amalia Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Research Library"
 categories:
   - "Research Library"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q50711"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anna_amalia_bib_weimar.jpg/400px-Anna_amalia_bib_weimar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anna_amalia_bib_weimar.jpg/800px-Anna_amalia_bib_weimar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anna_amalia_bib_weimar.jpg/1200px-Anna_amalia_bib_weimar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anna_amalia_bib_weimar.jpg/1920px-Anna_amalia_bib_weimar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anna_amalia_bib_weimar.jpg/1920px-Anna_amalia_bib_weimar.jpg---
 
 ## Overview
 

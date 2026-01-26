@@ -4,19 +4,18 @@ site_name: "Burg Leibertingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Leibertingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Leibertingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012893"
 latitude: 48.0428
 longitude: 9.01361
 images:
-  []
----
+  []---
 
 ## Overview
 

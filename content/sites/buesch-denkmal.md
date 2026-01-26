@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pincerno_-_Büsch-Denkmal_2007.jpg/400px-Pincerno_-_Büsch-Denkmal_2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pincerno_-_Büsch-Denkmal_2007.jpg/800px-Pincerno_-_Büsch-Denkmal_2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pincerno_-_Büsch-Denkmal_2007.jpg/1200px-Pincerno_-_Büsch-Denkmal_2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pincerno_-_Büsch-Denkmal_2007.jpg/1920px-Pincerno_-_Büsch-Denkmal_2007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pincerno_-_Büsch-Denkmal_2007.jpg/1920px-Pincerno_-_Büsch-Denkmal_2007.jpg---
 
 ## Overview
 

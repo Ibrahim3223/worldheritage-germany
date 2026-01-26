@@ -4,13 +4,13 @@ site_name: "Friedenskirche Charlottenburg"
 date: 2026-01-26
 draft: false
 description: "Baptist church in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1456769"
 latitude: 52.5126
 longitude: 13.3066
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/400px-Friedenskirche_Charlottenburg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/800px-Friedenskirche_Charlottenburg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1200px-Friedenskirche_Charlottenburg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1920px-Friedenskirche_Charlottenburg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1920px-Friedenskirche_Charlottenburg_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "New Synagogue (Dresden)"
 date: 2026-01-26
 draft: false
 description: "Synagogue in Dresden"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q670209"
 latitude: 51.0521
 longitude: 13.7465
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/400px-Synagoge_-_Panorama,_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/800px-Synagoge_-_Panorama,_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/1200px-Synagoge_-_Panorama,_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/1920px-Synagoge_-_Panorama,_Dresden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/1920px-Synagoge_-_Panorama,_Dresden.jpg---
 
 ## Overview
 

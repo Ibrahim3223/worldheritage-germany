@@ -4,13 +4,13 @@ site_name: "Brunneck Castle"
 date: 2026-01-26
 draft: false
 description: "building in Titting, Upper Bavaria, Germany"
-region: "Titting"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Titting"
+  - "Bavaria"
 wikidata_id: "Q1011204"
 latitude: 48.9867
 longitude: 11.275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg_Brunneck_2.jpg/400px-Burg_Brunneck_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg_Brunneck_2.jpg/800px-Burg_Brunneck_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg_Brunneck_2.jpg/1200px-Burg_Brunneck_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg_Brunneck_2.jpg/1920px-Burg_Brunneck_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg_Brunneck_2.jpg/1920px-Burg_Brunneck_2.jpg---
 
 ## Overview
 

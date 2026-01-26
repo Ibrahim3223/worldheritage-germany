@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/EversandUF_ft.jpg/400px-EversandUF_ft.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/EversandUF_ft.jpg/800px-EversandUF_ft.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/EversandUF_ft.jpg/1200px-EversandUF_ft.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/EversandUF_ft.jpg/1920px-EversandUF_ft.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/EversandUF_ft.jpg/1920px-EversandUF_ft.jpg---
 
 ## Overview
 

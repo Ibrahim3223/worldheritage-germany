@@ -4,13 +4,13 @@ site_name: "Pinkus Müller"
 date: 2026-01-26
 draft: false
 description: "trademark"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q880090"
 latitude: 51.965555555
 longitude: 7.621666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Muenster_Pinkus_Mueller_5956.jpg/400px-Muenster_Pinkus_Mueller_5956.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Muenster_Pinkus_Mueller_5956.jpg/800px-Muenster_Pinkus_Mueller_5956.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Muenster_Pinkus_Mueller_5956.jpg/1200px-Muenster_Pinkus_Mueller_5956.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Muenster_Pinkus_Mueller_5956.jpg/1920px-Muenster_Pinkus_Mueller_5956.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Muenster_Pinkus_Mueller_5956.jpg/1920px-Muenster_Pinkus_Mueller_5956.jpg---
 
 ## Overview
 

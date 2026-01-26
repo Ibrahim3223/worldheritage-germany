@@ -4,13 +4,13 @@ site_name: "Nordkirchen transmitter"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Nordkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Nordkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q1386621"
 latitude: 51.7555
 longitude: 7.539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sender_nordkirchen1.JPG/400px-Sender_nordkirchen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sender_nordkirchen1.JPG/800px-Sender_nordkirchen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sender_nordkirchen1.JPG/1200px-Sender_nordkirchen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sender_nordkirchen1.JPG/1920px-Sender_nordkirchen1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sender_nordkirchen1.JPG/1920px-Sender_nordkirchen1.JPG---
 
 ## Overview
 

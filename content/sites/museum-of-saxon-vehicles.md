@@ -4,13 +4,13 @@ site_name: "Museum of Saxon vehicles"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kapellenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kapellenberg"
+  - "Saxony"
 wikidata_id: "Q1229589"
 latitude: 50.8262
 longitude: 12.9083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zwickauer_Straße_77_Chemnitz_6.jpg/400px-Zwickauer_Straße_77_Chemnitz_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zwickauer_Straße_77_Chemnitz_6.jpg/800px-Zwickauer_Straße_77_Chemnitz_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zwickauer_Straße_77_Chemnitz_6.jpg/1200px-Zwickauer_Straße_77_Chemnitz_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zwickauer_Straße_77_Chemnitz_6.jpg/1920px-Zwickauer_Straße_77_Chemnitz_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zwickauer_Straße_77_Chemnitz_6.jpg/1920px-Zwickauer_Straße_77_Chemnitz_6.jpg---
 
 ## Overview
 

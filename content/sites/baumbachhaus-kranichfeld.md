@@ -4,13 +4,13 @@ site_name: "Baumbachhaus Kranichfeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kranichfeld"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kranichfeld"
+  - "Thuringia"
 wikidata_id: "Q20481507"
 latitude: 50.853521
 longitude: 11.20024368
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/400px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/800px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1200px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1920px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1920px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg---
 
 ## Overview
 

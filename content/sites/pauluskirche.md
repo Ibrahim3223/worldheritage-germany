@@ -4,13 +4,13 @@ site_name: "Pauluskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Halle (Saale), Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q2064320"
 latitude: 51.4956
 longitude: 11.9739
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Halle_(Saale)_Pauluskirche_Winter_2005.jpg/400px-Halle_(Saale)_Pauluskirche_Winter_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Halle_(Saale)_Pauluskirche_Winter_2005.jpg/800px-Halle_(Saale)_Pauluskirche_Winter_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Halle_(Saale)_Pauluskirche_Winter_2005.jpg/1200px-Halle_(Saale)_Pauluskirche_Winter_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Halle_(Saale)_Pauluskirche_Winter_2005.jpg/1920px-Halle_(Saale)_Pauluskirche_Winter_2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Halle_(Saale)_Pauluskirche_Winter_2005.jpg/1920px-Halle_(Saale)_Pauluskirche_Winter_2005.jpg---
 
 ## Overview
 

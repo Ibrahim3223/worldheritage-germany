@@ -4,13 +4,13 @@ site_name: "Buchenwälder im Rosengarten"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Rosengarten"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Rosengarten"
+  - "Hamburg"
 wikidata_id: "Q998351"
 latitude: 53.4097
 longitude: 9.85139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/400px-NSG_Buchenwälder_im_Rosengarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/800px-NSG_Buchenwälder_im_Rosengarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/1200px-NSG_Buchenwälder_im_Rosengarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/1920px-NSG_Buchenwälder_im_Rosengarten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/1920px-NSG_Buchenwälder_im_Rosengarten.jpg---
 
 ## Overview
 

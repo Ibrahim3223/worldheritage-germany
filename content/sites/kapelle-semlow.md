@@ -4,13 +4,13 @@ site_name: "Kapelle Semlow"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Ribnitz-Damgarten"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ribnitz-Damgarten"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1477436"
 latitude: 54.1847
 longitude: 12.6611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/400px-Friedhofskapelle-semlow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/800px-Friedhofskapelle-semlow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/1200px-Friedhofskapelle-semlow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/1920px-Friedhofskapelle-semlow.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/1920px-Friedhofskapelle-semlow.jpg---
 
 ## Overview
 

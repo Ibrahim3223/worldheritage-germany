@@ -4,13 +4,13 @@ site_name: "Apotheken-Museum Bad Münstereifel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Münstereifel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Münstereifel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q620535"
 latitude: 50.5547
 longitude: 6.76427
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg/400px-Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg/800px-Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg/1200px-Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg/1920px-Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg/1920px-Apotheken-Museum_Werther_Straße_13,_Bad_Münstereifel-9932.jpg---
 
 ## Overview
 

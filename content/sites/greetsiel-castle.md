@@ -4,13 +4,13 @@ site_name: "Greetsiel Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Greetsiel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Greetsiel"
+  - "Lower Saxony"
 wikidata_id: "Q1012029"
 latitude: 53.4986
 longitude: 7.09806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/400px-Greetsielburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/800px-Greetsielburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/1200px-Greetsielburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/1920px-Greetsielburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/1920px-Greetsielburg.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Altes Amtsgericht"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Bad Camberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Bad Camberg"
+  - "Hesse"
 wikidata_id: "Q116921163"
 latitude: 50.2948
 longitude: 8.27028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bad_Camberg,_altes_Amtsgericht.jpg/400px-Bad_Camberg,_altes_Amtsgericht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bad_Camberg,_altes_Amtsgericht.jpg/800px-Bad_Camberg,_altes_Amtsgericht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bad_Camberg,_altes_Amtsgericht.jpg/1200px-Bad_Camberg,_altes_Amtsgericht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bad_Camberg,_altes_Amtsgericht.jpg/1920px-Bad_Camberg,_altes_Amtsgericht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bad_Camberg,_altes_Amtsgericht.jpg/1920px-Bad_Camberg,_altes_Amtsgericht.jpg---
 
 ## Overview
 

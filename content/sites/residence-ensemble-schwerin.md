@@ -4,13 +4,13 @@ site_name: "Residence Ensemble Schwerin"
 date: 2026-01-26
 draft: false
 description: "world heritage site in Schwerin, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q47037432"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/400px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/800px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/1200px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/1920px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/1920px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg---
 
 ## Overview
 

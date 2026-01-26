@@ -4,13 +4,13 @@ site_name: "Church in Roidin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Utzedel"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Utzedel"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1633417"
 latitude: 53.8508
 longitude: 13.1731
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/400px-Roidin_Kirche_Nordost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/800px-Roidin_Kirche_Nordost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/1200px-Roidin_Kirche_Nordost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/1920px-Roidin_Kirche_Nordost.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/1920px-Roidin_Kirche_Nordost.JPG---
 
 ## Overview
 

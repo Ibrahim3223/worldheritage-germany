@@ -4,13 +4,13 @@ site_name: "Feinmechanisches Museum Fellenbergmühle"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Merzig"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Merzig"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1401968"
 latitude: 49.4455
 longitude: 6.64334
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/400px-MerzigFellenbergmühle2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/800px-MerzigFellenbergmühle2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1200px-MerzigFellenbergmühle2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1920px-MerzigFellenbergmühle2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1920px-MerzigFellenbergmühle2.jpg---
 
 ## Overview
 

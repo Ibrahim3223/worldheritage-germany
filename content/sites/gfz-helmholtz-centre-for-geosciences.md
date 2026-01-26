@@ -4,13 +4,13 @@ site_name: "GFZ Helmholtz Centre for Geosciences"
 date: 2026-01-26
 draft: false
 description: "Scientific research center for Earth sciences"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1205654"
 latitude: 52.3826
 longitude: 13.0644
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/400px-GeoForschungsZentrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/800px-GeoForschungsZentrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1200px-GeoForschungsZentrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1920px-GeoForschungsZentrum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1920px-GeoForschungsZentrum.jpg---
 
 ## Overview
 

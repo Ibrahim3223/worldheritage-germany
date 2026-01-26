@@ -4,13 +4,13 @@ site_name: "Königsstein"
 date: 2026-01-26
 draft: false
 description: "memorial in Freising, Germany"
-region: "Freising"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Freising"
+  - "Bavaria"
 wikidata_id: "Q1796463"
 latitude: 48.395944
 longitude: 11.737459
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Koenigsstein-Freising.png/400px-Koenigsstein-Freising.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Koenigsstein-Freising.png/800px-Koenigsstein-Freising.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Koenigsstein-Freising.png/1200px-Koenigsstein-Freising.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Koenigsstein-Freising.png/1920px-Koenigsstein-Freising.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Koenigsstein-Freising.png/1920px-Koenigsstein-Freising.png---
 
 ## Overview
 

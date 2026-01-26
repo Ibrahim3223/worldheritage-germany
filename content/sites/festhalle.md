@@ -4,13 +4,13 @@ site_name: "Festhalle"
 date: 2026-01-26
 draft: false
 description: "building in Feuerbach, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Feuerbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Feuerbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q18286896"
 latitude: 48.812946
 longitude: 9.156809
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Festhalle_Feuerbach.jpg/400px-Festhalle_Feuerbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Festhalle_Feuerbach.jpg/800px-Festhalle_Feuerbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Festhalle_Feuerbach.jpg/1200px-Festhalle_Feuerbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Festhalle_Feuerbach.jpg/1920px-Festhalle_Feuerbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Festhalle_Feuerbach.jpg/1920px-Festhalle_Feuerbach.jpg---
 
 ## Overview
 

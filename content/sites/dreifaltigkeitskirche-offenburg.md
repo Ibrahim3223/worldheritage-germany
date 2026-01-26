@@ -4,13 +4,13 @@ site_name: "Dreifaltigkeitskirche (Offenburg)"
 date: 2026-01-26
 draft: false
 description: "church building in Offenburg, Baden-Württemberg, Germany"
-region: "Offenburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Offenburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1257712"
 latitude: 48.471
 longitude: 7.9491
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/400px-Offenburg_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/800px-Offenburg_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/1200px-Offenburg_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/1920px-Offenburg_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/1920px-Offenburg_Kirche.jpg---
 
 ## Overview
 

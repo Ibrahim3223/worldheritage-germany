@@ -4,13 +4,13 @@ site_name: "Bernburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle and museum in Saxony-Anhalt, Germany"
-region: "Bernburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bernburg"
+  - "Brandenburg"
 wikidata_id: "Q2240269"
 latitude: 51.7939
 longitude: 11.7344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/400px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/800px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/1200px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/1920px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/1920px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg---
 
 ## Overview
 

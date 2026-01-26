@@ -4,13 +4,13 @@ site_name: "Zeitz Cathedral St. Peter and Paul"
 date: 2026-01-26
 draft: false
 description: "church building in Burgenlandkreis, Saxony-Anhalt, Germany"
-region: "Zeitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Zeitz"
+  - "Saxony"
 wikidata_id: "Q187151"
 latitude: 51.0507
 longitude: 12.1264
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dom_Zeitz.jpg/400px-Dom_Zeitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dom_Zeitz.jpg/800px-Dom_Zeitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dom_Zeitz.jpg/1200px-Dom_Zeitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dom_Zeitz.jpg/1920px-Dom_Zeitz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dom_Zeitz.jpg/1920px-Dom_Zeitz.jpg---
 
 ## Overview
 

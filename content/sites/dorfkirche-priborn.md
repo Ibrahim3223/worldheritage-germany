@@ -4,13 +4,13 @@ site_name: "Dorfkirche Priborn"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Priborn"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Priborn"
+  - "Brandenburg"
 wikidata_id: "Q1244631"
 latitude: 53.3001
 longitude: 12.664
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/400px-Priborn_Kirche_2009-07-16_206.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/800px-Priborn_Kirche_2009-07-16_206.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/1200px-Priborn_Kirche_2009-07-16_206.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/1920px-Priborn_Kirche_2009-07-16_206.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/1920px-Priborn_Kirche_2009-07-16_206.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Saint Liudger Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q391716"
 latitude: 51.924753
 longitude: 7.525761
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/400px-Albachten,_St._Ludgerus-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/800px-Albachten,_St._Ludgerus-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/1200px-Albachten,_St._Ludgerus-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/1920px-Albachten,_St._Ludgerus-Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/1920px-Albachten,_St._Ludgerus-Kirche.jpg---
 
 ## Overview
 

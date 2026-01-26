@@ -4,13 +4,13 @@ site_name: "Zisterzienserinnenkloster Donndorf"
 date: 2026-01-26
 draft: false
 description: "former monastery in Germany"
-region: "Roßleben-Wiehe"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Roßleben-Wiehe"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1775171"
 latitude: 51.296
 longitude: 11.3573
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kloster_Donndorf4.JPG/400px-Kloster_Donndorf4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kloster_Donndorf4.JPG/800px-Kloster_Donndorf4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kloster_Donndorf4.JPG/1200px-Kloster_Donndorf4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kloster_Donndorf4.JPG/1920px-Kloster_Donndorf4.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kloster_Donndorf4.JPG/1920px-Kloster_Donndorf4.JPG---
 
 ## Overview
 

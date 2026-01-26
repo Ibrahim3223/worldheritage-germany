@@ -4,13 +4,13 @@ site_name: "Ellingen Residence"
 date: 2026-01-26
 draft: false
 description: "palace"
-region: "Ellingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Ellingen"
+  - "Bavaria"
 wikidata_id: "Q638593"
 latitude: 49.0608
 longitude: 10.9656
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/400px-Aerial_image_of_the_Ellingen_Residence.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/800px-Aerial_image_of_the_Ellingen_Residence.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/1200px-Aerial_image_of_the_Ellingen_Residence.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/1920px-Aerial_image_of_the_Ellingen_Residence.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/1920px-Aerial_image_of_the_Ellingen_Residence.jpg---
 
 ## Overview
 

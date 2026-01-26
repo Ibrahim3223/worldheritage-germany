@@ -4,19 +4,18 @@ site_name: "Burg Helmsheim"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Helmsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Helmsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012296"
 latitude: 49.084
 longitude: 8.62962
 images:
-  []
----
+  []---
 
 ## Overview
 

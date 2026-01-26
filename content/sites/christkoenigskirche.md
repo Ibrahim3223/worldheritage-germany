@@ -4,13 +4,13 @@ site_name: "Christkönigskirche"
 date: 2026-01-26
 draft: false
 description: "church in Großsachsen"
-region: "Hirschberg an der Bergstraße"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hirschberg an der Bergstraße"
+  - "Baden-Württemberg"
 wikidata_id: "Q1083934"
 latitude: 49.5132
 longitude: 8.66109
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg/400px-Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg/800px-Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg/1200px-Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg/1920px-Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg/1920px-Hirschberg-Grosssachsen-Christkoenigskirche-02.jpg---
 
 ## Overview
 

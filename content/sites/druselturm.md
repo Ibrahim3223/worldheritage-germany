@@ -4,13 +4,13 @@ site_name: "Druselturm"
 date: 2026-01-26
 draft: false
 description: "Rest der ehemaligen Stadtbefestigung Kassels, Hessen, Deutschland"
-region: "Kassel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Kassel"
+  - "Hesse"
 wikidata_id: "Q1261414"
 latitude: 51.3164
 longitude: 9.49944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/400px-Kassel_asv2022-02_img36_Druselturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/800px-Kassel_asv2022-02_img36_Druselturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/1200px-Kassel_asv2022-02_img36_Druselturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/1920px-Kassel_asv2022-02_img36_Druselturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/1920px-Kassel_asv2022-02_img36_Druselturm.jpg---
 
 ## Overview
 

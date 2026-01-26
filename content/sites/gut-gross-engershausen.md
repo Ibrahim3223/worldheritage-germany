@@ -4,13 +4,13 @@ site_name: "Gut Groß-Engershausen"
 date: 2026-01-26
 draft: false
 description: "manor house in Preußisch Oldendorf, Germany"
-region: "Preußisch Oldendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Preußisch Oldendorf"
+  - "Lower Saxony"
 wikidata_id: "Q1556933"
 latitude: 52.3131
 longitude: 8.50528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/400px-Engershausen2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/800px-Engershausen2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/1200px-Engershausen2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/1920px-Engershausen2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/1920px-Engershausen2.jpg---
 
 ## Overview
 

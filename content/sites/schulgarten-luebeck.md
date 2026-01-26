@@ -4,13 +4,13 @@ site_name: "Schulgarten Lübeck"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1368384"
 latitude: 53.8693
 longitude: 10.7039
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SchulgartenTeichrosen.jpg/400px-SchulgartenTeichrosen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SchulgartenTeichrosen.jpg/800px-SchulgartenTeichrosen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SchulgartenTeichrosen.jpg/1200px-SchulgartenTeichrosen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SchulgartenTeichrosen.jpg/1920px-SchulgartenTeichrosen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SchulgartenTeichrosen.jpg/1920px-SchulgartenTeichrosen.jpg---
 
 ## Overview
 

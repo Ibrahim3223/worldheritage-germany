@@ -4,19 +4,18 @@ site_name: "Mausoleum Schönauer Feld in Schönau (Rottal)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-2-77-144-10 (1) in Schönau (Rottal), Bavaria"
-region: "Schönau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Schönau"
+  - "Bavaria"
 wikidata_id: "Q98701522"
 latitude: 48.477706338
 longitude: 12.838589154
 images:
-  []
----
+  []---
 
 ## Overview
 

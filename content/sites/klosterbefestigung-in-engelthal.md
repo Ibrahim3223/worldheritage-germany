@@ -4,13 +4,13 @@ site_name: "Klosterbefestigung in Engelthal"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.469924/E11.399284"
-region: "Engelthal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Engelthal"
+  - "Bavaria"
 wikidata_id: "Q58324609"
 latitude: 49.469924
 longitude: 11.399284
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/400px-Mauerrest_des_Klosters_Engelthal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/800px-Mauerrest_des_Klosters_Engelthal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/1200px-Mauerrest_des_Klosters_Engelthal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/1920px-Mauerrest_des_Klosters_Engelthal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/1920px-Mauerrest_des_Klosters_Engelthal.jpg---
 
 ## Overview
 

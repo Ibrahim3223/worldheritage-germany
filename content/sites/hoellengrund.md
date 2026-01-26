@@ -4,19 +4,18 @@ site_name: "Höllengrund"
 date: 2026-01-26
 draft: false
 description: "valley"
-region: "Großschweidnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Großschweidnitz"
+  - "Saxony"
 wikidata_id: "Q1277209"
 latitude: 51.059
 longitude: 14.622
 images:
-  []
----
+  []---
 
 ## Overview
 

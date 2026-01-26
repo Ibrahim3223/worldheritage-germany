@@ -4,13 +4,13 @@ site_name: "Farrenpoint"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Bad Feilnbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Bad Feilnbach"
+  - "Bavaria"
 wikidata_id: "Q1397113"
 latitude: 47.7431
 longitude: 12.0347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/400px-Farrenpoint.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/800px-Farrenpoint.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/1200px-Farrenpoint.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/1920px-Farrenpoint.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/1920px-Farrenpoint.jpg---
 
 ## Overview
 

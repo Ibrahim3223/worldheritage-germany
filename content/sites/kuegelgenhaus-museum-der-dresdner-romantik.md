@@ -4,13 +4,13 @@ site_name: "Kügelgenhaus – Museum der Dresdner Romantik"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1746253"
 latitude: 51.06
 longitude: 13.7428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dresden_Kuegelgenhaus.jpg/400px-Dresden_Kuegelgenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dresden_Kuegelgenhaus.jpg/800px-Dresden_Kuegelgenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dresden_Kuegelgenhaus.jpg/1200px-Dresden_Kuegelgenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dresden_Kuegelgenhaus.jpg/1920px-Dresden_Kuegelgenhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dresden_Kuegelgenhaus.jpg/1920px-Dresden_Kuegelgenhaus.jpg---
 
 ## Overview
 

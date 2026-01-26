@@ -4,13 +4,13 @@ site_name: "Hexenhügel Winningen"
 date: 2026-01-26
 draft: false
 description: "ehemalige Richtstätte oberhalb von Winningen mit einem Denkmal zur Erinnerung an die Opfer der Hexenverfolgungen"
-region: "Winningen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Winningen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1616781"
 latitude: 50.3198
 longitude: 7.51761
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/400px-Winningen_Hexendenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/800px-Winningen_Hexendenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/1200px-Winningen_Hexendenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/1920px-Winningen_Hexendenkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/1920px-Winningen_Hexendenkmal.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Christophorus"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Niederselters, Hesse, Germany"
-region: "Selters"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Selters"
+  - "Hesse"
 wikidata_id: "Q1355468"
 latitude: 50.335
 longitude: 8.22417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St._Christophorus-Kirche_Niederselters.jpg/400px-St._Christophorus-Kirche_Niederselters.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St._Christophorus-Kirche_Niederselters.jpg/800px-St._Christophorus-Kirche_Niederselters.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St._Christophorus-Kirche_Niederselters.jpg/1200px-St._Christophorus-Kirche_Niederselters.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St._Christophorus-Kirche_Niederselters.jpg/1920px-St._Christophorus-Kirche_Niederselters.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/St._Christophorus-Kirche_Niederselters.jpg/1920px-St._Christophorus-Kirche_Niederselters.jpg---
 
 ## Overview
 

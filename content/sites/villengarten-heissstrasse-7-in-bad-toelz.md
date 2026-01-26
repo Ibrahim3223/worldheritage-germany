@@ -4,19 +4,18 @@ site_name: "Villengarten Heißstraße 7 in Bad Tölz"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-73-112-71 (1) in Bad Tölz, Bavaria"
-region: "Bad Tölz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Bad Tölz"
+  - "Bavaria"
 wikidata_id: "Q98742254"
 latitude: 47.769988778
 longitude: 11.55948164
 images:
-  []
----
+  []---
 
 ## Overview
 

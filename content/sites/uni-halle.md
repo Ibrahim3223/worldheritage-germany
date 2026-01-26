@@ -4,13 +4,13 @@ site_name: "Uni-Halle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2493697"
 latitude: 51.2411
 longitude: 7.14778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wuppertal_Unihalle.jpg/400px-Wuppertal_Unihalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wuppertal_Unihalle.jpg/800px-Wuppertal_Unihalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wuppertal_Unihalle.jpg/1200px-Wuppertal_Unihalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wuppertal_Unihalle.jpg/1920px-Wuppertal_Unihalle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wuppertal_Unihalle.jpg/1920px-Wuppertal_Unihalle.jpg---
 
 ## Overview
 

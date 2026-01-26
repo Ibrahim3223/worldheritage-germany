@@ -4,13 +4,13 @@ site_name: "Helm ab zum Gebet"
 date: 2026-01-26
 draft: false
 description: "Statue von Friedrich Wilhelm Virck"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q15815041"
 latitude: 53.8859
 longitude: 10.7083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/400px-EF_IR162_gesamt2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/800px-EF_IR162_gesamt2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/1200px-EF_IR162_gesamt2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/1920px-EF_IR162_gesamt2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/1920px-EF_IR162_gesamt2.jpg---
 
 ## Overview
 

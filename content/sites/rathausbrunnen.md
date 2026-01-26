@@ -4,19 +4,18 @@ site_name: "Rathausbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Enkenbach-Alsenborn, Germany"
-region: "Enkenbach-Alsenborn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Enkenbach-Alsenborn"
+  - "Baden-Württemberg"
 wikidata_id: "Q18412440"
 latitude: 49.486949
 longitude: 7.897885
 images:
-  []
----
+  []---
 
 ## Overview
 

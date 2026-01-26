@@ -4,19 +4,18 @@ site_name: "Bahnhofstraße 7"
 date: 2026-01-26
 draft: false
 description: "Villa in Eddelak, Schleswig-Holstein"
-region: "Eddelak"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Eddelak"
+  - "Lower Saxony"
 wikidata_id: "Q131471344"
 latitude: 53.946773
 longitude: 9.138522
 images:
-  []
----
+  []---
 
 ## Overview
 

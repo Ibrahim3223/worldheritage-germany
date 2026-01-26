@@ -4,13 +4,13 @@ site_name: "St. Bonifatius"
 date: 2026-01-26
 draft: false
 description: "church in Wiesbaden, Germany"
-region: "Mitte"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Hesse"
 wikidata_id: "Q636248"
 latitude: 50.079397
 longitude: 8.239494
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/400px-Wiesbaden_Bonifatius_Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/800px-Wiesbaden_Bonifatius_Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/1200px-Wiesbaden_Bonifatius_Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/1920px-Wiesbaden_Bonifatius_Church.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/1920px-Wiesbaden_Bonifatius_Church.jpg---
 
 ## Overview
 

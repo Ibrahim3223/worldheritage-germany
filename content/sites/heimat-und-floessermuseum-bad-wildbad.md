@@ -4,19 +4,18 @@ site_name: "Heimat- und Flößermuseum Bad Wildbad"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Wildbad"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Wildbad"
+  - "Baden-Württemberg"
 wikidata_id: "Q28940848"
 latitude: 48.774502
 longitude: 8.582118
 images:
-  []
----
+  []---
 
 ## Overview
 

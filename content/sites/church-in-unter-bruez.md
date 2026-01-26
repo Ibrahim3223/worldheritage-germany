@@ -4,13 +4,13 @@ site_name: "Church in Unter Brüz"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Passow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Passow"
+  - "Brandenburg"
 wikidata_id: "Q1244774"
 latitude: 53.5428
 longitude: 12.0644
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirche_Unter_Bruetz_Orgelempore_(2012).jpg/400px-Kirche_Unter_Bruetz_Orgelempore_(2012).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirche_Unter_Bruetz_Orgelempore_(2012).jpg/800px-Kirche_Unter_Bruetz_Orgelempore_(2012).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirche_Unter_Bruetz_Orgelempore_(2012).jpg/1200px-Kirche_Unter_Bruetz_Orgelempore_(2012).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirche_Unter_Bruetz_Orgelempore_(2012).jpg/1920px-Kirche_Unter_Bruetz_Orgelempore_(2012).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirche_Unter_Bruetz_Orgelempore_(2012).jpg/1920px-Kirche_Unter_Bruetz_Orgelempore_(2012).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Charlottentor"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltenes Tor der Stadtbefestigung der Stadt Magdeburg"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1067447"
 latitude: 52.1267
 longitude: 11.6569
 images:
-  []
----
+  []---
 
 ## Overview
 

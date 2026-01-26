@@ -4,13 +4,13 @@ site_name: "St. Laurentius und St.Vincentius (Backemoor)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Rhauderfehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rhauderfehn"
+  - "Lower Saxony"
 wikidata_id: "Q977557"
 latitude: 53.1874
 longitude: 7.52264
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg/400px-Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg/800px-Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg/1200px-Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg/1920px-Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg/1920px-Rhauderfehn_-_Groot_Karkweg_-_Friedhof_Backemoor_+_St._Laurentius_und_St._Vincentius_04_ies.jpg---
 
 ## Overview
 

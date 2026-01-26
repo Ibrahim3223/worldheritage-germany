@@ -4,13 +4,13 @@ site_name: "Burg Hohenhundersingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Münsingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Münsingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012422"
 latitude: 48.3437
 longitude: 9.4972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Burg_Hohenhundersingen_01.jpg/400px-Burg_Hohenhundersingen_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Burg_Hohenhundersingen_01.jpg/800px-Burg_Hohenhundersingen_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Burg_Hohenhundersingen_01.jpg/1200px-Burg_Hohenhundersingen_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Burg_Hohenhundersingen_01.jpg/1920px-Burg_Hohenhundersingen_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Burg_Hohenhundersingen_01.jpg/1920px-Burg_Hohenhundersingen_01.jpg---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hamburg.Altona.Stadtlagerhaus.wmt.jpg/400px-Hamburg.Altona.Stadtlagerhaus.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hamburg.Altona.Stadtlagerhaus.wmt.jpg/800px-Hamburg.Altona.Stadtlagerhaus.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hamburg.Altona.Stadtlagerhaus.wmt.jpg/1200px-Hamburg.Altona.Stadtlagerhaus.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hamburg.Altona.Stadtlagerhaus.wmt.jpg/1920px-Hamburg.Altona.Stadtlagerhaus.wmt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hamburg.Altona.Stadtlagerhaus.wmt.jpg/1920px-Hamburg.Altona.Stadtlagerhaus.wmt.jpg---
 
 ## Overview
 

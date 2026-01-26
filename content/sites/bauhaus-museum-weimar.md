@@ -4,13 +4,13 @@ site_name: "Bauhaus Museum, Weimar"
 date: 2026-01-26
 draft: false
 description: "museum in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q811381"
 latitude: 50.985
 longitude: 11.32416667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/400px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/800px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1200px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1920px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1920px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Weimarer Fürstengruft"
 date: 2026-01-26
 draft: false
 description: "cemeterial vault in Weimar, Thuringia, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q315764"
 latitude: 50.972586111
 longitude: 11.325644444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coudr_05.jpg/400px-Coudr_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coudr_05.jpg/800px-Coudr_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coudr_05.jpg/1200px-Coudr_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coudr_05.jpg/1920px-Coudr_05.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coudr_05.jpg/1920px-Coudr_05.jpg---
 
 ## Overview
 

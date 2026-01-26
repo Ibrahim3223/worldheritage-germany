@@ -4,13 +4,13 @@ site_name: "Lehrbach Castle"
 date: 2026-01-26
 draft: false
 description: "three-story ruin of a high medieval moated castle with a preserved entrance area, remains of the surrounding wall and remains of the three-story palac"
-region: "Kirtorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kirtorf"
+  - "Hesse"
 wikidata_id: "Q1012890"
 latitude: 50.7775
 longitude: 9.05694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/400px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/800px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/1200px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/1920px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/1920px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png---
 
 ## Overview
 

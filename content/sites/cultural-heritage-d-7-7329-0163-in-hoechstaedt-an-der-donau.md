@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-7329-0163 in Höchstädt an der Donau"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Höchstädt an der Donau, Dillingen, Swabia, Bavaria, Germany"
-region: "Höchstädt an der Donau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Höchstädt an der Donau"
+  - "Bavaria"
 wikidata_id: "Q98290017"
 latitude: 48.616885664
 longitude: 10.56714475
 images:
-  []
----
+  []---
 
 ## Overview
 

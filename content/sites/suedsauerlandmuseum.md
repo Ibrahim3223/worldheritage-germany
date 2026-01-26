@@ -4,19 +4,18 @@ site_name: "Südsauerlandmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Attendorn"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Attendorn"
+  - "Hesse"
 wikidata_id: "Q2381466"
 latitude: 51.1259
 longitude: 7.90363
 images:
-  []
----
+  []---
 
 ## Overview
 

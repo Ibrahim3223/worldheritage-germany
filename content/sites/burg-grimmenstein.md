@@ -4,13 +4,13 @@ site_name: "Burg Grimmenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1012049"
 latitude: 50.9458
 longitude: 10.7044
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/400px-Gotha1572.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/800px-Gotha1572.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/1200px-Gotha1572.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/1920px-Gotha1572.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/1920px-Gotha1572.jpg---
 
 ## Overview
 

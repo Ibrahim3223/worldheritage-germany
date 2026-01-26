@@ -4,13 +4,13 @@ site_name: "Stiftung Friedehorst Bremen"
 date: 2026-01-26
 draft: false
 description: "diakonische Stiftung des kirchlichen Rechts in Bremen-Lesum"
-region: "Burglesum"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Burglesum"
+  - "Bremen"
 wikidata_id: "Q24007910"
 latitude: 53.176555555
 longitude: 8.679138888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/400px-Stiftung-Friedehorst_Hauptzufahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/800px-Stiftung-Friedehorst_Hauptzufahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/1200px-Stiftung-Friedehorst_Hauptzufahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/1920px-Stiftung-Friedehorst_Hauptzufahrt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/1920px-Stiftung-Friedehorst_Hauptzufahrt.jpg---
 
 ## Overview
 

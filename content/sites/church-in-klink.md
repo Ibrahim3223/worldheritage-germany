@@ -4,13 +4,13 @@ site_name: "Church in Klink"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Klink"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Klink"
+  - "Brandenburg"
 wikidata_id: "Q1244432"
 latitude: 53.4794
 longitude: 12.6225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/400px-Klink_Kirche_2009-08-31_073.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/800px-Klink_Kirche_2009-08-31_073.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1200px-Klink_Kirche_2009-08-31_073.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1920px-Klink_Kirche_2009-08-31_073.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1920px-Klink_Kirche_2009-08-31_073.jpg---
 
 ## Overview
 

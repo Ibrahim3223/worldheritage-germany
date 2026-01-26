@@ -4,13 +4,13 @@ site_name: "Burg Montfort"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hallgarten"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hallgarten"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013139"
 latitude: 49.7654
 longitude: 7.76736
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/400px-Montfort2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/800px-Montfort2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/1200px-Montfort2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/1920px-Montfort2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/1920px-Montfort2.jpg---
 
 ## Overview
 

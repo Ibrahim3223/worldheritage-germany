@@ -4,13 +4,13 @@ site_name: "Uffhubtor"
 date: 2026-01-26
 draft: false
 description: "Stadttor in Ingelheim am Rhein"
-region: "Ingelheim am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Ingelheim am Rhein"
+  - "Hesse"
 wikidata_id: "Q1331031"
 latitude: 49.9616
 longitude: 8.06408
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/400px-Ober-Ingelheim-Uffhubtor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/800px-Ober-Ingelheim-Uffhubtor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/1200px-Ober-Ingelheim-Uffhubtor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/1920px-Ober-Ingelheim-Uffhubtor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/1920px-Ober-Ingelheim-Uffhubtor.JPG---
 
 ## Overview
 

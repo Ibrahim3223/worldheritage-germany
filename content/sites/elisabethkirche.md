@@ -4,13 +4,13 @@ site_name: "Elisabethkirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q1313918"
 latitude: 53.6075
 longitude: 9.90944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/400px-Kirche_eidelstedt_dorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/800px-Kirche_eidelstedt_dorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/1200px-Kirche_eidelstedt_dorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/1920px-Kirche_eidelstedt_dorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/1920px-Kirche_eidelstedt_dorf.jpg---
 
 ## Overview
 

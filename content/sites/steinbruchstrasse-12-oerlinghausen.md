@@ -4,13 +4,13 @@ site_name: "Steinbruchstraße 12 (Oerlinghausen)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Oerlinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Oerlinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q606965"
 latitude: 51.9594
 longitude: 8.67554
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Oerlinghausen-Antoniuskapelle03.jpg/400px-Oerlinghausen-Antoniuskapelle03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Oerlinghausen-Antoniuskapelle03.jpg/800px-Oerlinghausen-Antoniuskapelle03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Oerlinghausen-Antoniuskapelle03.jpg/1200px-Oerlinghausen-Antoniuskapelle03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Oerlinghausen-Antoniuskapelle03.jpg/1920px-Oerlinghausen-Antoniuskapelle03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Oerlinghausen-Antoniuskapelle03.jpg/1920px-Oerlinghausen-Antoniuskapelle03.jpg---
 
 ## Overview
 

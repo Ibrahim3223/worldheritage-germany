@@ -4,13 +4,13 @@ site_name: "Düren station"
 date: 2026-01-26
 draft: false
 description: "railway station in Düren, Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q320766"
 latitude: 50.8108
 longitude: 6.4825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dueren_railway_station_10-2017.jpg/400px-Dueren_railway_station_10-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dueren_railway_station_10-2017.jpg/800px-Dueren_railway_station_10-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dueren_railway_station_10-2017.jpg/1200px-Dueren_railway_station_10-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dueren_railway_station_10-2017.jpg/1920px-Dueren_railway_station_10-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dueren_railway_station_10-2017.jpg/1920px-Dueren_railway_station_10-2017.jpg---
 
 ## Overview
 

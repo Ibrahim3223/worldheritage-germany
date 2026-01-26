@@ -4,13 +4,13 @@ site_name: "Katharinenkapelle Ahrbrück"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Ahrbrück"
-region: "Ahrbrück"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ahrbrück"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1736069"
 latitude: 50.4864
 longitude: 6.97308
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ahrbrück-Katharinenkapelle965.JPG/400px-Ahrbrück-Katharinenkapelle965.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ahrbrück-Katharinenkapelle965.JPG/800px-Ahrbrück-Katharinenkapelle965.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ahrbrück-Katharinenkapelle965.JPG/1200px-Ahrbrück-Katharinenkapelle965.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ahrbrück-Katharinenkapelle965.JPG/1920px-Ahrbrück-Katharinenkapelle965.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ahrbrück-Katharinenkapelle965.JPG/1920px-Ahrbrück-Katharinenkapelle965.JPG---
 
 ## Overview
 

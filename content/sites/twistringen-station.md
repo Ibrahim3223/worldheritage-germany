@@ -4,13 +4,13 @@ site_name: "Twistringen station"
 date: 2026-01-26
 draft: false
 description: "railway station in Twistringen, Germany"
-region: "Twistringen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Twistringen"
+  - "Lower Saxony"
 wikidata_id: "Q278450"
 latitude: 52.7916
 longitude: 8.64397
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bftwistringen.jpg/400px-Bftwistringen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bftwistringen.jpg/800px-Bftwistringen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bftwistringen.jpg/1200px-Bftwistringen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bftwistringen.jpg/1920px-Bftwistringen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bftwistringen.jpg/1920px-Bftwistringen.jpg---
 
 ## Overview
 

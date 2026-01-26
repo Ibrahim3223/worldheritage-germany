@@ -4,13 +4,13 @@ site_name: "Klaus-Groth-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Heide, Germany"
-region: "Heide"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heide"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1744763"
 latitude: 54.1929
 longitude: 9.09628
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/400px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/800px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/1200px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/1920px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/1920px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg---
 
 ## Overview
 

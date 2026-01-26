@@ -4,13 +4,13 @@ site_name: "St. John's church (Eberswalde)"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Eberswalde"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eberswalde"
+  - "Brandenburg"
 wikidata_id: "Q1698952"
 latitude: 52.8327
 longitude: 13.8101
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/400px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/800px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/1200px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/1920px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/1920px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg---
 
 ## Overview
 

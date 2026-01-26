@@ -4,13 +4,13 @@ site_name: "Saarlouis Alter Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Saarlouis, Germany"
-region: "Saarlouis"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Saarlouis"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q437920"
 latitude: 49.3098
 longitude: 6.75704
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/400px-Saarlouis_Alter_Friedhof_(8).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/800px-Saarlouis_Alter_Friedhof_(8).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/1200px-Saarlouis_Alter_Friedhof_(8).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/1920px-Saarlouis_Alter_Friedhof_(8).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/1920px-Saarlouis_Alter_Friedhof_(8).jpg---
 
 ## Overview
 

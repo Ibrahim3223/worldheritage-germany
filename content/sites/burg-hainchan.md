@@ -4,13 +4,13 @@ site_name: "Burg Hainchan"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Netphen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Netphen"
+  - "Hesse"
 wikidata_id: "Q1012165"
 latitude: 50.8544
 longitude: 8.21806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/400px-SI_Burg_Hainchen_Suedost-Totale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/800px-SI_Burg_Hainchen_Suedost-Totale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/1200px-SI_Burg_Hainchen_Suedost-Totale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/1920px-SI_Burg_Hainchen_Suedost-Totale.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/1920px-SI_Burg_Hainchen_Suedost-Totale.jpg---
 
 ## Overview
 

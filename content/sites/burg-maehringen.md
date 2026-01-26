@@ -4,19 +4,18 @@ site_name: "Burg Mähringen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Mähringen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Mähringen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013153"
 latitude: 48.485907494
 longitude: 9.111207158
 images:
-  []
----
+  []---
 
 ## Overview
 

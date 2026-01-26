@@ -4,13 +4,13 @@ site_name: "Maria-Obhut-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Oberbilk, Germany"
-region: "District 3"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "District 3"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1350517"
 latitude: 51.213227777
 longitude: 6.805522222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/400px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/800px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/1200px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/1920px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/1920px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg---
 
 ## Overview
 

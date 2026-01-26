@@ -4,13 +4,13 @@ site_name: "New synagogue"
 date: 2026-01-26
 draft: false
 description: "building in Eppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Eppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Eppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1979792"
 latitude: 49.137
 longitude: 8.90663
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/400px-Eppingen-neue-synagoge-1896.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/800px-Eppingen-neue-synagoge-1896.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1200px-Eppingen-neue-synagoge-1896.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1920px-Eppingen-neue-synagoge-1896.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1920px-Eppingen-neue-synagoge-1896.jpg---
 
 ## Overview
 

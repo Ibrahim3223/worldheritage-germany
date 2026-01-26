@@ -4,13 +4,13 @@ site_name: "Munkbrarup Church"
 date: 2026-01-26
 draft: false
 description: "church building in Munkbrarup, Germany"
-region: "Munkbrarup"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munkbrarup"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1808228"
 latitude: 54.8024
 longitude: 9.56225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/400px-Munkbrarup_St._Laurentiuskirche_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/800px-Munkbrarup_St._Laurentiuskirche_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/1200px-Munkbrarup_St._Laurentiuskirche_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/1920px-Munkbrarup_St._Laurentiuskirche_03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/1920px-Munkbrarup_St._Laurentiuskirche_03.JPG---
 
 ## Overview
 

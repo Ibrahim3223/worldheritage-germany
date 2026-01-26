@@ -4,19 +4,18 @@ site_name: "Kunsthistorisches Museum der Universität Bonn"
 date: 2026-01-26
 draft: false
 description: "Kunsthistorisches Museum der Universität Bonn"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q59587459"
 latitude: 50.733833
 longitude: 7.102249
 images:
-  []
----
+  []---
 
 ## Overview
 

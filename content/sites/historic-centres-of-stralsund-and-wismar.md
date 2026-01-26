@@ -4,13 +4,13 @@ site_name: "Historic Centres of Stralsund and Wismar"
 date: 2026-01-26
 draft: false
 description: "old town"
-region: "Wismar"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Urban Area"
 categories:
   - "Urban Area"
 regions:
-  - "Wismar"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1620833"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/400px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/800px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/1200px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/1920px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/1920px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg---
 
 ## Overview
 

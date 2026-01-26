@@ -4,13 +4,13 @@ site_name: "Wittelsbacherbrunnen (Lenbachplatz)"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q878863"
 latitude: 48.1411
 longitude: 11.5692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/400px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/800px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/1200px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/1920px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/1920px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG---
 
 ## Overview
 

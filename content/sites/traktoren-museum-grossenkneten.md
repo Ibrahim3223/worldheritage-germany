@@ -4,19 +4,18 @@ site_name: "Traktoren-Museum Großenkneten"
 date: 2026-01-26
 draft: false
 description: "former museum in Germany"
-region: "Großenkneten"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großenkneten"
+  - "Lower Saxony"
 wikidata_id: "Q76636113"
 latitude: 52.947456
 longitude: 8.261061
 images:
-  []
----
+  []---
 
 ## Overview
 

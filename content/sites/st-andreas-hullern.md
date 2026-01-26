@@ -4,13 +4,13 @@ site_name: "St. Andreas (Hullern)"
 date: 2026-01-26
 draft: false
 description: "church building in Germany"
-region: "Germany"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Lower Saxony"
 wikidata_id: "Q2316993"
 latitude: 51.736291
 longitude: 7.289938
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/400px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/800px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/1200px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/1920px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/1920px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg---
 
 ## Overview
 

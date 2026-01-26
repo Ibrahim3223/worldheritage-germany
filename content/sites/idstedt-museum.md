@@ -4,19 +4,18 @@ site_name: "Idstedt Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Idstedt"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Idstedt"
+  - "Schleswig-Holstein"
 wikidata_id: "Q15115452"
 latitude: 54.577083
 longitude: 9.495277
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Memorial Neuer Börneplatz"
 date: 2026-01-26
 draft: false
 description: "Holocaust memorial in Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1497545"
 latitude: 50.1116
 longitude: 8.68998
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg/400px-Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg/800px-Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg/1200px-Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg/1920px-Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg/1920px-Frankfurt_am_Main,_Gedenkstätte_Neuer_Börneplatz_--_2015_--_6715.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hof 1"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1346711"
 latitude: 50.1268
 longitude: 11.8452
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/400px-Waldstein_Sendeturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/800px-Waldstein_Sendeturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/1200px-Waldstein_Sendeturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/1920px-Waldstein_Sendeturm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/1920px-Waldstein_Sendeturm.JPG---
 
 ## Overview
 

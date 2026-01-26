@@ -4,13 +4,13 @@ site_name: "Village Church in Beidendorf"
 date: 2026-01-26
 draft: false
 description: "Protestant church in Mecklenburg-Vorpommern, Germany"
-region: "Bobitz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bobitz"
+  - "Lower Saxony"
 wikidata_id: "Q1244118"
 latitude: 53.8306
 longitude: 11.3868
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kirche_in_Beidendorf.jpg/400px-Kirche_in_Beidendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kirche_in_Beidendorf.jpg/800px-Kirche_in_Beidendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kirche_in_Beidendorf.jpg/1200px-Kirche_in_Beidendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kirche_in_Beidendorf.jpg/1920px-Kirche_in_Beidendorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kirche_in_Beidendorf.jpg/1920px-Kirche_in_Beidendorf.jpg---
 
 ## Overview
 

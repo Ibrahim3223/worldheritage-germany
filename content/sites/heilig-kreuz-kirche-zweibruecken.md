@@ -4,13 +4,13 @@ site_name: "Heilig-Kreuz-Kirche (Zweibrücken)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Zweibrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zweibrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1269718"
 latitude: 49.25
 longitude: 7.36389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/400px-Zweibrücken_Heilig_Kreuz_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/800px-Zweibrücken_Heilig_Kreuz_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1200px-Zweibrücken_Heilig_Kreuz_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1920px-Zweibrücken_Heilig_Kreuz_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1920px-Zweibrücken_Heilig_Kreuz_01.JPG---
 
 ## Overview
 

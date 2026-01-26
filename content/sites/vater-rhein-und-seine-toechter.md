@@ -4,13 +4,13 @@ site_name: "Vater Rhein und seine Töchter"
 date: 2026-01-26
 draft: false
 description: "monument in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1692367"
 latitude: 51.2169
 longitude: 6.77403
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/400px-Brunnenplastik_Vater_Rhein2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/800px-Brunnenplastik_Vater_Rhein2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/1200px-Brunnenplastik_Vater_Rhein2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/1920px-Brunnenplastik_Vater_Rhein2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/1920px-Brunnenplastik_Vater_Rhein2.JPG---
 
 ## Overview
 

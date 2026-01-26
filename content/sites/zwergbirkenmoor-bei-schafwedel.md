@@ -4,19 +4,18 @@ site_name: "Zwergbirkenmoor bei Schafwedel"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bad Bodenteich"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bad Bodenteich"
+  - "Lower Saxony"
 wikidata_id: "Q244058"
 latitude: 52.8303
 longitude: 10.7222
 images:
-  []
----
+  []---
 
 ## Overview
 

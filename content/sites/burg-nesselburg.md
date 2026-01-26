@@ -4,13 +4,13 @@ site_name: "Burg Nesselburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nesselwang"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nesselwang"
+  - "Bavaria"
 wikidata_id: "Q1013221"
 latitude: 47.611880876
 longitude: 10.50254926
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Nesselburg_2.jpg/400px-Burg_Nesselburg_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Nesselburg_2.jpg/800px-Burg_Nesselburg_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Nesselburg_2.jpg/1200px-Burg_Nesselburg_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Nesselburg_2.jpg/1920px-Burg_Nesselburg_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Nesselburg_2.jpg/1920px-Burg_Nesselburg_2.jpg---
 
 ## Overview
 

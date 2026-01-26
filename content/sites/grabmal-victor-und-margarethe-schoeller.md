@@ -4,13 +4,13 @@ site_name: "Grabmal Victor und Margarethe Schoeller"
 date: 2026-01-26
 draft: false
 description: "tomb"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1540889"
 latitude: 50.8053
 longitude: 6.49124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/400px-GrabmalVictorundMargaretheSchoeller.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/800px-GrabmalVictorundMargaretheSchoeller.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/1200px-GrabmalVictorundMargaretheSchoeller.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/1920px-GrabmalVictorundMargaretheSchoeller.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/1920px-GrabmalVictorundMargaretheSchoeller.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gißübelturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Lauingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Lauingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1264595"
 latitude: 48.569461945
 longitude: 10.431953995
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/400px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/800px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/1200px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/1920px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/1920px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG---
 
 ## Overview
 

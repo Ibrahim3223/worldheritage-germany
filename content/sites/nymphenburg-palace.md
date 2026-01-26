@@ -4,13 +4,13 @@ site_name: "Nymphenburg Palace"
 date: 2026-01-26
 draft: false
 description: "Baroque palace in Munich, Bavaria, southern Germany"
-region: "Neuhausen-Nymphenburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuhausen-Nymphenburg"
+  - "Bavaria"
 wikidata_id: "Q131631"
 latitude: 48.158056
 longitude: 11.503611
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/400px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/800px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/1200px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/1920px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/1920px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg---
 
 ## Overview
 

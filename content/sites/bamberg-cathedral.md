@@ -4,13 +4,13 @@ site_name: "Bamberg Cathedral"
 date: 2026-01-26
 draft: false
 description: "Roman Catholic cathedral in Bamberg, Germany"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Catholic Cathedral"
 categories:
   - "Catholic Cathedral"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q5924"
 latitude: 49.890703
 longitude: 10.882533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/400px-Bamberg_Dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/800px-Bamberg_Dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/1200px-Bamberg_Dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/1920px-Bamberg_Dom.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/1920px-Bamberg_Dom.jpg---
 
 ## Overview
 

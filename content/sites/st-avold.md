@@ -4,13 +4,13 @@ site_name: "St. Avold"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Salzhemmendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Salzhemmendorf"
+  - "Lower Saxony"
 wikidata_id: "Q997386"
 latitude: 52.1269
 longitude: 9.62444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St._Avold_-_Der_See_1.JPG/400px-St._Avold_-_Der_See_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St._Avold_-_Der_See_1.JPG/800px-St._Avold_-_Der_See_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St._Avold_-_Der_See_1.JPG/1200px-St._Avold_-_Der_See_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St._Avold_-_Der_See_1.JPG/1920px-St._Avold_-_Der_See_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St._Avold_-_Der_See_1.JPG/1920px-St._Avold_-_Der_See_1.JPG---
 
 ## Overview
 

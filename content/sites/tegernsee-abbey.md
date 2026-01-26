@@ -4,13 +4,13 @@ site_name: "Tegernsee Abbey"
 date: 2026-01-26
 draft: false
 description: "former monastery"
-region: "Tegernsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Tegernsee"
+  - "Bavaria"
 wikidata_id: "Q448527"
 latitude: 47.707440018
 longitude: 11.756854504
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Tegernsee.jpg/400px-Schloss_Tegernsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Tegernsee.jpg/800px-Schloss_Tegernsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Tegernsee.jpg/1200px-Schloss_Tegernsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Tegernsee.jpg/1920px-Schloss_Tegernsee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schloss_Tegernsee.jpg/1920px-Schloss_Tegernsee.jpg---
 
 ## Overview
 

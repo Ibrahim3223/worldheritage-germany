@@ -4,13 +4,13 @@ site_name: "Aegidienkirche"
 date: 2026-01-26
 draft: false
 description: "church ruin in Hannover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q380599"
 latitude: 52.369404226
 longitude: 9.739298871
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/400px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/800px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1200px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1920px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1920px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg---
 
 ## Overview
 

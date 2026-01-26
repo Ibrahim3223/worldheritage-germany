@@ -4,13 +4,13 @@ site_name: "Burg Hunolstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hunolstein"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hunolstein"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1012518"
 latitude: 49.7987
 longitude: 7.04475
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ruine_Hunolstein_um_1866.jpeg/400px-Ruine_Hunolstein_um_1866.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ruine_Hunolstein_um_1866.jpeg/800px-Ruine_Hunolstein_um_1866.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ruine_Hunolstein_um_1866.jpeg/1200px-Ruine_Hunolstein_um_1866.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ruine_Hunolstein_um_1866.jpeg/1920px-Ruine_Hunolstein_um_1866.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ruine_Hunolstein_um_1866.jpeg/1920px-Ruine_Hunolstein_um_1866.jpeg---
 
 ## Overview
 

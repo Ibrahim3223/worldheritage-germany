@@ -4,13 +4,13 @@ site_name: "Kunstforum Ostdeutsche Galerie"
 date: 2026-01-26
 draft: false
 description: "museum in Regensburg, Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q1328893"
 latitude: 49.0198
 longitude: 12.0822
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/OstdeutscheGalerie-Regensburg1.JPG/400px-OstdeutscheGalerie-Regensburg1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/OstdeutscheGalerie-Regensburg1.JPG/800px-OstdeutscheGalerie-Regensburg1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/OstdeutscheGalerie-Regensburg1.JPG/1200px-OstdeutscheGalerie-Regensburg1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/OstdeutscheGalerie-Regensburg1.JPG/1920px-OstdeutscheGalerie-Regensburg1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/OstdeutscheGalerie-Regensburg1.JPG/1920px-OstdeutscheGalerie-Regensburg1.JPG---
 
 ## Overview
 

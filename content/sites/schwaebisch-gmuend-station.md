@@ -4,13 +4,13 @@ site_name: "Schwäbisch Gmünd station"
 date: 2026-01-26
 draft: false
 description: "railway station in Schwäbisch Gmünd, Germany"
-region: "Schwäbisch Gmünd"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Schwäbisch Gmünd"
+  - "Baden-Württemberg"
 wikidata_id: "Q322983"
 latitude: 48.801111111
 longitude: 9.788333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/400px-Bf_Schwaebisch_Gmuend_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/800px-Bf_Schwaebisch_Gmuend_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/1200px-Bf_Schwaebisch_Gmuend_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/1920px-Bf_Schwaebisch_Gmuend_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/1920px-Bf_Schwaebisch_Gmuend_2008.jpg---
 
 ## Overview
 

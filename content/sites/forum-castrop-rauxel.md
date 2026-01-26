@@ -4,13 +4,13 @@ site_name: "Forum Castrop-Rauxel"
 date: 2026-01-26
 draft: false
 description: "complex of multi-purpose halls and town hall in Castrop-Rauxel, Germany"
-region: "Castrop-Rauxel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Castrop-Rauxel"
+  - "Lower Saxony"
 wikidata_id: "Q15810015"
 latitude: 51.56499
 longitude: 7.31179
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/400px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/800px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/1200px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/1920px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/1920px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg---
 
 ## Overview
 

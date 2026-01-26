@@ -4,13 +4,13 @@ site_name: "Bastorf Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
-region: "Bastorf"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Bastorf"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1821409"
 latitude: 54.1319
 longitude: 11.6936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/400px-Ngl_D_MV_Bastorf_Buk_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/800px-Ngl_D_MV_Bastorf_Buk_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1200px-Ngl_D_MV_Bastorf_Buk_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1920px-Ngl_D_MV_Bastorf_Buk_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1920px-Ngl_D_MV_Bastorf_Buk_4.jpg---
 
 ## Overview
 

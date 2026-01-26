@@ -4,13 +4,13 @@ site_name: "Sanssouci Park"
 date: 2026-01-26
 draft: false
 description: "park in Potsdam, Germany"
-region: "Western suburbs of Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Western suburbs of Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q449256"
 latitude: 52.402
 longitude: 13.0336
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/400px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/800px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/1200px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/1920px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/1920px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg---
 
 ## Overview
 

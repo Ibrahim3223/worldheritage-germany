@@ -4,13 +4,13 @@ site_name: "Germany Spy Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q20971579"
 latitude: 52.509
 longitude: 13.379277777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Spionagemuseum_asv2024-07_img2.jpg/400px-Berlin_Spionagemuseum_asv2024-07_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Spionagemuseum_asv2024-07_img2.jpg/800px-Berlin_Spionagemuseum_asv2024-07_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Spionagemuseum_asv2024-07_img2.jpg/1200px-Berlin_Spionagemuseum_asv2024-07_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Spionagemuseum_asv2024-07_img2.jpg/1920px-Berlin_Spionagemuseum_asv2024-07_img2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Spionagemuseum_asv2024-07_img2.jpg/1920px-Berlin_Spionagemuseum_asv2024-07_img2.jpg---
 
 ## Overview
 

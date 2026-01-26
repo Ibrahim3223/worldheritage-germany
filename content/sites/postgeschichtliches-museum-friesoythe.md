@@ -4,19 +4,18 @@ site_name: "Postgeschichtliches Museum Friesoythe"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Friesoythe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Friesoythe"
+  - "Lower Saxony"
 wikidata_id: "Q76635984"
 latitude: 53.021374
 longitude: 7.85729
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Martin"
 date: 2026-01-26
 draft: false
 description: "church building in Linden-Limmer, Hannover, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q1739180"
 latitude: 52.3656
 longitude: 9.71
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/400px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/800px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/1200px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/1920px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/1920px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg---
 
 ## Overview
 

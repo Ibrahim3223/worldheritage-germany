@@ -4,13 +4,13 @@ site_name: "Schloss Reinbek"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Reinbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Reinbek"
+  - "Hamburg"
 wikidata_id: "Q1535100"
 latitude: 53.5073
 longitude: 10.2539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/400px-SchlossReinbek2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/800px-SchlossReinbek2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/1200px-SchlossReinbek2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/1920px-SchlossReinbek2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/1920px-SchlossReinbek2.jpg---
 
 ## Overview
 

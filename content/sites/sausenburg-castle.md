@@ -4,13 +4,13 @@ site_name: "Sausenburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kandern"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kandern"
+  - "Baden-Württemberg"
 wikidata_id: "Q552301"
 latitude: 47.73795833
 longitude: 7.68880556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/400px-Sausenburg_Ruin_in_Spring.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/800px-Sausenburg_Ruin_in_Spring.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/1200px-Sausenburg_Ruin_in_Spring.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/1920px-Sausenburg_Ruin_in_Spring.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/1920px-Sausenburg_Ruin_in_Spring.JPG---
 
 ## Overview
 

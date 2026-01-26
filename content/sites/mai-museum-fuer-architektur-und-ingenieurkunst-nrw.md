@@ -4,19 +4,18 @@ site_name: "M:AI Museum für Architektur und Ingenieurkunst, NRW"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "North Rhine-Westphalia"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "North Rhine-Westphalia"
+  - "Lower Saxony"
 wikidata_id: "Q1748439"
 latitude: 51.4964
 longitude: 7.1062
 images:
-  []
----
+  []---
 
 ## Overview
 

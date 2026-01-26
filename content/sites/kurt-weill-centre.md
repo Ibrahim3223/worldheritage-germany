@@ -4,13 +4,13 @@ site_name: "Kurt Weill Centre"
 date: 2026-01-26
 draft: false
 description: "museum in Dessau, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q1793322"
 latitude: 51.843
 longitude: 12.2217
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/400px-Meisterhaus_Feininger_2004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/800px-Meisterhaus_Feininger_2004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/1200px-Meisterhaus_Feininger_2004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/1920px-Meisterhaus_Feininger_2004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/1920px-Meisterhaus_Feininger_2004.jpg---
 
 ## Overview
 

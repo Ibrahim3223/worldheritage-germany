@@ -4,13 +4,13 @@ site_name: "Am Osterberg 4, 6, Jägerstieg 1"
 date: 2026-01-26
 draft: false
 description: "architectural ensemble in Gernrode, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q15856622"
 latitude: 51.722619
 longitude: 11.142007
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/400px-Am_Osterberg_Häusergruppe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/800px-Am_Osterberg_Häusergruppe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/1200px-Am_Osterberg_Häusergruppe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/1920px-Am_Osterberg_Häusergruppe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/1920px-Am_Osterberg_Häusergruppe.jpg---
 
 ## Overview
 

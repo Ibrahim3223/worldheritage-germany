@@ -4,13 +4,13 @@ site_name: "Römerberg"
 date: 2026-01-26
 draft: false
 description: "square in Frankfurt, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q195141"
 latitude: 50.110278
 longitude: 8.682222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Roemerberg-ffm-033.jpg/400px-Roemerberg-ffm-033.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Roemerberg-ffm-033.jpg/800px-Roemerberg-ffm-033.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Roemerberg-ffm-033.jpg/1200px-Roemerberg-ffm-033.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Roemerberg-ffm-033.jpg/1920px-Roemerberg-ffm-033.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Roemerberg-ffm-033.jpg/1920px-Roemerberg-ffm-033.jpg---
 
 ## Overview
 

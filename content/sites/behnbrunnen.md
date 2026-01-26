@@ -4,13 +4,13 @@ site_name: "Behnbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Hamburg-Altona, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q814528"
 latitude: 53.54805556
 longitude: 9.94194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Behnbrunnen.JPG/400px-Behnbrunnen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Behnbrunnen.JPG/800px-Behnbrunnen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Behnbrunnen.JPG/1200px-Behnbrunnen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Behnbrunnen.JPG/1920px-Behnbrunnen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Behnbrunnen.JPG/1920px-Behnbrunnen.JPG---
 
 ## Overview
 

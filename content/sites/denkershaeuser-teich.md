@@ -4,13 +4,13 @@ site_name: "Denkershäuser Teich"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Northeim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Northeim"
+  - "Lower Saxony"
 wikidata_id: "Q1187934"
 latitude: 51.7395
 longitude: 10.0384
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/400px-Denkershaeuser_Teich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/800px-Denkershaeuser_Teich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/1200px-Denkershaeuser_Teich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/1920px-Denkershaeuser_Teich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/1920px-Denkershaeuser_Teich.jpg---
 
 ## Overview
 

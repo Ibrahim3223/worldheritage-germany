@@ -4,13 +4,13 @@ site_name: "Sterntor"
 date: 2026-01-26
 draft: false
 description: "gate in Bonn"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1237691"
 latitude: 50.7353
 longitude: 7.09853
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/400px-Sterntor_Bonn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/800px-Sterntor_Bonn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/1200px-Sterntor_Bonn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/1920px-Sterntor_Bonn.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/1920px-Sterntor_Bonn.JPG---
 
 ## Overview
 

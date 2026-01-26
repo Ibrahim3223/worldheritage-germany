@@ -4,19 +4,18 @@ site_name: "Amtsgerichtsgebäude Großalmerode"
 date: 2026-01-26
 draft: false
 description: "cultural monument in Großalmerode in the Werra-Meißner district, Hesse"
-region: "Großalmerode"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Großalmerode"
+  - "Hesse"
 wikidata_id: "Q116921139"
 latitude: 51.258388125
 longitude: 9.774820305
 images:
-  []
----
+  []---
 
 ## Overview
 

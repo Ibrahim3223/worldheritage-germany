@@ -4,13 +4,13 @@ site_name: "Stiftung Louisenlund"
 date: 2026-01-26
 draft: false
 description: "co-ed boarding school in Schleswig-Holstein, Germany"
-region: "Güby"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Güby"
+  - "Schleswig-Holstein"
 wikidata_id: "Q468080"
 latitude: 54.493
 longitude: 9.68501111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/400px-Herrenhaus_Louisenlund.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/800px-Herrenhaus_Louisenlund.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/1200px-Herrenhaus_Louisenlund.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/1920px-Herrenhaus_Louisenlund.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/1920px-Herrenhaus_Louisenlund.JPG---
 
 ## Overview
 

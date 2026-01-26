@@ -4,13 +4,13 @@ site_name: "Marburg Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Marburg, Hesse, Germany"
-region: "Marburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Marburg"
+  - "Hesse"
 wikidata_id: "Q538301"
 latitude: 50.810194444
 longitude: 8.767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marburg_asv2022-02_img18_Castle.jpg/400px-Marburg_asv2022-02_img18_Castle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marburg_asv2022-02_img18_Castle.jpg/800px-Marburg_asv2022-02_img18_Castle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marburg_asv2022-02_img18_Castle.jpg/1200px-Marburg_asv2022-02_img18_Castle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marburg_asv2022-02_img18_Castle.jpg/1920px-Marburg_asv2022-02_img18_Castle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marburg_asv2022-02_img18_Castle.jpg/1920px-Marburg_asv2022-02_img18_Castle.jpg---
 
 ## Overview
 

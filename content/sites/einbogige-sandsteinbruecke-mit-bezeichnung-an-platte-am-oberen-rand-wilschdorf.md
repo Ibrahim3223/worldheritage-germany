@@ -4,19 +4,18 @@ site_name: "Einbogige Sandsteinbrücke mit Bezeichnung an Platte am oberen Rand 
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Dürrröhrsdorf-Dittersbach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Dürrröhrsdorf-Dittersbach"
+  - "Saxony"
 wikidata_id: "Q49441665"
 latitude: 51.049418941
 longitude: 13.99665548
 images:
-  []
----
+  []---
 
 ## Overview
 

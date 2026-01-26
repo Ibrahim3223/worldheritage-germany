@@ -4,13 +4,13 @@ site_name: "Kleiner Leuchtturm (Borkum)"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Lower Saxony, Germany"
-region: "Borkum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Borkum"
+  - "Lower Saxony"
 wikidata_id: "Q1325729"
 latitude: 53.57875
 longitude: 6.66703
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/400px-Kuestenfunkstelle_Borkum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/800px-Kuestenfunkstelle_Borkum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/1200px-Kuestenfunkstelle_Borkum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/1920px-Kuestenfunkstelle_Borkum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/1920px-Kuestenfunkstelle_Borkum.JPG---
 
 ## Overview
 

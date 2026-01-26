@@ -4,13 +4,13 @@ site_name: "Palas of Scharfenstein Castle"
 date: 2026-01-26
 draft: false
 description: "Ruins of the former palas of the castle"
-region: "Drebach"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Drebach"
+  - "Saxony"
 wikidata_id: "Q136391163"
 latitude: 50.7047546
 longitude: 13.0555287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/400px-Burg-Scharfenstein_Palas_20250403_105709.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/800px-Burg-Scharfenstein_Palas_20250403_105709.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/1200px-Burg-Scharfenstein_Palas_20250403_105709.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/1920px-Burg-Scharfenstein_Palas_20250403_105709.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/1920px-Burg-Scharfenstein_Palas_20250403_105709.jpg---
 
 ## Overview
 

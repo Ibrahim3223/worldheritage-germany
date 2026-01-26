@@ -4,13 +4,13 @@ site_name: "Memorial for Heinrich von Kleist"
 date: 2026-01-26
 draft: false
 description: "sculpture by Gottlieb Elster"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q11823217"
 latitude: 52.34
 longitude: 14.5522
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/400px-FFO_04-13_Kleist-Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/800px-FFO_04-13_Kleist-Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/1200px-FFO_04-13_Kleist-Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/1920px-FFO_04-13_Kleist-Park.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/1920px-FFO_04-13_Kleist-Park.jpg---
 
 ## Overview
 

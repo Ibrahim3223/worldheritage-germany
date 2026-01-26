@@ -4,13 +4,13 @@ site_name: "Emil-Schumacher-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Hagen"
+  - "Lower Saxony"
 wikidata_id: "Q18286819"
 latitude: 51.355641
 longitude: 7.473533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/400px-Kunstquartier_Hagen840.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/800px-Kunstquartier_Hagen840.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/1200px-Kunstquartier_Hagen840.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/1920px-Kunstquartier_Hagen840.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/1920px-Kunstquartier_Hagen840.jpg---
 
 ## Overview
 

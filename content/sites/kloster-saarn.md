@@ -4,13 +4,13 @@ site_name: "Kloster Saarn"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Mülheim an der Ruhr"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Mülheim an der Ruhr"
+  - "Lower Saxony"
 wikidata_id: "Q206088"
 latitude: 51.403
 longitude: 6.88164
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/400px-Panorama_Kloster_Saarn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/800px-Panorama_Kloster_Saarn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/1200px-Panorama_Kloster_Saarn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/1920px-Panorama_Kloster_Saarn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/1920px-Panorama_Kloster_Saarn.jpg---
 
 ## Overview
 

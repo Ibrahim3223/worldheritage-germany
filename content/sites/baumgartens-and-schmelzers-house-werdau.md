@@ -4,13 +4,13 @@ site_name: "Baumgarten's and Schmelzer's House, Werdau"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Saxony, architectural ensemble in Werdau, Germany"
-region: "Werdau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Werdau"
+  - "Saxony"
 wikidata_id: "Q49438975"
 latitude: 50.732666666
 longitude: 12.3735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/400px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/800px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/1200px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/1920px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/1920px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Mondo mio!"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1662112"
 latitude: 51.4969
 longitude: 7.472
 images:
-  []
----
+  []---
 
 ## Overview
 

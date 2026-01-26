@@ -4,19 +4,18 @@ site_name: "Zoological Collection Rostock"
 date: 2026-01-26
 draft: false
 description: "Scientific university collection"
-region: "Germany"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q220214"
 latitude: 54.087448
 longitude: 12.133785
 images:
-  []
----
+  []---
 
 ## Overview
 

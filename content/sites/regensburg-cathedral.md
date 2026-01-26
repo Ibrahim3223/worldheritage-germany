@@ -4,13 +4,13 @@ site_name: "Regensburg Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral in Germany"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q280268"
 latitude: 49.019460119
 longitude: 12.098302067
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/400px-Regensburg_Dom_160910.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/800px-Regensburg_Dom_160910.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/1200px-Regensburg_Dom_160910.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/1920px-Regensburg_Dom_160910.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/1920px-Regensburg_Dom_160910.jpg---
 
 ## Overview
 

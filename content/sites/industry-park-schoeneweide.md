@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG/400px-Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG/800px-Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG/1200px-Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG/1920px-Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG/1920px-Industriesalon_Schoeneweide,_2021-10-11_ama_fec.JPG---
 
 ## Overview
 

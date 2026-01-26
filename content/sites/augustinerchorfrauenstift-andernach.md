@@ -4,19 +4,18 @@ site_name: "Augustinerchorfrauenstift Andernach"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Kloster in Deutschland"
-region: "Andernach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Andernach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q334309"
 latitude: 50.4323
 longitude: 7.40673
 images:
-  []
----
+  []---
 
 ## Overview
 

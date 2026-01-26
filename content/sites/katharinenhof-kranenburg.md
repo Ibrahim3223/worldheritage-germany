@@ -4,13 +4,13 @@ site_name: "Katharinenhof Kranenburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kranenburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kranenburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1736071"
 latitude: 51.7889
 longitude: 6.00778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/400px-Kranenburg_-_Katharinenhof_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/800px-Kranenburg_-_Katharinenhof_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/1200px-Kranenburg_-_Katharinenhof_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/1920px-Kranenburg_-_Katharinenhof_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/1920px-Kranenburg_-_Katharinenhof_02_ies.jpg---
 
 ## Overview
 

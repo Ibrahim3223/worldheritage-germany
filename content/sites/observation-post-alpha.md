@@ -4,13 +4,13 @@ site_name: "Observation Post Alpha"
 date: 2026-01-26
 draft: false
 description: "observation Post overlooking the inner German border"
-region: "Rasdorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Rasdorf"
+  - "Hesse"
 wikidata_id: "Q318112"
 latitude: 50.72393056
 longitude: 9.93185556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/400px-Gedenktafel-Innerdeutsche_Grenze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/800px-Gedenktafel-Innerdeutsche_Grenze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/1200px-Gedenktafel-Innerdeutsche_Grenze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/1920px-Gedenktafel-Innerdeutsche_Grenze.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/1920px-Gedenktafel-Innerdeutsche_Grenze.jpg---
 
 ## Overview
 

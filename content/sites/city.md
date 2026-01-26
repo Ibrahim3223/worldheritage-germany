@@ -4,19 +4,18 @@ site_name: "City"
 date: 2026-01-26
 draft: false
 description: "District of Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1250599"
 latitude: 51.5139
 longitude: 7.46528
 images:
-  []
----
+  []---
 
 ## Overview
 

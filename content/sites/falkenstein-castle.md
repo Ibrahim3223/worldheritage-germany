@@ -4,13 +4,13 @@ site_name: "Falkenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Saxony-Anhalt, Germany"
-region: "Falkenstein/Harz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Falkenstein/Harz"
+  - "Lower Saxony"
 wikidata_id: "Q317023"
 latitude: 51.681666666
 longitude: 11.265
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Falkenstein_im_Harz_(April_2009).jpg/400px-Burg_Falkenstein_im_Harz_(April_2009).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Falkenstein_im_Harz_(April_2009).jpg/800px-Burg_Falkenstein_im_Harz_(April_2009).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Falkenstein_im_Harz_(April_2009).jpg/1200px-Burg_Falkenstein_im_Harz_(April_2009).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Falkenstein_im_Harz_(April_2009).jpg/1920px-Burg_Falkenstein_im_Harz_(April_2009).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Falkenstein_im_Harz_(April_2009).jpg/1920px-Burg_Falkenstein_im_Harz_(April_2009).jpg---
 
 ## Overview
 

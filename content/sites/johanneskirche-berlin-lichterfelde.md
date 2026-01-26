@@ -4,13 +4,13 @@ site_name: "Johanneskirche (Berlin-Lichterfelde)"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1698821"
 latitude: 52.4368
 longitude: 13.2922
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/400px-Johanneskirche_(Berlin-Lichterfelde).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/800px-Johanneskirche_(Berlin-Lichterfelde).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1200px-Johanneskirche_(Berlin-Lichterfelde).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1920px-Johanneskirche_(Berlin-Lichterfelde).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1920px-Johanneskirche_(Berlin-Lichterfelde).jpg---
 
 ## Overview
 

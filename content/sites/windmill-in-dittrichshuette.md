@@ -4,13 +4,13 @@ site_name: "Windmill in Dittrichshütte"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Saalfeld"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Saalfeld"
+  - "Thuringia"
 wikidata_id: "Q25474418"
 latitude: 50.6333232
 longitude: 11.2562326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/400px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/800px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/1200px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/1920px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/1920px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg---
 
 ## Overview
 

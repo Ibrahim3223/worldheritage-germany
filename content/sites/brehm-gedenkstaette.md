@@ -4,13 +4,13 @@ site_name: "Brehm-Gedenkstätte"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Renthendorf"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Renthendorf"
+  - "Thuringia"
 wikidata_id: "Q24260085"
 latitude: 50.80677
 longitude: 11.84697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/400px-Brehm-Gedenkstätte_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/800px-Brehm-Gedenkstätte_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1200px-Brehm-Gedenkstätte_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1920px-Brehm-Gedenkstätte_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1920px-Brehm-Gedenkstätte_2.jpg---
 
 ## Overview
 

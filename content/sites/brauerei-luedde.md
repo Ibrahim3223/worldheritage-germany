@@ -4,13 +4,13 @@ site_name: "Brauerei Lüdde"
 date: 2026-01-26
 draft: false
 description: "timber framed house"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q900306"
 latitude: 51.788428
 longitude: 11.138994
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/400px-Quedlinburg_Brauerei_Lüdde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/800px-Quedlinburg_Brauerei_Lüdde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1200px-Quedlinburg_Brauerei_Lüdde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1920px-Quedlinburg_Brauerei_Lüdde.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1920px-Quedlinburg_Brauerei_Lüdde.JPG---
 
 ## Overview
 

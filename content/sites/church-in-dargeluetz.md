@@ -4,13 +4,13 @@ site_name: "Church in Dargelütz"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Kirchengebäude in Deutschland"
-region: "Parchim"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Parchim"
+  - "Brandenburg"
 wikidata_id: "Q1244225"
 latitude: 53.4837
 longitude: 11.8555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/400px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/800px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/1200px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/1920px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/1920px-Dargeluetz_Kirchturm_2010-08-21_030.JPG---
 
 ## Overview
 

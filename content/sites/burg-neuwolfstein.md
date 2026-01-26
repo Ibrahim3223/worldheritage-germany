@@ -4,13 +4,13 @@ site_name: "Burg Neuwolfstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wolfstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wolfstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013247"
 latitude: 49.5857
 longitude: 7.60483
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/400px-Neuwolfstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/800px-Neuwolfstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1200px-Neuwolfstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1920px-Neuwolfstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1920px-Neuwolfstein.JPG---
 
 ## Overview
 

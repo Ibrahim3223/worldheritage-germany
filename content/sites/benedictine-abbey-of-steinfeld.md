@@ -4,13 +4,13 @@ site_name: "Benedictine Abbey of Steinfeld"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Kall"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Kall"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q817044"
 latitude: 50.5022
 longitude: 6.56349
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Benediktinerinnen-Abtei_Steinfeld.jpg/400px-Benediktinerinnen-Abtei_Steinfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Benediktinerinnen-Abtei_Steinfeld.jpg/800px-Benediktinerinnen-Abtei_Steinfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Benediktinerinnen-Abtei_Steinfeld.jpg/1200px-Benediktinerinnen-Abtei_Steinfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Benediktinerinnen-Abtei_Steinfeld.jpg/1920px-Benediktinerinnen-Abtei_Steinfeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Benediktinerinnen-Abtei_Steinfeld.jpg/1920px-Benediktinerinnen-Abtei_Steinfeld.jpg---
 
 ## Overview
 

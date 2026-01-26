@@ -4,19 +4,18 @@ site_name: "Museum Schloss Fechenbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dieburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dieburg"
+  - "Hesse"
 wikidata_id: "Q1954487"
 latitude: 49.8997
 longitude: 8.83833
 images:
-  []
----
+  []---
 
 ## Overview
 

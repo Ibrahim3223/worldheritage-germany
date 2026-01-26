@@ -4,13 +4,13 @@ site_name: "Reiss-Engelhorn Museums"
 date: 2026-01-26
 draft: false
 description: "public institution for museums and cultural institutions in Mannheim, Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q468496"
 latitude: 49.4889
 longitude: 8.46212
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/400px-Reiss-Museum_Mannheim_Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/800px-Reiss-Museum_Mannheim_Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/1200px-Reiss-Museum_Mannheim_Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/1920px-Reiss-Museum_Mannheim_Portal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/1920px-Reiss-Museum_Mannheim_Portal.jpg---
 
 ## Overview
 

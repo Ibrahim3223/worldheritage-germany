@@ -4,13 +4,13 @@ site_name: "Haus für Medienkunst Oldenburg"
 date: 2026-01-26
 draft: false
 description: "art gallery in the city of Oldenburg, Lower Saxony, Germany"
-region: "Oldenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Oldenburg"
+  - "Lower Saxony"
 wikidata_id: "Q22908054"
 latitude: 53.14363889
 longitude: 8.20858333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/400px-Edith-Russ-Haus_building,_Oldenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/800px-Edith-Russ-Haus_building,_Oldenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/1200px-Edith-Russ-Haus_building,_Oldenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/1920px-Edith-Russ-Haus_building,_Oldenburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/1920px-Edith-Russ-Haus_building,_Oldenburg.JPG---
 
 ## Overview
 

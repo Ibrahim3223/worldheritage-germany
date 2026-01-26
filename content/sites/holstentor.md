@@ -4,13 +4,13 @@ site_name: "Holstentor"
 date: 2026-01-26
 draft: false
 description: "two-towered city gate in Lübeck, Germany, used as a museum"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q321229"
 latitude: 53.8662
 longitude: 10.6797
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/400px-00_3778_Lübeck_-_Holstentor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/800px-00_3778_Lübeck_-_Holstentor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1200px-00_3778_Lübeck_-_Holstentor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1920px-00_3778_Lübeck_-_Holstentor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1920px-00_3778_Lübeck_-_Holstentor.jpg---
 
 ## Overview
 

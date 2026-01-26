@@ -4,13 +4,13 @@ site_name: "Telecom Telecommunication Tower Heidelberg"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1407063"
 latitude: 49.4028
 longitude: 8.73066
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/400px-Fernmeldeturm_Heidelberg_15042013_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/800px-Fernmeldeturm_Heidelberg_15042013_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/1200px-Fernmeldeturm_Heidelberg_15042013_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/1920px-Fernmeldeturm_Heidelberg_15042013_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/1920px-Fernmeldeturm_Heidelberg_15042013_1.JPG---
 
 ## Overview
 

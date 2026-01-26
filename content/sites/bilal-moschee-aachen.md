@@ -4,13 +4,13 @@ site_name: "Bilal-Moschee (Aachen)"
 date: 2026-01-26
 draft: false
 description: "Moschee in Aachen"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q860254"
 latitude: 50.7797
 longitude: 6.07139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/400px-Bilal-Moschee,_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/800px-Bilal-Moschee,_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1200px-Bilal-Moschee,_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1920px-Bilal-Moschee,_Aachen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1920px-Bilal-Moschee,_Aachen.jpg---
 
 ## Overview
 

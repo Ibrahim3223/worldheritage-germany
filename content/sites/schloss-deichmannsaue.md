@@ -4,13 +4,13 @@ site_name: "Schloss Deichmannsaue"
 date: 2026-01-26
 draft: false
 description: "Gebäudekomplex im Süden von Rüngsdorf, einem Ortsteil des Bonner Stadtbezirks Bad Godesberg"
-region: "Bad Godesberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bad Godesberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2240599"
 latitude: 50.6714
 longitude: 7.18538
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/400px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/800px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/1200px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/1920px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/1920px-Schloss_Deichmannsaue,_Rüngsdorf.jpg---
 
 ## Overview
 

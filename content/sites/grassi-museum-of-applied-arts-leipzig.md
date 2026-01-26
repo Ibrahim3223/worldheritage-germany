@@ -4,13 +4,13 @@ site_name: "GRASSI Museum of Applied Arts Leipzig"
 date: 2026-01-26
 draft: false
 description: "museum of decorative arts in Leipzig, Saxony, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q1543524"
 latitude: 51.3369
 longitude: 12.3885
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/400px-Grassimuseum_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/800px-Grassimuseum_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1200px-Grassimuseum_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1920px-Grassimuseum_Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1920px-Grassimuseum_Leipzig.jpg---
 
 ## Overview
 

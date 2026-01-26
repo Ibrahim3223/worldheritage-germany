@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Walter"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1390752"
 latitude: 48.3675
 longitude: 10.9197
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/400px-Kunstmuseum_Walter_Augsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/800px-Kunstmuseum_Walter_Augsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/1200px-Kunstmuseum_Walter_Augsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/1920px-Kunstmuseum_Walter_Augsburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/1920px-Kunstmuseum_Walter_Augsburg.JPG---
 
 ## Overview
 

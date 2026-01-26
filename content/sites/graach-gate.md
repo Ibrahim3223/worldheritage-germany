@@ -4,13 +4,13 @@ site_name: "Graach Gate"
 date: 2026-01-26
 draft: false
 description: "town gate of the German town of Bernkastel-Kues"
-region: "Bernkastel-Kues"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bernkastel-Kues"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q153891"
 latitude: 49.916972222
 longitude: 7.075861111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Graacher_Tor.JPG/400px-Graacher_Tor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Graacher_Tor.JPG/800px-Graacher_Tor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Graacher_Tor.JPG/1200px-Graacher_Tor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Graacher_Tor.JPG/1920px-Graacher_Tor.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Graacher_Tor.JPG/1920px-Graacher_Tor.JPG---
 
 ## Overview
 

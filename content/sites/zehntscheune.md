@@ -4,13 +4,13 @@ site_name: "Zehntscheune"
 date: 2026-01-26
 draft: false
 description: "building in Detmold, Germany, used as a museum"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q18633193"
 latitude: 51.937346
 longitude: 8.876237
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg/400px-Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg/800px-Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg/1200px-Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg/1920px-Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg/1920px-Detmold_-_2013-04-28_-_Zehntscheune_(1).jpg---
 
 ## Overview
 

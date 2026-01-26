@@ -4,13 +4,13 @@ site_name: "Botanischer Garten der Universität Heidelberg"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q875332"
 latitude: 49.4148
 longitude: 8.66778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/400px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/800px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1200px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1920px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1920px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg---
 
 ## Overview
 

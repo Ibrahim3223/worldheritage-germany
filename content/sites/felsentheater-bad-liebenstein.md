@@ -4,13 +4,13 @@ site_name: "Felsentheater (Bad Liebenstein)"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1404293"
 latitude: 50.8222
 longitude: 10.3653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/400px-WAK_BALI_Felsentheater1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/800px-WAK_BALI_Felsentheater1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/1200px-WAK_BALI_Felsentheater1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/1920px-WAK_BALI_Felsentheater1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/1920px-WAK_BALI_Felsentheater1.jpg---
 
 ## Overview
 

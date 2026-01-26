@@ -4,13 +4,13 @@ site_name: "Petershagen synagogue"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Petershagen, Germany"
-region: "Petershagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Petershagen"
+  - "Lower Saxony"
 wikidata_id: "Q2375261"
 latitude: 52.3858
 longitude: 8.94768
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/400px-Petershagen_Alte-Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/800px-Petershagen_Alte-Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/1200px-Petershagen_Alte-Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/1920px-Petershagen_Alte-Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/1920px-Petershagen_Alte-Synagoge.jpg---
 
 ## Overview
 

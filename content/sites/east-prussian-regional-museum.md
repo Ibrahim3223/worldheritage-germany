@@ -4,13 +4,13 @@ site_name: "East Prussian Regional Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Lüneburg"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q830476"
 latitude: 53.24619444
 longitude: 10.40744444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/400px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/800px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1200px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1920px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1920px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg---
 
 ## Overview
 

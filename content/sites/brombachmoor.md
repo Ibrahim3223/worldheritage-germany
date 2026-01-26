@@ -4,19 +4,18 @@ site_name: "Brombachmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Pfofeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Pfofeld"
+  - "Bavaria"
 wikidata_id: "Q658124"
 latitude: 49.1309
 longitude: 10.8448
 images:
-  []
----
+  []---
 
 ## Overview
 

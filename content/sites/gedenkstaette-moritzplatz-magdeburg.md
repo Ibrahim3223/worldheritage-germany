@@ -4,19 +4,18 @@ site_name: "Gedenkstätte Moritzplatz Magdeburg"
 date: 2026-01-26
 draft: false
 description: "Gedenkstätte für aus politischen Gründen Verfolgte und Inhaftierte"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q15111362"
 latitude: 52.155385
 longitude: 11.63166
 images:
-  []
----
+  []---
 
 ## Overview
 

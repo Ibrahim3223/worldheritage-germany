@@ -4,13 +4,13 @@ site_name: "Fürstlich Schaumburg-Lippische Hofbibliothek"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Bückeburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Bückeburg"
+  - "Lower Saxony"
 wikidata_id: "Q1483614"
 latitude: 52.2589
 longitude: 9.04361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/400px-Bueckeburg_Schloss_v_O.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/800px-Bueckeburg_Schloss_v_O.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/1200px-Bueckeburg_Schloss_v_O.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/1920px-Bueckeburg_Schloss_v_O.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/1920px-Bueckeburg_Schloss_v_O.JPG---
 
 ## Overview
 

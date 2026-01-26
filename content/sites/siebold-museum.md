@@ -4,13 +4,13 @@ site_name: "Siebold-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q16003211"
 latitude: 49.793717
 longitude: 9.894422
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/400px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/800px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/1200px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/1920px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/1920px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg---
 
 ## Overview
 

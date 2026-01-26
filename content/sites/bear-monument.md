@@ -4,13 +4,13 @@ site_name: "Bear Monument"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q1019093"
 latitude: 51.6822
 longitude: 11.1008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/400px-Bärendenkmal_b._Bremer_Teich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/800px-Bärendenkmal_b._Bremer_Teich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/1200px-Bärendenkmal_b._Bremer_Teich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/1920px-Bärendenkmal_b._Bremer_Teich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/1920px-Bärendenkmal_b._Bremer_Teich.jpg---
 
 ## Overview
 

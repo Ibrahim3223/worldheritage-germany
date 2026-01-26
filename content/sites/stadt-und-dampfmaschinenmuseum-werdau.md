@@ -4,13 +4,13 @@ site_name: "Stadt- und Dampfmaschinenmuseum Werdau"
 date: 2026-01-26
 draft: false
 description: "museum in Werdau, Saxony, Germany"
-region: "Werdau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Werdau"
+  - "Saxony"
 wikidata_id: "Q1750111"
 latitude: 50.732666666
 longitude: 12.3735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/400px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/800px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/1200px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/1920px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/1920px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg---
 
 ## Overview
 

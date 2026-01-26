@@ -4,13 +4,13 @@ site_name: "Crusauer Kupfer- und Messingfabrik"
 date: 2026-01-26
 draft: false
 description: "factory at Flensburg Firth 1612-1962"
-region: "Harrislee"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Harrislee"
+  - "Schleswig-Holstein"
 wikidata_id: "Q56703119"
 latitude: 54.8378
 longitude: 9.4157
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/400px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/800px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1200px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1920px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1920px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG---
 
 ## Overview
 

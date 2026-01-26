@@ -4,13 +4,13 @@ site_name: "Museum zur Geschichte von Christen und Juden"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Laupheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Laupheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1393762"
 latitude: 48.2303
 longitude: 9.8892
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/400px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/800px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/1200px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/1920px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/1920px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg---
 
 ## Overview
 

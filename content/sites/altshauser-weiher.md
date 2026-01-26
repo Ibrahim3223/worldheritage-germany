@@ -4,13 +4,13 @@ site_name: "Altshauser Weiher"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Altshausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Altshausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q445412"
 latitude: 47.9375
 longitude: 9.52639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altshausener_Weiher.JPG/400px-Altshausener_Weiher.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altshausener_Weiher.JPG/800px-Altshausener_Weiher.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altshausener_Weiher.JPG/1200px-Altshausener_Weiher.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altshausener_Weiher.JPG/1920px-Altshausener_Weiher.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Altshausener_Weiher.JPG/1920px-Altshausener_Weiher.JPG---
 
 ## Overview
 

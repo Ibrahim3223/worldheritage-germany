@@ -4,13 +4,13 @@ site_name: "Deutsches Hopfenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Wolnzach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolnzach"
+  - "Bavaria"
 wikidata_id: "Q1167242"
 latitude: 48.6041
 longitude: 11.6278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/400px-Deutsches_Hopfenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/800px-Deutsches_Hopfenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/1200px-Deutsches_Hopfenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/1920px-Deutsches_Hopfenmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/1920px-Deutsches_Hopfenmuseum.jpg---
 
 ## Overview
 

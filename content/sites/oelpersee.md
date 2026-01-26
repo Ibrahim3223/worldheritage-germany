@@ -4,13 +4,13 @@ site_name: "Ölpersee"
 date: 2026-01-26
 draft: false
 description: "lake in Braunschweig, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q297219"
 latitude: 52.28777778
 longitude: 10.50611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oelpersee.jpg/400px-Oelpersee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oelpersee.jpg/800px-Oelpersee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oelpersee.jpg/1200px-Oelpersee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oelpersee.jpg/1920px-Oelpersee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Oelpersee.jpg/1920px-Oelpersee.jpg---
 
 ## Overview
 

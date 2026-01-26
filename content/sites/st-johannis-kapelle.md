@@ -4,13 +4,13 @@ site_name: "St.-Johannis-Kapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Kirchrode-Bemerode-Wülferode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Kirchrode-Bemerode-Wülferode"
+  - "Lower Saxony"
 wikidata_id: "Q1406983"
 latitude: 52.3395
 longitude: 9.82631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/400px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/800px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/1200px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/1920px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/1920px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg---
 
 ## Overview 
 

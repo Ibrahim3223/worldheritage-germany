@@ -4,13 +4,13 @@ site_name: "Greifenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lichtenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lichtenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012040"
 latitude: 48.4389
 longitude: 9.2788
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Obergreifenstein.JPG/400px-Obergreifenstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Obergreifenstein.JPG/800px-Obergreifenstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Obergreifenstein.JPG/1200px-Obergreifenstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Obergreifenstein.JPG/1920px-Obergreifenstein.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Obergreifenstein.JPG/1920px-Obergreifenstein.JPG---
 
 ## Overview
 

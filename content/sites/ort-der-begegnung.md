@@ -4,13 +4,13 @@ site_name: "Ort der Begegnung"
 date: 2026-01-26
 draft: false
 description: "Skulptur von Dani Karavan"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q18844851"
 latitude: 49.018611111
 longitude: 12.096194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/400px-SynagogendenkmalRegensburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/800px-SynagogendenkmalRegensburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/1200px-SynagogendenkmalRegensburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/1920px-SynagogendenkmalRegensburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/1920px-SynagogendenkmalRegensburg.JPG---
 
 ## Overview
 

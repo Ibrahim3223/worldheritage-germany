@@ -4,19 +4,18 @@ site_name: "Vereinigte Ölfabriken Hubbe und Farenholtz"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Industrieunternehmen und Fabrik in Magdeburg"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q2514981"
 latitude: 52.129
 longitude: 11.675166666
 images:
-  []
----
+  []---
 
 ## Overview
 

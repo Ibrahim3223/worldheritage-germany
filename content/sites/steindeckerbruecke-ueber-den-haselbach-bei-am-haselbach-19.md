@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke über den Haselbach bei Am Haselbach 19"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Haselbachtal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Haselbachtal"
+  - "Saxony"
 wikidata_id: "Q49403571"
 latitude: 51.241277
 longitude: 14.032005
 images:
-  []
----
+  []---
 
 ## Overview
 

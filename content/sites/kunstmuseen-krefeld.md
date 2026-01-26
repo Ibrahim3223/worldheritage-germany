@@ -4,13 +4,13 @@ site_name: "Kunstmuseen Krefeld"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Krefeld"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Krefeld"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q24264237"
 latitude: 51.330278
 longitude: 6.559444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg/400px-Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg/800px-Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg/1200px-Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg/1920px-Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg/1920px-Kaiser_Wilhelm_Museum,_Krefeld-1980.jpg---
 
 ## Overview
 

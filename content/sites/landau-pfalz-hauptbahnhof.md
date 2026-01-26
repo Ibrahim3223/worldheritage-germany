@@ -4,13 +4,13 @@ site_name: "Landau (Pfalz) Hauptbahnhof"
 date: 2026-01-26
 draft: false
 description: "railway station in Landau in der Pfalz, Germany"
-region: "Landau in der Pfalz"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Landau in der Pfalz"
+  - "Baden-Württemberg"
 wikidata_id: "Q116247"
 latitude: 49.198
 longitude: 8.12617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/150405-Landau-07.jpg/400px-150405-Landau-07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/150405-Landau-07.jpg/800px-150405-Landau-07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/150405-Landau-07.jpg/1200px-150405-Landau-07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/150405-Landau-07.jpg/1920px-150405-Landau-07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/150405-Landau-07.jpg/1920px-150405-Landau-07.jpg---
 
 ## Overview
 

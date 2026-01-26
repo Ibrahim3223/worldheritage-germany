@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rieckhuus_2.JPG/400px-Rieckhuus_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rieckhuus_2.JPG/800px-Rieckhuus_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rieckhuus_2.JPG/1200px-Rieckhuus_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rieckhuus_2.JPG/1920px-Rieckhuus_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rieckhuus_2.JPG/1920px-Rieckhuus_2.JPG---
 
 ## Overview
 

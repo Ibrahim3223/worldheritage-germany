@@ -4,19 +4,18 @@ site_name: "Öhrenstein"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Hochsauerlandkreis"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Hochsauerlandkreis"
+  - "Hesse"
 wikidata_id: "Q294722"
 latitude: 51.2781
 longitude: 8.53444
 images:
-  []
----
+  []---
 
 ## Overview
 

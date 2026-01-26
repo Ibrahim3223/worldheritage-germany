@@ -4,13 +4,13 @@ site_name: "Scala"
 date: 2026-01-26
 draft: false
 description: "former variety theatre and cinema in Schöneberg, Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q2228722"
 latitude: 52.4981
 longitude: 13.3451
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/400px-Berlin_Scala_Anfahrt_007802.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/800px-Berlin_Scala_Anfahrt_007802.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/1200px-Berlin_Scala_Anfahrt_007802.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/1920px-Berlin_Scala_Anfahrt_007802.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/1920px-Berlin_Scala_Anfahrt_007802.jpg---
 
 ## Overview
 

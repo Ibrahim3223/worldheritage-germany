@@ -4,13 +4,13 @@ site_name: "Königshof"
 date: 2026-01-26
 draft: false
 description: "building in Glückstadt, Germany"
-region: "Glückstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Glückstadt"
+  - "Lower Saxony"
 wikidata_id: "Q1796372"
 latitude: 53.786
 longitude: 9.41854
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/400px-Wiebeke-Kruse-Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/800px-Wiebeke-Kruse-Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/1200px-Wiebeke-Kruse-Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/1920px-Wiebeke-Kruse-Turm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/1920px-Wiebeke-Kruse-Turm.jpg---
 
 ## Overview
 

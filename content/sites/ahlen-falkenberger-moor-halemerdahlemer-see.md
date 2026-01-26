@@ -4,13 +4,13 @@ site_name: "Ahlen-Falkenberger Moor, Halemer/Dahlemer See"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Steinau, Lower Saxony"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Steinau, Lower Saxony"
+  - "Bremen"
 wikidata_id: "Q400456"
 latitude: 53.6833
 longitude: 8.79167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/400px-Ahlenmoor_(renaturiert).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/800px-Ahlenmoor_(renaturiert).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1200px-Ahlenmoor_(renaturiert).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1920px-Ahlenmoor_(renaturiert).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1920px-Ahlenmoor_(renaturiert).JPG---
 
 ## Overview
 

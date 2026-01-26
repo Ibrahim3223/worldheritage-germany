@@ -4,13 +4,13 @@ site_name: "Schillerhäuschen Dresden"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1746740"
 latitude: 51.05755
 longitude: 13.81307
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/400px-Schillerhäuschen_Dresden_und_Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/800px-Schillerhäuschen_Dresden_und_Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/1200px-Schillerhäuschen_Dresden_und_Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/1920px-Schillerhäuschen_Dresden_und_Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/1920px-Schillerhäuschen_Dresden_und_Denkmal.jpg---
 
 ## Overview
 

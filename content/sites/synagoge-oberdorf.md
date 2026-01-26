@@ -4,13 +4,13 @@ site_name: "Synagoge Oberdorf"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Bopfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Bopfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1584231"
 latitude: 48.8666
 longitude: 10.3471
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SynagogeOberdorf1.jpg/400px-SynagogeOberdorf1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SynagogeOberdorf1.jpg/800px-SynagogeOberdorf1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SynagogeOberdorf1.jpg/1200px-SynagogeOberdorf1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SynagogeOberdorf1.jpg/1920px-SynagogeOberdorf1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SynagogeOberdorf1.jpg/1920px-SynagogeOberdorf1.jpg---
 
 ## Overview
 

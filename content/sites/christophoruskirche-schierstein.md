@@ -4,13 +4,13 @@ site_name: "Christophoruskirche, Schierstein"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q1087120"
 latitude: 50.0437
 longitude: 8.1955
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/400px-Schierstein_-_Christophoruskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/800px-Schierstein_-_Christophoruskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/1200px-Schierstein_-_Christophoruskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/1920px-Schierstein_-_Christophoruskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/1920px-Schierstein_-_Christophoruskirche.jpg---
 
 ## Overview
 

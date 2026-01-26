@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-5-6731-0045 in Abenberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Abenberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Abenberg"
+  - "Bavaria"
 wikidata_id: "Q98116804"
 latitude: 49.242125393
 longitude: 10.961829407
 images:
-  []
----
+  []---
 
 ## Overview
 

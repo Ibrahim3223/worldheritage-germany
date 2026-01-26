@@ -4,13 +4,13 @@ site_name: "Alter Neckar"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Esslingen am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Esslingen am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q438112"
 latitude: 48.7229
 longitude: 9.36647
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/400px-Neckar_Altarm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/800px-Neckar_Altarm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1200px-Neckar_Altarm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1920px-Neckar_Altarm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1920px-Neckar_Altarm.jpg---
 
 ## Overview
 

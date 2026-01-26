@@ -4,19 +4,18 @@ site_name: "Skimuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76628968"
 latitude: 47.550724
 longitude: 9.933891
 images:
-  []
----
+  []---
 
 ## Overview
 

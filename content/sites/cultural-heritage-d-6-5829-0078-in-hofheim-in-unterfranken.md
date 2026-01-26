@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5829-0078 in Hofheim in Unterfranken"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Hofheim, Haßberge, Lower Franconia, Bavaria, Germany"
-region: "Hofheim in Unterfranken"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hofheim in Unterfranken"
+  - "Bavaria"
 wikidata_id: "Q98170384"
 latitude: 50.134466476
 longitude: 10.561395939
 images:
-  []
----
+  []---
 
 ## Overview
 

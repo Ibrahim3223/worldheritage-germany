@@ -4,13 +4,13 @@ site_name: "Kohlosseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wesselburen"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wesselburen"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1778684"
 latitude: 54.2051
 longitude: 8.93285
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/400px-Wesselburen_eingang_kohlosseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/800px-Wesselburen_eingang_kohlosseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/1200px-Wesselburen_eingang_kohlosseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/1920px-Wesselburen_eingang_kohlosseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/1920px-Wesselburen_eingang_kohlosseum.jpg---
 
 ## Overview
 

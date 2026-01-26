@@ -4,13 +4,13 @@ site_name: "Heidefriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1277053"
 latitude: 51.1036
 longitude: 13.7085
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/400px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/800px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1200px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1920px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1920px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg---
 
 ## Overview
 

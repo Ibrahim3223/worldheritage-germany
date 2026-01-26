@@ -4,13 +4,13 @@ site_name: "Passau State Library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q2324321"
 latitude: 48.5743
 longitude: 13.4707
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/StaBi_Passau_01.JPG/400px-StaBi_Passau_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/StaBi_Passau_01.JPG/800px-StaBi_Passau_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/StaBi_Passau_01.JPG/1200px-StaBi_Passau_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/StaBi_Passau_01.JPG/1920px-StaBi_Passau_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/StaBi_Passau_01.JPG/1920px-StaBi_Passau_01.JPG---
 
 ## Overview
 

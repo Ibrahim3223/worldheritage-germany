@@ -4,13 +4,13 @@ site_name: "Mausoleum Gut Lohne"
 date: 2026-01-26
 draft: false
 description: "mausoleum in Isernhagen, Region Hannover, Germany"
-region: "Isernhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Isernhagen"
+  - "Lower Saxony"
 wikidata_id: "Q137374912"
 latitude: 52.462579692
 longitude: 9.875307481
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mausoleum_Gut_Lohne.jpg/400px-Mausoleum_Gut_Lohne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mausoleum_Gut_Lohne.jpg/800px-Mausoleum_Gut_Lohne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mausoleum_Gut_Lohne.jpg/1200px-Mausoleum_Gut_Lohne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mausoleum_Gut_Lohne.jpg/1920px-Mausoleum_Gut_Lohne.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mausoleum_Gut_Lohne.jpg/1920px-Mausoleum_Gut_Lohne.jpg---
 
 ## Overview
 

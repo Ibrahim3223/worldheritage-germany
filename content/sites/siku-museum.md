@@ -4,13 +4,13 @@ site_name: "Siku Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Stadtlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stadtlohn"
+  - "Lower Saxony"
 wikidata_id: "Q1512708"
 latitude: 51.9853
 longitude: 6.89107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/400px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/800px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/1200px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/1920px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/1920px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Wallburg Badenweiler"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Badenweiler"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Badenweiler"
+  - "Baden-Württemberg"
 wikidata_id: "Q178284"
 latitude: 47.79735
 longitude: 7.70011667
 images:
-  []
----
+  []---
 
 ## Overview
 

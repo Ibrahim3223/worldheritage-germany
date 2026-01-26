@@ -4,19 +4,18 @@ site_name: "SteinZeit Siegsdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Siegsdorf"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Siegsdorf"
+  - "Bavaria"
 wikidata_id: "Q15849054"
 latitude: 47.82211
 longitude: 12.64297
 images:
-  []
----
+  []---
 
 ## Overview
 

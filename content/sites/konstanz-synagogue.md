@@ -4,13 +4,13 @@ site_name: "Konstanz Synagogue"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q642454"
 latitude: 47.6583
 longitude: 9.1755
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Synagoge_konstanz.jpg/400px-Synagoge_konstanz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Synagoge_konstanz.jpg/800px-Synagoge_konstanz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Synagoge_konstanz.jpg/1200px-Synagoge_konstanz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Synagoge_konstanz.jpg/1920px-Synagoge_konstanz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Synagoge_konstanz.jpg/1920px-Synagoge_konstanz.jpg---
 
 ## Overview
 

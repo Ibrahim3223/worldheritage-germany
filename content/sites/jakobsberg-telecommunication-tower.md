@@ -4,13 +4,13 @@ site_name: "Jakobsberg Telecommunication Tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Porta Westfalica"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Porta Westfalica"
+  - "Lower Saxony"
 wikidata_id: "Q1407073"
 latitude: 52.2416
 longitude: 8.93647
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/400px-FMT_Porta_Westfalica.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/800px-FMT_Porta_Westfalica.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1200px-FMT_Porta_Westfalica.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1920px-FMT_Porta_Westfalica.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1920px-FMT_Porta_Westfalica.JPG---
 
 ## Overview
 

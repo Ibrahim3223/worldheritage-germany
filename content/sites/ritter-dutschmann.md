@@ -4,13 +4,13 @@ site_name: "Ritter Dutschmann"
 date: 2026-01-26
 draft: false
 description: "statue in Bautzen, Germany"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q2155071"
 latitude: 51.1813
 longitude: 14.424
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg/400px-Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg/800px-Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg/1200px-Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg/1920px-Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg/1920px-Bautzen_-_Hauptmarkt_-_Marktbrunnen_03_ies.jpg---
 
 ## Overview
 

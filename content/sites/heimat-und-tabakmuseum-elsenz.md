@@ -4,13 +4,13 @@ site_name: "Heimat- und Tabakmuseum Elsenz"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Eppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1595527"
 latitude: 49.175
 longitude: 8.83575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elsenz-rathaus-hinten2.JPG/400px-Elsenz-rathaus-hinten2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elsenz-rathaus-hinten2.JPG/800px-Elsenz-rathaus-hinten2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elsenz-rathaus-hinten2.JPG/1200px-Elsenz-rathaus-hinten2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elsenz-rathaus-hinten2.JPG/1920px-Elsenz-rathaus-hinten2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Elsenz-rathaus-hinten2.JPG/1920px-Elsenz-rathaus-hinten2.JPG---
 
 ## Overview
 

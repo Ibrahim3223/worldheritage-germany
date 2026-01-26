@@ -4,13 +4,13 @@ site_name: "Schloss Oderwitz"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Oderwitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Oderwitz"
+  - "Saxony"
 wikidata_id: "Q1387425"
 latitude: 50.96865
 longitude: 14.716536
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/400px-Schloss_Oberoderwitz_2010_06_27_00.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/800px-Schloss_Oberoderwitz_2010_06_27_00.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/1200px-Schloss_Oberoderwitz_2010_06_27_00.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/1920px-Schloss_Oberoderwitz_2010_06_27_00.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/1920px-Schloss_Oberoderwitz_2010_06_27_00.jpg---
 
 ## Overview
 

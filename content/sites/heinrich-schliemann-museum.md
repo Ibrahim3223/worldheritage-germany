@@ -4,13 +4,13 @@ site_name: "Heinrich-Schliemann-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Ankershagen, Germany"
-region: "Ankershagen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Ankershagen"
+  - "Brandenburg"
 wikidata_id: "Q1596454"
 latitude: 53.4838625
 longitude: 12.957932
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/400px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/800px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1200px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1920px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1920px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg---
 
 ## Overview
 

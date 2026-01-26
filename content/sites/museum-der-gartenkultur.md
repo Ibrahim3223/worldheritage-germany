@@ -4,19 +4,18 @@ site_name: "Museum der Gartenkultur"
 date: 2026-01-26
 draft: false
 description: "museum, library, and event location in Illertissen, Bavaria, Germany"
-region: "Illertissen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Illertissen"
+  - "Baden-Württemberg"
 wikidata_id: "Q15835876"
 latitude: 48.2411121
 longitude: 10.1333413
 images:
-  []
----
+  []---
 
 ## Overview
 

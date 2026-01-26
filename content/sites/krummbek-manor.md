@@ -4,13 +4,13 @@ site_name: "Krummbek Manor"
 date: 2026-01-26
 draft: false
 description: "building"
-region: "Lasbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lasbek"
+  - "Hamburg"
 wikidata_id: "Q825738"
 latitude: 53.7508
 longitude: 10.3942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Herrenhaus_Krummbek.jpg/400px-Herrenhaus_Krummbek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Herrenhaus_Krummbek.jpg/800px-Herrenhaus_Krummbek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Herrenhaus_Krummbek.jpg/1200px-Herrenhaus_Krummbek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Herrenhaus_Krummbek.jpg/1920px-Herrenhaus_Krummbek.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Herrenhaus_Krummbek.jpg/1920px-Herrenhaus_Krummbek.jpg---
 
 ## Overview
 

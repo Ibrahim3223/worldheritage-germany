@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jusi.jpg/400px-Jusi.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jusi.jpg/800px-Jusi.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jusi.jpg/1200px-Jusi.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jusi.jpg/1920px-Jusi.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jusi.jpg/1920px-Jusi.jpg---
 
 ## Overview
 

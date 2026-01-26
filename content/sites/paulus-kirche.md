@@ -4,13 +4,13 @@ site_name: "Paulus-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Steglitz-Zehlendorf, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q1653702"
 latitude: 52.4337
 longitude: 13.2575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg/400px-Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg/800px-Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg/1200px-Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg/1920px-Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg/1920px-Berlin_MBuberStr_Zehlendorf_asv2021-03.jpg---
 
 ## Overview
 

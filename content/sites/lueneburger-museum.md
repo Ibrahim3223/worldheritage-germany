@@ -4,19 +4,18 @@ site_name: "Lüneburger Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Lüneburg, Germany"
-region: "Lüneburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lüneburg"
+  - "Lower Saxony"
 wikidata_id: "Q15835880"
 latitude: 53.246462
 longitude: 10.415917
 images:
-  []
----
+  []---
 
 ## Overview
 

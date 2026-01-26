@@ -4,13 +4,13 @@ site_name: "Schloss Engers"
 date: 2026-01-26
 draft: false
 description: "German palace"
-region: "Neuwied"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuwied"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2240858"
 latitude: 50.4225
 longitude: 7.54361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Engers_008-.jpg/400px-Schloss_Engers_008-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Engers_008-.jpg/800px-Schloss_Engers_008-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Engers_008-.jpg/1200px-Schloss_Engers_008-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Engers_008-.jpg/1920px-Schloss_Engers_008-.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Engers_008-.jpg/1920px-Schloss_Engers_008-.jpg---
 
 ## Overview
 

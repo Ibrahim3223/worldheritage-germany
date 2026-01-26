@@ -4,19 +4,18 @@ site_name: "Burg- und Stadtmuseum Königstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633965"
 latitude: 50.1831
 longitude: 8.462575
 images:
-  []
----
+  []---
 
 ## Overview
 

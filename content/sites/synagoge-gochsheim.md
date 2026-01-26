@@ -4,13 +4,13 @@ site_name: "Synagoge (Gochsheim)"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Kraichtal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Kraichtal"
+  - "Baden-Württemberg"
 wikidata_id: "Q1253981"
 latitude: 49.1039
 longitude: 8.74696
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gochsheim_Synagoge_197.JPG/400px-Gochsheim_Synagoge_197.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gochsheim_Synagoge_197.JPG/800px-Gochsheim_Synagoge_197.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gochsheim_Synagoge_197.JPG/1200px-Gochsheim_Synagoge_197.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gochsheim_Synagoge_197.JPG/1920px-Gochsheim_Synagoge_197.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gochsheim_Synagoge_197.JPG/1920px-Gochsheim_Synagoge_197.JPG---
 
 ## Overview
 

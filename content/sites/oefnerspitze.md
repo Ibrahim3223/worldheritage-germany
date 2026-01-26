@@ -4,13 +4,13 @@ site_name: "Öfnerspitze"
 date: 2026-01-26
 draft: false
 description: "mountain of the Allgäu Alps at the border of Bavaria, Germany, and Tyrol, Austria"
-region: "Hinterhornbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Hinterhornbach"
+  - "Bavaria"
 wikidata_id: "Q281277"
 latitude: 47.3175062
 longitude: 10.3487798
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/400px-Öfnerspitze_from_Muttlerkopf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/800px-Öfnerspitze_from_Muttlerkopf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/1200px-Öfnerspitze_from_Muttlerkopf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/1920px-Öfnerspitze_from_Muttlerkopf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/1920px-Öfnerspitze_from_Muttlerkopf.JPG---
 
 ## Overview
 

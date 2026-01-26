@@ -4,13 +4,13 @@ site_name: "St. Judas Thaddäus"
 date: 2026-01-26
 draft: false
 description: "church building in Staufenberg, Germany"
-region: "Staufenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Staufenberg"
+  - "Hesse"
 wikidata_id: "Q15848551"
 latitude: 51.353258
 longitude: 9.592464
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/400px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/800px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/1200px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/1920px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/1920px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Volkskundliches Museum Ahler Kråm / Volkskundliche Sammlung"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q76629050"
 latitude: 50.041425
 longitude: 9.517337
 images:
-  []
----
+  []---
 
 ## Overview
 

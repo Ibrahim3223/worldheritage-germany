@@ -4,13 +4,13 @@ site_name: "Steintor (Anklam)"
 date: 2026-01-26
 draft: false
 description: "Stadttor von Anklam"
-region: "Anklam"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Anklam"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1423969"
 latitude: 53.8554113
 longitude: 13.6917945
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/400px-Steintor_Anklam.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/800px-Steintor_Anklam.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/1200px-Steintor_Anklam.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/1920px-Steintor_Anklam.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/1920px-Steintor_Anklam.JPG---
 
 ## Overview
 

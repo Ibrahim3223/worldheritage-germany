@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Bochum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bochum-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bochum-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q529069"
 latitude: 51.4874
 longitude: 7.22122
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/400px-Bochum_Kunstmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/800px-Bochum_Kunstmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/1200px-Bochum_Kunstmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/1920px-Bochum_Kunstmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/1920px-Bochum_Kunstmuseum.jpg---
 
 ## Overview
 

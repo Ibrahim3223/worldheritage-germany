@@ -4,19 +4,18 @@ site_name: "Minden Museum Railway"
 date: 2026-01-26
 draft: false
 description: "museum railway in Minden (Germany)"
-region: "Minden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Minden"
+  - "Lower Saxony"
 wikidata_id: "Q40498755"
 latitude: 52.3005
 longitude: 8.913
 images:
-  []
----
+  []---
 
 ## Overview
 

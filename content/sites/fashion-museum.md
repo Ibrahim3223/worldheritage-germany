@@ -4,19 +4,18 @@ site_name: "fashion museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Ludwigsburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ludwigsburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631467"
 latitude: 48.900129
 longitude: 9.195724
 images:
-  []
----
+  []---
 
 ## Overview
 

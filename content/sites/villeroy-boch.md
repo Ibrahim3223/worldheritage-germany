@@ -4,13 +4,13 @@ site_name: "Villeroy & Boch"
 date: 2026-01-26
 draft: false
 description: "German manufacturer of ceramics"
-region: "Mettlach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Mettlach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q705042"
 latitude: 49.49659
 longitude: 6.60019
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/400px-V_und_B_Drina_res.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/800px-V_und_B_Drina_res.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/1200px-V_und_B_Drina_res.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/1920px-V_und_B_Drina_res.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/1920px-V_und_B_Drina_res.jpg---
 
 ## Overview
 

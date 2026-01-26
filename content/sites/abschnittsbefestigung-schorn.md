@@ -4,13 +4,13 @@ site_name: "Abschnittsbefestigung Schorn"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q332109"
 latitude: 48.6047
 longitude: 11.0769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/400px-Abschnittsbefestigung_Schorn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/800px-Abschnittsbefestigung_Schorn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/1200px-Abschnittsbefestigung_Schorn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/1920px-Abschnittsbefestigung_Schorn.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/1920px-Abschnittsbefestigung_Schorn.jpg---
 
 ## Overview
 

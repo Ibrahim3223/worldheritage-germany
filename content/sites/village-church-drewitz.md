@@ -4,13 +4,13 @@ site_name: "Village church Drewitz"
 date: 2026-01-26
 draft: false
 description: "church building in Möckern, Saxony-Anhalt, Germany"
-region: "Möckern"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Möckern"
+  - "Brandenburg"
 wikidata_id: "Q1319218"
 latitude: 52.2139
 longitude: 12.1674
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/400px-Dorfkirche_Drewitz_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/800px-Dorfkirche_Drewitz_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/1200px-Dorfkirche_Drewitz_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/1920px-Dorfkirche_Drewitz_Turm.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/1920px-Dorfkirche_Drewitz_Turm.JPG---
 
 ## Overview
 

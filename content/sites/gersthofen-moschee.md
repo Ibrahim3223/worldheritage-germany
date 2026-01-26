@@ -4,13 +4,13 @@ site_name: "Gersthofen Moschee"
 date: 2026-01-26
 draft: false
 description: "Moschee der  Türkisch-Islamischen Union (DITIB) in Gersthofen bei Augsburg"
-region: "Gersthofen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Gersthofen"
+  - "Bavaria"
 wikidata_id: "Q1385947"
 latitude: 48.4149
 longitude: 10.8792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/400px-Gersthofen_Moschee_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/800px-Gersthofen_Moschee_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/1200px-Gersthofen_Moschee_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/1920px-Gersthofen_Moschee_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/1920px-Gersthofen_Moschee_01.JPG---
 
 ## Overview
 

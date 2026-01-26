@@ -4,13 +4,13 @@ site_name: "Hanskalbsand"
 date: 2026-01-26
 draft: false
 description: "island"
-region: "Jork"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Jork"
+  - "Lower Saxony"
 wikidata_id: "Q1583926"
 latitude: 53.5618
 longitude: 9.67072
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-557.jpg---
 
 ## Overview
 

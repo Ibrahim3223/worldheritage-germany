@@ -4,13 +4,13 @@ site_name: "Burg Lippspringe"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Lippspringe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Lippspringe"
+  - "Lower Saxony"
 wikidata_id: "Q1012993"
 latitude: 51.7812
 longitude: 8.82251
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/400px-BurgLippspringe02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/800px-BurgLippspringe02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/1200px-BurgLippspringe02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/1920px-BurgLippspringe02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/1920px-BurgLippspringe02.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Rostock"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1393075"
 latitude: 54.0714
 longitude: 12.0779
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/400px-Fernmeldeturm_Rostock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/800px-Fernmeldeturm_Rostock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/1200px-Fernmeldeturm_Rostock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/1920px-Fernmeldeturm_Rostock.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/1920px-Fernmeldeturm_Rostock.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lindenmuseum Clara Schumann"
 date: 2026-01-26
 draft: false
 description: "museum in Schmorsdorf, Saxony, Germany"
-region: "Müglitztal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Müglitztal"
+  - "Saxony"
 wikidata_id: "Q56676441"
 latitude: 50.931194
 longitude: 13.820472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schmorsdorfer_Linde,_4.jpg/400px-Schmorsdorfer_Linde,_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schmorsdorfer_Linde,_4.jpg/800px-Schmorsdorfer_Linde,_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schmorsdorfer_Linde,_4.jpg/1200px-Schmorsdorfer_Linde,_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schmorsdorfer_Linde,_4.jpg/1920px-Schmorsdorfer_Linde,_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schmorsdorfer_Linde,_4.jpg/1920px-Schmorsdorfer_Linde,_4.jpg---
 
 ## Overview
 

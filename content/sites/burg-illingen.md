@@ -4,13 +4,13 @@ site_name: "Burg Illingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Illingen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Illingen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1012649"
 latitude: 49.3772
 longitude: 7.05639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/400px-BurgTurmIllingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/800px-BurgTurmIllingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/1200px-BurgTurmIllingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/1920px-BurgTurmIllingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/1920px-BurgTurmIllingen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hauptfriedhof Ibbenbüren"
 date: 2026-01-26
 draft: false
 description: "cemetery in Ibbenbüren, Germany"
-region: "Ibbenbüren"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Ibbenbüren"
+  - "Lower Saxony"
 wikidata_id: "Q1248284"
 latitude: 52.2656
 longitude: 7.74546
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/400px-Hauptfriedhof_Ibbenbueren_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/800px-Hauptfriedhof_Ibbenbueren_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/1200px-Hauptfriedhof_Ibbenbueren_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/1920px-Hauptfriedhof_Ibbenbueren_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/1920px-Hauptfriedhof_Ibbenbueren_07.jpg---
 
 ## Overview
 

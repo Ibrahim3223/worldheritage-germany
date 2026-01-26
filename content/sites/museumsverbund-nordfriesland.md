@@ -4,19 +4,18 @@ site_name: "Museumsverbund Nordfriesland"
 date: 2026-01-26
 draft: false
 description: "archive organization in Husum, Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q77077637"
 latitude: 54.476134
 longitude: 9.055879
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Bethanien"
 date: 2026-01-26
 draft: false
 description: "former hospital now used as s cultural center in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q831173"
 latitude: 52.5039
 longitude: 13.4244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/400px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/800px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1200px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1920px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1920px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg---
 
 ## Overview
 

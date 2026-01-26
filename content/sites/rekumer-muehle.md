@@ -4,13 +4,13 @@ site_name: "Rekumer Mühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Rekum im Bremer Stadtteil Blumenthal"
-region: "Blumenthal"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Blumenthal"
+  - "Bremen"
 wikidata_id: "Q1408932"
 latitude: 53.2222
 longitude: 8.51323
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/400px-Rekum_Windmühle_(retuschiert).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/800px-Rekum_Windmühle_(retuschiert).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/1200px-Rekum_Windmühle_(retuschiert).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/1920px-Rekum_Windmühle_(retuschiert).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/1920px-Rekum_Windmühle_(retuschiert).jpg---
 
 ## Overview
 

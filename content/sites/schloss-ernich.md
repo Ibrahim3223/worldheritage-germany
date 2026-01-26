@@ -4,13 +4,13 @@ site_name: "Schloss Ernich"
 date: 2026-01-26
 draft: false
 description: "palace"
-region: "Remagen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Remagen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q666203"
 latitude: 50.5964
 longitude: 7.2048
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/400px-Ernich_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/800px-Ernich_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/1200px-Ernich_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/1920px-Ernich_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/1920px-Ernich_2008.jpg---
 
 ## Overview
 

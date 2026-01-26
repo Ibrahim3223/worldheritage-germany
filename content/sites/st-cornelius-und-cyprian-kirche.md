@@ -4,13 +4,13 @@ site_name: "St.-Cornelius-und-Cyprian-Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Lippetal"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lippetal"
+  - "Hesse"
 wikidata_id: "Q1537044"
 latitude: 51.6649
 longitude: 8.03899
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/400px-St-Cornelius-und-Cyprian-Lippborg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/800px-St-Cornelius-und-Cyprian-Lippborg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/1200px-St-Cornelius-und-Cyprian-Lippborg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/1920px-St-Cornelius-und-Cyprian-Lippborg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/1920px-St-Cornelius-und-Cyprian-Lippborg.jpg---
 
 ## Overview
 

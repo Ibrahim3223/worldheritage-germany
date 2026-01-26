@@ -4,13 +4,13 @@ site_name: "Haus Anger"
 date: 2026-01-26
 draft: false
 description: "manor house in Ratingen, Germany"
-region: "Ratingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Ratingen"
+  - "Lower Saxony"
 wikidata_id: "Q15112202"
 latitude: 51.31495833
 longitude: 6.93259167
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/400px-Haus_Anger_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/800px-Haus_Anger_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/1200px-Haus_Anger_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/1920px-Haus_Anger_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/1920px-Haus_Anger_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Estemündung Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Hamburg, Germany"
-region: "Harburg"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Harburg"
+  - "Hamburg"
 wikidata_id: "Q1821417"
 latitude: 53.53579444
 longitude: 9.79151389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/400px-Estemundung_1951.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/800px-Estemundung_1951.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/1200px-Estemundung_1951.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/1920px-Estemundung_1951.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/1920px-Estemundung_1951.jpg---
 
 ## Overview
 

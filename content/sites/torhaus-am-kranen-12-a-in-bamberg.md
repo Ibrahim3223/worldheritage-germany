@@ -4,19 +4,18 @@ site_name: "Torhaus Am Kranen 12 a in Bamberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-61-000-27 (1) in Bamberg, Bavaria"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q98587130"
 latitude: 49.893176762
 longitude: 10.886805788
 images:
-  []
----
+  []---
 
 ## Overview
 

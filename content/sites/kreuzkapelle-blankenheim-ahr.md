@@ -4,13 +4,13 @@ site_name: "Kreuzkapelle Blankenheim (Ahr)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Ahr"
-region: "Blankenheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Blankenheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1788320"
 latitude: 50.4393
 longitude: 6.64369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fritz_von_Wille_0113.jpg/400px-Fritz_von_Wille_0113.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fritz_von_Wille_0113.jpg/800px-Fritz_von_Wille_0113.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fritz_von_Wille_0113.jpg/1200px-Fritz_von_Wille_0113.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fritz_von_Wille_0113.jpg/1920px-Fritz_von_Wille_0113.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fritz_von_Wille_0113.jpg/1920px-Fritz_von_Wille_0113.jpg---
 
 ## Overview
 

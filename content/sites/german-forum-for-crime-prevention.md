@@ -4,19 +4,18 @@ site_name: "German Forum for Crime Prevention"
 date: 2026-01-26
 draft: false
 description: "German foundation for the promotion of crime prevention"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1320044"
 latitude: 50.75167
 longitude: 7.09233
 images:
-  []
----
+  []---
 
 ## Overview
 

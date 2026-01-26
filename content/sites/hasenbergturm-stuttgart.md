@@ -4,13 +4,13 @@ site_name: "Hasenbergturm Stuttgart"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q1385130"
 latitude: 48.7643
 longitude: 9.14502
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/400px-Hasenbergturm_stuttgart_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/800px-Hasenbergturm_stuttgart_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/1200px-Hasenbergturm_stuttgart_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/1920px-Hasenbergturm_stuttgart_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/1920px-Hasenbergturm_stuttgart_1.jpg---
 
 ## Overview
 

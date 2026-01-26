@@ -4,19 +4,18 @@ site_name: "Evangelische Stiftung Neuerkerode"
 date: 2026-01-26
 draft: false
 description: "social services provider in Niedersachsen, Germany"
-region: "Sickte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Sickte"
+  - "Lower Saxony"
 wikidata_id: "Q1381175"
 latitude: 52.2128
 longitude: 10.6599
 images:
-  []
----
+  []---
 
 ## Overview
 

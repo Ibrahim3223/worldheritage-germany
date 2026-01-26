@@ -4,13 +4,13 @@ site_name: "Bissendorfer Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wedemark"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wedemark"
+  - "Lower Saxony"
 wikidata_id: "Q866666"
 latitude: 52.5029
 longitude: 9.68309
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Muswillensee-im-Bissendorfer-Moor.jpg/400px-Muswillensee-im-Bissendorfer-Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Muswillensee-im-Bissendorfer-Moor.jpg/800px-Muswillensee-im-Bissendorfer-Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Muswillensee-im-Bissendorfer-Moor.jpg/1200px-Muswillensee-im-Bissendorfer-Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Muswillensee-im-Bissendorfer-Moor.jpg/1920px-Muswillensee-im-Bissendorfer-Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Muswillensee-im-Bissendorfer-Moor.jpg/1920px-Muswillensee-im-Bissendorfer-Moor.jpg---
 
 ## Overview
 

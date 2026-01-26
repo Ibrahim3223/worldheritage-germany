@@ -4,13 +4,13 @@ site_name: "Gelsenkirchen Art Museum"
 date: 2026-01-26
 draft: false
 description: "Art museum in Gelsenkirchen, Germany"
-region: "Gelsenkirchen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Gelsenkirchen"
+  - "Lower Saxony"
 wikidata_id: "Q1792542"
 latitude: 51.576842
 longitude: 7.054114
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/400px-Ge_Buer_Museum_Jörres.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/800px-Ge_Buer_Museum_Jörres.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1200px-Ge_Buer_Museum_Jörres.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1920px-Ge_Buer_Museum_Jörres.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1920px-Ge_Buer_Museum_Jörres.JPG---
 
 ## Overview
 

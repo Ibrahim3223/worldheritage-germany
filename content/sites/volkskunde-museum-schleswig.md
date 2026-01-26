@@ -4,19 +4,18 @@ site_name: "Volkskunde Museum Schleswig"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Schleswig"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schleswig"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2532065"
 latitude: 54.51821072
 longitude: 9.54778433
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Fürsteneck (Butschbach)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Butschbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Butschbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011894"
 latitude: 48.5264
 longitude: 8.0602
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/400px-Fuersteneck1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/800px-Fuersteneck1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/1200px-Fuersteneck1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/1920px-Fuersteneck1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/1920px-Fuersteneck1.jpg---
 
 ## Overview
 

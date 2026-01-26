@@ -4,13 +4,13 @@ site_name: "Burg Geretzhoven"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bergheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bergheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011934"
 latitude: 51.0108
 longitude: 6.66583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/400px-Burg_Geretzhoven_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/800px-Burg_Geretzhoven_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/1200px-Burg_Geretzhoven_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/1920px-Burg_Geretzhoven_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/1920px-Burg_Geretzhoven_04.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "SWT-Arena"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q641507"
 latitude: 49.7717
 longitude: 6.66389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/400px-Arena_Trier_1_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/800px-Arena_Trier_1_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/1200px-Arena_Trier_1_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/1920px-Arena_Trier_1_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/1920px-Arena_Trier_1_(cropped).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Theodor-Heuss-Museum der Stadt Brackenheim"
 date: 2026-01-26
 draft: false
 description: "museum in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
-region: "Brackenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brackenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1772989"
 latitude: 49.077
 longitude: 9.06618
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/400px-Theodor-Heuss-Museum-Brackenheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/800px-Theodor-Heuss-Museum-Brackenheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/1200px-Theodor-Heuss-Museum-Brackenheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/1920px-Theodor-Heuss-Museum-Brackenheim.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/1920px-Theodor-Heuss-Museum-Brackenheim.JPG---
 
 ## Overview
 

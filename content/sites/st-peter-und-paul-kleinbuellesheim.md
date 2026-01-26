@@ -4,13 +4,13 @@ site_name: "St. Peter und Paul (Kleinbüllesheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Euskirchen, Germany"
-region: "Euskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Euskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2322687"
 latitude: 50.6732
 longitude: 6.82509
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kleinbüllesheim_St.Peter_und_Paul5494.JPG/400px-Kleinbüllesheim_St.Peter_und_Paul5494.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kleinbüllesheim_St.Peter_und_Paul5494.JPG/800px-Kleinbüllesheim_St.Peter_und_Paul5494.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kleinbüllesheim_St.Peter_und_Paul5494.JPG/1200px-Kleinbüllesheim_St.Peter_und_Paul5494.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kleinbüllesheim_St.Peter_und_Paul5494.JPG/1920px-Kleinbüllesheim_St.Peter_und_Paul5494.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kleinbüllesheim_St.Peter_und_Paul5494.JPG/1920px-Kleinbüllesheim_St.Peter_und_Paul5494.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Löwenapotheke am Kornmarkt"
 date: 2026-01-26
 draft: false
 description: "Gebäude in Mühlhausen mit Brauerei, Gaststätte und Hotel"
-region: "Mühlhausen/Thuringia"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Mühlhausen/Thuringia"
+  - "Thuringia"
 wikidata_id: "Q900514"
 latitude: 51.207827
 longitude: 10.456974
 images:
-  []
----
+  []---
 
 ## Overview
 

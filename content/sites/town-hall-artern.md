@@ -4,13 +4,13 @@ site_name: "Town hall Artern"
 date: 2026-01-26
 draft: false
 description: "Rathaus im Kyffhäuserkreis, Thüringen"
-region: "Artern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Artern"
+  - "Lower Saxony"
 wikidata_id: "Q123114437"
 latitude: 51.365061553
 longitude: 11.290677316
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/400px-Artern_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/800px-Artern_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/1200px-Artern_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/1920px-Artern_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/1920px-Artern_Rathaus.JPG---
 
 ## Overview
 

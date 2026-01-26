@@ -4,13 +4,13 @@ site_name: "Church in Daberkow"
 date: 2026-01-26
 draft: false
 description: "church building in Daberkow, Germany"
-region: "Daberkow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Daberkow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742522"
 latitude: 53.8386
 longitude: 13.3007
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/400px-Daberkow_Kirche_Südost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/800px-Daberkow_Kirche_Südost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/1200px-Daberkow_Kirche_Südost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/1920px-Daberkow_Kirche_Südost.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/1920px-Daberkow_Kirche_Südost.JPG---
 
 ## Overview
 

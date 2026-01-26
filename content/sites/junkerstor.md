@@ -4,13 +4,13 @@ site_name: "Junkerstor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1458770"
 latitude: 50.77083
 longitude: 6.07389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/400px-Junkerstor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/800px-Junkerstor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/1200px-Junkerstor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/1920px-Junkerstor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/1920px-Junkerstor.jpg---
 
 ## Overview
 

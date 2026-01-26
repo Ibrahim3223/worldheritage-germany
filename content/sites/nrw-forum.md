@@ -4,13 +4,13 @@ site_name: "NRW Forum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q973307"
 latitude: 51.2333
 longitude: 6.77204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/400px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/800px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1200px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg---
 
 ## Overview
 

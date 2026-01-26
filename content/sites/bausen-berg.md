@@ -4,13 +4,13 @@ site_name: "Bausen-Berg"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151451"
 latitude: 50.4674
 longitude: 7.22123
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/400px-Bausenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/800px-Bausenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/1200px-Bausenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/1920px-Bausenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/1920px-Bausenberg.jpg---
 
 ## Overview
 

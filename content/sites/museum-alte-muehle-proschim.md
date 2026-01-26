@@ -4,13 +4,13 @@ site_name: "Museum Alte Mühle, Proschim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Proschim"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Proschim"
+  - "Brandenburg"
 wikidata_id: "Q41370454"
 latitude: 51.55419
 longitude: 14.19958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/400px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/800px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/1200px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/1920px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/1920px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG---
 
 ## Overview
 

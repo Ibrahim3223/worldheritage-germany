@@ -4,13 +4,13 @@ site_name: "Bamberger Krippenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Bamberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bamberg"
+  - "Bavaria"
 wikidata_id: "Q805947"
 latitude: 49.8923
 longitude: 10.883
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/400px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/800px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/1200px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/1920px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/1920px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg---
 
 ## Overview
 

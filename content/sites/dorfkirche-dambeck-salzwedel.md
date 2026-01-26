@@ -4,13 +4,13 @@ site_name: "Dorfkirche Dambeck (Salzwedel)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Dambeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dambeck"
+  - "Lower Saxony"
 wikidata_id: "Q1244223"
 latitude: 52.8014
 longitude: 11.1578
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/400px-Dambeck_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/800px-Dambeck_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/1200px-Dambeck_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/1920px-Dambeck_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/1920px-Dambeck_Kirche.jpg---
 
 ## Overview
 

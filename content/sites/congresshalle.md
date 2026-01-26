@@ -4,13 +4,13 @@ site_name: "Congresshalle"
 date: 2026-01-26
 draft: false
 description: "Concert hall in Saarbrücken, Germany,"
-region: "Saarbrücken"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Saarbrücken"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q15055204"
 latitude: 49.23772
 longitude: 6.987507
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/400px-Kongresshalle_(2066721208).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/800px-Kongresshalle_(2066721208).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1200px-Kongresshalle_(2066721208).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1920px-Kongresshalle_(2066721208).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1920px-Kongresshalle_(2066721208).jpg---
 
 ## Overview
 

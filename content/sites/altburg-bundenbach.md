@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/400px-Altburg_plateau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/800px-Altburg_plateau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/1200px-Altburg_plateau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/1920px-Altburg_plateau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/1920px-Altburg_plateau.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5729-0054 in Bad Königshofen im Grabfeld"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bad Königshofen im Grabfeld, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Bad Königshofen im Grabfeld"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bad Königshofen im Grabfeld"
+  - "Bavaria"
 wikidata_id: "Q98167348"
 latitude: 50.271721849
 longitude: 10.50329725
 images:
-  []
----
+  []---
 
 ## Overview
 

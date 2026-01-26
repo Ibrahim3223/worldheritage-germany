@@ -4,13 +4,13 @@ site_name: "St. Sixtus (Weisingen)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Holzheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Holzheim"
+  - "Bavaria"
 wikidata_id: "Q2323201"
 latitude: 48.513
 longitude: 10.5153
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/400px-Weisingen_St._Sixtus_373.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/800px-Weisingen_St._Sixtus_373.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/1200px-Weisingen_St._Sixtus_373.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/1920px-Weisingen_St._Sixtus_373.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/1920px-Weisingen_St._Sixtus_373.JPG---
 
 ## Overview
 

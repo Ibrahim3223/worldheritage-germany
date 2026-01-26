@@ -4,13 +4,13 @@ site_name: "Old Catholic parish church of St. Anthony Abbas"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Bedburg-Hau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bedburg-Hau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q436421"
 latitude: 51.7576
 longitude: 6.16184
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/400px-Alt_St._Antonius_Abbas_(Hau)3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/800px-Alt_St._Antonius_Abbas_(Hau)3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1200px-Alt_St._Antonius_Abbas_(Hau)3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1920px-Alt_St._Antonius_Abbas_(Hau)3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1920px-Alt_St._Antonius_Abbas_(Hau)3.JPG---
 
 ## Overview
 

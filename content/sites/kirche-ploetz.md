@@ -4,13 +4,13 @@ site_name: "Kirche Plötz"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Jarmen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jarmen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742660"
 latitude: 53.8727
 longitude: 13.2923
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg/400px-Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg/800px-Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg/1200px-Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg/1920px-Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg/1920px-Kirche_Ploetz_Vorpommern2011-07-24_11.01.00_stitch.jpg---
 
 ## Overview
 

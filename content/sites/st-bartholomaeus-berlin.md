@@ -4,13 +4,13 @@ site_name: "St. Bartholomäus (Berlin)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1540726"
 latitude: 52.5274
 longitude: 13.4244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/400px-Bartholomaeuskirche_Berlin_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/800px-Bartholomaeuskirche_Berlin_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/1200px-Bartholomaeuskirche_Berlin_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/1920px-Bartholomaeuskirche_Berlin_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/1920px-Bartholomaeuskirche_Berlin_01.jpg---
 
 ## Overview
 

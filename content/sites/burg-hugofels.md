@@ -4,13 +4,13 @@ site_name: "Burg Hugofels"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Immenstadt im Allgäu"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Immenstadt im Allgäu"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012503"
 latitude: 47.570081116
 longitude: 10.207375365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Hugofels_3.jpg/400px-Burg_Hugofels_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Hugofels_3.jpg/800px-Burg_Hugofels_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Hugofels_3.jpg/1200px-Burg_Hugofels_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Hugofels_3.jpg/1920px-Burg_Hugofels_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Hugofels_3.jpg/1920px-Burg_Hugofels_3.jpg---
 
 ## Overview
 

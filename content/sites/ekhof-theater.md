@@ -4,13 +4,13 @@ site_name: "Ekhof-Theater"
 date: 2026-01-26
 draft: false
 description: "theatre in Friedenstein Palace in Gotha, Germany"
-region: "Gotha"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Gotha"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1322542"
 latitude: 50.9450035
 longitude: 10.7042192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/400px-Ekhof-Theater_Zuschauerraum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/800px-Ekhof-Theater_Zuschauerraum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1200px-Ekhof-Theater_Zuschauerraum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1920px-Ekhof-Theater_Zuschauerraum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1920px-Ekhof-Theater_Zuschauerraum.JPG---
 
 ## Overview
 

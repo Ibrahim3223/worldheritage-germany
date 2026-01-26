@@ -4,13 +4,13 @@ site_name: "Theurer Christian"
 date: 2026-01-26
 draft: false
 description: "monument in Südliches Anhalt in Germany"
-region: "Südliches Anhalt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Südliches Anhalt"
+  - "Brandenburg"
 wikidata_id: "Q2420400"
 latitude: 51.6493
 longitude: 12.0983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/400px-Radegast-Anhalt.Theurer.Christian.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/800px-Radegast-Anhalt.Theurer.Christian.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/1200px-Radegast-Anhalt.Theurer.Christian.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/1920px-Radegast-Anhalt.Theurer.Christian.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/1920px-Radegast-Anhalt.Theurer.Christian.jpg---
 
 ## Overview
 

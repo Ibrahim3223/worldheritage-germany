@@ -4,13 +4,13 @@ site_name: "Stolpe Castle"
 date: 2026-01-26
 draft: false
 description: "Schloss in Deutschland"
-region: "Stolpe auf Usedom"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Stolpe auf Usedom"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1682430"
 latitude: 53.8679
 longitude: 13.9915
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zamek_w_Stolpe.JPG/400px-Zamek_w_Stolpe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zamek_w_Stolpe.JPG/800px-Zamek_w_Stolpe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zamek_w_Stolpe.JPG/1200px-Zamek_w_Stolpe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zamek_w_Stolpe.JPG/1920px-Zamek_w_Stolpe.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zamek_w_Stolpe.JPG/1920px-Zamek_w_Stolpe.JPG---
 
 ## Overview
 

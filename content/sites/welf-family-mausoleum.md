@@ -4,13 +4,13 @@ site_name: "Welf family mausoleum"
 date: 2026-01-26
 draft: false
 description: "Mausoleum of the noble family \"House of Welf\""
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q2807128"
 latitude: 52.395303
 longitude: 9.699168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg/400px-Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg/800px-Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg/1200px-Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg/1920px-Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg/1920px-Welfs_mausoleum_Berggarten_Herrenhausen_Hannover_Germany.jpg---
 
 ## Overview
 

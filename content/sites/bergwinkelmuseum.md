@@ -4,19 +4,18 @@ site_name: "Bergwinkelmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Schlüchtern, Hesse, Germany"
-region: "Schlüchtern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schlüchtern"
+  - "Bavaria"
 wikidata_id: "Q15052078"
 latitude: 50.347542
 longitude: 9.522647
 images:
-  []
----
+  []---
 
 ## Overview
 

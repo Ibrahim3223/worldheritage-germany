@@ -4,13 +4,13 @@ site_name: "Schneverdingen town hall"
 date: 2026-01-26
 draft: false
 description: "town hall in Schneverdingen, Germany"
-region: "Schneverdingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Schneverdingen"
+  - "Lower Saxony"
 wikidata_id: "Q116251718"
 latitude: 53.119922222
 longitude: 9.787083333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/400px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/800px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/1200px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/1920px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/1920px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg---
 
 ## Overview
 

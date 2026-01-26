@@ -4,13 +4,13 @@ site_name: "Junkerhaus"
 date: 2026-01-26
 draft: false
 description: "house created by Karl Junker"
-region: "Lemgo"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lemgo"
+  - "Lower Saxony"
 wikidata_id: "Q1713629"
 latitude: 52.026
 longitude: 8.91704
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/400px-Lemgo_Museum_Junkerhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/800px-Lemgo_Museum_Junkerhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/1200px-Lemgo_Museum_Junkerhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/1920px-Lemgo_Museum_Junkerhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/1920px-Lemgo_Museum_Junkerhaus.jpg---
 
 ## Overview
 

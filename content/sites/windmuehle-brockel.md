@@ -4,13 +4,13 @@ site_name: "Windmühle Brockel"
 date: 2026-01-26
 draft: false
 description: "building in Brockel, Germany"
-region: "Brockel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Brockel"
+  - "Lower Saxony"
 wikidata_id: "Q135440515"
 latitude: 53.09341
 longitude: 9.51898
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/400px-Windmühle_(Brockel)_P1170058.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/800px-Windmühle_(Brockel)_P1170058.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/1200px-Windmühle_(Brockel)_P1170058.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/1920px-Windmühle_(Brockel)_P1170058.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/1920px-Windmühle_(Brockel)_P1170058.jpg---
 
 ## Overview
 

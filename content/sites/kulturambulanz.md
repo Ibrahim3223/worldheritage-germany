@@ -4,19 +4,18 @@ site_name: "KulturAmbulanz"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Osterholz"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osterholz"
+  - "Bremen"
 wikidata_id: "Q15824567"
 latitude: 53.06575
 longitude: 8.93783333
 images:
-  []
----
+  []---
 
 ## Overview
 

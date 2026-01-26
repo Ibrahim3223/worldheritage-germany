@@ -4,19 +4,18 @@ site_name: "Alwine Colliery"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q169647"
 latitude: 51.4161
 longitude: 7.2342
 images:
-  []
----
+  []---
 
 ## Overview
 

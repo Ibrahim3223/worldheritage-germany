@@ -4,13 +4,13 @@ site_name: "Beach of Ueckermünde"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Ueckermünde"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"
 categories:
   - "Beach"
 regions:
-  - "Ueckermünde"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q136794219"
 latitude: 53.7481069
 longitude: 14.0732606
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/400px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/800px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/1200px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/1920px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/1920px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg---
 
 ## Overview
 

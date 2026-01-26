@@ -4,19 +4,18 @@ site_name: "Fußgängerbrücke über die Zschopau Erdmannsdorf (Augustusburg)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Augustusburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Augustusburg"
+  - "Saxony"
 wikidata_id: "Q49445928"
 latitude: 50.816917537
 longitude: 13.078098053
 images:
-  []
----
+  []---
 
 ## Overview
 

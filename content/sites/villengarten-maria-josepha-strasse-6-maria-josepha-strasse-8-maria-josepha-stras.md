@@ -4,19 +4,18 @@ site_name: "Villengarten Maria-Josepha-Straße 6; Maria-Josepha-Straße 8; Maria
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-4234 (1) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98740032"
 latitude: 48.157777145
 longitude: 11.587845307
 images:
-  []
----
+  []---
 
 ## Overview
 

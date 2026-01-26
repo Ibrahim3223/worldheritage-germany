@@ -4,19 +4,18 @@ site_name: "Am Heeder Moor"
 date: 2026-01-26
 draft: false
 description: "former nature reserve in Lower Saxony, Germany"
-region: "Diepholz"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Diepholz"
+  - "Lower Saxony"
 wikidata_id: "Q451322"
 latitude: 52.6275
 longitude: 8.34
 images:
-  []
----
+  []---
 
 ## Overview
 

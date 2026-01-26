@@ -4,13 +4,13 @@ site_name: "Zion Church"
 date: 2026-01-26
 draft: false
 description: "church in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q205391"
 latitude: 52.5348
 longitude: 13.4038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/400px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/800px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/1200px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/1920px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/1920px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg---
 
 ## Overview
 

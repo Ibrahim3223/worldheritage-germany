@@ -4,13 +4,13 @@ site_name: "Reichenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Trechtingshausen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trechtingshausen"
+  - "Hesse"
 wikidata_id: "Q581762"
 latitude: 50.0051
 longitude: 7.8535
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Reichenstein_Luftbild_01.jpg/400px-Burg_Reichenstein_Luftbild_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Reichenstein_Luftbild_01.jpg/800px-Burg_Reichenstein_Luftbild_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Reichenstein_Luftbild_01.jpg/1200px-Burg_Reichenstein_Luftbild_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Reichenstein_Luftbild_01.jpg/1920px-Burg_Reichenstein_Luftbild_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Reichenstein_Luftbild_01.jpg/1920px-Burg_Reichenstein_Luftbild_01.jpg---
 
 ## Overview
 

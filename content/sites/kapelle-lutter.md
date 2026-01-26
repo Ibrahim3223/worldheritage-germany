@@ -4,13 +4,13 @@ site_name: "Kapelle Lutter"
 date: 2026-01-26
 draft: false
 description: "chapel in Lutter, Germany"
-region: "Neustadt am Rübenberge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Neustadt am Rübenberge"
+  - "Lower Saxony"
 wikidata_id: "Q1728400"
 latitude: 52.6131
 longitude: 9.50978
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/400px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/800px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/1200px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/1920px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/1920px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg---
 
 ## Overview
 

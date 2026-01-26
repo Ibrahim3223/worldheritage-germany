@@ -4,13 +4,13 @@ site_name: "Ammersee"
 date: 2026-01-26
 draft: false
 description: "lake in Upper Bavaria, Germany"
-region: "Ammersee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Ammersee"
+  - "Bavaria"
 wikidata_id: "Q265336"
 latitude: 48.0
 longitude: 11.116666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/400px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/800px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg---
 
 ## Overview
 

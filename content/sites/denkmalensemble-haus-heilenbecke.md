@@ -4,19 +4,18 @@ site_name: "Denkmalensemble Haus Heilenbecke"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Ennepetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Ennepetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1188082"
 latitude: 51.2949
 longitude: 7.34164
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "James Simon Gallery"
 date: 2026-01-26
 draft: false
 description: "visitor center and art museum in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q664484"
 latitude: 52.52
 longitude: 13.39701
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/400px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/800px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1200px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1920px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1920px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg---
 
 ## Overview
 

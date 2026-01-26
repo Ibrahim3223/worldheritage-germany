@@ -4,13 +4,13 @@ site_name: "Church of the holy Archangels"
 date: 2026-01-26
 draft: false
 description: "church building in Juist, Germany"
-region: "Juist"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Juist"
+  - "Lower Saxony"
 wikidata_id: "Q227452"
 latitude: 53.67912
 longitude: 7.0002
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/400px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/800px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/1200px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/1920px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/1920px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Leipzig Panometer"
 date: 2026-01-26
 draft: false
 description: "former gas storage tank turned into museum"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q834488"
 latitude: 51.3143
 longitude: 12.3867
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Panometer_Leipzig.jpg/400px-Panometer_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Panometer_Leipzig.jpg/800px-Panometer_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Panometer_Leipzig.jpg/1200px-Panometer_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Panometer_Leipzig.jpg/1920px-Panometer_Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Panometer_Leipzig.jpg/1920px-Panometer_Leipzig.jpg---
 
 ## Overview
 

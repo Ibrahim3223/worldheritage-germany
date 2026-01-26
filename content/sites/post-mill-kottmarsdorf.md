@@ -4,13 +4,13 @@ site_name: "post mill Kottmarsdorf"
 date: 2026-01-26
 draft: false
 description: "post mill in Kottmarsdorf"
-region: "Kottmar"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kottmar"
+  - "Saxony"
 wikidata_id: "Q22670075"
 latitude: 51.028697
 longitude: 14.628464
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/400px-Windmill_Kottmarsdorf_LC0035.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/800px-Windmill_Kottmarsdorf_LC0035.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/1200px-Windmill_Kottmarsdorf_LC0035.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/1920px-Windmill_Kottmarsdorf_LC0035.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/1920px-Windmill_Kottmarsdorf_LC0035.jpg---
 
 ## Overview
 

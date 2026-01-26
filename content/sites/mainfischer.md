@@ -4,13 +4,13 @@ site_name: "Mainfischer"
 date: 2026-01-26
 draft: false
 description: "statue in Offenbach am Main, Germany"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q1503156"
 latitude: 50.1111
 longitude: 8.75653
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/400px-Mainfischer-Detail.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/800px-Mainfischer-Detail.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/1200px-Mainfischer-Detail.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/1920px-Mainfischer-Detail.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/1920px-Mainfischer-Detail.jpg---
 
 ## Overview
 

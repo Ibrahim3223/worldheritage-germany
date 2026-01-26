@@ -4,13 +4,13 @@ site_name: "Bauernhof Heribertstraße 34"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Nörvenich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Nörvenich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q811272"
 latitude: 50.8119
 longitude: 6.58409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20_Heribertstraße_34_(Eschweiler).jpg/400px-20_Heribertstraße_34_(Eschweiler).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20_Heribertstraße_34_(Eschweiler).jpg/800px-20_Heribertstraße_34_(Eschweiler).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20_Heribertstraße_34_(Eschweiler).jpg/1200px-20_Heribertstraße_34_(Eschweiler).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20_Heribertstraße_34_(Eschweiler).jpg/1920px-20_Heribertstraße_34_(Eschweiler).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20_Heribertstraße_34_(Eschweiler).jpg/1920px-20_Heribertstraße_34_(Eschweiler).jpg---
 
 ## Overview
 

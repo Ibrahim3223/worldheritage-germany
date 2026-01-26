@@ -4,13 +4,13 @@ site_name: "Epiphaniaskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Hannover, Germany"
-region: "Bothfeld-Vahrenheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bothfeld-Vahrenheide"
+  - "Lower Saxony"
 wikidata_id: "Q1347194"
 latitude: 52.4153
 longitude: 9.7735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/400px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/800px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/1200px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/1920px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/1920px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Palais Schloßplatz 5 b in Coburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-63-000-452 (1) in Coburg, Bavaria"
-region: "Coburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Coburg"
+  - "Bavaria"
 wikidata_id: "Q98587723"
 latitude: 50.259999548
 longitude: 10.967479988
 images:
-  []
----
+  []---
 
 ## Overview
 

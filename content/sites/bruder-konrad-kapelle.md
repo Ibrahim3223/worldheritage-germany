@@ -4,13 +4,13 @@ site_name: "Bruder-Konrad-Kapelle"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Aitrach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Aitrach"
+  - "Baden-Württemberg"
 wikidata_id: "Q992156"
 latitude: 47.9369
 longitude: 10.0963
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.Konrad_Kapelle_-_panoramio.jpg/400px-St.Konrad_Kapelle_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.Konrad_Kapelle_-_panoramio.jpg/800px-St.Konrad_Kapelle_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.Konrad_Kapelle_-_panoramio.jpg/1200px-St.Konrad_Kapelle_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.Konrad_Kapelle_-_panoramio.jpg/1920px-St.Konrad_Kapelle_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.Konrad_Kapelle_-_panoramio.jpg/1920px-St.Konrad_Kapelle_-_panoramio.jpg---
 
 ## Overview
 

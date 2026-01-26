@@ -4,13 +4,13 @@ site_name: "Museum Rade am Schloss Reinbek"
 date: 2026-01-26
 draft: false
 description: "museum Rade am Schloss Reinbek"
-region: "Reinbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Reinbek"
+  - "Hamburg"
 wikidata_id: "Q42278101"
 latitude: 53.507305555
 longitude: 10.253888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/400px-Museum_Rade.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/800px-Museum_Rade.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/1200px-Museum_Rade.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/1920px-Museum_Rade.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/1920px-Museum_Rade.JPG---
 
 ## Overview
 

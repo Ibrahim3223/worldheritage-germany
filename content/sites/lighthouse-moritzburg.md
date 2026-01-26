@@ -4,13 +4,13 @@ site_name: "Lighthouse Moritzburg"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Saxony, Germany"
-region: "Moritzburg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Moritzburg"
+  - "Saxony"
 wikidata_id: "Q1821440"
 latitude: 51.1685
 longitude: 13.7097
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leuchtturm_Moritzburg_1.jpg/400px-Leuchtturm_Moritzburg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leuchtturm_Moritzburg_1.jpg/800px-Leuchtturm_Moritzburg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leuchtturm_Moritzburg_1.jpg/1200px-Leuchtturm_Moritzburg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leuchtturm_Moritzburg_1.jpg/1920px-Leuchtturm_Moritzburg_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leuchtturm_Moritzburg_1.jpg/1920px-Leuchtturm_Moritzburg_1.jpg---
 
 ## Overview
 

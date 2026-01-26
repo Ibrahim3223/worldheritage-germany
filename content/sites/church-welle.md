@@ -4,13 +4,13 @@ site_name: "Church Welle"
 date: 2026-01-26
 draft: false
 description: "church in Saxony-Anhalt, Germany"
-region: "Welle"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Welle"
+  - "Brandenburg"
 wikidata_id: "Q1557317"
 latitude: 52.5364
 longitude: 11.8496
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/400px-Gutskirche_Welle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/800px-Gutskirche_Welle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/1200px-Gutskirche_Welle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/1920px-Gutskirche_Welle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/1920px-Gutskirche_Welle.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kloster Fürstenberg"
 date: 2026-01-26
 draft: false
 description: "Kloster in Deutschland"
-region: "Xanten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Xanten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1775245"
 latitude: 51.6507
 longitude: 6.47188
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kloster_Fürstenberg_1464.jpg/400px-Kloster_Fürstenberg_1464.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kloster_Fürstenberg_1464.jpg/800px-Kloster_Fürstenberg_1464.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kloster_Fürstenberg_1464.jpg/1200px-Kloster_Fürstenberg_1464.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kloster_Fürstenberg_1464.jpg/1920px-Kloster_Fürstenberg_1464.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kloster_Fürstenberg_1464.jpg/1920px-Kloster_Fürstenberg_1464.jpg---
 
 ## Overview
 

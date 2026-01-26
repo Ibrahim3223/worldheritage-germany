@@ -4,19 +4,18 @@ site_name: "Exhibition Centre for the Archaeology of the Emsland"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Meppen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Meppen"
+  - "Lower Saxony"
 wikidata_id: "Q780621"
 latitude: 52.6879
 longitude: 7.30486
 images:
-  []
----
+  []---
 
 ## Overview
 

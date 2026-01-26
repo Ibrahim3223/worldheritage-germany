@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke über das Schwarzwasser Am Schwarzwasser 28 (hint
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Schmölln-Putzkau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Schmölln-Putzkau"
+  - "Saxony"
 wikidata_id: "Q49411209"
 latitude: 51.121879
 longitude: 14.232295
 images:
-  []
----
+  []---
 
 ## Overview
 

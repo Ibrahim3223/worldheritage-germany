@@ -4,13 +4,13 @@ site_name: "Öömrang Hüs"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nebel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nebel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q27831262"
 latitude: 54.6511
 longitude: 8.35668
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/400px-Oeoemrang_hues.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/800px-Oeoemrang_hues.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/1200px-Oeoemrang_hues.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/1920px-Oeoemrang_hues.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/1920px-Oeoemrang_hues.jpg---
 
 ## Overview
 

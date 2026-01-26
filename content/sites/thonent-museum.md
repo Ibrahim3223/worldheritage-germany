@@ -4,19 +4,18 @@ site_name: "Thonent-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Frankenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Frankenberg"
+  - "Hesse"
 wikidata_id: "Q2428768"
 latitude: 51.0519
 longitude: 8.78784
 images:
-  []
----
+  []---
 
 ## Overview
 

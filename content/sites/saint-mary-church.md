@@ -4,13 +4,13 @@ site_name: "Saint Mary Church"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Neu Boltenhagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Neu Boltenhagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316462"
 latitude: 54.0653
 longitude: 13.612
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/400px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/800px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/1200px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/1920px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/1920px-NeuBoltenhagen_Marienkirche_Nordseite.jpg---
 
 ## Overview
 

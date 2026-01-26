@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ehemalige_Jüdische_Mädchenschule_Berlin.jpg/400px-Ehemalige_Jüdische_Mädchenschule_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ehemalige_Jüdische_Mädchenschule_Berlin.jpg/800px-Ehemalige_Jüdische_Mädchenschule_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ehemalige_Jüdische_Mädchenschule_Berlin.jpg/1200px-Ehemalige_Jüdische_Mädchenschule_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ehemalige_Jüdische_Mädchenschule_Berlin.jpg/1920px-Ehemalige_Jüdische_Mädchenschule_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ehemalige_Jüdische_Mädchenschule_Berlin.jpg/1920px-Ehemalige_Jüdische_Mädchenschule_Berlin.jpg---
 
 ## Overview
 

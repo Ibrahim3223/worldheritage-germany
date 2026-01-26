@@ -4,13 +4,13 @@ site_name: "Brückentor (Traben-Trarbach)"
 date: 2026-01-26
 draft: false
 description: "city gate in Traben-Trarbach, Germany"
-region: "Traben-Trarbach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Traben-Trarbach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q996561"
 latitude: 49.9482
 longitude: 7.11508
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/400px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/800px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/1200px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/1920px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/1920px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg---
 
 ## Overview
 

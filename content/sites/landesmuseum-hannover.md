@@ -4,13 +4,13 @@ site_name: "Landesmuseum Hannover"
 date: 2026-01-26
 draft: false
 description: "museum in Hannover"
-region: "Südstadt-Bult"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Südstadt-Bult"
+  - "Lower Saxony"
 wikidata_id: "Q314082"
 latitude: 52.36549544
 longitude: 9.740111115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Niedersächsisches_Landesmuseum_(8535266820).jpg/400px-Niedersächsisches_Landesmuseum_(8535266820).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Niedersächsisches_Landesmuseum_(8535266820).jpg/800px-Niedersächsisches_Landesmuseum_(8535266820).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Niedersächsisches_Landesmuseum_(8535266820).jpg/1200px-Niedersächsisches_Landesmuseum_(8535266820).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Niedersächsisches_Landesmuseum_(8535266820).jpg/1920px-Niedersächsisches_Landesmuseum_(8535266820).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Niedersächsisches_Landesmuseum_(8535266820).jpg/1920px-Niedersächsisches_Landesmuseum_(8535266820).jpg---
 
 ## Overview
 

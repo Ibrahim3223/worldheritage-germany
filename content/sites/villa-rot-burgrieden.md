@@ -4,13 +4,13 @@ site_name: "Villa Rot, Burgrieden"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Burgrieden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Burgrieden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1727639"
 latitude: 48.2229
 longitude: 9.95897
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Villa_Rot_im_Winter.JPG/400px-Villa_Rot_im_Winter.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Villa_Rot_im_Winter.JPG/800px-Villa_Rot_im_Winter.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Villa_Rot_im_Winter.JPG/1200px-Villa_Rot_im_Winter.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Villa_Rot_im_Winter.JPG/1920px-Villa_Rot_im_Winter.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Villa_Rot_im_Winter.JPG/1920px-Villa_Rot_im_Winter.JPG---
 
 ## Overview
 

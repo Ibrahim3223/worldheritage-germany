@@ -4,13 +4,13 @@ site_name: "Roman settlement Tegelberg"
 date: 2026-01-26
 draft: false
 description: "archaeological site and museum in Schwangau, Germany"
-region: "Schwangau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schwangau"
+  - "Bavaria"
 wikidata_id: "Q1720523"
 latitude: 47.5685
 longitude: 10.7565
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/400px-Römersiedlung_Tegelberg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/800px-Römersiedlung_Tegelberg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/1200px-Römersiedlung_Tegelberg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/1920px-Römersiedlung_Tegelberg.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/1920px-Römersiedlung_Tegelberg.png---
 
 ## Overview
 

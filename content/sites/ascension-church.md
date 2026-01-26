@@ -4,13 +4,13 @@ site_name: "Ascension church"
 date: 2026-01-26
 draft: false
 description: "church building in Mitte, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q11722063"
 latitude: 52.544615
 longitude: 13.389433
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kirche_am_Humboldthain.jpg/400px-Kirche_am_Humboldthain.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kirche_am_Humboldthain.jpg/800px-Kirche_am_Humboldthain.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kirche_am_Humboldthain.jpg/1200px-Kirche_am_Humboldthain.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kirche_am_Humboldthain.jpg/1920px-Kirche_am_Humboldthain.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kirche_am_Humboldthain.jpg/1920px-Kirche_am_Humboldthain.jpg---
 
 ## Overview
 

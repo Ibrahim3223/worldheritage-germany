@@ -4,13 +4,13 @@ site_name: "Kulturzentrum Sinsteden"
 date: 2026-01-26
 draft: false
 description: "Landwirtschafts- und Kunstmuseum in der Gemeinde Rommerskirchen"
-region: "Sinsteden"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sinsteden"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q59822035"
 latitude: 51.04718
 longitude: 6.66166
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kulturzentrum_Sinsteden-0160.jpg/400px-Kulturzentrum_Sinsteden-0160.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kulturzentrum_Sinsteden-0160.jpg/800px-Kulturzentrum_Sinsteden-0160.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kulturzentrum_Sinsteden-0160.jpg/1200px-Kulturzentrum_Sinsteden-0160.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kulturzentrum_Sinsteden-0160.jpg/1920px-Kulturzentrum_Sinsteden-0160.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kulturzentrum_Sinsteden-0160.jpg/1920px-Kulturzentrum_Sinsteden-0160.jpg---
 
 ## Overview
 

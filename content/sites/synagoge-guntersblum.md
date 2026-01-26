@@ -4,19 +4,18 @@ site_name: "Synagoge Guntersblum"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Guntersblum, Germany"
-region: "Guntersblum"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Guntersblum"
+  - "Baden-Württemberg"
 wikidata_id: "Q1516520"
 latitude: 49.7956
 longitude: 8.34753
 images:
-  []
----
+  []---
 
 ## Overview
 

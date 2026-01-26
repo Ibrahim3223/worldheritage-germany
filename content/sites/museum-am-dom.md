@@ -4,19 +4,18 @@ site_name: "Museum am Dom"
 date: 2026-01-26
 draft: false
 description: "Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q15122148"
 latitude: 53.860399
 longitude: 10.685116
 images:
-  []
----
+  []---
 
 ## Overview
 

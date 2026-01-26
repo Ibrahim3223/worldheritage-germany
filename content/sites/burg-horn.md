@@ -4,13 +4,13 @@ site_name: "Burg Horn"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Horn-Bad Meinberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Horn-Bad Meinberg"
+  - "Lower Saxony"
 wikidata_id: "Q1012489"
 latitude: 51.8736
 longitude: 8.9425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Horn_Frontseite_kl.jpg/400px-Burg_Horn_Frontseite_kl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Horn_Frontseite_kl.jpg/800px-Burg_Horn_Frontseite_kl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Horn_Frontseite_kl.jpg/1200px-Burg_Horn_Frontseite_kl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Horn_Frontseite_kl.jpg/1920px-Burg_Horn_Frontseite_kl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Horn_Frontseite_kl.jpg/1920px-Burg_Horn_Frontseite_kl.jpg---
 
 ## Overview
 

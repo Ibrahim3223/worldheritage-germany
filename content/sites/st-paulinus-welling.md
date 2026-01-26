@@ -4,13 +4,13 @@ site_name: "St. Paulinus (Welling)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Welling"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2322376"
 latitude: 50.3294
 longitude: 7.31378
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/400px-Welling_von_SSW.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/800px-Welling_von_SSW.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/1200px-Welling_von_SSW.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/1920px-Welling_von_SSW.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/1920px-Welling_von_SSW.JPG---
 
 ## Overview
 

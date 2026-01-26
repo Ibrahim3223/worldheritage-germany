@@ -4,13 +4,13 @@ site_name: "local heritage museum Homberg (Efze)"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Homberg (Efze)"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Homberg (Efze)"
+  - "Hesse"
 wikidata_id: "Q1595656"
 latitude: 51.03411944
 longitude: 9.40609444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimatmuseum_Homberg_(Efze)_HR2.JPG/400px-Heimatmuseum_Homberg_(Efze)_HR2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimatmuseum_Homberg_(Efze)_HR2.JPG/800px-Heimatmuseum_Homberg_(Efze)_HR2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimatmuseum_Homberg_(Efze)_HR2.JPG/1200px-Heimatmuseum_Homberg_(Efze)_HR2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimatmuseum_Homberg_(Efze)_HR2.JPG/1920px-Heimatmuseum_Homberg_(Efze)_HR2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimatmuseum_Homberg_(Efze)_HR2.JPG/1920px-Heimatmuseum_Homberg_(Efze)_HR2.JPG---
 
 ## Overview
 

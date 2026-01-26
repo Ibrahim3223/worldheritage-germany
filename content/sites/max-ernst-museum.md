@@ -4,13 +4,13 @@ site_name: "Max Ernst Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Brühl"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Brühl"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1912027"
 latitude: 50.8302
 longitude: 6.90992
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Max_Ernst_Museum_Brühl_des_LVR-0901.jpg/400px-Max_Ernst_Museum_Brühl_des_LVR-0901.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Max_Ernst_Museum_Brühl_des_LVR-0901.jpg/800px-Max_Ernst_Museum_Brühl_des_LVR-0901.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Max_Ernst_Museum_Brühl_des_LVR-0901.jpg/1200px-Max_Ernst_Museum_Brühl_des_LVR-0901.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Max_Ernst_Museum_Brühl_des_LVR-0901.jpg/1920px-Max_Ernst_Museum_Brühl_des_LVR-0901.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Max_Ernst_Museum_Brühl_des_LVR-0901.jpg/1920px-Max_Ernst_Museum_Brühl_des_LVR-0901.jpg---
 
 ## Overview
 

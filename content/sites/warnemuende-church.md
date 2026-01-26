@@ -4,13 +4,13 @@ site_name: "Warnemünde Church"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Germany"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Germany"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q568131"
 latitude: 54.176838888
 longitude: 12.085005555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/400px-Kirche_Warnemünde_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/800px-Kirche_Warnemünde_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/1200px-Kirche_Warnemünde_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/1920px-Kirche_Warnemünde_2016.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/1920px-Kirche_Warnemünde_2016.jpg---
 
 ## Overview
 

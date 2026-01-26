@@ -4,13 +4,13 @@ site_name: "Burg Hengebach"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Heimbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heimbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151548"
 latitude: 50.6333
 longitude: 6.47944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/400px-Heimbach-Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/800px-Heimbach-Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/1200px-Heimbach-Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/1920px-Heimbach-Burg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/1920px-Heimbach-Burg.jpg---
 
 ## Overview
 

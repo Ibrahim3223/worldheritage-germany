@@ -4,13 +4,13 @@ site_name: "Möltenort U-Boat Memorial"
 date: 2026-01-26
 draft: false
 description: "Memorial near Kiel to those who died in U-boats in the World Wars, and victims of submarine warfare"
-region: "Heikendorf"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Heikendorf"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1433215"
 latitude: 54.37944444
 longitude: 10.19472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/400px-U-Boot-Ehrenmal_Möltenort_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/800px-U-Boot-Ehrenmal_Möltenort_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/1200px-U-Boot-Ehrenmal_Möltenort_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/1920px-U-Boot-Ehrenmal_Möltenort_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/1920px-U-Boot-Ehrenmal_Möltenort_1.jpg---
 
 ## Overview
 

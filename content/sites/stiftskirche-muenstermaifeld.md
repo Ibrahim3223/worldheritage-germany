@@ -4,13 +4,13 @@ site_name: "Stiftskirche Münstermaifeld"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Münstermaifeld"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Münstermaifeld"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q390932"
 latitude: 50.247675
 longitude: 7.362681
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/400px-2014_Stiftskirche_Münstermaifeld_(4).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/800px-2014_Stiftskirche_Münstermaifeld_(4).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/1200px-2014_Stiftskirche_Münstermaifeld_(4).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/1920px-2014_Stiftskirche_Münstermaifeld_(4).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/1920px-2014_Stiftskirche_Münstermaifeld_(4).jpg---
 
 ## Overview
 

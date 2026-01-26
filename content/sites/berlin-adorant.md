@@ -4,13 +4,13 @@ site_name: "Berlin Adorant"
 date: 2026-01-26
 draft: false
 description: "antique bronze statue, Altes Museum, Berlin, Germany"
-region: "Germany"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Germany"
+  - "Berlin"
 wikidata_id: "Q16327603"
 latitude: 52.519
 longitude: 13.398
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/400px-Altes_Museum_-_Betender_Knabe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/800px-Altes_Museum_-_Betender_Knabe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1200px-Altes_Museum_-_Betender_Knabe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1920px-Altes_Museum_-_Betender_Knabe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1920px-Altes_Museum_-_Betender_Knabe.jpg---
 
 ## Overview
 

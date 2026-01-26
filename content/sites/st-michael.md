@@ -4,13 +4,13 @@ site_name: "St. Michael"
 date: 2026-01-26
 draft: false
 description: "church building in Heidelberg, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1703167"
 latitude: 49.3881
 longitude: 8.68821
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St_Michael_Heidelberg_1.JPG/400px-St_Michael_Heidelberg_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St_Michael_Heidelberg_1.JPG/800px-St_Michael_Heidelberg_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St_Michael_Heidelberg_1.JPG/1200px-St_Michael_Heidelberg_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St_Michael_Heidelberg_1.JPG/1920px-St_Michael_Heidelberg_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/St_Michael_Heidelberg_1.JPG/1920px-St_Michael_Heidelberg_1.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Heimatmuseum Haiger"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76633881"
 latitude: 50.742311111
 longitude: 8.203869444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/400px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/800px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/1200px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/1920px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/1920px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg---
 
 ## Overview
 

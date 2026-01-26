@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-3-6733-0029 in Pyrbaum"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Neumarkt in der Oberpfalz in Bavaria, Germany"
-region: "Pyrbaum"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Pyrbaum"
+  - "Bavaria"
 wikidata_id: "Q98108542"
 latitude: 49.296713324
 longitude: 11.28225476
 images:
-  []
----
+  []---
 
 ## Overview
 

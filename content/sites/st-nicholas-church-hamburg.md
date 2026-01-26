@@ -4,13 +4,13 @@ site_name: "St. Nicholas Church, Hamburg"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt (Hamburg), Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q425622"
 latitude: 53.5475
 longitude: 9.990555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/400px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/800px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/1200px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/1920px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/1920px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg---
 
 ## Overview
 

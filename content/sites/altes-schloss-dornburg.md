@@ -4,13 +4,13 @@ site_name: "Altes Schloss Dornburg"
 date: 2026-01-26
 draft: false
 description: "palace in Dornburg, Thuringia, Germany"
-region: "Dornburg-Camburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dornburg-Camburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q79025431"
 latitude: 51.007092
 longitude: 11.669585
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg/400px-Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg/800px-Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg/1200px-Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg/1920px-Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg/1920px-Kulturdenkmal_Dornburg_Saale_Dornburger_Schlösser_Altes_Schloss_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_0098.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Neumarkter Brauereimuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neumarkt in der Oberpfalz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neumarkt in der Oberpfalz"
+  - "Bavaria"
 wikidata_id: "Q76628754"
 latitude: 49.278833333
 longitude: 11.461747222
 images:
-  []
----
+  []---
 
 ## Overview
 

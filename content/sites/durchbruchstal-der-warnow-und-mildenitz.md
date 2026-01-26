@@ -4,13 +4,13 @@ site_name: "Durchbruchstal der Warnow und Mildenitz"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Mecklenburg-Vorpommern, Germany"
-region: "Sternberg"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Sternberg"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1147591"
 latitude: 53.7424
 longitude: 11.8314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Warnow_durchbruchstal7.jpg/400px-Warnow_durchbruchstal7.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Warnow_durchbruchstal7.jpg/800px-Warnow_durchbruchstal7.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Warnow_durchbruchstal7.jpg/1200px-Warnow_durchbruchstal7.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Warnow_durchbruchstal7.jpg/1920px-Warnow_durchbruchstal7.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Warnow_durchbruchstal7.jpg/1920px-Warnow_durchbruchstal7.jpg---
 
 ## Overview
 

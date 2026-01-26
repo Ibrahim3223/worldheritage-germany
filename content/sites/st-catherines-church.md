@@ -4,13 +4,13 @@ site_name: "St. Catherine's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Lübeck's Old City, Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q317388"
 latitude: 53.869166666
 longitude: 10.689444444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/400px-Katharinenkirche_Lübeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/800px-Katharinenkirche_Lübeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/1200px-Katharinenkirche_Lübeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/1920px-Katharinenkirche_Lübeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/1920px-Katharinenkirche_Lübeck.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mausoleum Vering"
 date: 2026-01-26
 draft: false
 description: "Listed family burial vault built after 1897 for the family of building contractor and Royal Commercial Councillor Carl Vering"
-region: "Herrenhausen-Stöcken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Herrenhausen-Stöcken"
+  - "Lower Saxony"
 wikidata_id: "Q137791457"
 latitude: 52.401581005
 longitude: 9.667590964
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/400px-Stöcken-Friedhof_03_Tempel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/800px-Stöcken-Friedhof_03_Tempel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/1200px-Stöcken-Friedhof_03_Tempel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/1920px-Stöcken-Friedhof_03_Tempel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/1920px-Stöcken-Friedhof_03_Tempel.JPG---
 
 ## Overview
 

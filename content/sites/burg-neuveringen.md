@@ -4,19 +4,18 @@ site_name: "Burg Neuveringen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Riedlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Riedlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013306"
 latitude: 48.16158
 longitude: 9.49324
 images:
-  []
----
+  []---
 
 ## Overview
 

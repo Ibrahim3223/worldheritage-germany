@@ -4,13 +4,13 @@ site_name: "Prussian National Monument for the Liberation Wars"
 date: 2026-01-26
 draft: false
 description: "monument in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q819820"
 latitude: 52.487661
 longitude: 13.381464
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/400px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/800px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/1200px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/1920px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/1920px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg---
 
 ## Overview
 

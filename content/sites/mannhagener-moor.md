@@ -4,13 +4,13 @@ site_name: "Mannhagener Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Mecklenburg-Vorpommern, Germany"
-region: "Sundhagen"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Sundhagen"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1171216"
 latitude: 54.1841
 longitude: 13.209
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/400px-Mannhagen_NSG_Mannhagener_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/800px-Mannhagen_NSG_Mannhagener_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/1200px-Mannhagen_NSG_Mannhagener_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/1920px-Mannhagen_NSG_Mannhagener_Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/1920px-Mannhagen_NSG_Mannhagener_Moor.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Sommerauer Wasserfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Sommerau"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Sommerau"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2300434"
 latitude: 49.7153
 longitude: 6.73556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SommerauWasserfall1.jpg/400px-SommerauWasserfall1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SommerauWasserfall1.jpg/800px-SommerauWasserfall1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SommerauWasserfall1.jpg/1200px-SommerauWasserfall1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SommerauWasserfall1.jpg/1920px-SommerauWasserfall1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SommerauWasserfall1.jpg/1920px-SommerauWasserfall1.jpg---
 
 ## Overview
 

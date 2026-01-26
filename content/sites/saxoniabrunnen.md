@@ -4,13 +4,13 @@ site_name: "Saxoniabrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Chemnitz, Saxony"
-region: "Zentrum"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Zentrum"
+  - "Saxony"
 wikidata_id: "Q2228443"
 latitude: 50.8332
 longitude: 12.9235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg/400px-Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg/800px-Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg/1200px-Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg/1920px-Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg/1920px-Saxoniabrunnen_in_Chemnitz...2H1A5231ОВ.jpg---
 
 ## Overview
 

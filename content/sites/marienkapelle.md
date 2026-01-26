@@ -4,13 +4,13 @@ site_name: "Marienkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Erlenmoos"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Erlenmoos"
+  - "Baden-Württemberg"
 wikidata_id: "Q1530272"
 latitude: 48.0655
 longitude: 9.97544
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/400px-Marienkapelle_Erlenmoos.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/800px-Marienkapelle_Erlenmoos.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/1200px-Marienkapelle_Erlenmoos.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/1920px-Marienkapelle_Erlenmoos.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/1920px-Marienkapelle_Erlenmoos.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Our Lady Church Husum"
 date: 2026-01-26
 draft: false
 description: "church building in Husum, North Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q878307"
 latitude: 54.4771
 longitude: 9.05225
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Marienkirche_husum_3.jpg/400px-Marienkirche_husum_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Marienkirche_husum_3.jpg/800px-Marienkirche_husum_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Marienkirche_husum_3.jpg/1200px-Marienkirche_husum_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Marienkirche_husum_3.jpg/1920px-Marienkirche_husum_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Marienkirche_husum_3.jpg/1920px-Marienkirche_husum_3.jpg---
 
 ## Overview
 

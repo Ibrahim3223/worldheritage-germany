@@ -4,13 +4,13 @@ site_name: "Petrus church"
 date: 2026-01-26
 draft: false
 description: "church in Kiel"
-region: "Wik"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wik"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1798817"
 latitude: 54.359213
 longitude: 10.135649
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/400px-Petrus_kirche_kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/800px-Petrus_kirche_kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/1200px-Petrus_kirche_kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/1920px-Petrus_kirche_kiel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/1920px-Petrus_kirche_kiel.jpg---
 
 ## Overview
 

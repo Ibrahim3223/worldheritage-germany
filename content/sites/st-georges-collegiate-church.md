@@ -4,13 +4,13 @@ site_name: "St. George's Collegiate Church"
 date: 2026-01-26
 draft: false
 description: "church building in Tübingen, Baden-Württemberg, Germany"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q875952"
 latitude: 48.52
 longitude: 9.056111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/400px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/800px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/1200px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/1920px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/1920px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg---
 
 ## Overview
 

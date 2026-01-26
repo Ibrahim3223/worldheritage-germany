@@ -4,13 +4,13 @@ site_name: "Derker Tor"
 date: 2026-01-26
 draft: false
 description: "Stadttor in Brilon"
-region: "Brilon"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Gatehouse"
 categories:
   - "Gatehouse"
 regions:
-  - "Brilon"
+  - "Hesse"
 wikidata_id: "Q985089"
 latitude: 51.3923
 longitude: 8.56746
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Brilon,_Derker_Tor,_2012-05_CN-01.jpg/400px-Brilon,_Derker_Tor,_2012-05_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Brilon,_Derker_Tor,_2012-05_CN-01.jpg/800px-Brilon,_Derker_Tor,_2012-05_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Brilon,_Derker_Tor,_2012-05_CN-01.jpg/1200px-Brilon,_Derker_Tor,_2012-05_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Brilon,_Derker_Tor,_2012-05_CN-01.jpg/1920px-Brilon,_Derker_Tor,_2012-05_CN-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Brilon,_Derker_Tor,_2012-05_CN-01.jpg/1920px-Brilon,_Derker_Tor,_2012-05_CN-01.jpg---
 
 ## Overview
 

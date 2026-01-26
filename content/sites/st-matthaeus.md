@@ -4,13 +4,13 @@ site_name: "St. Matthäus"
 date: 2026-01-26
 draft: false
 description: "church building in Niederkassel, Germany"
-region: "Niederkassel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Niederkassel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2321440"
 latitude: 50.8104
 longitude: 7.036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Niederkassel_StMatthaeus2.JPG/400px-Niederkassel_StMatthaeus2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Niederkassel_StMatthaeus2.JPG/800px-Niederkassel_StMatthaeus2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Niederkassel_StMatthaeus2.JPG/1200px-Niederkassel_StMatthaeus2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Niederkassel_StMatthaeus2.JPG/1920px-Niederkassel_StMatthaeus2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Niederkassel_StMatthaeus2.JPG/1920px-Niederkassel_StMatthaeus2.JPG---
 
 ## Overview
 

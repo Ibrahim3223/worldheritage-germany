@@ -4,13 +4,13 @@ site_name: "Friedrich III. Denkmal"
 date: 2026-01-26
 draft: false
 description: "statue in Aachen, Germany"
-region: "Aachen-Mitte"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Aachen-Mitte"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q20754367"
 latitude: 50.7755608
 longitude: 6.0953477
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/400px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/800px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/1200px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/1920px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/1920px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG---
 
 ## Overview
 

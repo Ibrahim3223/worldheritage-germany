@@ -4,19 +4,18 @@ site_name: "Bayerischer Löwe"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Starnberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Starnberg"
+  - "Bavaria"
 wikidata_id: "Q812355"
 latitude: 47.991816999
 longitude: 11.33900546
 images:
-  []
----
+  []---
 
 ## Overview
 

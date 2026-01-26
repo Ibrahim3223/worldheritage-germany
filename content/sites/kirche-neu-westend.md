@@ -4,13 +4,13 @@ site_name: "Kirche Neu-Westend"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1979131"
 latitude: 52.5177
 longitude: 13.2631
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kirche_Neu-Westend.JPG/400px-Kirche_Neu-Westend.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kirche_Neu-Westend.JPG/800px-Kirche_Neu-Westend.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kirche_Neu-Westend.JPG/1200px-Kirche_Neu-Westend.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kirche_Neu-Westend.JPG/1920px-Kirche_Neu-Westend.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kirche_Neu-Westend.JPG/1920px-Kirche_Neu-Westend.JPG---
 
 ## Overview
 

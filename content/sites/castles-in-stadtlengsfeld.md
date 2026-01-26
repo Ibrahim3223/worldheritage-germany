@@ -4,13 +4,13 @@ site_name: "Castles in Stadtlengsfeld"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Stadtlengsfeld"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Stadtlengsfeld"
+  - "Hesse"
 wikidata_id: "Q1012904"
 latitude: 50.7821
 longitude: 10.1282
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WAK_BURG_LENGSFELD2.jpg/400px-WAK_BURG_LENGSFELD2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WAK_BURG_LENGSFELD2.jpg/800px-WAK_BURG_LENGSFELD2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WAK_BURG_LENGSFELD2.jpg/1200px-WAK_BURG_LENGSFELD2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WAK_BURG_LENGSFELD2.jpg/1920px-WAK_BURG_LENGSFELD2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WAK_BURG_LENGSFELD2.jpg/1920px-WAK_BURG_LENGSFELD2.jpg---
 
 ## Overview
 

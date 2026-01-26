@@ -4,13 +4,13 @@ site_name: "Antonshütte"
 date: 2026-01-26
 draft: false
 description: "ehemalige Schmelzhütte im Schwarzwassertal"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q607837"
 latitude: 50.502004
 longitude: 12.756865
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/400px-Antonshütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/800px-Antonshütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/1200px-Antonshütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/1920px-Antonshütte.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/1920px-Antonshütte.jpg---
 
 ## Overview
 

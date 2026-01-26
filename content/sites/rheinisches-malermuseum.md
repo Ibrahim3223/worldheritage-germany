@@ -4,13 +4,13 @@ site_name: "Rheinisches Malermuseum"
 date: 2026-01-26
 draft: false
 description: "art museum"
-region: "Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1529045"
 latitude: 50.7357
 longitude: 7.09396
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/400px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/800px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/1200px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/1920px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/1920px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg---
 
 ## Overview
 

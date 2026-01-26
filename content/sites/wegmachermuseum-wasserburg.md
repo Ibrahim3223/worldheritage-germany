@@ -4,19 +4,18 @@ site_name: "Wegmachermuseum Wasserburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wasserburg am Inn"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wasserburg am Inn"
+  - "Bavaria"
 wikidata_id: "Q76629715"
 latitude: 48.046897222
 longitude: 12.214486111
 images:
-  []
----
+  []---
 
 ## Overview
 

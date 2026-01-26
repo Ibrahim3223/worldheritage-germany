@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-6226-0200 in Albertshofen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Albertshofen, Kitzingen, Lower Franconia, Bavaria, Germany"
-region: "Albertshofen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Albertshofen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98149475"
 latitude: 49.770832228
 longitude: 10.158795119
 images:
-  []
----
+  []---
 
 ## Overview
 

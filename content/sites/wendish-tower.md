@@ -4,13 +4,13 @@ site_name: "Wendish Tower"
 date: 2026-01-26
 draft: false
 description: "historic tower in Bautzen, Saxony"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q1382745"
 latitude: 51.1819
 longitude: 14.4273
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/400px-Wendischer_Turm_100.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/800px-Wendischer_Turm_100.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/1200px-Wendischer_Turm_100.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/1920px-Wendischer_Turm_100.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/1920px-Wendischer_Turm_100.JPG---
 
 ## Overview
 

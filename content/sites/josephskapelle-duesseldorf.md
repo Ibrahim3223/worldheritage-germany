@@ -4,13 +4,13 @@ site_name: "Josephskapelle Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "church building in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1708433"
 latitude: 51.2285
 longitude: 6.7711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Düsseldorf_(DerHexer)_2010-08-13_069.jpg/400px-Düsseldorf_(DerHexer)_2010-08-13_069.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Düsseldorf_(DerHexer)_2010-08-13_069.jpg/800px-Düsseldorf_(DerHexer)_2010-08-13_069.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Düsseldorf_(DerHexer)_2010-08-13_069.jpg/1200px-Düsseldorf_(DerHexer)_2010-08-13_069.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Düsseldorf_(DerHexer)_2010-08-13_069.jpg/1920px-Düsseldorf_(DerHexer)_2010-08-13_069.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Düsseldorf_(DerHexer)_2010-08-13_069.jpg/1920px-Düsseldorf_(DerHexer)_2010-08-13_069.jpg---
 
 ## Overview
 

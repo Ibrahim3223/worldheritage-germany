@@ -4,19 +4,18 @@ site_name: "Schwäbisches Krippenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mindelheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mindelheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2258062"
 latitude: 48.0463
 longitude: 10.4852
 images:
-  []
----
+  []---
 
 ## Overview
 

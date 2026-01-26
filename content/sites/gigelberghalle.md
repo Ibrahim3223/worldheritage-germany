@@ -4,13 +4,13 @@ site_name: "Gigelberghalle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall on the Gigelberg in Biberach/Riss, Germany"
-region: "Biberach an der Riss"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Biberach an der Riss"
+  - "Baden-Württemberg"
 wikidata_id: "Q17461408"
 latitude: 48.099628
 longitude: 9.783458
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/400px-Gigelberghalle_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/800px-Gigelberghalle_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/1200px-Gigelberghalle_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/1920px-Gigelberghalle_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/1920px-Gigelberghalle_(cropped).jpg---
 
 ## Overview
 

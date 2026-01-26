@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über einen Wasserlauf (bei Gasthof Schwimmer, Ebers
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Großschweidnitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Großschweidnitz"
+  - "Saxony"
 wikidata_id: "Q49422374"
 latitude: 51.072811962
 longitude: 14.652210234
 images:
-  []
----
+  []---
 
 ## Overview
 

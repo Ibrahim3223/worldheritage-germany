@@ -4,13 +4,13 @@ site_name: "Angermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Erfurt, Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q538183"
 latitude: 50.9756
 longitude: 11.0342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/400px-Angermuseum_Erfurt2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/800px-Angermuseum_Erfurt2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/1200px-Angermuseum_Erfurt2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/1920px-Angermuseum_Erfurt2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/1920px-Angermuseum_Erfurt2.JPG---
 
 ## Overview
 

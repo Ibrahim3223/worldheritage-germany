@@ -4,13 +4,13 @@ site_name: "Bode Gorge"
 date: 2026-01-26
 draft: false
 description: "valley in Harz District, Germany"
-region: "Harz District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Harz District"
+  - "Lower Saxony"
 wikidata_id: "Q889810"
 latitude: 51.735555555
 longitude: 11.009722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/400px-Bodetal_vom_Hexentanzplatz_aus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/800px-Bodetal_vom_Hexentanzplatz_aus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1200px-Bodetal_vom_Hexentanzplatz_aus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1920px-Bodetal_vom_Hexentanzplatz_aus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1920px-Bodetal_vom_Hexentanzplatz_aus.jpg---
 
 ## Overview
 

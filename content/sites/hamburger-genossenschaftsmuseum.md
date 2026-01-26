@@ -4,13 +4,13 @@ site_name: "Hamburger Genossenschaftsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Besenbinderhof"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Besenbinderhof"
+  - "Hamburg"
 wikidata_id: "Q19963918"
 latitude: 53.5505804
 longitude: 10.0120801
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/400px-Hamburger_Genossenschaftsmuseum.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/800px-Hamburger_Genossenschaftsmuseum.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/1200px-Hamburger_Genossenschaftsmuseum.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/1920px-Hamburger_Genossenschaftsmuseum.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/1920px-Hamburger_Genossenschaftsmuseum.jpeg---
 
 ## Overview
 

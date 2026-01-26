@@ -4,13 +4,13 @@ site_name: "Our Lady's Church"
 date: 2026-01-26
 draft: false
 description: "church building in Hesse, Germany"
-region: "Frankenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankenberg"
+  - "Hesse"
 wikidata_id: "Q1823922"
 latitude: 51.0587
 longitude: 8.7992
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/400px-Liebfrauenkirche_Park_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/800px-Liebfrauenkirche_Park_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/1200px-Liebfrauenkirche_Park_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/1920px-Liebfrauenkirche_Park_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/1920px-Liebfrauenkirche_Park_2.JPG---
 
 ## Overview
 

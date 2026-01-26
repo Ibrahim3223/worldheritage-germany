@@ -4,13 +4,13 @@ site_name: "St. Mauritius"
 date: 2026-01-26
 draft: false
 description: "church building in Mülheim-Kärlich, Germany"
-region: "Mülheim-Kärlich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mülheim-Kärlich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2321492"
 latitude: 50.3875
 longitude: 7.48638
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/400px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/800px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/1200px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/1920px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/1920px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg---
 
 ## Overview
 

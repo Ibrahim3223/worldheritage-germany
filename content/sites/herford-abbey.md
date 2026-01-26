@@ -4,13 +4,13 @@ site_name: "Herford Abbey"
 date: 2026-01-26
 draft: false
 description: "oldest women's religious house in the Duchy of Saxony"
-region: "Herford"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Herford"
+  - "Lower Saxony"
 wikidata_id: "Q316174"
 latitude: 52.1131
 longitude: 8.67028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/400px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/800px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1200px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1920px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1920px-Herforder_Muenster_Turm_IMGP2599_wp.jpg---
 
 ## Overview
 

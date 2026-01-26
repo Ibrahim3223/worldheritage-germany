@@ -4,19 +4,18 @@ site_name: "Jörgenstein"
 date: 2026-01-26
 draft: false
 description: "Denkmal im Bochumer Forst „Weitmarer Holz“"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1715613"
 latitude: 51.4306
 longitude: 7.2076
 images:
-  []
----
+  []---
 
 ## Overview
 

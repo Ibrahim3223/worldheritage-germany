@@ -4,13 +4,13 @@ site_name: "De Vrouw Johanna"
 date: 2026-01-26
 draft: false
 description: "windmill"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1180473"
 latitude: 53.37238415
 longitude: 7.21333981
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/400px-Muehle_Vrouw_Johanna_Emden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/800px-Muehle_Vrouw_Johanna_Emden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1200px-Muehle_Vrouw_Johanna_Emden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1920px-Muehle_Vrouw_Johanna_Emden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1920px-Muehle_Vrouw_Johanna_Emden.jpg---
 
 ## Overview
 

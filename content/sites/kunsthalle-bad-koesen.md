@@ -4,19 +4,18 @@ site_name: "Kunsthalle Bad Kösen"
 date: 2026-01-26
 draft: false
 description: "museum in Bad Kösen, Germany"
-region: "Naumburg"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Naumburg"
+  - "Saxony-Anhalt"
 wikidata_id: "Q76638233"
 latitude: 51.135808
 longitude: 11.721874
 images:
-  []
----
+  []---
 
 ## Overview
 

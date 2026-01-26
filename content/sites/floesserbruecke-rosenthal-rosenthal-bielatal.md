@@ -4,19 +4,18 @@ site_name: "Flößerbrücke Rosenthal (Rosenthal-Bielatal)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rosenthal-Bielatal"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rosenthal-Bielatal"
+  - "Saxony"
 wikidata_id: "Q49443601"
 latitude: 50.831199217
 longitude: 14.100944396
 images:
-  []
----
+  []---
 
 ## Overview
 

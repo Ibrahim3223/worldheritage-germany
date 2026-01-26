@@ -4,13 +4,13 @@ site_name: "Burg Monterberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kalkar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kalkar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013138"
 latitude: 51.7214
 longitude: 6.30472
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/400px-Monterberg_Braun_Hogenberg_1575.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/800px-Monterberg_Braun_Hogenberg_1575.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/1200px-Monterberg_Braun_Hogenberg_1575.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/1920px-Monterberg_Braun_Hogenberg_1575.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/1920px-Monterberg_Braun_Hogenberg_1575.jpg---
 
 ## Overview 
 

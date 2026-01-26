@@ -4,13 +4,13 @@ site_name: "Brunnerswegbrücke"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q23798751"
 latitude: 49.88516
 longitude: 8.70737
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Darmstadt-Brücke-Brunnersweg.jpg/400px-Darmstadt-Brücke-Brunnersweg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Darmstadt-Brücke-Brunnersweg.jpg/800px-Darmstadt-Brücke-Brunnersweg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Darmstadt-Brücke-Brunnersweg.jpg/1200px-Darmstadt-Brücke-Brunnersweg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Darmstadt-Brücke-Brunnersweg.jpg/1920px-Darmstadt-Brücke-Brunnersweg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Darmstadt-Brücke-Brunnersweg.jpg/1920px-Darmstadt-Brücke-Brunnersweg.jpg---
 
 ## Overview
 

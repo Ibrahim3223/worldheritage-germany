@@ -4,13 +4,13 @@ site_name: "St. Walburga"
 date: 2026-01-26
 draft: false
 description: "church building in Walberberg, Bornheim, Germany"
-region: "Bornheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bornheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1793423"
 latitude: 50.7936
 longitude: 6.91045
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Walberberg(Bornheim)St.Walburga5408.JPG/400px-Walberberg(Bornheim)St.Walburga5408.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Walberberg(Bornheim)St.Walburga5408.JPG/800px-Walberberg(Bornheim)St.Walburga5408.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Walberberg(Bornheim)St.Walburga5408.JPG/1200px-Walberberg(Bornheim)St.Walburga5408.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Walberberg(Bornheim)St.Walburga5408.JPG/1920px-Walberberg(Bornheim)St.Walburga5408.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Walberberg(Bornheim)St.Walburga5408.JPG/1920px-Walberberg(Bornheim)St.Walburga5408.JPG---
 
 ## Overview
 

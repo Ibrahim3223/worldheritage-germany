@@ -4,13 +4,13 @@ site_name: "Brandenburg-Preussen Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fehrbellin"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fehrbellin"
+  - "Brandenburg"
 wikidata_id: "Q897877"
 latitude: 52.84791
 longitude: 12.8635761
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/400px-BrandenburgPreussenMuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/800px-BrandenburgPreussenMuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/1200px-BrandenburgPreussenMuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/1920px-BrandenburgPreussenMuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/1920px-BrandenburgPreussenMuseum.jpg---
 
 ## Overview
 

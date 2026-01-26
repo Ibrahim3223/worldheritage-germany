@@ -4,19 +4,18 @@ site_name: "Stiftung Kloster Eberbach"
 date: 2026-01-26
 draft: false
 description: "foundation for the preservation of the cultural monument Eberbach Monastery"
-region: "Eltville am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Eltville am Rhein"
+  - "Hesse"
 wikidata_id: "Q76633702"
 latitude: 50.04367
 longitude: 8.04658
 images:
-  []
----
+  []---
 
 ## Overview
 

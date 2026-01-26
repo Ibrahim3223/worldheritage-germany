@@ -4,13 +4,13 @@ site_name: "Burgruine"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-72-114-393 (0) in Bad Kissingen, Bavaria"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q320285"
 latitude: 50.188314521
 longitude: 10.087355736
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Botenlauben-Juni2007.JPG/400px-Burg_Botenlauben-Juni2007.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Botenlauben-Juni2007.JPG/800px-Burg_Botenlauben-Juni2007.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Botenlauben-Juni2007.JPG/1200px-Burg_Botenlauben-Juni2007.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Botenlauben-Juni2007.JPG/1920px-Burg_Botenlauben-Juni2007.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg_Botenlauben-Juni2007.JPG/1920px-Burg_Botenlauben-Juni2007.JPG---
 
 ## Overview
 

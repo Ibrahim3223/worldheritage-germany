@@ -4,19 +4,18 @@ site_name: "St.-Victor-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Victorbur, Germany"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q2316793"
 latitude: 53.4912
 longitude: 7.35894
 images:
-  []
----
+  []---
 
 ## Overview
 

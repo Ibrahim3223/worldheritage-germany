@@ -4,13 +4,13 @@ site_name: "Kaiser-Wilhelm-Denkmal, Hamburg"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Hamburg-Neustadt"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1721556"
 latitude: 53.55538889
 longitude: 9.97805556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/400px-Kaiser_Wilhelm_I._Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/800px-Kaiser_Wilhelm_I._Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1200px-Kaiser_Wilhelm_I._Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1920px-Kaiser_Wilhelm_I._Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1920px-Kaiser_Wilhelm_I._Denkmal.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Alte Burg (Lommersdorf)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Blankenheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Blankenheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q435459"
 latitude: 50.3962
 longitude: 6.74294
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Margarethenkapelle"
 date: 2026-01-26
 draft: false
 description: "chapel in Bedburg, Germany"
-region: "Bedburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bedburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1624218"
 latitude: 50.9966
 longitude: 6.48878
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/400px-Margarethenkapelle_Grottenherten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/800px-Margarethenkapelle_Grottenherten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/1200px-Margarethenkapelle_Grottenherten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/1920px-Margarethenkapelle_Grottenherten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/1920px-Margarethenkapelle_Grottenherten.jpg---
 
 ## Overview
 

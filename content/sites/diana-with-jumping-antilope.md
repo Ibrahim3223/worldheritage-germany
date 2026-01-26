@@ -4,13 +4,13 @@ site_name: "Diana with Jumping Antilope"
 date: 2026-01-26
 draft: false
 description: "sculpture"
-region: "Neustadt-Süd"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Neustadt-Süd"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1208905"
 latitude: 50.926
 longitude: 6.94753
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/400px-Diana-mit-springender-Antilope.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/800px-Diana-mit-springender-Antilope.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/1200px-Diana-mit-springender-Antilope.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/1920px-Diana-mit-springender-Antilope.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/1920px-Diana-mit-springender-Antilope.JPG---
 
 ## Overview
 

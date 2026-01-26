@@ -4,13 +4,13 @@ site_name: "TRUDE"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q1524874"
 latitude: 53.58483333
 longitude: 10.04433333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/400px-Hamburg.Trude.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/800px-Hamburg.Trude.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/1200px-Hamburg.Trude.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/1920px-Hamburg.Trude.wmt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/1920px-Hamburg.Trude.wmt.jpg---
 
 ## Overview
 

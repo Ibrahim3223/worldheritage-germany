@@ -4,19 +4,18 @@ site_name: "Garten Spiegel 45 in Kulmbach"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-77-128-157 (3) in Kulmbach, Bavaria"
-region: "Kulmbach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Kulmbach"
+  - "Bavaria"
 wikidata_id: "Q98589396"
 latitude: 50.105791716
 longitude: 11.468065909
 images:
-  []
----
+  []---
 
 ## Overview
 

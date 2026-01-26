@@ -4,13 +4,13 @@ site_name: "Lehmbruck Museum"
 date: 2026-01-26
 draft: false
 description: "art museum in Duisburg, Germany"
-region: "Duisburg-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Duisburg-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q315753"
 latitude: 51.430278
 longitude: 6.766111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/400px-Duisburg_wilh_lehmbruck_museum_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/800px-Duisburg_wilh_lehmbruck_museum_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/1200px-Duisburg_wilh_lehmbruck_museum_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/1920px-Duisburg_wilh_lehmbruck_museum_außen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/1920px-Duisburg_wilh_lehmbruck_museum_außen.jpg---
 
 ## Overview
 

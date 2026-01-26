@@ -4,13 +4,13 @@ site_name: "Bauernmuseum Richen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Eppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q811292"
 latitude: 49.1708
 longitude: 8.94003
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/400px-Richen-bauernmuseum-edit.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/800px-Richen-bauernmuseum-edit.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/1200px-Richen-bauernmuseum-edit.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/1920px-Richen-bauernmuseum-edit.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/1920px-Richen-bauernmuseum-edit.jpg---
 
 ## Overview
 

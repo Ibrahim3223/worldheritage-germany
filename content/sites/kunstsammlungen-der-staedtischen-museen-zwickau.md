@@ -4,13 +4,13 @@ site_name: "Kunstsammlungen der Städtischen Museen Zwickau"
 date: 2026-01-26
 draft: false
 description: "German museum"
-region: "Zwickau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zwickau"
+  - "Saxony"
 wikidata_id: "Q15130656"
 latitude: 50.725817
 longitude: 12.489733
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/400px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/800px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/1200px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/1920px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/1920px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg---
 
 ## Overview
 

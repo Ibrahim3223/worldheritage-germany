@@ -4,13 +4,13 @@ site_name: "Postbauer-Heng"
 date: 2026-01-26
 draft: false
 description: "railway halt in the district of Neumarkt in der Oberpfalz, Upper Palatinate, Germany"
-region: "Postbauer-Heng"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Postbauer-Heng"
+  - "Bavaria"
 wikidata_id: "Q322025"
 latitude: 49.308917
 longitude: 11.358847
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/400px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/800px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/1200px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/1920px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/1920px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg---
 
 ## Overview
 

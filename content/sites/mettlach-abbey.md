@@ -4,13 +4,13 @@ site_name: "Mettlach abbey"
 date: 2026-01-26
 draft: false
 description: "ehemalige Klosteranlage, heute Sitz der Fa. Villeroy & Boch"
-region: "Mettlach"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Mettlach"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q334036"
 latitude: 49.4941
 longitude: 6.594
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/400px-Mettlach_Lith_1863_resized.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/800px-Mettlach_Lith_1863_resized.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/1200px-Mettlach_Lith_1863_resized.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/1920px-Mettlach_Lith_1863_resized.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/1920px-Mettlach_Lith_1863_resized.jpg---
 
 ## Overview
 

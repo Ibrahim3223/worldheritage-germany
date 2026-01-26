@@ -4,13 +4,13 @@ site_name: "Kreismuseum Bad Liebenwerda"
 date: 2026-01-26
 draft: false
 description: "regional museum in Brandenburg, Germany"
-region: "Bad Liebenwerda"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Liebenwerda"
+  - "Brandenburg"
 wikidata_id: "Q21035601"
 latitude: 51.515861111
 longitude: 13.398611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/400px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/800px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/1200px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/1920px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/1920px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schwarzenburg (Breisgau)"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Waldkirch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Waldkirch"
+  - "Baden-Württemberg"
 wikidata_id: "Q118146"
 latitude: 48.0702
 longitude: 7.96318
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/400px-Schwarzenburg_waldkirch_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/800px-Schwarzenburg_waldkirch_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/1200px-Schwarzenburg_waldkirch_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/1920px-Schwarzenburg_waldkirch_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/1920px-Schwarzenburg_waldkirch_02.JPG---
 
 ## Overview
 

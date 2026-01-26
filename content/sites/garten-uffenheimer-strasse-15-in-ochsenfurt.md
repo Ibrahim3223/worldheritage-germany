@@ -4,19 +4,18 @@ site_name: "Garten Uffenheimer Straße 15 in Ochsenfurt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-79-170-191 (1) in Ochsenfurt, Bavaria"
-region: "Ochsenfurt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Ochsenfurt"
+  - "Baden-Württemberg"
 wikidata_id: "Q98485274"
 latitude: 49.661522205
 longitude: 10.069304654
 images:
-  []
----
+  []---
 
 ## Overview
 

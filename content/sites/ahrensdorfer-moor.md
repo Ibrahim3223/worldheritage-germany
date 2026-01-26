@@ -4,13 +4,13 @@ site_name: "Ahrensdorfer Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Friesoythe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Friesoythe"
+  - "Lower Saxony"
 wikidata_id: "Q402776"
 latitude: 53.0844
 longitude: 7.89833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/400px-Ahrensdorfer_Moor_-_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/800px-Ahrensdorfer_Moor_-_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/1200px-Ahrensdorfer_Moor_-_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/1920px-Ahrensdorfer_Moor_-_03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/1920px-Ahrensdorfer_Moor_-_03.jpg---
 
 ## Overview
 

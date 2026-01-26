@@ -4,19 +4,18 @@ site_name: "Adelegg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Horgenzell"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Horgenzell"
+  - "Baden-Württemberg"
 wikidata_id: "Q354561"
 latitude: 47.82498
 longitude: 9.53511
 images:
-  []
----
+  []---
 
 ## Overview
 

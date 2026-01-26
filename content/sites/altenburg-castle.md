@@ -4,13 +4,13 @@ site_name: "Altenburg Castle"
 date: 2026-01-26
 draft: false
 description: "site of a castle in Hesse, Germany"
-region: "Neuental"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neuental"
+  - "Hesse"
 wikidata_id: "Q436904"
 latitude: 51.0444
 longitude: 9.2125
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/400px-Altenburg_Aussenwall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/800px-Altenburg_Aussenwall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/1200px-Altenburg_Aussenwall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/1920px-Altenburg_Aussenwall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/1920px-Altenburg_Aussenwall.jpg---
 
 ## Overview
 

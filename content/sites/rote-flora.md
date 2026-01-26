@@ -4,13 +4,13 @@ site_name: "Rote Flora"
 date: 2026-01-26
 draft: false
 description: "social centre and squatted former theater in Hamburg, Germany"
-region: "Altona"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Altona"
+  - "Hamburg"
 wikidata_id: "Q684932"
 latitude: 53.56199
 longitude: 9.9615
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/400px-Rote_Flora_März_2021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/800px-Rote_Flora_März_2021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/1200px-Rote_Flora_März_2021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/1920px-Rote_Flora_März_2021.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/1920px-Rote_Flora_März_2021.jpg---
 
 ## Overview
 

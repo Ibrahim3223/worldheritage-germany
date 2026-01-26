@@ -4,13 +4,13 @@ site_name: "Porzellanwerk Rosenthal am Rotbühl"
 date: 2026-01-26
 draft: false
 description: "porcelain factory buildings in Selb, Bavaria, Germany"
-region: "Selb"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Selb"
+  - "Bavaria"
 wikidata_id: "Q41395901"
 latitude: 50.1829
 longitude: 12.1364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/400px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/800px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/1200px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/1920px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/1920px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg---
 
 ## Overview
 

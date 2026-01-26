@@ -4,13 +4,13 @@ site_name: "Zollverein Coal Mine Industrial Complex"
 date: 2026-01-26
 draft: false
 description: "large former industrial site in the city of Essen, North Rhine-Westphalia, Germany"
-region: "Stadtbezirk VI (Essen)"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Coal Mine"
 categories:
   - "Coal Mine"
 regions:
-  - "Stadtbezirk VI (Essen)"
+  - "Lower Saxony"
 wikidata_id: "Q122026"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/400px-Zeche_Zollverein_abends.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/800px-Zeche_Zollverein_abends.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/1200px-Zeche_Zollverein_abends.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/1920px-Zeche_Zollverein_abends.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/1920px-Zeche_Zollverein_abends.jpg---
 
 ## Overview
 

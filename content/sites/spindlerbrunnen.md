@@ -4,13 +4,13 @@ site_name: "Spindlerbrunnen"
 date: 2026-01-26
 draft: false
 description: "fountain in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q2310754"
 latitude: 52.5119
 longitude: 13.4011
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/400px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/800px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/1200px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/1920px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/1920px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg---
 
 ## Overview
 

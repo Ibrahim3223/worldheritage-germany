@@ -4,13 +4,13 @@ site_name: "St. Petri, Volzendorf"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Lemgow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Lemgow"
+  - "Lower Saxony"
 wikidata_id: "Q1266870"
 latitude: 52.8926
 longitude: 11.262
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/400px-Chapel_of_Volzendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/800px-Chapel_of_Volzendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/1200px-Chapel_of_Volzendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/1920px-Chapel_of_Volzendorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/1920px-Chapel_of_Volzendorf.jpg---
 
 ## Overview
 

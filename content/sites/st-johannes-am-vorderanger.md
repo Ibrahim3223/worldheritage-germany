@@ -4,13 +4,13 @@ site_name: "St. Johannes am Vorderanger"
 date: 2026-01-26
 draft: false
 description: "church building in Landsberg am Lech, Upper Bavaria, Germany"
-region: "Landsberg am Lech"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Landsberg am Lech"
+  - "Bavaria"
 wikidata_id: "Q2319395"
 latitude: 48.052138765
 longitude: 10.876554443
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg/400px-Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg/800px-Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg/1200px-Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg/1920px-Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg/1920px-Vorderer_Anger_214b_St._Johannes_Landsberg-1.jpg---
 
 ## Overview
 

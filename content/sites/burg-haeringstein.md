@@ -4,13 +4,13 @@ site_name: "Burg Häringstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ebingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Ebingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012527"
 latitude: 48.2178
 longitude: 9.03587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schlossfelsen.JPG/400px-Schlossfelsen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schlossfelsen.JPG/800px-Schlossfelsen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schlossfelsen.JPG/1200px-Schlossfelsen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schlossfelsen.JPG/1920px-Schlossfelsen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schlossfelsen.JPG/1920px-Schlossfelsen.JPG---
 
 ## Overview
 

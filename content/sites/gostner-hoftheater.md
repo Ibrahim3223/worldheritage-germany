@@ -4,13 +4,13 @@ site_name: "Gostner Hoftheater"
 date: 2026-01-26
 draft: false
 description: "theatre in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1538642"
 latitude: 49.44986111
 longitude: 11.0501
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/400px-Austraße_70_Nürnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/800px-Austraße_70_Nürnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/1200px-Austraße_70_Nürnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/1920px-Austraße_70_Nürnberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/1920px-Austraße_70_Nürnberg.jpg---
 
 ## Overview
 

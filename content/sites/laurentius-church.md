@@ -4,13 +4,13 @@ site_name: "Laurentius Church"
 date: 2026-01-26
 draft: false
 description: "church building in Dagebüll, Germany"
-region: "Dagebüll"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dagebüll"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2320205"
 latitude: 54.705761
 longitude: 8.790716
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/400px-Fahretoft_kirche2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/800px-Fahretoft_kirche2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1200px-Fahretoft_kirche2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1920px-Fahretoft_kirche2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1920px-Fahretoft_kirche2.jpg---
 
 ## Overview
 

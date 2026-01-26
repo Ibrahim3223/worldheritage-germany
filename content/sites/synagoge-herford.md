@@ -4,13 +4,13 @@ site_name: "Synagoge Herford"
 date: 2026-01-26
 draft: false
 description: "Sitz der heutigen jüdischen Kultusgemeinde Herford-Detmold"
-region: "Herford"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Herford"
+  - "Lower Saxony"
 wikidata_id: "Q1798590"
 latitude: 52.1153
 longitude: 8.67669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2010-02-04_Herford_237.jpg/400px-2010-02-04_Herford_237.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2010-02-04_Herford_237.jpg/800px-2010-02-04_Herford_237.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2010-02-04_Herford_237.jpg/1200px-2010-02-04_Herford_237.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2010-02-04_Herford_237.jpg/1920px-2010-02-04_Herford_237.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2010-02-04_Herford_237.jpg/1920px-2010-02-04_Herford_237.jpg---
 
 ## Overview
 

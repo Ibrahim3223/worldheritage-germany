@@ -4,13 +4,13 @@ site_name: "Pogumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Pogum, Germany"
-region: "Jemgum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Jemgum"
+  - "Lower Saxony"
 wikidata_id: "Q2100575"
 latitude: 53.3194
 longitude: 7.25886
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/ChurchPogum.jpg/400px-ChurchPogum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/ChurchPogum.jpg/800px-ChurchPogum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/ChurchPogum.jpg/1200px-ChurchPogum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/ChurchPogum.jpg/1920px-ChurchPogum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/ChurchPogum.jpg/1920px-ChurchPogum.jpg---
 
 ## Overview 
 

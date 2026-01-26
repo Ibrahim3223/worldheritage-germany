@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Wiggensbach"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Wiggensbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Wiggensbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q28729463"
 latitude: 47.74545
 longitude: 10.23232
 images:
-  []
----
+  []---
 
 ## Overview
 

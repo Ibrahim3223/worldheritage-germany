@@ -4,13 +4,13 @@ site_name: "Schloss Kalkhorst"
 date: 2026-01-26
 draft: false
 description: "château"
-region: "Kalkhorst"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kalkhorst"
+  - "Lower Saxony"
 wikidata_id: "Q1280855"
 latitude: 53.965
 longitude: 11.0595
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Schloss_Kalkhorst_2013_02.jpg/400px-Schloss_Kalkhorst_2013_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Schloss_Kalkhorst_2013_02.jpg/800px-Schloss_Kalkhorst_2013_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Schloss_Kalkhorst_2013_02.jpg/1200px-Schloss_Kalkhorst_2013_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Schloss_Kalkhorst_2013_02.jpg/1920px-Schloss_Kalkhorst_2013_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Schloss_Kalkhorst_2013_02.jpg/1920px-Schloss_Kalkhorst_2013_02.jpg---
 
 ## Overview
 

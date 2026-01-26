@@ -4,13 +4,13 @@ site_name: "Württembergische Landesbibliothek"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Stuttgart-Mitte"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Stuttgart-Mitte"
+  - "Baden-Württemberg"
 wikidata_id: "Q317950"
 latitude: 48.7772
 longitude: 9.18506
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/400px-Wuerttembergische_landesbibliothek_2005_05a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/800px-Wuerttembergische_landesbibliothek_2005_05a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1200px-Wuerttembergische_landesbibliothek_2005_05a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1920px-Wuerttembergische_landesbibliothek_2005_05a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1920px-Wuerttembergische_landesbibliothek_2005_05a.jpg---
 
 ## Overview
 

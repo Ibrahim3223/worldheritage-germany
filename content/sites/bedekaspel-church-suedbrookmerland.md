@@ -4,13 +4,13 @@ site_name: "Bedekaspel Church (Südbrookmerland)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Südbrookmerland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Südbrookmerland"
+  - "Lower Saxony"
 wikidata_id: "Q813833"
 latitude: 53.437336
 longitude: 7.310872
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/400px-ChurchBedekaspel..JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/800px-ChurchBedekaspel..JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1200px-ChurchBedekaspel..JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1920px-ChurchBedekaspel..JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1920px-ChurchBedekaspel..JPG---
 
 ## Overview
 

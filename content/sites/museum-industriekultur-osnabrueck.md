@@ -4,13 +4,13 @@ site_name: "Museum Industriekultur Osnabrück"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1292862"
 latitude: 52.3151
 longitude: 8.00886
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg/400px-Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg/800px-Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg/1200px-Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg/1920px-Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg/1920px-Niedersachsen,_Osnabrück,_Museum_Industriekultur_NIK_9334.jpg---
 
 ## Overview
 

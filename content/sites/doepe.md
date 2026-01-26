@@ -4,13 +4,13 @@ site_name: "Döpe"
 date: 2026-01-26
 draft: false
 description: "lake in Nordwestmecklenburg District, Mecklenburg-Vorpommern, Germany"
-region: "Nordwestmecklenburg District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Nordwestmecklenburg District"
+  - "Lower Saxony"
 wikidata_id: "Q1271165"
 latitude: 53.777222222
 longitude: 11.530833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Döpe-29-04-2009-09.jpg/400px-Döpe-29-04-2009-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Döpe-29-04-2009-09.jpg/800px-Döpe-29-04-2009-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Döpe-29-04-2009-09.jpg/1200px-Döpe-29-04-2009-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Döpe-29-04-2009-09.jpg/1920px-Döpe-29-04-2009-09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Döpe-29-04-2009-09.jpg/1920px-Döpe-29-04-2009-09.jpg---
 
 ## Overview
 

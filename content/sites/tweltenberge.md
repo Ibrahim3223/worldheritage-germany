@@ -4,13 +4,13 @@ site_name: "Tweltenberge"
 date: 2026-01-26
 draft: false
 description: "archaeological site in Schleswig-Holstein, Germany"
-region: "Schleswig-Holstein"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Schleswig-Holstein"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q992800"
 latitude: 54.36
 longitude: 10.9413
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/400px-Heiligenhafen_-_Tweltenberge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/800px-Heiligenhafen_-_Tweltenberge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/1200px-Heiligenhafen_-_Tweltenberge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/1920px-Heiligenhafen_-_Tweltenberge.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/1920px-Heiligenhafen_-_Tweltenberge.JPG---
 
 ## Overview
 

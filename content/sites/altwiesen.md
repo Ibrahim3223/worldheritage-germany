@@ -4,13 +4,13 @@ site_name: "Altwiesen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Bodelshausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bodelshausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q446863"
 latitude: 48.3902
 longitude: 8.99553
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/400px-NSG_Altwiesen_img8888.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/800px-NSG_Altwiesen_img8888.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/1200px-NSG_Altwiesen_img8888.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/1920px-NSG_Altwiesen_img8888.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/1920px-NSG_Altwiesen_img8888.JPG---
 
 ## Overview
 

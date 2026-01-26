@@ -4,13 +4,13 @@ site_name: "House of History Baden-Württemberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q263491"
 latitude: 48.7789
 longitude: 9.18583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/400px-Stuttgart-haus-der-geschichte-bw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/800px-Stuttgart-haus-der-geschichte-bw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1200px-Stuttgart-haus-der-geschichte-bw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1920px-Stuttgart-haus-der-geschichte-bw.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1920px-Stuttgart-haus-der-geschichte-bw.jpg---
 
 ## Overview
 

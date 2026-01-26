@@ -4,13 +4,13 @@ site_name: "Uhlenköper"
 date: 2026-01-26
 draft: false
 description: "statue in Uelzen, Germany"
-region: "Uelzen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Uelzen"
+  - "Lower Saxony"
 wikidata_id: "Q1197664"
 latitude: 52.9647
 longitude: 10.56
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/400px-Uelzen_Uhlenköper_Münze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/800px-Uelzen_Uhlenköper_Münze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/1200px-Uelzen_Uhlenköper_Münze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/1920px-Uelzen_Uhlenköper_Münze.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/1920px-Uelzen_Uhlenköper_Münze.jpg---
 
 ## Overview
 

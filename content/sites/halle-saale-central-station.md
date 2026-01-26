@@ -4,13 +4,13 @@ site_name: "Halle (Saale) Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Germany"
-region: "Halle (Saale)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Halle (Saale)"
+  - "Brandenburg"
 wikidata_id: "Q320366"
 latitude: 51.4781
 longitude: 11.9867
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/400px-Hbf_Halle_(Saale).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/800px-Hbf_Halle_(Saale).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1200px-Hbf_Halle_(Saale).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1920px-Hbf_Halle_(Saale).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1920px-Hbf_Halle_(Saale).jpg---
 
 ## Overview
 

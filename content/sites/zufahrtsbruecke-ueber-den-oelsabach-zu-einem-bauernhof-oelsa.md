@@ -4,19 +4,18 @@ site_name: "Zufahrtsbrücke über den Oelsabach zu einem Bauernhof Oelsa"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Rabenau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Rabenau"
+  - "Saxony"
 wikidata_id: "Q49443404"
 latitude: 50.944486621
 longitude: 13.670748082
 images:
-  []
----
+  []---
 
 ## Overview
 

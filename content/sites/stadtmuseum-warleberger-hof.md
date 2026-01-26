@@ -4,13 +4,13 @@ site_name: "Stadtmuseum Warleberger Hof"
 date: 2026-01-26
 draft: false
 description: "museum in Kiel, Germany"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1566920"
 latitude: 54.3244
 longitude: 10.141
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/400px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/800px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/1200px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/1920px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/1920px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg---
 
 ## Overview
 

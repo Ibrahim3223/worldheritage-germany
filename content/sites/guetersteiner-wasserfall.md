@@ -4,13 +4,13 @@ site_name: "Gütersteiner Wasserfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Deutschland"
-region: "Bad Urach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Bad Urach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1562209"
 latitude: 48.4903
 longitude: 9.3525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/400px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/800px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/1200px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/1920px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/1920px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg---
 
 ## Overview
 

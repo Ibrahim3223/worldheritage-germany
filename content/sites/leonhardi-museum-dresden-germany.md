@@ -4,13 +4,13 @@ site_name: "Leonhardi-Museum (Dresden, Germany)"
 date: 2026-01-26
 draft: false
 description: "museum in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1278232"
 latitude: 51.0551
 longitude: 13.8168
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/400px-Dresden-Leonhardi-gp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/800px-Dresden-Leonhardi-gp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/1200px-Dresden-Leonhardi-gp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/1920px-Dresden-Leonhardi-gp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/1920px-Dresden-Leonhardi-gp.jpg---
 
 ## Overview
 

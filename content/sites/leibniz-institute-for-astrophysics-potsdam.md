@@ -4,13 +4,13 @@ site_name: "Leibniz Institute for Astrophysics Potsdam"
 date: 2026-01-26
 draft: false
 description: "research facility for astrophysics"
-region: "Potsdam"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Potsdam"
+  - "Berlin"
 wikidata_id: "Q662864"
 latitude: 52.405
 longitude: 13.1042
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg/400px-Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg/800px-Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg/1200px-Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg/1920px-Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg/1920px-Potsdam_Sternwarte_Babelsberg_asv2023-09_img1.jpg---
 
 ## Overview
 

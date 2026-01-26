@@ -4,13 +4,13 @@ site_name: "Steindeckerbrücke Döhlen 8 (bei)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Kubschütz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Kubschütz"
+  - "Saxony"
 wikidata_id: "Q49409218"
 latitude: 51.135982
 longitude: 14.49497
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Steindeckerbrücke_Döhlen_8_(bei).jpg/400px-Steindeckerbrücke_Döhlen_8_(bei).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Steindeckerbrücke_Döhlen_8_(bei).jpg/800px-Steindeckerbrücke_Döhlen_8_(bei).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Steindeckerbrücke_Döhlen_8_(bei).jpg/1200px-Steindeckerbrücke_Döhlen_8_(bei).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Steindeckerbrücke_Döhlen_8_(bei).jpg/1920px-Steindeckerbrücke_Döhlen_8_(bei).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Steindeckerbrücke_Döhlen_8_(bei).jpg/1920px-Steindeckerbrücke_Döhlen_8_(bei).jpg---
 
 ## Overview
 

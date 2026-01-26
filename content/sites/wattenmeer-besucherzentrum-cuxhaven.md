@@ -4,13 +4,13 @@ site_name: "Wattenmeer-Besucherzentrum Cuxhaven"
 date: 2026-01-26
 draft: false
 description: "museum in Cuxhaven, Germany"
-region: "Cuxhaven"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Cuxhaven"
+  - "Lower Saxony"
 wikidata_id: "Q39529789"
 latitude: 53.86424
 longitude: 8.59825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/400px-WattBZ_Sahlenborg_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/800px-WattBZ_Sahlenborg_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/1200px-WattBZ_Sahlenborg_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/1920px-WattBZ_Sahlenborg_6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/1920px-WattBZ_Sahlenborg_6.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Quadriga of Brunswick"
 date: 2026-01-26
 draft: false
 description: "statue in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q901953"
 latitude: 52.2633
 longitude: 10.5275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/400px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/800px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/1200px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/1920px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/1920px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG---
 
 ## Overview
 

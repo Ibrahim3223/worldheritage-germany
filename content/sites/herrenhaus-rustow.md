@@ -4,19 +4,18 @@ site_name: "Herrenhaus Rustow"
 date: 2026-01-26
 draft: false
 description: "Gutshaus im Ortsteil Rustow der Stadt Loitz im Landkreis Vorpommern-Greifswald"
-region: "Loitz"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Loitz"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q15114708"
 latitude: 53.955109
 longitude: 13.084229
 images:
-  []
----
+  []---
 
 ## Overview
 

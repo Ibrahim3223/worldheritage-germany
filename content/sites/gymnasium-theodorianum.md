@@ -4,13 +4,13 @@ site_name: "Gymnasium Theodorianum"
 date: 2026-01-26
 draft: false
 description: "school"
-region: "Paderborn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Paderborn"
+  - "Lower Saxony"
 wikidata_id: "Q1558249"
 latitude: 51.7162
 longitude: 8.75444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/400px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/800px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg---
 
 ## Overview
 

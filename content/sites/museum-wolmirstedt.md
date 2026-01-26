@@ -4,13 +4,13 @@ site_name: "Museum Wolmirstedt"
 date: 2026-01-26
 draft: false
 description: "museum in Wolmirstedt, Germany"
-region: "Wolmirstedt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wolmirstedt"
+  - "Brandenburg"
 wikidata_id: "Q57903877"
 latitude: 52.246405236
 longitude: 11.627635993
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/400px-Scheune_Wolmirstedt_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/800px-Scheune_Wolmirstedt_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/1200px-Scheune_Wolmirstedt_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/1920px-Scheune_Wolmirstedt_Schloss.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/1920px-Scheune_Wolmirstedt_Schloss.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Giessen Old Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Germany"
-region: "Giessen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Giessen"
+  - "Hesse"
 wikidata_id: "Q439545"
 latitude: 50.587
 longitude: 8.6769
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/400px-Gießen_Altes_Schloss_20070519.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/800px-Gießen_Altes_Schloss_20070519.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/1200px-Gießen_Altes_Schloss_20070519.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/1920px-Gießen_Altes_Schloss_20070519.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/1920px-Gießen_Altes_Schloss_20070519.jpg---
 
 ## Overview
 

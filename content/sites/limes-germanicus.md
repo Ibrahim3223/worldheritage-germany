@@ -4,13 +4,13 @@ site_name: "Limes Germanicus"
 date: 2026-01-26
 draft: false
 description: "fortifications of ancient Roman provinces"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Roman Limes"
 categories:
   - "Roman Limes"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q707801"
 latitude: 49.5
 longitude: 9.5
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/400px-Limes_Rhin.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/800px-Limes_Rhin.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/1200px-Limes_Rhin.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/1920px-Limes_Rhin.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/1920px-Limes_Rhin.png---
 
 ## Overview
 

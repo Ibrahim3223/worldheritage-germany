@@ -4,13 +4,13 @@ site_name: "Fragment from the tomb of Nikarete"
 date: 2026-01-26
 draft: false
 description: "ancient Greek sculpture"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q5483226"
 latitude: 52.5194
 longitude: 13.3983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/400px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/800px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1200px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1920px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1920px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg---
 
 ## Overview
 

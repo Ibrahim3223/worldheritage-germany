@@ -4,13 +4,13 @@ site_name: "German Maritime Museum"
 date: 2026-01-26
 draft: false
 description: "Maritime museum in Bremerhaven"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q455354"
 latitude: 53.5401
 longitude: 8.577
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/400px-Deutsches_Schiffahrtsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/800px-Deutsches_Schiffahrtsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1200px-Deutsches_Schiffahrtsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1920px-Deutsches_Schiffahrtsmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1920px-Deutsches_Schiffahrtsmuseum.jpg---
 
 ## Overview
 

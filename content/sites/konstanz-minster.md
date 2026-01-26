@@ -4,13 +4,13 @@ site_name: "Konstanz Minster"
 date: 2026-01-26
 draft: false
 description: "Roman Catholic church building in Constance, Baden-Württemberg, Germany, formerly the cathedral of the Diocese of Constance"
-region: "Constance"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Constance"
+  - "Baden-Württemberg"
 wikidata_id: "Q427812"
 latitude: 47.663333333
 longitude: 9.176388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/400px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/800px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/1200px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/1920px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/1920px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg---
 
 ## Overview
 

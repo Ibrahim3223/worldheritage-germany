@@ -4,13 +4,13 @@ site_name: "Evang.-Luth. Pfarrkirche St. Veit in Altenthann"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Schwarzenbruck"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwarzenbruck"
+  - "Bavaria"
 wikidata_id: "Q1010757"
 latitude: 49.3682
 longitude: 11.3053
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021_Altenthann_St._Veit_04.jpg/400px-2021_Altenthann_St._Veit_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021_Altenthann_St._Veit_04.jpg/800px-2021_Altenthann_St._Veit_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021_Altenthann_St._Veit_04.jpg/1200px-2021_Altenthann_St._Veit_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021_Altenthann_St._Veit_04.jpg/1920px-2021_Altenthann_St._Veit_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021_Altenthann_St._Veit_04.jpg/1920px-2021_Altenthann_St._Veit_04.jpg---
 
 ## Overview
 

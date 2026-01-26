@@ -4,13 +4,13 @@ site_name: "Village church Meseberg"
 date: 2026-01-26
 draft: false
 description: "listed hall church in Meseberg, Gransee, Brandenburg state of Germany"
-region: "Gransee"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gransee"
+  - "Brandenburg"
 wikidata_id: "Q1244528"
 latitude: 52.97081
 longitude: 13.10342
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Meseberg_(retouched)_(cropped).jpg/400px-Kirche_Meseberg_(retouched)_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Meseberg_(retouched)_(cropped).jpg/800px-Kirche_Meseberg_(retouched)_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Meseberg_(retouched)_(cropped).jpg/1200px-Kirche_Meseberg_(retouched)_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Meseberg_(retouched)_(cropped).jpg/1920px-Kirche_Meseberg_(retouched)_(cropped).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Meseberg_(retouched)_(cropped).jpg/1920px-Kirche_Meseberg_(retouched)_(cropped).jpg---
 
 ## Overview
 

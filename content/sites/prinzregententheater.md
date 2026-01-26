@@ -4,13 +4,13 @@ site_name: "Prinzregententheater"
 date: 2026-01-26
 draft: false
 description: "theatre in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q456586"
 latitude: 48.139
 longitude: 11.6056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Prinzregententheater.jpg/400px-Prinzregententheater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Prinzregententheater.jpg/800px-Prinzregententheater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Prinzregententheater.jpg/1200px-Prinzregententheater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Prinzregententheater.jpg/1920px-Prinzregententheater.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Prinzregententheater.jpg/1920px-Prinzregententheater.jpg---
 
 ## Overview
 

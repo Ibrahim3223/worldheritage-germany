@@ -4,13 +4,13 @@ site_name: "treasury of the Cathedral of Trier"
 date: 2026-01-26
 draft: false
 description: "museum of christian art, museum of medieval art in Cathedral of Trier, Mustorstraße"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q42306237"
 latitude: 49.755922
 longitude: 6.643994
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2018_Trier,_Domschatzkammer_1.jpg/400px-2018_Trier,_Domschatzkammer_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2018_Trier,_Domschatzkammer_1.jpg/800px-2018_Trier,_Domschatzkammer_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2018_Trier,_Domschatzkammer_1.jpg/1200px-2018_Trier,_Domschatzkammer_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2018_Trier,_Domschatzkammer_1.jpg/1920px-2018_Trier,_Domschatzkammer_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2018_Trier,_Domschatzkammer_1.jpg/1920px-2018_Trier,_Domschatzkammer_1.jpg---
 
 ## Overview
 

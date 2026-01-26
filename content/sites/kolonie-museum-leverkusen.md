@@ -4,13 +4,13 @@ site_name: "Kolonie-Museum Leverkusen"
 date: 2026-01-26
 draft: false
 description: "museum in Leverkusen"
-region: "Leverkusen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Leverkusen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q41762245"
 latitude: 51.034224
 longitude: 6.981531
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kolonie-Museum_in_Leverkusen,_von_Westen.jpg/400px-Kolonie-Museum_in_Leverkusen,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kolonie-Museum_in_Leverkusen,_von_Westen.jpg/800px-Kolonie-Museum_in_Leverkusen,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kolonie-Museum_in_Leverkusen,_von_Westen.jpg/1200px-Kolonie-Museum_in_Leverkusen,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kolonie-Museum_in_Leverkusen,_von_Westen.jpg/1920px-Kolonie-Museum_in_Leverkusen,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kolonie-Museum_in_Leverkusen,_von_Westen.jpg/1920px-Kolonie-Museum_in_Leverkusen,_von_Westen.jpg---
 
 ## Overview
 

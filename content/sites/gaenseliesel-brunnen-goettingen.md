@@ -4,13 +4,13 @@ site_name: "Gänseliesel-Brunnen Göttingen"
 date: 2026-01-26
 draft: false
 description: "fountain which was erected in 1901 in front of the mediaeval town hall of Göttingen, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q18624915"
 latitude: 51.532709
 longitude: 9.935101
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/400px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/800px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1200px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1920px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1920px-Göttingen_asv2022-06_img39_Gänseliesel.jpg---
 
 ## Overview
 

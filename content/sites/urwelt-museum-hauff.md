@@ -4,13 +4,13 @@ site_name: "Urwelt-Museum Hauff"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Holzmaden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Holzmaden"
+  - "Baden-Württemberg"
 wikidata_id: "Q2502251"
 latitude: 48.6353
 longitude: 9.52833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/400px-HolzmadenHauff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/800px-HolzmadenHauff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/1200px-HolzmadenHauff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/1920px-HolzmadenHauff.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/1920px-HolzmadenHauff.jpg---
 
 ## Overview
 

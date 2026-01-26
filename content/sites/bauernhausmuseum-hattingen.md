@@ -4,13 +4,13 @@ site_name: "Bauernhausmuseum Hattingen"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Hattingen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hattingen"
+  - "Lower Saxony"
 wikidata_id: "Q811267"
 latitude: 51.408333333
 longitude: 7.250777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg/400px-Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg/800px-Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg/1200px-Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg/1920px-Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg/1920px-Hattingen_Blankenstein_-_Bauernhausmuseum_01_ies.jpg---
 
 ## Overview
 

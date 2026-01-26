@@ -4,13 +4,13 @@ site_name: "Bansee"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Hademstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Hademstorf"
+  - "Lower Saxony"
 wikidata_id: "Q806949"
 latitude: 52.7186
 longitude: 9.65722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/400px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/800px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/1200px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/1920px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/1920px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg---
 
 ## Overview
 

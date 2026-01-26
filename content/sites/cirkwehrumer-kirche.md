@@ -4,13 +4,13 @@ site_name: "Cirkwehrumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Hinte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hinte"
+  - "Lower Saxony"
 wikidata_id: "Q1093047"
 latitude: 53.4374
 longitude: 7.17172
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/400px-Cirkwehrumer_Kirche36.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/800px-Cirkwehrumer_Kirche36.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/1200px-Cirkwehrumer_Kirche36.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/1920px-Cirkwehrumer_Kirche36.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/1920px-Cirkwehrumer_Kirche36.jpg---
 
 ## Overview
 

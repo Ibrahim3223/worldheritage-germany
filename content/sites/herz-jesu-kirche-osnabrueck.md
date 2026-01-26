@@ -4,13 +4,13 @@ site_name: "Herz-Jesu-Kirche, Osnabrück"
 date: 2026-01-26
 draft: false
 description: "church building in Osnabrueck, Germany"
-region: "Osnabrück"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Osnabrück"
+  - "Lower Saxony"
 wikidata_id: "Q1288033"
 latitude: 52.2765
 longitude: 8.04889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/400px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/800px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/1200px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/1920px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/1920px-Osnabrück_Herz-Jesu-Kirche_NW.jpg---
 
 ## Overview
 

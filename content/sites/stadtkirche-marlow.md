@@ -4,13 +4,13 @@ site_name: "Stadtkirche Marlow"
 date: 2026-01-26
 draft: false
 description: "church building in Marlow, Germany"
-region: "Marlow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Marlow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1702162"
 latitude: 54.1541
 longitude: 12.5717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marlow_Kirche_1.jpg/400px-Marlow_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marlow_Kirche_1.jpg/800px-Marlow_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marlow_Kirche_1.jpg/1200px-Marlow_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marlow_Kirche_1.jpg/1920px-Marlow_Kirche_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Marlow_Kirche_1.jpg/1920px-Marlow_Kirche_1.jpg---
 
 ## Overview
 

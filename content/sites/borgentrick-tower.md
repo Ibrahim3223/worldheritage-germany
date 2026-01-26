@@ -4,13 +4,13 @@ site_name: "Borgentrick tower"
 date: 2026-01-26
 draft: false
 description: "defensive tower in Hanover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q893535"
 latitude: 52.3688
 longitude: 9.73825
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/400px-Stadtmauer_Hannover_VHS.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/800px-Stadtmauer_Hannover_VHS.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/1200px-Stadtmauer_Hannover_VHS.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/1920px-Stadtmauer_Hannover_VHS.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/1920px-Stadtmauer_Hannover_VHS.jpg---
 
 ## Overview
 

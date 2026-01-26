@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Weißenseestraße 35 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-7930 (2) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98741045"
 latitude: 48.106047801
 longitude: 11.589545347
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Haag"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Haag in Oberbayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Haag in Oberbayern"
+  - "Bavaria"
 wikidata_id: "Q1012144"
 latitude: 48.1601
 longitude: 12.1812
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/400px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/800px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/1200px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/1920px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/1920px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg---
 
 ## Overview
 

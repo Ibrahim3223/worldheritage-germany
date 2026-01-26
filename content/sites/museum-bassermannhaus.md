@@ -4,13 +4,13 @@ site_name: "Museum Bassermannhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Mannheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mannheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q21011372"
 latitude: 49.48772812
 longitude: 8.46253967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/400px-Museum_Bassermannhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/800px-Museum_Bassermannhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/1200px-Museum_Bassermannhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/1920px-Museum_Bassermannhaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/1920px-Museum_Bassermannhaus.jpg---
 
 ## Overview
 

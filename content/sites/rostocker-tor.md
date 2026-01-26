@@ -4,13 +4,13 @@ site_name: "Rostocker Tor"
 date: 2026-01-26
 draft: false
 description: "city gate"
-region: "Ribnitz-Damgarten"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Ribnitz-Damgarten"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1475757"
 latitude: 54.2437
 longitude: 12.4264
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/400px-Ribnitz_Damgarten_Rostocker_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/800px-Ribnitz_Damgarten_Rostocker_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/1200px-Ribnitz_Damgarten_Rostocker_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/1920px-Ribnitz_Damgarten_Rostocker_Tor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/1920px-Ribnitz_Damgarten_Rostocker_Tor.jpg---
 
 ## Overview
 

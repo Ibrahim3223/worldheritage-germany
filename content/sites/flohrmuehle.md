@@ -4,13 +4,13 @@ site_name: "Flohrmühle"
 date: 2026-01-26
 draft: false
 description: "wind mill in Eschede, Lower Saxony, Germany"
-region: "Eschede"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Eschede"
+  - "Lower Saxony"
 wikidata_id: "Q133894152"
 latitude: 52.734042
 longitude: 10.231705
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flohrmühle_in_Eschede_IMG_5489.jpg/400px-Flohrmühle_in_Eschede_IMG_5489.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flohrmühle_in_Eschede_IMG_5489.jpg/800px-Flohrmühle_in_Eschede_IMG_5489.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flohrmühle_in_Eschede_IMG_5489.jpg/1200px-Flohrmühle_in_Eschede_IMG_5489.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flohrmühle_in_Eschede_IMG_5489.jpg/1920px-Flohrmühle_in_Eschede_IMG_5489.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flohrmühle_in_Eschede_IMG_5489.jpg/1920px-Flohrmühle_in_Eschede_IMG_5489.jpg---
 
 ## Overview
 

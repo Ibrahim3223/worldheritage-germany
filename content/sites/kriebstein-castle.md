@@ -4,13 +4,13 @@ site_name: "Kriebstein Castle"
 date: 2026-01-26
 draft: false
 description: "rock castle"
-region: "Kriebstein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kriebstein"
+  - "Saxony"
 wikidata_id: "Q1012744"
 latitude: 51.0424
 longitude: 13.0176
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/400px-Burg_Kriebstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/800px-Burg_Kriebstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/1200px-Burg_Kriebstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/1920px-Burg_Kriebstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/1920px-Burg_Kriebstein.jpg---
 
 ## Overview
 

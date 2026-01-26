@@ -4,13 +4,13 @@ site_name: "Britzer Garten"
 date: 2026-01-26
 draft: false
 description: "park in Berlin"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q565659"
 latitude: 52.433333333
 longitude: 13.416666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/400px-Festwiese_im_Britzer_Garten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/800px-Festwiese_im_Britzer_Garten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1200px-Festwiese_im_Britzer_Garten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1920px-Festwiese_im_Britzer_Garten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1920px-Festwiese_im_Britzer_Garten.JPG---
 
 ## Overview
 

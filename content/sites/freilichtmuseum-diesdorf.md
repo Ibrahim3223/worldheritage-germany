@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum Diesdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Diesdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Diesdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1454515"
 latitude: 52.7455
 longitude: 10.8851
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/400px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/800px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/1200px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/1920px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/1920px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg---
 
 ## Overview
 

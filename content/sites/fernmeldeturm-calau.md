@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Calau"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Calau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Calau"
+  - "Brandenburg"
 wikidata_id: "Q1407034"
 latitude: 51.7419
 longitude: 13.942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fernmeldeturm_Calau.jpg/400px-Fernmeldeturm_Calau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fernmeldeturm_Calau.jpg/800px-Fernmeldeturm_Calau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fernmeldeturm_Calau.jpg/1200px-Fernmeldeturm_Calau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fernmeldeturm_Calau.jpg/1920px-Fernmeldeturm_Calau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fernmeldeturm_Calau.jpg/1920px-Fernmeldeturm_Calau.jpg---
 
 ## Overview
 

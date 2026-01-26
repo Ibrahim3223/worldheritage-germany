@@ -4,19 +4,18 @@ site_name: "Berthold Leibinger Stiftung"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Ditzingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Ditzingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q578390"
 latitude: 48.819135
 longitude: 9.069614
 images:
-  []
----
+  []---
 
 ## Overview
 

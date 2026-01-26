@@ -4,13 +4,13 @@ site_name: "Herrenhaus Vanselow"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Ortsteil Vanselow der Gemeinde Siedenbrünzow, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern"
-region: "Siedenbrünzow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Siedenbrünzow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1614094"
 latitude: 53.8786
 longitude: 13.1682
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/400px-Vanselow_DM_Herrenhaus_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/800px-Vanselow_DM_Herrenhaus_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1200px-Vanselow_DM_Herrenhaus_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1920px-Vanselow_DM_Herrenhaus_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1920px-Vanselow_DM_Herrenhaus_Front.jpg---
 
 ## Overview
 

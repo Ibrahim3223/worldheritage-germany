@@ -4,13 +4,13 @@ site_name: "Rhönmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Fladungen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fladungen"
+  - "Bavaria"
 wikidata_id: "Q56750708"
 latitude: 50.5200778
 longitude: 10.1458839
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/400px-Rhönmuseum.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/800px-Rhönmuseum.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/1200px-Rhönmuseum.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/1920px-Rhönmuseum.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/1920px-Rhönmuseum.png---
 
 ## Overview
 

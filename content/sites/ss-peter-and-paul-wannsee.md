@@ -4,13 +4,13 @@ site_name: "Ss. Peter and Paul, Wannsee"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q428320"
 latitude: 52.424589
 longitude: 13.117533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/400px-PeterPaulNikolskoe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/800px-PeterPaulNikolskoe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/1200px-PeterPaulNikolskoe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/1920px-PeterPaulNikolskoe.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/1920px-PeterPaulNikolskoe.jpg---
 
 ## Overview
 

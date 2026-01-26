@@ -4,13 +4,13 @@ site_name: "Fallturm Bremen"
 date: 2026-01-26
 draft: false
 description: "drop tower at the University of Bremen"
-region: "Horn-Lehe"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Horn-Lehe"
+  - "Bremen"
 wikidata_id: "Q1394759"
 latitude: 53.11
 longitude: 8.85806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/400px-Bremen_fallturm2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/800px-Bremen_fallturm2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/1200px-Bremen_fallturm2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/1920px-Bremen_fallturm2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/1920px-Bremen_fallturm2.jpg---
 
 ## Overview
 

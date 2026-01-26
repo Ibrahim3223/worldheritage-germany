@@ -4,13 +4,13 @@ site_name: "Sender Hesselberg"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Gerolfingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Gerolfingen"
+  - "Bavaria"
 wikidata_id: "Q1312333"
 latitude: 49.0682
 longitude: 10.5257
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2017_Hesselberg_01.jpg/400px-2017_Hesselberg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2017_Hesselberg_01.jpg/800px-2017_Hesselberg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2017_Hesselberg_01.jpg/1200px-2017_Hesselberg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2017_Hesselberg_01.jpg/1920px-2017_Hesselberg_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2017_Hesselberg_01.jpg/1920px-2017_Hesselberg_01.jpg---
 
 ## Overview
 

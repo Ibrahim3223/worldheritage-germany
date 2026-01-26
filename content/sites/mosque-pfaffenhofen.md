@@ -4,13 +4,13 @@ site_name: "Mosque Pfaffenhofen"
 date: 2026-01-26
 draft: false
 description: "mosque in Pfaffenhofen, Germany"
-region: "Pfaffenhofen an der Ilm"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"
 categories:
   - "Mosque"
 regions:
-  - "Pfaffenhofen an der Ilm"
+  - "Bavaria"
 wikidata_id: "Q133499818"
 latitude: 48.534885
 longitude: 11.489387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg/400px-PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg/800px-PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg/1200px-PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg/1920px-PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg/1920px-PAF_Moschee_in_der_Hohenwarter_Straße_01.jpg---
 
 ## Overview
 

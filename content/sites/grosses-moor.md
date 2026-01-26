@@ -4,13 +4,13 @@ site_name: "Großes Moor"
 date: 2026-01-26
 draft: false
 description: "lake in the Rostock district in Mecklenburg-Vorpommern, Germany"
-region: "Rostock District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Rostock District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1285092"
 latitude: 54.06731
 longitude: 11.90313
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg/400px-Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg/800px-Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg/1200px-Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg/1920px-Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg/1920px-Hohenfelde_(Bad_Doberan)_Großes_Moor_(01-2).jpg---
 
 ## Overview
 

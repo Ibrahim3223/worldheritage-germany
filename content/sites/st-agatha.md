@@ -4,13 +4,13 @@ site_name: "St. Agatha"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Lennestadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lennestadt"
+  - "Hesse"
 wikidata_id: "Q1437200"
 latitude: 51.1044
 longitude: 8.07414
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/400px-St._Agatha_in_Altenh.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/800px-St._Agatha_in_Altenh.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/1200px-St._Agatha_in_Altenh.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/1920px-St._Agatha_in_Altenh.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/1920px-St._Agatha_in_Altenh.JPG---
 
 ## Overview
 

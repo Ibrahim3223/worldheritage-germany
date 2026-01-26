@@ -4,13 +4,13 @@ site_name: "Blücherdenkmal"
 date: 2026-01-26
 draft: false
 description: "Denkmal in Rostock"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q887165"
 latitude: 54.0879
 longitude: 12.1339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rostock_Blücher_Denkmal.jpg/400px-Rostock_Blücher_Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rostock_Blücher_Denkmal.jpg/800px-Rostock_Blücher_Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rostock_Blücher_Denkmal.jpg/1200px-Rostock_Blücher_Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rostock_Blücher_Denkmal.jpg/1920px-Rostock_Blücher_Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rostock_Blücher_Denkmal.jpg/1920px-Rostock_Blücher_Denkmal.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Roman, Marga und Mareille Sobek–Stiftung"
 date: 2026-01-26
 draft: false
 description: "Förderung der Erforschung der Krankheit"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q15694560"
 latitude: 48.766937
 longitude: 8.942634
 images:
-  []
----
+  []---
 
 ## Overview
 

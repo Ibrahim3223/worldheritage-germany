@@ -4,13 +4,13 @@ site_name: "Martinskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Bunde, Germany"
-region: "Bunde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bunde"
+  - "Lower Saxony"
 wikidata_id: "Q2136804"
 latitude: 53.1849
 longitude: 7.26922
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/400px-Bunde_Kirche_Nordseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/800px-Bunde_Kirche_Nordseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/1200px-Bunde_Kirche_Nordseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/1920px-Bunde_Kirche_Nordseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/1920px-Bunde_Kirche_Nordseite.jpg---
 
 ## Overview
 

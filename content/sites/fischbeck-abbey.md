@@ -4,13 +4,13 @@ site_name: "Fischbeck Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery in Fischbeck, Lower Saxony, Germany"
-region: "Hessisch Oldendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hessisch Oldendorf"
+  - "Lower Saxony"
 wikidata_id: "Q599015"
 latitude: 52.1419
 longitude: 9.29722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/400px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/800px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1200px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1920px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1920px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg---
 
 ## Overview
 

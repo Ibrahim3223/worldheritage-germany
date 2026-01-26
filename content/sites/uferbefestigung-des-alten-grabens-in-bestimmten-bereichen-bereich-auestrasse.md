@@ -4,19 +4,18 @@ site_name: "Uferbefestigung des Alten Grabens in bestimmten Bereichen (Bereich A
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Beiersdorf"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Beiersdorf"
+  - "Saxony"
 wikidata_id: "Q49430022"
 latitude: 51.070404
 longitude: 14.535858
 images:
-  []
----
+  []---
 
 ## Overview
 

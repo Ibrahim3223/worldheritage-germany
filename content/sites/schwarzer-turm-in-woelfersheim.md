@@ -4,13 +4,13 @@ site_name: "Schwarzer Turm in Wölfersheim"
 date: 2026-01-26
 draft: false
 description: "Turm in Deutschland"
-region: "Wölfersheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Wölfersheim"
+  - "Hesse"
 wikidata_id: "Q997878"
 latitude: 50.3999
 longitude: 8.81267
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schwarzer_Turm_Wölfersheim_3.JPG/400px-Schwarzer_Turm_Wölfersheim_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schwarzer_Turm_Wölfersheim_3.JPG/800px-Schwarzer_Turm_Wölfersheim_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schwarzer_Turm_Wölfersheim_3.JPG/1200px-Schwarzer_Turm_Wölfersheim_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schwarzer_Turm_Wölfersheim_3.JPG/1920px-Schwarzer_Turm_Wölfersheim_3.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Schwarzer_Turm_Wölfersheim_3.JPG/1920px-Schwarzer_Turm_Wölfersheim_3.JPG---
 
 ## Overview
 

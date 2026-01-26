@@ -4,13 +4,13 @@ site_name: "Industriemuseum Lauf"
 date: 2026-01-26
 draft: false
 description: "museum in Bavaria, Germany"
-region: "Lauf an der Pegnitz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lauf an der Pegnitz"
+  - "Bavaria"
 wikidata_id: "Q1662096"
 latitude: 49.51
 longitude: 11.2775
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/400px-Industriemuseum_Lauf_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/800px-Industriemuseum_Lauf_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/1200px-Industriemuseum_Lauf_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/1920px-Industriemuseum_Lauf_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/1920px-Industriemuseum_Lauf_1.jpg---
 
 ## Overview
 

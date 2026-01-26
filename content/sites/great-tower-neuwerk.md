@@ -4,13 +4,13 @@ site_name: "Great Tower Neuwerk"
 date: 2026-01-26
 draft: false
 description: "former beacon, watchtower and lighthouse in Germany"
-region: "Hamburg-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Hamburg-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1821443"
 latitude: 53.91522222
 longitude: 8.49583333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/400px-Leuchtturm_Neuwerk_2018.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/800px-Leuchtturm_Neuwerk_2018.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/1200px-Leuchtturm_Neuwerk_2018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/1920px-Leuchtturm_Neuwerk_2018.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/1920px-Leuchtturm_Neuwerk_2018.jpg---
 
 ## Overview
 

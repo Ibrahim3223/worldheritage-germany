@@ -4,13 +4,13 @@ site_name: "Hardeg Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hardegsen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hardegsen"
+  - "Hesse"
 wikidata_id: "Q1012189"
 latitude: 51.651
 longitude: 9.82605
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/400px-Burg_Hardegsen_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/800px-Burg_Hardegsen_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1200px-Burg_Hardegsen_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1920px-Burg_Hardegsen_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1920px-Burg_Hardegsen_3.jpg---
 
 ## Overview
 

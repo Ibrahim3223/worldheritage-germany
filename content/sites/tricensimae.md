@@ -4,19 +4,18 @@ site_name: "Tricensimae"
 date: 2026-01-26
 draft: false
 description: "Late Roman fortress"
-region: "Xanten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Xanten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1359753"
 latitude: 51.6667
 longitude: 6.45
 images:
-  []
----
+  []---
 
 ## Overview
 

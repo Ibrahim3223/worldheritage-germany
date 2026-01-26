@@ -4,13 +4,13 @@ site_name: "Hanover Zoo"
 date: 2026-01-26
 draft: false
 description: "zoo in Hanover, Germany"
-region: "Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q220033"
 latitude: 52.380537
 longitude: 9.771062
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/400px-Hannover_Zoo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/800px-Hannover_Zoo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/1200px-Hannover_Zoo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/1920px-Hannover_Zoo.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/1920px-Hannover_Zoo.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-7-8027-0015 in Hawangen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Hawangen, Unterallgäu, Swabia, Bavaria, Germany"
-region: "Hawangen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hawangen"
+  - "Baden-Württemberg"
 wikidata_id: "Q98289828"
 latitude: 47.961251924
 longitude: 10.287268795
 images:
-  []
----
+  []---
 
 ## Overview
 

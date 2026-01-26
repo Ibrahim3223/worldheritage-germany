@@ -4,13 +4,13 @@ site_name: "Stadt- und Bergbaumuseum"
 date: 2026-01-26
 draft: false
 description: "Freiberg, Germany"
-region: "Freiberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Freiberg"
+  - "Saxony"
 wikidata_id: "Q19965315"
 latitude: 50.9205
 longitude: 13.34397222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG/400px-Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG/800px-Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG/1200px-Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG/1920px-Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG/1920px-Freiberg,_das_Stadt-_und_Bergbaumuseum.JPG---
 
 ## Overview
 

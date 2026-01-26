@@ -4,13 +4,13 @@ site_name: "Library of the Evangelical Monastery of St. Augustine's in Erfurt"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q856511"
 latitude: 50.981
 longitude: 11.0295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg/400px-Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg/800px-Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg/1200px-Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg/1920px-Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg/1920px-Augustinerkloster_Erfurt_19-05-2011_DSCF6283.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Hubertus"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Schmallenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schmallenberg"
+  - "Hesse"
 wikidata_id: "Q1532564"
 latitude: 51.2201
 longitude: 8.23476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg/400px-Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg/800px-Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg/1200px-Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg/1920px-Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg/1920px-Kirche_St._Hubertus,_Schmallenberg-Dorlar.jpg---
 
 ## Overview
 

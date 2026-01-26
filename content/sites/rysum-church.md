@@ -4,13 +4,13 @@ site_name: "Rysum Church"
 date: 2026-01-26
 draft: false
 description: "church building in Krummhörn, Germany"
-region: "Krummhörn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Krummhörn"
+  - "Lower Saxony"
 wikidata_id: "Q1790953"
 latitude: 53.3795
 longitude: 7.03533
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/400px-Rysum_Church_msu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/800px-Rysum_Church_msu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/1200px-Rysum_Church_msu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/1920px-Rysum_Church_msu.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/1920px-Rysum_Church_msu.jpg---
 
 ## Overview
 

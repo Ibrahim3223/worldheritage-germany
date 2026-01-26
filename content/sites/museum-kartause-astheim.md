@@ -4,13 +4,13 @@ site_name: "Museum Kartause Astheim"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Volkach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Volkach"
+  - "Bavaria"
 wikidata_id: "Q26822182"
 latitude: 49.8629
 longitude: 10.2169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Astheim_MuseumKartause_2014.jpg/400px-Astheim_MuseumKartause_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Astheim_MuseumKartause_2014.jpg/800px-Astheim_MuseumKartause_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Astheim_MuseumKartause_2014.jpg/1200px-Astheim_MuseumKartause_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Astheim_MuseumKartause_2014.jpg/1920px-Astheim_MuseumKartause_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Astheim_MuseumKartause_2014.jpg/1920px-Astheim_MuseumKartause_2014.jpg---
 
 ## Overview
 

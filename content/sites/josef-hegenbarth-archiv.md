@@ -4,13 +4,13 @@ site_name: "Josef-Hegenbarth-Archiv"
 date: 2026-01-26
 draft: false
 description: "art museum in Dresden/Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1704145"
 latitude: 51.0501
 longitude: 13.8204
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/400px-Hegenbarth-Archiv.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/800px-Hegenbarth-Archiv.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/1200px-Hegenbarth-Archiv.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/1920px-Hegenbarth-Archiv.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/1920px-Hegenbarth-Archiv.JPG---
 
 ## Overview
 

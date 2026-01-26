@@ -4,13 +4,13 @@ site_name: "Mildenberg Brick Work Park"
 date: 2026-01-26
 draft: false
 description: "Ziegeleipark in Mildenberg"
-region: "Zehdenick"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Zehdenick"
+  - "Brandenburg"
 wikidata_id: "Q18857322"
 latitude: 53.0311
 longitude: 13.3103
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/400px-Mildenberg_Ziegeleipark_08-13_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/800px-Mildenberg_Ziegeleipark_08-13_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/1200px-Mildenberg_Ziegeleipark_08-13_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/1920px-Mildenberg_Ziegeleipark_08-13_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/1920px-Mildenberg_Ziegeleipark_08-13_img1.jpg---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg/400px-Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg/800px-Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg/1200px-Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg/1920px-Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg/1920px-Berlin,_Kreuzberg,_Hallesches_Ufer_78,_Pumpstation.jpg---
 
 ## Overview
 

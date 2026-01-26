@@ -4,13 +4,13 @@ site_name: "Village church Gottberg"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Märkisch Linden"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Märkisch Linden"
+  - "Brandenburg"
 wikidata_id: "Q15109639"
 latitude: 52.908053
 longitude: 12.668135
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/400px-Dorfkirche_Gottberg_2021_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/800px-Dorfkirche_Gottberg_2021_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/1200px-Dorfkirche_Gottberg_2021_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/1920px-Dorfkirche_Gottberg_2021_SW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/1920px-Dorfkirche_Gottberg_2021_SW.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Langenfelder Wasserfall"
 date: 2026-01-26
 draft: false
 description: "Wasserfall in Niedersachsen"
-region: "Hessisch Oldendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Hessisch Oldendorf"
+  - "Lower Saxony"
 wikidata_id: "Q1669684"
 latitude: 52.212
 longitude: 9.28847
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/400px-Langenfeld-Niedersachsen-Wasserfall.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/800px-Langenfeld-Niedersachsen-Wasserfall.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/1200px-Langenfeld-Niedersachsen-Wasserfall.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/1920px-Langenfeld-Niedersachsen-Wasserfall.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/1920px-Langenfeld-Niedersachsen-Wasserfall.JPG---
 
 ## Overview
 

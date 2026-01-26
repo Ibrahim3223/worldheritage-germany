@@ -4,19 +4,18 @@ site_name: "Museum für Archäologie und Ökologie Dithmarschen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heide"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heide"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1954607"
 latitude: 54.146
 longitude: 9.29167
 images:
-  []
----
+  []---
 
 ## Overview
 

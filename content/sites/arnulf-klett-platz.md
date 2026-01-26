@@ -4,13 +4,13 @@ site_name: "Arnulf-Klett-Platz"
 date: 2026-01-26
 draft: false
 description: "public square in Stuttgart, Germany"
-region: "Stuttgart"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Stuttgart"
+  - "Baden-Württemberg"
 wikidata_id: "Q697626"
 latitude: 48.7831
 longitude: 9.18107
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/400px-StgtHbfDez07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/800px-StgtHbfDez07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/1200px-StgtHbfDez07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/1920px-StgtHbfDez07.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/1920px-StgtHbfDez07.JPG---
 
 ## Overview
 

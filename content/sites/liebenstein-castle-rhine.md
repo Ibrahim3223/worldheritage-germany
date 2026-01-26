@@ -4,13 +4,13 @@ site_name: "Liebenstein Castle (Rhine)"
 date: 2026-01-26
 draft: false
 description: "castle in Germany"
-region: "Kamp-Bornhofen"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kamp-Bornhofen"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q459400"
 latitude: 50.2123
 longitude: 7.63544
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BurgLiebenstein02.jpg/400px-BurgLiebenstein02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BurgLiebenstein02.jpg/800px-BurgLiebenstein02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BurgLiebenstein02.jpg/1200px-BurgLiebenstein02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BurgLiebenstein02.jpg/1920px-BurgLiebenstein02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BurgLiebenstein02.jpg/1920px-BurgLiebenstein02.jpg---
 
 ## Overview
 

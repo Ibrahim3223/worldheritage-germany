@@ -4,13 +4,13 @@ site_name: "Villa Stuck"
 date: 2026-01-26
 draft: false
 description: "building in Haidhausen, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q264573"
 latitude: 48.140561003
 longitude: 11.599343596
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Villa_Stuck_(Munich)_Regi51.JPG/400px-Villa_Stuck_(Munich)_Regi51.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Villa_Stuck_(Munich)_Regi51.JPG/800px-Villa_Stuck_(Munich)_Regi51.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Villa_Stuck_(Munich)_Regi51.JPG/1200px-Villa_Stuck_(Munich)_Regi51.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Villa_Stuck_(Munich)_Regi51.JPG/1920px-Villa_Stuck_(Munich)_Regi51.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Villa_Stuck_(Munich)_Regi51.JPG/1920px-Villa_Stuck_(Munich)_Regi51.JPG---
 
 ## Overview
 

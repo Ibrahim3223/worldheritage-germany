@@ -4,13 +4,13 @@ site_name: "Feldkapelle Mariahilf Edenbergen"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Gersthofen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Gersthofen"
+  - "Bavaria"
 wikidata_id: "Q1402685"
 latitude: 48.4279
 longitude: 10.8038
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Feldkapelle_Mariahilf_Edenbergen_1.jpg/400px-Feldkapelle_Mariahilf_Edenbergen_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Feldkapelle_Mariahilf_Edenbergen_1.jpg/800px-Feldkapelle_Mariahilf_Edenbergen_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Feldkapelle_Mariahilf_Edenbergen_1.jpg/1200px-Feldkapelle_Mariahilf_Edenbergen_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Feldkapelle_Mariahilf_Edenbergen_1.jpg/1920px-Feldkapelle_Mariahilf_Edenbergen_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Feldkapelle_Mariahilf_Edenbergen_1.jpg/1920px-Feldkapelle_Mariahilf_Edenbergen_1.jpg---
 
 ## Overview
 

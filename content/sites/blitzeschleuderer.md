@@ -4,13 +4,13 @@ site_name: "Blitzeschleuderer"
 date: 2026-01-26
 draft: false
 description: "statue in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q884483"
 latitude: 51.2592
 longitude: 6.73263
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/400px-Hubert_Netzer_-_Blitzeschleuderer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/800px-Hubert_Netzer_-_Blitzeschleuderer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/1200px-Hubert_Netzer_-_Blitzeschleuderer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/1920px-Hubert_Netzer_-_Blitzeschleuderer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/1920px-Hubert_Netzer_-_Blitzeschleuderer.jpg---
 
 ## Overview
 

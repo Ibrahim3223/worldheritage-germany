@@ -4,19 +4,18 @@ site_name: "MAC Museum Art & Cars"
 date: 2026-01-26
 draft: false
 description: "Kunst- und Automobilmuseum in Singen (Hohentwiel)"
-region: "Singen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Singen"
+  - "Baden-Württemberg"
 wikidata_id: "Q20180064"
 latitude: 47.761388888
 longitude: 8.827666666
 images:
-  []
----
+  []---
 
 ## Overview
 

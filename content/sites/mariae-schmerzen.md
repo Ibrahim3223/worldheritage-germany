@@ -4,13 +4,13 @@ site_name: "Mariä Schmerzen"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Winterbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Winterbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1899713"
 latitude: 48.478
 longitude: 10.4815
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/400px-Waldkirch_Mariä_Schmerzen_250.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/800px-Waldkirch_Mariä_Schmerzen_250.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/1200px-Waldkirch_Mariä_Schmerzen_250.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/1920px-Waldkirch_Mariä_Schmerzen_250.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/1920px-Waldkirch_Mariä_Schmerzen_250.JPG---
 
 ## Overview
 

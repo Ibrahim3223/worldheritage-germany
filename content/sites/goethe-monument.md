@@ -4,13 +4,13 @@ site_name: "Goethe Monument"
 date: 2026-01-26
 draft: false
 description: "memorial in Berlin"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1534095"
 latitude: 52.5138
 longitude: 13.3764
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/400px-Schaper_Goethe_1880.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/800px-Schaper_Goethe_1880.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/1200px-Schaper_Goethe_1880.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/1920px-Schaper_Goethe_1880.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/1920px-Schaper_Goethe_1880.jpg---
 
 ## Overview
 

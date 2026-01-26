@@ -4,13 +4,13 @@ site_name: "Business-Tower (Nuremberg)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1017529"
 latitude: 49.4546
 longitude: 11.1171
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/400px-NürnbergerVersicherungTurm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/800px-NürnbergerVersicherungTurm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1200px-NürnbergerVersicherungTurm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1920px-NürnbergerVersicherungTurm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1920px-NürnbergerVersicherungTurm.jpg---
 
 ## Overview
 

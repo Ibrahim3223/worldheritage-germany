@@ -4,19 +4,18 @@ site_name: "Konrad Wolf Film University of Babelsberg"
 date: 2026-01-26
 draft: false
 description: "film school in Potsdam, Germany"
-region: "Potsdam"
+region: "Berlin"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Potsdam"
+  - "Berlin"
 wikidata_id: "Q1550192"
 latitude: 52.388611
 longitude: 13.116667
 images:
-  []
----
+  []---
 
 ## Overview
 

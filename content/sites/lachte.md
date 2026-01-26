@@ -4,13 +4,13 @@ site_name: "Lachte"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Lachendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Lachendorf"
+  - "Lower Saxony"
 wikidata_id: "Q992852"
 latitude: 52.6475
 longitude: 10.2947
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/400px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/800px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/1200px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/1920px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/1920px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG---
 
 ## Overview
 

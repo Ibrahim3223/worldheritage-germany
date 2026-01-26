@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bodemuseum_Berlin2007.jpg/400px-Bodemuseum_Berlin2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bodemuseum_Berlin2007.jpg/800px-Bodemuseum_Berlin2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bodemuseum_Berlin2007.jpg/1200px-Bodemuseum_Berlin2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bodemuseum_Berlin2007.jpg/1920px-Bodemuseum_Berlin2007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bodemuseum_Berlin2007.jpg/1920px-Bodemuseum_Berlin2007.jpg---
 
 ## Overview
 

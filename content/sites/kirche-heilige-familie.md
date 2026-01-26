@@ -4,13 +4,13 @@ site_name: "Kirche Heilige Familie"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Kamen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Kamen"
+  - "Lower Saxony"
 wikidata_id: "Q230288"
 latitude: 51.5913
 longitude: 7.66054
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/400px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/800px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1200px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1920px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1920px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg---
 
 ## Overview
 

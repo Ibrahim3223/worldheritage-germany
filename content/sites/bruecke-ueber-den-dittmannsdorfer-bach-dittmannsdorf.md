@@ -4,19 +4,18 @@ site_name: "Brücke über den Dittmannsdorfer Bach Dittmannsdorf"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Reinsberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Reinsberg"
+  - "Saxony"
 wikidata_id: "Q49449322"
 latitude: 50.999710846
 longitude: 13.398573539
 images:
-  []
----
+  []---
 
 ## Overview
 

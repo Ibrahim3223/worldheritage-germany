@@ -4,13 +4,13 @@ site_name: "Schulze-Delitzsch-Haus – German Cooperative Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Delitzsch"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Delitzsch"
+  - "Brandenburg"
 wikidata_id: "Q1342514"
 latitude: 51.5221
 longitude: 12.3345
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/400px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/800px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/1200px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/1920px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/1920px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png---
 
 ## Overview
 

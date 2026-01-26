@@ -4,13 +4,13 @@ site_name: "Langen Foundation"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Neuss"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neuss"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q830675"
 latitude: 51.152383333
 longitude: 6.644611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg/400px-Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg/800px-Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg/1200px-Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg/1920px-Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg/1920px-Neuss_(DE),_Raketenstation_Hombroich,_Langen_Foundation_--_2014_--_7404.jpg---
 
 ## Overview
 

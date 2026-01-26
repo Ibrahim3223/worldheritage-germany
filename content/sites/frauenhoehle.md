@@ -4,19 +4,18 @@ site_name: "Frauenhöhle"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Hausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Hausen"
+  - "Bavaria"
 wikidata_id: "Q1451767"
 latitude: 50.500087
 longitude: 10.094247
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Tränenpalast"
 date: 2026-01-26
 draft: false
 description: "Inner-German border crossing building at Berlin Friedrichstrasse station, later used as a theatre"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q314446"
 latitude: 52.5208
 longitude: 13.3869
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_Tränenpalast_asv2023-10_img1.jpg/400px-Berlin_Tränenpalast_asv2023-10_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_Tränenpalast_asv2023-10_img1.jpg/800px-Berlin_Tränenpalast_asv2023-10_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_Tränenpalast_asv2023-10_img1.jpg/1200px-Berlin_Tränenpalast_asv2023-10_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_Tränenpalast_asv2023-10_img1.jpg/1920px-Berlin_Tränenpalast_asv2023-10_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_Tränenpalast_asv2023-10_img1.jpg/1920px-Berlin_Tränenpalast_asv2023-10_img1.jpg---
 
 ## Overview
 

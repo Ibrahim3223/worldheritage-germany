@@ -4,13 +4,13 @@ site_name: "Good Fortune stone"
 date: 2026-01-26
 draft: false
 description: "Weimar monument to Goethe"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q2339565"
 latitude: 50.97661
 longitude: 11.33645
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/400px-Goethes_Gartenhaus_in_Weimar_10.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/800px-Goethes_Gartenhaus_in_Weimar_10.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/1200px-Goethes_Gartenhaus_in_Weimar_10.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/1920px-Goethes_Gartenhaus_in_Weimar_10.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/1920px-Goethes_Gartenhaus_in_Weimar_10.JPG---
 
 ## Overview
 

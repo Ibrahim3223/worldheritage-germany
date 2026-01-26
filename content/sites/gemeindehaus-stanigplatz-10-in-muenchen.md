@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Stanigplatz 10 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-7958 (2) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98741071"
 latitude: 48.21730682
 longitude: 11.553852194
 images:
-  []
----
+  []---
 
 ## Overview
 

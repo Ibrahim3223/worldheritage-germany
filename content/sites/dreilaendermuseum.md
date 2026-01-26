@@ -4,13 +4,13 @@ site_name: "Dreiländermuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Lörrach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lörrach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1257975"
 latitude: 47.60985556
 longitude: 7.65989722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/400px-Lörrach_-_Dreiländermuseum3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/800px-Lörrach_-_Dreiländermuseum3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/1200px-Lörrach_-_Dreiländermuseum3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/1920px-Lörrach_-_Dreiländermuseum3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/1920px-Lörrach_-_Dreiländermuseum3.jpg---
 
 ## Overview
 

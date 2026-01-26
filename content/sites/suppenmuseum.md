@@ -4,13 +4,13 @@ site_name: "Suppenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Sehmatal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sehmatal"
+  - "Bavaria"
 wikidata_id: "Q2368156"
 latitude: 50.4806
 longitude: 12.9744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suppenmuseum_Neudorf_(2).jpg/400px-Suppenmuseum_Neudorf_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suppenmuseum_Neudorf_(2).jpg/800px-Suppenmuseum_Neudorf_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suppenmuseum_Neudorf_(2).jpg/1200px-Suppenmuseum_Neudorf_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suppenmuseum_Neudorf_(2).jpg/1920px-Suppenmuseum_Neudorf_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Suppenmuseum_Neudorf_(2).jpg/1920px-Suppenmuseum_Neudorf_(2).jpg---
 
 ## Overview
 

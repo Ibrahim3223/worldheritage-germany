@@ -4,19 +4,18 @@ site_name: "DKB-Zeitreise"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heimbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heimbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1154333"
 latitude: 50.6351
 longitude: 6.47438
 images:
-  []
----
+  []---
 
 ## Overview
 

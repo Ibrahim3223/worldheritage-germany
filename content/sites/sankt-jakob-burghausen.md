@@ -4,13 +4,13 @@ site_name: "Sankt Jakob (Burghausen)"
 date: 2026-01-26
 draft: false
 description: "church building in Burghausen, Upper Bavaria, Germany"
-region: "Burghausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Burghausen"
+  - "Bavaria"
 wikidata_id: "Q2318866"
 latitude: 48.1578
 longitude: 12.8323
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/400px-Burghausen_-_Kirche_St._Jakob.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/800px-Burghausen_-_Kirche_St._Jakob.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/1200px-Burghausen_-_Kirche_St._Jakob.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/1920px-Burghausen_-_Kirche_St._Jakob.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/1920px-Burghausen_-_Kirche_St._Jakob.JPG---
 
 ## Overview
 

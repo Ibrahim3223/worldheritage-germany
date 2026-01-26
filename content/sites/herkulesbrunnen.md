@@ -4,13 +4,13 @@ site_name: "Herkulesbrunnen"
 date: 2026-01-26
 draft: false
 description: "Brunnen in der rheinland-pfälzischen Stadt Worms"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q29559804"
 latitude: 49.631117
 longitude: 8.359387
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/400px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/800px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/1200px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/1920px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/1920px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg---
 
 ## Overview
 

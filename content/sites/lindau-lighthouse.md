@@ -4,13 +4,13 @@ site_name: "Lindau Lighthouse"
 date: 2026-01-26
 draft: false
 description: "lighthouse in Germany"
-region: "Lindau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Lindau"
+  - "Baden-Württemberg"
 wikidata_id: "Q1980205"
 latitude: 47.542916666
 longitude: 9.683583333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/400px-Lindau_-_Hafen6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/800px-Lindau_-_Hafen6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/1200px-Lindau_-_Hafen6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/1920px-Lindau_-_Hafen6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/1920px-Lindau_-_Hafen6.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Eggetal"
 date: 2026-01-26
 draft: false
 description: "Valley in Germany"
-region: "Melle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Melle"
+  - "Lower Saxony"
 wikidata_id: "Q1297647"
 latitude: 52.2732
 longitude: 8.47273
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Börninghausen_im_Eggetal.JPG/400px-Börninghausen_im_Eggetal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Börninghausen_im_Eggetal.JPG/800px-Börninghausen_im_Eggetal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Börninghausen_im_Eggetal.JPG/1200px-Börninghausen_im_Eggetal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Börninghausen_im_Eggetal.JPG/1920px-Börninghausen_im_Eggetal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Börninghausen_im_Eggetal.JPG/1920px-Börninghausen_im_Eggetal.JPG---
 
 ## Overview
 

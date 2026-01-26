@@ -4,13 +4,13 @@ site_name: "Church of Reconciliation"
 date: 2026-01-26
 draft: false
 description: "church in Leipzig, Germany"
-region: "Gohlis"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gohlis"
+  - "Saxony"
 wikidata_id: "Q2518493"
 latitude: 51.3719
 longitude: 12.3686
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/400px-Versoehnungskirche_Leipzig_Gohlis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/800px-Versoehnungskirche_Leipzig_Gohlis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/1200px-Versoehnungskirche_Leipzig_Gohlis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/1920px-Versoehnungskirche_Leipzig_Gohlis.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/1920px-Versoehnungskirche_Leipzig_Gohlis.jpg---
 
 ## Overview
 

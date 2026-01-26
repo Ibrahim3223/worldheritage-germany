@@ -4,13 +4,13 @@ site_name: "Museum im Seelhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bopfingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bopfingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q18026221"
 latitude: 48.85820833
 longitude: 10.35374444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Museum_im_Seelhaus_16.jpg/400px-Museum_im_Seelhaus_16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Museum_im_Seelhaus_16.jpg/800px-Museum_im_Seelhaus_16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Museum_im_Seelhaus_16.jpg/1200px-Museum_im_Seelhaus_16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Museum_im_Seelhaus_16.jpg/1920px-Museum_im_Seelhaus_16.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Museum_im_Seelhaus_16.jpg/1920px-Museum_im_Seelhaus_16.jpg---
 
 ## Overview
 

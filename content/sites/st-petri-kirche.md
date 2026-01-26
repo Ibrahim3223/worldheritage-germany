@@ -4,13 +4,13 @@ site_name: "St. Petri-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Wolgast, Germany"
-region: "Wolgast"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wolgast"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316685"
 latitude: 54.0536
 longitude: 13.7767
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG/400px-Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG/800px-Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG/1200px-Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG/1920px-Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG/1920px-Wolgast_St.-Petri-Kirche_2013-06-21_17.JPG---
 
 ## Overview
 

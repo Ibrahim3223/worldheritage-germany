@@ -4,13 +4,13 @@ site_name: "Martin von Wagner Museum"
 date: 2026-01-26
 draft: false
 description: "art and antiquities museum in Würzburg, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1903282"
 latitude: 49.7927
 longitude: 9.93926
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/400px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/800px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/1200px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/1920px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/1920px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG---
 
 ## Overview
 

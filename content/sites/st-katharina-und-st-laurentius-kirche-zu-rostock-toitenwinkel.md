@@ -4,13 +4,13 @@ site_name: "St. Katharina und St. Laurentius Kirche zu Rostock-Toitenwinkel"
 date: 2026-01-26
 draft: false
 description: "church in Toitenwinkel, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q11722179"
 latitude: 54.1189
 longitude: 12.137
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/400px-Toitenwinkel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/800px-Toitenwinkel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/1200px-Toitenwinkel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/1920px-Toitenwinkel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/1920px-Toitenwinkel.JPG---
 
 ## Overview
 

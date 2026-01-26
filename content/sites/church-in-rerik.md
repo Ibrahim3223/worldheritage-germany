@@ -4,13 +4,13 @@ site_name: "Church in Rerik"
 date: 2026-01-26
 draft: false
 description: "church building in Rerik, Germany"
-region: "Rerik"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rerik"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742669"
 latitude: 54.10544444
 longitude: 11.61155556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rerik_Kirche_2024.jpg/400px-Rerik_Kirche_2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rerik_Kirche_2024.jpg/800px-Rerik_Kirche_2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rerik_Kirche_2024.jpg/1200px-Rerik_Kirche_2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rerik_Kirche_2024.jpg/1920px-Rerik_Kirche_2024.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rerik_Kirche_2024.jpg/1920px-Rerik_Kirche_2024.jpg---
 
 ## Overview
 

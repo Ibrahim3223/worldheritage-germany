@@ -4,13 +4,13 @@ site_name: "German Huguenot Museum in Bad Karlshafen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Karlshafen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Karlshafen"
+  - "Hesse"
 wikidata_id: "Q15109337"
 latitude: 51.642391
 longitude: 9.452661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/400px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/800px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1200px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1920px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1920px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg---
 
 ## Overview
 

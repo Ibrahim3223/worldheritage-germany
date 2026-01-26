@@ -4,13 +4,13 @@ site_name: "Breites Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Celle"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Celle"
+  - "Lower Saxony"
 wikidata_id: "Q906515"
 latitude: 52.6964
 longitude: 10.1772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/400px-Breites_Moor_bei_Eschede_16.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/800px-Breites_Moor_bei_Eschede_16.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1200px-Breites_Moor_bei_Eschede_16.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1920px-Breites_Moor_bei_Eschede_16.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1920px-Breites_Moor_bei_Eschede_16.JPG---
 
 ## Overview
 

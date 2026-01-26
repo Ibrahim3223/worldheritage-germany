@@ -4,13 +4,13 @@ site_name: "Reinhard-Keiser-Gedenkstätte"
 date: 2026-01-26
 draft: false
 description: "museum in Teuchern, Germany"
-region: "Teuchern"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Teuchern"
+  - "Saxony"
 wikidata_id: "Q56704158"
 latitude: 51.12005
 longitude: 12.021325
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/400px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/800px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/1200px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/1920px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/1920px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg---
 
 ## Overview
 

@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG/400px-Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG/800px-Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG/1200px-Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG/1920px-Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG/1920px-Ramones_Museum_-_Cafe_Mania_-_Berlin.JPG---
 
 ## Overview
 

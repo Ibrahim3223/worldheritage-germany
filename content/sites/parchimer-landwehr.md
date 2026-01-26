@@ -4,13 +4,13 @@ site_name: "Parchimer Landwehr"
 date: 2026-01-26
 draft: false
 description: "äußerer, spätmittelalterlicher Grenzsicherungsring um die mecklenburgische Stadt Parchim"
-region: "Ludwigslust-Parchim District"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Ludwigslust-Parchim District"
+  - "Brandenburg"
 wikidata_id: "Q1404989"
 latitude: 53.45959
 longitude: 11.90498
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/400px-Parchimer_Landwehr_2009-01-23_015a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/800px-Parchimer_Landwehr_2009-01-23_015a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/1200px-Parchimer_Landwehr_2009-01-23_015a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/1920px-Parchimer_Landwehr_2009-01-23_015a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/1920px-Parchimer_Landwehr_2009-01-23_015a.jpg---
 
 ## Overview
 

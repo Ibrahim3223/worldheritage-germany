@@ -4,19 +4,18 @@ site_name: "Ahrweilerplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Düren, Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q402931"
 latitude: 50.8016
 longitude: 6.48335
 images:
-  []
----
+  []---
 
 ## Overview
 

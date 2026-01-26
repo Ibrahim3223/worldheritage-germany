@@ -4,13 +4,13 @@ site_name: "Annakapelle"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Kirchengebäude in Roding, Bayern"
-region: "Roding"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Roding"
+  - "Bavaria"
 wikidata_id: "Q564218"
 latitude: 49.1965
 longitude: 12.5178
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/400px-Josephi_und_Anna_Kapellen_Roding.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/800px-Josephi_und_Anna_Kapellen_Roding.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/1200px-Josephi_und_Anna_Kapellen_Roding.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/1920px-Josephi_und_Anna_Kapellen_Roding.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/1920px-Josephi_und_Anna_Kapellen_Roding.JPG---
 
 ## Overview
 

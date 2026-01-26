@@ -4,13 +4,13 @@ site_name: "Museum Frieder Burda"
 date: 2026-01-26
 draft: false
 description: "museum in Baden-Baden"
-region: "Baden-Baden"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Baden-Baden"
+  - "Baden-Württemberg"
 wikidata_id: "Q1479961"
 latitude: 48.7579
 longitude: 8.23803
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/400px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/800px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/1200px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/1920px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/1920px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg---
 
 ## Overview
 

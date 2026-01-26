@@ -4,13 +4,13 @@ site_name: "St. Benno"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q2317545"
 latitude: 52.3752
 longitude: 9.70563
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/400px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/800px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/1200px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/1920px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/1920px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg---
 
 ## Overview
 

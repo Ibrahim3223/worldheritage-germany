@@ -4,13 +4,13 @@ site_name: "Bildstock"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-76-145-197 (0) in Kronach, Bavaria"
-region: "Kronach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Kronach"
+  - "Bavaria"
 wikidata_id: "Q1300632"
 latitude: 50.2404
 longitude: 11.3243
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/400px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/800px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/1200px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/1920px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/1920px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg---
 
 ## Overview
 

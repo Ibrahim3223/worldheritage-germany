@@ -4,13 +4,13 @@ site_name: "St. Johannes Nepomuk"
 date: 2026-01-26
 draft: false
 description: "church building in Göllheim, Germany"
-region: "Göllheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Göllheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2319380"
 latitude: 49.595357
 longitude: 8.052313
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg/400px-St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg/800px-St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg/1200px-St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg/1920px-St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg/1920px-St._Johannes_Nepomuk_Göllheim_Chor_(detail)-3.jpg---
 
 ## Overview
 

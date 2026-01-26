@@ -4,13 +4,13 @@ site_name: "Kulturbrauerei"
 date: 2026-01-26
 draft: false
 description: "arts centre in a former brewery in Prenzlauer Berg, Berlin, Germany"
-region: "Prenzlauer Berg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Prenzlauer Berg"
+  - "Berlin"
 wikidata_id: "Q467867"
 latitude: 52.5389
 longitude: 13.4136
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/400px-Berlin-Kulturbrauerei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/800px-Berlin-Kulturbrauerei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/1200px-Berlin-Kulturbrauerei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/1920px-Berlin-Kulturbrauerei.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/1920px-Berlin-Kulturbrauerei.jpg---
 
 ## Overview
 

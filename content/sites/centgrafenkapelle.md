@@ -4,13 +4,13 @@ site_name: "Centgrafenkapelle"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschützte Kirchenruine in Bürgstadt, Bayern"
-region: "Bürgstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bürgstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1053622"
 latitude: 49.7154
 longitude: 9.28607
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/400px-Centgrafenkapelle_Bürgstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/800px-Centgrafenkapelle_Bürgstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/1200px-Centgrafenkapelle_Bürgstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/1920px-Centgrafenkapelle_Bürgstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/1920px-Centgrafenkapelle_Bürgstadt.jpg---
 
 ## Overview
 

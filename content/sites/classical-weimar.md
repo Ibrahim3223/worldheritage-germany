@@ -4,13 +4,13 @@ site_name: "Classical Weimar"
 date: 2026-01-26
 draft: false
 description: "UNESCO World Heritage Site in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q467763"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Weimarschloss.jpg/400px-Weimarschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Weimarschloss.jpg/800px-Weimarschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Weimarschloss.jpg/1200px-Weimarschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Weimarschloss.jpg/1920px-Weimarschloss.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Weimarschloss.jpg/1920px-Weimarschloss.jpg---
 
 ## Overview
 

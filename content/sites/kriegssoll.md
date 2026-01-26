@@ -4,13 +4,13 @@ site_name: "Kriegssoll"
 date: 2026-01-26
 draft: false
 description: "memorial in Fehmarn, Germany"
-region: "Fehmarn"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Fehmarn"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1494509"
 latitude: 54.4508
 longitude: 11.1622
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/400px-Heiligenhafen2010_021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/800px-Heiligenhafen2010_021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/1200px-Heiligenhafen2010_021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/1920px-Heiligenhafen2010_021.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/1920px-Heiligenhafen2010_021.jpg---
 
 ## Overview
 

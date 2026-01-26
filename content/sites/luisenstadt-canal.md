@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg/400px-Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg/800px-Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg/1200px-Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg/1920px-Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg/1920px-Luisenstädtischer_Kanal_mit_Engelbecken,_um_1900.jpg---
 
 ## Overview
 

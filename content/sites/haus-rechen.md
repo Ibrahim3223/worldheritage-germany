@@ -4,13 +4,13 @@ site_name: "Haus Rechen"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltenes Herrenhaus in Bochum"
-region: "Bochum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bochum"
+  - "Lower Saxony"
 wikidata_id: "Q1526894"
 latitude: 51.4725
 longitude: 7.21708
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/400px-Postkarte_Haus_Rechen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/800px-Postkarte_Haus_Rechen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/1200px-Postkarte_Haus_Rechen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/1920px-Postkarte_Haus_Rechen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/1920px-Postkarte_Haus_Rechen.jpg---
 
 ## Overview
 

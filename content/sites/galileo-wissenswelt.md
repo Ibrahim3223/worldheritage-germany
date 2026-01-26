@@ -4,13 +4,13 @@ site_name: "Galileo Wissenswelt"
 date: 2026-01-26
 draft: false
 description: "museum in Fehmarn, Germany"
-region: "Fehmarn"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Fehmarn"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q28124871"
 latitude: 54.441605
 longitude: 11.185748
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galileo_Front.jpg/400px-Galileo_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galileo_Front.jpg/800px-Galileo_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galileo_Front.jpg/1200px-Galileo_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galileo_Front.jpg/1920px-Galileo_Front.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galileo_Front.jpg/1920px-Galileo_Front.jpg---
 
 ## Overview
 

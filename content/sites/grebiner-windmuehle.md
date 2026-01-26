@@ -4,13 +4,13 @@ site_name: "Grebiner Windmühle"
 date: 2026-01-26
 draft: false
 description: "Die Windmühle wurde 1851, als dritte Mühle (seit 1750) an dieser Stelle, durch den Mühlenbauer Carl Friedrich Trahn aus Neustadt in Holstein errichtet"
-region: "Grebin"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Grebin"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1425061"
 latitude: 54.1964
 longitude: 10.4886
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/400px-Grebiner_Windmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/800px-Grebiner_Windmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/1200px-Grebiner_Windmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/1920px-Grebiner_Windmühle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/1920px-Grebiner_Windmühle.jpg---
 
 ## Overview
 

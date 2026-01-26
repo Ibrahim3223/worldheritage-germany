@@ -4,13 +4,13 @@ site_name: "Kunsthalle Dresden"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q828334"
 latitude: 51.0528
 longitude: 13.7433
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hochschule_für_Bildende_Kuenste_1.jpg/400px-Dresden_Hochschule_für_Bildende_Kuenste_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hochschule_für_Bildende_Kuenste_1.jpg/800px-Dresden_Hochschule_für_Bildende_Kuenste_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hochschule_für_Bildende_Kuenste_1.jpg/1200px-Dresden_Hochschule_für_Bildende_Kuenste_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hochschule_für_Bildende_Kuenste_1.jpg/1920px-Dresden_Hochschule_für_Bildende_Kuenste_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden_Hochschule_für_Bildende_Kuenste_1.jpg/1920px-Dresden_Hochschule_für_Bildende_Kuenste_1.jpg---
 
 ## Overview
 

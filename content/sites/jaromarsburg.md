@@ -4,13 +4,13 @@ site_name: "Jaromarsburg"
 date: 2026-01-26
 draft: false
 description: "ancient cult location"
-region: "Putgarten"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Putgarten"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q460230"
 latitude: 54.6766
 longitude: 13.4369
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/400px-Arkona-1860-Knoche-Fock.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/800px-Arkona-1860-Knoche-Fock.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1200px-Arkona-1860-Knoche-Fock.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1920px-Arkona-1860-Knoche-Fock.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1920px-Arkona-1860-Knoche-Fock.png---
 
 ## Overview
 

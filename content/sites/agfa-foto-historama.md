@@ -4,19 +4,18 @@ site_name: "Agfa Foto-Historama"
 date: 2026-01-26
 draft: false
 description: "Photographischer Museumsbestand des Museum Ludwig in Köln"
-region: "Germany"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Germany"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q393101"
 latitude: 50.94083333
 longitude: 6.96027778
 images:
-  []
----
+  []---
 
 ## Overview
 

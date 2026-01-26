@@ -4,13 +4,13 @@ site_name: "Kapherr-Mausoleum"
 date: 2026-01-26
 draft: false
 description: "Mausoleum of the Barons of Kap-herr in Lockwitz"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q124253622"
 latitude: 50.98023
 longitude: 13.81282
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/400px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/800px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/1200px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/1920px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/1920px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "village church Nitzahn"
 date: 2026-01-26
 draft: false
 description: "listed hall church in Nitzahn, Milower Land, Brandenburg state of Germany"
-region: "Milower Land"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Milower Land"
+  - "Brandenburg"
 wikidata_id: "Q1244569"
 latitude: 52.4672317
 longitude: 12.3628805
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kirche_Nitzahn_2014_SW.jpg/400px-Kirche_Nitzahn_2014_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kirche_Nitzahn_2014_SW.jpg/800px-Kirche_Nitzahn_2014_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kirche_Nitzahn_2014_SW.jpg/1200px-Kirche_Nitzahn_2014_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kirche_Nitzahn_2014_SW.jpg/1920px-Kirche_Nitzahn_2014_SW.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kirche_Nitzahn_2014_SW.jpg/1920px-Kirche_Nitzahn_2014_SW.jpg---
 
 ## Overview
 

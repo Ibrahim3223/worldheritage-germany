@@ -4,19 +4,18 @@ site_name: "Hanseatic University Rostock"
 date: 2026-01-26
 draft: false
 description: "higher Institution in Rostock, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q251214"
 latitude: 54.1709
 longitude: 12.079
 images:
-  []
----
+  []---
 
 ## Overview
 

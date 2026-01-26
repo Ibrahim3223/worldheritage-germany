@@ -4,19 +4,18 @@ site_name: "Ehemaliger Garten in Lauf an der Pegnitz"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Lauf an der Pegnitz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Lauf an der Pegnitz"
+  - "Bavaria"
 wikidata_id: "Q41391455"
 latitude: 49.55397
 longitude: 11.2329
 images:
-  []
----
+  []---
 
 ## Overview
 

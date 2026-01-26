@@ -4,19 +4,18 @@ site_name: "Gemeindebücherei Taufkirchen/Vils"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Taufkirchen (Vils)"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Taufkirchen (Vils)"
+  - "Bavaria"
 wikidata_id: "Q28729455"
 latitude: 48.34255
 longitude: 12.1289
 images:
-  []
----
+  []---
 
 ## Overview
 

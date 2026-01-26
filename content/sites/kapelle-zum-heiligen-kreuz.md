@@ -4,13 +4,13 @@ site_name: "Kapelle zum heiligen Kreuz"
 date: 2026-01-26
 draft: false
 description: "church building in Heusenstamm"
-region: "Heusenstamm"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Heusenstamm"
+  - "Hesse"
 wikidata_id: "Q1728481"
 latitude: 50.0603
 longitude: 8.81248
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/400px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/800px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/1200px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/1920px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/1920px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG---
 
 ## Overview
 

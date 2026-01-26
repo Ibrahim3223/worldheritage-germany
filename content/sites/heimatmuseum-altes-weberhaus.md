@@ -4,19 +4,18 @@ site_name: "Heimatmuseum - Altes Weberhaus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Sohland an der Spree"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sohland an der Spree"
+  - "Saxony"
 wikidata_id: "Q28475392"
 latitude: 51.03462194
 longitude: 14.40702889
 images:
-  []
----
+  []---
 
 ## Overview
 

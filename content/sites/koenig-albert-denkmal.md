@@ -4,13 +4,13 @@ site_name: "König-Albert-Denkmal"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Freital"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Freital"
+  - "Saxony"
 wikidata_id: "Q1568236"
 latitude: 50.9978
 longitude: 13.6597
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/400px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/800px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/1200px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/1920px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg/1920px-Windberg_(Freital)_König-Albert-Denkmal_(02-2).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Margareta"
 date: 2026-01-26
 draft: false
 description: "church building in Königswinter, Germany"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2320519"
 latitude: 50.73049
 longitude: 7.22018
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/400px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/800px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/1200px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/1920px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/1920px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg---
 
 ## Overview
 

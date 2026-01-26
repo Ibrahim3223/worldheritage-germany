@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Pablo Picasso Münster"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1792550"
 latitude: 51.9602
 longitude: 7.62635
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Muenster_Arkaden2Abschn_7180.jpg/400px-Muenster_Arkaden2Abschn_7180.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Muenster_Arkaden2Abschn_7180.jpg/800px-Muenster_Arkaden2Abschn_7180.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Muenster_Arkaden2Abschn_7180.jpg/1200px-Muenster_Arkaden2Abschn_7180.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Muenster_Arkaden2Abschn_7180.jpg/1920px-Muenster_Arkaden2Abschn_7180.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Muenster_Arkaden2Abschn_7180.jpg/1920px-Muenster_Arkaden2Abschn_7180.jpg---
 
 ## Overview
 

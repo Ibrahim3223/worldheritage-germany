@@ -4,13 +4,13 @@ site_name: "Carlsplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Düsseldorf, Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1043389"
 latitude: 51.2235
 longitude: 6.77374
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Carlsplatz_duesseldorf.jpg/400px-Carlsplatz_duesseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Carlsplatz_duesseldorf.jpg/800px-Carlsplatz_duesseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Carlsplatz_duesseldorf.jpg/1200px-Carlsplatz_duesseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Carlsplatz_duesseldorf.jpg/1920px-Carlsplatz_duesseldorf.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Carlsplatz_duesseldorf.jpg/1920px-Carlsplatz_duesseldorf.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Tatternsteine mit Talaue"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Stolberg, North Rhine-Westphalia, Germany"
-region: "Stolberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Stolberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151354"
 latitude: 50.7606
 longitude: 6.20383
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gedauer_Konglomerat.jpg/400px-Gedauer_Konglomerat.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gedauer_Konglomerat.jpg/800px-Gedauer_Konglomerat.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gedauer_Konglomerat.jpg/1200px-Gedauer_Konglomerat.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gedauer_Konglomerat.jpg/1920px-Gedauer_Konglomerat.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gedauer_Konglomerat.jpg/1920px-Gedauer_Konglomerat.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Electoral Palace"
 date: 2026-01-26
 draft: false
 description: "Palace in Trier, Germany"
-region: "Trier"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Trier"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q316766"
 latitude: 49.7531
 longitude: 6.64361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/400px-Kurfürstliches_Palais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/800px-Kurfürstliches_Palais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/1200px-Kurfürstliches_Palais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/1920px-Kurfürstliches_Palais.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/1920px-Kurfürstliches_Palais.jpg---
 
 ## Overview
 

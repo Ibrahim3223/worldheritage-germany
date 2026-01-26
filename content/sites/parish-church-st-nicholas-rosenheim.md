@@ -4,13 +4,13 @@ site_name: "Parish Church St. Nicholas, Rosenheim"
 date: 2026-01-26
 draft: false
 description: "church building in Rosenheim, Upper Bavaria, Germany"
-region: "Rosenheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rosenheim"
+  - "Bavaria"
 wikidata_id: "Q2327891"
 latitude: 47.8557
 longitude: 12.1281
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/400px-Rosenheim,_St._Nikolaus_(25).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/800px-Rosenheim,_St._Nikolaus_(25).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/1200px-Rosenheim,_St._Nikolaus_(25).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/1920px-Rosenheim,_St._Nikolaus_(25).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/1920px-Rosenheim,_St._Nikolaus_(25).jpg---
 
 ## Overview
 

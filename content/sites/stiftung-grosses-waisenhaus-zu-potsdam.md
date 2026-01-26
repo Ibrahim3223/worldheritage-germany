@@ -4,19 +4,18 @@ site_name: "Stiftung Großes Waisenhaus zu Potsdam"
 date: 2026-01-26
 draft: false
 description: "foundation in Potsdam, Brandenburg, Germany"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q112035319"
 latitude: 52.3959503
 longitude: 13.0518958
 images:
-  []
----
+  []---
 
 ## Overview
 

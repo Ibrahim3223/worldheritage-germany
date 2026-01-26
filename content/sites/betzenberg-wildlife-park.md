@@ -4,13 +4,13 @@ site_name: "Betzenberg Wildlife Park"
 date: 2026-01-26
 draft: false
 description: "zoo in Kaiserslautern, Germany"
-region: "Rhineland-Palatinate"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Rhineland-Palatinate"
+  - "Baden-Württemberg"
 wikidata_id: "Q2570791"
 latitude: 49.4334
 longitude: 7.79162
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/400px-Wildpark_KL_Stein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/800px-Wildpark_KL_Stein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/1200px-Wildpark_KL_Stein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/1920px-Wildpark_KL_Stein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/1920px-Wildpark_KL_Stein.jpg---
 
 ## Overview
 

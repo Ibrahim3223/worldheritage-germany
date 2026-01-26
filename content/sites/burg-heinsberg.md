@@ -4,13 +4,13 @@ site_name: "Burg Heinsberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Heinsberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Heinsberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012270"
 latitude: 51.06020762
 longitude: 6.09338075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/400px-Burgberg-heinsberg-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/800px-Burgberg-heinsberg-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/1200px-Burgberg-heinsberg-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/1920px-Burgberg-heinsberg-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/1920px-Burgberg-heinsberg-2.jpg---
 
 ## Overview
 

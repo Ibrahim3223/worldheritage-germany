@@ -4,13 +4,13 @@ site_name: "Burg Hausdorp"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lohmar"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lohmar"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012225"
 latitude: 50.8738
 longitude: 7.26758
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hofansicht_Burg_Hausdorp.JPG/400px-Hofansicht_Burg_Hausdorp.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hofansicht_Burg_Hausdorp.JPG/800px-Hofansicht_Burg_Hausdorp.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hofansicht_Burg_Hausdorp.JPG/1200px-Hofansicht_Burg_Hausdorp.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hofansicht_Burg_Hausdorp.JPG/1920px-Hofansicht_Burg_Hausdorp.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hofansicht_Burg_Hausdorp.JPG/1920px-Hofansicht_Burg_Hausdorp.JPG---
 
 ## Overview
 

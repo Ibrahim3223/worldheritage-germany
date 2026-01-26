@@ -4,13 +4,13 @@ site_name: "Castle Reckenberg"
 date: 2026-01-26
 draft: false
 description: "Castle in Fürstenberg, Germany"
-region: "Lichtenfels"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Lichtenfels"
+  - "Hesse"
 wikidata_id: "Q2243080"
 latitude: 51.1554
 longitude: 8.83171
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/400px-Reckenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/800px-Reckenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/1200px-Reckenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/1920px-Reckenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/1920px-Reckenberg.jpg---
 
 ## Overview
 

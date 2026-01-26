@@ -4,13 +4,13 @@ site_name: "Johannisturm"
 date: 2026-01-26
 draft: false
 description: "Turm in Warburg"
-region: "Warburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Warburg"
+  - "Hesse"
 wikidata_id: "Q1300671"
 latitude: 51.4847
 longitude: 9.14478
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Warburg_-_2015-09-19_-_Johannisturm_(05).jpg/400px-Warburg_-_2015-09-19_-_Johannisturm_(05).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Warburg_-_2015-09-19_-_Johannisturm_(05).jpg/800px-Warburg_-_2015-09-19_-_Johannisturm_(05).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Warburg_-_2015-09-19_-_Johannisturm_(05).jpg/1200px-Warburg_-_2015-09-19_-_Johannisturm_(05).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Warburg_-_2015-09-19_-_Johannisturm_(05).jpg/1920px-Warburg_-_2015-09-19_-_Johannisturm_(05).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Warburg_-_2015-09-19_-_Johannisturm_(05).jpg/1920px-Warburg_-_2015-09-19_-_Johannisturm_(05).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Maria Meeresstern (Borkum)"
 date: 2026-01-26
 draft: false
 description: "church building in Borkum, Germany"
-region: "Borkum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Borkum"
+  - "Lower Saxony"
 wikidata_id: "Q1722808"
 latitude: 53.5886
 longitude: 6.66632
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BorkumKircheKath_2.jpg/400px-BorkumKircheKath_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BorkumKircheKath_2.jpg/800px-BorkumKircheKath_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BorkumKircheKath_2.jpg/1200px-BorkumKircheKath_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BorkumKircheKath_2.jpg/1920px-BorkumKircheKath_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BorkumKircheKath_2.jpg/1920px-BorkumKircheKath_2.jpg---
 
 ## Overview
 

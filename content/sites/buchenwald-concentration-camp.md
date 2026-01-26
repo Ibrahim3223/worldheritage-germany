@@ -4,13 +4,13 @@ site_name: "Buchenwald concentration camp"
 date: 2026-01-26
 draft: false
 description: "Nazi concentration camp in Thuringia (1937–1945)"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q152802"
 latitude: 51.021198
 longitude: 11.248999
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/400px-Buchenwald_Memorial.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/800px-Buchenwald_Memorial.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1200px-Buchenwald_Memorial.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1920px-Buchenwald_Memorial.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1920px-Buchenwald_Memorial.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Michaeliskirche Sagard"
 date: 2026-01-26
 draft: false
 description: "church building in Sagard, Germany"
-region: "Sagard"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sagard"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2316562"
 latitude: 54.5262
 longitude: 13.5556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/400px-Sagard_Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/800px-Sagard_Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/1200px-Sagard_Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/1920px-Sagard_Church.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/1920px-Sagard_Church.jpg---
 
 ## Overview
 

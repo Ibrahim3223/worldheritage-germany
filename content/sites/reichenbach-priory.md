@@ -4,13 +4,13 @@ site_name: "Reichenbach Priory"
 date: 2026-01-26
 draft: false
 description: "abbey in Baiersbronn, Baden-Württemberg, Germany"
-region: "Baiersbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Baiersbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q747324"
 latitude: 48.5256
 longitude: 8.40139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Klosterreichenbach_innenhof2008.jpg/400px-Klosterreichenbach_innenhof2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Klosterreichenbach_innenhof2008.jpg/800px-Klosterreichenbach_innenhof2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Klosterreichenbach_innenhof2008.jpg/1200px-Klosterreichenbach_innenhof2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Klosterreichenbach_innenhof2008.jpg/1920px-Klosterreichenbach_innenhof2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Klosterreichenbach_innenhof2008.jpg/1920px-Klosterreichenbach_innenhof2008.jpg---
 
 ## Overview
 

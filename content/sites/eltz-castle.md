@@ -4,13 +4,13 @@ site_name: "Eltz Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Germany"
-region: "Wierschem"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wierschem"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q153426"
 latitude: 50.205
 longitude: 7.336666666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/400px-Burg_Eltz_am_frühen_Morgen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/800px-Burg_Eltz_am_frühen_Morgen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1200px-Burg_Eltz_am_frühen_Morgen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1920px-Burg_Eltz_am_frühen_Morgen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1920px-Burg_Eltz_am_frühen_Morgen.jpg---
 
 ## Overview
 

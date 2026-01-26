@@ -4,19 +4,18 @@ site_name: "Schlayerturm (Nürnberg)"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Germany"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Germany"
+  - "Bavaria"
 wikidata_id: "Q1378711"
 latitude: 49.4543
 longitude: 11.0708
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Deutz Abbey"
 date: 2026-01-26
 draft: false
 description: "former monastery in Cologne, Germany"
-region: "Deutz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Deutz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q333893"
 latitude: 50.938061111
 longitude: 6.9697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/400px-Alt-Heribert_Koeln-Deutz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/800px-Alt-Heribert_Koeln-Deutz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1200px-Alt-Heribert_Koeln-Deutz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1920px-Alt-Heribert_Koeln-Deutz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1920px-Alt-Heribert_Koeln-Deutz.jpg---
 
 ## Overview
 

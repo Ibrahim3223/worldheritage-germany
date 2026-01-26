@@ -4,13 +4,13 @@ site_name: "St. Fabian und Sebastian"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Schwartau, Germany"
-region: "Bad Schwartau"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Schwartau"
+  - "Lower Saxony"
 wikidata_id: "Q2318172"
 latitude: 53.9212
 longitude: 10.679
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/400px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/800px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/1200px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/1920px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/1920px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG---
 
 ## Overview
 

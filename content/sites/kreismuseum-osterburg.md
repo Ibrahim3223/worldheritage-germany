@@ -4,13 +4,13 @@ site_name: "Kreismuseum Osterburg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Osterburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Osterburg"
+  - "Brandenburg"
 wikidata_id: "Q1787733"
 latitude: 52.786611
 longitude: 11.754692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kreismuseum_Osterburg.JPG/400px-Kreismuseum_Osterburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kreismuseum_Osterburg.JPG/800px-Kreismuseum_Osterburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kreismuseum_Osterburg.JPG/1200px-Kreismuseum_Osterburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kreismuseum_Osterburg.JPG/1920px-Kreismuseum_Osterburg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kreismuseum_Osterburg.JPG/1920px-Kreismuseum_Osterburg.JPG---
 
 ## Overview
 

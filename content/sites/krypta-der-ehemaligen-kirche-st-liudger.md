@@ -4,19 +4,18 @@ site_name: "Krypta der ehemaligen Kirche St. Liudger"
 date: 2026-01-26
 draft: false
 description: "ehemalige Krypta, heutige Gedächtnisstätte in Leer"
-region: "Leer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Leer"
+  - "Lower Saxony"
 wikidata_id: "Q27478865"
 latitude: 53.22906
 longitude: 7.441009
 images:
-  []
----
+  []---
 
 ## Overview
 

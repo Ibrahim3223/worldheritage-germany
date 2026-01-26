@@ -4,13 +4,13 @@ site_name: "Lobdengau Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Ladenburg, Germany"
-region: "Ladenburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ladenburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1867056"
 latitude: 49.4708
 longitude: 8.60811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Roemermuseum_Ladenburg_01.JPG/400px-Roemermuseum_Ladenburg_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Roemermuseum_Ladenburg_01.JPG/800px-Roemermuseum_Ladenburg_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Roemermuseum_Ladenburg_01.JPG/1200px-Roemermuseum_Ladenburg_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Roemermuseum_Ladenburg_01.JPG/1920px-Roemermuseum_Ladenburg_01.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Roemermuseum_Ladenburg_01.JPG/1920px-Roemermuseum_Ladenburg_01.JPG---
 
 ## Overview
 

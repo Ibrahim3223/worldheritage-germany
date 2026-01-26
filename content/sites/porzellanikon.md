@@ -4,13 +4,13 @@ site_name: "Porzellanikon"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Selb"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Selb"
+  - "Bavaria"
 wikidata_id: "Q2105523"
 latitude: 50.1695
 longitude: 12.1287
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/400px-Selb_Porzellanikon.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/800px-Selb_Porzellanikon.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/1200px-Selb_Porzellanikon.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/1920px-Selb_Porzellanikon.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/1920px-Selb_Porzellanikon.JPG---
 
 ## Overview
 

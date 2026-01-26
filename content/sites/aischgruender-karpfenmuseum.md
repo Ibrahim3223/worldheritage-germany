@@ -4,19 +4,18 @@ site_name: "Aischgründer Karpfenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Neustadt an der Aisch"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Neustadt an der Aisch"
+  - "Bavaria"
 wikidata_id: "Q409578"
 latitude: 49.581805555
 longitude: 10.607694444
 images:
-  []
----
+  []---
 
 ## Overview
 

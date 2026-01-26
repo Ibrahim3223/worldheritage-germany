@@ -4,13 +4,13 @@ site_name: "Ruine Kreidenstein, Bäratal"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Beuron"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Beuron"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012731"
 latitude: 48.0492
 longitude: 8.93417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/400px-Ruine_Kreidenstein_16.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/800px-Ruine_Kreidenstein_16.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/1200px-Ruine_Kreidenstein_16.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/1920px-Ruine_Kreidenstein_16.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/1920px-Ruine_Kreidenstein_16.JPG---
 
 ## Overview
 

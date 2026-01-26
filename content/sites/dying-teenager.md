@@ -4,13 +4,13 @@ site_name: "Dying teenager"
 date: 2026-01-26
 draft: false
 description: "monument in Bremen-Mitte, Germany"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q19309549"
 latitude: 53.074778
 longitude: 8.813419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/400px-Kubika-Juengling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/800px-Kubika-Juengling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/1200px-Kubika-Juengling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/1920px-Kubika-Juengling.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/1920px-Kubika-Juengling.jpg---
 
 ## Overview
 

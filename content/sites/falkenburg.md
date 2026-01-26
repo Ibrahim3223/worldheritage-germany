@@ -4,13 +4,13 @@ site_name: "Falkenburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Kyffhäuserland"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Kyffhäuserland"
+  - "Lower Saxony"
 wikidata_id: "Q151507"
 latitude: 51.3753
 longitude: 11.0378
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/400px-Falkenburg_Rottleben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/800px-Falkenburg_Rottleben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/1200px-Falkenburg_Rottleben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/1920px-Falkenburg_Rottleben.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/1920px-Falkenburg_Rottleben.jpg---
 
 ## Overview
 

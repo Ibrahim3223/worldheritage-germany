@@ -4,13 +4,13 @@ site_name: "St.-Peter-und-Paul-Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Rauenberg, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Rauenberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rauenberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1656954"
 latitude: 49.2673
 longitude: 8.70431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/400px-Rauenberg_Katholische_Kirche_20070327.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/800px-Rauenberg_Katholische_Kirche_20070327.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/1200px-Rauenberg_Katholische_Kirche_20070327.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/1920px-Rauenberg_Katholische_Kirche_20070327.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/1920px-Rauenberg_Katholische_Kirche_20070327.jpg---
 
 ## Overview
 

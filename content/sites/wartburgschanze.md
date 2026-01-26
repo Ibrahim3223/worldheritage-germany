@@ -4,13 +4,13 @@ site_name: "Wartburgschanze"
 date: 2026-01-26
 draft: false
 description: "fortification in Eisenach, Germany"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1631605"
 latitude: 50.96686111
 longitude: 10.30693889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/02_Wartburg_Schanze1.jpg/400px-02_Wartburg_Schanze1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/02_Wartburg_Schanze1.jpg/800px-02_Wartburg_Schanze1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/02_Wartburg_Schanze1.jpg/1200px-02_Wartburg_Schanze1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/02_Wartburg_Schanze1.jpg/1920px-02_Wartburg_Schanze1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/02_Wartburg_Schanze1.jpg/1920px-02_Wartburg_Schanze1.jpg---
 
 ## Overview
 

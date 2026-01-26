@@ -4,13 +4,13 @@ site_name: "Oranienbaum Palace"
 date: 2026-01-26
 draft: false
 description: "palace in Oranienbaum-Wörlitz, Saxony-Anhalt, Germany"
-region: "Oranienbaum-Wörlitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Oranienbaum-Wörlitz"
+  - "Brandenburg"
 wikidata_id: "Q473807"
 latitude: 51.7999
 longitude: 12.4036
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Oranienbaum2.JPG/400px-Schloss_Oranienbaum2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Oranienbaum2.JPG/800px-Schloss_Oranienbaum2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Oranienbaum2.JPG/1200px-Schloss_Oranienbaum2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Oranienbaum2.JPG/1920px-Schloss_Oranienbaum2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Oranienbaum2.JPG/1920px-Schloss_Oranienbaum2.JPG---
 
 ## Overview
 

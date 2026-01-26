@@ -4,13 +4,13 @@ site_name: "Zinkenkopf"
 date: 2026-01-26
 draft: false
 description: "mountain in the Berchtesgaden Alps in Bavaria"
-region: "District of Berchtesgadener Land"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "District of Berchtesgadener Land"
+  - "Bavaria"
 wikidata_id: "Q204741"
 latitude: 47.6478
 longitude: 13.0864
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/400px-Dürrnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/800px-Dürrnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/1200px-Dürrnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/1920px-Dürrnberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/1920px-Dürrnberg.jpg---
 
 ## Overview
 

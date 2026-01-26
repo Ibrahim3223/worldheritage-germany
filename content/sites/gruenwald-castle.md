@@ -4,13 +4,13 @@ site_name: "Grünwald Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grünwald"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grünwald"
+  - "Bavaria"
 wikidata_id: "Q1012111"
 latitude: 48.0431
 longitude: 11.5193
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/400px-Burg_Gruenwald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/800px-Burg_Gruenwald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1200px-Burg_Gruenwald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1920px-Burg_Gruenwald.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1920px-Burg_Gruenwald.jpg---
 
 ## Overview
 

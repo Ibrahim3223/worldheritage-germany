@@ -4,13 +4,13 @@ site_name: "Am Stadtwaldsee (Uni-Wildnis)"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bremen, Free Hanseatic City of Bremen, Germany"
-region: "Horn-Lehe"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Horn-Lehe"
+  - "Bremen"
 wikidata_id: "Q451469"
 latitude: 53.1128
 longitude: 8.83861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/400px-Uni-Wildnis-3729.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/800px-Uni-Wildnis-3729.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/1200px-Uni-Wildnis-3729.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/1920px-Uni-Wildnis-3729.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/1920px-Uni-Wildnis-3729.jpg---
 
 ## Overview
 

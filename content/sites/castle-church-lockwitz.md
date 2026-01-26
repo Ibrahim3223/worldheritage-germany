@@ -4,13 +4,13 @@ site_name: "Castle Church Lockwitz"
 date: 2026-01-26
 draft: false
 description: "Protestant church in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1507217"
 latitude: 50.9876
 longitude: 13.8089
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/400px-Lockwitzer_Schlosskirche2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/800px-Lockwitzer_Schlosskirche2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/1200px-Lockwitzer_Schlosskirche2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/1920px-Lockwitzer_Schlosskirche2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/1920px-Lockwitzer_Schlosskirche2.jpg---
 
 ## Overview
 

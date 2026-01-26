@@ -4,13 +4,13 @@ site_name: "Lahneck Castle"
 date: 2026-01-26
 draft: false
 description: "German Castle"
-region: "Oberlahnstein"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oberlahnstein"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q564207"
 latitude: 50.3063
 longitude: 7.61246
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Lahneck_2010.jpg/400px-Burg_Lahneck_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Lahneck_2010.jpg/800px-Burg_Lahneck_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Lahneck_2010.jpg/1200px-Burg_Lahneck_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Lahneck_2010.jpg/1920px-Burg_Lahneck_2010.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Lahneck_2010.jpg/1920px-Burg_Lahneck_2010.jpg---
 
 ## Overview
 

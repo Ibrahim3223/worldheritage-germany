@@ -4,19 +4,18 @@ site_name: "Erma Werke"
 date: 2026-01-26
 draft: false
 description: "German arms manufacturing company"
-region: "Dachau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Dachau"
+  - "Bavaria"
 wikidata_id: "Q185835"
 latitude: 48.25908611
 longitude: 11.44938611
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Karlstraße 1, 2/3, 4"
 date: 2026-01-26
 draft: false
 description: "buildings in Eilenburg, Germany"
-region: "Eilenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Eilenburg"
+  - "Brandenburg"
 wikidata_id: "Q14906926"
 latitude: 51.4583
 longitude: 12.6322
 images:
-  []
----
+  []---
 
 ## Overview
 

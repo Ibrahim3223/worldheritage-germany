@@ -4,13 +4,13 @@ site_name: "Jägertor"
 date: 2026-01-26
 draft: false
 description: "Potsdam city gate, former city exit leading to Jägerhof"
-region: "Historische Innenstadt"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Historische Innenstadt"
+  - "Brandenburg"
 wikidata_id: "Q1503936"
 latitude: 52.4025614
 longitude: 13.0526785
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/400px-Potsdam_Jaegertor_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/800px-Potsdam_Jaegertor_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1200px-Potsdam_Jaegertor_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1920px-Potsdam_Jaegertor_07-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1920px-Potsdam_Jaegertor_07-2017.jpg---
 
 ## Overview
 

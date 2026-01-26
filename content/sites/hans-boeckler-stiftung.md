@@ -4,13 +4,13 @@ site_name: "Hans-Böckler-Stiftung"
 date: 2026-01-26
 draft: false
 description: "German foundation"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1283089"
 latitude: 51.247038744
 longitude: 6.773669241
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/400px-Sitz_der_Hans-Böckler-Stiftung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/800px-Sitz_der_Hans-Böckler-Stiftung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/1200px-Sitz_der_Hans-Böckler-Stiftung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/1920px-Sitz_der_Hans-Böckler-Stiftung.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/1920px-Sitz_der_Hans-Böckler-Stiftung.jpg---
 
 ## Overview
 

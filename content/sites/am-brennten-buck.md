@@ -4,13 +4,13 @@ site_name: "Am brennten Buck"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Schliengen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Schliengen"
+  - "Baden-Württemberg"
 wikidata_id: "Q451554"
 latitude: 47.757865
 longitude: 7.67187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/400px-Brennten_Buck_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/800px-Brennten_Buck_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/1200px-Brennten_Buck_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/1920px-Brennten_Buck_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/1920px-Brennten_Buck_2.JPG---
 
 ## Overview
 

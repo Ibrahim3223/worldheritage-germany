@@ -4,13 +4,13 @@ site_name: "Oberaichen station"
 date: 2026-01-26
 draft: false
 description: "railway station in Leinfelden-Echterdingen, Germany"
-region: "Leinfelden-Echterdingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Leinfelden-Echterdingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q169481"
 latitude: 48.705
 longitude: 9.1275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnhof_Oberaichen.JPG/400px-Bahnhof_Oberaichen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnhof_Oberaichen.JPG/800px-Bahnhof_Oberaichen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnhof_Oberaichen.JPG/1200px-Bahnhof_Oberaichen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnhof_Oberaichen.JPG/1920px-Bahnhof_Oberaichen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnhof_Oberaichen.JPG/1920px-Bahnhof_Oberaichen.JPG---
 
 ## Overview
 

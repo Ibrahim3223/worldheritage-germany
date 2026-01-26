@@ -4,13 +4,13 @@ site_name: "Die Schmiere (Frankfurt)"
 date: 2026-01-26
 draft: false
 description: "Theater in Deutschland"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q1216035"
 latitude: 50.1091
 longitude: 8.67739
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Die_Schmiere_Eingang_1.jpg/400px-Frankfurt_Die_Schmiere_Eingang_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Die_Schmiere_Eingang_1.jpg/800px-Frankfurt_Die_Schmiere_Eingang_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Die_Schmiere_Eingang_1.jpg/1200px-Frankfurt_Die_Schmiere_Eingang_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Die_Schmiere_Eingang_1.jpg/1920px-Frankfurt_Die_Schmiere_Eingang_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Die_Schmiere_Eingang_1.jpg/1920px-Frankfurt_Die_Schmiere_Eingang_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Deutsches Werkzeugmuseum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1206099"
 latitude: 51.1978
 longitude: 7.165
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/400px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/800px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg---
 
 ## Overview
 

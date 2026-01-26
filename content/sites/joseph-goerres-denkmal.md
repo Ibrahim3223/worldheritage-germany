@@ -4,13 +4,13 @@ site_name: "Joseph-Görres-Denkmal"
 date: 2026-01-26
 draft: false
 description: "Memorial to Joseph Görres in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1706343"
 latitude: 50.3554
 longitude: 7.60358
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Joseph-Görres-Denkmal_Koblenz_2006.jpg/400px-Joseph-Görres-Denkmal_Koblenz_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Joseph-Görres-Denkmal_Koblenz_2006.jpg/800px-Joseph-Görres-Denkmal_Koblenz_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Joseph-Görres-Denkmal_Koblenz_2006.jpg/1200px-Joseph-Görres-Denkmal_Koblenz_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Joseph-Görres-Denkmal_Koblenz_2006.jpg/1920px-Joseph-Görres-Denkmal_Koblenz_2006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Joseph-Görres-Denkmal_Koblenz_2006.jpg/1920px-Joseph-Görres-Denkmal_Koblenz_2006.jpg---
 
 ## Overview
 

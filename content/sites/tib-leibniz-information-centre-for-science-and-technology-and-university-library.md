@@ -4,13 +4,13 @@ site_name: "TIB – Leibniz Information Centre for Science and Technology and Un
 date: 2026-01-26
 draft: false
 description: "national library of Germany for all fields of engineering, technology, and the natural sciences"
-region: "Hanover"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Hanover"
+  - "Lower Saxony"
 wikidata_id: "Q2399120"
 latitude: 52.381262198
 longitude: 9.719847697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/400px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/800px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/1200px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/1920px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/1920px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg---
 
 ## Overview
 

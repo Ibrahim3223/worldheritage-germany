@@ -4,13 +4,13 @@ site_name: "Großes Seeloch"
 date: 2026-01-26
 draft: false
 description: "lake in Werther, Germany"
-region: "Werther"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Werther"
+  - "Lower Saxony"
 wikidata_id: "Q1274270"
 latitude: 51.5141
 longitude: 10.7004
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg/400px-Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg/800px-Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg/1200px-Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg/1920px-Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg/1920px-Das_große_Seeloch_nahe_Großwechsungen_und_Kleinwechsungen.jpg---
 
 ## Overview
 

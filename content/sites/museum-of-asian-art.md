@@ -4,13 +4,13 @@ site_name: "Museum of Asian Art"
 date: 2026-01-26
 draft: false
 description: "museum in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q370045"
 latitude: 52.5175
 longitude: 13.402778055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Humboldt_Forum-9148.jpg/400px-Humboldt_Forum-9148.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Humboldt_Forum-9148.jpg/800px-Humboldt_Forum-9148.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Humboldt_Forum-9148.jpg/1200px-Humboldt_Forum-9148.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Humboldt_Forum-9148.jpg/1920px-Humboldt_Forum-9148.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Humboldt_Forum-9148.jpg/1920px-Humboldt_Forum-9148.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Muldentalbahn (Sachgesamtheit) Kralapp"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Zettlitz"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Zettlitz"
+  - "Saxony"
 wikidata_id: "Q49450090"
 latitude: 51.079254
 longitude: 12.802517
 images:
-  []
----
+  []---
 
 ## Overview
 

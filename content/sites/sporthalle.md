@@ -4,19 +4,18 @@ site_name: "Sporthalle"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Cologne, Germany"
-region: "Cologne"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Cologne"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q608981"
 latitude: 50.94595
 longitude: 6.979559
 images:
-  []
----
+  []---
 
 ## Overview
 

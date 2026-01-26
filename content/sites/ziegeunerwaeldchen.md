@@ -4,13 +4,13 @@ site_name: "Ziegeunerwäldchen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Springe"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Springe"
+  - "Lower Saxony"
 wikidata_id: "Q198843"
 latitude: 52.1894
 longitude: 9.68278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_Zigeunerwaeldchen_1.JPG/400px-NSG_Zigeunerwaeldchen_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_Zigeunerwaeldchen_1.JPG/800px-NSG_Zigeunerwaeldchen_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_Zigeunerwaeldchen_1.JPG/1200px-NSG_Zigeunerwaeldchen_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_Zigeunerwaeldchen_1.JPG/1920px-NSG_Zigeunerwaeldchen_1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_Zigeunerwaeldchen_1.JPG/1920px-NSG_Zigeunerwaeldchen_1.JPG---
 
 ## Overview
 

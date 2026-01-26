@@ -4,13 +4,13 @@ site_name: "St. Marien (Plau am See)"
 date: 2026-01-26
 draft: false
 description: "church building in Plau am See, Mecklenburg-Vorpommern, Germany"
-region: "Plau am See"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Plau am See"
+  - "Brandenburg"
 wikidata_id: "Q2083102"
 latitude: 53.4581
 longitude: 12.2617
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/400px-Plau_am_See_Kirche_2008-03-26_099.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/800px-Plau_am_See_Kirche_2008-03-26_099.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/1200px-Plau_am_See_Kirche_2008-03-26_099.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/1920px-Plau_am_See_Kirche_2008-03-26_099.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/1920px-Plau_am_See_Kirche_2008-03-26_099.jpg---
 
 ## Overview
 

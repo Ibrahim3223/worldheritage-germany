@@ -4,13 +4,13 @@ site_name: "Tram Museum Thielenbruch"
 date: 2026-01-26
 draft: false
 description: "museum in Dellbrück, Germany"
-region: "Dellbrück"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dellbrück"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2354776"
 latitude: 50.9784
 longitude: 7.08586
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/400px-Tw_1155_im_Museum_Thielenbruch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/800px-Tw_1155_im_Museum_Thielenbruch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/1200px-Tw_1155_im_Museum_Thielenbruch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/1920px-Tw_1155_im_Museum_Thielenbruch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/1920px-Tw_1155_im_Museum_Thielenbruch.jpg---
 
 ## Overview
 

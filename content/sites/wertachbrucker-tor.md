@@ -4,13 +4,13 @@ site_name: "Wertachbrucker Tor"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Augsburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Augsburg"
+  - "Bavaria"
 wikidata_id: "Q1403897"
 latitude: 48.376567927
 longitude: 10.888963326
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/400px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/800px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/1200px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/1920px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/1920px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg---
 
 ## Overview
 

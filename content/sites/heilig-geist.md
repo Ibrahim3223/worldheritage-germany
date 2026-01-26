@@ -4,13 +4,13 @@ site_name: "Heilig Geist"
 date: 2026-01-26
 draft: false
 description: "church in Lemgo, Germany"
-region: "Lemgo"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lemgo"
+  - "Lower Saxony"
 wikidata_id: "Q1122419"
 latitude: 52.0324
 longitude: 8.90347
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lemgo_-_Heilig_Geist_(3).jpg/400px-Lemgo_-_Heilig_Geist_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lemgo_-_Heilig_Geist_(3).jpg/800px-Lemgo_-_Heilig_Geist_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lemgo_-_Heilig_Geist_(3).jpg/1200px-Lemgo_-_Heilig_Geist_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lemgo_-_Heilig_Geist_(3).jpg/1920px-Lemgo_-_Heilig_Geist_(3).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lemgo_-_Heilig_Geist_(3).jpg/1920px-Lemgo_-_Heilig_Geist_(3).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5627-0019 in Bastheim"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bastheim, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Bastheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bastheim"
+  - "Bavaria"
 wikidata_id: "Q98167400"
 latitude: 50.391419324
 longitude: 10.225202591
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Archaeological Border complex of Hedeby and the Danevirke"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Rendsburg-Eckernförde"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Group"
 categories:
   - "Group"
 regions:
-  - "Rendsburg-Eckernförde"
+  - "Schleswig-Holstein"
 wikidata_id: "Q55312553"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/400px-Hedebyhouses006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/800px-Hedebyhouses006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/1200px-Hedebyhouses006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/1920px-Hedebyhouses006.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/1920px-Hedebyhouses006.jpg---
 
 ## Overview
 

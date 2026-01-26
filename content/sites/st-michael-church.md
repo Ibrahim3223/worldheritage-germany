@@ -4,13 +4,13 @@ site_name: "St. Michael Church"
 date: 2026-01-26
 draft: false
 description: "German Lutheran church in Detmold"
-region: "Detmold"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Detmold"
+  - "Lower Saxony"
 wikidata_id: "Q1687525"
 latitude: 51.9231
 longitude: 8.85068
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Detmold_-_St._Michael_Hiddesen_(2).jpg/400px-Detmold_-_St._Michael_Hiddesen_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Detmold_-_St._Michael_Hiddesen_(2).jpg/800px-Detmold_-_St._Michael_Hiddesen_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Detmold_-_St._Michael_Hiddesen_(2).jpg/1200px-Detmold_-_St._Michael_Hiddesen_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Detmold_-_St._Michael_Hiddesen_(2).jpg/1920px-Detmold_-_St._Michael_Hiddesen_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Detmold_-_St._Michael_Hiddesen_(2).jpg/1920px-Detmold_-_St._Michael_Hiddesen_(2).jpg---
 
 ## Overview
 

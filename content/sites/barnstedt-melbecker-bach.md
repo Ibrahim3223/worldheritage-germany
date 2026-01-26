@@ -4,13 +4,13 @@ site_name: "Barnstedt-Melbecker Bach"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Betzendorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Betzendorf"
+  - "Lower Saxony"
 wikidata_id: "Q808520"
 latitude: 53.1867
 longitude: 10.4203
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/400px-Barnstedter_Bach_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/800px-Barnstedter_Bach_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/1200px-Barnstedter_Bach_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/1920px-Barnstedter_Bach_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/1920px-Barnstedter_Bach_2.JPG---
 
 ## Overview
 

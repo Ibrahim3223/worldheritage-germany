@@ -4,13 +4,13 @@ site_name: "Maria Regina Martyrum"
 date: 2026-01-26
 draft: false
 description: "catholic church in Berlin, Germany"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1896259"
 latitude: 52.540316666
 longitude: 13.2985
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/400px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/800px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/1200px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/1920px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg/1920px-Berlin-ChbgN_Maria_Regina_Martyrum_asv2022-11_img1.jpg---
 
 ## Overview
 

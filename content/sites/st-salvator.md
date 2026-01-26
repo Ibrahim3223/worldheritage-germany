@@ -4,13 +4,13 @@ site_name: "St. Salvator"
 date: 2026-01-26
 draft: false
 description: "church in Pellworm, Germany"
-region: "Pellworm"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pellworm"
+  - "Schleswig-Holstein"
 wikidata_id: "Q435697"
 latitude: 54.5155
 longitude: 8.59222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/400px-Alte_Kirche_Pellworm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/800px-Alte_Kirche_Pellworm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/1200px-Alte_Kirche_Pellworm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/1920px-Alte_Kirche_Pellworm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/1920px-Alte_Kirche_Pellworm.jpg---
 
 ## Overview
 

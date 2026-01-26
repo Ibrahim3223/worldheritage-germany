@@ -4,13 +4,13 @@ site_name: "Otto-Dix-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Gera, Germany"
-region: "Gera"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Gera"
+  - "Saxony"
 wikidata_id: "Q2037916"
 latitude: 50.8822
 longitude: 12.0642
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/400px-Gera_-_Otto_Dix_Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/800px-Gera_-_Otto_Dix_Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/1200px-Gera_-_Otto_Dix_Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/1920px-Gera_-_Otto_Dix_Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gera_-_Otto_Dix_Haus.jpg/1920px-Gera_-_Otto_Dix_Haus.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Steindeckerbrücke bei Maltitz 75 (am Park)"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Weißenberg"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Weißenberg"
+  - "Saxony"
 wikidata_id: "Q49405777"
 latitude: 51.178845
 longitude: 14.684534
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gangelt Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Gangelt"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Gangelt"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1011908"
 latitude: 50.9921
 longitude: 5.99833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/400px-5981144.Erwin_Quedenfeldt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/800px-5981144.Erwin_Quedenfeldt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/1200px-5981144.Erwin_Quedenfeldt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/1920px-5981144.Erwin_Quedenfeldt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/1920px-5981144.Erwin_Quedenfeldt.jpg---
 
 ## Overview
 

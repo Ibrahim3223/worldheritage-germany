@@ -4,13 +4,13 @@ site_name: "Frankfurt city and regional library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Frankfurt (Oder)"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Frankfurt (Oder)"
+  - "Brandenburg"
 wikidata_id: "Q1540145"
 latitude: 52.3436
 longitude: 14.5539
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/400px-2006-03_Frankfurt_(Oder)_28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/800px-2006-03_Frankfurt_(Oder)_28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/1200px-2006-03_Frankfurt_(Oder)_28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/1920px-2006-03_Frankfurt_(Oder)_28.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/1920px-2006-03_Frankfurt_(Oder)_28.jpg---
 
 ## Overview
 

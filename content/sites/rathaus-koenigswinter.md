@@ -4,13 +4,13 @@ site_name: "Rathaus (Königswinter)"
 date: 2026-01-26
 draft: false
 description: "Gebäudeensemble in Königswinter"
-region: "Königswinter"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Königswinter"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q14541531"
 latitude: 50.6741
 longitude: 7.1936
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/400px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/800px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/1200px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/1920px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/1920px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg---
 
 ## Overview
 

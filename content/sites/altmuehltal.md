@@ -4,13 +4,13 @@ site_name: "Altmühltal"
 date: 2026-01-26
 draft: false
 description: "valley of the Altmühl"
-region: "Middle Franconia"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"
 categories:
   - "Valley"
 regions:
-  - "Middle Franconia"
+  - "Bavaria"
 wikidata_id: "Q897389"
 latitude: 48.9008
 longitude: 11.1707
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/400px-Panorama_altmuehltal6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/800px-Panorama_altmuehltal6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1200px-Panorama_altmuehltal6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1920px-Panorama_altmuehltal6.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1920px-Panorama_altmuehltal6.jpg---
 
 ## Overview
 

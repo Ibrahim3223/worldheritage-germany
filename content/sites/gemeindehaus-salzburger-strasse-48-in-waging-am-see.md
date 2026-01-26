@@ -4,19 +4,18 @@ site_name: "Gemeindehaus Salzburger Straße 48 in Waging am See"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-89-162-109 (1) in Waging am See, Bavaria"
-region: "Waging am See"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Waging am See"
+  - "Bavaria"
 wikidata_id: "Q98752196"
 latitude: 47.933774865
 longitude: 12.741527804
 images:
-  []
----
+  []---
 
 ## Overview
 

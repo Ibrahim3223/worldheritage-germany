@@ -4,19 +4,18 @@ site_name: "Einbogenbrücke über die Pließnitz und parallel zum Bach verlaufen
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Bernstadt auf dem Eigen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Bernstadt auf dem Eigen"
+  - "Saxony"
 wikidata_id: "Q49430330"
 latitude: 51.050007
 longitude: 14.841162
 images:
-  []
----
+  []---
 
 ## Overview
 

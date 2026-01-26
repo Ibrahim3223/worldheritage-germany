@@ -4,13 +4,13 @@ site_name: "Freilichtmuseum Erlichthof"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Rietschen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rietschen"
+  - "Brandenburg"
 wikidata_id: "Q49417854"
 latitude: 51.403826
 longitude: 14.787119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Erlichthof_Rietschen_(Mocholz_Nr._31).jpg/400px-Erlichthof_Rietschen_(Mocholz_Nr._31).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Erlichthof_Rietschen_(Mocholz_Nr._31).jpg/800px-Erlichthof_Rietschen_(Mocholz_Nr._31).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Erlichthof_Rietschen_(Mocholz_Nr._31).jpg/1200px-Erlichthof_Rietschen_(Mocholz_Nr._31).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Erlichthof_Rietschen_(Mocholz_Nr._31).jpg/1920px-Erlichthof_Rietschen_(Mocholz_Nr._31).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Erlichthof_Rietschen_(Mocholz_Nr._31).jpg/1920px-Erlichthof_Rietschen_(Mocholz_Nr._31).jpg---
 
 ## Overview
 

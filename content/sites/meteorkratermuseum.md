@@ -4,13 +4,13 @@ site_name: "Meteorkratermuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Steinheim am Albuch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Steinheim am Albuch"
+  - "Baden-Württemberg"
 wikidata_id: "Q1700293"
 latitude: 48.6787
 longitude: 10.0705
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meteorkratermuseum_Steinheim_am_Albuch.jpg/400px-Meteorkratermuseum_Steinheim_am_Albuch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meteorkratermuseum_Steinheim_am_Albuch.jpg/800px-Meteorkratermuseum_Steinheim_am_Albuch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meteorkratermuseum_Steinheim_am_Albuch.jpg/1200px-Meteorkratermuseum_Steinheim_am_Albuch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meteorkratermuseum_Steinheim_am_Albuch.jpg/1920px-Meteorkratermuseum_Steinheim_am_Albuch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meteorkratermuseum_Steinheim_am_Albuch.jpg/1920px-Meteorkratermuseum_Steinheim_am_Albuch.jpg---
 
 ## Overview
 

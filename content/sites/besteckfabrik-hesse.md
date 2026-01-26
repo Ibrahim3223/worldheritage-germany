@@ -4,13 +4,13 @@ site_name: "Besteckfabrik Hesse"
 date: 2026-01-26
 draft: false
 description: "ehemalige Besteckfabrik in Schmallenberg-Fleckenberg"
-region: "Schmallenberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Schmallenberg"
+  - "Hesse"
 wikidata_id: "Q830470"
 latitude: 51.1377
 longitude: 8.26098
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/400px-Besteckmuseum_Fleckenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/800px-Besteckmuseum_Fleckenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/1200px-Besteckmuseum_Fleckenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/1920px-Besteckmuseum_Fleckenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/1920px-Besteckmuseum_Fleckenberg.jpg---
 
 ## Overview
 

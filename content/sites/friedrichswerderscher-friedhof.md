@@ -4,13 +4,13 @@ site_name: "Friedrichswerderscher Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q1298781"
 latitude: 52.486388888
 longitude: 13.403888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/400px-2009-04-09_Berlin_652.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/800px-2009-04-09_Berlin_652.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/1200px-2009-04-09_Berlin_652.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/1920px-2009-04-09_Berlin_652.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/1920px-2009-04-09_Berlin_652.jpg---
 
 ## Overview
 

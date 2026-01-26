@@ -4,13 +4,13 @@ site_name: "Neuendorf Flèche"
 date: 2026-01-26
 draft: false
 description: "was built in 1825 as the part of Emperor Franz Fortifications"
-region: "Rhineland-Palatinate"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Rhineland-Palatinate"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1979996"
 latitude: 50.3746
 longitude: 7.59744
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Neuendorfer_Flesche_03_Koblenz_2012.jpg/400px-Neuendorfer_Flesche_03_Koblenz_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Neuendorfer_Flesche_03_Koblenz_2012.jpg/800px-Neuendorfer_Flesche_03_Koblenz_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Neuendorfer_Flesche_03_Koblenz_2012.jpg/1200px-Neuendorfer_Flesche_03_Koblenz_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Neuendorfer_Flesche_03_Koblenz_2012.jpg/1920px-Neuendorfer_Flesche_03_Koblenz_2012.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Neuendorfer_Flesche_03_Koblenz_2012.jpg/1920px-Neuendorfer_Flesche_03_Koblenz_2012.jpg---
 
 ## Overview
 

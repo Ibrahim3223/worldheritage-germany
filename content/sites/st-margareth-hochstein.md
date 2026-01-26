@@ -4,13 +4,13 @@ site_name: "St. Margareth (Hochstein)"
 date: 2026-01-26
 draft: false
 description: "Hochstein"
-region: "Bissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bissingen"
+  - "Bavaria"
 wikidata_id: "Q1587081"
 latitude: 48.7177
 longitude: 10.5942
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/400px-Burgstall_Hochstein_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/800px-Burgstall_Hochstein_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/1200px-Burgstall_Hochstein_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/1920px-Burgstall_Hochstein_Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/1920px-Burgstall_Hochstein_Kapelle.jpg---
 
 ## Overview
 

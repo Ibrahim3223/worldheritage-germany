@@ -4,13 +4,13 @@ site_name: "Saint Clemens church"
 date: 2026-01-26
 draft: false
 description: "church on Amrum"
-region: "Nebel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Nebel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q20534"
 latitude: 54.653
 longitude: 8.35603
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/400px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/800px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/1200px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/1920px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/1920px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg---
 
 ## Overview
 

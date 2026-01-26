@@ -4,13 +4,13 @@ site_name: "Derenmoor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Bokensdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Bokensdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1200153"
 latitude: 52.5089
 longitude: 10.6881
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/400px-Erlenbruch_derenmoor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/800px-Erlenbruch_derenmoor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/1200px-Erlenbruch_derenmoor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/1920px-Erlenbruch_derenmoor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/1920px-Erlenbruch_derenmoor.jpg---
 
 ## Overview
 

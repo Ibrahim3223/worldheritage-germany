@@ -4,13 +4,13 @@ site_name: "Süwag Energie Arena"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in the Hessian city of Frankfurt am Main"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q384017"
 latitude: 50.101223
 longitude: 8.527231
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ballsporthalle1.jpg/400px-Ballsporthalle1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ballsporthalle1.jpg/800px-Ballsporthalle1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ballsporthalle1.jpg/1200px-Ballsporthalle1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ballsporthalle1.jpg/1920px-Ballsporthalle1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ballsporthalle1.jpg/1920px-Ballsporthalle1.jpg---
 
 ## Overview
 

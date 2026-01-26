@@ -4,13 +4,13 @@ site_name: "Alt-Segeberger Bürgerhaus"
 date: 2026-01-26
 draft: false
 description: "house in Bad Segeberg, Germany"
-region: "Bad Segeberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Segeberg"
+  - "Lower Saxony"
 wikidata_id: "Q432989"
 latitude: 53.9364
 longitude: 10.314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/400px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/800px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/1200px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/1920px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/1920px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg---
 
 ## Overview
 

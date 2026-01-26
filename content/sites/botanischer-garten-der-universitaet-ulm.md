@@ -4,13 +4,13 @@ site_name: "Botanischer Garten der Universität Ulm"
 date: 2026-01-26
 draft: false
 description: "botanical garden"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q870486"
 latitude: 48.4194
 longitude: 9.96667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/400px-Tagliliengarten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/800px-Tagliliengarten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1200px-Tagliliengarten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1920px-Tagliliengarten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1920px-Tagliliengarten.JPG---
 
 ## Overview
 

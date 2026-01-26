@@ -4,13 +4,13 @@ site_name: "Church in Wustrow"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Wustrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wustrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1742762"
 latitude: 54.344833333
 longitude: 12.396694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/400px-Wustrow_Kirche_0.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/800px-Wustrow_Kirche_0.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1200px-Wustrow_Kirche_0.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1920px-Wustrow_Kirche_0.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1920px-Wustrow_Kirche_0.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Otto"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Steglitz-Zehlendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steglitz-Zehlendorf"
+  - "Berlin"
 wikidata_id: "Q11722076"
 latitude: 52.4201
 longitude: 13.2626
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/400px-St._Otto_(Berlin-Zehlendorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/800px-St._Otto_(Berlin-Zehlendorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/1200px-St._Otto_(Berlin-Zehlendorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/1920px-St._Otto_(Berlin-Zehlendorf).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/1920px-St._Otto_(Berlin-Zehlendorf).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Lübeck synagogue"
 date: 2026-01-26
 draft: false
 description: "synagogue"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1494883"
 latitude: 53.863
 longitude: 10.6896
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Die_Synagoge_in_Lübeck_2021.jpg/400px-Die_Synagoge_in_Lübeck_2021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Die_Synagoge_in_Lübeck_2021.jpg/800px-Die_Synagoge_in_Lübeck_2021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Die_Synagoge_in_Lübeck_2021.jpg/1200px-Die_Synagoge_in_Lübeck_2021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Die_Synagoge_in_Lübeck_2021.jpg/1920px-Die_Synagoge_in_Lübeck_2021.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Die_Synagoge_in_Lübeck_2021.jpg/1920px-Die_Synagoge_in_Lübeck_2021.jpg---
 
 ## Overview
 

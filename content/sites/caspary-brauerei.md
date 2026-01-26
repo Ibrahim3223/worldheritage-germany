@@ -4,19 +4,18 @@ site_name: "Caspary-Brauerei"
 date: 2026-01-26
 draft: false
 description: "Bierbrauerei in Trier"
-region: "Germany"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Germany"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1048121"
 latitude: 49.743008
 longitude: 6.639283
 images:
-  []
----
+  []---
 
 ## Overview
 

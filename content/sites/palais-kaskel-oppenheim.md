@@ -4,13 +4,13 @@ site_name: "Palais Kaskel-Oppenheim"
 date: 2026-01-26
 draft: false
 description: "Palast in Deutschland"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2047025"
 latitude: 51.0447
 longitude: 13.7419
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg/400px-Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg/800px-Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg/1200px-Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg/1920px-Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg/1920px-Dresden_Palais_Kaskel-Oppenheim,_Außenfassade_-_Löffler_S._400,_Bildnr._493_um_1900.jpg---
 
 ## Overview
 

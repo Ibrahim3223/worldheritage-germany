@@ -4,19 +4,18 @@ site_name: "Gerhart-Hauptmann-Gedenkstein"
 date: 2026-01-26
 draft: false
 description: "memorial in Radebeul, Germany"
-region: "Radebeul"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Radebeul"
+  - "Saxony"
 wikidata_id: "Q1427281"
 latitude: 51.1201
 longitude: 13.6039
 images:
-  []
----
+  []---
 
 ## Overview
 

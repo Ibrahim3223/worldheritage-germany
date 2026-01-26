@@ -4,13 +4,13 @@ site_name: "Saint Anne Chapel"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Husen"
-region: "Lichtenau"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Lichtenau"
+  - "Hesse"
 wikidata_id: "Q1723613"
 latitude: 51.5809
 longitude: 8.87222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/400px-Amerunger_Kapelle_von_Südosten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/800px-Amerunger_Kapelle_von_Südosten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/1200px-Amerunger_Kapelle_von_Südosten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/1920px-Amerunger_Kapelle_von_Südosten.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/1920px-Amerunger_Kapelle_von_Südosten.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Theresia vom Kinde Jesu"
 date: 2026-01-26
 draft: false
 description: "church in Düsseldorf-Garath, Germany"
-region: "Garath"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Garath"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2323355"
 latitude: 51.1499
 longitude: 6.89791
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/400px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/800px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/1200px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/1920px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/1920px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg---
 
 ## Overview
 

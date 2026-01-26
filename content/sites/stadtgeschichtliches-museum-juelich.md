@@ -4,13 +4,13 @@ site_name: "Stadtgeschichtliches Museum Jülich"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Jülich"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Jülich"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2327170"
 latitude: 50.921
 longitude: 6.35599
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/400px-Hexenturm_Jülich-DSC_0004w.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/800px-Hexenturm_Jülich-DSC_0004w.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1200px-Hexenturm_Jülich-DSC_0004w.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1920px-Hexenturm_Jülich-DSC_0004w.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1920px-Hexenturm_Jülich-DSC_0004w.jpg---
 
 ## Overview
 

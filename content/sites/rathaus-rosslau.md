@@ -4,13 +4,13 @@ site_name: "Rathaus Roßlau"
 date: 2026-01-26
 draft: false
 description: "building in Dessau-Roßlau, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q59296781"
 latitude: 51.887194444
 longitude: 12.249916666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/RoßlauElbe_Rathaus_asv2023-05_img2.jpg/400px-RoßlauElbe_Rathaus_asv2023-05_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/RoßlauElbe_Rathaus_asv2023-05_img2.jpg/800px-RoßlauElbe_Rathaus_asv2023-05_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/RoßlauElbe_Rathaus_asv2023-05_img2.jpg/1200px-RoßlauElbe_Rathaus_asv2023-05_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/RoßlauElbe_Rathaus_asv2023-05_img2.jpg/1920px-RoßlauElbe_Rathaus_asv2023-05_img2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/RoßlauElbe_Rathaus_asv2023-05_img2.jpg/1920px-RoßlauElbe_Rathaus_asv2023-05_img2.jpg---
 
 ## Overview
 

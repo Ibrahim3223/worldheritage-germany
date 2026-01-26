@@ -4,19 +4,18 @@ site_name: "Schiffahrtsmuseum Heinsen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heinsen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heinsen"
+  - "Lower Saxony"
 wikidata_id: "Q76636195"
 latitude: 51.884226
 longitude: 9.441528
 images:
-  []
----
+  []---
 
 ## Overview
 

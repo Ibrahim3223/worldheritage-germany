@@ -4,13 +4,13 @@ site_name: "Village church Pinnow (Hohen Neuendorf)"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Hohen Neuendorf"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hohen Neuendorf"
+  - "Brandenburg"
 wikidata_id: "Q1244614"
 latitude: 52.7039
 longitude: 13.2477
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/400px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/800px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/1200px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/1920px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/1920px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg---
 
 ## Overview
 

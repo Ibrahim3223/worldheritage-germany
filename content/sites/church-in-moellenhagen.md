@@ -4,13 +4,13 @@ site_name: "Church in Möllenhagen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Möllenhagen"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Möllenhagen"
+  - "Brandenburg"
 wikidata_id: "Q1380833"
 latitude: 53.5254
 longitude: 12.9314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/400px-Möllenhagen_Kirche_2010-09-03_032.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/800px-Möllenhagen_Kirche_2010-09-03_032.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1200px-Möllenhagen_Kirche_2010-09-03_032.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1920px-Möllenhagen_Kirche_2010-09-03_032.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1920px-Möllenhagen_Kirche_2010-09-03_032.JPG---
 
 ## Overview 
 

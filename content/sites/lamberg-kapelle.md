@@ -4,13 +4,13 @@ site_name: "Lamberg-Kapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Passau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Passau"
+  - "Bavaria"
 wikidata_id: "Q1390672"
 latitude: 48.5746
 longitude: 13.4651
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/400px-Fresko_Lamberg-Kapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/800px-Fresko_Lamberg-Kapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/1200px-Fresko_Lamberg-Kapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/1920px-Fresko_Lamberg-Kapelle.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/1920px-Fresko_Lamberg-Kapelle.JPG---
 
 ## Overview
 

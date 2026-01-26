@@ -4,13 +4,13 @@ site_name: "Elztalmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Waldkirch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Waldkirch"
+  - "Baden-Württemberg"
 wikidata_id: "Q15055976"
 latitude: 48.09086
 longitude: 7.96279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/400px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/800px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1200px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1920px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1920px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG---
 
 ## Overview
 

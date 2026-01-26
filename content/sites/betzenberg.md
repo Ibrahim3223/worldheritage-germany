@@ -4,19 +4,18 @@ site_name: "Betzenberg"
 date: 2026-01-26
 draft: false
 description: "mountain in Kaiserslautern, Germany"
-region: "Kaiserslautern"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Kaiserslautern"
+  - "Baden-Württemberg"
 wikidata_id: "Q22735"
 latitude: 49.43319406
 longitude: 7.79042244
 images:
-  []
----
+  []---
 
 ## Overview
 

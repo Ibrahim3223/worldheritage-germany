@@ -4,13 +4,13 @@ site_name: "Söflingen Abbey"
 date: 2026-01-26
 draft: false
 description: "church building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Ulm"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Ulm"
+  - "Baden-Württemberg"
 wikidata_id: "Q473468"
 latitude: 48.3977
 longitude: 9.95339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Soeflingen_Abbey,_mural.JPG/400px-Soeflingen_Abbey,_mural.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Soeflingen_Abbey,_mural.JPG/800px-Soeflingen_Abbey,_mural.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Soeflingen_Abbey,_mural.JPG/1200px-Soeflingen_Abbey,_mural.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Soeflingen_Abbey,_mural.JPG/1920px-Soeflingen_Abbey,_mural.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Soeflingen_Abbey,_mural.JPG/1920px-Soeflingen_Abbey,_mural.JPG---
 
 ## Overview
 

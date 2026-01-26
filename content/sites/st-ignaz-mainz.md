@@ -4,13 +4,13 @@ site_name: "St. Ignaz (Mainz)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mainz"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mainz"
+  - "Hesse"
 wikidata_id: "Q879179"
 latitude: 49.9958
 longitude: 8.27806
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/400px-Ignazkirchenfassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/800px-Ignazkirchenfassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/1200px-Ignazkirchenfassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/1920px-Ignazkirchenfassade.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/1920px-Ignazkirchenfassade.jpg---
 
 ## Overview
 

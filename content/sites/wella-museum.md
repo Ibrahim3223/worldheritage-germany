@@ -4,19 +4,18 @@ site_name: "Wella Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q2557563"
 latitude: 49.8647
 longitude: 8.63588
 images:
-  []
----
+  []---
 
 ## Overview
 

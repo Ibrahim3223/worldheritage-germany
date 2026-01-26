@@ -4,13 +4,13 @@ site_name: "Hessian State Museum Darmstadt"
 date: 2026-01-26
 draft: false
 description: "German museum (1820-)"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q452362"
 latitude: 49.874752721
 longitude: 8.653534752
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG/400px-Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG/800px-Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG/1200px-Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG/1920px-Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG/1920px-Darmstadt_Friedensplatz_1_Hessisches_Landesmuseum_001.JPG---
 
 ## Overview
 

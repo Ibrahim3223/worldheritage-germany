@@ -4,13 +4,13 @@ site_name: "Mausoleum Schramm"
 date: 2026-01-26
 draft: false
 description: "Mausoleum in Reinbek, Schleswig-Holstein"
-region: "Reinbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Reinbek"
+  - "Hamburg"
 wikidata_id: "Q129081589"
 latitude: 53.513389
 longitude: 10.244278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reinbek,_Germany_-_panoramio_(25).jpg/400px-Reinbek,_Germany_-_panoramio_(25).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reinbek,_Germany_-_panoramio_(25).jpg/800px-Reinbek,_Germany_-_panoramio_(25).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reinbek,_Germany_-_panoramio_(25).jpg/1200px-Reinbek,_Germany_-_panoramio_(25).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reinbek,_Germany_-_panoramio_(25).jpg/1920px-Reinbek,_Germany_-_panoramio_(25).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Reinbek,_Germany_-_panoramio_(25).jpg/1920px-Reinbek,_Germany_-_panoramio_(25).jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kapellenkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Rottweil, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Rottweil"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Rottweil"
+  - "Baden-Württemberg"
 wikidata_id: "Q1728499"
 latitude: 48.1676
 longitude: 8.62793
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/400px-Rottweil_kapellenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/800px-Rottweil_kapellenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/1200px-Rottweil_kapellenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/1920px-Rottweil_kapellenkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/1920px-Rottweil_kapellenkirche.jpg---
 
 ## Overview
 

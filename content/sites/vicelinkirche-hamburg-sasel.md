@@ -4,13 +4,13 @@ site_name: "Vicelinkirche (Hamburg-Sasel)"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg, Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q2521891"
 latitude: 53.65391667
 longitude: 10.11302778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vicelinkirche,_Am_Markt_8.jpg/400px-Vicelinkirche,_Am_Markt_8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vicelinkirche,_Am_Markt_8.jpg/800px-Vicelinkirche,_Am_Markt_8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vicelinkirche,_Am_Markt_8.jpg/1200px-Vicelinkirche,_Am_Markt_8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vicelinkirche,_Am_Markt_8.jpg/1920px-Vicelinkirche,_Am_Markt_8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vicelinkirche,_Am_Markt_8.jpg/1920px-Vicelinkirche,_Am_Markt_8.jpg---
 
 ## Overview
 

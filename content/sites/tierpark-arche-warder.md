@@ -4,13 +4,13 @@ site_name: "Tierpark Arche Warder"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Rendsburg-Eckernförde"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Rendsburg-Eckernförde"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2432273"
 latitude: 54.21527778
 longitude: 9.90777778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/400px-Matthias_Suessen_Kiel-6399.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/800px-Matthias_Suessen_Kiel-6399.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/1200px-Matthias_Suessen_Kiel-6399.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/1920px-Matthias_Suessen_Kiel-6399.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/1920px-Matthias_Suessen_Kiel-6399.jpg---
 
 ## Overview
 

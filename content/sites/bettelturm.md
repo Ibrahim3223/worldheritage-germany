@@ -4,13 +4,13 @@ site_name: "Bettelturm"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q832323"
 latitude: 47.9878
 longitude: 10.1811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bettelturm_Memmingen.jpg/400px-Bettelturm_Memmingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bettelturm_Memmingen.jpg/800px-Bettelturm_Memmingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bettelturm_Memmingen.jpg/1200px-Bettelturm_Memmingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bettelturm_Memmingen.jpg/1920px-Bettelturm_Memmingen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bettelturm_Memmingen.jpg/1920px-Bettelturm_Memmingen.jpg---
 
 ## Overview
 

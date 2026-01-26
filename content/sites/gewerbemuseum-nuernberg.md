@@ -4,13 +4,13 @@ site_name: "Gewerbemuseum Nürnberg"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1520447"
 latitude: 49.451458826
 longitude: 11.083333306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/400px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/800px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1200px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1920px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1920px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg---
 
 ## Overview
 

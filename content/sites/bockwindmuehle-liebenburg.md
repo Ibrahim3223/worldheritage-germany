@@ -4,19 +4,18 @@ site_name: "Bockwindmühle Liebenburg"
 date: 2026-01-26
 draft: false
 description: "durch Brand zerstörte Bockwindmühle im Landkreis Goslar"
-region: "Liebenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Liebenburg"
+  - "Lower Saxony"
 wikidata_id: "Q889314"
 latitude: 52.0287
 longitude: 10.4464
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Hanau West"
 date: 2026-01-26
 draft: false
 description: "railway halt in Hanau, Germany"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q319966"
 latitude: 50.131836
 longitude: 8.909034
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/400px-Bf_HU_West1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/800px-Bf_HU_West1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/1200px-Bf_HU_West1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/1920px-Bf_HU_West1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/1920px-Bf_HU_West1.jpg---
 
 ## Overview
 

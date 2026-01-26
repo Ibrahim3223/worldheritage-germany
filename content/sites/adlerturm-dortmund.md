@@ -4,13 +4,13 @@ site_name: "Adlerturm Dortmund"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q358498"
 latitude: 51.5103
 longitude: 7.46935
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/400px-Museum-adlerturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/800px-Museum-adlerturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1200px-Museum-adlerturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1920px-Museum-adlerturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1920px-Museum-adlerturm.jpg---
 
 ## Overview
 

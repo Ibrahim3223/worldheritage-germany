@@ -4,13 +4,13 @@ site_name: "Bennerstedt"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Scharnebeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Scharnebeck"
+  - "Lower Saxony"
 wikidata_id: "Q817836"
 latitude: 53.3225
 longitude: 10.4797
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/400px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/800px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/1200px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/1920px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/1920px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burgmal"
 date: 2026-01-26
 draft: false
 description: "heritage site"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q1015129"
 latitude: 49.1258
 longitude: 9.25028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hn-burgmal-06-2012-b1.jpg/400px-Hn-burgmal-06-2012-b1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hn-burgmal-06-2012-b1.jpg/800px-Hn-burgmal-06-2012-b1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hn-burgmal-06-2012-b1.jpg/1200px-Hn-burgmal-06-2012-b1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hn-burgmal-06-2012-b1.jpg/1920px-Hn-burgmal-06-2012-b1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hn-burgmal-06-2012-b1.jpg/1920px-Hn-burgmal-06-2012-b1.jpg---
 
 ## Overview
 

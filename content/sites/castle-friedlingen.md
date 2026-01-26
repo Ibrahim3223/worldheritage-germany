@@ -4,13 +4,13 @@ site_name: "Castle Friedlingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Weil am Rhein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Weil am Rhein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1011867"
 latitude: 47.59666667
 longitude: 7.60638889
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/400px-Schloss_Friedlingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/800px-Schloss_Friedlingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/1200px-Schloss_Friedlingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/1920px-Schloss_Friedlingen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/1920px-Schloss_Friedlingen.JPG---
 
 ## Overview
 

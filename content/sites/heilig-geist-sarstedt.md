@@ -4,13 +4,13 @@ site_name: "Heilig Geist (Sarstedt)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Sarstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Sarstedt"
+  - "Lower Saxony"
 wikidata_id: "Q1594998"
 latitude: 52.23557
 longitude: 9.84898
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/400px-Sarstedt_Heilig-Geist_Portalseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/800px-Sarstedt_Heilig-Geist_Portalseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1200px-Sarstedt_Heilig-Geist_Portalseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1920px-Sarstedt_Heilig-Geist_Portalseite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1920px-Sarstedt_Heilig-Geist_Portalseite.jpg---
 
 ## Overview
 

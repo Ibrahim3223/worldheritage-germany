@@ -4,13 +4,13 @@ site_name: "St. Clara"
 date: 2026-01-26
 draft: false
 description: "church building in Dortmund, Germany"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q2348824"
 latitude: 51.4886
 longitude: 7.50346
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hoerde_Stiftskirche_IMGP6943_wp.jpg/400px-Hoerde_Stiftskirche_IMGP6943_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hoerde_Stiftskirche_IMGP6943_wp.jpg/800px-Hoerde_Stiftskirche_IMGP6943_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hoerde_Stiftskirche_IMGP6943_wp.jpg/1200px-Hoerde_Stiftskirche_IMGP6943_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hoerde_Stiftskirche_IMGP6943_wp.jpg/1920px-Hoerde_Stiftskirche_IMGP6943_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hoerde_Stiftskirche_IMGP6943_wp.jpg/1920px-Hoerde_Stiftskirche_IMGP6943_wp.jpg---
 
 ## Overview
 

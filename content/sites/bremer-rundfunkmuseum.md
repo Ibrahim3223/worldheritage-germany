@@ -4,13 +4,13 @@ site_name: "Bremer Rundfunkmuseum"
 date: 2026-01-26
 draft: false
 description: "radio museum in Bremen, Germany"
-region: "Findorff"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Findorff"
+  - "Bremen"
 wikidata_id: "Q907818"
 latitude: 53.0884
 longitude: 8.80657
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rundfunkgeräte_1930er_Jahre.jpg/400px-Rundfunkgeräte_1930er_Jahre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rundfunkgeräte_1930er_Jahre.jpg/800px-Rundfunkgeräte_1930er_Jahre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rundfunkgeräte_1930er_Jahre.jpg/1200px-Rundfunkgeräte_1930er_Jahre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rundfunkgeräte_1930er_Jahre.jpg/1920px-Rundfunkgeräte_1930er_Jahre.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rundfunkgeräte_1930er_Jahre.jpg/1920px-Rundfunkgeräte_1930er_Jahre.jpg---
 
 ## Overview
 

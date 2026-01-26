@@ -4,13 +4,13 @@ site_name: "Feuerbach House"
 date: 2026-01-26
 draft: false
 description: "museum in Speyer, Rhineland-Palatinate, Germany (1971-)"
-region: "Speyer"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Speyer"
+  - "Baden-Württemberg"
 wikidata_id: "Q22616"
 latitude: 49.3146
 longitude: 8.43567
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerbachhaus_in_Speyer.jpg/400px-Feuerbachhaus_in_Speyer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerbachhaus_in_Speyer.jpg/800px-Feuerbachhaus_in_Speyer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerbachhaus_in_Speyer.jpg/1200px-Feuerbachhaus_in_Speyer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerbachhaus_in_Speyer.jpg/1920px-Feuerbachhaus_in_Speyer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Feuerbachhaus_in_Speyer.jpg/1920px-Feuerbachhaus_in_Speyer.jpg---
 
 ## Overview
 

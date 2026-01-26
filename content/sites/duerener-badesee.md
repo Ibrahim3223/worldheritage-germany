@@ -4,13 +4,13 @@ site_name: "Dürener Badesee"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Düren"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Düren"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1272005"
 latitude: 50.8044
 longitude: 6.44028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/400px-Duerener-Badesee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/800px-Duerener-Badesee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/1200px-Duerener-Badesee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/1920px-Duerener-Badesee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/1920px-Duerener-Badesee.jpg---
 
 ## Overview
 

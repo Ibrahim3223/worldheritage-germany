@@ -4,13 +4,13 @@ site_name: "Marchtal Abbey"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Obermarchtal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Obermarchtal"
+  - "Baden-Württemberg"
 wikidata_id: "Q479423"
 latitude: 48.2365
 longitude: 9.57097
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/400px-Klosterkirche-obermarchtal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/800px-Klosterkirche-obermarchtal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/1200px-Klosterkirche-obermarchtal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/1920px-Klosterkirche-obermarchtal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/1920px-Klosterkirche-obermarchtal.jpg---
 
 ## Overview
 

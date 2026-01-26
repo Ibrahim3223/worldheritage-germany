@@ -4,19 +4,18 @@ site_name: "Psychiatriemuseum im ZfP Reichenau"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q32469498"
 latitude: 47.69472
 longitude: 9.12368
 images:
-  []
----
+  []---
 
 ## Overview
 

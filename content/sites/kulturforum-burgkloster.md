@@ -4,13 +4,13 @@ site_name: "Kulturforum Burgkloster"
 date: 2026-01-26
 draft: false
 description: "museum and former monastery in Germany"
-region: "Lübeck's Old City"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lübeck's Old City"
+  - "Lower Saxony"
 wikidata_id: "Q1015115"
 latitude: 53.8735
 longitude: 10.6893
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/400px-IMG_0503_Burg_Gewölbesaal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/800px-IMG_0503_Burg_Gewölbesaal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/1200px-IMG_0503_Burg_Gewölbesaal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/1920px-IMG_0503_Burg_Gewölbesaal.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/1920px-IMG_0503_Burg_Gewölbesaal.JPG---
 
 ## Overview
 

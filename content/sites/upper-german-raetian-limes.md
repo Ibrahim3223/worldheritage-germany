@@ -4,13 +4,13 @@ site_name: "Upper German-Raetian Limes"
 date: 2026-01-26
 draft: false
 description: "portion of the Roman limes in Germany"
-region: "Germania Superior"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Germania Superior"
+  - "Baden-Württemberg"
 wikidata_id: "Q17374397"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/400px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/800px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/1200px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/1920px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/1920px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg---
 
 ## Overview
 

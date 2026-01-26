@@ -4,13 +4,13 @@ site_name: "Dorfkirche Woltersdorf"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Biederitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Biederitz"
+  - "Brandenburg"
 wikidata_id: "Q1244833"
 latitude: 52.1563
 longitude: 11.7727
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/400px-WoltersdorfKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/800px-WoltersdorfKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1200px-WoltersdorfKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1920px-WoltersdorfKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1920px-WoltersdorfKirche.jpg---
 
 ## Overview
 

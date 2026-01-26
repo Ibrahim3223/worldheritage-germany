@@ -4,13 +4,13 @@ site_name: "Soerser Haus"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Nordrhein-Westfalen"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q21035135"
 latitude: 50.803611111
 longitude: 6.093611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Soerser_Haus_01.jpg/400px-Soerser_Haus_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Soerser_Haus_01.jpg/800px-Soerser_Haus_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Soerser_Haus_01.jpg/1200px-Soerser_Haus_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Soerser_Haus_01.jpg/1920px-Soerser_Haus_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Soerser_Haus_01.jpg/1920px-Soerser_Haus_01.jpg---
 
 ## Overview
 

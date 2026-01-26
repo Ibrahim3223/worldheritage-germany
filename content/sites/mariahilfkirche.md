@@ -4,13 +4,13 @@ site_name: "Mariahilfkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Munich, Upper Bavaria, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q1896579"
 latitude: 48.1253
 longitude: 11.5836
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mariahilfkirche_Muenchen-02.JPG/400px-Mariahilfkirche_Muenchen-02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mariahilfkirche_Muenchen-02.JPG/800px-Mariahilfkirche_Muenchen-02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mariahilfkirche_Muenchen-02.JPG/1200px-Mariahilfkirche_Muenchen-02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mariahilfkirche_Muenchen-02.JPG/1920px-Mariahilfkirche_Muenchen-02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mariahilfkirche_Muenchen-02.JPG/1920px-Mariahilfkirche_Muenchen-02.JPG---
 
 ## Overview
 

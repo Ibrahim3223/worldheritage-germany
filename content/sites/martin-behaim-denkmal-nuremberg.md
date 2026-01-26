@@ -4,13 +4,13 @@ site_name: "Martin-Behaim-Denkmal (Nuremberg)"
 date: 2026-01-26
 draft: false
 description: "monument in Nuremberg, Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q1800440"
 latitude: 49.4557
 longitude: 11.0804
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/400px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/800px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/1200px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/1920px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/1920px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alpine Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q520455"
 latitude: 48.13519722
 longitude: 11.58902222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/400px-Alpines_Museum_München_neu_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/800px-Alpines_Museum_München_neu_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/1200px-Alpines_Museum_München_neu_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/1920px-Alpines_Museum_München_neu_04.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/1920px-Alpines_Museum_München_neu_04.jpg---
 
 ## Overview
 

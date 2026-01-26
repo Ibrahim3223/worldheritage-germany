@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5726-0056 in Bad Kissingen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bad Kissingen, Bad Kissingen, Lower Franconia, Bavaria, Germany"
-region: "Bad Kissingen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bad Kissingen"
+  - "Bavaria"
 wikidata_id: "Q98160553"
 latitude: 50.200559307
 longitude: 10.076276824
 images:
-  []
----
+  []---
 
 ## Overview
 

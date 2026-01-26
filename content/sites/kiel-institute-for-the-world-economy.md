@@ -4,13 +4,13 @@ site_name: "Kiel Institute for the World Economy"
 date: 2026-01-26
 draft: false
 description: "academic publisher"
-region: "Kiel"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Kiel"
+  - "Schleswig-Holstein"
 wikidata_id: "Q1665030"
 latitude: 54.338872222
 longitude: 10.156222222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/IfW-Kiel.jpg/400px-IfW-Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/IfW-Kiel.jpg/800px-IfW-Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/IfW-Kiel.jpg/1200px-IfW-Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/IfW-Kiel.jpg/1920px-IfW-Kiel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/IfW-Kiel.jpg/1920px-IfW-Kiel.jpg---
 
 ## Overview
 

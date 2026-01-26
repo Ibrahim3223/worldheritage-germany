@@ -4,19 +4,18 @@ site_name: "Abgebrochenes Kirchengebäude in Eisenach"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q320209"
 latitude: 50.97277
 longitude: 10.30111
 images:
-  []
----
+  []---
 
 ## Overview
 

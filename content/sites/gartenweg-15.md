@@ -4,19 +4,18 @@ site_name: "Gartenweg 15"
 date: 2026-01-26
 draft: false
 description: "house in Niedercunnersdorf"
-region: "Kottmar"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Kottmar"
+  - "Saxony"
 wikidata_id: "Q49436220"
 latitude: 51.054644
 longitude: 14.658997
 images:
-  []
----
+  []---
 
 ## Overview
 

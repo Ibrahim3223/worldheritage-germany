@@ -4,13 +4,13 @@ site_name: "Bruchwald bei Ehrenburg"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Ehrenburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Ehrenburg"
+  - "Lower Saxony"
 wikidata_id: "Q992052"
 latitude: 52.7528
 longitude: 8.69694
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foto_in_den_Bruchwald_-_NSG_HA_122.jpg/400px-Foto_in_den_Bruchwald_-_NSG_HA_122.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foto_in_den_Bruchwald_-_NSG_HA_122.jpg/800px-Foto_in_den_Bruchwald_-_NSG_HA_122.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foto_in_den_Bruchwald_-_NSG_HA_122.jpg/1200px-Foto_in_den_Bruchwald_-_NSG_HA_122.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foto_in_den_Bruchwald_-_NSG_HA_122.jpg/1920px-Foto_in_den_Bruchwald_-_NSG_HA_122.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Foto_in_den_Bruchwald_-_NSG_HA_122.jpg/1920px-Foto_in_den_Bruchwald_-_NSG_HA_122.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Alte Synagoge (Hanau)"
 date: 2026-01-26
 draft: false
 description: "nicht erhaltene Synagoge in Hanau"
-region: "Hanau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Hanau"
+  - "Bavaria"
 wikidata_id: "Q436293"
 latitude: 50.1362
 longitude: 8.92043
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/400px-Synagogengedenkstein_Hanau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/800px-Synagogengedenkstein_Hanau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/1200px-Synagogengedenkstein_Hanau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/1920px-Synagogengedenkstein_Hanau.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/1920px-Synagogengedenkstein_Hanau.jpg---
 
 ## Overview
 

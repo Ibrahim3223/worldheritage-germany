@@ -4,13 +4,13 @@ site_name: "Bielefelder Kunstverein"
 date: 2026-01-26
 draft: false
 description: "nonprofit organization"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q857335"
 latitude: 52.0191
 longitude: 8.52814
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/400px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/800px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/1200px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/1920px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/1920px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg---
 
 ## Overview
 

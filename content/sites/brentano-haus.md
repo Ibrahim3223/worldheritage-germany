@@ -4,19 +4,18 @@ site_name: "Brentano-Haus"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Oestrich-Winkel"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Oestrich-Winkel"
+  - "Hesse"
 wikidata_id: "Q76634136"
 latitude: 49.995572
 longitude: 8.001577
 images:
-  []
----
+  []---
 
 ## Overview
 

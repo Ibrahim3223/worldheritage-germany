@@ -4,13 +4,13 @@ site_name: "Bagband Church"
 date: 2026-01-26
 draft: false
 description: "church building in Grossefehn, Germany"
-region: "Großefehn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Großefehn"
+  - "Lower Saxony"
 wikidata_id: "Q799855"
 latitude: 53.350012
 longitude: 7.6089298
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/400px-Kirche_Pleishof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/800px-Kirche_Pleishof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/1200px-Kirche_Pleishof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/1920px-Kirche_Pleishof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/1920px-Kirche_Pleishof.jpg---
 
 ## Overview
 

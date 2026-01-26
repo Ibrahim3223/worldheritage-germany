@@ -4,13 +4,13 @@ site_name: "Burgwall Hühnerwinkel"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Löcknitz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Löcknitz"
+  - "Brandenburg"
 wikidata_id: "Q1016174"
 latitude: 53.475
 longitude: 14.2547
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg/400px-Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg/800px-Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg/1200px-Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg/1920px-Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg/1920px-Burgwall-Hühnerwinkel-Hauptburg-19-03-2010_379.jpg---
 
 ## Overview
 

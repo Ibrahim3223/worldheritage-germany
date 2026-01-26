@@ -4,13 +4,13 @@ site_name: "St. Lamberti, Hildesheim"
 date: 2026-01-26
 draft: false
 description: "church building in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q2320002"
 latitude: 52.1474
 longitude: 9.95473
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/400px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/800px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/1200px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/1920px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/1920px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg---
 
 ## Overview
 

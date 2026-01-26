@@ -4,13 +4,13 @@ site_name: "Museum Abtei Liesborn"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Wadersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wadersloh"
+  - "Lower Saxony"
 wikidata_id: "Q1954398"
 latitude: 51.7128
 longitude: 8.25861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Abtei_Liesborn_Wappen_2009.JPG/400px-Abtei_Liesborn_Wappen_2009.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Abtei_Liesborn_Wappen_2009.JPG/800px-Abtei_Liesborn_Wappen_2009.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Abtei_Liesborn_Wappen_2009.JPG/1200px-Abtei_Liesborn_Wappen_2009.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Abtei_Liesborn_Wappen_2009.JPG/1920px-Abtei_Liesborn_Wappen_2009.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Abtei_Liesborn_Wappen_2009.JPG/1920px-Abtei_Liesborn_Wappen_2009.JPG---
 
 ## Overview
 

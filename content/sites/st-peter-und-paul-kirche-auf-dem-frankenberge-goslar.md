@@ -4,13 +4,13 @@ site_name: "St. Peter- und Paul-Kirche auf dem Frankenberge (Goslar)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Goslar"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Goslar"
+  - "Lower Saxony"
 wikidata_id: "Q1444599"
 latitude: 51.9032
 longitude: 10.4184
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/400px-Frankenbergerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/800px-Frankenbergerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/1200px-Frankenbergerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/1920px-Frankenbergerkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/1920px-Frankenbergerkirche.jpg---
 
 ## Overview
 

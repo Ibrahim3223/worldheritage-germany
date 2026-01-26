@@ -4,13 +4,13 @@ site_name: "Bergarbeiterwohnmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Lünen-Brambauer, Germany"
-region: "Lünen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lünen"
+  - "Lower Saxony"
 wikidata_id: "Q819357"
 latitude: 51.595833333
 longitude: 7.447527777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/400px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/800px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/1200px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/1920px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/1920px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg---
 
 ## Overview
 

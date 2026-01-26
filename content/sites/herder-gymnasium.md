@@ -4,13 +4,13 @@ site_name: "Herder-Gymnasium"
 date: 2026-01-26
 draft: false
 description: "school in Berlin"
-region: "Charlottenburg-Wilmersdorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Charlottenburg-Wilmersdorf"
+  - "Berlin"
 wikidata_id: "Q1609642"
 latitude: 52.5108
 longitude: 13.2581
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Herder-Gymnasium_B-Westend_02-2014.jpg/400px-Herder-Gymnasium_B-Westend_02-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Herder-Gymnasium_B-Westend_02-2014.jpg/800px-Herder-Gymnasium_B-Westend_02-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Herder-Gymnasium_B-Westend_02-2014.jpg/1200px-Herder-Gymnasium_B-Westend_02-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Herder-Gymnasium_B-Westend_02-2014.jpg/1920px-Herder-Gymnasium_B-Westend_02-2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Herder-Gymnasium_B-Westend_02-2014.jpg/1920px-Herder-Gymnasium_B-Westend_02-2014.jpg---
 
 ## Overview
 

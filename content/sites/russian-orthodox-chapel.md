@@ -4,13 +4,13 @@ site_name: "Russian Orthodox Chapel"
 date: 2026-01-26
 draft: false
 description: "church building in Weimar, Germany"
-region: "Weimar"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weimar"
+  - "Saxony-Anhalt"
 wikidata_id: "Q453884"
 latitude: 50.9725
 longitude: 11.3256
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg/400px-Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg/800px-Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg/1200px-Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg/1920px-Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg/1920px-Historischer_Friedhof_mit_Russisch-Orthodoxer_Kapelle.jpg---
 
 ## Overview
 

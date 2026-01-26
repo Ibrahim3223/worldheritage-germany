@@ -4,13 +4,13 @@ site_name: "Fürstenbaumuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Würzburg, Germany"
-region: "Würzburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Würzburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1467075"
 latitude: 49.7894969
 longitude: 9.9212765
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/400px-Wü_MarienbergFüBauMuseumA.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/800px-Wü_MarienbergFüBauMuseumA.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/1200px-Wü_MarienbergFüBauMuseumA.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/1920px-Wü_MarienbergFüBauMuseumA.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/1920px-Wü_MarienbergFüBauMuseumA.jpg---
 
 ## Overview
 

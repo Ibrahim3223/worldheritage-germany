@@ -4,19 +4,18 @@ site_name: "Bogenbrücke über die Döllnitz Mügeln"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Mügeln"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Mügeln"
+  - "Saxony"
 wikidata_id: "Q49445218"
 latitude: 51.237925406
 longitude: 13.047627251
 images:
-  []
----
+  []---
 
 ## Overview
 

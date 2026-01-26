@@ -4,13 +4,13 @@ site_name: "Bielsteinhöhle mit Lukenloch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Horn-Bad Meinberg, North Rhine-Westphalia, Germany"
-region: "Horn-Bad Meinberg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Horn-Bad Meinberg"
+  - "Lower Saxony"
 wikidata_id: "Q857411"
 latitude: 51.8132
 longitude: 8.91905
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/400px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/800px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/1200px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/1920px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/1920px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg---
 
 ## Overview
 

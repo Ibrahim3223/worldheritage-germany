@@ -4,13 +4,13 @@ site_name: "Apollo"
 date: 2026-01-26
 draft: false
 description: "cinema in Linden-Nord, Hanover, Lower Saxony, Germany"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q618972"
 latitude: 52.374
 longitude: 9.70692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/400px-Limmerstr08.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/800px-Limmerstr08.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/1200px-Limmerstr08.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/1920px-Limmerstr08.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/1920px-Limmerstr08.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Liebfrauenkirche Halberstadt"
 date: 2026-01-26
 draft: false
 description: "church building in Saxony-Anhalt, Germany"
-region: "Halberstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Halberstadt"
+  - "Lower Saxony"
 wikidata_id: "Q186259"
 latitude: 51.895608
 longitude: 11.044406
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/400px-Liebfrauenkirche_Halberstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/800px-Liebfrauenkirche_Halberstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1200px-Liebfrauenkirche_Halberstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1920px-Liebfrauenkirche_Halberstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1920px-Liebfrauenkirche_Halberstadt.jpg---
 
 ## Overview
 

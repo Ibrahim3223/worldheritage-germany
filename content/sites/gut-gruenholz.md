@@ -4,13 +4,13 @@ site_name: "Gut Grünholz"
 date: 2026-01-26
 draft: false
 description: "manor house"
-region: "Thumby"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Thumby"
+  - "Schleswig-Holstein"
 wikidata_id: "Q834604"
 latitude: 54.577
 longitude: 9.95024
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/400px-Gut_Grünholz,_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/800px-Gut_Grünholz,_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/1200px-Gut_Grünholz,_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/1920px-Gut_Grünholz,_Herrenhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/1920px-Gut_Grünholz,_Herrenhaus.JPG---
 
 ## Overview
 

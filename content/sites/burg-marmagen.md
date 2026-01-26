@@ -4,13 +4,13 @@ site_name: "Burg Marmagen"
 date: 2026-01-26
 draft: false
 description: "Burg in Nordrhein-Westfalen, Deutschland"
-region: "Nettersheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nettersheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013075"
 latitude: 50.4777
 longitude: 6.5763
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/400px-Marmagen_Alte_Burg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/800px-Marmagen_Alte_Burg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/1200px-Marmagen_Alte_Burg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/1920px-Marmagen_Alte_Burg.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/1920px-Marmagen_Alte_Burg.png---
 
 ## Overview
 

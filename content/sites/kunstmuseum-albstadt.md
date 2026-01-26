@@ -4,13 +4,13 @@ site_name: "Kunstmuseum Albstadt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Albstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Albstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1494361"
 latitude: 48.2123
 longitude: 9.02512
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/400px-Kunstmuseum_Albstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/800px-Kunstmuseum_Albstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/1200px-Kunstmuseum_Albstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/1920px-Kunstmuseum_Albstadt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/1920px-Kunstmuseum_Albstadt.jpg---
 
 ## Overview
 

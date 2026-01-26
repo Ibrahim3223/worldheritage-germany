@@ -4,19 +4,18 @@ site_name: "Carl-Julius-Weber-Gedenkstube"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Langenburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Langenburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1036540"
 latitude: 49.2534
 longitude: 9.84702
 images:
-  []
----
+  []---
 
 ## Overview
 

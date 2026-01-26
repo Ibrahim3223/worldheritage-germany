@@ -4,19 +4,18 @@ site_name: "Haus Harderode"
 date: 2026-01-26
 draft: false
 description: "Gebäudegruppe im Flecken Coppenbrügge im Landkreis Hameln-Pyrmont"
-region: "Coppenbrügge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Coppenbrügge"
+  - "Lower Saxony"
 wikidata_id: "Q1476005"
 latitude: 52.0618
 longitude: 9.5264
 images:
-  []
----
+  []---
 
 ## Overview
 

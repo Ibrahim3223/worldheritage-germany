@@ -4,13 +4,13 @@ site_name: "Riessersee"
 date: 2026-01-26
 draft: false
 description: "mountain lake in the south of Germany"
-region: "Garmisch-Partenkirchen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Garmisch-Partenkirchen"
+  - "Bavaria"
 wikidata_id: "Q254186"
 latitude: 47.478333333
 longitude: 11.081388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/400px-Herbst_am_Riessersee.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/800px-Herbst_am_Riessersee.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/1200px-Herbst_am_Riessersee.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/1920px-Herbst_am_Riessersee.jpeg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/1920px-Herbst_am_Riessersee.jpeg---
 
 ## Overview
 

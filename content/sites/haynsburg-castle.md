@@ -4,13 +4,13 @@ site_name: "Haynsburg Castle"
 date: 2026-01-26
 draft: false
 description: "castle in Haynsburg, quarter of Wetterzeube, Saxony-Anhalt, Germany"
-region: "Wetterzeube"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wetterzeube"
+  - "Saxony"
 wikidata_id: "Q1012239"
 latitude: 51.0186
 longitude: 12.0689
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Haynsburg.jpg/400px-Haynsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Haynsburg.jpg/800px-Haynsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Haynsburg.jpg/1200px-Haynsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Haynsburg.jpg/1920px-Haynsburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Haynsburg.jpg/1920px-Haynsburg.jpg---
 
 ## Overview
 

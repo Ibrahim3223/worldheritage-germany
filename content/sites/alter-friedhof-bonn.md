@@ -4,13 +4,13 @@ site_name: "Alter Friedhof Bonn"
 date: 2026-01-26
 draft: false
 description: "cemetery in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q318822"
 latitude: 50.735691666
 longitude: 7.090694444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/400px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/800px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/1920px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/1920px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg---
 
 ## Overview
 

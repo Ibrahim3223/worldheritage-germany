@@ -4,13 +4,13 @@ site_name: "Pauluskirche (Worms)"
 date: 2026-01-26
 draft: false
 description: "church building in Worms, Germany"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q2064345"
 latitude: 49.6307
 longitude: 8.36558
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/400px-Worms_Portal_der_Pauluskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/800px-Worms_Portal_der_Pauluskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/1200px-Worms_Portal_der_Pauluskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/1920px-Worms_Portal_der_Pauluskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/1920px-Worms_Portal_der_Pauluskirche.jpg---
 
 ## Overview
 

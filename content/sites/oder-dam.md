@@ -4,13 +4,13 @@ site_name: "Oder Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Göttingen district"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Göttingen district"
+  - "Lower Saxony"
 wikidata_id: "Q882562"
 latitude: 51.64605
 longitude: 10.50544
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Odertalsperre06_2005.jpg/400px-Odertalsperre06_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Odertalsperre06_2005.jpg/800px-Odertalsperre06_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Odertalsperre06_2005.jpg/1200px-Odertalsperre06_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Odertalsperre06_2005.jpg/1920px-Odertalsperre06_2005.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Odertalsperre06_2005.jpg/1920px-Odertalsperre06_2005.jpg---
 
 ## Overview
 

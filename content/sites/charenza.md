@@ -4,13 +4,13 @@ site_name: "Charenza"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Western Pomerania-Rügen District"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Western Pomerania-Rügen District"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q323457"
 latitude: 54.5017
 longitude: 13.31665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/400px-Burgwall_bei_Venz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/800px-Burgwall_bei_Venz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1200px-Burgwall_bei_Venz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1920px-Burgwall_bei_Venz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1920px-Burgwall_bei_Venz.jpg---
 
 ## Overview
 

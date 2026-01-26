@@ -4,13 +4,13 @@ site_name: "Burg Münchhausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Wachtberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Wachtberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q168523"
 latitude: 50.6112
 longitude: 7.04454
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/400px-Burg_Muenchhausen_20070819.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/800px-Burg_Muenchhausen_20070819.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1200px-Burg_Muenchhausen_20070819.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1920px-Burg_Muenchhausen_20070819.png
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1920px-Burg_Muenchhausen_20070819.png---
 
 ## Overview
 

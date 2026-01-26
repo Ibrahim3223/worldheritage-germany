@@ -4,19 +4,18 @@ site_name: "Museum Korbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Korbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Korbach"
+  - "Hesse"
 wikidata_id: "Q22694663"
 latitude: 51.27134167
 longitude: 8.87261667
 images:
-  []
----
+  []---
 
 ## Overview
 

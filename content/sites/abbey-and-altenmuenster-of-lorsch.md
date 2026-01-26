@@ -4,13 +4,13 @@ site_name: "Abbey and Altenmünster of Lorsch"
 date: 2026-01-26
 draft: false
 description: "UNESCO World Heritage Abbey of Lorsch in Germany"
-region: "Lorsch"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lorsch"
+  - "Baden-Württemberg"
 wikidata_id: "Q157550"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/400px-Lorsch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/800px-Lorsch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1200px-Lorsch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1920px-Lorsch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1920px-Lorsch.jpg---
 
 ## Overview
 

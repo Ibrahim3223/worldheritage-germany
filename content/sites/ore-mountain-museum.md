@@ -4,13 +4,13 @@ site_name: "Ore Mountain Museum"
 date: 2026-01-26
 draft: false
 description: "ore mountain museum"
-region: "Annaberg-Buchholz"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Annaberg-Buchholz"
+  - "Bavaria"
 wikidata_id: "Q372030"
 latitude: 50.5784
 longitude: 13.0043
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Annaberg_Erzgebirgsmuseum.jpg/400px-Annaberg_Erzgebirgsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Annaberg_Erzgebirgsmuseum.jpg/800px-Annaberg_Erzgebirgsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Annaberg_Erzgebirgsmuseum.jpg/1200px-Annaberg_Erzgebirgsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Annaberg_Erzgebirgsmuseum.jpg/1920px-Annaberg_Erzgebirgsmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Annaberg_Erzgebirgsmuseum.jpg/1920px-Annaberg_Erzgebirgsmuseum.jpg---
 
 ## Overview
 

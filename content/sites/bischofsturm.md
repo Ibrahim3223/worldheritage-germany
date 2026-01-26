@@ -4,13 +4,13 @@ site_name: "Bischofsturm"
 date: 2026-01-26
 draft: false
 description: "foundation of a circular tower of the 12th Century in the historic city center of Hamburg, Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q866205"
 latitude: 53.55
 longitude: 9.9975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/400px-Bischofsturm_wall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/800px-Bischofsturm_wall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1200px-Bischofsturm_wall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1920px-Bischofsturm_wall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1920px-Bischofsturm_wall.jpg---
 
 ## Overview
 

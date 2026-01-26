@@ -4,13 +4,13 @@ site_name: "Mecklenburgisches Kutschenmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Kobrow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kobrow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q24346064"
 latitude: 53.6891382
 longitude: 11.8215247
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/400px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/800px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/1200px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/1920px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/1920px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg---
 
 ## Overview
 

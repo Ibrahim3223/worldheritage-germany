@@ -4,13 +4,13 @@ site_name: "Radau"
 date: 2026-01-26
 draft: false
 description: "river in Germany"
-region: "Bad Harzburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"
 categories:
   - "Waterfall"
 regions:
-  - "Bad Harzburg"
+  - "Lower Saxony"
 wikidata_id: "Q2125403"
 latitude: 51.9581
 longitude: 10.5725
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/400px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/800px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/1200px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/1920px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/1920px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg---
 
 ## Overview
 

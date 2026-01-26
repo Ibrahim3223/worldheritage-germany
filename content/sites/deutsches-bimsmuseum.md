@@ -4,13 +4,13 @@ site_name: "Deutsches Bimsmuseum"
 date: 2026-01-26
 draft: false
 description: "Museum in Kaltenengers bei Koblenz zur Geschichte des Bimsabbaus"
-region: "Kaltenengers"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Kaltenengers"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q19296785"
 latitude: 50.40355066
 longitude: 7.54085292
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/400px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/800px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1200px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1920px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1920px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg---
 
 ## Overview
 

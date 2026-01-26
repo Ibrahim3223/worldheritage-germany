@@ -4,13 +4,13 @@ site_name: "Gottlieb-Daimler-Gedächtnisstätte"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Cannstatt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Cannstatt"
+  - "Baden-Württemberg"
 wikidata_id: "Q26706753"
 latitude: 48.807204
 longitude: 9.225066
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/400px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/800px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/1200px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/1920px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/1920px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg---
 
 ## Overview
 

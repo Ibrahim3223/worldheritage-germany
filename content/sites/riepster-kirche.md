@@ -4,13 +4,13 @@ site_name: "Riepster Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Riepe, Germany"
-region: "Ihlow"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ihlow"
+  - "Lower Saxony"
 wikidata_id: "Q2152294"
 latitude: 53.3972
 longitude: 7.35417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/400px-ChurchRiepe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/800px-ChurchRiepe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/1200px-ChurchRiepe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/1920px-ChurchRiepe.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/1920px-ChurchRiepe.JPG---
 
 ## Overview
 

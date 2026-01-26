@@ -4,13 +4,13 @@ site_name: "Peasants' War Panorama Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bad Frankenhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Bad Frankenhausen"
+  - "Lower Saxony"
 wikidata_id: "Q49739"
 latitude: 51.36611111
 longitude: 11.10333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/400px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/800px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/1200px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/1920px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/1920px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg---
 
 ## Overview
 

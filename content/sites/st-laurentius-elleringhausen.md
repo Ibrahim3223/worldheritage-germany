@@ -4,19 +4,18 @@ site_name: "St. Laurentius (Elleringhausen)"
 date: 2026-01-26
 draft: false
 description: "church building in Olsberg, Germany"
-region: "Olsberg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Olsberg"
+  - "Hesse"
 wikidata_id: "Q2320078"
 latitude: 51.3405
 longitude: 8.54457
 images:
-  []
----
+  []---
 
 ## Overview
 

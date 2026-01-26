@@ -4,13 +4,13 @@ site_name: "Hüttenmuseum Thale"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Thale"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Thale"
+  - "Lower Saxony"
 wikidata_id: "Q1652601"
 latitude: 51.7447
 longitude: 11.0278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/400px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/800px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/1200px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/1920px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/1920px-Thale_asv2018-10_img24_Ironworks_Museum.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Unterstadt 1"
 date: 2026-01-26
 draft: false
 description: "monumental, three-story building with a base, a gently sloping hipped roof, a centrally placed and octagonal roof turret in Lich, Gießen district, Hes"
-region: "Lich"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Lich"
+  - "Hesse"
 wikidata_id: "Q47785750"
 latitude: 50.520060181
 longitude: 8.819826222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/400px-Unterstadt_1_in_Lich_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/800px-Unterstadt_1_in_Lich_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/1200px-Unterstadt_1_in_Lich_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/1920px-Unterstadt_1_in_Lich_(2).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/1920px-Unterstadt_1_in_Lich_(2).jpg---
 
 ## Overview
 

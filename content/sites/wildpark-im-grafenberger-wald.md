@@ -4,13 +4,13 @@ site_name: "Wildpark im Grafenberger Wald"
 date: 2026-01-26
 draft: false
 description: "zoo"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1261659"
 latitude: 51.2491
 longitude: 6.8427
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Wildpark_duesseldorf_gehege.jpg/400px-Wildpark_duesseldorf_gehege.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Wildpark_duesseldorf_gehege.jpg/800px-Wildpark_duesseldorf_gehege.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Wildpark_duesseldorf_gehege.jpg/1200px-Wildpark_duesseldorf_gehege.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Wildpark_duesseldorf_gehege.jpg/1920px-Wildpark_duesseldorf_gehege.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Wildpark_duesseldorf_gehege.jpg/1920px-Wildpark_duesseldorf_gehege.jpg---
 
 ## Overview
 

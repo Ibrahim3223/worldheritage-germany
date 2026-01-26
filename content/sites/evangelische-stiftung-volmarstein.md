@@ -4,13 +4,13 @@ site_name: "Evangelische Stiftung Volmarstein"
 date: 2026-01-26
 draft: false
 description: "foundation"
-region: "Volmarstein"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Volmarstein"
+  - "Lower Saxony"
 wikidata_id: "Q1381179"
 latitude: 51.3689
 longitude: 7.3772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ESV_LUFTBILD2.jpg/400px-ESV_LUFTBILD2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ESV_LUFTBILD2.jpg/800px-ESV_LUFTBILD2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ESV_LUFTBILD2.jpg/1200px-ESV_LUFTBILD2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ESV_LUFTBILD2.jpg/1920px-ESV_LUFTBILD2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ESV_LUFTBILD2.jpg/1920px-ESV_LUFTBILD2.jpg---
 
 ## Overview
 

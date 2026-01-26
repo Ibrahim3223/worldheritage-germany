@@ -4,13 +4,13 @@ site_name: "Rathaus Weixdorf"
 date: 2026-01-26
 draft: false
 description: "building in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q47531821"
 latitude: 51.14513
 longitude: 13.800803
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/400px-Weixdorf_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/800px-Weixdorf_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/1200px-Weixdorf_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/1920px-Weixdorf_Rathaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/1920px-Weixdorf_Rathaus.JPG---
 
 ## Overview
 

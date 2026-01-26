@@ -4,13 +4,13 @@ site_name: "Limes Tower I"
 date: 2026-01-26
 draft: false
 description: "Wachturm des Römischen Reiches bei Rheinbrohl am Rhein, heute dort Rekonstruktion"
-region: "Rheinbrohl"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Watchtower"
 categories:
   - "Watchtower"
 regions:
-  - "Rheinbrohl"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q129286916"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/RheinbrohlRoemerturm1-1Fehlkonstr3.jpg/400px-RheinbrohlRoemerturm1-1Fehlkonstr3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/RheinbrohlRoemerturm1-1Fehlkonstr3.jpg/800px-RheinbrohlRoemerturm1-1Fehlkonstr3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/RheinbrohlRoemerturm1-1Fehlkonstr3.jpg/1200px-RheinbrohlRoemerturm1-1Fehlkonstr3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/RheinbrohlRoemerturm1-1Fehlkonstr3.jpg/1920px-RheinbrohlRoemerturm1-1Fehlkonstr3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/RheinbrohlRoemerturm1-1Fehlkonstr3.jpg/1920px-RheinbrohlRoemerturm1-1Fehlkonstr3.jpg---
 
 ## Overview
 

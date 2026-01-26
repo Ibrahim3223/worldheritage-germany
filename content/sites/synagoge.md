@@ -4,13 +4,13 @@ site_name: "Synagoge"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-78-111-3 (0) in Altenkunstadt, Bavaria"
-region: "Altenkunstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altenkunstadt"
+  - "Bavaria"
 wikidata_id: "Q19309723"
 latitude: 50.126389
 longitude: 11.246554
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/400px-Altenkunstadt_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/800px-Altenkunstadt_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/1200px-Altenkunstadt_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/1920px-Altenkunstadt_Synagoge.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/1920px-Altenkunstadt_Synagoge.jpg---
 
 ## Overview
 

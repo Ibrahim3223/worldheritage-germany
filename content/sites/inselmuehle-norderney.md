@@ -4,13 +4,13 @@ site_name: "Inselmühle Norderney"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
-region: "Norderney"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Norderney"
+  - "Lower Saxony"
 wikidata_id: "Q1642613"
 latitude: 53.7061
 longitude: 7.15639
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Norderney,_Inselwindmühle_--_2016_--_5386.jpg/400px-Norderney,_Inselwindmühle_--_2016_--_5386.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Norderney,_Inselwindmühle_--_2016_--_5386.jpg/800px-Norderney,_Inselwindmühle_--_2016_--_5386.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Norderney,_Inselwindmühle_--_2016_--_5386.jpg/1200px-Norderney,_Inselwindmühle_--_2016_--_5386.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Norderney,_Inselwindmühle_--_2016_--_5386.jpg/1920px-Norderney,_Inselwindmühle_--_2016_--_5386.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Norderney,_Inselwindmühle_--_2016_--_5386.jpg/1920px-Norderney,_Inselwindmühle_--_2016_--_5386.jpg---
 
 ## Overview
 

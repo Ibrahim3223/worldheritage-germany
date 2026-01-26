@@ -4,13 +4,13 @@ site_name: "Calvarienberg (Gundelsheim)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Gundelsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Gundelsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1027552"
 latitude: 49.2907
 longitude: 9.16438
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/400px-Gundelsheim-calvarien1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/800px-Gundelsheim-calvarien1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/1200px-Gundelsheim-calvarien1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/1920px-Gundelsheim-calvarien1.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/1920px-Gundelsheim-calvarien1.JPG---
 
 ## Overview
 

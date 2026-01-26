@@ -4,13 +4,13 @@ site_name: "Berlin Warschauer Straße station"
 date: 2026-01-26
 draft: false
 description: "S-Bahn station in Berlin, Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q664036"
 latitude: 52.506416666
 longitude: 13.450955555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/400px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/800px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1200px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1920px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1920px-S-Warschauer_neue_Fußgängerbrücke-3.jpg---
 
 ## Overview
 

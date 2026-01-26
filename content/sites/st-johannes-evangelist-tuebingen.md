@@ -4,13 +4,13 @@ site_name: "St. Johannes Evangelist (Tübingen)"
 date: 2026-01-26
 draft: false
 description: "church building in Tübingen, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2319366"
 latitude: 48.521758
 longitude: 9.054341
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/400px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/800px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/1200px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/1920px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/1920px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg---
 
 ## Overview
 

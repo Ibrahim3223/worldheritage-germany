@@ -4,13 +4,13 @@ site_name: "Sonneberg (Thür) Central Station"
 date: 2026-01-26
 draft: false
 description: "railway halt in Sonneberg, Germany"
-region: "Sonneberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Sonneberg"
+  - "Bavaria"
 wikidata_id: "Q320969"
 latitude: 50.355176
 longitude: 11.168906
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/400px-Sonneberg-Hbf1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/800px-Sonneberg-Hbf1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/1200px-Sonneberg-Hbf1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/1920px-Sonneberg-Hbf1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/1920px-Sonneberg-Hbf1.jpg---
 
 ## Overview
 

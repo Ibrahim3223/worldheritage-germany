@@ -4,13 +4,13 @@ site_name: "Geigenbaumuseum Mittenwald"
 date: 2026-01-26
 draft: false
 description: "museum in Mittenwald, Germany"
-region: "Mittenwald"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Mittenwald"
+  - "Bavaria"
 wikidata_id: "Q29413558"
 latitude: 47.442651201
 longitude: 11.260372854
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg/400px-Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg/800px-Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg/1200px-Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg/1920px-Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg/1920px-Geigenbaumuseum_in_(Mittenwald)_Garmisch-Partenkirchen.jpg---
 
 ## Overview
 

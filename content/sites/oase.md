@@ -4,13 +4,13 @@ site_name: "Oase"
 date: 2026-01-26
 draft: false
 description: "former swimming pool in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1454981"
 latitude: 51.4547
 longitude: 6.967
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/400px-Freizeitbad_Oase.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/800px-Freizeitbad_Oase.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/1200px-Freizeitbad_Oase.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/1920px-Freizeitbad_Oase.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/1920px-Freizeitbad_Oase.JPG---
 
 ## Overview
 

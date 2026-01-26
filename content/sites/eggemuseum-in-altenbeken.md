@@ -4,13 +4,13 @@ site_name: "Eggemuseum in Altenbeken"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Altenbeken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altenbeken"
+  - "Lower Saxony"
 wikidata_id: "Q1297463"
 latitude: 51.7626
 longitude: 8.93517
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/400px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/800px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/1200px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/1920px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/1920px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg---
 
 ## Overview
 

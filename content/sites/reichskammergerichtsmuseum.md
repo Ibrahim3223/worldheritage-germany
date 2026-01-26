@@ -4,13 +4,13 @@ site_name: "Reichskammergerichtsmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Wetzlar"
-region: "Wetzlar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wetzlar"
+  - "Hesse"
 wikidata_id: "Q1618662"
 latitude: 50.5534
 longitude: 8.50187
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/400px-Reichskammergerichtsmuseum_Wetzlar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/800px-Reichskammergerichtsmuseum_Wetzlar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/1200px-Reichskammergerichtsmuseum_Wetzlar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/1920px-Reichskammergerichtsmuseum_Wetzlar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/1920px-Reichskammergerichtsmuseum_Wetzlar.jpg---
 
 ## Overview
 

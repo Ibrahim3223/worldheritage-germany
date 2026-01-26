@@ -4,19 +4,18 @@ site_name: "Burg Göffingen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Unlingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Unlingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012132"
 latitude: 48.1591
 longitude: 9.54189
 images:
-  []
----
+  []---
 
 ## Overview
 

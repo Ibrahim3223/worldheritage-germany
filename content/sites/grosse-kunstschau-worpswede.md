@@ -4,19 +4,18 @@ site_name: "Große Kunstschau Worpswede"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Worpswede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Worpswede"
+  - "Bremen"
 wikidata_id: "Q63726068"
 latitude: 53.219739
 longitude: 8.928145
 images:
-  []
----
+  []---
 
 ## Overview
 

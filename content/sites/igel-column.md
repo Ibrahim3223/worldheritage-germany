@@ -4,13 +4,13 @@ site_name: "Igel Column"
 date: 2026-01-26
 draft: false
 description: "Roman tomb"
-region: "Igel"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Igel"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q338834"
 latitude: 49.7092
 longitude: 6.54944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/400px-Igeler_Säule_(23).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/800px-Igeler_Säule_(23).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1200px-Igeler_Säule_(23).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1920px-Igeler_Säule_(23).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1920px-Igeler_Säule_(23).jpg---
 
 ## Overview
 

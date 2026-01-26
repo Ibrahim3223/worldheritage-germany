@@ -4,13 +4,13 @@ site_name: "Neuwerk"
 date: 2026-01-26
 draft: false
 description: "Wadden Sea island on the German North Sea coast"
-region: "Hamburg-Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Hamburg-Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1622"
 latitude: 53.921325
 longitude: 8.498353
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/400px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/800px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/1200px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/1920px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/1920px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg---
 
 ## Overview
 

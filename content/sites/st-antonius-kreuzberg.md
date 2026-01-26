@@ -4,13 +4,13 @@ site_name: "St. Antonius (Kreuzberg)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Altenahr"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Altenahr"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1515983"
 latitude: 50.5098
 longitude: 6.974
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/400px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/800px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/1200px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/1920px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/1920px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG---
 
 ## Overview
 

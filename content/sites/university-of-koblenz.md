@@ -4,19 +4,18 @@ site_name: "University of Koblenz"
 date: 2026-01-26
 draft: false
 description: "university in Koblenz, Germany"
-region: "Koblenz"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Koblenz"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q113633597"
 latitude: 50.363611111
 longitude: 7.558333333
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Annakapelle Altshausen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Altshausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Altshausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q564211"
 latitude: 47.939038
 longitude: 9.540655
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/400px-Altshausen_Annakapelle_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/800px-Altshausen_Annakapelle_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/1200px-Altshausen_Annakapelle_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/1920px-Altshausen_Annakapelle_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/1920px-Altshausen_Annakapelle_1.jpg---
 
 ## Overview
 

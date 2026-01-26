@@ -4,13 +4,13 @@ site_name: "Borgfelder Wümmewiesen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bremen, Free Hanseatic City of Bremen, Germany"
-region: "Borgfeld"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Borgfeld"
+  - "Bremen"
 wikidata_id: "Q893539"
 latitude: 53.1278
 longitude: 8.93194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/400px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/800px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/1200px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/1920px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/1920px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg---
 
 ## Overview
 

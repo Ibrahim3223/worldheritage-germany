@@ -4,13 +4,13 @@ site_name: "VS-Schulmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Tauberbischofsheim, Germany"
-region: "Tauberbischofsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Tauberbischofsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q29056965"
 latitude: 49.627798
 longitude: 9.6554
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/400px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/800px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/1200px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/1920px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/1920px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg---
 
 ## Overview
 

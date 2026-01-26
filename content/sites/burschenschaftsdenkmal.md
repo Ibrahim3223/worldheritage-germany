@@ -4,13 +4,13 @@ site_name: "Burschenschaftsdenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Eisenach, Thuringia, Germany"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1017029"
 latitude: 50.9666
 longitude: 10.3351
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burschenschaftsdenkmal_07.jpg/400px-Burschenschaftsdenkmal_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burschenschaftsdenkmal_07.jpg/800px-Burschenschaftsdenkmal_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burschenschaftsdenkmal_07.jpg/1200px-Burschenschaftsdenkmal_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burschenschaftsdenkmal_07.jpg/1920px-Burschenschaftsdenkmal_07.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burschenschaftsdenkmal_07.jpg/1920px-Burschenschaftsdenkmal_07.jpg---
 
 ## Overview
 

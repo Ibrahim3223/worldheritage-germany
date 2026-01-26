@@ -4,13 +4,13 @@ site_name: "Halberstadt Cathedral"
 date: 2026-01-26
 draft: false
 description: "cathedral in Halberstadt, Germany"
-region: "Halberstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"
 categories:
   - "Cathedral"
 regions:
-  - "Halberstadt"
+  - "Lower Saxony"
 wikidata_id: "Q316414"
 latitude: 51.8963
 longitude: 11.0487
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/400px-Halberstadt_Dom_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/800px-Halberstadt_Dom_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1200px-Halberstadt_Dom_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1920px-Halberstadt_Dom_2023.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1920px-Halberstadt_Dom_2023.jpg---
 
 ## Overview
 

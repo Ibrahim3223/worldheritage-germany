@@ -4,13 +4,13 @@ site_name: "Village church Netzow"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Plattenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Plattenburg"
+  - "Brandenburg"
 wikidata_id: "Q1380163"
 latitude: 52.9218
 longitude: 12.137
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NetzowDorfkirche_a.jpg/400px-NetzowDorfkirche_a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NetzowDorfkirche_a.jpg/800px-NetzowDorfkirche_a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NetzowDorfkirche_a.jpg/1200px-NetzowDorfkirche_a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NetzowDorfkirche_a.jpg/1920px-NetzowDorfkirche_a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NetzowDorfkirche_a.jpg/1920px-NetzowDorfkirche_a.jpg---
 
 ## Overview
 

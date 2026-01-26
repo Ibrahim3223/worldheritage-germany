@@ -4,13 +4,13 @@ site_name: "Schlangenkapelle"
 date: 2026-01-26
 draft: false
 description: "building in Stegen, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Stegen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Stegen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1665656"
 latitude: 48.0033
 longitude: 7.94431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/400px-Schlangenkapelle_040108.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/800px-Schlangenkapelle_040108.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/1200px-Schlangenkapelle_040108.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/1920px-Schlangenkapelle_040108.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/1920px-Schlangenkapelle_040108.JPG---
 
 ## Overview
 

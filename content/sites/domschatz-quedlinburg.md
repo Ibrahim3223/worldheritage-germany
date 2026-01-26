@@ -4,13 +4,13 @@ site_name: "Domschatz Quedlinburg"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q870375"
 latitude: 51.78575
 longitude: 11.137
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/400px-Heinrichskamm_Domschatz_Quedlinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/800px-Heinrichskamm_Domschatz_Quedlinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1200px-Heinrichskamm_Domschatz_Quedlinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1920px-Heinrichskamm_Domschatz_Quedlinburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1920px-Heinrichskamm_Domschatz_Quedlinburg.jpg---
 
 ## Overview
 

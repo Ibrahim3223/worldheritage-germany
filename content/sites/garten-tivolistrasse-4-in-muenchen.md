@@ -4,19 +4,18 @@ site_name: "Garten Tivolistraße 4 in München"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-2664 (1) in München, Bavaria"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q98739649"
 latitude: 48.151051444
 longitude: 11.596299842
 images:
-  []
----
+  []---
 
 ## Overview
 

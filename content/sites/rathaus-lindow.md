@@ -4,13 +4,13 @@ site_name: "Rathaus Lindow"
 date: 2026-01-26
 draft: false
 description: "Bauwerk in Lindow (Mark), Landkreis Ostprignitz-Ruppin, Brandenburg"
-region: "Lindow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Lindow"
+  - "Brandenburg"
 wikidata_id: "Q136488707"
 latitude: 52.970611
 longitude: 12.98811
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/400px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/800px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/1200px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/1920px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/1920px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg---
 
 ## Overview
 

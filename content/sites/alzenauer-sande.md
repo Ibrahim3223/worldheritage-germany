@@ -4,13 +4,13 @@ site_name: "Alzenauer Sande"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Alzenau"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Alzenau"
+  - "Bavaria"
 wikidata_id: "Q450680"
 latitude: 50.0769
 longitude: 9.04737
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alzenauer_Sande_Neufeld.JPG/400px-Alzenauer_Sande_Neufeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alzenauer_Sande_Neufeld.JPG/800px-Alzenauer_Sande_Neufeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alzenauer_Sande_Neufeld.JPG/1200px-Alzenauer_Sande_Neufeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alzenauer_Sande_Neufeld.JPG/1920px-Alzenauer_Sande_Neufeld.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alzenauer_Sande_Neufeld.JPG/1920px-Alzenauer_Sande_Neufeld.JPG---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Straßenbrücke Waldheim"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Waldheim"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Waldheim"
+  - "Saxony"
 wikidata_id: "Q49449907"
 latitude: 51.066093347
 longitude: 13.021937872
 images:
-  []
----
+  []---
 
 ## Overview
 

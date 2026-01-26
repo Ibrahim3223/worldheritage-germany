@@ -4,13 +4,13 @@ site_name: "Synagogue Bonn"
 date: 2026-01-26
 draft: false
 description: "only synagogue of Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2374986"
 latitude: 50.725087
 longitude: 7.112987
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg/400px-2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg/800px-2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg/1200px-2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg/1920px-2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg/1920px-2013-04-21_Synagoge,_Tempelstraße_2–4,_Bonn_IMG_0174.jpg---
 
 ## Overview
 

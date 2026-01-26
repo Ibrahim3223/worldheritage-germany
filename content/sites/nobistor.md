@@ -4,13 +4,13 @@ site_name: "Nobistor"
 date: 2026-01-26
 draft: false
 description: "ehemaliges Stadttor Altonas"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q1480053"
 latitude: 53.55
 longitude: 9.95611111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/400px-Nobistor_Altona_1880.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/800px-Nobistor_Altona_1880.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/1200px-Nobistor_Altona_1880.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/1920px-Nobistor_Altona_1880.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/1920px-Nobistor_Altona_1880.jpg---
 
 ## Overview
 

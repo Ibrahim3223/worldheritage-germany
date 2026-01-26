@@ -4,13 +4,13 @@ site_name: "Nornenbrunnen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-62-000-4425 (6) in München, Bavaria"
-region: "Maxvorstadt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Maxvorstadt"
+  - "Bavaria"
 wikidata_id: "Q877089"
 latitude: 48.1427
 longitude: 11.5717
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nornenbrunnen_Muenchen.jpg/400px-Nornenbrunnen_Muenchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nornenbrunnen_Muenchen.jpg/800px-Nornenbrunnen_Muenchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nornenbrunnen_Muenchen.jpg/1200px-Nornenbrunnen_Muenchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nornenbrunnen_Muenchen.jpg/1920px-Nornenbrunnen_Muenchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nornenbrunnen_Muenchen.jpg/1920px-Nornenbrunnen_Muenchen.jpg---
 
 ## Overview
 

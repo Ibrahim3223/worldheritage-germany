@@ -4,13 +4,13 @@ site_name: "Rochuskapelle (Ostbevern)"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Ostbevern"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Ostbevern"
+  - "Lower Saxony"
 wikidata_id: "Q1308055"
 latitude: 52.0356
 longitude: 7.83343
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ostbevern_Rochuskapelle_2.jpg/400px-Ostbevern_Rochuskapelle_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ostbevern_Rochuskapelle_2.jpg/800px-Ostbevern_Rochuskapelle_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ostbevern_Rochuskapelle_2.jpg/1200px-Ostbevern_Rochuskapelle_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ostbevern_Rochuskapelle_2.jpg/1920px-Ostbevern_Rochuskapelle_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ostbevern_Rochuskapelle_2.jpg/1920px-Ostbevern_Rochuskapelle_2.jpg---
 
 ## Overview
 

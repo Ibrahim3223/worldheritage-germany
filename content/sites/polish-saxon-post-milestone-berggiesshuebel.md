@@ -4,13 +4,13 @@ site_name: "Polish-Saxon Post Milestone Berggießhübel"
 date: 2026-01-26
 draft: false
 description: "Saxon post milestone in Bad Gottleuba-Berggießhübel in Germany"
-region: "Bad Gottleuba-Berggießhübel"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Bad Gottleuba-Berggießhübel"
+  - "Saxony"
 wikidata_id: "Q1793247"
 latitude: 50.875625
 longitude: 13.948115
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/400px-BGH_PM-Säule_(4)_2006-07-24.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/800px-BGH_PM-Säule_(4)_2006-07-24.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/1200px-BGH_PM-Säule_(4)_2006-07-24.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/1920px-BGH_PM-Säule_(4)_2006-07-24.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/1920px-BGH_PM-Säule_(4)_2006-07-24.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Brushmakers' Museum"
 date: 2026-01-26
 draft: false
 description: "museum"
-region: "Ramberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ramberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q1021703"
 latitude: 49.2613
 longitude: 8.0088
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/400px-Bürstenbindermuseum_Ramberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/800px-Bürstenbindermuseum_Ramberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1200px-Bürstenbindermuseum_Ramberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1920px-Bürstenbindermuseum_Ramberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1920px-Bürstenbindermuseum_Ramberg.JPG---
 
 ## Overview
 

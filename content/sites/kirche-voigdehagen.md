@@ -4,13 +4,13 @@ site_name: "Kirche Voigdehagen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Stralsund"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Stralsund"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1238015"
 latitude: 54.27
 longitude: 13.0934
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2007_1010Bild0109.JPG/400px-2007_1010Bild0109.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2007_1010Bild0109.JPG/800px-2007_1010Bild0109.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2007_1010Bild0109.JPG/1200px-2007_1010Bild0109.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2007_1010Bild0109.JPG/1920px-2007_1010Bild0109.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2007_1010Bild0109.JPG/1920px-2007_1010Bild0109.JPG---
 
 ## Overview
 

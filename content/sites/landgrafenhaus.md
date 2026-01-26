@@ -4,13 +4,13 @@ site_name: "Landgrafenhaus"
 date: 2026-01-26
 draft: false
 description: "building in Bad Nenndorf, Germany"
-region: "Bad Nenndorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Bad Nenndorf"
+  - "Lower Saxony"
 wikidata_id: "Q122781544"
 latitude: 52.333833
 longitude: 9.375163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/400px-Bad_Nenndorf_Landgrafenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/800px-Bad_Nenndorf_Landgrafenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/1200px-Bad_Nenndorf_Landgrafenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/1920px-Bad_Nenndorf_Landgrafenhaus.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/1920px-Bad_Nenndorf_Landgrafenhaus.JPG---
 
 ## Overview
 

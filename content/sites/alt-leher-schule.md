@@ -4,13 +4,13 @@ site_name: "Alt-Leher Schule"
 date: 2026-01-26
 draft: false
 description: "building ensemble in Bremerhaven, Germany"
-region: "Lehe"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Lehe"
+  - "Bremen"
 wikidata_id: "Q432950"
 latitude: 53.566383
 longitude: 8.591231
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BHV_Reformierte_Schule_1.jpg/400px-BHV_Reformierte_Schule_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BHV_Reformierte_Schule_1.jpg/800px-BHV_Reformierte_Schule_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BHV_Reformierte_Schule_1.jpg/1200px-BHV_Reformierte_Schule_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BHV_Reformierte_Schule_1.jpg/1920px-BHV_Reformierte_Schule_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BHV_Reformierte_Schule_1.jpg/1920px-BHV_Reformierte_Schule_1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Reichenbach (Vogtl) ob Bf railway station"
 date: 2026-01-26
 draft: false
 description: "railway station in Reichenbach im Vogtland, Germany"
-region: "Reichenbach im Vogtland"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Reichenbach im Vogtland"
+  - "Saxony"
 wikidata_id: "Q320688"
 latitude: 50.627985
 longitude: 12.292498
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/400px-Reichenbach_railway_station_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/800px-Reichenbach_railway_station_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/1200px-Reichenbach_railway_station_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/1920px-Reichenbach_railway_station_(aka).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/1920px-Reichenbach_railway_station_(aka).jpg---
 
 ## Overview
 

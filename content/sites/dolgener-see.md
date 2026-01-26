@@ -4,13 +4,13 @@ site_name: "Dolgener See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Dolgen am See"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Dolgen am See"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1235511"
 latitude: 53.95
 longitude: 12.246944444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dolgener_See3.jpg/400px-Dolgener_See3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dolgener_See3.jpg/800px-Dolgener_See3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dolgener_See3.jpg/1200px-Dolgener_See3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dolgener_See3.jpg/1920px-Dolgener_See3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dolgener_See3.jpg/1920px-Dolgener_See3.jpg---
 
 ## Overview
 

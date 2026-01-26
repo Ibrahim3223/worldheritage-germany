@@ -4,13 +4,13 @@ site_name: "Grebenstein Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grebenstein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grebenstein"
+  - "Hesse"
 wikidata_id: "Q1012024"
 latitude: 51.4417
 longitude: 9.41528
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burg_Grebenstein.jpg/400px-Burg_Grebenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burg_Grebenstein.jpg/800px-Burg_Grebenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burg_Grebenstein.jpg/1200px-Burg_Grebenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burg_Grebenstein.jpg/1920px-Burg_Grebenstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burg_Grebenstein.jpg/1920px-Burg_Grebenstein.jpg---
 
 ## Overview
 

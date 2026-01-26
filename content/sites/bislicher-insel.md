@@ -4,13 +4,13 @@ site_name: "Bislicher Insel"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Germany"
-region: "Wesel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wesel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q866395"
 latitude: 51.651388888
 longitude: 6.5075
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/400px-Bislicher_Insel_NRW_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/800px-Bislicher_Insel_NRW_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/1200px-Bislicher_Insel_NRW_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/1920px-Bislicher_Insel_NRW_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/1920px-Bislicher_Insel_NRW_2.jpg---
 
 ## Overview
 

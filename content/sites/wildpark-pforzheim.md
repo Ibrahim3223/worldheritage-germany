@@ -4,19 +4,18 @@ site_name: "Wildpark Pforzheim"
 date: 2026-01-26
 draft: false
 description: "zoo in Germany"
-region: "Pforzheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Pforzheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2570832"
 latitude: 48.8746
 longitude: 8.71531
 images:
-  []
----
+  []---
 
 ## Overview
 

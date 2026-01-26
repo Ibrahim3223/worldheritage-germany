@@ -4,13 +4,13 @@ site_name: "St. Michael (Michelsberg)"
 date: 2026-01-26
 draft: false
 description: "katholische Wallfahrtskapelle in Bad Münstereifel, Nordrhein-Westfalen, Deutschland"
-region: "Bad Münstereifel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Münstereifel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1395743"
 latitude: 50.5126
 longitude: 6.82429
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/400px-St._Michael_auf_dem_Michelsberg-0007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/800px-St._Michael_auf_dem_Michelsberg-0007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/1200px-St._Michael_auf_dem_Michelsberg-0007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/1920px-St._Michael_auf_dem_Michelsberg-0007.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/1920px-St._Michael_auf_dem_Michelsberg-0007.jpg---
 
 ## Overview
 

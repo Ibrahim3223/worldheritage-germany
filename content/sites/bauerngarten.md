@@ -4,19 +4,18 @@ site_name: "Bauerngarten"
 date: 2026-01-26
 draft: false
 description: "peasant garden and cultural monument in Postfeld, Schleswig-Holstein, Germany"
-region: "Postfeld"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Postfeld"
+  - "Schleswig-Holstein"
 wikidata_id: "Q58401836"
 latitude: 54.21073
 longitude: 10.21368
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Villengarten Oberried 2 in Seehausen am Staffelsee"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-1-80-124-124 (2) in Seehausen am Staffelsee, Bavaria"
-region: "Seehausen am Staffelsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Seehausen am Staffelsee"
+  - "Bavaria"
 wikidata_id: "Q98744255"
 latitude: 47.674148465
 longitude: 11.17399811
 images:
-  []
----
+  []---
 
 ## Overview
 

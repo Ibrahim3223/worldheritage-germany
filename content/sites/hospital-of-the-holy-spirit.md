@@ -4,19 +4,18 @@ site_name: "Hospital of the Holy Spirit"
 date: 2026-01-26
 draft: false
 description: "hospital in Hamburg, Germany"
-region: "Wandsbek"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Wandsbek"
+  - "Hamburg"
 wikidata_id: "Q16214743"
 latitude: 53.65
 longitude: 10.0737
 images:
-  []
----
+  []---
 
 ## Overview
 

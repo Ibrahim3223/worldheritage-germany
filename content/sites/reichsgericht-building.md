@@ -4,13 +4,13 @@ site_name: "Reichsgericht building"
 date: 2026-01-26
 draft: false
 description: "courthouse in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2139484"
 latitude: 51.333027777
 longitude: 12.369777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/400px-Bundesverwaltungsgericht_3,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/800px-Bundesverwaltungsgericht_3,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/1200px-Bundesverwaltungsgericht_3,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/1920px-Bundesverwaltungsgericht_3,_Leipzig.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/1920px-Bundesverwaltungsgericht_3,_Leipzig.jpg---
 
 ## Overview
 

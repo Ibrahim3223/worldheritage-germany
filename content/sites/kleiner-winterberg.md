@@ -4,19 +4,18 @@ site_name: "Kleiner Winterberg"
 date: 2026-01-26
 draft: false
 description: "mountain in central Germany"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q130533"
 latitude: 51.756
 longitude: 10.6348
 images:
-  []
----
+  []---
 
 ## Overview
 

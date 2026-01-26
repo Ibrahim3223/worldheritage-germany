@@ -4,19 +4,18 @@ site_name: "Zeche Carolus Magnus"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169719"
 latitude: 51.4833
 longitude: 6.96969
 images:
-  []
----
+  []---
 
 ## Overview
 

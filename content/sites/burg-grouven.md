@@ -4,13 +4,13 @@ site_name: "Burg Grouven"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Elsdorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Elsdorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1012059"
 latitude: 50.9371
 longitude: 6.60669
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg-grouven.jpg/400px-Burg-grouven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg-grouven.jpg/800px-Burg-grouven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg-grouven.jpg/1200px-Burg-grouven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg-grouven.jpg/1920px-Burg-grouven.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg-grouven.jpg/1920px-Burg-grouven.jpg---
 
 ## Overview
 

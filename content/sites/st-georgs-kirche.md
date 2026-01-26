@@ -4,13 +4,13 @@ site_name: "St.-Georgs-Kirche"
 date: 2026-01-26
 draft: false
 description: "Weener"
-region: "Weener"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weener"
+  - "Lower Saxony"
 wikidata_id: "Q1945446"
 latitude: 53.1655
 longitude: 7.35465
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/400px-ChurchWeenerRefGeorg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/800px-ChurchWeenerRefGeorg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/1200px-ChurchWeenerRefGeorg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/1920px-ChurchWeenerRefGeorg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/1920px-ChurchWeenerRefGeorg.jpg---
 
 ## Overview
 

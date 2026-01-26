@@ -4,19 +4,18 @@ site_name: "Münchholzhausen: Dorfstube"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634292"
 latitude: 50.548024
 longitude: 8.577843
 images:
-  []
----
+  []---
 
 ## Overview
 

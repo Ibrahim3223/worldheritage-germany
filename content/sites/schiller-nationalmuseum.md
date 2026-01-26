@@ -4,13 +4,13 @@ site_name: "Schiller-Nationalmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Baden-Württemberg, Germany"
-region: "Marbach am Neckar"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Marbach am Neckar"
+  - "Baden-Württemberg"
 wikidata_id: "Q2235692"
 latitude: 48.9356
 longitude: 9.25485
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/400px-Schiller-nationalm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/800px-Schiller-nationalm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/1200px-Schiller-nationalm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/1920px-Schiller-nationalm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/1920px-Schiller-nationalm.jpg---
 
 ## Overview
 

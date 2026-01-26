@@ -4,13 +4,13 @@ site_name: "Museum für Sächsische Volkskunst"
 date: 2026-01-26
 draft: false
 description: "museum in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1305061"
 latitude: 51.0578
 longitude: 13.7439
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/400px-Dresden_Jägerhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/800px-Dresden_Jägerhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/1200px-Dresden_Jägerhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/1920px-Dresden_Jägerhof.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden_Jägerhof.jpg/1920px-Dresden_Jägerhof.jpg---
 
 ## Overview
 

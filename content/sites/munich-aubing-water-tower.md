@@ -4,13 +4,13 @@ site_name: "Munich-Aubing water tower"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q758488"
 latitude: 48.152489978
 longitude: 11.416545296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aubinger_Wasserturm_2.JPG/400px-Aubinger_Wasserturm_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aubinger_Wasserturm_2.JPG/800px-Aubinger_Wasserturm_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aubinger_Wasserturm_2.JPG/1200px-Aubinger_Wasserturm_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aubinger_Wasserturm_2.JPG/1920px-Aubinger_Wasserturm_2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aubinger_Wasserturm_2.JPG/1920px-Aubinger_Wasserturm_2.JPG---
 
 ## Overview
 

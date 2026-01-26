@@ -4,13 +4,13 @@ site_name: "Reinhard Ernst Museum"
 date: 2026-01-26
 draft: false
 description: "art museum for abstract art in Wiesbaden, Hesse, Germany"
-region: "Wiesbaden"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Wiesbaden"
+  - "Hesse"
 wikidata_id: "Q117834995"
 latitude: 50.07849
 longitude: 8.24593
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/400px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/800px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/1200px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/1920px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/1920px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg---
 
 ## Overview
 

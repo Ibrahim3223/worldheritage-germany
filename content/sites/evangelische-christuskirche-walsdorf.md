@@ -4,13 +4,13 @@ site_name: "Evangelische Christuskirche Walsdorf"
 date: 2026-01-26
 draft: false
 description: "church building in Walsdorf, Germany"
-region: "Walsdorf"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Walsdorf"
+  - "Hesse"
 wikidata_id: "Q1380154"
 latitude: 50.272944444
 longitude: 8.279
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/400px-Kirche_Walsdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/800px-Kirche_Walsdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1200px-Kirche_Walsdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1920px-Kirche_Walsdorf.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1920px-Kirche_Walsdorf.JPG---
 
 ## Overview
 

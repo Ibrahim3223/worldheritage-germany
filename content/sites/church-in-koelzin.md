@@ -4,13 +4,13 @@ site_name: "Church in Kölzin"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Gützkow"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gützkow"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1515188"
 latitude: 53.9637
 longitude: 13.4498
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/400px-Kölzin-Kirche-Westgiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/800px-Kölzin-Kirche-Westgiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1200px-Kölzin-Kirche-Westgiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1920px-Kölzin-Kirche-Westgiebel.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1920px-Kölzin-Kirche-Westgiebel.JPG---
 
 ## Overview
 

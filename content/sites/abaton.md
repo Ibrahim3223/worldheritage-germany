@@ -4,13 +4,13 @@ site_name: "Abaton"
 date: 2026-01-26
 draft: false
 description: "cinema in Hamburg, Germany"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q305682"
 latitude: 53.56777778
 longitude: 9.98194444
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/400px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/800px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/1200px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/1920px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/1920px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg---
 
 ## Overview
 

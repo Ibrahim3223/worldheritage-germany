@@ -4,19 +4,18 @@ site_name: "Zeche Clarenberg"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q169732"
 latitude: 51.49
 longitude: 7.49583
 images:
-  []
----
+  []---
 
 ## Overview
 

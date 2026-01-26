@@ -4,19 +4,18 @@ site_name: "Prussian Heritage Image Archive"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q860581"
 latitude: 52.5128
 longitude: 13.40998
 images:
-  []
----
+  []---
 
 ## Overview
 

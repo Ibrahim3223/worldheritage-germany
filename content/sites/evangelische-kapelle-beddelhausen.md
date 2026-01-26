@@ -4,13 +4,13 @@ site_name: "Evangelische Kapelle Beddelhausen"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Bad Berleburg"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Bad Berleburg"
+  - "Hesse"
 wikidata_id: "Q1380252"
 latitude: 51.0002
 longitude: 8.49056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/400px-083_ev._Kapelle_Beddelhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/800px-083_ev._Kapelle_Beddelhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/1200px-083_ev._Kapelle_Beddelhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/1920px-083_ev._Kapelle_Beddelhausen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/1920px-083_ev._Kapelle_Beddelhausen.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-3-6640-0063 in Neunburg vorm Wald"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Neunburg vorm Wald, Schwandorf, Upper Palatinate, Bavaria, Germany"
-region: "Neunburg vorm Wald"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Neunburg vorm Wald"
+  - "Bavaria"
 wikidata_id: "Q98280101"
 latitude: 49.348000343
 longitude: 12.388400565
 images:
-  []
----
+  []---
 
 ## Overview
 

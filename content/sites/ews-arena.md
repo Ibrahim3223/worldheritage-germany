@@ -4,13 +4,13 @@ site_name: "EWS Arena"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Göppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Göppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q871283"
 latitude: 48.710833
 longitude: 9.648056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/400px-EWS-Arena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/800px-EWS-Arena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/1200px-EWS-Arena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/1920px-EWS-Arena.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/1920px-EWS-Arena.jpg---
 
 ## Overview
 

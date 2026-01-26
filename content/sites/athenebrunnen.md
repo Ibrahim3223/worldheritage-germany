@@ -4,13 +4,13 @@ site_name: "Athenebrunnen"
 date: 2026-01-26
 draft: false
 description: "Fountain in Stuttgart, Germany"
-region: "Stuttgart-West"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Stuttgart-West"
+  - "Baden-Württemberg"
 wikidata_id: "Q755334"
 latitude: 48.7695
 longitude: 9.16409
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/400px-Athenebrunnen-Stuttgart.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/800px-Athenebrunnen-Stuttgart.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1200px-Athenebrunnen-Stuttgart.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1920px-Athenebrunnen-Stuttgart.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1920px-Athenebrunnen-Stuttgart.jpg---
 
 ## Overview
 

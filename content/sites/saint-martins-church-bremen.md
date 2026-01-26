@@ -4,13 +4,13 @@ site_name: "Saint Martin's Church, Bremen"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Mitte"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Mitte"
+  - "Bremen"
 wikidata_id: "Q1262213"
 latitude: 53.075
 longitude: 8.80417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/400px-StMartiniBremen-01a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/800px-StMartiniBremen-01a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/1200px-StMartiniBremen-01a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/1920px-StMartiniBremen-01a.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/1920px-StMartiniBremen-01a.jpg---
 
 ## Overview
 

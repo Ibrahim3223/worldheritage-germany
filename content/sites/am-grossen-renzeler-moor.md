@@ -4,13 +4,13 @@ site_name: "Am Großen Renzeler Moor"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Kirchdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kirchdorf"
+  - "Lower Saxony"
 wikidata_id: "Q451306"
 latitude: 52.585278055
 longitude: 8.74
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/400px-Am_Großen_Renzeler_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/800px-Am_Großen_Renzeler_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/1200px-Am_Großen_Renzeler_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/1920px-Am_Großen_Renzeler_Moor.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/1920px-Am_Großen_Renzeler_Moor.jpg---
 
 ## Overview
 

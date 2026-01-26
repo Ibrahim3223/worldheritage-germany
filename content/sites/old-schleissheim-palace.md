@@ -4,13 +4,13 @@ site_name: "Old Schleissheim Palace"
 date: 2026-01-26
 draft: false
 description: "old part of Schleissheim Palace"
-region: "Oberschleißheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Oberschleißheim"
+  - "Bavaria"
 wikidata_id: "Q17121832"
 latitude: 48.2489
 longitude: 11.559
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schleissheim-Maximilianshof-01.jpg/400px-Schleissheim-Maximilianshof-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schleissheim-Maximilianshof-01.jpg/800px-Schleissheim-Maximilianshof-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schleissheim-Maximilianshof-01.jpg/1200px-Schleissheim-Maximilianshof-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schleissheim-Maximilianshof-01.jpg/1920px-Schleissheim-Maximilianshof-01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schleissheim-Maximilianshof-01.jpg/1920px-Schleissheim-Maximilianshof-01.jpg---
 
 ## Overview
 

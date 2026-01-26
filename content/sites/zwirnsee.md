@@ -4,19 +4,18 @@ site_name: "Zwirnsee"
 date: 2026-01-26
 draft: false
 description: "lake in Mecklenburg-Vorpommern, Germany"
-region: "Mecklenburg-Vorpommern"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mecklenburg-Vorpommern"
+  - "Brandenburg"
 wikidata_id: "Q244856"
 latitude: 53.3239
 longitude: 13.1654
 images:
-  []
----
+  []---
 
 ## Overview
 

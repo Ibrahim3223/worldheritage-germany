@@ -4,13 +4,13 @@ site_name: "Sankt Rupert"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Freilassing"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Freilassing"
+  - "Bavaria"
 wikidata_id: "Q2323045"
 latitude: 47.8417
 longitude: 12.9792
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/400px-St._Rupert_(Freilassing).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/800px-St._Rupert_(Freilassing).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/1200px-St._Rupert_(Freilassing).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/1920px-St._Rupert_(Freilassing).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/1920px-St._Rupert_(Freilassing).jpg---
 
 ## Overview
 

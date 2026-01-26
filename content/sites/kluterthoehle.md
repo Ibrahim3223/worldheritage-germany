@@ -4,13 +4,13 @@ site_name: "Kluterthöhle"
 date: 2026-01-26
 draft: false
 description: "cave in Germany"
-region: "Ennepetal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"
 categories:
   - "Cave"
 regions:
-  - "Ennepetal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1312293"
 latitude: 51.299166666
 longitude: 7.354722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eingang_Kluterhoehle01.jpg/400px-Eingang_Kluterhoehle01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eingang_Kluterhoehle01.jpg/800px-Eingang_Kluterhoehle01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eingang_Kluterhoehle01.jpg/1200px-Eingang_Kluterhoehle01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eingang_Kluterhoehle01.jpg/1920px-Eingang_Kluterhoehle01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eingang_Kluterhoehle01.jpg/1920px-Eingang_Kluterhoehle01.jpg---
 
 ## Overview
 

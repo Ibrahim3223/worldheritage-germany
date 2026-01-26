@@ -4,19 +4,18 @@ site_name: "Garten Höfling 1; Höfling 2 in Regensburg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-3-62-000-581 (3) in Regensburg, Bavaria"
-region: "Regensburg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"
 categories:
   - "Garden"
 regions:
-  - "Regensburg"
+  - "Bavaria"
 wikidata_id: "Q98682663"
 latitude: 48.973247585
 longitude: 12.127030777
 images:
-  []
----
+  []---
 
 ## Overview
 

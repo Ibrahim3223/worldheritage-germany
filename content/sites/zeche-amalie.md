@@ -4,13 +4,13 @@ site_name: "Zeche Amalie"
 date: 2026-01-26
 draft: false
 description: "mine"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q169651"
 latitude: 51.4672
 longitude: 6.98667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/400px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/800px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/1200px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/1920px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/1920px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg---
 
 ## Overview
 

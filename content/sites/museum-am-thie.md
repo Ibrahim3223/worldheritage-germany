@@ -4,19 +4,18 @@ site_name: "Museum am Thie"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q76636097"
 latitude: 51.510056
 longitude: 9.95616
 images:
-  []
----
+  []---
 
 ## Overview
 

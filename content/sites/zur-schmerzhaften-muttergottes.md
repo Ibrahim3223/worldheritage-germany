@@ -4,13 +4,13 @@ site_name: "Zur Schmerzhaften Muttergottes"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Altenahr"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Altenahr"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q230352"
 latitude: 50.5198
 longitude: 7.00493
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/400px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/800px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/1200px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/1920px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/1920px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg---
 
 ## Overview
 

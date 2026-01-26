@@ -4,13 +4,13 @@ site_name: "All Saints Church, Dresden"
 date: 2026-01-26
 draft: false
 description: "church building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2647844"
 latitude: 51.0383
 longitude: 13.7394
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/400px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/800px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/1200px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/1920px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/1920px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg---
 
 ## Overview
 

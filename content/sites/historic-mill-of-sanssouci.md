@@ -4,13 +4,13 @@ site_name: "Historic Mill of Sanssouci"
 date: 2026-01-26
 draft: false
 description: "Reconstruction of a Dutch windmill west of Potsdam's Sanssouci Palace"
-region: "Potsdam"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Potsdam"
+  - "Brandenburg"
 wikidata_id: "Q1620893"
 latitude: 52.4041
 longitude: 13.0356
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/400px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/800px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1200px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1920px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1920px-20150524_Historic_Mill_of_Sanssouci_7483.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "St. Jakobus Maior (Bubsheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Bubsheim, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Bubsheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bubsheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q2318970"
 latitude: 48.1201
 longitude: 8.83067
 images:
-  []
----
+  []---
 
 ## Overview
 

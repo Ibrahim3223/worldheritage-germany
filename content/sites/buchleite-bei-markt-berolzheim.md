@@ -4,13 +4,13 @@ site_name: "Buchleite bei Markt Berolzheim"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Bavaria, Germany"
-region: "Markt Berolzheim"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Markt Berolzheim"
+  - "Bavaria"
 wikidata_id: "Q658174"
 latitude: 49.0013
 longitude: 10.8431
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/400px-Marktberolzheim.buchleite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/800px-Marktberolzheim.buchleite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/1200px-Marktberolzheim.buchleite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/1920px-Marktberolzheim.buchleite.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/1920px-Marktberolzheim.buchleite.jpg---
 
 ## Overview
 

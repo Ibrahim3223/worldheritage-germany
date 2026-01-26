@@ -4,13 +4,13 @@ site_name: "Burg Grimburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Grimburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Grimburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q1012048"
 latitude: 49.6056
 longitude: 6.875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/400px-BurgGrimburg-5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/800px-BurgGrimburg-5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/1200px-BurgGrimburg-5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/1920px-BurgGrimburg-5.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/1920px-BurgGrimburg-5.jpg---
 
 ## Overview
 

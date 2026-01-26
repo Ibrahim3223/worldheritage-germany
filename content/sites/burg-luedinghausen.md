@@ -4,13 +4,13 @@ site_name: "Burg Lüdinghausen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lüdinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lüdinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q1013051"
 latitude: 51.7717
 longitude: 7.43972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/400px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/800px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/1200px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/1920px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/1920px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg---
 
 ## Overview
 

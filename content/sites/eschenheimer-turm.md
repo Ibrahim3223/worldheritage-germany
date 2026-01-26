@@ -4,13 +4,13 @@ site_name: "Eschenheimer Turm"
 date: 2026-01-26
 draft: false
 description: "landmark of Frankfurt"
-region: "Frankfurt-Innenstadt I"
+region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Frankfurt-Innenstadt I"
+  - "Hesse"
 wikidata_id: "Q883643"
 latitude: 50.116944444
 longitude: 8.679722222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/400px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/800px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/1200px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/1920px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/1920px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Walchensee"
 date: 2026-01-26
 draft: false
 description: "lake in Kochel, Bavaria, Germany"
-region: "Kochel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Kochel"
+  - "Bavaria"
 wikidata_id: "Q174645"
 latitude: 47.593888888
 longitude: 11.346111111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Walchensee_(view_from_the_southwest).jpg---
 
 ## Overview
 

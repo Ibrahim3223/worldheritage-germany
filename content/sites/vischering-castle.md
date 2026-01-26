@@ -4,13 +4,13 @@ site_name: "Vischering Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lüdinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lüdinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q449031"
 latitude: 51.7761
 longitude: 7.44306
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/400px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/800px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/1200px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/1920px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/1920px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg---
 
 ## Overview
 

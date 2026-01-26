@@ -4,13 +4,13 @@ site_name: "Blinder See"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Fronreute"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Fronreute"
+  - "Baden-Württemberg"
 wikidata_id: "Q884283"
 latitude: 47.87972222
 longitude: 9.52472222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BlinderSee.jpg/400px-BlinderSee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BlinderSee.jpg/800px-BlinderSee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BlinderSee.jpg/1200px-BlinderSee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BlinderSee.jpg/1920px-BlinderSee.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BlinderSee.jpg/1920px-BlinderSee.jpg---
 
 ## Overview
 

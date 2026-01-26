@@ -4,13 +4,13 @@ site_name: "Kurpfälzisches Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Heidelberg, Germany"
-region: "Heidelberg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Heidelberg"
+  - "Baden-Württemberg"
 wikidata_id: "Q874724"
 latitude: 49.4114
 longitude: 8.70278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/400px-Kurpfälzisches_Museum_Haupteingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/800px-Kurpfälzisches_Museum_Haupteingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/1200px-Kurpfälzisches_Museum_Haupteingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/1920px-Kurpfälzisches_Museum_Haupteingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/1920px-Kurpfälzisches_Museum_Haupteingang.JPG---
 
 ## Overview
 

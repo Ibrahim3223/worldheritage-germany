@@ -4,13 +4,13 @@ site_name: "Wehrhafter Schmied"
 date: 2026-01-26
 draft: false
 description: "fountain in Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2554580"
 latitude: 50.7749
 longitude: 6.08074
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg/400px-Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg/800px-Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg/1200px-Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg/1920px-Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg/1920px-Aachen,_Skulptur_-Wehrhafter_Schmied-_--_2016_--_2808.jpg---
 
 ## Overview
 

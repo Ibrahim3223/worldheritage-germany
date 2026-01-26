@@ -4,13 +4,13 @@ site_name: "Heiligenfigur"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-174-145 (0) in Volkach, Bavaria"
-region: "Volkach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Volkach"
+  - "Bavaria"
 wikidata_id: "Q14912922"
 latitude: 49.8732
 longitude: 10.2153
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/400px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/800px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/1200px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/1920px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/1920px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg---
 
 ## Overview
 

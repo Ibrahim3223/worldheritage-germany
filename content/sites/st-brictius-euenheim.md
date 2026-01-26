@@ -4,13 +4,13 @@ site_name: "St. Brictius (Euenheim)"
 date: 2026-01-26
 draft: false
 description: "church building in Euskirchen, Germany"
-region: "Euskirchen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Euskirchen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2317694"
 latitude: 50.6531
 longitude: 6.75124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/400px-Euenheim_St.Brictius5516.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/800px-Euenheim_St.Brictius5516.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/1200px-Euenheim_St.Brictius5516.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/1920px-Euenheim_St.Brictius5516.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/1920px-Euenheim_St.Brictius5516.JPG---
 
 ## Overview
 

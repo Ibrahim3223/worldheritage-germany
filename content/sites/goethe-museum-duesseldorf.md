@@ -4,13 +4,13 @@ site_name: "Goethe Museum, Düsseldorf"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Düsseldorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Düsseldorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q28746263"
 latitude: 51.23093
 longitude: 6.78772
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg/400px-Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg/800px-Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg/1200px-Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg/1920px-Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg/1920px-Schloss_Jaegerhof_in_Duesseldorf-Pempelfort,_von_Westen.jpg---
 
 ## Overview
 

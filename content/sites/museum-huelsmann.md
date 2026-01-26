@@ -4,13 +4,13 @@ site_name: "Museum Huelsmann"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bielefeld"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bielefeld"
+  - "Lower Saxony"
 wikidata_id: "Q1924812"
 latitude: 52.022390162
 longitude: 8.545709711
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2013-11-16_MuseumHuelsmann_Bielefeld.jpg/400px-2013-11-16_MuseumHuelsmann_Bielefeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2013-11-16_MuseumHuelsmann_Bielefeld.jpg/800px-2013-11-16_MuseumHuelsmann_Bielefeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2013-11-16_MuseumHuelsmann_Bielefeld.jpg/1200px-2013-11-16_MuseumHuelsmann_Bielefeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2013-11-16_MuseumHuelsmann_Bielefeld.jpg/1920px-2013-11-16_MuseumHuelsmann_Bielefeld.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2013-11-16_MuseumHuelsmann_Bielefeld.jpg/1920px-2013-11-16_MuseumHuelsmann_Bielefeld.jpg---
 
 ## Overview
 

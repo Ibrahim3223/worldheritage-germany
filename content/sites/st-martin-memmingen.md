@@ -4,13 +4,13 @@ site_name: "St. Martin (Memmingen)"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Memmingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Memmingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2321161"
 latitude: 47.985890772
 longitude: 10.178978885
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/400px-StMartinMMvonWestenb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/800px-StMartinMMvonWestenb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/1200px-StMartinMMvonWestenb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/1920px-StMartinMMvonWestenb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/1920px-StMartinMMvonWestenb.jpg---
 
 ## Overview
 

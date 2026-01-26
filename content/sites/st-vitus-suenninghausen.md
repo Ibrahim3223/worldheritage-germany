@@ -4,13 +4,13 @@ site_name: "St. Vitus (Sünninghausen)"
 date: 2026-01-26
 draft: false
 description: "church building in Oelde, Germany"
-region: "Oelde"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Oelde"
+  - "Lower Saxony"
 wikidata_id: "Q2323658"
 latitude: 51.7678
 longitude: 8.14902
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/400px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/800px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/1200px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/1920px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/1920px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg---
 
 ## Overview
 

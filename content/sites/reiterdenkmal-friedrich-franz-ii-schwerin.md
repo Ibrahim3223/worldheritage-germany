@@ -4,13 +4,13 @@ site_name: "Reiterdenkmal Friedrich Franz II. (Schwerin)"
 date: 2026-01-26
 draft: false
 description: "monument in Schwerin, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q2142100"
 latitude: 53.6224
 longitude: 11.4169
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/400px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/800px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/1200px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/1920px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/1920px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg---
 
 ## Overview
 

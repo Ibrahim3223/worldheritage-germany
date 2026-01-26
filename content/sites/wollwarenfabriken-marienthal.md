@@ -4,13 +4,13 @@ site_name: "Wollwarenfabriken Marienthal"
 date: 2026-01-26
 draft: false
 description: "ehemalige Textilfabrik in Afferde bei Hameln"
-region: "Hamelin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Hamelin"
+  - "Lower Saxony"
 wikidata_id: "Q2592691"
 latitude: 52.104139
 longitude: 9.392291
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/400px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/800px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/1200px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/1920px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/1920px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg---
 
 ## Overview
 

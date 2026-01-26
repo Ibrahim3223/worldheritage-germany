@@ -4,13 +4,13 @@ site_name: "Bremen School Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hemelingen"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hemelingen"
+  - "Bremen"
 wikidata_id: "Q15845273"
 latitude: 53.066098
 longitude: 8.860207
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schule_Auf_der_Hohwisch_01.jpg/400px-Schule_Auf_der_Hohwisch_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schule_Auf_der_Hohwisch_01.jpg/800px-Schule_Auf_der_Hohwisch_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schule_Auf_der_Hohwisch_01.jpg/1200px-Schule_Auf_der_Hohwisch_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schule_Auf_der_Hohwisch_01.jpg/1920px-Schule_Auf_der_Hohwisch_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schule_Auf_der_Hohwisch_01.jpg/1920px-Schule_Auf_der_Hohwisch_01.jpg---
 
 ## Overview
 

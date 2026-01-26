@@ -4,19 +4,18 @@ site_name: "Landesarchiv"
 date: 2026-01-26
 draft: false
 description: "archive organization in Schwerin, Germany"
-region: "Schwerin"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"
 categories:
   - "Cultural Institution"
 regions:
-  - "Schwerin"
+  - "Lower Saxony"
 wikidata_id: "Q30263191"
 latitude: 53.626285
 longitude: 11.413857
 images:
-  []
----
+  []---
 
 ## Overview
 

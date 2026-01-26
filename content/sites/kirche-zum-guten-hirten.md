@@ -4,13 +4,13 @@ site_name: "Kirche Zum Guten Hirten"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Tempelhof-Schöneberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Tempelhof-Schöneberg"
+  - "Berlin"
 wikidata_id: "Q1742765"
 latitude: 52.4715
 longitude: 13.3284
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/400px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/800px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/1200px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/1920px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/1920px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg---
 
 ## Overview
 

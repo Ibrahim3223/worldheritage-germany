@@ -4,13 +4,13 @@ site_name: "Wildpark Leipzig"
 date: 2026-01-26
 draft: false
 description: "zoo in Leipzig, Germany"
-region: "Leipzig"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Zoo"
 categories:
   - "Zoo"
 regions:
-  - "Leipzig"
+  - "Saxony"
 wikidata_id: "Q2570815"
 latitude: 51.2978
 longitude: 12.3661
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/400px-Wildpark_Leipzig_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/800px-Wildpark_Leipzig_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/1200px-Wildpark_Leipzig_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/1920px-Wildpark_Leipzig_Eingang.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/1920px-Wildpark_Leipzig_Eingang.JPG---
 
 ## Overview
 

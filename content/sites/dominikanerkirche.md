@@ -4,13 +4,13 @@ site_name: "Dominikanerkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Münster, Germany"
-region: "Münster"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Münster"
+  - "Lower Saxony"
 wikidata_id: "Q1237968"
 latitude: 51.9619
 longitude: 7.63083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/400px-Dominikanerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/800px-Dominikanerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1200px-Dominikanerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1920px-Dominikanerkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1920px-Dominikanerkirche.jpg---
 
 ## Overview
 

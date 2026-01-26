@@ -4,13 +4,13 @@ site_name: "Pfalztheater"
 date: 2026-01-26
 draft: false
 description: "Theater und Opernhaus in Kaiserslautern, Rheinland-Pfalz"
-region: "Kaiserslautern"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Kaiserslautern"
+  - "Baden-Württemberg"
 wikidata_id: "Q1344445"
 latitude: 49.4468
 longitude: 7.7692
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/400px-Pfalztheater_panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/800px-Pfalztheater_panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/1200px-Pfalztheater_panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/1920px-Pfalztheater_panorama.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/1920px-Pfalztheater_panorama.jpg---
 
 ## Overview
 

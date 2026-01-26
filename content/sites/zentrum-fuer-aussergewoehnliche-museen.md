@@ -4,13 +4,13 @@ site_name: "Zentrum für Außergewöhnliche Museen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Altstadt-Lehel"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Altstadt-Lehel"
+  - "Bavaria"
 wikidata_id: "Q191193"
 latitude: 48.135
 longitude: 11.58
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/400px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/800px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/1200px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/1920px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/1920px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg---
 
 ## Overview
 

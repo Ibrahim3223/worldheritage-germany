@@ -4,13 +4,13 @@ site_name: "Holy Grave"
 date: 2026-01-26
 draft: false
 description: "um 1160, beim Abriss der Schottenkapelle 1610 abgetragen und 1623 am heutigen veränderten Standort nunmehr in Nord-Süd-Ausrichtung neu aufgemauert"
-region: "Q252772"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Q252772"
+  - "Bavaria"
 wikidata_id: "Q98743058"
 latitude: 48.889890006
 longitude: 11.190715049
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/400px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/800px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/1200px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/1920px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/1920px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Neue Mühle"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Erfurt"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Erfurt"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1979646"
 latitude: 50.9767
 longitude: 11.03
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/400px-Neue_Mühle_Erfurt_by_Stepro.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/800px-Neue_Mühle_Erfurt_by_Stepro.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/1200px-Neue_Mühle_Erfurt_by_Stepro.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/1920px-Neue_Mühle_Erfurt_by_Stepro.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/1920px-Neue_Mühle_Erfurt_by_Stepro.jpg---
 
 ## Overview
 

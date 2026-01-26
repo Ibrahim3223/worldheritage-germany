@@ -4,13 +4,13 @@ site_name: "Neue Wasserkunst"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q975040"
 latitude: 51.177430555
 longitude: 14.422563888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/400px-Neue_wasserkunst_bautzen_100.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/800px-Neue_wasserkunst_bautzen_100.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/1200px-Neue_wasserkunst_bautzen_100.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/1920px-Neue_wasserkunst_bautzen_100.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/1920px-Neue_wasserkunst_bautzen_100.JPG---
 
 ## Overview
 

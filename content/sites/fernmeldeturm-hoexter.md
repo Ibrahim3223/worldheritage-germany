@@ -4,13 +4,13 @@ site_name: "Fernmeldeturm Höxter"
 date: 2026-01-26
 draft: false
 description: "tower"
-region: "Holzminden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Holzminden"
+  - "Lower Saxony"
 wikidata_id: "Q1407070"
 latitude: 51.7415
 longitude: 9.50328
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/400px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/800px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/1200px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/1920px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/1920px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG---
 
 ## Overview
 

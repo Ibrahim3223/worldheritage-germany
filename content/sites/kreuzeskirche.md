@@ -4,13 +4,13 @@ site_name: "Kreuzeskirche"
 date: 2026-01-26
 draft: false
 description: "church building in Essen, Germany"
-region: "Essen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Essen"
+  - "Lower Saxony"
 wikidata_id: "Q1788260"
 latitude: 51.4594
 longitude: 7.01119
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/400px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/800px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1200px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1920px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1920px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg---
 
 ## Overview
 

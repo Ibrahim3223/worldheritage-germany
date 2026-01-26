@@ -4,13 +4,13 @@ site_name: "Schloss Grünsberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
-region: "Altdorf bei Nürnberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Altdorf bei Nürnberg"
+  - "Bavaria"
 wikidata_id: "Q2799827"
 latitude: 49.3714
 longitude: 11.3272
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/400px-Schloss_Grünsberg_(D-5-74-112-157).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/800px-Schloss_Grünsberg_(D-5-74-112-157).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/1200px-Schloss_Grünsberg_(D-5-74-112-157).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/1920px-Schloss_Grünsberg_(D-5-74-112-157).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/1920px-Schloss_Grünsberg_(D-5-74-112-157).jpg---
 
 ## Overview
 

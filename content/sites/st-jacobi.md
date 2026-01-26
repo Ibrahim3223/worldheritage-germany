@@ -4,13 +4,13 @@ site_name: "St. Jacobi"
 date: 2026-01-26
 draft: false
 description: "church building in Göttingen, Lower Saxony, Germany"
-region: "Göttingen"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Göttingen"
+  - "Hesse"
 wikidata_id: "Q1805915"
 latitude: 51.535
 longitude: 9.93556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/400px-Goe_Jacobi_Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/800px-Goe_Jacobi_Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/1200px-Goe_Jacobi_Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/1920px-Goe_Jacobi_Church.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/1920px-Goe_Jacobi_Church.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Joseph"
 date: 2026-01-26
 draft: false
 description: "church building in Hanover, Germany"
-region: "Vahrenwald-List"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vahrenwald-List"
+  - "Lower Saxony"
 wikidata_id: "Q2319704"
 latitude: 52.3939
 longitude: 9.74214
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/400px-Hannover_St._Joseph.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/800px-Hannover_St._Joseph.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/1200px-Hannover_St._Joseph.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/1920px-Hannover_St._Joseph.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/1920px-Hannover_St._Joseph.jpg---
 
 ## Overview
 

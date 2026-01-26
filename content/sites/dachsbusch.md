@@ -4,19 +4,18 @@ site_name: "Dachsbusch"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Rheinland-Pfalz, Germany"
-region: "Glees"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Glees"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1156775"
 latitude: 50.429
 longitude: 7.23164
 images:
-  []
----
+  []---
 
 ## Overview
 

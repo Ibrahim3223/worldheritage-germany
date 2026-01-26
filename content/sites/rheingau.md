@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Assmannshausen_Hoellenberg.jpg/400px-Assmannshausen_Hoellenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Assmannshausen_Hoellenberg.jpg/800px-Assmannshausen_Hoellenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Assmannshausen_Hoellenberg.jpg/1200px-Assmannshausen_Hoellenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Assmannshausen_Hoellenberg.jpg/1920px-Assmannshausen_Hoellenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Assmannshausen_Hoellenberg.jpg/1920px-Assmannshausen_Hoellenberg.jpg---
 
 ## Overview
 

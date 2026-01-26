@@ -4,13 +4,13 @@ site_name: "Schöntal Abbey"
 date: 2026-01-26
 draft: false
 description: "abbey"
-region: "Schöntal"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Schöntal"
+  - "Baden-Württemberg"
 wikidata_id: "Q328036"
 latitude: 49.3281
 longitude: 9.5047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kloster_Schoental_20080725_2.jpg/400px-Kloster_Schoental_20080725_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kloster_Schoental_20080725_2.jpg/800px-Kloster_Schoental_20080725_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kloster_Schoental_20080725_2.jpg/1200px-Kloster_Schoental_20080725_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kloster_Schoental_20080725_2.jpg/1920px-Kloster_Schoental_20080725_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kloster_Schoental_20080725_2.jpg/1920px-Kloster_Schoental_20080725_2.jpg---
 
 ## Overview
 

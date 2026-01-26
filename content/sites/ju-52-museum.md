@@ -4,13 +4,13 @@ site_name: "Ju-52-Museum"
 date: 2026-01-26
 draft: false
 description: "Aviation museum in Wunstorf, Germany"
-region: "Wunstorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Wunstorf"
+  - "Lower Saxony"
 wikidata_id: "Q1710288"
 latitude: 52.461335089
 longitude: 9.411581083
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/400px-Ju52mus-halle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/800px-Ju52mus-halle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/1200px-Ju52mus-halle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/1920px-Ju52mus-halle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/1920px-Ju52mus-halle.jpg---
 
 ## Overview
 

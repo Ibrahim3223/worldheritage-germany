@@ -4,13 +4,13 @@ site_name: "Koenraad-Bosman-Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Rees, Germany"
-region: "Rees"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Rees"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q27938135"
 latitude: 51.75944444
 longitude: 6.39927778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/400px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/800px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/1200px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/1920px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/1920px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg---
 
 ## Overview
 

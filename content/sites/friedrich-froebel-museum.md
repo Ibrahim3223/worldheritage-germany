@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/400px-Fr.Fröbel.Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/800px-Fr.Fröbel.Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/1200px-Fr.Fröbel.Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/1920px-Fr.Fröbel.Museum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/1920px-Fr.Fröbel.Museum.JPG---
 
 ## Overview
 

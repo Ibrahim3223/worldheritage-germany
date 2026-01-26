@@ -4,13 +4,13 @@ site_name: "Stadtkirche St. Jakobi"
 date: 2026-01-26
 draft: false
 description: "church building in Chemnitz, Saxony, Germany"
-region: "Zentrum"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zentrum"
+  - "Saxony"
 wikidata_id: "Q2327430"
 latitude: 50.8328
 longitude: 12.9192
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/400px-Jakobikirche_von_Norden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/800px-Jakobikirche_von_Norden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/1200px-Jakobikirche_von_Norden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/1920px-Jakobikirche_von_Norden.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/1920px-Jakobikirche_von_Norden.JPG---
 
 ## Overview
 

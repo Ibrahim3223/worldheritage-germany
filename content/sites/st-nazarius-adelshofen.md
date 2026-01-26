@@ -4,13 +4,13 @@ site_name: "St. Nazarius (Adelshofen)"
 date: 2026-01-26
 draft: false
 description: "church building in Eppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Eppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Eppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q2321817"
 latitude: 49.1675
 longitude: 8.88894
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/400px-Adelshofen-Nazarius-2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/800px-Adelshofen-Nazarius-2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/1200px-Adelshofen-Nazarius-2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/1920px-Adelshofen-Nazarius-2009.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/1920px-Adelshofen-Nazarius-2009.jpg---
 
 ## Overview
 

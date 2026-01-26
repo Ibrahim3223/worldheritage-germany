@@ -4,19 +4,18 @@ site_name: "Philipps-Universität Marburg Centrum für Nah- und Mittelost-Studie
 date: 2026-01-26
 draft: false
 description: "academic department"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "University"
 categories:
   - "University"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q101380972"
 latitude: 50.81438
 longitude: 8.77249
 images:
-  []
----
+  []---
 
 ## Overview
 

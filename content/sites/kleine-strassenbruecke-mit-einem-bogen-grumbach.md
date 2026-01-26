@@ -4,19 +4,18 @@ site_name: "Kleine Straßenbrücke mit einem Bogen Grumbach"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Wilsdruff"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Wilsdruff"
+  - "Saxony"
 wikidata_id: "Q49444224"
 latitude: 51.03664879
 longitude: 13.537725984
 images:
-  []
----
+  []---
 
 ## Overview
 

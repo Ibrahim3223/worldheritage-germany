@@ -4,13 +4,13 @@ site_name: "Denkmal für die Märzgefallenen (Eisenach)"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Germany"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Germany"
+  - "Thuringia"
 wikidata_id: "Q1188032"
 latitude: 50.9778
 longitude: 10.3047
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/400px-ESA_DKM_MAERZGEF.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/800px-ESA_DKM_MAERZGEF.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/1200px-ESA_DKM_MAERZGEF.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/1920px-ESA_DKM_MAERZGEF.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/1920px-ESA_DKM_MAERZGEF.jpg---
 
 ## Overview
 

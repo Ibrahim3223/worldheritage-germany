@@ -4,13 +4,13 @@ site_name: "Peldemühle Esens"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
-region: "Esens"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Esens"
+  - "Lower Saxony"
 wikidata_id: "Q1701646"
 latitude: 53.6499
 longitude: 7.61226
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/400px-Mühle_in_Esens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/800px-Mühle_in_Esens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/1200px-Mühle_in_Esens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/1920px-Mühle_in_Esens.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/1920px-Mühle_in_Esens.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wilhelm Ostwald Park"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Großbothen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großbothen"
+  - "Saxony"
 wikidata_id: "Q2571532"
 latitude: 51.1922
 longitude: 12.7428
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Haus_Energie_Großbothen.JPG/400px-Haus_Energie_Großbothen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Haus_Energie_Großbothen.JPG/800px-Haus_Energie_Großbothen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Haus_Energie_Großbothen.JPG/1200px-Haus_Energie_Großbothen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Haus_Energie_Großbothen.JPG/1920px-Haus_Energie_Großbothen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Haus_Energie_Großbothen.JPG/1920px-Haus_Energie_Großbothen.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Town hall Iserlohn"
 date: 2026-01-26
 draft: false
 description: "Rathaus in Iserlohn, Märkischer Kreis, Nordrhein-Westfalen"
-region: "Iserlohn"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Iserlohn"
+  - "Lower Saxony"
 wikidata_id: "Q117087166"
 latitude: 51.376458
 longitude: 7.701735
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/400px-Iserlohn-Rathaus-1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/800px-Iserlohn-Rathaus-1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/1200px-Iserlohn-Rathaus-1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/1920px-Iserlohn-Rathaus-1-Asio.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/1920px-Iserlohn-Rathaus-1-Asio.JPG---
 
 ## Overview
 

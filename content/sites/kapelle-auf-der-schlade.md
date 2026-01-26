@@ -4,19 +4,18 @@ site_name: "Kapelle auf der Schlade"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Meschede"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Meschede"
+  - "Hesse"
 wikidata_id: "Q1304451"
 latitude: 51.3378
 longitude: 8.23557
 images:
-  []
----
+  []---
 
 ## Overview
 

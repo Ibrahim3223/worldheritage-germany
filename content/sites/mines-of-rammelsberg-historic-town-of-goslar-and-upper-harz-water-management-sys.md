@@ -4,13 +4,13 @@ site_name: "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water M
 date: 2026-01-26
 draft: false
 description: "World Heritage Site in Lower Saxony"
-region: "Goslar district"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
 categories:
   - "Mine"
 regions:
-  - "Goslar district"
+  - "Lower Saxony"
 wikidata_id: "Q10649093"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/400px-LuftbRammelsbg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/800px-LuftbRammelsbg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/1200px-LuftbRammelsbg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/1920px-LuftbRammelsbg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/1920px-LuftbRammelsbg.JPG---
 
 ## Overview
 

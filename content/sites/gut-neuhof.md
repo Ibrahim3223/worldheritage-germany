@@ -4,13 +4,13 @@ site_name: "Gut Neuhof"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus im Ortsteil Heimsen der Stadt Petershagen im Kreis Minden-Lübbecke"
-region: "Petershagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Petershagen"
+  - "Lower Saxony"
 wikidata_id: "Q1556995"
 latitude: 52.4692
 longitude: 9.08583
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gut_Neuhof2.jpg/400px-Gut_Neuhof2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gut_Neuhof2.jpg/800px-Gut_Neuhof2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gut_Neuhof2.jpg/1200px-Gut_Neuhof2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gut_Neuhof2.jpg/1920px-Gut_Neuhof2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gut_Neuhof2.jpg/1920px-Gut_Neuhof2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Servatius"
 date: 2026-01-26
 draft: false
 description: "church in Bornheim (Rhineland), Germany"
-region: "Bornheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bornheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q2323148"
 latitude: 50.7615
 longitude: 6.98968
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/400px-St._Servatius_Bornheim_20130621.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/800px-St._Servatius_Bornheim_20130621.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/1200px-St._Servatius_Bornheim_20130621.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/1920px-St._Servatius_Bornheim_20130621.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/1920px-St._Servatius_Bornheim_20130621.jpg---
 
 ## Overview
 

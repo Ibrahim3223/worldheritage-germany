@@ -4,13 +4,13 @@ site_name: "Kunsthalle Tübingen"
 date: 2026-01-26
 draft: false
 description: "German art museum"
-region: "Tübingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Tübingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q509617"
 latitude: 48.5419
 longitude: 9.04778
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kunsthalle_Tübingen_(2005).jpg/400px-Kunsthalle_Tübingen_(2005).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kunsthalle_Tübingen_(2005).jpg/800px-Kunsthalle_Tübingen_(2005).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kunsthalle_Tübingen_(2005).jpg/1200px-Kunsthalle_Tübingen_(2005).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kunsthalle_Tübingen_(2005).jpg/1920px-Kunsthalle_Tübingen_(2005).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kunsthalle_Tübingen_(2005).jpg/1920px-Kunsthalle_Tübingen_(2005).jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Mausoleum Arbeitsamtstraße 5 in Cham (Oberpfalz)"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-3-72-116-64 (2) in Cham (Oberpfalz), Bavaria"
-region: "Cham"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Cham"
+  - "Bavaria"
 wikidata_id: "Q98677316"
 latitude: 49.222689576
 longitude: 12.662737433
 images:
-  []
----
+  []---
 
 ## Overview
 

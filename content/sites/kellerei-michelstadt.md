@@ -4,13 +4,13 @@ site_name: "Kellerei Michelstadt"
 date: 2026-01-26
 draft: false
 description: "Burg im Odenwald, Deutschland"
-region: "Michelstadt"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Michelstadt"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013122"
 latitude: 49.678
 longitude: 9.00445
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/400px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/800px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/1200px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/1920px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/1920px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg---
 
 ## Overview
 

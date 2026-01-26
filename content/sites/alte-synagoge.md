@@ -4,13 +4,13 @@ site_name: "Alte Synagoge"
 date: 2026-01-26
 draft: false
 description: "former synagogue in Heilbronn, Germany"
-region: "Heilbronn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Heilbronn"
+  - "Baden-Württemberg"
 wikidata_id: "Q436308"
 latitude: 49.14
 longitude: 9.22181
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Heilbronn_Synagoge_1900.jpg/400px-Heilbronn_Synagoge_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Heilbronn_Synagoge_1900.jpg/800px-Heilbronn_Synagoge_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Heilbronn_Synagoge_1900.jpg/1200px-Heilbronn_Synagoge_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Heilbronn_Synagoge_1900.jpg/1920px-Heilbronn_Synagoge_1900.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Heilbronn_Synagoge_1900.jpg/1920px-Heilbronn_Synagoge_1900.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Rehmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "District of Berchtesgadener Land"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "District of Berchtesgadener Land"
+  - "Bavaria"
 wikidata_id: "Q2138989"
 latitude: 47.633269
 longitude: 13.003061
 images:
-  []
----
+  []---
 
 ## Overview
 

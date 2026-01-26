@@ -4,13 +4,13 @@ site_name: "St. Georg, Brockhagen"
 date: 2026-01-26
 draft: false
 description: "Baroque Protestant church"
-region: "Steinhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Steinhagen"
+  - "Lower Saxony"
 wikidata_id: "Q1289413"
 latitude: 51.9919
 longitude: 8.34614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/400px-Brockhagen_Evangelische_Pfarrkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/800px-Brockhagen_Evangelische_Pfarrkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/1200px-Brockhagen_Evangelische_Pfarrkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/1920px-Brockhagen_Evangelische_Pfarrkirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/1920px-Brockhagen_Evangelische_Pfarrkirche.jpg---
 
 ## Overview
 

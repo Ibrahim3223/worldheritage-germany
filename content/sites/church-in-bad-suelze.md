@@ -4,13 +4,13 @@ site_name: "Church in Bad Sülze"
 date: 2026-01-26
 draft: false
 description: "church building in Bad Sülze, Germany"
-region: "Bad Sülze"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bad Sülze"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2327368"
 latitude: 54.1098
 longitude: 12.6614
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Sülze_Kirche.jpg/400px-Bad_Sülze_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Sülze_Kirche.jpg/800px-Bad_Sülze_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Sülze_Kirche.jpg/1200px-Bad_Sülze_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Sülze_Kirche.jpg/1920px-Bad_Sülze_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Sülze_Kirche.jpg/1920px-Bad_Sülze_Kirche.jpg---
 
 ## Overview
 

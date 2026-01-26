@@ -4,13 +4,13 @@ site_name: "Burgruine Flossenbürg"
 date: 2026-01-26
 draft: false
 description: "rock castle"
-region: "Flossenbürg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Flossenbürg"
+  - "Bavaria"
 wikidata_id: "Q1011727"
 latitude: 49.7344
 longitude: 12.3453
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/400px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/800px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/1200px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/1920px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/1920px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg---
 
 ## Overview
 

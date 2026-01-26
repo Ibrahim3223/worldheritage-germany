@@ -4,13 +4,13 @@ site_name: "St. Jürgen"
 date: 2026-01-26
 draft: false
 description: "church building in Lübeck, Germany"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q2316312"
 latitude: 53.8531
 longitude: 10.7008
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WP_St_Jürgen_Kapelle_1.jpg/400px-WP_St_Jürgen_Kapelle_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WP_St_Jürgen_Kapelle_1.jpg/800px-WP_St_Jürgen_Kapelle_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WP_St_Jürgen_Kapelle_1.jpg/1200px-WP_St_Jürgen_Kapelle_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WP_St_Jürgen_Kapelle_1.jpg/1920px-WP_St_Jürgen_Kapelle_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WP_St_Jürgen_Kapelle_1.jpg/1920px-WP_St_Jürgen_Kapelle_1.jpg---
 
 ## Overview
 

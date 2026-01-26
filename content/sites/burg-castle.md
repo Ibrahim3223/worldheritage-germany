@@ -4,13 +4,13 @@ site_name: "Burg Castle"
 date: 2026-01-26
 draft: false
 description: "Castle in Solingen, NRW, Germany"
-region: "Solingen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Solingen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q573688"
 latitude: 51.137608333
 longitude: 7.152777777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/400px-Schloss-burg-20040223-135s.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/800px-Schloss-burg-20040223-135s.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/1200px-Schloss-burg-20040223-135s.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/1920px-Schloss-burg-20040223-135s.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/1920px-Schloss-burg-20040223-135s.jpg---
 
 ## Overview
 

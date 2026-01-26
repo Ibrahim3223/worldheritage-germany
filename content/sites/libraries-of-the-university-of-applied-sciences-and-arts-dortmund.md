@@ -4,13 +4,13 @@ site_name: "Libraries of the University of Applied Sciences and Arts Dortmund"
 date: 2026-01-26
 draft: false
 description: "university library"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q1391177"
 latitude: 51.495
 longitude: 7.41916
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fachhochschule_Dortmund_SoWi.JPG/400px-Fachhochschule_Dortmund_SoWi.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fachhochschule_Dortmund_SoWi.JPG/800px-Fachhochschule_Dortmund_SoWi.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fachhochschule_Dortmund_SoWi.JPG/1200px-Fachhochschule_Dortmund_SoWi.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fachhochschule_Dortmund_SoWi.JPG/1920px-Fachhochschule_Dortmund_SoWi.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fachhochschule_Dortmund_SoWi.JPG/1920px-Fachhochschule_Dortmund_SoWi.JPG---
 
 ## Overview
 

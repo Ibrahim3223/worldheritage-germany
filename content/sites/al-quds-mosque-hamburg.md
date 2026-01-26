@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/400px-Quds-panorama.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/800px-Quds-panorama.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/1200px-Quds-panorama.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/1920px-Quds-panorama.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/1920px-Quds-panorama.JPG---
 
 ## Overview
 

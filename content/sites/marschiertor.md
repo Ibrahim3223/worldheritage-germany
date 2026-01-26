@@ -4,13 +4,13 @@ site_name: "Marschiertor"
 date: 2026-01-26
 draft: false
 description: "city gate of Aachen, Germany"
-region: "Aachen"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"
 categories:
   - "City Gate"
 regions:
-  - "Aachen"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q878061"
 latitude: 50.76815
 longitude: 6.08693
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/400px-Marschiertor_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/800px-Marschiertor_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/1200px-Marschiertor_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/1920px-Marschiertor_Aachen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/1920px-Marschiertor_Aachen.jpg---
 
 ## Overview
 

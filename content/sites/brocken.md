@@ -4,13 +4,13 @@ site_name: "Brocken"
 date: 2026-01-26
 draft: false
 description: "highest mountain of the Harz Mountains in Saxony-Anhalt, Germany"
-region: "Wernigerode"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Wernigerode"
+  - "Lower Saxony"
 wikidata_id: "Q155721"
 latitude: 51.7991251
 longitude: 10.6156365
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/400px-Brocken-Gipfelbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/800px-Brocken-Gipfelbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1200px-Brocken-Gipfelbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1920px-Brocken-Gipfelbereich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1920px-Brocken-Gipfelbereich.jpg---
 
 ## Overview
 

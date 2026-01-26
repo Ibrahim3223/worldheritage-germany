@@ -4,13 +4,13 @@ site_name: "Berne town hall"
 date: 2026-01-26
 draft: false
 description: "two buildings in Berne, Lower Saxony"
-region: "Berne"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Berne"
+  - "Lower Saxony"
 wikidata_id: "Q122986864"
 latitude: 53.184309
 longitude: 8.477236
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg/400px-Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg/800px-Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg/1200px-Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg/1920px-Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg/1920px-Am_Breithof_6_in_Berne_(Ldkrs._Wesermarsch).jpg---
 
 ## Overview
 

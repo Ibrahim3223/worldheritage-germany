@@ -4,13 +4,13 @@ site_name: "Evangelische Kirche Grävenwiesbach"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Grävenwiesbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Grävenwiesbach"
+  - "Hesse"
 wikidata_id: "Q1380721"
 latitude: 50.3883
 longitude: 8.4575
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/400px-Evang_Kirche_Graevenwiesbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/800px-Evang_Kirche_Graevenwiesbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1200px-Evang_Kirche_Graevenwiesbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1920px-Evang_Kirche_Graevenwiesbach.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1920px-Evang_Kirche_Graevenwiesbach.jpg---
 
 ## Overview
 

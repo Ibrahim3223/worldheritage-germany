@@ -4,13 +4,13 @@ site_name: "City Museum Bautzen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bautzen"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bautzen"
+  - "Saxony"
 wikidata_id: "Q1471331"
 latitude: 51.1802
 longitude: 14.4271
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg/400px-Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg/800px-Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg/1200px-Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg/1920px-Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg/1920px-Bautzen_-_Kornmarkt_-_Stadtmuseum_04_ies.jpg---
 
 ## Overview
 

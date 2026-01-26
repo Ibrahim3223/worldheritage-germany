@@ -4,13 +4,13 @@ site_name: "St. Nikolai Pritzwalk"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Pritzwalk"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pritzwalk"
+  - "Brandenburg"
 wikidata_id: "Q1327061"
 latitude: 53.1502
 longitude: 12.1761
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/400px-St_Nikolai_Pritzwalk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/800px-St_Nikolai_Pritzwalk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/1200px-St_Nikolai_Pritzwalk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/1920px-St_Nikolai_Pritzwalk.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/1920px-St_Nikolai_Pritzwalk.jpg---
 
 ## Overview
 

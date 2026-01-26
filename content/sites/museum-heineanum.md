@@ -4,13 +4,13 @@ site_name: "Museum Heineanum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Halberstadt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Halberstadt"
+  - "Lower Saxony"
 wikidata_id: "Q1728249"
 latitude: 51.8965
 longitude: 11.0484
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/400px-20240507_xl_1035-Museum_Heineanum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/800px-20240507_xl_1035-Museum_Heineanum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/1200px-20240507_xl_1035-Museum_Heineanum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/1920px-20240507_xl_1035-Museum_Heineanum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/1920px-20240507_xl_1035-Museum_Heineanum.jpg---
 
 ## Overview
 

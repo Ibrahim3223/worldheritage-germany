@@ -4,19 +4,18 @@ site_name: "Steinbogenbrücke; Stadtpark (Sachgesamtheit) Großenhain"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Großenhain"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Großenhain"
+  - "Saxony"
 wikidata_id: "Q49450434"
 latitude: 51.287552545
 longitude: 13.519348225
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Jarßumer Kirche"
 date: 2026-01-26
 draft: false
 description: "church building in Emden, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1683729"
 latitude: 53.336075
 longitude: 7.249587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/400px-ChurchJarßum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/800px-ChurchJarßum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1200px-ChurchJarßum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1920px-ChurchJarßum.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1920px-ChurchJarßum.JPG---
 
 ## Overview
 

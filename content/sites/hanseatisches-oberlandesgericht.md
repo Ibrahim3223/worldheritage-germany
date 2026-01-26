@@ -4,19 +4,18 @@ site_name: "Hanseatisches Oberlandesgericht"
 date: 2026-01-26
 draft: false
 description: "Gerichtsgebäude in Hamburg"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Courthouse"
 categories:
   - "Courthouse"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q110153037"
 latitude: 53.55688889
 longitude: 9.97644444
 images:
-  []
----
+  []---
 
 ## Overview
 

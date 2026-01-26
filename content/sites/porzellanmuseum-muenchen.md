@@ -4,13 +4,13 @@ site_name: "Porzellanmuseum München"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q2105542"
 latitude: 48.1558
 longitude: 11.5056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Marstallmuseum_Nymphenburg-1.jpg/400px-Marstallmuseum_Nymphenburg-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Marstallmuseum_Nymphenburg-1.jpg/800px-Marstallmuseum_Nymphenburg-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Marstallmuseum_Nymphenburg-1.jpg/1200px-Marstallmuseum_Nymphenburg-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Marstallmuseum_Nymphenburg-1.jpg/1920px-Marstallmuseum_Nymphenburg-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Marstallmuseum_Nymphenburg-1.jpg/1920px-Marstallmuseum_Nymphenburg-1.jpg---
 
 ## Overview
 

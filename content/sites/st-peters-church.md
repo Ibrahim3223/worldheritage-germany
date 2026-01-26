@@ -4,13 +4,13 @@ site_name: "St. Peter’s Church"
 date: 2026-01-26
 draft: false
 description: "church building in Altstadt (Hamburg), Germany"
-region: "Hamburg-Mitte"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Mitte"
+  - "Hamburg"
 wikidata_id: "Q535443"
 latitude: 53.550278
 longitude: 9.996389
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/400px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/800px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/1200px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/1920px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/1920px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg---
 
 ## Overview
 

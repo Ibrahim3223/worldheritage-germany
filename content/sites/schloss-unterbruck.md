@@ -4,19 +4,18 @@ site_name: "Schloss Unterbruck"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bavaria, Germany"
-region: "Kastl"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Kastl"
+  - "Bavaria"
 wikidata_id: "Q19964553"
 latitude: 49.82432114
 longitude: 11.891534525
 images:
-  []
----
+  []---
 
 ## Overview
 

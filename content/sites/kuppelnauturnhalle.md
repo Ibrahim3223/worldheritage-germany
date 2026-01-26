@@ -4,13 +4,13 @@ site_name: "Kuppelnauturnhalle"
 date: 2026-01-26
 draft: false
 description: "former building in Ravensburg, Germany"
-region: "Ravensburg"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Ravensburg"
+  - "Baden-Württemberg"
 wikidata_id: "Q17577112"
 latitude: 47.786849
 longitude: 9.614807
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/400px-Kuppelnauturnhalle_Ravensburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/800px-Kuppelnauturnhalle_Ravensburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/1200px-Kuppelnauturnhalle_Ravensburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/1920px-Kuppelnauturnhalle_Ravensburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/1920px-Kuppelnauturnhalle_Ravensburg.jpg---
 
 ## Overview
 

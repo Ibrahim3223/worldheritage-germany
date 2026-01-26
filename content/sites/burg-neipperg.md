@@ -4,13 +4,13 @@ site_name: "Burg Neipperg"
 date: 2026-01-26
 draft: false
 description: "castle in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
-region: "Brackenheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Brackenheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013225"
 latitude: 49.1045
 longitude: 9.05143
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/400px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/800px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/1200px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/1920px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/1920px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg---
 
 ## Overview
 

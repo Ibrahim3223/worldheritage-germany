@@ -4,13 +4,13 @@ site_name: "Begegnungskirche (Berlin)"
 date: 2026-01-26
 draft: false
 description: "Place of meeting church in Berlin"
-region: "Reinickendorf"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Reinickendorf"
+  - "Berlin"
 wikidata_id: "Q11722055"
 latitude: 52.5666
 longitude: 13.3447
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/400px-Begegnungskirche_Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/800px-Begegnungskirche_Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/1200px-Begegnungskirche_Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/1920px-Begegnungskirche_Portal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/1920px-Begegnungskirche_Portal.jpg---
 
 ## Overview
 

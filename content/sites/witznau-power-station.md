@@ -4,13 +4,13 @@ site_name: "Witznau power station"
 date: 2026-01-26
 draft: false
 description: "building in Ühlingen-Birkendorf, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Ühlingen-Birkendorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Ühlingen-Birkendorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q1786234"
 latitude: 47.687805555
 longitude: 8.251388888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg/400px-Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg/800px-Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg/1200px-Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg/1920px-Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg/1920px-Ühlingen-Birkendorf_Kraftwerk_Witznau_Bild_2.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Schloss Mosigkau"
 date: 2026-01-26
 draft: false
 description: "castle in Saxony-Anhalt, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q473831"
 latitude: 51.806
 longitude: 12.1508
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/400px-Schloss_Mosigkau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/800px-Schloss_Mosigkau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/1200px-Schloss_Mosigkau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/1920px-Schloss_Mosigkau.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/1920px-Schloss_Mosigkau.JPG---
 
 ## Overview
 

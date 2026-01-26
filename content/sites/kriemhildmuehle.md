@@ -4,13 +4,13 @@ site_name: "Kriemhildmühle"
 date: 2026-01-26
 draft: false
 description: "windmill"
-region: "Xanten"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Xanten"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q881485"
 latitude: 51.663611
 longitude: 6.450556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KriemhildMuehle.jpg/400px-KriemhildMuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KriemhildMuehle.jpg/800px-KriemhildMuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KriemhildMuehle.jpg/1200px-KriemhildMuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KriemhildMuehle.jpg/1920px-KriemhildMuehle.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KriemhildMuehle.jpg/1920px-KriemhildMuehle.jpg---
 
 ## Overview
 

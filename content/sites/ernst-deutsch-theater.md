@@ -4,13 +4,13 @@ site_name: "Ernst Deutsch Theater"
 date: 2026-01-26
 draft: false
 description: "theatre and former cinema in Hamburg, Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q51916"
 latitude: 53.56932222
 longitude: 10.026275
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/400px-ErnstDeutschTheatre01.SW.20040501.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/800px-ErnstDeutschTheatre01.SW.20040501.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1200px-ErnstDeutschTheatre01.SW.20040501.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1920px-ErnstDeutschTheatre01.SW.20040501.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1920px-ErnstDeutschTheatre01.SW.20040501.JPG---
 
 ## Overview
 

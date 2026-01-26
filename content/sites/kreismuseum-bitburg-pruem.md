@@ -4,19 +4,18 @@ site_name: "Kreismuseum Bitburg-Prüm"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bitburg"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bitburg"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q28604091"
 latitude: 49.96961
 longitude: 6.523333
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Cultural heritage D-5-6831-0006 in Spalt"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
-region: "Spalt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Spalt"
+  - "Bavaria"
 wikidata_id: "Q98124721"
 latitude: 49.186962017
 longitude: 10.933583591
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/400px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/800px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/1200px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/1920px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/1920px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg---
 
 ## Overview
 

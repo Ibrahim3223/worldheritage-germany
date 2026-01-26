@@ -4,13 +4,13 @@ site_name: "St. Peter (Hamburg-Groß Borstel)"
 date: 2026-01-26
 draft: false
 description: "church building in Hamburg, Germany"
-region: "Hamburg-Nord"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hamburg-Nord"
+  - "Hamburg"
 wikidata_id: "Q1607806"
 latitude: 53.60738889
 longitude: 9.97647222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/400px-Spgb_ganz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/800px-Spgb_ganz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/1200px-Spgb_ganz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/1920px-Spgb_ganz.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/1920px-Spgb_ganz.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kottmar"
 date: 2026-01-26
 draft: false
 description: "mountain in Saxony, Germany"
-region: "Görlitz District"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Görlitz District"
+  - "Saxony"
 wikidata_id: "Q163306"
 latitude: 51.0101101
 longitude: 14.6564229
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/400px-Hutberg_to_Kottmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/800px-Hutberg_to_Kottmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/1200px-Hutberg_to_Kottmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/1920px-Hutberg_to_Kottmar.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/1920px-Hutberg_to_Kottmar.jpg---
 
 ## Overview
 

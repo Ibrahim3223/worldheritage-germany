@@ -4,13 +4,13 @@ site_name: "Palais Hoym"
 date: 2026-01-26
 draft: false
 description: "demolsihed building in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"
 categories:
   - "Palace"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2047015"
 latitude: 51.0501
 longitude: 13.7434
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg/400px-Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg/800px-Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg/1200px-Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg/1920px-Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg/1920px-Dresden,_Palais_Hoym_(auch_Palais_Riesch_oder_Harmoniegebäude)_,_Innere_Pirnaische_Gasse_6_(später_Landhausstraße_11).jpg---
 
 ## Overview
 

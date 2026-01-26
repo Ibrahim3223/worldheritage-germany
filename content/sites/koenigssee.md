@@ -4,13 +4,13 @@ site_name: "Königssee"
 date: 2026-01-26
 draft: false
 description: "lake in Schönau am Königsee, Bavaria, Germany"
-region: "Schönau am Königsee"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Schönau am Königsee"
+  - "Bavaria"
 wikidata_id: "Q156715"
 latitude: 47.55
 longitude: 12.975
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/400px-Königssee_mirror_view_from_Malerwinkel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/800px-Königssee_mirror_view_from_Malerwinkel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/1200px-Königssee_mirror_view_from_Malerwinkel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/1920px-Königssee_mirror_view_from_Malerwinkel.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/1920px-Königssee_mirror_view_from_Malerwinkel.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Grabungsmuseum und Krypta"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q76631343"
 latitude: 49.274242
 longitude: 9.832233
 images:
-  []
----
+  []---
 
 ## Overview
 

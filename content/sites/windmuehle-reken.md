@@ -4,13 +4,13 @@ site_name: "Windmühle Reken"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Reken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Reken"
+  - "Lower Saxony"
 wikidata_id: "Q16498266"
 latitude: 51.832221
 longitude: 7.053476
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/400px-Windmühle_in_Groß-Reken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/800px-Windmühle_in_Groß-Reken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/1200px-Windmühle_in_Groß-Reken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/1920px-Windmühle_in_Groß-Reken.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/1920px-Windmühle_in_Groß-Reken.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Gymnasium Dresden-Plauen"
 date: 2026-01-26
 draft: false
 description: "secondary school in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1558099"
 latitude: 51.0271
 longitude: 13.705
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/400px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/800px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/1200px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/1920px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/1920px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG---
 
 ## Overview
 

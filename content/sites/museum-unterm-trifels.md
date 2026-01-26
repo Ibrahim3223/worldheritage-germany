@@ -4,13 +4,13 @@ site_name: "Museum unterm Trifels"
 date: 2026-01-26
 draft: false
 description: ""
-region: "Annweiler am Trifels"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Annweiler am Trifels"
+  - "Baden-Württemberg"
 wikidata_id: "Q18411730"
 latitude: 49.20359
 longitude: 7.96357
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/400px-Museum_unterm_Trifels.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/800px-Museum_unterm_Trifels.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/1200px-Museum_unterm_Trifels.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/1920px-Museum_unterm_Trifels.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/1920px-Museum_unterm_Trifels.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Buchhorster Auwald"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Balge"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Balge"
+  - "Lower Saxony"
 wikidata_id: "Q998537"
 latitude: 52.6975
 longitude: 9.17722
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/400px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/800px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/1200px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/1920px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/1920px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg---
 
 ## Overview
 

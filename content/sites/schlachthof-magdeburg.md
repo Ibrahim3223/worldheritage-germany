@@ -4,13 +4,13 @@ site_name: "Schlachthof Magdeburg"
 date: 2026-01-26
 draft: false
 description: "Wohn- und Gewerbegebiet in Magdeburg, ehemals Schlachthof"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1567399"
 latitude: 52.1223
 longitude: 11.6124
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/400px-Schlachthof_Magdeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/800px-Schlachthof_Magdeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/1200px-Schlachthof_Magdeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/1920px-Schlachthof_Magdeburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/1920px-Schlachthof_Magdeburg.jpg---
 
 ## Overview
 

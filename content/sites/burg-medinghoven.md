@@ -4,13 +4,13 @@ site_name: "Burg Medinghoven"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hardtberg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Hardtberg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013090"
 latitude: 50.713104
 longitude: 7.035063
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Burg_Medinghoven.JPG/400px-Burg_Medinghoven.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Burg_Medinghoven.JPG/800px-Burg_Medinghoven.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Burg_Medinghoven.JPG/1200px-Burg_Medinghoven.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Burg_Medinghoven.JPG/1920px-Burg_Medinghoven.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Burg_Medinghoven.JPG/1920px-Burg_Medinghoven.JPG---
 
 ## Overview
 

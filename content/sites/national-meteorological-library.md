@@ -4,13 +4,13 @@ site_name: "National Meteorological Library"
 date: 2026-01-26
 draft: false
 description: "Library at the Deutscher Wetterdienst"
-region: "Offenbach am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Offenbach am Main"
+  - "Hesse"
 wikidata_id: "Q1203554"
 latitude: 50.1032
 longitude: 8.74774
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/400px-Dt_wetterdienst-006957.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/800px-Dt_wetterdienst-006957.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/1200px-Dt_wetterdienst-006957.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/1920px-Dt_wetterdienst-006957.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/1920px-Dt_wetterdienst-006957.jpg---
 
 ## Overview
 

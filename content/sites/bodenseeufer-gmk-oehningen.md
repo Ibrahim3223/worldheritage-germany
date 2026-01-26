@@ -4,13 +4,13 @@ site_name: "Bodenseeufer (Gmk. Öhningen)"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Baden-Württemberg, Germany"
-region: "Öhningen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Öhningen"
+  - "Baden-Württemberg"
 wikidata_id: "Q889728"
 latitude: 47.70805556
 longitude: 9.08833333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/400px-Aerial_Rhein_bei_Öhningen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/800px-Aerial_Rhein_bei_Öhningen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/1200px-Aerial_Rhein_bei_Öhningen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/1920px-Aerial_Rhein_bei_Öhningen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/1920px-Aerial_Rhein_bei_Öhningen.jpg---
 
 ## Overview
 

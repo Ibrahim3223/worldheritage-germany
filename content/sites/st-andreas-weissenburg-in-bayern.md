@@ -4,13 +4,13 @@ site_name: "St. Andreas (Weißenburg in Bayern)"
 date: 2026-01-26
 draft: false
 description: "church in Weißenburg in Bayern, Franconia, Germany"
-region: "Weißenburg in Bayern"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Weißenburg in Bayern"
+  - "Bavaria"
 wikidata_id: "Q49596"
 latitude: 49.0319
 longitude: 10.97032
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/400px-Weissenburg-023.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/800px-Weissenburg-023.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/1200px-Weissenburg-023.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/1920px-Weissenburg-023.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/1920px-Weissenburg-023.JPG---
 
 ## Overview
 

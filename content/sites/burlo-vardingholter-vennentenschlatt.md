@@ -4,13 +4,13 @@ site_name: "Burlo-Vardingholter Venn/Entenschlatt"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Borken district, North Rhine-Westphalia, Germany"
-region: "Borken"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Borken"
+  - "Lower Saxony"
 wikidata_id: "Q1016645"
 latitude: 51.9022
 longitude: 6.74833
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/400px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/800px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/1200px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/1920px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/1920px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg---
 
 ## Overview
 

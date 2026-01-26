@@ -4,13 +4,13 @@ site_name: "Alte Burg (Bad Münstereifel)"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Bad Münstereifel"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Bad Münstereifel"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q435429"
 latitude: 50.5585
 longitude: 6.76948
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/400px-Alte_Burg_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/800px-Alte_Burg_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/1200px-Alte_Burg_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/1920px-Alte_Burg_4.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/1920px-Alte_Burg_4.jpg---
 
 ## Overview
 

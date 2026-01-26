@@ -4,19 +4,18 @@ site_name: "Luftwaffenmuseum Uetersen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Spandau"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Spandau"
+  - "Hamburg"
 wikidata_id: "Q1875939"
 latitude: 53.65243442
 longitude: 9.71169949
 images:
-  []
----
+  []---
 
 ## Overview
 

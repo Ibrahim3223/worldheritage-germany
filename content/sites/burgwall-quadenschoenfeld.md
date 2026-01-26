@@ -4,13 +4,13 @@ site_name: "Burgwall Quadenschönfeld"
 date: 2026-01-26
 draft: false
 description: "hill fort"
-region: "Möllenbeck"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Möllenbeck"
+  - "Brandenburg"
 wikidata_id: "Q1016203"
 latitude: 53.4178
 longitude: 13.3875
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgwallquadenschoenfeld1.jpg/400px-Burgwallquadenschoenfeld1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgwallquadenschoenfeld1.jpg/800px-Burgwallquadenschoenfeld1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgwallquadenschoenfeld1.jpg/1200px-Burgwallquadenschoenfeld1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgwallquadenschoenfeld1.jpg/1920px-Burgwallquadenschoenfeld1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgwallquadenschoenfeld1.jpg/1920px-Burgwallquadenschoenfeld1.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Kloster Rupertsberg"
 date: 2026-01-26
 draft: false
 description: "monastery"
-region: "Bingen am Rhein"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Bingen am Rhein"
+  - "Hesse"
 wikidata_id: "Q557972"
 latitude: 49.9658
 longitude: 7.8892
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/400px-Kloster_Rupertsberg.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/800px-Kloster_Rupertsberg.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/1200px-Kloster_Rupertsberg.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/1920px-Kloster_Rupertsberg.gif
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/1920px-Kloster_Rupertsberg.gif---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Collegiate Church, Castle, and Old Town of Quedlinburg"
 date: 2026-01-26
 draft: false
 description: "World Heritage site in Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"
 categories:
   - "Group Of Structures Or Buildings"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q10300241"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/400px-Münzenberg_Quedlinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/800px-Münzenberg_Quedlinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/1200px-Münzenberg_Quedlinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/1920px-Münzenberg_Quedlinburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/1920px-Münzenberg_Quedlinburg.jpg---
 
 ## Overview
 

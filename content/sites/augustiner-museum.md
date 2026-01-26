@@ -4,13 +4,13 @@ site_name: "Augustiner Museum"
 date: 2026-01-26
 draft: false
 description: "museum in Freiburg, Germany"
-region: "Freiburg im Breisgau"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Freiburg im Breisgau"
+  - "Baden-Württemberg"
 wikidata_id: "Q542932"
 latitude: 47.99388889
 longitude: 7.8525
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/400px-Augustinermuseum_Freiburg_-_DSC06509.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/800px-Augustinermuseum_Freiburg_-_DSC06509.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1200px-Augustinermuseum_Freiburg_-_DSC06509.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1920px-Augustinermuseum_Freiburg_-_DSC06509.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1920px-Augustinermuseum_Freiburg_-_DSC06509.JPG---
 
 ## Overview
 

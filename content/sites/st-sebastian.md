@@ -4,13 +4,13 @@ site_name: "St. Sebastian"
 date: 2026-01-26
 draft: false
 description: "church in Munich"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q980725"
 latitude: 48.167611142
 longitude: 11.565876004
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/400px-StSebastianMuenchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/800px-StSebastianMuenchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/1200px-StSebastianMuenchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/1920px-StSebastianMuenchen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/1920px-StSebastianMuenchen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Museum im Schafstall"
 date: 2026-01-26
 draft: false
 description: "Museum in Neuenstadt, Landkreis Heilbronn, Baden-Württemberg, Deutschland"
-region: "Neuenstadt am Kocher"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Neuenstadt am Kocher"
+  - "Baden-Württemberg"
 wikidata_id: "Q135930104"
 latitude: 49.23499
 longitude: 9.33222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg/400px-Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg/800px-Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg/1200px-Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg/1920px-Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg/1920px-Neuenstadt_am_Kocher,_Museum_im_Schafstall-001.jpg---
 
 ## Overview
 

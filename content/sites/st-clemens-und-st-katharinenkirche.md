@@ -4,13 +4,13 @@ site_name: "St. Clemens und St. Katharinenkirche"
 date: 2026-01-26
 draft: false
 description: "church building in Seedorf, Schleswig-Holstein, Germany"
-region: "Seedorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Seedorf"
+  - "Lower Saxony"
 wikidata_id: "Q2316039"
 latitude: 53.620715
 longitude: 10.872976
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/400px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/800px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/1200px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/1920px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/1920px-Seedorf_RZ_Kirche_2011-07-16_046.JPG---
 
 ## Overview
 

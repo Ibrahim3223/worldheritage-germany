@@ -4,13 +4,13 @@ site_name: "Schloss Brandenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Ranis"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Ranis"
+  - "Thuringia"
 wikidata_id: "Q2240366"
 latitude: 50.6693
 longitude: 11.5562
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SchlossBrandensteinFrontApril13.jpg/400px-SchlossBrandensteinFrontApril13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SchlossBrandensteinFrontApril13.jpg/800px-SchlossBrandensteinFrontApril13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SchlossBrandensteinFrontApril13.jpg/1200px-SchlossBrandensteinFrontApril13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SchlossBrandensteinFrontApril13.jpg/1920px-SchlossBrandensteinFrontApril13.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SchlossBrandensteinFrontApril13.jpg/1920px-SchlossBrandensteinFrontApril13.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Basilica Gößweinstein"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-74-129-2 (0) in Gößweinstein, Bavaria"
-region: "Gößweinstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gößweinstein"
+  - "Bavaria"
 wikidata_id: "Q810087"
 latitude: 49.77
 longitude: 11.3372
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/400px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/800px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1200px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1920px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1920px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg---
 
 ## Overview
 

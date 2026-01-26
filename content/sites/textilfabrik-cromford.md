@@ -4,13 +4,13 @@ site_name: "Textilfabrik Cromford"
 date: 2026-01-26
 draft: false
 description: "museum in Ratingen, Germany, first factory in continental Europe"
-region: "Ratingen Mitte"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Ratingen Mitte"
+  - "Lower Saxony"
 wikidata_id: "Q1586071"
 latitude: 51.30617
 longitude: 6.85344
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/400px-Ratingen_industriemuseum_cromford_spinnerei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/800px-Ratingen_industriemuseum_cromford_spinnerei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/1200px-Ratingen_industriemuseum_cromford_spinnerei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/1920px-Ratingen_industriemuseum_cromford_spinnerei.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/1920px-Ratingen_industriemuseum_cromford_spinnerei.jpg---
 
 ## Overview
 

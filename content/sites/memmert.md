@@ -4,13 +4,13 @@ site_name: "Memmert"
 date: 2026-01-26
 draft: false
 description: "East Frisian island"
-region: "Nordseeinsel Memmert"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Nordseeinsel Memmert"
+  - "Lower Saxony"
 wikidata_id: "Q25092"
 latitude: 53.638055555
 longitude: 6.884166666
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Memmert_(view_from_the_south).jpg/400px-Aerial_image_of_Memmert_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Memmert_(view_from_the_south).jpg/800px-Aerial_image_of_Memmert_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Memmert_(view_from_the_south).jpg/1200px-Aerial_image_of_Memmert_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Memmert_(view_from_the_south).jpg/1920px-Aerial_image_of_Memmert_(view_from_the_south).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Memmert_(view_from_the_south).jpg/1920px-Aerial_image_of_Memmert_(view_from_the_south).jpg---
 
 ## Overview
 

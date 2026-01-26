@@ -4,13 +4,13 @@ site_name: "Peter-Pauls-Kirche Zingst"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Zingst"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Zingst"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2073480"
 latitude: 54.4375
 longitude: 12.6892
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/400px-Freitor_an_der_Zingster_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/800px-Freitor_an_der_Zingster_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/1200px-Freitor_an_der_Zingster_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/1920px-Freitor_an_der_Zingster_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/1920px-Freitor_an_der_Zingster_Kirche.jpg---
 
 ## Overview
 

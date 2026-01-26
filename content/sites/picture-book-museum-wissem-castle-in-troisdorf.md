@@ -4,13 +4,13 @@ site_name: "Picture Book Museum Wissem Castle in Troisdorf"
 date: 2026-01-26
 draft: false
 description: "museum in Troisdorf, Rhein-Sieg district, North Rhine-Westphalia, Germany (1982–)"
-region: "Troisdorf"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Troisdorf"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q151456"
 latitude: 50.8174
 longitude: 7.16572
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/400px-Burg_Wissem.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/800px-Burg_Wissem.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/1200px-Burg_Wissem.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/1920px-Burg_Wissem.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/1920px-Burg_Wissem.JPG---
 
 ## Overview
 

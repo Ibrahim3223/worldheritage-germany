@@ -4,13 +4,13 @@ site_name: "Ödenturm"
 date: 2026-01-26
 draft: false
 description: "observation tower near Geislingen an der Steige"
-region: "Geislingen an der Steige"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"
 categories:
   - "Tower"
 regions:
-  - "Geislingen an der Steige"
+  - "Baden-Württemberg"
 wikidata_id: "Q293949"
 latitude: 48.6125
 longitude: 9.84944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/400px-Ödenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/800px-Ödenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/1200px-Ödenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/1920px-Ödenturm.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/1920px-Ödenturm.jpg---
 
 ## Overview
 

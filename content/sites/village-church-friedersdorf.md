@@ -4,13 +4,13 @@ site_name: "Village church Friedersdorf"
 date: 2026-01-26
 draft: false
 description: "church building in Brandenburg state, Germany"
-region: "Vierlinden"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Vierlinden"
+  - "Brandenburg"
 wikidata_id: "Q1244283"
 latitude: 52.5095484
 longitude: 14.3960314
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/400px-Friedersdorf_Barockkirche_im_Herbst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/800px-Friedersdorf_Barockkirche_im_Herbst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/1200px-Friedersdorf_Barockkirche_im_Herbst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/1920px-Friedersdorf_Barockkirche_im_Herbst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/1920px-Friedersdorf_Barockkirche_im_Herbst.jpg---
 
 ## Overview
 

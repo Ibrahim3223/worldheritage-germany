@@ -4,19 +4,18 @@ site_name: "Freilandstation des Mesolithikums in Hartenstein"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany near N49.607034/E11.505876"
-region: "Hartenstein"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Hartenstein"
+  - "Bavaria"
 wikidata_id: "Q58330491"
 latitude: 49.607034
 longitude: 11.505876
 images:
-  []
----
+  []---
 
 ## Overview
 

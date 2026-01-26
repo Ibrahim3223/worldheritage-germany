@@ -4,13 +4,13 @@ site_name: "St. Josef (Frankfurt-Höchst)"
 date: 2026-01-26
 draft: false
 description: "church building in Frankfurt, Germany"
-region: "Frankfurt-West"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-West"
+  - "Hesse"
 wikidata_id: "Q1616019"
 latitude: 50.101605144
 longitude: 8.544931425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/400px-Josefskirche_Frankfurt_Hoechst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/800px-Josefskirche_Frankfurt_Hoechst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/1200px-Josefskirche_Frankfurt_Hoechst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/1920px-Josefskirche_Frankfurt_Hoechst.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/1920px-Josefskirche_Frankfurt_Hoechst.jpg---
 
 ## Overview
 

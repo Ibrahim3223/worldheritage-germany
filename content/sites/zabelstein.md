@@ -4,13 +4,13 @@ site_name: "Zabelstein"
 date: 2026-01-26
 draft: false
 description: "mountain"
-region: "Schweinfurt"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"
 categories:
   - "Mountain"
 regions:
-  - "Schweinfurt"
+  - "Bavaria"
 wikidata_id: "Q136732"
 latitude: 49.9443
 longitude: 10.4524
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/400px-Aussichtsturm_auf_dem_Zabelstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/800px-Aussichtsturm_auf_dem_Zabelstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/1200px-Aussichtsturm_auf_dem_Zabelstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/1920px-Aussichtsturm_auf_dem_Zabelstein.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/1920px-Aussichtsturm_auf_dem_Zabelstein.jpg---
 
 ## Overview 
 

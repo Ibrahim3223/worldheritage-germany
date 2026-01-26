@@ -4,13 +4,13 @@ site_name: "Dalí Berlin"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1157914"
 latitude: 52.5088744
 longitude: 13.3785763
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/400px-Dalí_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/800px-Dalí_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/1200px-Dalí_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/1920px-Dalí_Berlin.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/1920px-Dalí_Berlin.jpg---
 
 ## Overview
 

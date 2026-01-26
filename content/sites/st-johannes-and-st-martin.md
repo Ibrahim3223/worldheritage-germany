@@ -4,13 +4,13 @@ site_name: "St. Johannes and St. Martin"
 date: 2026-01-26
 draft: false
 description: "lutheran church building in Schwabach, Middle Franconia, Germany"
-region: "Schwabach"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Schwabach"
+  - "Bavaria"
 wikidata_id: "Q1695202"
 latitude: 49.3291
 longitude: 11.0218
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/400px-Schwabach_Stadtkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/800px-Schwabach_Stadtkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/1200px-Schwabach_Stadtkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/1920px-Schwabach_Stadtkirche.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/1920px-Schwabach_Stadtkirche.JPG---
 
 ## Overview
 

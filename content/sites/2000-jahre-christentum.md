@@ -4,13 +4,13 @@ site_name: "2000 Jahre Christentum"
 date: 2026-01-26
 draft: false
 description: "statue in Brunswick, Germany"
-region: "Brunswick"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Brunswick"
+  - "Lower Saxony"
 wikidata_id: "Q211175"
 latitude: 52.26498333
 longitude: 10.52480278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/400px-2000Jahre_Christentum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/800px-2000Jahre_Christentum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/1200px-2000Jahre_Christentum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/1920px-2000Jahre_Christentum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/1920px-2000Jahre_Christentum.jpg---
 
 ## Overview
 

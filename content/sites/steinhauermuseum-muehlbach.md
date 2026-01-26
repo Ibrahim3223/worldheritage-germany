@@ -4,13 +4,13 @@ site_name: "Steinhauermuseum Mühlbach"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Eppingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Eppingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1667112"
 latitude: 49.0978
 longitude: 8.90235
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mühlbach(Eppingen)Rathaus461.JPG/400px-Mühlbach(Eppingen)Rathaus461.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mühlbach(Eppingen)Rathaus461.JPG/800px-Mühlbach(Eppingen)Rathaus461.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mühlbach(Eppingen)Rathaus461.JPG/1200px-Mühlbach(Eppingen)Rathaus461.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mühlbach(Eppingen)Rathaus461.JPG/1920px-Mühlbach(Eppingen)Rathaus461.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mühlbach(Eppingen)Rathaus461.JPG/1920px-Mühlbach(Eppingen)Rathaus461.JPG---
 
 ## Overview
 

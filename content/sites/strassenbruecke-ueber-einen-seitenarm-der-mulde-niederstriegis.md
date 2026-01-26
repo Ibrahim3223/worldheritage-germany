@@ -4,19 +4,18 @@ site_name: "Straßenbrücke über einen Seitenarm der Mulde Niederstriegis"
 date: 2026-01-26
 draft: false
 description: "bridge in Germany"
-region: "Roßwein"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Roßwein"
+  - "Saxony"
 wikidata_id: "Q49449544"
 latitude: 51.084477934
 longitude: 13.152109885
 images:
-  []
----
+  []---
 
 ## Overview
 

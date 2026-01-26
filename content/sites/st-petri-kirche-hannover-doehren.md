@@ -4,13 +4,13 @@ site_name: "St.-Petri-Kirche (Hannover-Döhren)"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Döhren-Wülfel"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Döhren-Wülfel"
+  - "Lower Saxony"
 wikidata_id: "Q1620130"
 latitude: 52.3349
 longitude: 9.7616
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/400px-St._Petri_Kirche_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/800px-St._Petri_Kirche_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/1200px-St._Petri_Kirche_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/1920px-St._Petri_Kirche_Hannover.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/1920px-St._Petri_Kirche_Hannover.jpg---
 
 ## Overview
 

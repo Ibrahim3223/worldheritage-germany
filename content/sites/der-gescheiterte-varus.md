@@ -4,13 +4,13 @@ site_name: "Der gescheiterte Varus"
 date: 2026-01-26
 draft: false
 description: "statue in Haltern am See, Germany"
-region: "Haltern am See"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Haltern am See"
+  - "Lower Saxony"
 wikidata_id: "Q1198701"
 latitude: 51.7425
 longitude: 7.18417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VarusHaltern_2.jpg/400px-VarusHaltern_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VarusHaltern_2.jpg/800px-VarusHaltern_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VarusHaltern_2.jpg/1200px-VarusHaltern_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VarusHaltern_2.jpg/1920px-VarusHaltern_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VarusHaltern_2.jpg/1920px-VarusHaltern_2.jpg---
 
 ## Overview
 

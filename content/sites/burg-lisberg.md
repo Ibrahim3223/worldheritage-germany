@@ -4,13 +4,13 @@ site_name: "Burg Lisberg"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Lisberg, Bavaria"
-region: "Lisberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Lisberg"
+  - "Bavaria"
 wikidata_id: "Q1012997"
 latitude: 49.884192597
 longitude: 10.72676537
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/400px-BurgLisberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/800px-BurgLisberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1200px-BurgLisberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1920px-BurgLisberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1920px-BurgLisberg.jpg---
 
 ## Overview
 

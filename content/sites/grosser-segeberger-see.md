@@ -4,13 +4,13 @@ site_name: "Großer Segeberger See"
 date: 2026-01-26
 draft: false
 description: "lake in Segeberg, Schleswig-Holstein, Germany"
-region: "Segeberg District"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Segeberg District"
+  - "Lower Saxony"
 wikidata_id: "Q1273880"
 latitude: 53.948333333
 longitude: 10.323055555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grosser_Segeberger_See_Panorama_2008.jpg/400px-Grosser_Segeberger_See_Panorama_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grosser_Segeberger_See_Panorama_2008.jpg/800px-Grosser_Segeberger_See_Panorama_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grosser_Segeberger_See_Panorama_2008.jpg/1200px-Grosser_Segeberger_See_Panorama_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grosser_Segeberger_See_Panorama_2008.jpg/1920px-Grosser_Segeberger_See_Panorama_2008.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grosser_Segeberger_See_Panorama_2008.jpg/1920px-Grosser_Segeberger_See_Panorama_2008.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Luisendenkmal"
 date: 2026-01-26
 draft: false
 description: "monument in Magdeburg, Germany"
-region: "Magdeburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Magdeburg"
+  - "Brandenburg"
 wikidata_id: "Q1876699"
 latitude: 52.1399
 longitude: 11.6357
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg/400px-Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg/800px-Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg/1200px-Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg/1920px-Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg/1920px-Denkmal_der_Königin_Luise_von_Preussen_in_Magdeburg.jpg---
 
 ## Overview
 

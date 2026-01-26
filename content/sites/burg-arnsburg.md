@@ -4,13 +4,13 @@ site_name: "Burg Arnsburg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Lich"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Lich"
+  - "Hesse"
 wikidata_id: "Q1010844"
 latitude: 50.49
 longitude: 8.78905
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/400px-Burg_Arnsburg_Ruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/800px-Burg_Arnsburg_Ruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1200px-Burg_Arnsburg_Ruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1920px-Burg_Arnsburg_Ruine.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1920px-Burg_Arnsburg_Ruine.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "St. Jacob"
 date: 2026-01-26
 draft: false
 description: "church building in Mecklenburg-Vorpommern, Germany"
-region: "Gingst"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Gingst"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q2221932"
 latitude: 54.4565
 longitude: 13.2598
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sankt_Jacob_Gingst.JPG/400px-Sankt_Jacob_Gingst.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sankt_Jacob_Gingst.JPG/800px-Sankt_Jacob_Gingst.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sankt_Jacob_Gingst.JPG/1200px-Sankt_Jacob_Gingst.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sankt_Jacob_Gingst.JPG/1920px-Sankt_Jacob_Gingst.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sankt_Jacob_Gingst.JPG/1920px-Sankt_Jacob_Gingst.JPG---
 
 ## Overview
 

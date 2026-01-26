@@ -4,13 +4,13 @@ site_name: "Grabmal ehemals Ludwig Wagner"
 date: 2026-01-26
 draft: false
 description: "Grabmal in Darmstadt"
-region: "Darmstadt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"
 categories:
   - "Tomb"
 regions:
-  - "Darmstadt"
+  - "Hesse"
 wikidata_id: "Q27129789"
 latitude: 49.871027777
 longitude: 8.612527777
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg/400px-Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg/800px-Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg/1200px-Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg/1920px-Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg/1920px-Darmstadt_West_Waldfriedhof_Grabmal_Ludwig_Wagner.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Fischerbuberl-Brunnen"
 date: 2026-01-26
 draft: false
 description: "water well"
-region: "Au-Haidhausen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
 categories:
   - "Fountain"
 regions:
-  - "Au-Haidhausen"
+  - "Bavaria"
 wikidata_id: "Q727564"
 latitude: 48.1345
 longitude: 11.596
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/400px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/800px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1920px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1920px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg---
 
 ## Overview
 

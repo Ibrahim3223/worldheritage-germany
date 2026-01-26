@@ -4,13 +4,13 @@ site_name: "St. Jodok Stift Landshut"
 date: 2026-01-26
 draft: false
 description: "viergeschossiger Baukomplex, 1891–1907, Fassade zum Teil mit Jugendstildekor;"
-region: "Landshut"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Landshut"
+  - "Bavaria"
 wikidata_id: "Q41282949"
 latitude: 48.537006488
 longitude: 12.15859702
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/400px-Freyung_597_Landshut-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/800px-Freyung_597_Landshut-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/1200px-Freyung_597_Landshut-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/1920px-Freyung_597_Landshut-1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/1920px-Freyung_597_Landshut-1.jpg---
 
 ## Overview
 

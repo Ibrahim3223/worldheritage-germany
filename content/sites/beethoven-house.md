@@ -4,13 +4,13 @@ site_name: "Beethoven House"
 date: 2026-01-26
 draft: false
 description: "museum on and birthplace of Ludwig van Beethoven in Bonn, Germany"
-region: "Stadtbezirk Bonn"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Stadtbezirk Bonn"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q318084"
 latitude: 50.7369
 longitude: 7.10139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/400px-Beethoven-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/800px-Beethoven-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1200px-Beethoven-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1920px-Beethoven-Haus.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1920px-Beethoven-Haus.jpg---
 
 ## Overview
 

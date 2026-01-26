@@ -4,19 +4,18 @@ site_name: "Binsenwerder"
 date: 2026-01-26
 draft: false
 description: "untergegangene Insel in einem See in Neubrandenburg im Landkreis Mecklenburgische Seenplatte"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Island"
 categories:
   - "Island"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q864044"
 latitude: 53.4477
 longitude: 13.1651
 images:
-  []
----
+  []---
 
 ## Overview
 

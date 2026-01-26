@@ -4,13 +4,13 @@ site_name: "Sacred Heart Church (Frankfurt-Fechenheim)"
 date: 2026-01-26
 draft: false
 description: "Roman Catholic church in Frankfurt am Main-Fechenheim, Germany (built in 1896)"
-region: "Frankfurt-Ost"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Frankfurt-Ost"
+  - "Hesse"
 wikidata_id: "Q1614961"
 latitude: 50.1267
 longitude: 8.76773
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg/400px-FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg/800px-FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg/1200px-FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg/1920px-FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg/1920px-FFM_Herz-Jesu-Kirche_Ostseite_Totale.jpg---
 
 ## Overview
 

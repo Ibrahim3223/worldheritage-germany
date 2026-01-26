@@ -4,19 +4,18 @@ site_name: "Bergwiesengesellschaften bei Hohegeiß"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Braunlage"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Braunlage"
+  - "Lower Saxony"
 wikidata_id: "Q820515"
 latitude: 51.6531
 longitude: 10.6686
 images:
-  []
----
+  []---
 
 ## Overview
 

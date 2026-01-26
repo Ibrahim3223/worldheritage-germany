@@ -4,13 +4,13 @@ site_name: "Eremitage"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-4-62-000-392 (0) in Bayreuth, Bavaria"
-region: "Bayreuth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bayreuth"
+  - "Bavaria"
 wikidata_id: "Q896879"
 latitude: 49.948946898
 longitude: 11.624869274
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/400px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/800px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/1200px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/1920px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/1920px-Aerial_image_of_the_Eremitage_Bayreuth.jpg---
 
 ## Overview
 

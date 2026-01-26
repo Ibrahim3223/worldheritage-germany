@@ -4,13 +4,13 @@ site_name: "Amorsbrunn"
 date: 2026-01-26
 draft: false
 description: "Kapelle im Spessart"
-region: "Germany"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Germany"
+  - "Baden-Württemberg"
 wikidata_id: "Q474175"
 latitude: 49.6485
 longitude: 9.20056
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/400px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/800px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/1200px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/1920px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/1920px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg---
 
 ## Overview
 

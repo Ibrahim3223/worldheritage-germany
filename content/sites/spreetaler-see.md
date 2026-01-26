@@ -4,13 +4,13 @@ site_name: "Spreetaler See"
 date: 2026-01-26
 draft: false
 description: "lake in Germany"
-region: "Elsterheide"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Elsterheide"
+  - "Brandenburg"
 wikidata_id: "Q160988"
 latitude: 51.4911
 longitude: 14.3269
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spreetaler_See.JPG/400px-Spreetaler_See.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spreetaler_See.JPG/800px-Spreetaler_See.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spreetaler_See.JPG/1200px-Spreetaler_See.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spreetaler_See.JPG/1920px-Spreetaler_See.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Spreetaler_See.JPG/1920px-Spreetaler_See.JPG---
 
 ## Overview
 

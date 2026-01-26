@@ -4,13 +4,13 @@ site_name: "Ludwig-Leichhardt-Museum Trebatsch"
 date: 2026-01-26
 draft: false
 description: "museum in Tauche, Brandenburg state, Germany"
-region: "Trebatsch"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Trebatsch"
+  - "Brandenburg"
 wikidata_id: "Q15057552"
 latitude: 52.083251
 longitude: 14.171435
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/400px-Leichhardt-Museum_Trebatsch_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/800px-Leichhardt-Museum_Trebatsch_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/1200px-Leichhardt-Museum_Trebatsch_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/1920px-Leichhardt-Museum_Trebatsch_02.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/1920px-Leichhardt-Museum_Trebatsch_02.jpg---
 
 ## Overview
 

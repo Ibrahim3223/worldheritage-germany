@@ -4,13 +4,13 @@ site_name: "Ernst Thälmann memorial"
 date: 2026-01-26
 draft: false
 description: "architectural structure in Berlin, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1357207"
 latitude: 52.5381
 longitude: 13.4339
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg/400px-Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg/800px-Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg/1200px-Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg/1920px-Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg/1920px-Bundesarchiv_Bild_183-1986-0414-405,_Berlin,_Ernst-Thälmann-Denkmal.jpg---
 
 ## Overview
 

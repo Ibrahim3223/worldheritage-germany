@@ -4,19 +4,18 @@ site_name: "Weihnachtshaus Husum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Husum"
+region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Husum"
+  - "Schleswig-Holstein"
 wikidata_id: "Q2555470"
 latitude: 54.4772
 longitude: 9.04394
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Räuchermännchenmuseum Cranzahl"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Sehmatal"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Sehmatal"
+  - "Bavaria"
 wikidata_id: "Q15843437"
 latitude: 50.51293
 longitude: 12.988721
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/400px-Räuchermännchenmuseum_Cranzahl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/800px-Räuchermännchenmuseum_Cranzahl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/1200px-Räuchermännchenmuseum_Cranzahl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/1920px-Räuchermännchenmuseum_Cranzahl.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/1920px-Räuchermännchenmuseum_Cranzahl.jpg---
 
 ## Overview
 

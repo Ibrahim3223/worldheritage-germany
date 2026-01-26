@@ -4,13 +4,13 @@ site_name: "Bergen-Belsen Memorial"
 date: 2026-01-26
 draft: false
 description: "Memorial of the former concentration camp Bergen-Belsen in the Lüneburg Heath"
-region: "Lohheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Lohheide"
+  - "Lower Saxony"
 wikidata_id: "Q1235191"
 latitude: 52.7577
 longitude: 9.91106
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/400px-Dokuzentrum_KZ_Belsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/800px-Dokuzentrum_KZ_Belsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/1200px-Dokuzentrum_KZ_Belsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/1920px-Dokuzentrum_KZ_Belsen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/1920px-Dokuzentrum_KZ_Belsen.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Burg Neidenstein"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Neidenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Neidenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013216"
 latitude: 49.3147
 longitude: 8.88556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/400px-Neidenstein-veste-web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/800px-Neidenstein-veste-web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/1200px-Neidenstein-veste-web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/1920px-Neidenstein-veste-web.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/1920px-Neidenstein-veste-web.jpg---
 
 ## Overview
 

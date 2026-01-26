@@ -4,13 +4,13 @@ site_name: "Richard-Wagner-Stätten Graupa"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Pirna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Pirna"
+  - "Saxony"
 wikidata_id: "Q2148924"
 latitude: 50.999277465
 longitude: 13.922079296
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagner-Gedenkstätte_Graupa.JPG/400px-Wagner-Gedenkstätte_Graupa.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagner-Gedenkstätte_Graupa.JPG/800px-Wagner-Gedenkstätte_Graupa.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagner-Gedenkstätte_Graupa.JPG/1200px-Wagner-Gedenkstätte_Graupa.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagner-Gedenkstätte_Graupa.JPG/1920px-Wagner-Gedenkstätte_Graupa.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wagner-Gedenkstätte_Graupa.JPG/1920px-Wagner-Gedenkstätte_Graupa.JPG---
 
 ## Overview
 

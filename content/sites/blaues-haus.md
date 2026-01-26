@@ -4,13 +4,13 @@ site_name: "Blaues Haus"
 date: 2026-01-26
 draft: false
 description: "building in Breisach, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Breisach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Breisach"
+  - "Baden-Württemberg"
 wikidata_id: "Q882780"
 latitude: 48.033736111
 longitude: 7.578498055
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Das_Blaue_Haus_(Breisach)_2220.jpg/400px-Das_Blaue_Haus_(Breisach)_2220.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Das_Blaue_Haus_(Breisach)_2220.jpg/800px-Das_Blaue_Haus_(Breisach)_2220.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Das_Blaue_Haus_(Breisach)_2220.jpg/1200px-Das_Blaue_Haus_(Breisach)_2220.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Das_Blaue_Haus_(Breisach)_2220.jpg/1920px-Das_Blaue_Haus_(Breisach)_2220.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Das_Blaue_Haus_(Breisach)_2220.jpg/1920px-Das_Blaue_Haus_(Breisach)_2220.jpg---
 
 ## Overview
 

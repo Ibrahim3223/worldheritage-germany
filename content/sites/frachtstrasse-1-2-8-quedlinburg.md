@@ -4,13 +4,13 @@ site_name: "Frachtstraße 1, 2, 8 (Quedlinburg)"
 date: 2026-01-26
 draft: false
 description: "Complex of buildings in Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q1440343"
 latitude: 51.7876
 longitude: 11.1592
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frachtstraße_1,_2_(Quedlinburg).JPG/400px-Frachtstraße_1,_2_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frachtstraße_1,_2_(Quedlinburg).JPG/800px-Frachtstraße_1,_2_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frachtstraße_1,_2_(Quedlinburg).JPG/1200px-Frachtstraße_1,_2_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frachtstraße_1,_2_(Quedlinburg).JPG/1920px-Frachtstraße_1,_2_(Quedlinburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frachtstraße_1,_2_(Quedlinburg).JPG/1920px-Frachtstraße_1,_2_(Quedlinburg).JPG---
 
 ## Overview
 

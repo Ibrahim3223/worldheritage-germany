@@ -4,13 +4,13 @@ site_name: "Genius of Light"
 date: 2026-01-26
 draft: false
 description: "sculpture by Arno Breker"
-region: "Remscheid"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
 categories:
   - "Statue"
 regions:
-  - "Remscheid"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q19935322"
 latitude: 51.193972
 longitude: 7.259194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/400px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/800px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/1200px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/1920px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/1920px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg---
 
 ## Overview
 

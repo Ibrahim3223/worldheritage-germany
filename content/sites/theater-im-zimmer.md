@@ -4,13 +4,13 @@ site_name: "Theater im Zimmer"
 date: 2026-01-26
 draft: false
 description: "theatre in Hamburg, Germany"
-region: "Eimsbüttel"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"
 categories:
   - "Theatre Building"
 regions:
-  - "Eimsbüttel"
+  - "Hamburg"
 wikidata_id: "Q51920"
 latitude: 53.57339
 longitude: 9.997
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/400px-Hamburg.Theater_im_Zimmer.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/800px-Hamburg.Theater_im_Zimmer.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/1200px-Hamburg.Theater_im_Zimmer.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/1920px-Hamburg.Theater_im_Zimmer.wmt.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/1920px-Hamburg.Theater_im_Zimmer.wmt.jpg---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Jäthensee"
 date: 2026-01-26
 draft: false
 description: "lake in Mirow, Mecklenburg-Vorpommern, Germany"
-region: "Mirow"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Mirow"
+  - "Brandenburg"
 wikidata_id: "Q1270924"
 latitude: 53.351388888
 longitude: 12.903888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/400px-Jäthensee.nnw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/800px-Jäthensee.nnw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/1200px-Jäthensee.nnw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/1920px-Jäthensee.nnw.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/1920px-Jäthensee.nnw.jpg---
 
 ## Overview
 

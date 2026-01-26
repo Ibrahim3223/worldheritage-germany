@@ -4,13 +4,13 @@ site_name: "Ehrlichsche Gestiftskirche"
 date: 2026-01-26
 draft: false
 description: "former church in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1300905"
 latitude: 51.0467
 longitude: 13.7548
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/400px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/800px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/1200px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/1920px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/1920px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg---
 
 ## Overview
 

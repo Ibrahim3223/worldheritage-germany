@@ -4,19 +4,18 @@ site_name: "National"
 date: 2026-01-26
 draft: false
 description: "former cinema in Lübeck"
-region: "Lübeck"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"
 categories:
   - "Movie Theater"
 regions:
-  - "Lübeck"
+  - "Lower Saxony"
 wikidata_id: "Q1966886"
 latitude: 53.86522
 longitude: 10.68487
 images:
-  []
----
+  []---
 
 ## Overview
 

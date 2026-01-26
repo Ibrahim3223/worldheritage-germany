@@ -4,13 +4,13 @@ site_name: "Bandfabrik Wilhelm Büsgen"
 date: 2026-01-26
 draft: false
 description: "Gebäudekomplex in Wuppertal"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q806292"
 latitude: 51.2614
 longitude: 7.17139
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/400px-Fabrikgebaeude_Buesgen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/800px-Fabrikgebaeude_Buesgen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/1200px-Fabrikgebaeude_Buesgen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/1920px-Fabrikgebaeude_Buesgen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/1920px-Fabrikgebaeude_Buesgen.jpg---
 
 ## Overview
 

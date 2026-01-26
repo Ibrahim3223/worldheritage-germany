@@ -4,13 +4,13 @@ site_name: "Mahnmal am Bahnhof Fischerhof (Hannover)"
 date: 2026-01-26
 draft: false
 description: "Memorial for all persecutees of National Socialism in Hanover"
-region: "Linden-Limmer"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
 categories:
   - "Memorial"
 regions:
-  - "Linden-Limmer"
+  - "Lower Saxony"
 wikidata_id: "Q1885024"
 latitude: 52.3537032
 longitude: 9.7176937
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2021-04-04_Gedenktafel_Fischerhof_02.JPG/400px-2021-04-04_Gedenktafel_Fischerhof_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2021-04-04_Gedenktafel_Fischerhof_02.JPG/800px-2021-04-04_Gedenktafel_Fischerhof_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2021-04-04_Gedenktafel_Fischerhof_02.JPG/1200px-2021-04-04_Gedenktafel_Fischerhof_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2021-04-04_Gedenktafel_Fischerhof_02.JPG/1920px-2021-04-04_Gedenktafel_Fischerhof_02.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2021-04-04_Gedenktafel_Fischerhof_02.JPG/1920px-2021-04-04_Gedenktafel_Fischerhof_02.JPG---
 
 ## Overview
 

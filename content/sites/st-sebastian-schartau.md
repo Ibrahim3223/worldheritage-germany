@@ -4,13 +4,13 @@ site_name: "St. Sebastian (Schartau)"
 date: 2026-01-26
 draft: false
 description: "church building in Burg (bei Magdeburg), Saxony-Anhalt, Germany"
-region: "Burg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Burg"
+  - "Brandenburg"
 wikidata_id: "Q1564727"
 latitude: 52.2922
 longitude: 11.7909
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/400px-SchartauKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/800px-SchartauKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/1200px-SchartauKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/1920px-SchartauKirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/1920px-SchartauKirche.jpg---
 
 ## Overview
 

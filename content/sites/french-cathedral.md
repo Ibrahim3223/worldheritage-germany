@@ -4,13 +4,13 @@ site_name: "French Cathedral"
 date: 2026-01-26
 draft: false
 description: "church in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q315694"
 latitude: 52.514444
 longitude: 13.392222
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/400px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/800px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1200px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1920px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1920px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg---
 
 ## Overview
 

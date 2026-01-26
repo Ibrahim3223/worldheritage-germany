@@ -4,19 +4,18 @@ site_name: "Pharmacy Museum Hofgeismar"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hofgeismar"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hofgeismar"
+  - "Hesse"
 wikidata_id: "Q28941008"
 latitude: 51.496699
 longitude: 9.3801198
 images:
-  []
----
+  []---
 
 ## Overview
 

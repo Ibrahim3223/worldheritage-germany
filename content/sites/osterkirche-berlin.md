@@ -4,13 +4,13 @@ site_name: "Osterkirche (Berlin)"
 date: 2026-01-26
 draft: false
 description: "church building in Berlin, Germany"
-region: "Bezirk Mitte"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Bezirk Mitte"
+  - "Berlin"
 wikidata_id: "Q1669436"
 latitude: 52.5415
 longitude: 13.3546
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osterkirche_Wedding-2.jpg/400px-Osterkirche_Wedding-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osterkirche_Wedding-2.jpg/800px-Osterkirche_Wedding-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osterkirche_Wedding-2.jpg/1200px-Osterkirche_Wedding-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osterkirche_Wedding-2.jpg/1920px-Osterkirche_Wedding-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osterkirche_Wedding-2.jpg/1920px-Osterkirche_Wedding-2.jpg---
 
 ## Overview
 

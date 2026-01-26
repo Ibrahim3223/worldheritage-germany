@@ -4,13 +4,13 @@ site_name: "Michaeliskloster"
 date: 2026-01-26
 draft: false
 description: "church building in Rostock, Germany"
-region: "Rostock"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Rostock"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1930148"
 latitude: 54.0871
 longitude: 12.1364
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/400px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/800px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/1200px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/1920px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/1920px-Rostock_asv2018-05_img51_Michaeliskloster.jpg---
 
 ## Overview
 

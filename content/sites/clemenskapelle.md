@@ -4,13 +4,13 @@ site_name: "Clemenskapelle"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Eisenach"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Eisenach"
+  - "Thuringia"
 wikidata_id: "Q1100209"
 latitude: 50.9769
 longitude: 10.3361
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/400px-Clemenskapelle2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/800px-Clemenskapelle2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/1200px-Clemenskapelle2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/1920px-Clemenskapelle2.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/1920px-Clemenskapelle2.JPG---
 
 ## Overview
 

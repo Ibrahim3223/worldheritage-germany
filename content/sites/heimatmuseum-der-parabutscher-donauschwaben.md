@@ -4,19 +4,18 @@ site_name: "Heimatmuseum der Parabutscher Donauschwaben"
 date: 2026-01-26
 draft: false
 description: "Museum zur deutschen Besiedlung des Ortes Parabutsch in Serbien im Bürgerhaus der Gemeinde Bad Schönborn"
-region: "Bad Schönborn"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Schönborn"
+  - "Baden-Württemberg"
 wikidata_id: "Q60504001"
 latitude: 49.199472222
 longitude: 8.642666666
 images:
-  []
----
+  []---
 
 ## Overview
 

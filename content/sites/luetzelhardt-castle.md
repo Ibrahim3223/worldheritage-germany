@@ -4,13 +4,13 @@ site_name: "Lützelhardt Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Seelbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Seelbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013065"
 latitude: 48.3164
 longitude: 7.95333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/400px-Burgruine_Lützelhardt_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/800px-Burgruine_Lützelhardt_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/1200px-Burgruine_Lützelhardt_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/1920px-Burgruine_Lützelhardt_(1).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/1920px-Burgruine_Lützelhardt_(1).JPG---
 
 ## Overview
 

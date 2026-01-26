@@ -4,13 +4,13 @@ site_name: "Speicher XI"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Walle"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Walle"
+  - "Bremen"
 wikidata_id: "Q2308565"
 latitude: 53.0973
 longitude: 8.76983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/061011-120443-Überseestadt-SpeicherXI.jpg/400px-061011-120443-Überseestadt-SpeicherXI.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/061011-120443-Überseestadt-SpeicherXI.jpg/800px-061011-120443-Überseestadt-SpeicherXI.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/061011-120443-Überseestadt-SpeicherXI.jpg/1200px-061011-120443-Überseestadt-SpeicherXI.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/061011-120443-Überseestadt-SpeicherXI.jpg/1920px-061011-120443-Überseestadt-SpeicherXI.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/061011-120443-Überseestadt-SpeicherXI.jpg/1920px-061011-120443-Überseestadt-SpeicherXI.jpg---
 
 ## Overview
 

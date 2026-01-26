@@ -4,13 +4,13 @@ site_name: "Botanischer Garten Wuppertal"
 date: 2026-01-26
 draft: false
 description: "botanical garden in Wuppertal, Germany"
-region: "Wuppertal"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Wuppertal"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q318081"
 latitude: 51.26027778
 longitude: 7.16055556
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/400px-Wuppertal_Hardt_0142.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/800px-Wuppertal_Hardt_0142.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1200px-Wuppertal_Hardt_0142.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1920px-Wuppertal_Hardt_0142.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1920px-Wuppertal_Hardt_0142.jpg---
 
 ## Overview
 

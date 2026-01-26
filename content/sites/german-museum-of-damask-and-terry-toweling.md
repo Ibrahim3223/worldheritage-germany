@@ -4,13 +4,13 @@ site_name: "German Museum of damask and terry toweling"
 date: 2026-01-26
 draft: false
 description: "museum in Großschönau"
-region: "Großschönau"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Großschönau"
+  - "Saxony"
 wikidata_id: "Q1205589"
 latitude: 50.899547
 longitude: 14.661028
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/400px-Großschönau_Schenaustraße_3_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/800px-Großschönau_Schenaustraße_3_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1200px-Großschönau_Schenaustraße_3_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1920px-Großschönau_Schenaustraße_3_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1920px-Großschönau_Schenaustraße_3_2.jpg---
 
 ## Overview
 

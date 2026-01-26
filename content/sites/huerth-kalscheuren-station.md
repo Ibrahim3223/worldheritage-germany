@@ -4,13 +4,13 @@ site_name: "Hürth-Kalscheuren station"
 date: 2026-01-26
 draft: false
 description: "railway station in Hürth, Germany"
-region: "Hürth"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Hürth"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q637039"
 latitude: 50.8758
 longitude: 6.91
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/400px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/800px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/1200px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/1920px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/1920px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG---
 
 ## Overview
 

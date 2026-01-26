@@ -4,13 +4,13 @@ site_name: "Dikopshof"
 date: 2026-01-26
 draft: false
 description: "Hofanlage in Wesseling"
-region: "Wesseling"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Wesseling"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1225318"
 latitude: 50.8061
 longitude: 6.95194
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Keldenich,_Dikopshof_002x.jpg/400px-Keldenich,_Dikopshof_002x.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Keldenich,_Dikopshof_002x.jpg/800px-Keldenich,_Dikopshof_002x.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Keldenich,_Dikopshof_002x.jpg/1200px-Keldenich,_Dikopshof_002x.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Keldenich,_Dikopshof_002x.jpg/1920px-Keldenich,_Dikopshof_002x.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Keldenich,_Dikopshof_002x.jpg/1920px-Keldenich,_Dikopshof_002x.jpg---
 
 ## Overview
 

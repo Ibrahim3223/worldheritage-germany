@@ -4,13 +4,13 @@ site_name: "Blankes Flath bei Jeversen"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Wietze"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Wietze"
+  - "Lower Saxony"
 wikidata_id: "Q881626"
 latitude: 52.6419
 longitude: 9.76861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blankes_Flath_01.jpg/400px-Blankes_Flath_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blankes_Flath_01.jpg/800px-Blankes_Flath_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blankes_Flath_01.jpg/1200px-Blankes_Flath_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blankes_Flath_01.jpg/1920px-Blankes_Flath_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blankes_Flath_01.jpg/1920px-Blankes_Flath_01.jpg---
 
 ## Overview
 

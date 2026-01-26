@@ -4,13 +4,13 @@ site_name: "Rathaus Rüdenhausen"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument D-6-75-162-14 (0) in Rüdenhausen, Bavaria, Germany"
-region: "Rüdenhausen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"
 categories:
   - "City Hall"
 regions:
-  - "Rüdenhausen"
+  - "Baden-Württemberg"
 wikidata_id: "Q41353317"
 latitude: 49.7654827
 longitude: 10.341895
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/400px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/800px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/1200px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/1920px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/1920px-Marktstraße_13_Rüdenhausen_20210214_004.jpg---
 
 ## Overview
 

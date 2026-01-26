@@ -4,13 +4,13 @@ site_name: "Kapelle Glowe"
 date: 2026-01-26
 draft: false
 description: "Kapelle in Deutschland"
-region: "Glowe"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Glowe"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1728385"
 latitude: 54.569
 longitude: 13.4716
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glowechurch.jpg/400px-Glowechurch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glowechurch.jpg/800px-Glowechurch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glowechurch.jpg/1200px-Glowechurch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glowechurch.jpg/1920px-Glowechurch.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glowechurch.jpg/1920px-Glowechurch.jpg---
 
 ## Overview
 

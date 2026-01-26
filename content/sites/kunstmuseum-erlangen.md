@@ -4,19 +4,18 @@ site_name: "Kunstmuseum Erlangen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Erlangen"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Erlangen"
+  - "Bavaria"
 wikidata_id: "Q15824605"
 latitude: 49.593772
 longitude: 11.004912
 images:
-  []
----
+  []---
 
 ## Overview
 

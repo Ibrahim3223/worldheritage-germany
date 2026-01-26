@@ -4,13 +4,13 @@ site_name: "Vocational schools J.P.C. Heinrich Mette Quedlinburg"
 date: 2026-01-26
 draft: false
 description: "vocational school in Quedlinburg, Germany"
-region: "Quedlinburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Quedlinburg"
+  - "Lower Saxony"
 wikidata_id: "Q828807"
 latitude: 51.795179
 longitude: 11.1492728
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/400px-Bossestraße_3_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/800px-Bossestraße_3_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/1200px-Bossestraße_3_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/1920px-Bossestraße_3_(Quedlinburg).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/1920px-Bossestraße_3_(Quedlinburg).JPG---
 
 ## Overview
 

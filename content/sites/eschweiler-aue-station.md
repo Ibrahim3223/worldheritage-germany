@@ -4,13 +4,13 @@ site_name: "Eschweiler-Aue station"
 date: 2026-01-26
 draft: false
 description: "railway station in Eschweiler, Germany"
-region: "Eschweiler"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Eschweiler"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q195343"
 latitude: 50.8066
 longitude: 6.24057
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/400px-Eschweiler-aue-hinten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/800px-Eschweiler-aue-hinten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/1200px-Eschweiler-aue-hinten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/1920px-Eschweiler-aue-hinten.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/1920px-Eschweiler-aue-hinten.jpg---
 
 ## Overview
 

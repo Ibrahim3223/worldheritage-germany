@@ -4,13 +4,13 @@ site_name: "Sowjetischer Garnisonfriedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Dresden, Saxony, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q2305110"
 latitude: 51.078333333
 longitude: 13.773333333
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/400px-Dresden_Sowjetischer_Friedhof_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/800px-Dresden_Sowjetischer_Friedhof_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/1200px-Dresden_Sowjetischer_Friedhof_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/1920px-Dresden_Sowjetischer_Friedhof_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/1920px-Dresden_Sowjetischer_Friedhof_1.jpg---
 
 ## Overview
 

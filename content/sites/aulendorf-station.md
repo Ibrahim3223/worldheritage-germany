@@ -4,13 +4,13 @@ site_name: "Aulendorf station"
 date: 2026-01-26
 draft: false
 description: "railway station in Aulendorf, Germany"
-region: "Aulendorf"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Aulendorf"
+  - "Baden-Württemberg"
 wikidata_id: "Q165899"
 latitude: 47.953333333
 longitude: 9.643888888
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/400px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/800px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/1200px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/1920px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/1920px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG---
 
 ## Overview
 

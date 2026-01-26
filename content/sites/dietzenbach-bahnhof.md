@@ -4,13 +4,13 @@ site_name: "Dietzenbach Bahnhof"
 date: 2026-01-26
 draft: false
 description: "railway station in Dietzenbach, Germany"
-region: "Dietzenbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Dietzenbach"
+  - "Hesse"
 wikidata_id: "Q303700"
 latitude: 50.008
 longitude: 8.78519
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dietzenbach_Bahnhof_20070912-2.jpg/400px-Dietzenbach_Bahnhof_20070912-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dietzenbach_Bahnhof_20070912-2.jpg/800px-Dietzenbach_Bahnhof_20070912-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dietzenbach_Bahnhof_20070912-2.jpg/1200px-Dietzenbach_Bahnhof_20070912-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dietzenbach_Bahnhof_20070912-2.jpg/1920px-Dietzenbach_Bahnhof_20070912-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dietzenbach_Bahnhof_20070912-2.jpg/1920px-Dietzenbach_Bahnhof_20070912-2.jpg---
 
 ## Overview
 

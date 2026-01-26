@@ -4,13 +4,13 @@ site_name: "St. Mary's Church, Pirna"
 date: 2026-01-26
 draft: false
 description: "Protestant church in Pirna, Saxony, Germany"
-region: "Pirna"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Pirna"
+  - "Saxony"
 wikidata_id: "Q1897856"
 latitude: 50.9622
 longitude: 13.9436
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/400px-PIR_Marienkirche_(04)_2006-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/800px-PIR_Marienkirche_(04)_2006-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/1200px-PIR_Marienkirche_(04)_2006-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/1920px-PIR_Marienkirche_(04)_2006-03.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/1920px-PIR_Marienkirche_(04)_2006-03.jpg---
 
 ## Overview
 

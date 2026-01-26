@@ -4,13 +4,13 @@ site_name: "St. Bernward's Church, Hildesheim"
 date: 2026-01-26
 draft: false
 description: "church building in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q2317572"
 latitude: 52.1569
 longitude: 9.94917
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/400px-Hildesheim_St._Bernward.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/800px-Hildesheim_St._Bernward.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/1200px-Hildesheim_St._Bernward.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/1920px-Hildesheim_St._Bernward.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/1920px-Hildesheim_St._Bernward.jpg---
 
 ## Overview
 

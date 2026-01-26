@@ -4,13 +4,13 @@ site_name: "Actien-Brauerei Homburg v. d. Höhe"
 date: 2026-01-26
 draft: false
 description: "Ehemalige Brauerei in Bad Homburg, Hessen"
-region: "Bad Homburg vor der Höhe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Bad Homburg vor der Höhe"
+  - "Hesse"
 wikidata_id: "Q343264"
 latitude: 50.2319
 longitude: 8.6126
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bad_Homburg,_Castillostraße_1a_(2).JPG/400px-Bad_Homburg,_Castillostraße_1a_(2).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bad_Homburg,_Castillostraße_1a_(2).JPG/800px-Bad_Homburg,_Castillostraße_1a_(2).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bad_Homburg,_Castillostraße_1a_(2).JPG/1200px-Bad_Homburg,_Castillostraße_1a_(2).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bad_Homburg,_Castillostraße_1a_(2).JPG/1920px-Bad_Homburg,_Castillostraße_1a_(2).JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bad_Homburg,_Castillostraße_1a_(2).JPG/1920px-Bad_Homburg,_Castillostraße_1a_(2).JPG---
 
 ## Overview
 

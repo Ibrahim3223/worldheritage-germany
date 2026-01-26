@@ -4,13 +4,13 @@ site_name: "Burg Hagen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q1012155"
 latitude: 51.4809
 longitude: 6.80026
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/400px-Burg_Hagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/800px-Burg_Hagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/1200px-Burg_Hagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/1920px-Burg_Hagen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/1920px-Burg_Hagen.jpg---
 
 ## Overview
 

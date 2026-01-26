@@ -4,13 +4,13 @@ site_name: "Käthe Kollwitz"
 date: 2026-01-26
 draft: false
 description: "sculpture in Berlin, Germany"
-region: "Pankow"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Pankow"
+  - "Berlin"
 wikidata_id: "Q1639828"
 latitude: 52.5363839
 longitude: 13.4173625
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/400px-Kollwitzstatue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/800px-Kollwitzstatue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/1200px-Kollwitzstatue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/1920px-Kollwitzstatue.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/1920px-Kollwitzstatue.jpg---
 
 ## Overview
 

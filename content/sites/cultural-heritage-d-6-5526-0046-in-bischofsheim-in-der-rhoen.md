@@ -4,19 +4,18 @@ site_name: "Cultural heritage D-6-5526-0046 in Bischofsheim in der Rhön"
 date: 2026-01-26
 draft: false
 description: "cultural heritage monument in Bischofsheim an der Rhön, Rhön-Grabfeld, Lower Franconia, Bavaria, Germany"
-region: "Bischofsheim in der Rhön"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"
 categories:
   - "Fortification"
 regions:
-  - "Bischofsheim in der Rhön"
+  - "Bavaria"
 wikidata_id: "Q98167584"
 latitude: 50.401130284
 longitude: 10.007634319
 images:
-  []
----
+  []---
 
 ## Overview
 

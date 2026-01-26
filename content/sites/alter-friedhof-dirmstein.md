@@ -4,13 +4,13 @@ site_name: "Alter Friedhof (Dirmstein)"
 date: 2026-01-26
 draft: false
 description: "cemetery in Rhineland-Palatinate, Germany"
-region: "Dirmstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Dirmstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q437870"
 latitude: 49.5632
 longitude: 8.2593
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alter_friedhof_dirmstein_04_05_2014.JPG/400px-Alter_friedhof_dirmstein_04_05_2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alter_friedhof_dirmstein_04_05_2014.JPG/800px-Alter_friedhof_dirmstein_04_05_2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alter_friedhof_dirmstein_04_05_2014.JPG/1200px-Alter_friedhof_dirmstein_04_05_2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alter_friedhof_dirmstein_04_05_2014.JPG/1920px-Alter_friedhof_dirmstein_04_05_2014.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alter_friedhof_dirmstein_04_05_2014.JPG/1920px-Alter_friedhof_dirmstein_04_05_2014.JPG---
 
 ## Overview
 

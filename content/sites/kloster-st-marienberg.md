@@ -4,19 +4,18 @@ site_name: "Kloster St. Marienberg"
 date: 2026-01-26
 draft: false
 description: "museum and former monastery in Helmstedt, Germany"
-region: "Helmstedt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Helmstedt"
+  - "Lower Saxony"
 wikidata_id: "Q76636197"
 latitude: 52.230346
 longitude: 11.000018
 images:
-  []
----
+  []---
 
 ## Overview
 

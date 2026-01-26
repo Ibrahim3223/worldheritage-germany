@@ -4,13 +4,13 @@ site_name: "Thüringer Kloßmuseum"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Heichelheim"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Heichelheim"
+  - "Saxony-Anhalt"
 wikidata_id: "Q20480226"
 latitude: 51.03282
 longitude: 11.27943
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/400px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/800px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/1200px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/1920px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/1920px-Thüringer_Kloßmuseum_Heichelheim_1.jpg---
 
 ## Overview
 

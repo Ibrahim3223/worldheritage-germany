@@ -4,13 +4,13 @@ site_name: "Kapelle St. Quirin (Tegernbach)"
 date: 2026-01-26
 draft: false
 description: "Kirchengebäude in Tegernbach"
-region: "Pfaffenhofen an der Ilm"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Pfaffenhofen an der Ilm"
+  - "Bavaria"
 wikidata_id: "Q1728438"
 latitude: 48.569011029
 longitude: 11.431389005
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/400px-Kirendl-Tegernbach-Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/800px-Kirendl-Tegernbach-Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/1200px-Kirendl-Tegernbach-Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/1920px-Kirendl-Tegernbach-Sommer.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/1920px-Kirendl-Tegernbach-Sommer.jpg---
 
 ## Overview
 

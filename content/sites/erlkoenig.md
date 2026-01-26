@@ -4,13 +4,13 @@ site_name: "Erlkönig"
 date: 2026-01-26
 draft: false
 description: "monument"
-region: "Jena"
+region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Jena"
+  - "Saxony-Anhalt"
 wikidata_id: "Q1355664"
 latitude: 50.94166389
 longitude: 11.61555278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/400px-Erlkoenig_Jena_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/800px-Erlkoenig_Jena_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/1200px-Erlkoenig_Jena_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/1920px-Erlkoenig_Jena_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/1920px-Erlkoenig_Jena_01.jpg---
 
 ## Overview
 

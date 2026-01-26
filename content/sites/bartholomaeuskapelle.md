@@ -4,13 +4,13 @@ site_name: "Bartholomäuskapelle"
 date: 2026-01-26
 draft: false
 description: "chapel"
-region: "Korweiler"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"
 categories:
   - "Chapel"
 regions:
-  - "Korweiler"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q809397"
 latitude: 50.1073
 longitude: 7.41587
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Korweiler01.jpg/400px-Korweiler01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Korweiler01.jpg/800px-Korweiler01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Korweiler01.jpg/1200px-Korweiler01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Korweiler01.jpg/1920px-Korweiler01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Korweiler01.jpg/1920px-Korweiler01.jpg---
 
 ## Overview
 

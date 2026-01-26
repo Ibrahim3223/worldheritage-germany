@@ -4,13 +4,13 @@ site_name: "Schloss Griesheim"
 date: 2026-01-26
 draft: false
 description: "building in Stadtilm (Germany)"
-region: "Stadtilm"
+region: "Thuringia"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Stadtilm"
+  - "Thuringia"
 wikidata_id: "Q1684692"
 latitude: 50.7527
 longitude: 11.0396
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/400px-Schloss_Griesheim_Modell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/800px-Schloss_Griesheim_Modell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/1200px-Schloss_Griesheim_Modell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/1920px-Schloss_Griesheim_Modell.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/1920px-Schloss_Griesheim_Modell.JPG---
 
 ## Overview
 

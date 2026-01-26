@@ -4,13 +4,13 @@ site_name: "Neue Pinakothek"
 date: 2026-01-26
 draft: false
 description: "art museum in Munich, Germany"
-region: "Munich"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Munich"
+  - "Bavaria"
 wikidata_id: "Q170152"
 latitude: 48.149887
 longitude: 11.571114
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ausstellungsraum_Neue_Pinakothek.JPG/400px-Ausstellungsraum_Neue_Pinakothek.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ausstellungsraum_Neue_Pinakothek.JPG/800px-Ausstellungsraum_Neue_Pinakothek.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ausstellungsraum_Neue_Pinakothek.JPG/1200px-Ausstellungsraum_Neue_Pinakothek.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ausstellungsraum_Neue_Pinakothek.JPG/1920px-Ausstellungsraum_Neue_Pinakothek.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ausstellungsraum_Neue_Pinakothek.JPG/1920px-Ausstellungsraum_Neue_Pinakothek.JPG---
 
 ## Overview
 

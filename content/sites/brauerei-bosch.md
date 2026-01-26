@@ -4,19 +4,18 @@ site_name: "Brauerei Bosch"
 date: 2026-01-26
 draft: false
 description: "brewery"
-region: "Bad Laasphe"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Bad Laasphe"
+  - "Hesse"
 wikidata_id: "Q900128"
 latitude: 50.927930555
 longitude: 8.409161111
 images:
-  []
----
+  []---
 
 ## Overview
 

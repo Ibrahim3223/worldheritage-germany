@@ -4,13 +4,13 @@ site_name: "Bonifatius-Kirche"
 date: 2026-01-26
 draft: false
 description: "church in Dortmund"
-region: "Dortmund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Dortmund"
+  - "Lower Saxony"
 wikidata_id: "Q121945"
 latitude: 51.5004
 longitude: 7.47355
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/400px-Westfalenpark-100818-16820-St-Bonifatius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/800px-Westfalenpark-100818-16820-St-Bonifatius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1200px-Westfalenpark-100818-16820-St-Bonifatius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1920px-Westfalenpark-100818-16820-St-Bonifatius.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1920px-Westfalenpark-100818-16820-St-Bonifatius.jpg---
 
 ## Overview
 

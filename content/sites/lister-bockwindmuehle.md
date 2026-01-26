@@ -4,19 +4,18 @@ site_name: "Lister Bockwindmühle"
 date: 2026-01-26
 draft: false
 description: "Windmühle in Vahrenheide, Hannover"
-region: "Vahrenheide"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"
 categories:
   - "Windmill"
 regions:
-  - "Vahrenheide"
+  - "Lower Saxony"
 wikidata_id: "Q137661599"
 latitude: 52.406624466
 longitude: 9.746098946
 images:
-  []
----
+  []---
 
 ## Overview
 

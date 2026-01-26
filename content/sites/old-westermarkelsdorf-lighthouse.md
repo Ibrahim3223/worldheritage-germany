@@ -4,13 +4,13 @@ site_name: "Old Westermarkelsdorf lighthouse"
 date: 2026-01-26
 draft: false
 description: "unlit lighthouse in Schleswig-Holstein, Germany"
-region: "Fehmarn"
+region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"
 categories:
   - "Lighthouse"
 regions:
-  - "Fehmarn"
+  - "Mecklenburg-Vorpommern"
 wikidata_id: "Q1471332"
 latitude: 54.527329
 longitude: 11.058091
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/400px-Westermarkelsdorf_lighthouse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/800px-Westermarkelsdorf_lighthouse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/1200px-Westermarkelsdorf_lighthouse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/1920px-Westermarkelsdorf_lighthouse.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/1920px-Westermarkelsdorf_lighthouse.jpg---
 
 ## Overview
 

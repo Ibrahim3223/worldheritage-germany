@@ -4,13 +4,13 @@ site_name: "Rakotzbrücke"
 date: 2026-01-26
 draft: false
 description: "Folly bridge in Gablenz, Germany"
-region: "Gablenz"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Bridge"
 categories:
   - "Bridge"
 regions:
-  - "Gablenz"
+  - "Brandenburg"
 wikidata_id: "Q49418029"
 latitude: 51.536227
 longitude: 14.640453
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/400px-Rakotzbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/800px-Rakotzbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1200px-Rakotzbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1920px-Rakotzbrücke.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1920px-Rakotzbrücke.jpg---
 
 ## Overview
 

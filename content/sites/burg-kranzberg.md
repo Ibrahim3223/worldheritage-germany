@@ -4,13 +4,13 @@ site_name: "Burg Kranzberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Sulzbach-Laufen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Sulzbach-Laufen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012718"
 latitude: 48.9496
 longitude: 9.84721
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ruine_Kranzberg_021108.jpg/400px-Ruine_Kranzberg_021108.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ruine_Kranzberg_021108.jpg/800px-Ruine_Kranzberg_021108.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ruine_Kranzberg_021108.jpg/1200px-Ruine_Kranzberg_021108.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ruine_Kranzberg_021108.jpg/1920px-Ruine_Kranzberg_021108.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ruine_Kranzberg_021108.jpg/1920px-Ruine_Kranzberg_021108.jpg---
 
 ## Overview
 

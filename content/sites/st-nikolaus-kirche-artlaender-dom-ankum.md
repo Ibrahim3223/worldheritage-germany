@@ -4,13 +4,13 @@ site_name: "St.-Nikolaus-Kirche (Artländer Dom, Ankum)"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Ankum"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Ankum"
+  - "Lower Saxony"
 wikidata_id: "Q713599"
 latitude: 52.5428
 longitude: 7.86983
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Artländer_Dom.jpg/400px-Artländer_Dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Artländer_Dom.jpg/800px-Artländer_Dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Artländer_Dom.jpg/1200px-Artländer_Dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Artländer_Dom.jpg/1920px-Artländer_Dom.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Artländer_Dom.jpg/1920px-Artländer_Dom.jpg---
 
 ## Overview
 

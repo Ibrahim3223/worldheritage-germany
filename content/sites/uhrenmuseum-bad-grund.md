@@ -4,13 +4,13 @@ site_name: "Uhrenmuseum Bad Grund"
 date: 2026-01-26
 draft: false
 description: "clock museum"
-region: "Bad Grund"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Bad Grund"
+  - "Lower Saxony"
 wikidata_id: "Q1702827"
 latitude: 51.8078
 longitude: 10.2425
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/400px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/800px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/1200px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/1920px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/1920px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg---
 
 ## Overview
 

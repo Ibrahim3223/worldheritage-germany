@@ -4,13 +4,13 @@ site_name: "Stadthalle Weißenfels"
 date: 2026-01-26
 draft: false
 description: "multi-purpose hall in Weißenfels, Germany"
-region: "Weißenfels"
+region: "Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"
 categories:
   - "Multi-Purpose Hall"
 regions:
-  - "Weißenfels"
+  - "Saxony"
 wikidata_id: "Q17355823"
 latitude: 51.201778
 longitude: 11.957062
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/400px-Stadthalle_Weißenfels.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/800px-Stadthalle_Weißenfels.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/1200px-Stadthalle_Weißenfels.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/1920px-Stadthalle_Weißenfels.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/1920px-Stadthalle_Weißenfels.JPG---
 
 ## Overview
 

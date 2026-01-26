@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunrueck_Kellerwald.JPG/400px-Hunrueck_Kellerwald.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunrueck_Kellerwald.JPG/800px-Hunrueck_Kellerwald.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunrueck_Kellerwald.JPG/1200px-Hunrueck_Kellerwald.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunrueck_Kellerwald.JPG/1920px-Hunrueck_Kellerwald.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunrueck_Kellerwald.JPG/1920px-Hunrueck_Kellerwald.JPG---
 
 ## Overview
 

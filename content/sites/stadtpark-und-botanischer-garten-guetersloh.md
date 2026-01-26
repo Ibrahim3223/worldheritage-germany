@@ -4,13 +4,13 @@ site_name: "Stadtpark und Botanischer Garten Gütersloh"
 date: 2026-01-26
 draft: false
 description: "park and botanical garden in Gütersloh, Germany"
-region: "Gütersloh"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"
 categories:
   - "Botanical Garden"
 regions:
-  - "Gütersloh"
+  - "Lower Saxony"
 wikidata_id: "Q870492"
 latitude: 51.8979
 longitude: 8.391
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/400px-Botanischer-guetersloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/800px-Botanischer-guetersloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/1200px-Botanischer-guetersloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/1920px-Botanischer-guetersloh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/1920px-Botanischer-guetersloh.jpg---
 
 ## Overview
 

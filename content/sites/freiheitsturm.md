@@ -4,13 +4,13 @@ site_name: "Freiheitsturm"
 date: 2026-01-26
 draft: false
 description: "tower in Burg, Germany"
-region: "Burg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Burg"
+  - "Brandenburg"
 wikidata_id: "Q1454371"
 latitude: 52.274652
 longitude: 11.863338
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kuhturm_3.jpg/400px-Kuhturm_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kuhturm_3.jpg/800px-Kuhturm_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kuhturm_3.jpg/1200px-Kuhturm_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kuhturm_3.jpg/1920px-Kuhturm_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kuhturm_3.jpg/1920px-Kuhturm_3.jpg---
 
 ## Overview
 

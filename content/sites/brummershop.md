@@ -4,19 +4,18 @@ site_name: "Brummershop"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Lower Saxony, Germany"
-region: "Seggebruch"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Seggebruch"
+  - "Lower Saxony"
 wikidata_id: "Q992451"
 latitude: 52.3072
 longitude: 9.08222
 images:
-  []
----
+  []---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Mausoleum Tenge"
 date: 2026-01-26
 draft: false
 description: "denkmalgeschütztes Profangebäude in Oerlinghausen im nordrhein-westfälischen Kreis Lippe"
-region: "Oerlinghausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"
 categories:
   - "Mausoleum"
 regions:
-  - "Oerlinghausen"
+  - "Lower Saxony"
 wikidata_id: "Q1911763"
 latitude: 51.9673
 longitude: 8.68014
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mausoleum_Tenge_(Oerlinghausen)_01.jpg/400px-Mausoleum_Tenge_(Oerlinghausen)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mausoleum_Tenge_(Oerlinghausen)_01.jpg/800px-Mausoleum_Tenge_(Oerlinghausen)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mausoleum_Tenge_(Oerlinghausen)_01.jpg/1200px-Mausoleum_Tenge_(Oerlinghausen)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mausoleum_Tenge_(Oerlinghausen)_01.jpg/1920px-Mausoleum_Tenge_(Oerlinghausen)_01.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mausoleum_Tenge_(Oerlinghausen)_01.jpg/1920px-Mausoleum_Tenge_(Oerlinghausen)_01.jpg---
 
 ## Overview
 

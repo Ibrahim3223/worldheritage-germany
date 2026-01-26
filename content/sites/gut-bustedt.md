@@ -4,13 +4,13 @@ site_name: "Gut Bustedt"
 date: 2026-01-26
 draft: false
 description: "manor house in Hiddenhausen, Germany"
-region: "Hiddenhausen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Hiddenhausen"
+  - "Lower Saxony"
 wikidata_id: "Q1556905"
 latitude: 52.1683
 longitude: 8.60547
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/400px-Panorama_Gut_Bustedt_clouds.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/800px-Panorama_Gut_Bustedt_clouds.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/1200px-Panorama_Gut_Bustedt_clouds.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/1920px-Panorama_Gut_Bustedt_clouds.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/1920px-Panorama_Gut_Bustedt_clouds.jpg---
 
 ## Overview
 

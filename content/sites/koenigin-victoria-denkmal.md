@@ -4,13 +4,13 @@ site_name: "Königin-Victoria-Denkmal"
 date: 2026-01-26
 draft: false
 description: "national heritage site"
-region: "Hochheim am Main"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"
 categories:
   - "Monument"
 regions:
-  - "Hochheim am Main"
+  - "Hesse"
 wikidata_id: "Q1427304"
 latitude: 50.0031
 longitude: 8.37638
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/400px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/800px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/1200px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/1920px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/1920px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG---
 
 ## Overview
 

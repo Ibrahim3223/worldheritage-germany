@@ -4,13 +4,13 @@ site_name: "Burg Layen"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Rümmelsheim"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Rümmelsheim"
+  - "Hesse"
 wikidata_id: "Q1012882"
 latitude: 49.93
 longitude: 7.86514
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/400px-141115-008-Burg_Layen-XL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/800px-141115-008-Burg_Layen-XL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/1200px-141115-008-Burg_Layen-XL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/1920px-141115-008-Burg_Layen-XL.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/1920px-141115-008-Burg_Layen-XL.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Library of the Germanisches Nationalmuseum"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Nuremberg"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Nuremberg"
+  - "Bavaria"
 wikidata_id: "Q2793980"
 latitude: 49.4482
 longitude: 11.0755
 images:
-  []
----
+  []---
 
 ## Overview
 

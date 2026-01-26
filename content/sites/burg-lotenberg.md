@@ -4,13 +4,13 @@ site_name: "Burg Lotenberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eschenbach"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eschenbach"
+  - "Baden-Württemberg"
 wikidata_id: "Q1013020"
 latitude: 48.6413
 longitude: 9.6615
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/400px-Lotenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/800px-Lotenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/1200px-Lotenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/1920px-Lotenberg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/1920px-Lotenberg.jpg---
 
 ## Overview
 

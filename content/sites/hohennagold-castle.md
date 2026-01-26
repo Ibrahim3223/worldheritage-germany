@@ -4,13 +4,13 @@ site_name: "Hohennagold Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Nagold"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Nagold"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012433"
 latitude: 48.5533
 longitude: 8.71667
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/400px-Hohennagold.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/800px-Hohennagold.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1200px-Hohennagold.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1920px-Hohennagold.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1920px-Hohennagold.jpg---
 
 ## Overview
 

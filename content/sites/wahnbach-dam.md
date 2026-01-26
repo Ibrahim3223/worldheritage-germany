@@ -4,13 +4,13 @@ site_name: "Wahnbach Dam"
 date: 2026-01-26
 draft: false
 description: "dam in Germany"
-region: "Siegburg"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"
 categories:
   - "Dam"
 regions:
-  - "Siegburg"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q896697"
 latitude: 50.8047
 longitude: 7.28417
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahnbachtalsperre-sanierung-2008-03.JPG/400px-Wahnbachtalsperre-sanierung-2008-03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahnbachtalsperre-sanierung-2008-03.JPG/800px-Wahnbachtalsperre-sanierung-2008-03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahnbachtalsperre-sanierung-2008-03.JPG/1200px-Wahnbachtalsperre-sanierung-2008-03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahnbachtalsperre-sanierung-2008-03.JPG/1920px-Wahnbachtalsperre-sanierung-2008-03.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahnbachtalsperre-sanierung-2008-03.JPG/1920px-Wahnbachtalsperre-sanierung-2008-03.JPG---
 
 ## Overview
 

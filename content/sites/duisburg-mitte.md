@@ -4,13 +4,13 @@ site_name: "Duisburg-Mitte"
 date: 2026-01-26
 draft: false
 description: "human settlement in Germany"
-region: "Duisburg"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"
 categories:
   - "Old Town"
 regions:
-  - "Duisburg"
+  - "Lower Saxony"
 wikidata_id: "Q317314"
 latitude: 51.4331
 longitude: 6.76861
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/400px-Schwanentorbruecke_Duisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/800px-Schwanentorbruecke_Duisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/1200px-Schwanentorbruecke_Duisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/1920px-Schwanentorbruecke_Duisburg.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/1920px-Schwanentorbruecke_Duisburg.jpg---
 
 ## Overview
 

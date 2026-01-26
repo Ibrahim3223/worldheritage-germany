@@ -4,13 +4,13 @@ site_name: "Axel-Springer-Passage"
 date: 2026-01-26
 draft: false
 description: "architectural structure"
-region: "Friedrichshain-Kreuzberg"
+region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Friedrichshain-Kreuzberg"
+  - "Berlin"
 wikidata_id: "Q791967"
 latitude: 52.5076
 longitude: 13.3958
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/400px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/800px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/1200px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/1920px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/1920px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg---
 
 ## Overview
 

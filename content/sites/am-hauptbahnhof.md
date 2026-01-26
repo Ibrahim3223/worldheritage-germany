@@ -4,13 +4,13 @@ site_name: "Am Hauptbahnhof"
 date: 2026-01-26
 draft: false
 description: "square in Frankfurt am Main, Germany"
-region: "Frankfurt"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Frankfurt"
+  - "Hesse"
 wikidata_id: "Q451318"
 latitude: 50.1075
 longitude: 8.665
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/400px-Bahnhofsviertel,_Frankfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/800px-Bahnhofsviertel,_Frankfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/1200px-Bahnhofsviertel,_Frankfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/1920px-Bahnhofsviertel,_Frankfurt.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/1920px-Bahnhofsviertel,_Frankfurt.JPG---
 
 ## Overview
 

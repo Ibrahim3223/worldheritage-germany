@@ -4,13 +4,13 @@ site_name: "Nieuwe Kerk"
 date: 2026-01-26
 draft: false
 description: "church building in Emden, Germany"
-region: "Emden"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Emden"
+  - "Lower Saxony"
 wikidata_id: "Q1979591"
 latitude: 53.367517
 longitude: 7.21415
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/400px-Emden_Neue_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/800px-Emden_Neue_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1200px-Emden_Neue_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1920px-Emden_Neue_Kirche.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1920px-Emden_Neue_Kirche.jpg---
 
 ## Overview
 

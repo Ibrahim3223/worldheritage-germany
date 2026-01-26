@@ -4,13 +4,13 @@ site_name: "Friedhof"
 date: 2026-01-26
 draft: false
 description: "cemetery in Mainbernheim, Germany"
-region: "Mainbernheim"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"
 categories:
   - "Cemetery"
 regions:
-  - "Mainbernheim"
+  - "Baden-Württemberg"
 wikidata_id: "Q437902"
 latitude: 49.7125
 longitude: 10.2163
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mainbernheim_Friedhof_47.JPG/400px-Mainbernheim_Friedhof_47.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mainbernheim_Friedhof_47.JPG/800px-Mainbernheim_Friedhof_47.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mainbernheim_Friedhof_47.JPG/1200px-Mainbernheim_Friedhof_47.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mainbernheim_Friedhof_47.JPG/1920px-Mainbernheim_Friedhof_47.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mainbernheim_Friedhof_47.JPG/1920px-Mainbernheim_Friedhof_47.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Rheydt Central Station"
 date: 2026-01-26
 draft: false
 description: "railway station in Mönchengladbach, Germany"
-region: "Mönchengladbach"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"
 categories:
   - "Railway Station"
 regions:
-  - "Mönchengladbach"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q130508"
 latitude: 51.1631
 longitude: 6.43971
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/400px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/800px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/1200px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/1920px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/1920px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg---
 
 ## Overview
 

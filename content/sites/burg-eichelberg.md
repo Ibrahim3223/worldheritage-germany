@@ -4,13 +4,13 @@ site_name: "Burg Eichelberg"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Hasselbach"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Hasselbach"
+  - "Hesse"
 wikidata_id: "Q1011557"
 latitude: 50.3256
 longitude: 8.35783
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/400px-Burgstall_Eichelberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/800px-Burgstall_Eichelberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/1200px-Burgstall_Eichelberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/1920px-Burgstall_Eichelberg.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/1920px-Burgstall_Eichelberg.JPG---
 
 ## Overview
 

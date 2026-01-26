@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg/400px-Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg/800px-Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg/1200px-Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg/1920px-Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg/1920px-Ehrenmal_der_Radiologie_(Hamburg-St._Georg).1.ajb.jpg---
 
 ## Overview
 

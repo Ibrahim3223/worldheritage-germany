@@ -4,13 +4,13 @@ site_name: "Gewandhaus Museum Inneringen"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hettingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hettingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q21035603"
 latitude: 48.18777847
 longitude: 9.27750015
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/400px-Gewandhaus_Museum_Inneringen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/800px-Gewandhaus_Museum_Inneringen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/1200px-Gewandhaus_Museum_Inneringen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/1920px-Gewandhaus_Museum_Inneringen.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/1920px-Gewandhaus_Museum_Inneringen.JPG---
 
 ## Overview
 

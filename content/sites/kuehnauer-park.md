@@ -4,13 +4,13 @@ site_name: "Kühnauer Park"
 date: 2026-01-26
 draft: false
 description: "park in Dessau-Roßlau, Saxony-Anhalt, Germany"
-region: "Dessau-Roßlau"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"
 categories:
   - "Park"
 regions:
-  - "Dessau-Roßlau"
+  - "Brandenburg"
 wikidata_id: "Q71135129"
 tags:
   - unesco
@@ -23,8 +23,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/400px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/800px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/1200px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/1920px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/1920px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg---
 
 ## Overview
 

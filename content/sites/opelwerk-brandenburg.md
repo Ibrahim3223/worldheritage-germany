@@ -4,13 +4,13 @@ site_name: "Opelwerk Brandenburg"
 date: 2026-01-26
 draft: false
 description: "Ehemaliges Werk der Adam Opel AG in Brandenburg an der Havel"
-region: "Brandenburg an der Havel"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"
 categories:
   - "Factory"
 regions:
-  - "Brandenburg an der Havel"
+  - "Brandenburg"
 wikidata_id: "Q2025324"
 latitude: 52.4222
 longitude: 12.5278
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/400px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/800px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/1200px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/1920px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/1920px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg---
 
 ## Overview
 

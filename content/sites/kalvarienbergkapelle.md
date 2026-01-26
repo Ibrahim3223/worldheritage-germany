@@ -4,13 +4,13 @@ site_name: "Kalvarienbergkapelle"
 date: 2026-01-26
 draft: false
 description: "church building in Bavaria, Germany"
-region: "Donauwörth"
+region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Donauwörth"
+  - "Bavaria"
 wikidata_id: "Q1722761"
 latitude: 48.7314
 longitude: 10.7237
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/400px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/800px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/1200px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/1920px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/1920px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG---
 
 ## Overview
 

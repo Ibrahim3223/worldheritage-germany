@@ -4,13 +4,13 @@ site_name: "Fritz Löffler Gymnasium Dresden"
 date: 2026-01-26
 draft: false
 description: "gymnasium (school) in Dresden, Germany"
-region: "Dresden"
+region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"
 categories:
   - "School Building"
 regions:
-  - "Dresden"
+  - "Saxony"
 wikidata_id: "Q1465401"
 latitude: 51.0376
 longitude: 13.7244
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/400px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/800px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/1200px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/1920px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/1920px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg---
 
 ## Overview
 

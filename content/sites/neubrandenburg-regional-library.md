@@ -4,19 +4,18 @@ site_name: "Neubrandenburg regional library"
 date: 2026-01-26
 draft: false
 description: "library in Germany"
-region: "Neubrandenburg"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"
 categories:
   - "Library"
 regions:
-  - "Neubrandenburg"
+  - "Brandenburg"
 wikidata_id: "Q2138279"
 latitude: 53.558
 longitude: 13.2607
 images:
-  []
----
+  []---
 
 ## Overview
 

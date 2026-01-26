@@ -4,13 +4,13 @@ site_name: "Fredersdorf Manor"
 date: 2026-01-26
 draft: false
 description: "Herrenhaus in Bad Belzig, Landkreis Potsdam-Mittelmark, Brandenburg"
-region: "Bad Belzig"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"
 categories:
   - "Manor House"
 regions:
-  - "Bad Belzig"
+  - "Brandenburg"
 wikidata_id: "Q3286188"
 latitude: 52.188638
 longitude: 12.63947
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/400px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/800px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/1200px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/1920px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/1920px-Fredersdorf-Sammlung_Duncker_(5370363).jpg---
 
 ## Overview
 

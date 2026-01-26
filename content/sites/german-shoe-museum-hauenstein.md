@@ -4,13 +4,13 @@ site_name: "German Shoe Museum Hauenstein"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hauenstein"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hauenstein"
+  - "Baden-Württemberg"
 wikidata_id: "Q22625"
 latitude: 49.18984
 longitude: 7.85612
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/400px-Deutsches_Schuhmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/800px-Deutsches_Schuhmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1200px-Deutsches_Schuhmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1920px-Deutsches_Schuhmuseum.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1920px-Deutsches_Schuhmuseum.jpg---
 
 ## Overview
 

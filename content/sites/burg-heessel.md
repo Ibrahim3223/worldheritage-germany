@@ -4,13 +4,13 @@ site_name: "Burg Heeßel"
 date: 2026-01-26
 draft: false
 description: "former castle in Lower Saxony"
-region: "Burgdorf"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"
 categories:
   - "Archaeological Site"
 regions:
-  - "Burgdorf"
+  - "Lower Saxony"
 wikidata_id: "Q1012248"
 latitude: 52.43954
 longitude: 9.9799
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/400px-Heessel_Rekonstruktion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/800px-Heessel_Rekonstruktion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/1200px-Heessel_Rekonstruktion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/1920px-Heessel_Rekonstruktion.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/1920px-Heessel_Rekonstruktion.jpg---
 
 ## Overview
 

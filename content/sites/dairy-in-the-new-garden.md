@@ -4,13 +4,13 @@ site_name: "Dairy in the New Garden"
 date: 2026-01-26
 draft: false
 description: "building in Germany"
-region: "Nördliche Vorstädte"
+region: "Brandenburg"
 country: "Germany"
 heritage_type: "Brewery"
 categories:
   - "Brewery"
 regions:
-  - "Nördliche Vorstädte"
+  - "Brandenburg"
 wikidata_id: "Q883074"
 latitude: 52.4219
 longitude: 13.0697
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/400px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/800px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1200px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1920px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1920px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg---
 
 ## Overview
 

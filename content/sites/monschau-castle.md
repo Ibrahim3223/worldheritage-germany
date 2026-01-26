@@ -4,13 +4,13 @@ site_name: "Monschau Castle"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Monschau"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Monschau"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1013134"
 latitude: 50.5531
 longitude: 6.23972
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Monschau_2.jpg/400px-Burg_Monschau_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Monschau_2.jpg/800px-Burg_Monschau_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Monschau_2.jpg/1200px-Burg_Monschau_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Monschau_2.jpg/1920px-Burg_Monschau_2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Monschau_2.jpg/1920px-Burg_Monschau_2.jpg---
 
 ## Overview
 

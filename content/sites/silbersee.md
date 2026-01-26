@@ -4,13 +4,13 @@ site_name: "Silbersee"
 date: 2026-01-26
 draft: false
 description: "lake in Langenhagen, Lower Saxony, Germany"
-region: "Langenhagen"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"
 categories:
   - "Lake"
 regions:
-  - "Langenhagen"
+  - "Lower Saxony"
 wikidata_id: "Q280680"
 latitude: 52.4306
 longitude: 9.75944
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/400px-Silbersee_Langenhagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/800px-Silbersee_Langenhagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/1200px-Silbersee_Langenhagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/1920px-Silbersee_Langenhagen.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/1920px-Silbersee_Langenhagen.jpg---
 
 ## Overview
 

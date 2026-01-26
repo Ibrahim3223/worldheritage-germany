@@ -4,13 +4,13 @@ site_name: "Haus Hove"
 date: 2026-01-26
 draft: false
 description: "architectural heritage monument"
-region: "Volmarstein"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"
 categories:
   - "Architectural Ensemble"
 regions:
-  - "Volmarstein"
+  - "Lower Saxony"
 wikidata_id: "Q1495504"
 latitude: 51.385
 longitude: 7.37764
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/400px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/800px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/1200px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/1920px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/1920px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg---
 
 ## Overview
 

@@ -4,19 +4,18 @@ site_name: "Heimatstube Rohnstadt"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Germany"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Germany"
+  - "Hesse"
 wikidata_id: "Q76634266"
 latitude: 50.406177
 longitude: 8.36042
 images:
-  []
----
+  []---
 
 ## Overview
 

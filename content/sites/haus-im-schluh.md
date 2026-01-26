@@ -4,13 +4,13 @@ site_name: "Haus im Schluh"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Worpswede"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"
 categories:
   - "Art Museum"
 regions:
-  - "Worpswede"
+  - "Bremen"
 wikidata_id: "Q63725953"
 latitude: 53.223821
 longitude: 8.933385
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/400px-Haus_im_Schluh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/800px-Haus_im_Schluh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/1200px-Haus_im_Schluh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/1920px-Haus_im_Schluh.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/1920px-Haus_im_Schluh.jpg---
 
 ## Overview
 

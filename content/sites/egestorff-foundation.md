@@ -4,13 +4,13 @@ site_name: "Egestorff Foundation"
 date: 2026-01-26
 draft: false
 description: "Foundation of the Bremen Evangelical Church"
-region: "Osterholz"
+region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"
 categories:
   - "Foundation"
 regions:
-  - "Osterholz"
+  - "Bremen"
 wikidata_id: "Q1297337"
 latitude: 53.0626
 longitude: 8.95781
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EgestorffStiftung-Altenheim-sued_3.jpg/400px-EgestorffStiftung-Altenheim-sued_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EgestorffStiftung-Altenheim-sued_3.jpg/800px-EgestorffStiftung-Altenheim-sued_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EgestorffStiftung-Altenheim-sued_3.jpg/1200px-EgestorffStiftung-Altenheim-sued_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EgestorffStiftung-Altenheim-sued_3.jpg/1920px-EgestorffStiftung-Altenheim-sued_3.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EgestorffStiftung-Altenheim-sued_3.jpg/1920px-EgestorffStiftung-Altenheim-sued_3.jpg---
 
 ## Overview
 

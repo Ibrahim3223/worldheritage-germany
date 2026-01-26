@@ -4,13 +4,13 @@ site_name: "Friedenskirche Westerholt"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Westerholt"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
 categories:
   - "Church Building"
 regions:
-  - "Westerholt"
+  - "Lower Saxony"
 wikidata_id: "Q1607549"
 latitude: 53.5911
 longitude: 7.45819
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/400px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/800px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/1200px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/1920px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/1920px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg---
 
 ## Overview
 

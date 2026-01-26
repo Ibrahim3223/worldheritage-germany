@@ -4,13 +4,13 @@ site_name: "Dalbekschlucht"
 date: 2026-01-26
 draft: false
 description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Kröppelshagen-Fahrendorf"
+region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"
 categories:
   - "Naturschutzgebiet"
 regions:
-  - "Kröppelshagen-Fahrendorf"
+  - "Hamburg"
 wikidata_id: "Q1157805"
 latitude: 53.47166667
 longitude: 10.295
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/400px-Dalbekschlucht_P1190119.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/800px-Dalbekschlucht_P1190119.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/1200px-Dalbekschlucht_P1190119.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/1920px-Dalbekschlucht_P1190119.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/1920px-Dalbekschlucht_P1190119.JPG---
 
 ## Overview
 

@@ -4,13 +4,13 @@ site_name: "Wallburg Jäckelchen"
 date: 2026-01-26
 draft: false
 description: "abgegangene Burg in Nordrhein-Westfalen, Deutschland"
-region: "Attendorn"
+region: "Hesse"
 country: "Germany"
 heritage_type: "Hillfort"
 categories:
   - "Hillfort"
 regions:
-  - "Attendorn"
+  - "Hesse"
 wikidata_id: "Q2542615"
 latitude: 51.09225
 longitude: 7.961555555
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/400px-Jäckelchen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/800px-Jäckelchen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/1200px-Jäckelchen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/1920px-Jäckelchen-2.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/1920px-Jäckelchen-2.jpg---
 
 ## Overview
 

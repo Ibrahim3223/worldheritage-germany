@@ -4,13 +4,13 @@ site_name: "Hindenburgplatz"
 date: 2026-01-26
 draft: false
 description: "public square in Hildesheim, Germany"
-region: "Hildesheim"
+region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"
 categories:
   - "Square"
 regions:
-  - "Hildesheim"
+  - "Lower Saxony"
 wikidata_id: "Q994688"
 latitude: 52.1498
 longitude: 9.9545
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/400px-PvH.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/800px-PvH.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/1200px-PvH.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/1920px-PvH.JPG
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/1920px-PvH.JPG---
 
 ## Overview
 

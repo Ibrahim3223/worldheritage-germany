@@ -4,13 +4,13 @@ site_name: "Andreasstift"
 date: 2026-01-26
 draft: false
 description: "church"
-region: "Worms"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"
 categories:
   - "Monastery"
 regions:
-  - "Worms"
+  - "Baden-Württemberg"
 wikidata_id: "Q501567"
 latitude: 49.6282
 longitude: 8.35747
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/400px-Worms_sarcophagi.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/800px-Worms_sarcophagi.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/1200px-Worms_sarcophagi.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/1920px-Worms_sarcophagi.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/1920px-Worms_sarcophagi.jpg---
 
 ## Overview
 

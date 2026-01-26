@@ -4,13 +4,13 @@ site_name: "Feuerwehrmuseum Hermeskeil"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Hermeskeil"
+region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Hermeskeil"
+  - "Rhineland-Palatinate"
 wikidata_id: "Q2147872"
 latitude: 49.65552
 longitude: 6.94337
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/400px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/800px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/1200px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/1920px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/1920px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg---
 
 ## Overview
 

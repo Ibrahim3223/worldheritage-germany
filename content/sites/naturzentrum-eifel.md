@@ -4,13 +4,13 @@ site_name: "Naturzentrum Eifel"
 date: 2026-01-26
 draft: false
 description: "museum in Germany"
-region: "Nettersheim"
+region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"
 categories:
   - "Museum"
 regions:
-  - "Nettersheim"
+  - "North Rhine-Westphalia"
 wikidata_id: "Q1971642"
 latitude: 50.4898
 longitude: 6.62818
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/400px-Naturzentrum_Eifel-6709.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/800px-Naturzentrum_Eifel-6709.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/1200px-Naturzentrum_Eifel-6709.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/1920px-Naturzentrum_Eifel-6709.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/1920px-Naturzentrum_Eifel-6709.jpg---
 
 ## Overview
 

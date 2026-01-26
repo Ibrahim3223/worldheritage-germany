@@ -4,13 +4,13 @@ site_name: "Burg Honstetten"
 date: 2026-01-26
 draft: false
 description: "castle"
-region: "Eigeltingen"
+region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"
 categories:
   - "Castle"
 regions:
-  - "Eigeltingen"
+  - "Baden-Württemberg"
 wikidata_id: "Q1012484"
 latitude: 47.89258333
 longitude: 8.88361111
@@ -21,8 +21,7 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Turmburg_Honstetten_003.jpg/400px-Turmburg_Honstetten_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Turmburg_Honstetten_003.jpg/800px-Turmburg_Honstetten_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Turmburg_Honstetten_003.jpg/1200px-Turmburg_Honstetten_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Turmburg_Honstetten_003.jpg/1920px-Turmburg_Honstetten_003.jpg
----
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Turmburg_Honstetten_003.jpg/1920px-Turmburg_Honstetten_003.jpg---
 
 ## Overview
 
